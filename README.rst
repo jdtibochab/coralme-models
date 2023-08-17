@@ -1,4 +1,3 @@
-# coralme-models
 This is a repository containing all ME-models reconstructed using `coralME`_.
 
 .. refs
