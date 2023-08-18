@@ -1,0 +1,8 @@
+sigma,complex,genes,name
+RpoH_mono,RNAP_32H,b3461,"RNA polymerase, sigma 32 (sigma H) factor"
+RpoS_mono,RNAP_S38,b2741,"RNA polymerase, sigma S (sigma 38) factor"
+RpoE_mono,RNAP_24E,b2573,"RNA polymerase, sigma 24 (sigma E) factor"
+FliA_mono,RNAP_28F,b1922,"RNA polymerase, sigma 28 (sigma F) factor"
+RpoN_mono,RNAP_54N,b3202,"RNA polymerase, sigma 54 (sigma N) factor"
+FecI_mono,RNAP_19,b4293,"KpLE2 phage-like element; RNA polymerase, sigma 19 factor"
+RpoD_mono,RNAP_70D,b3067,"RNA polymerase, sigma 70 (sigma D) factor"

@@ -1,0 +1,10 @@
+pathway	enzyme
+sec	G12WB-247-MONOMER
+tat	CPLX_dummy
+tat_alt	CPLX_dummy
+bam	CPLX_dummy
+lol	CPLX_dummy
+yidC	G12WB-3870-MONOMER
+secA	G12WB-247-MONOMER
+srp_yidC	G12WB-3870-MONOMER
+srp	G12WB-1384-MONOMER

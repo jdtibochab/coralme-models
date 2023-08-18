@@ -1,0 +1,73 @@
+	central_CE	central_AFN	intermediate	secondary	other
+Fructose Metabolism	1	0	0	0	0
+Purine Biosynthesis	0	0	0	1	0
+Sucrose Metabolism	0	0	1	0	0
+Pentose Phosphate Pathway	0	0	1	0	0
+Pyrimidine Biosynthesis	0	1	0	0	0
+Purine Metabolism	0	0	0	1	0
+Glucuronate Metabolism	0	0	1	0	0
+Mannitol Metabolism	0	0	1	0	0
+Alanine and Aspartate Metabolism	1	0	0	0	0
+Laminarine Metabolism	0	0	1	0	0
+Glucan Metabolism	1	0	0	0	0
+Aminosugar Metabolism	0	0	1	0	0
+Energy Metabolism	1	0	0	0	0
+Rhamnose Metabolism	0	0	1	0	0
+Arginine Biosynthesis	0	0	0	0	0
+Pyruvate Met	1	0	0	0	0
+Lysine Biosynthesis	0	1	0	0	0
+Lipid Biosynthesis	0	0	1	0	0
+Glutamate Metabolism	1	0	0	0	0
+Trehalose Metabolism	0	0	1	0	0
+Arabinose Metabolism	0	0	1	0	0
+Cysteine Metabolism	0	1	0	0	0
+Glycolipid Synthesis	0	0	1	0	0
+Pantothenate and CoA Biosynthesis	0	0	1	0	0
+Peptidoglycan Biosynthesis	0	0	1	0	0
+Intracellular demand	0	0	0	1	0
+Riboflavin Metabolism	0	0	1	0	0
+NAD Metabolism	0	0	1	0	0
+Terpenoid biosynthesis	0	0	1	0	0
+Extracellular exchange	0	0	1	0	0
+Glycerophospholipid Metabolism	0	0	1	0	0
+Transport	0	0	1	0	0
+Fatty Acid Synthesis	1	0	0	0	0
+Carbohydrate Metabolism	1	0	0	0	0
+Proline Biosynthesis	0	1	0	0	0
+Intracellular source/sink	0	0	1	0	0
+Pyrimidine Metabolism	0	1	0	0	0
+Biomass and maintenance functions	0	0	1	0	0
+Valine, Leucine, and Isoleucine Metabolism	0	1	0	0	0
+Starch Metabolism	0	0	1	0	0
+Alternate Carbon Metabolism	0	0	0	1	0
+Galactose metabolism	0	0	1	0	0
+Glycolysis/Gluconeogenesis	1	0	0	0	0
+Inositol Metabolism	0	0	1	0	0
+Maltose Metabolism	0	0	1	0	0
+Threonine Metabolism	0	1	0	0	0
+Others	0	0	0	0	1
+Ribose Metabolism	0	0	1	0	0
+Glycine and Serine Metabolism	0	1	0	0	0
+Histidine Biosynthesis	0	1	0	0	0
+Biotin Biosynthesis	0	0	1	0	0
+Entner-Doudoroff pathway	1	0	0	0	0
+Citric Acid Cycle	1	0	0	0	0
+Thiamine Biosynthesis	0	1	0	0	0
+Glycogen Metabolism	1	0	0	0	0
+Glutamate and glutamin metabolism	0	1	0	0	0
+Glycogene synthesis	0	0	1	0	0
+Serine Metabolism	0	1	0	0	0
+Folate Metabolism	0	0	1	0	0
+Spermidine Biosynthesis	0	0	1	0	0
+Phenylalanine Tyrosine Tryptophan Biosynthesis	0	1	0	0	0
+Vitamin B6 Metabolism	0	0	1	0	0
+Chorismate Biosynthesis	0	0	1	0	0
+Raffinose Metabolism	0	0	1	0	0
+Pentose and Glucuronate Interconversions	0	0	1	0	0
+Cellulose Metabolism	0	0	1	0	0
+Mannan Metabolism	0	0	1	0	0
+tRNA Metabolism	0	1	0	0	0
+Butanoate Metabolism	0	0	1	0	0
+Pantothenate and CoA Metabolism	0	0	1	0	0
+Methionine Metabolism	0	1	0	0	0
+Xylan Metabolism	0	0	1	0	0

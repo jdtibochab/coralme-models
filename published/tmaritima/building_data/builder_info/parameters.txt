@@ -1,0 +1,3 @@
+,value
+GAM,25.0
+NGAM,1.0

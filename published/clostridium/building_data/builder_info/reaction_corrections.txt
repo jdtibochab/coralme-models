@@ -1,0 +1,11 @@
+,value
+5DOAN,"{'name': ""5'-deoxyadenosine nuclosidase"", 'gene_reaction_rule': 'CLJU_c10700', 'reaction': 'dad__5_c + h2o_c --> 5drib_c + ade_c', 'notes': ''}"
+BTDD-RRx,"{'name': '', 'gene_reaction_rule': 'CLJU_c23220', 'reaction': 'actn__R_c + h_c + nadph_c --> btd__RR_c + nadp_c', 'notes': ''}"
+BTDt-RR,"{'name': '', 'gene_reaction_rule': '', 'reaction': 'btd__RR_c --> btd__RR_e', 'notes': ''}"
+D-LACt2,"{'name': 'CLJU_c21610', 'gene_reaction_rule': '', 'reaction': 'h_e + lac__D_e --> h_c + lac__D_c', 'notes': ''}"
+DM_5DRIB,"{'name': ""Sink needed to allow 5'-deoxyribose to leave system"", 'gene_reaction_rule': '', 'reaction': '5drib_c -->', 'notes': ''}"
+EX_dpm_c,"{'name': '', 'gene_reaction_rule': '', 'reaction': 'dpm_c <=> ', 'notes': ''}"
+EX_glc__D_e,"{'name': '', 'gene_reaction_rule': '', 'reaction': 'glc__D_e --> ', 'notes': ''}"
+EX_lipoate_e,"{'name': '', 'gene_reaction_rule': '', 'reaction': 'lipoate_e <=> ', 'notes': ''}"
+EX_preq1_e,"{'name': '', 'gene_reaction_rule': '', 'reaction': 'preq1_e <=> ', 'notes': ''}"
+TYRt2r,"{'name': '', 'gene_reaction_rule': 'CLJU_c24250', 'reaction': 'h_e + tyr__L_e --> h_c + tyr__L_c', 'notes': ''}"

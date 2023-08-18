@@ -1,0 +1,57 @@
+,name,genes,source
+TM0150-MONOMER,50S ribosomal protein L32,TM0150(),GenBank
+TM0255-MONOMER,50S ribosomal protein L28,TM0255(),GenBank
+TM0451-MONOMER,50S ribosomal protein L33,TM0451(),GenBank
+TM0454-MONOMER,50S ribosomal protein L11,TM0454(),GenBank
+TM0455-MONOMER,50S ribosomal protein L1,TM0455(),GenBank
+TM0456-MONOMER,50S ribosomal protein L10,TM0456(),GenBank
+TM0457-MONOMER,50S ribosomal protein L7/L12,TM0457(),GenBank
+TM0603-MONOMER,30S ribosomal protein S6,TM0603(),GenBank
+TM0605-MONOMER,30S ribosomal protein S18,TM0605(),GenBank
+TM0762-MONOMER,30S ribosomal protein S2,TM0762(),GenBank
+TM0774-MONOMER,50S ribosomal protein L7ae family protein,TM0774(),GenBank
+TM0863-MONOMER,50S ribosomal protein L9,TM0863(),GenBank
+TM1079-MONOMER,50S ribosomal protein L11 methyltransferase,TM1079(),GenBank
+TM1344-MONOMER,30S ribosomal protein S15,TM1344(),GenBank
+TM1453-MONOMER,30S ribosomal protein S9,TM1453(),GenBank
+TM1454-MONOMER,50S ribosomal protein L13,TM1454(),GenBank
+TM1456-MONOMER,50S ribosomal protein L27,TM1456(),GenBank
+TM1458-MONOMER,50S ribosomal protein L21,TM1458(),GenBank
+TM1463a-MONOMER,50S ribosomal protein L34,TM1463a(),GenBank
+TM1471-MONOMER,50S ribosomal protein L17,TM1471(),GenBank
+TM1473-MONOMER,30S ribosomal protein S4,TM1473(),GenBank
+TM1474-MONOMER,30S ribosomal protein S11,TM1474(),GenBank
+TM1475-MONOMER,30S ribosomal protein S13,TM1475(),GenBank
+TM1476-MONOMER,50S ribosomal protein L36,TM1476(),GenBank
+TM1481-MONOMER,50S ribosomal protein L15,TM1481(),GenBank
+TM1482-MONOMER,50S ribosomal protein L30,TM1482(),GenBank
+TM1483-MONOMER,30S ribosomal protein S5,TM1483(),GenBank
+TM1484-MONOMER,50S ribosomal protein L18,TM1484(),GenBank
+TM1485-MONOMER,50S ribosomal protein L6,TM1485(),GenBank
+TM1486-MONOMER,30S ribosomal protein S8,TM1486(),GenBank
+TM1487-MONOMER,type Z 30S ribosomal protein S14,TM1487(),GenBank
+TM1488-MONOMER,50S ribosomal protein L5,TM1488(),GenBank
+TM1489-MONOMER,50S ribosomal protein L24,TM1489(),GenBank
+TM1490-MONOMER,50S ribosomal protein L14,TM1490(),GenBank
+TM1491-MONOMER,30S ribosomal protein S17,TM1491(),GenBank
+TM1492-MONOMER,50S ribosomal protein L29,TM1492(),GenBank
+TM1493-MONOMER,50S ribosomal protein L16,TM1493(),GenBank
+TM1494-MONOMER,30S ribosomal protein S3,TM1494(),GenBank
+TM1495-MONOMER,50S ribosomal protein L22,TM1495(),GenBank
+TM1496-MONOMER,30S ribosomal protein S19,TM1496(),GenBank
+TM1497-MONOMER,50S ribosomal protein L2,TM1497(),GenBank
+TM1498-MONOMER,50S ribosomal protein L23,TM1498(),GenBank
+TM1499-MONOMER,50S ribosomal protein L4,TM1499(),GenBank
+TM1500-MONOMER,50S ribosomal protein L3,TM1500(),GenBank
+TM1501-MONOMER,30S ribosomal protein S10,TM1501(),GenBank
+TM1504-MONOMER,30S ribosomal protein S7,TM1504(),GenBank
+TM1505-MONOMER,30S ribosomal protein S12,TM1505(),GenBank
+TM1534-MONOMER,50S ribosomal protein L31,TM1534(),GenBank
+TM1566-MONOMER,30S ribosomal protein S16,TM1566(),GenBank
+TM1571-MONOMER,50S ribosomal protein L19,TM1571(),GenBank
+TM1591-MONOMER,50S ribosomal protein L35,TM1591(),GenBank
+TM1592-MONOMER,50S ribosomal protein L20,TM1592(),GenBank
+TM1627-MONOMER,50S ribosomal protein L25,TM1627(),GenBank
+TM1657-MONOMER,30S ribosomal protein S20,TM1657(),GenBank
+TM1684-MONOMER,50S ribosomal protein L31,TM1684(),GenBank
+TM1862-MONOMER,30S ribosomal protein S12 methylthiotransferase RimO,TM1862(),GenBank

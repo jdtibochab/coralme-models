@@ -1,0 +1,10 @@
+pathway	enzyme
+sec	LLMG_RS00660-MONOMER
+tat	CPLX_dummy
+tat_alt	CPLX_dummy
+bam	CPLX_dummy
+lol	CPLX_dummy
+yidC	LLMG_RS00775-MONOMER
+secA	LLMG_RS00660-MONOMER
+srp_yidC	LLMG_RS00775-MONOMER
+srp	LLMG_RS08765-MONOMER

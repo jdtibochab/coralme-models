@@ -1,0 +1,4 @@
+type	enzymes
+monocistronic	B488_RS00375-MONOMER_mod_zn2(2),generic_RNase
+polycistronic_wout_rRNA	B488_RS00375-MONOMER_mod_zn2(2),generic_RNase,B488_RS03335-MONOMER
+rRNA_containing	B488_RS00375-MONOMER_mod_zn2(2),generic_RNase,B488_RS03335-MONOMER_mod_mg2(2)

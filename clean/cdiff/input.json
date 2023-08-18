@@ -1,0 +1,16 @@
+{
+  "m-model-path": "./cdiff/inputs/m_model.json",
+  "genbank-path": "./cdiff/inputs/genome.gb",
+  "biocyc.genes": "./cdiff/inputs/genes.txt",
+  "biocyc.prots": "./cdiff/inputs/proteins.txt",
+  "biocyc.TUs": "./cdiff/inputs/TUs.txt",
+  "biocyc.RNAs": "./cdiff/inputs/RNAs.txt",
+  "biocyc.seqs": "./cdiff/inputs/sequences.fasta",
+  "df_gene_cplxs_mods_rxns": "./cdiff/building_data/automated-org-with-refs.xlsx",
+  "df_TranscriptionalUnits": "",
+  "out_directory": "./cdiff/",
+  "log_directory": "./cdiff/",
+  "run_bbh_blast": true,
+  "dev_reference": true,
+  "include_pseudo_genes": true
+}

@@ -1,0 +1,17 @@
+{
+  "m-model-path": "./hpylori/inputs/m_model.json",
+  "genbank-path": "./hpylori/inputs/genome.gb",
+  "biocyc.genes": "./hpylori/inputs/genes.txt",
+  "biocyc.prots": "./hpylori/inputs/proteins.txt",
+  "biocyc.TUs": "./hpylori/inputs/TUs.txt",
+  "biocyc.RNAs": "./hpylori/inputs/RNAs.txt",
+  "biocyc.seqs": "./hpylori/inputs/sequences.fasta",
+  "df_gene_cplxs_mods_rxns": "./hpylori/building_data/automated-org-with-refs.xlsx",
+  "df_TranscriptionalUnits": "",
+  "out_directory": "./hpylori/",
+  "log_directory": "./hpylori/",
+  "run_bbh_blast": true,
+  "dev_reference": true,
+  "include_pseudo_genes": true,
+  "locus_tag" : "old_locus_tag"
+}

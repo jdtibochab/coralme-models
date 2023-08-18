@@ -1,0 +1,4 @@
+type	enzymes
+monocistronic	EG10859-MONOMER_mod_zn2(2),generic_RNase
+polycistronic_wout_rRNA	EG10859-MONOMER_mod_zn2(2),generic_RNase,EG10857-MONOMER,EG11299-MONOMER,EG11547-MONOMER_mod_mg2(4)
+rRNA_containing	EG10859-MONOMER_mod_zn2(2),generic_RNase,EG10857-MONOMER_mod_mg2(2),EG11299-MONOMER,EG11547-MONOMER_mod_mg2(4)

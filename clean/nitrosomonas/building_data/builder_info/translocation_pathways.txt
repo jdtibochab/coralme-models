@@ -1,0 +1,10 @@
+,value
+bam,{'enzymes': ['ALW85_RS04610-MONOMER']}
+lol,"{'enzymes': ['ALW85_RS05475-MONOMER', 'ALW85_RS09530-MONOMER']}"
+sec,"{'enzymes': ['ALW85_RS11550-MONOMER', 'ALW85_RS04220-MONOMER']}"
+secA,{'enzymes': ['ALW85_RS04220-MONOMER']}
+srp,{'enzymes': ['ALW85_RS07410-MONOMER']}
+srp_yidC,{'enzymes': ['ALW85_RS02050-MONOMER']}
+tat,{'enzymes': ['CPLX_dummy']}
+tat_alt,{'enzymes': ['CPLX_dummy']}
+yidC,{'enzymes': ['ALW85_RS02050-MONOMER']}

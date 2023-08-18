@@ -1,0 +1,16 @@
+{
+  "m-model-path": "./abaumannii/inputs/m_model.json",
+  "genbank-path": "./abaumannii/inputs/genome.gb",
+  "biocyc.genes": "./abaumannii/inputs/genes.txt",
+  "biocyc.prots": "./abaumannii/inputs/proteins.txt",
+  "biocyc.TUs": "./abaumannii/inputs/TUs.txt",
+  "biocyc.RNAs": "./abaumannii/inputs/RNAs.txt",
+  "biocyc.seqs": "./abaumannii/inputs/sequences.fasta",
+  "df_gene_cplxs_mods_rxns": "./abaumannii/building_data/automated-org-with-refs.xlsx",
+  "df_TranscriptionalUnits": "",
+  "out_directory": "./abaumannii/",
+  "log_directory": "./abaumannii/",
+  "run_bbh_blast": true,
+  "dev_reference": true,
+  "include_pseudo_genes": true
+}

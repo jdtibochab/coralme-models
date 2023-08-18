@@ -1,0 +1,5 @@
+,value
+RNAP_TM0534MONOMER,"{'sigma_factor': 'TM0534-MONOMER', 'polymerase': 'RNAP-CPLX_mod_zn2(1)_mod_mg2(2)'}"
+RNAP_TM0902MONOMER,"{'sigma_factor': 'TM0902-MONOMER', 'polymerase': 'RNAP-CPLX_mod_zn2(1)_mod_mg2(2)'}"
+RNAP_TM1451MONOMER,"{'sigma_factor': 'TM1451-MONOMER', 'polymerase': 'RNAP-CPLX_mod_zn2(1)_mod_mg2(2)'}"
+RNAP_TM1598MONOMER,"{'sigma_factor': 'TM1598-MONOMER', 'polymerase': 'RNAP-CPLX_mod_zn2(1)_mod_mg2(2)'}"

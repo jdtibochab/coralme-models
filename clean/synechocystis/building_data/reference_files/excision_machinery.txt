@@ -1,0 +1,4 @@
+type	enzymes
+monocistronic	SGL_RS02280-MONOMER_mod_zn2(2),generic_RNase
+polycistronic_wout_rRNA	SGL_RS02280-MONOMER_mod_zn2(2),generic_RNase,SGL_RS11650-MONOMER
+rRNA_containing	SGL_RS02280-MONOMER_mod_zn2(2),generic_RNase,SGL_RS11650-MONOMER_mod_mg2(2)

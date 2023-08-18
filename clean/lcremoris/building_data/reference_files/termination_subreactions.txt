@@ -1,0 +1,10 @@
+subreaction	enzymes
+DnaK_dependent_folding	LLMG_RS07930-MONOMER,LLMG_RS12570-MONOMER_mod_zn2(4),LLMG_RS07935-MONOMER
+GroEL_dependent_folding	LLMG_RS02100-MONOMER,LLMG_RS02095-MONOMER
+N_terminal_methionine_cleavage	LLMG_RS03000-MONOMER_mod_fe2(2)
+PrfA_mono_mediated_termination	LLMG_RS02900-MONOMER
+PrfB_mono_mediated_termination	LLMG_RS07780-MONOMER
+generic_RF_mediated_termination	generic_RF
+peptide_chain_release	LLMG_RS01895-MONOMER
+peptide_deformylase_processing	CPLX_dummy
+ribosome_recycler	LLMG_RS11465-MONOMER

@@ -1,0 +1,3 @@
+,value
+FusA_mono_elongation,{'enzymes': ['ALW85_RS10700-MONOMER']}
+Tuf_gtp_regeneration,{'enzymes': ['ALW85_RS08935-MONOMER']}

@@ -1,0 +1,12 @@
+,value
+generic_16Sm4Cm1402,"{'enzymes': ['STM0120-MONOMER', 'STM3263-MONOMER']}"
+generic_16s_rRNAs,"{'enzymes': ['RNA_STM0249', 'RNA_STM2659', 'RNA_STM3398', 'RNA_STM3889', 'RNA_STM3988', 'RNA_STM4132', 'RNA_STM4177']}"
+generic_23s_rRNAs,"{'enzymes': ['RNA_STM0252', 'RNA_STM2657', 'RNA_STM3396', 'RNA_STM3891', 'RNA_STM3991', 'RNA_STM4135', 'RNA_STM4179']}"
+generic_5s_rRNAs,"{'enzymes': ['RNA_STM0253', 'RNA_STM2656', 'RNA_STM3393', 'RNA_STM3894', 'RNA_STM3992', 'RNA_STM4136', 'RNA_STM4180']}"
+generic_Dus,"{'enzymes': ['STM4243-MONOMER', 'STM3384-MONOMER', 'STM2174-MONOMER']}"
+generic_LYSINEaaRS,{'enzymes': ['STM3040-MONOMER']}
+generic_RF,"{'enzymes': ['STM1776-MONOMER', 'STM3041-MONOMER']}"
+generic_RNase,"{'enzymes': ['STM1434-MONOMER_mod_mg2(4)', 'STM2313-MONOMER_mod_zn2(2)', 'STM1817-MONOMER_mod_mg2(5)', 'STM1702-MONOMER_mod_mg2(1)', 'STM3734-MONOMER_mod_mg2(1)']}"
+generic_Tuf,{'enzymes': ['STM4146-MONOMER']}
+generic_fes_transfers_complex,"{'enzymes': ['STM0204-MONOMER', 'STM1369-MONOMER', 'STM2541-MONOMER']}"
+generic_trp_ligase,"{'enzymes': ['STM3481-MONOMER', 'STM4508-MONOMER']}"

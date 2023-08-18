@@ -1,0 +1,10 @@
+,value
+bam,{'enzymes': ['S0052-MONOMER']}
+lol,"{'enzymes': ['S0891-MONOMER', 'S1296-MONOMER']}"
+sec,"{'enzymes': ['S4120-MONOMER', 'S0097-MONOMER']}"
+secA,{'enzymes': ['S0097-MONOMER']}
+srp,{'enzymes': ['S4281-MONOMER']}
+srp_yidC,{'enzymes': ['S4012-MONOMER']}
+tat,{'enzymes': ['S3840-MONOMER']}
+tat_alt,{'enzymes': ['S0676-MONOMER']}
+yidC,{'enzymes': ['S4012-MONOMER']}

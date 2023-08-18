@@ -1,0 +1,4 @@
+codon	enzyme
+UAG	G1G01-808-MONOMER
+UGA	G1G01-1586-MONOMER
+UAA	generic_RF

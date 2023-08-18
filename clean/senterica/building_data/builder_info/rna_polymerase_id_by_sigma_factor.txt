@@ -1,0 +1,8 @@
+,value
+RNAP_STM1956MONOMER,"{'sigma_factor': 'STM1956-MONOMER', 'polymerase': 'CPLX1R65-35_mod_zn2(1)_mod_mg2(2)'}"
+RNAP_STM2640MONOMER,"{'sigma_factor': 'STM2640-MONOMER', 'polymerase': 'CPLX1R65-35_mod_zn2(1)_mod_mg2(2)'}"
+RNAP_STM2924MONOMER,"{'sigma_factor': 'STM2924-MONOMER', 'polymerase': 'CPLX1R65-35_mod_zn2(1)_mod_mg2(2)'}"
+RNAP_STM3211MONOMER,"{'sigma_factor': 'STM3211-MONOMER', 'polymerase': 'CPLX1R65-35_mod_zn2(1)_mod_mg2(2)'}"
+RNAP_STM3320MONOMER,"{'sigma_factor': 'STM3320-MONOMER', 'polymerase': 'CPLX1R65-35_mod_zn2(1)_mod_mg2(2)'}"
+RNAP_STM3568MONOMER,"{'sigma_factor': 'STM3568-MONOMER', 'polymerase': 'CPLX1R65-35_mod_zn2(1)_mod_mg2(2)'}"
+RNAP_STM4165MONOMER,"{'sigma_factor': 'STM4165-MONOMER', 'polymerase': 'CPLX1R65-35_mod_zn2(1)_mod_mg2(2)'}"

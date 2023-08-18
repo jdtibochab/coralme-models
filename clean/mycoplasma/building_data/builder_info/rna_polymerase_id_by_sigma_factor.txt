@@ -1,0 +1,2 @@
+,value
+RNAP_JCVISYN3A0407MONOMER,"{'sigma_factor': 'JCVISYN3A_0407-MONOMER', 'polymerase': 'RNAP-CPLX_mod_zn2(1)_mod_mg2(2)'}"

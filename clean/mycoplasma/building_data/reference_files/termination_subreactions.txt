@@ -1,0 +1,10 @@
+subreaction	enzymes
+DnaK_dependent_folding	JCVISYN3A_0542-MONOMER,JCVISYN3A_0541-MONOMER_mod_zn2(4)
+GroEL_dependent_folding	CPLX_dummy
+N_terminal_methionine_cleavage	JCVISYN3A_0650-MONOMER_mod_fe2(2)
+PrfA_mono_mediated_termination	JCVISYN3A_0141-MONOMER
+PrfB_mono_mediated_termination	CPLX_dummy
+generic_RF_mediated_termination	generic_RF
+peptide_chain_release	CPLX_dummy
+peptide_deformylase_processing	JCVISYN3A_0201-MONOMER_mod_fe2(1)
+ribosome_recycler	JCVISYN3A_0536-MONOMER

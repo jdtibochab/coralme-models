@@ -1,0 +1,271 @@
+id	me_id	name	formula	compartment	type
+12mtt2eACP_c					CURATE
+10m3ouACP_c					CURATE
+10m3uACP_c					CURATE
+10mdACP_c					CURATE
+10mtd2eACP_c					CURATE
+2mbutACP_c					CURATE
+10mtu2eACP_c					CURATE
+10muACP_c					CURATE
+11m3hdACP_c					CURATE
+11m3odACP_c					CURATE
+11mdACP_c					CURATE
+11mtdeACP_c					CURATE
+123oxtACP_c					CURATE
+12m3htdACP_c					CURATE
+12m3otACP_c					CURATE
+12mdhtACP_c					CURATE
+13m3htdACP_c					CURATE
+13m3otdACP_c					CURATE
+13mtdACP_c					CURATE
+13mtdACP_e					CURATE
+13mttd2eACP_c					CURATE
+12mtACP_c					CURATE
+12mtACP_e					CURATE
+14m3hdACP_c					CURATE
+14m3hpACP_c					CURATE
+14m3ohdACP_c					CURATE
+14m3opACP_c					CURATE
+14mhdACP_c					CURATE
+14mhdACP_e					CURATE
+14mpACP_c					CURATE
+14mpACP_e					CURATE
+14mthdeACP_c					CURATE
+14mtp2eACP_c					CURATE
+15m3hdACP_c					CURATE
+15m3ohdACP_c					CURATE
+15methexeACP_c					CURATE
+15mhdACP_c					CURATE
+15mhdACP_e					CURATE
+16m3hdACP_c					CURATE
+16m3hpACP_c					CURATE
+16m3ohdACP_c					CURATE
+16m3opACP_c					CURATE
+16mhdACP_c					CURATE
+16mhdACP_e					CURATE
+16mpACP_c					CURATE
+16mpACP_e					CURATE
+16mthdeACP_c					CURATE
+16mtp2eACP_c					CURATE
+17m3hdACP_c					CURATE
+17m3ohdACP_c					CURATE
+17mhdACP_c					CURATE
+17mhdACP_e					CURATE
+17mthdeACP_c					CURATE
+3hgmeACP_c					CURATE
+3hocACP_c					CURATE
+3hodACP_c					CURATE
+4m3hhexACP_c					CURATE
+3hoddecACP_c					CURATE
+4m3ohexACP_c					CURATE
+3hpaACP_c					CURATE
+4m3opACP_c					CURATE
+3hpmeACP_c					CURATE
+3hvegACP_c					CURATE
+4methex2eACP_c					CURATE
+4methexACP_c					CURATE
+4mpACP_c					CURATE
+4mtpACP_c					CURATE
+3oodACP_c					CURATE
+3ovegACP_c					CURATE
+3oxddACP_c					CURATE
+3oxhdACP_c					CURATE
+3oxocACP_c					CURATE
+5m3hACP_c					CURATE
+5m3hhACP_c					CURATE
+5mhACP_c					CURATE
+6m3hhACP_c					CURATE
+6m3hoACP_c					CURATE
+6m3oACP_c					CURATE
+6m3ohACP_c					CURATE
+6mhACP_c					CURATE
+6moACP_c					CURATE
+6mth2eACP_c					CURATE
+6mto2eACP_c					CURATE
+7am7dgtrna_c					CURATE
+7m3hoACP_c					CURATE
+7moACP_c					CURATE
+7mto2eACP_c					CURATE
+8m3hdACP_c					CURATE
+8m3hnACP_c					CURATE
+8m3odACP_c					CURATE
+8m3oxACP_c					CURATE
+8mcACP_c					CURATE
+8mdACP_c					CURATE
+8mtd2eACP_c					CURATE
+acACP_MRSA_c					CURATE
+8mtn2eACP_c					CURATE
+9m3hdACP_c					CURATE
+acACP_MRSA_e					CURATE
+9m3odACP_c					CURATE
+9mdACP_c					CURATE
+9mtd2eACP_c					CURATE
+asptrnaasn_c					CURATE
+alaACP_c					CURATE
+epquetrna_c					CURATE
+guatrna_c					CURATE
+hedACP_c					CURATE
+hedACP_e					CURATE
+glmeACP_c					CURATE
+isobutACP_c					CURATE
+isovACP_c					CURATE
+malmeACP_c					CURATE
+octACP_c					CURATE
+octACP_e					CURATE
+quetrna_c					CURATE
+r3hbACP_c					CURATE
+myrsACP_e					CURATE
+pmlmeACP_c					CURATE
+tvegeACP_c					CURATE
+skgmeACP_c					CURATE
+skpmeACP_c					CURATE
+dcaACP_e					CURATE
+vegACP_c					CURATE
+vegACP_e					CURATE
+to2eACP_c					CURATE
+trnagua_c					CURATE
+butACP_e					CURATE
+alatrna_c					REMOVE
+argtrna_c					REMOVE
+asntrna_c					REMOVE
+asptrna_c					REMOVE
+bwco1gdp_c					REMOVE
+bwco_c					REMOVE
+bwcogdp_c					REMOVE
+cystrna_c					REMOVE
+fmettrna_c					REMOVE
+glntrna_c					REMOVE
+glutrna_c					REMOVE
+glytrna_c					REMOVE
+histrna_c					REMOVE
+iletrna_c					REMOVE
+leutrna_c					REMOVE
+lipopb_c					REMOVE
+lystrna_c					REMOVE
+mettrna_c					REMOVE
+octapb_c					REMOVE
+phetrna_c					REMOVE
+protrna_c					REMOVE
+sectrna_c					REMOVE
+sertrna[sec]_c					REMOVE
+sertrna_c					REMOVE
+thrtrna_c					REMOVE
+trnaala_c					REMOVE
+trnaarg_c					REMOVE
+trnaasn_c					REMOVE
+trnaasp_c					REMOVE
+trnacys_c					REMOVE
+trnagln_c					REMOVE
+trnaglu_c					REMOVE
+trnagly_c					REMOVE
+trnahis_c					REMOVE
+trnaile_c					REMOVE
+trnaleu_c					REMOVE
+trnalys_c					REMOVE
+trnamet_c					REMOVE
+trnaphe_c					REMOVE
+trnapro_c					REMOVE
+trnasecys_c					REMOVE
+trnaser_c					REMOVE
+trnathr_c					REMOVE
+trnatrp_c					REMOVE
+trnatyr_c					REMOVE
+trnaval_c					REMOVE
+trptrna_c					REMOVE
+tyrtrna_c					REMOVE
+valtrna_c					REMOVE
+wco_c					REMOVE
+2fe1s_c					REMOVE
+apoACP_c	USA300HOU_RS06195-MONOMER				REPLACE
+ACP_c	USA300HOU_RS06195-MONOMER_mod_pan4p(1)				REPLACE
+3haACP_c	USA300HOU_RS06195-MONOMER_mod_pan4p(1)_mod_3ha(1)				REPLACE
+3hcddec5eACP_c	USA300HOU_RS06195-MONOMER_mod_pan4p(1)_mod_3hcddec5e(1)				REPLACE
+3hcmrs7eACP_c	USA300HOU_RS06195-MONOMER_mod_pan4p(1)_mod_3hcmrs7e(1)				REPLACE
+3hcvac11eACP_c	USA300HOU_RS06195-MONOMER_mod_pan4p(1)_mod_3hcvac11e(1)				REPLACE
+3hddecACP_c	USA300HOU_RS06195-MONOMER_mod_pan4p(1)_mod_3hddec(1)				REPLACE
+3hdecACP_c	USA300HOU_RS06195-MONOMER_mod_pan4p(1)_mod_3hdec(1)				REPLACE
+3hhexACP_c	USA300HOU_RS06195-MONOMER_mod_pan4p(1)_mod_3hhex(1)				REPLACE
+3hmrsACP_c	USA300HOU_RS06195-MONOMER_mod_pan4p(1)_mod_3hmrs(1)				REPLACE
+3hoctACP_c	USA300HOU_RS06195-MONOMER_mod_pan4p(1)_mod_3hoct(1)				REPLACE
+3hoctaACP_c	USA300HOU_RS06195-MONOMER_mod_pan4p(1)_mod_3hocta(1)				REPLACE
+3hpalmACP_c	USA300HOU_RS06195-MONOMER_mod_pan4p(1)_mod_3hpalm(1)				REPLACE
+3ocddec5eACP_c	USA300HOU_RS06195-MONOMER_mod_pan4p(1)_mod_3ocddec5e(1)				REPLACE
+3ocmrs7eACP_c	USA300HOU_RS06195-MONOMER_mod_pan4p(1)_mod_3ocmrs7e(1)				REPLACE
+3ocvac11eACP_c	USA300HOU_RS06195-MONOMER_mod_pan4p(1)_mod_3ocvac11e(1)				REPLACE
+3oddecACP_c	USA300HOU_RS06195-MONOMER_mod_pan4p(1)_mod_3oddec(1)				REPLACE
+3odecACP_c	USA300HOU_RS06195-MONOMER_mod_pan4p(1)_mod_3odec(1)				REPLACE
+3ohexACP_c	USA300HOU_RS06195-MONOMER_mod_pan4p(1)_mod_3ohex(1)				REPLACE
+3omrsACP_c	USA300HOU_RS06195-MONOMER_mod_pan4p(1)_mod_3omrs(1)				REPLACE
+3ooctACP_c	USA300HOU_RS06195-MONOMER_mod_pan4p(1)_mod_3ooct(1)				REPLACE
+3ooctdACP_c	USA300HOU_RS06195-MONOMER_mod_pan4p(1)_mod_3ooctd(1)				REPLACE
+3opalmACP_c	USA300HOU_RS06195-MONOMER_mod_pan4p(1)_mod_3opalm(1)				REPLACE
+acACP_c	USA300HOU_RS06195-MONOMER_mod_pan4p(1)_mod_ac(1)				REPLACE
+actACP_c	USA300HOU_RS06195-MONOMER_mod_pan4p(1)_mod_act(1)				REPLACE
+butACP_c	USA300HOU_RS06195-MONOMER_mod_pan4p(1)_mod_but(1)				REPLACE
+but2eACP_c	USA300HOU_RS06195-MONOMER_mod_pan4p(1)_mod_but2e(1)				REPLACE
+cddec5eACP_c	USA300HOU_RS06195-MONOMER_mod_pan4p(1)_mod_cddec5e(1)				REPLACE
+cdec3eACP_c	USA300HOU_RS06195-MONOMER_mod_pan4p(1)_mod_cdec3e(1)				REPLACE
+dcaACP_c	USA300HOU_RS06195-MONOMER_mod_pan4p(1)_mod_dca(1)				REPLACE
+ddcaACP_c	USA300HOU_RS06195-MONOMER_mod_pan4p(1)_mod_ddca(1)				REPLACE
+egmeACP_c	USA300HOU_RS06195-MONOMER_mod_pan4p(1)_mod_egme(1)				REPLACE
+epmeACP_c	USA300HOU_RS06195-MONOMER_mod_pan4p(1)_mod_epme(1)				REPLACE
+gmeACP_c	USA300HOU_RS06195-MONOMER_mod_pan4p(1)_mod_gme(1)				REPLACE
+hdeACP_c	USA300HOU_RS06195-MONOMER_mod_pan4p(1)_mod_hde(1)				REPLACE
+hexACP_c	USA300HOU_RS06195-MONOMER_mod_pan4p(1)_mod_hex(1)				REPLACE
+hgmeACP_c	USA300HOU_RS06195-MONOMER_mod_pan4p(1)_mod_hgme(1)				REPLACE
+hpmeACP_c	USA300HOU_RS06195-MONOMER_mod_pan4p(1)_mod_hpme(1)				REPLACE
+malACP_c	USA300HOU_RS06195-MONOMER_mod_pan4p(1)_mod_mal(1)				REPLACE
+myrsACP_c	USA300HOU_RS06195-MONOMER_mod_pan4p(1)_mod_myrs(1)				REPLACE
+ocACP_c	USA300HOU_RS06195-MONOMER_mod_pan4p(1)_mod_oc(1)				REPLACE
+ocdcaACP_c	USA300HOU_RS06195-MONOMER_mod_pan4p(1)_mod_ocdca(1)				REPLACE
+octeACP_c	USA300HOU_RS06195-MONOMER_mod_pan4p(1)_mod_octe(1)				REPLACE
+ogmeACP_c	USA300HOU_RS06195-MONOMER_mod_pan4p(1)_mod_ogme(1)				REPLACE
+opmeACP_c	USA300HOU_RS06195-MONOMER_mod_pan4p(1)_mod_opme(1)				REPLACE
+palmACP_c	USA300HOU_RS06195-MONOMER_mod_pan4p(1)_mod_palm(1)				REPLACE
+pimACP_c	USA300HOU_RS06195-MONOMER_mod_pan4p(1)_mod_pim(1)				REPLACE
+pmeACP_c	USA300HOU_RS06195-MONOMER_mod_pan4p(1)_mod_pme(1)				REPLACE
+t3c11vaceACP_c	USA300HOU_RS06195-MONOMER_mod_pan4p(1)_mod_t3c11vace(1)				REPLACE
+t3c5ddeceACP_c	USA300HOU_RS06195-MONOMER_mod_pan4p(1)_mod_t3c5ddece(1)				REPLACE
+t3c7mrseACP_c	USA300HOU_RS06195-MONOMER_mod_pan4p(1)_mod_t3c7mrse(1)				REPLACE
+t3c9palmeACP_c	USA300HOU_RS06195-MONOMER_mod_pan4p(1)_mod_t3c9palme(1)				REPLACE
+tddec2eACP_c	USA300HOU_RS06195-MONOMER_mod_pan4p(1)_mod_tddec2e(1)				REPLACE
+tdeACP_c	USA300HOU_RS06195-MONOMER_mod_pan4p(1)_mod_tde(1)				REPLACE
+tdec2eACP_c	USA300HOU_RS06195-MONOMER_mod_pan4p(1)_mod_tdec2e(1)				REPLACE
+thex2eACP_c	USA300HOU_RS06195-MONOMER_mod_pan4p(1)_mod_thex2e(1)				REPLACE
+tmrs2eACP_c	USA300HOU_RS06195-MONOMER_mod_pan4p(1)_mod_tmrs2e(1)				REPLACE
+toct2eACP_c	USA300HOU_RS06195-MONOMER_mod_pan4p(1)_mod_toct2e(1)				REPLACE
+toctd2eACP_c	USA300HOU_RS06195-MONOMER_mod_pan4p(1)_mod_toctd2e(1)				REPLACE
+tpalm2eACP_c	USA300HOU_RS06195-MONOMER_mod_pan4p(1)_mod_tpalm2e(1)				REPLACE
+iscs_c	USA300HOU_RS08635-MONOMER_mod_pydx5p(2)				REPLACE
+iscu_c	USA300HOU_RS04530-MONOMER				REPLACE
+trdrd_c	USA300HOU_RS05725-MONOMER				REPLACE
+trdox_c	USA300HOU_RS05725-MONOMER_mod_Oxidized(1)				REPLACE
+LI_c					CURATE
+sufbcd_c					CURATE
+sufbcd_2fe2s_c					CURATE
+sufbcd_2fe2s2_c					CURATE
+sufbcd_4fe4s_c					CURATE
+sufse_c					CURATE
+sufsesh_c					CURATE
+dsbard_p					CURATE
+dsbaox_p					CURATE
+dsbcrd_p					CURATE
+dsbcox_p					CURATE
+dsbdrd_c					CURATE
+dsbdox_c					CURATE
+dsbgrd_p					CURATE
+dsbgox_p					CURATE
+lpp_p					CURATE
+alpp_p					CURATE
+moadamp_c					CURATE
+moadcoo_c					CURATE
+moadcosh_c					CURATE
+3hcpalm9eACP_c					CURATE
+3ocpalm9eACP_c					CURATE
+flxr_c					CURATE
+fldrd_c					CURATE
+flxso_c					CURATE
+fldox_c					CURATE
+grxrd_c					CURATE
+grxox_c					CURATE
+iscssh_c					CURATE

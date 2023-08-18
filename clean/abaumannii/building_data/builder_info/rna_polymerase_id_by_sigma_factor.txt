@@ -1,0 +1,5 @@
+,value
+RNAP_ABAYERS04385MONOMER,"{'sigma_factor': 'ABAYE_RS04385-MONOMER', 'polymerase': 'CPLX1SOZ-9_mod_zn2(1)_mod_mg2(2)'}"
+RNAP_ABAYERS04995MONOMER,"{'sigma_factor': 'ABAYE_RS04995-MONOMER', 'polymerase': 'CPLX1SOZ-9_mod_zn2(1)_mod_mg2(2)'}"
+RNAP_ABAYERS06515MONOMER,"{'sigma_factor': 'ABAYE_RS06515-MONOMER', 'polymerase': 'CPLX1SOZ-9_mod_zn2(1)_mod_mg2(2)'}"
+RNAP_ABAYERS15620MONOMER,"{'sigma_factor': 'ABAYE_RS15620-MONOMER', 'polymerase': 'CPLX1SOZ-9_mod_zn2(1)_mod_mg2(2)'}"

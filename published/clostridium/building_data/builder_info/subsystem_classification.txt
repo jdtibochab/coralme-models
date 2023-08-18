@@ -1,0 +1,47 @@
+,value
+Alanine and Aspartate Metabolism,other
+Alternate Carbon Metabolism,other
+Amino Acids and Derivatives,other
+Anaplerotic Reactions,other
+Arginine and Proline Metabolism,other
+Carbohydrates,other
+Cell Envelope Biosynthesis,other
+Cell Wall and Capsule,other
+Citric Acid Cycle,other
+Cofactor and Prosthetic Group Biosynthesis,other
+"Cofactors, Vitamins, Prosthetic Groups, Pigments",other
+Cysteine Metabolism,other
+Demand,other
+Exchange,other
+"Fatty Acids, Lipids, and Isoprenoids",other
+Folate Metabolism,other
+Glutamate Metabolism,other
+Glycerophospholipid Metabolism,other
+Glycine and Serine Metabolism,other
+Glycolysis/Gluconeogenesis,other
+Glyoxylate Metabolism,other
+Histidine Metabolism,other
+Membrane Lipid Metabolism,other
+Membrane Transport,other
+Methionine Metabolism,other
+Methylglyoxal Metabolism,other
+Miscellaneous,other
+Nitrogen Metabolism,other
+Nucleosides and Nucleotides,other
+Nucleotide Salvage Pathway,other
+Oxidative Phosphorylation,other
+Pentose Phosphate Pathway,other
+Phosphorus Metabolism,other
+Potassium metabolism,other
+Protein Metabolism,other
+Purine and Pyrimidine Biosynthesis,other
+Pyruvate Metabolism,other
+Respiration,other
+Stress Response,other
+Sulfur Metabolism,other
+Threonine and Lysine Metabolism,other
+Transport,other
+"Tyrosine, Tryptophan, and Phenylalanine Metabolism",other
+Unassigned,other
+"Valine, Leucine, and Isoleucine Metabolism",other
+tRNA Charging,other

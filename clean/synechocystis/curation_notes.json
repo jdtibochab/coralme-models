@@ -1,0 +1,1734 @@
+{
+    "org.check_m_model": [
+        {
+            "msg": "Some metabolites have a problematic formula. If these metabolites are used in protein modifications, or other subreactions, it will cause an error.",
+            "triggered_by": [
+                "photon680_e",
+                "photon700_e",
+                "z_c",
+                "trnaglu_c",
+                "glutrna_c",
+                "fdxrd_c",
+                "fdxo_2_2_c",
+                "fdred_c",
+                "fdox_c",
+                "oxRieskeB6_y",
+                "rdRieskeB6_y",
+                "pcox_p",
+                "pcrd_p",
+                "ficytc6_p",
+                "focytc6_p",
+                "oxRieskeB6_u",
+                "rdRieskeB6_u",
+                "pcox_l",
+                "pcrd_l",
+                "ficytc6_l",
+                "focytc6_l",
+                "e700_u",
+                "e_PSI",
+                "e_c",
+                "e680_u",
+                "e_PSII",
+                "feche_e",
+                "feche_c",
+                "3hdecACP_c",
+                "tdec2eACP_c",
+                "3hddecACP_c",
+                "tddec2eACP_c",
+                "3hcddec5eACP_c",
+                "t3c5ddeceACP_c",
+                "3hmrsACP_c",
+                "tmrs2eACP_c",
+                "3hcmrs7eACP_c",
+                "t3c7mrseACP_c",
+                "3hpalmACP_c",
+                "tpalm2eACP_c",
+                "3hcpalm9eACP_c",
+                "t3c9palmeACP_c",
+                "3hoctaACP_c",
+                "toctd2eACP_c",
+                "3hcvac11eACP_c",
+                "t3c11vaceACP_c",
+                "3hbutACP_c",
+                "but2eACP_c",
+                "3hhexACP_c",
+                "thex2eACP_c",
+                "3hoctACP_c",
+                "toct2eACP_c",
+                "3odecACP_c",
+                "3oddecACP_c",
+                "3ocddec5eACP_c",
+                "3omrsACP_c",
+                "3ocmrs7eACP_c",
+                "3opalmACP_c",
+                "3ocpalm9eACP_c",
+                "3ooctdACP_c",
+                "3ocvac11eACP_c",
+                "actACP_c",
+                "3ohexACP_c",
+                "3ooctACP_c",
+                "malACP_c",
+                "ocACP_c",
+                "ACP_c",
+                "dcaACP_c",
+                "cdec3eACP_c",
+                "ddcaACP_c",
+                "cddec5eACP_c",
+                "myrsACP_c",
+                "tdeACP_c",
+                "palmACP_c",
+                "hdeACP_c",
+                "butACP_c",
+                "hexACP_c",
+                "acACP_c",
+                "ocdcaACP_c",
+                "octeACP_c",
+                "octe_9_ACP_c",
+                "octe_9_12_ACP_c",
+                "octe_6_9_12_ACP_c",
+                "octe_9_12_15_ACP_c",
+                "octe_6_9_12_15_ACP_c",
+                "trnaala_c",
+                "alatrna_c",
+                "trnaarg_c",
+                "argtrna_c",
+                "grxrd_c",
+                "grxox_c",
+                "asptrna_asn_c",
+                "asntrna_c",
+                "trnaasn_c",
+                "trnaasp_c",
+                "asptrna_c",
+                "trnacys_c",
+                "cystrna_c",
+                "hdeceACP_c",
+                "mettrna_c",
+                "fmettrna_c",
+                "trdox_c",
+                "trdrd_c",
+                "glutrna_gln_c",
+                "glntrna_c",
+                "lprot_c",
+                "samprot_c",
+                "dhlprot_c",
+                "trnagly_c",
+                "glytrna_c",
+                "trnahis_c",
+                "histrna_c",
+                "trnaile_c",
+                "iletrna_c",
+                "trnaleu_c",
+                "leutrna_c",
+                "trnalys_c",
+                "lystrna_c",
+                "trnamet_c",
+                "trnauri_c",
+                "trnarib_c",
+                "trnaphe_c",
+                "phetrna_c",
+                "trnapro_c",
+                "protrna_c",
+                "trnaser_c",
+                "sertrna_c",
+                "trnathr_c",
+                "thrtrna_c",
+                "trnatrp_c",
+                "trptrna_c",
+                "trnatyr_c",
+                "tyrtrna_c",
+                "trnaval_c",
+                "valtrna_c",
+                "ogmeACP_c",
+                "hgmeACP_c",
+                "egmeACP_c",
+                "gmeACP_c",
+                "opmeACP_c",
+                "hpmeACP_c",
+                "epmeACP_c",
+                "pmeACP_c",
+                "pimACP_c"
+            ],
+            "importance": "critical",
+            "to_do": "Correct the formulas of the listed metabolites. Some metabolite formulas are critical for the completion of this pipeline. If homology is ON, this pipeline will try to fill in the formulas from the reference."
+        },
+        {
+            "msg": "Some reactions are missing their subsystem",
+            "triggered_by": [
+                "DM_dialurate_c",
+                "DM_z_c",
+                "CupAS",
+                "CupB",
+                "NDH2_1p",
+                "NDH2_syn",
+                "NDH2_2p",
+                "FDH6_1",
+                "FDH6pp",
+                "34DHOXPEGOX",
+                "34HPPOR",
+                "3HAD100",
+                "3HAD120",
+                "3HAD121",
+                "3HAD140",
+                "3HAD141",
+                "3HAD160",
+                "3HAD161",
+                "3HAD180",
+                "3HAD181",
+                "3HAD40_2",
+                "3HAD60",
+                "3HAD80",
+                "3OAR100",
+                "3OAR120",
+                "3OAR121",
+                "3OAR140",
+                "3OAR141",
+                "3OAR160",
+                "3OAR161",
+                "3OAR180",
+                "3OAR181",
+                "3OAR40_2",
+                "3OAR60",
+                "3OAR80",
+                "3OAS100",
+                "3OAS120",
+                "3OAS121",
+                "3OAS140",
+                "3OAS141",
+                "3OAS160",
+                "3OAS161",
+                "3OAS180",
+                "3OAS181",
+                "3OAS60",
+                "3OAS80",
+                "4HTHBPNDH",
+                "4PEOR",
+                "5DOAN",
+                "AACOAR_syn",
+                "AALACPTD",
+                "ABTA",
+                "ABUTD",
+                "ACACT1r",
+                "ACCOAC",
+                "ACGK",
+                "ACGS",
+                "ACHBS2",
+                "ACKr",
+                "ACLSa_1",
+                "ACLSb_1",
+                "ACOATA",
+                "ACODA",
+                "ACONTa_1",
+                "ACONTb_1",
+                "ACOTA",
+                "ACP1_FMN",
+                "ACS",
+                "ADCL",
+                "ADCS",
+                "ADK1",
+                "ADNCYC",
+                "ADPRDP",
+                "ADPT",
+                "ADPT2",
+                "ADSK",
+                "ADSL1r",
+                "ADSL2r",
+                "ADSS",
+                "AGMT",
+                "AGPR",
+                "AGTi",
+                "AHMMPDPT",
+                "AHMMPS2",
+                "AHSERL2",
+                "AICART",
+                "AIRCra",
+                "AIRCrb",
+                "ALAALAr",
+                "ALAD_L2",
+                "ALAR",
+                "ALATRS",
+                "ALCD19",
+                "ALCD19y",
+                "ALCD2ir",
+                "ALCD2y",
+                "ALDD20x",
+                "ALDD2x",
+                "AMID_2",
+                "AMID2_1",
+                "AMID3_1",
+                "AMPD2",
+                "AMPN",
+                "AMPTASECG",
+                "AMYLS",
+                "ANPRT",
+                "ANS",
+                "ANSN",
+                "APRAUR",
+                "APTRS",
+                "ARGDC",
+                "ARGDI_1",
+                "ARGN",
+                "ARGSL",
+                "ARGSS",
+                "ARGTRS",
+                "ARSNR",
+                "ASAD",
+                "ASNN_1",
+                "ASNS1",
+                "ASNTRAT",
+                "ASNTRS",
+                "ASP1DC",
+                "ASPCT",
+                "ASPK",
+                "ASPO5_2",
+                "ASPO6",
+                "ASPTA",
+                "ASPTRS",
+                "ATPADT",
+                "ATPM",
+                "ATPPRT",
+                "BAMPPALDOX",
+                "BCAROHX11",
+                "BCAROHX21",
+                "BCAROKE",
+                "BCAROKE2",
+                "BPNT",
+                "BPNT2",
+                "CBMK4",
+                "CBPS",
+                "CDPMEK",
+                "CHORM",
+                "CHORS",
+                "CHRPL",
+                "CS",
+                "CSND_1",
+                "CTPS1_2",
+                "CTPS2",
+                "CYNTAH_1",
+                "CYPHYC",
+                "CYPHYS",
+                "CYSS",
+                "CYSTA",
+                "CYSTL",
+                "CYSTRS",
+                "CYTDH",
+                "CYTK1",
+                "DADK",
+                "DAMPPH",
+                "DAPDC",
+                "DAPE",
+                "DASYN160",
+                "DASYN161",
+                "DASYN180",
+                "DASYN181",
+                "DASYN181_9",
+                "DASYN182_9_12",
+                "DASYN183_6_9_12",
+                "DASYN183_9_12_15",
+                "DASYN184_6_9_12_15",
+                "DB4PS",
+                "DBTS",
+                "DCPLD1",
+                "DCTPD_1",
+                "DCTPD2_1",
+                "DDPA",
+                "DDPGA",
+                "DES2_12",
+                "DES2_15",
+                "DES2_6",
+                "DES2_6B",
+                "DES2_9",
+                "DES2_C16",
+                "DGDG160",
+                "DGDG161",
+                "DGDG180",
+                "DGDG181",
+                "DGDG181_9",
+                "DGDG182_9_12",
+                "DGDG183_6_9_12",
+                "DGDG183_9_12_15",
+                "DGDG184_6_9_12_15",
+                "DHAD1",
+                "DHAD2",
+                "DHDPRy",
+                "DHDPS",
+                "DHFR",
+                "DHFS",
+                "DHNAPHT1-mod",
+                "DHNPA_1",
+                "DHORDfum",
+                "DHORTS",
+                "DHPPDA_2",
+                "DHPS",
+                "DHPTNR2",
+                "DHQS",
+                "DHQTi",
+                "DMATT",
+                "DMBZS1",
+                "DMPPS_syn",
+                "DMTPHT",
+                "DNMPPA",
+                "DNTPPA",
+                "DPCOAK",
+                "DPGM",
+                "DPPS",
+                "DPR",
+                "DRBK",
+                "DRPA",
+                "DTMPK",
+                "DXPRIi",
+                "DXPS",
+                "E4POR1",
+                "EAR100y",
+                "EAR120y",
+                "EAR121y",
+                "EAR140y",
+                "EAR141y",
+                "EAR160y",
+                "EAR161y",
+                "EAR180y",
+                "EAR181y",
+                "EAR40y",
+                "EAR60y",
+                "EAR80y",
+                "ECHINH",
+                "EHGLAT",
+                "ENO",
+                "ETAK",
+                "FBA",
+                "FBA2",
+                "FBA3",
+                "FBP",
+                "FMETTRS",
+                "FMNAT",
+                "FMNRx2",
+                "FNOR",
+                "FOLD3",
+                "FOMETRi",
+                "FRTT",
+                "FTHFCL",
+                "FTHFD",
+                "FTHFLi",
+                "FTR",
+                "FUM",
+                "G1PACT",
+                "G1PCTYT",
+                "G1PTT",
+                "G3PAT160",
+                "G3PAT161",
+                "G3PAT180",
+                "G3PAT181",
+                "G3PAT181_9",
+                "G3PAT182_9_12",
+                "G3PAT183_6_9_12",
+                "G3PAT183_9_12_15",
+                "G3PAT184_6_9_12_15",
+                "G3PD",
+                "G3PD1ir",
+                "G5SADs",
+                "G5SD",
+                "G6PBDH",
+                "G6PDH2r",
+                "G6PI3",
+                "GALKr",
+                "GALUi",
+                "GAPD",
+                "GAPDi_nadp",
+                "GARFT",
+                "GART",
+                "GCALDD",
+                "GCATENEC",
+                "GDH2",
+                "GF6PTA",
+                "GFUCS",
+                "GGDPR",
+                "GGGT_PALM_PALM_4_c",
+                "GGPP",
+                "GGPS",
+                "GHMT2r",
+                "GK1",
+                "GLBRAN2",
+                "GLCP",
+                "GLCP2",
+                "GLCS1",
+                "GLGC",
+                "GLMS_syn",
+                "GLNS_1",
+                "GLNTRAT",
+                "GLU5K",
+                "GLUCYS",
+                "GLUDC",
+                "GLUDy_1",
+                "GLUK_syn",
+                "GLUN_1",
+                "GLUPRT",
+                "GLUR",
+                "GLUSx",
+                "GLXCL",
+                "GLXO3r",
+                "GLYALDDr",
+                "GLYCDx",
+                "GLYCK",
+                "GLYCK2",
+                "GLYCLa",
+                "GLYCLb",
+                "GLYCLc",
+                "GLYCLTDx",
+                "GLYCTO1",
+                "GLYK",
+                "GLYOX",
+                "GLYTA",
+                "GLYTRS",
+                "GMAND",
+                "GMPS",
+                "GMPS2",
+                "GND",
+                "GOPP",
+                "GOR1",
+                "GOX",
+                "GRDPTT5",
+                "GRDPTT7",
+                "GRTT",
+                "GTHOr",
+                "GTHPi",
+                "GTHRDH_syn",
+                "GTHS",
+                "GTPCI",
+                "GTPCII",
+                "GUACYC",
+                "GUDBUTNAH",
+                "H2ASE_syn",
+                "HBZNPT",
+                "HEX1",
+                "HEX7",
+                "HGPHT",
+                "HIBDkt",
+                "HISTDa_1",
+                "HISTDb_1",
+                "HISTP",
+                "HISTRS",
+                "HPHACA",
+                "HPPK",
+                "HPROa",
+                "HPROb",
+                "HPYRRx",
+                "HPYRRy",
+                "HSDxi",
+                "HSDy",
+                "HSERTA",
+                "HSK",
+                "HSTPT",
+                "IACAH",
+                "ICDHyr",
+                "ICHORS",
+                "IG3PS",
+                "IGPDH",
+                "IGPS",
+                "ILETA",
+                "ILETRS",
+                "IMACTD",
+                "IMPC",
+                "IMPD",
+                "IPDDI",
+                "IPDPS_syn",
+                "IPMD",
+                "IPPMIa",
+                "IPPMIb",
+                "IPPS",
+                "KARA1",
+                "KARI_1",
+                "KARI_23dhmp_1",
+                "KAS14",
+                "KAS15",
+                "LALDO",
+                "LCARS",
+                "LDAPAT",
+                "LDH_D",
+                "LEUTA",
+                "LEUTRS",
+                "LGTHL",
+                "LPADSS",
+                "LYCOPC",
+                "LYSDC",
+                "LYSTRS",
+                "MACPD",
+                "MALT",
+                "MALTHG",
+                "MAN1PT",
+                "MAN1PT2",
+                "MAN6PI",
+                "MCOATA",
+                "MDH",
+                "ME2",
+                "MECDPDH_syn",
+                "MECDPDH3_syn",
+                "MECDPS",
+                "MEHLER",
+                "MEPCT",
+                "METTRS",
+                "MGDG160",
+                "MGDG161",
+                "MGDG180",
+                "MGDG181",
+                "MGDG181_9",
+                "MGDG182_9_12",
+                "MGDG183_6_9_12",
+                "MGDG183_9_12_15",
+                "MGDG184_6_9_12_15",
+                "MGDGE160",
+                "MGDGE161",
+                "MGDGE180",
+                "MGDGE181",
+                "MGDGE181_9",
+                "MGDGE182_9_12",
+                "MGDGE183_6_9_12",
+                "MGDGE183_9_12_15",
+                "MGDGE184_6_9_12_15",
+                "MGSA",
+                "MGT161",
+                "MGT180",
+                "MGT181",
+                "MGT181_9",
+                "MGT182_9_12",
+                "MGT183_6_9_12",
+                "MGT183_9_12_15",
+                "MGT184_6_9_12_15",
+                "MI1PP",
+                "MI1PS",
+                "MM3OR1",
+                "MMHL",
+                "MMHTASE",
+                "MMS",
+                "MOHMT",
+                "MPBQ",
+                "MPPST",
+                "MTHFC",
+                "MTHFD",
+                "MTHFD2i",
+                "MTHFR2",
+                "MTHFR3",
+                "MTHFtURAMT",
+                "NABTNO",
+                "NADK",
+                "NADN",
+                "NADS2",
+                "NADTRHD",
+                "NAMPRT",
+                "NAR_syn",
+                "NDPK1",
+                "NDPK10",
+                "NDPK2",
+                "NDPK3",
+                "NDPK4",
+                "NDPK5",
+                "NDPK6",
+                "NDPK7",
+                "NDPK8",
+                "NDPK9",
+                "NH3c",
+                "NMNAT",
+                "NMNS",
+                "NNATr",
+                "NNDPR",
+                "NOR_syn_1",
+                "NPHSa",
+                "NPHSb",
+                "NPHSb2",
+                "NTD4",
+                "NTD7",
+                "NTP3",
+                "NTPP2",
+                "NTPP4",
+                "NTPP8",
+                "NTPP9",
+                "NTPTP1",
+                "OCBT",
+                "OMCDC",
+                "OMPDC",
+                "OPHBDC",
+                "ORNTA",
+                "ORNTAC",
+                "ORPT",
+                "OXADC",
+                "OXGDC",
+                "OXGDC2",
+                "P5CD",
+                "P5CR",
+                "P5CRx",
+                "PACL",
+                "PALMCL",
+                "PANTS",
+                "PAPA160",
+                "PAPA161",
+                "PAPA180",
+                "PAPA181",
+                "PAPA181_9",
+                "PAPA182_9_12",
+                "PAPA183_6_9_12",
+                "PAPA183_9_12_15",
+                "PAPA184_6_9_12_15",
+                "PAPPT3",
+                "PAPSR",
+                "PDH",
+                "PDHa",
+                "PDHbr",
+                "PDHcr",
+                "PDX5POi",
+                "PDX5PSa",
+                "PDX5PSb",
+                "PDX5PSc",
+                "PEPC",
+                "PFK",
+                "PFK_2",
+                "PFK_3",
+                "PGAMT",
+                "PGCD",
+                "PGI",
+                "PGK",
+                "PGL",
+                "PGLYCP",
+                "PGM",
+                "PGMT",
+                "PGMT_B",
+                "PGPP160",
+                "PGPP161",
+                "PGPP180",
+                "PGPP181",
+                "PGPP181_9",
+                "PGPP182_9_12",
+                "PGPP183_6_9_12",
+                "PGPP183_9_12_15",
+                "PGPP184_6_9_12_15",
+                "PGSA160",
+                "PGSA161",
+                "PGSA180",
+                "PGSA181",
+                "PGSA181_9",
+                "PGSA182_9_12",
+                "PGSA183_6_9_12",
+                "PGSA183_9_12_15",
+                "PGSA184_6_9_12_15",
+                "PHACA",
+                "PHBS_syn_1",
+                "PHCD",
+                "PHEOR",
+                "PHETA1",
+                "PHETRS",
+                "PHTHAT",
+                "PHYTEDH1",
+                "PHYTEDH2",
+                "PHYTES",
+                "PHYTES2",
+                "PHYTFDH1",
+                "PHYTFDH2",
+                "PKETF",
+                "PKETX",
+                "PMANM",
+                "PMDPHT",
+                "PNTK",
+                "POR_syn",
+                "PPA",
+                "PPCDC",
+                "PPK1",
+                "PPX",
+                "PPM",
+                "PPNCL",
+                "PPNCL2",
+                "PPNCL3",
+                "PPND",
+                "PPNDH",
+                "PPOR",
+                "PPS",
+                "PPTGS_Syn_1",
+                "PRAGSr",
+                "PRAIi",
+                "PRAIS",
+                "PRAMPC",
+                "PRASCSi",
+                "PRATPP",
+                "PRFGS",
+                "PRMICI",
+                "PROAKGOX1",
+                "PROD2",
+                "PROTRS",
+                "PROVITS",
+                "PRPPS",
+                "PRUK",
+                "PSCVT",
+                "PSP_1",
+                "PSTA",
+                "PTAr",
+                "PTHPS",
+                "PTPATi",
+                "PUNP1",
+                "PUTA3",
+                "PYAM5PO",
+                "PYDXNO",
+                "PYDXO",
+                "PYK",
+                "PYK2",
+                "PYK5",
+                "PYNP1",
+                "QULNS",
+                "RBFK",
+                "RBFSa",
+                "RBFSb",
+                "RBK",
+                "RNDR1",
+                "RNDR2",
+                "RNDR3",
+                "RNDR4",
+                "RPE",
+                "RPI",
+                "SADT",
+                "SBP",
+                "SDPDS",
+                "SDPTA",
+                "SEPHCHCS",
+                "SER_AL",
+                "SERAT",
+                "SERTRS",
+                "SHCHCS3",
+                "SHK3Dr",
+                "SHKK",
+                "SPP",
+                "SPS",
+                "SPT_syn",
+                "SQD1",
+                "SQD2_160",
+                "SQD2_161",
+                "SQD2_180",
+                "SQD2_181",
+                "SQD2_181_9",
+                "SQD2_182_9_12",
+                "SQD2_183_6_9_12",
+                "SQD2_183_9_12_15",
+                "SQD2_184_6_9_12_15",
+                "SQLC",
+                "SQLC2",
+                "SQLS",
+                "SSALy",
+                "SUCBZL",
+                "SUCBZS",
+                "SUCOAS",
+                "SULFT",
+                "SULR_syn",
+                "T2DECAI",
+                "T6PGD",
+                "TALA",
+                "TDPDRE_1",
+                "TDPDRR_2",
+                "TDPGDH_2",
+                "THDPS",
+                "THFGLUS",
+                "THRD_L_1",
+                "THRS",
+                "THRTRS",
+                "TKT1",
+                "TKT2",
+                "TMDK1",
+                "TMDS",
+                "TMDS3",
+                "TMK",
+                "TMPK",
+                "TMPPP",
+                "TOCOPHOM1",
+                "TOCOPHOM2",
+                "TOCOPHS1",
+                "TOCOPHS2",
+                "TPI",
+                "TRDR",
+                "TRNAUMT",
+                "TRNFE",
+                "TRPS2_1",
+                "TRPS3_1",
+                "TRPTRS",
+                "TRSARr",
+                "TRSARyr",
+                "TYRTA",
+                "TYRTRS",
+                "U23GAAT",
+                "UAAGDS",
+                "UAG2EMA",
+                "UAG2EMA_1",
+                "UAGAAT",
+                "UAGCVT",
+                "UAGDP",
+                "UAGPT3",
+                "UAMAGS",
+                "UAMAS",
+                "UAPGR",
+                "UDCPDP",
+                "UDG4EP",
+                "UDPDPS",
+                "UDPG4E",
+                "UGLDDS2_1",
+                "UGLT",
+                "UGMDDS",
+                "UHGADA",
+                "UMPK",
+                "UPPRT",
+                "UREA_1",
+                "URIDK2r",
+                "USHD",
+                "VALTA",
+                "VALTRS",
+                "ZCAROTDH1",
+                "ZCAROTDH2",
+                "DM_meoh_c",
+                "DM_dad_5_c"
+            ],
+            "importance": "high",
+            "to_do": "Make sure the subsystems of these reactions are correct"
+        }
+    ],
+    "org.generate_complexes_df": [
+        {
+            "msg": "Some proteins have no genes in proteins.txt",
+            "triggered_by": [
+                "EG50003-MONOMER"
+            ],
+            "importance": "medium",
+            "to_do": "Fill genes in proteins.txt"
+        }
+    ],
+    "org.prune_genbank": [
+        {
+            "msg": "Some features contain a sequence that is not divisible by 3.",
+            "triggered_by": [
+                {
+                    "locus_tag": [
+                        "SGL_RS18640"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_011020875.1"
+                    ],
+                    "note": [
+                        "frameshifted; internal stop; incomplete; partial in the middle of a contig; missing N-terminus; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "transposase"
+                    ],
+                    "location": "[<106904:107208](+)"
+                },
+                {
+                    "locus_tag": [
+                        "SGL_RS18685"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_010871384.1"
+                    ],
+                    "note": [
+                        "frameshifted; internal stop; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "Uma2 family endonuclease"
+                    ],
+                    "location": "[482541:483199](+)"
+                },
+                {
+                    "locus_tag": [
+                        "SGL_RS18695"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_076611405.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "transposase"
+                    ],
+                    "location": "[520888:521357](-)"
+                },
+                {
+                    "locus_tag": [
+                        "SGL_RS19785"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_086558359.1"
+                    ],
+                    "note": [
+                        "frameshifted; incomplete; partial in the middle of a contig; missing C-terminus; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "IS701 family transposase"
+                    ],
+                    "location": "[572728:>572906](+)"
+                },
+                {
+                    "locus_tag": [
+                        "SGL_RS18705"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_076612025.1"
+                    ],
+                    "note": [
+                        "frameshifted; internal stop; incomplete; partial in the middle of a contig; missing N-terminus; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "IS1 family transposase"
+                    ],
+                    "location": "[<608739:609226](+)"
+                },
+                {
+                    "locus_tag": [
+                        "SGL_RS04950"
+                    ],
+                    "old_locus_tag": [
+                        "sll0986"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_076612025.1"
+                    ],
+                    "note": [
+                        "frameshifted; incomplete; partial in the middle of a contig; missing N-terminus; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "IS1 family transposase"
+                    ],
+                    "location": "[664393:>664775](-)"
+                },
+                {
+                    "locus_tag": [
+                        "SGL_RS05270"
+                    ],
+                    "old_locus_tag": [
+                        "sll1575"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_014407170.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "serine/threonine-protein kinase"
+                    ],
+                    "location": "[730107:731674](-)"
+                },
+                {
+                    "locus_tag": [
+                        "SGL_RS18785"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_076611573.1"
+                    ],
+                    "GO_function": [
+                        "GO:0004803 - transposase activity [Evidence IEA]"
+                    ],
+                    "note": [
+                        "frameshifted; internal stop; incomplete; partial in the middle of a contig; missing C-terminus; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "IS5 family transposase"
+                    ],
+                    "location": "[1384823:>1385508](+)"
+                },
+                {
+                    "locus_tag": [
+                        "SGL_RS09140"
+                    ],
+                    "old_locus_tag": [
+                        "sll1982"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_076611880.1"
+                    ],
+                    "note": [
+                        "frameshifted; internal stop; incomplete; partial in the middle of a contig; missing C-terminus; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "IS701 family transposase"
+                    ],
+                    "location": "[<1554854:1555645](-)"
+                },
+                {
+                    "locus_tag": [
+                        "SGL_RS09145"
+                    ],
+                    "old_locus_tag": [
+                        "slr2092"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_015229248.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "Uma2 family endonuclease"
+                    ],
+                    "location": "[1555863:1556438](+)"
+                },
+                {
+                    "locus_tag": [
+                        "SGL_RS18850"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_076611223.1"
+                    ],
+                    "note": [
+                        "frameshifted; incomplete; partial in the middle of a contig; missing C-terminus; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "IS630 transposase-related protein"
+                    ],
+                    "location": "[1616903:>1617466](+)"
+                },
+                {
+                    "locus_tag": [
+                        "SGL_RS19885"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_010872708.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "Uma2 family endonuclease"
+                    ],
+                    "location": "[1740187:1740750](-)"
+                },
+                {
+                    "locus_tag": [
+                        "SGL_RS18885"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_086558359.1"
+                    ],
+                    "note": [
+                        "frameshifted; incomplete; partial in the middle of a contig; missing C-terminus; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "transposase"
+                    ],
+                    "location": "[1763000:>1763382](+)"
+                },
+                {
+                    "locus_tag": [
+                        "SGL_RS18900"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_012264307.1"
+                    ],
+                    "GO_function": [
+                        "GO:0004803 - transposase activity [Evidence IEA]"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "IS630 family transposase"
+                    ],
+                    "location": "[1877207:1878055](+)"
+                },
+                {
+                    "locus_tag": [
+                        "SGL_RS19920"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_076611880.1"
+                    ],
+                    "note": [
+                        "frameshifted; internal stop; incomplete; partial in the middle of a contig; missing N-terminus and C-terminus; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "hypothetical protein"
+                    ],
+                    "location": "[<2190702:>2190940](-)"
+                },
+                {
+                    "locus_tag": [
+                        "SGL_RS20075"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_014407124.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "type II secretion system F family protein"
+                    ],
+                    "location": "[2204156:2205372](+)"
+                },
+                {
+                    "locus_tag": [
+                        "SGL_RS18955"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_010873212.1"
+                    ],
+                    "GO_function": [
+                        "GO:0004803 - transposase activity [Evidence IEA]"
+                    ],
+                    "note": [
+                        "frameshifted; internal stop; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "IS5 family transposase"
+                    ],
+                    "location": "[2210384:2211162](+)"
+                },
+                {
+                    "locus_tag": [
+                        "SGL_RS18980"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_011020875.1"
+                    ],
+                    "GO_function": [
+                        "GO:0004803 - transposase activity [Evidence IEA]"
+                    ],
+                    "note": [
+                        "frameshifted; internal stop; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "IS5 family transposase"
+                    ],
+                    "location": "[2328176:2328936](-)"
+                },
+                {
+                    "locus_tag": [
+                        "SGL_RS20045"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_076611223.1"
+                    ],
+                    "note": [
+                        "frameshifted; incomplete; partial in the middle of a contig; missing N-terminus and C-terminus; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "IS630 family transposase"
+                    ],
+                    "location": "[<3097191:>3097367](+)"
+                },
+                {
+                    "locus_tag": [
+                        "SGL_RS16305"
+                    ],
+                    "old_locus_tag": [
+                        "sll0667"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_076611880.1"
+                    ],
+                    "GO_function": [
+                        "GO:0004803 - transposase activity [Evidence IEA]"
+                    ],
+                    "note": [
+                        "frameshifted; internal stop; incomplete; partial in the middle of a contig; missing N-terminus; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "IS701 family transposase"
+                    ],
+                    "location": "[3108818:>3109761](-)"
+                },
+                {
+                    "locus_tag": [
+                        "SGL_RS19130"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_076611223.1"
+                    ],
+                    "GO_function": [
+                        "GO:0004803 - transposase activity [Evidence IEA]"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "IS630 family transposase"
+                    ],
+                    "location": "[3405461:3406311](+)"
+                }
+            ],
+            "importance": "critical",
+            "to_do": "Check whether any of these genes are translated in your final ME-model. If so, fix the positions of the gene in genome_modified.gb"
+        }
+    ],
+    "org.get_rpod": [
+        {
+            "msg": "SGL_RS12540-MONOMER was identified as RpoD. If this is not true, define RpoD!",
+            "importance": "high",
+            "to_do": "Check whether you need to correct RpoD by running me_builder.org.rpod = correct_rpod"
+        }
+    ],
+    "org.get_rna_polymerase": [
+        {
+            "msg": "CPLX220H-12 was identified as RNA polymerase",
+            "importance": "high",
+            "to_do": "Check whether you need to correct RNAP by running me_builder.org.get_rna_polymerase(force_RNAP_as=correct_RNAP)"
+        }
+    ],
+    "org.update_ribosome_stoich": [
+        {
+            "msg": "Some ribosomal proteins do not contain subunit information (30S, 50S) so they could not be mapped.",
+            "triggered_by": [
+                "SGL_RS08145-MONOMER"
+            ],
+            "importance": "high",
+            "to_do": "Classify them in ribosomal_proteins.txt"
+        }
+    ],
+    "org.get_trna_synthetase": [
+        {
+            "msg": "No tRNA ligases were found for some amino acids. Assigned CPLX_dummy.",
+            "triggered_by": [
+                "gln__L_c"
+            ],
+            "importance": "high",
+            "to_do": "Check whether your organism should have a ligase for these amino acids, or if you need to add a reaction to get it (e.g. tRNA amidotransferases)"
+        }
+    ],
+    "prepare_model": [
+        {
+            "msg": "Some compartments in m_model are unknown",
+            "triggered_by": [
+                "x",
+                "u",
+                "l",
+                "y",
+                "PSI",
+                "PSII"
+            ],
+            "importance": "medium",
+            "to_do": "Check whether the compartment is correct. If not, change it in the reaction ID in the m_model."
+        }
+    ],
+    "org.get_complex_homology": [
+        {
+            "msg": "Some complexes were partial hits in the BLAST",
+            "triggered_by": [
+                {
+                    "complex": "SGL_RS17140-MONOMER",
+                    "reference_complex": "ABC-70-CPLX"
+                },
+                {
+                    "complex": "SGL_RS08880-MONOMER",
+                    "reference_complex": "ATPASE-1-CPLX_no_MONOMER0-12"
+                },
+                {
+                    "complex": "SGL_RS07485-MONOMER",
+                    "reference_complex": "ANTHRANSYN-CPLX"
+                },
+                {
+                    "complex": "SGL_RS18250-MONOMER",
+                    "reference_complex": "RIBONUCLEOSIDE-DIP-REDUCTI-CPLX"
+                },
+                {
+                    "complex": "SGL_RS14090-MONOMER",
+                    "reference_complex": "CPLX0-3951_G6561-MONOMER"
+                },
+                {
+                    "complex": "SGL_RS17700-MONOMER",
+                    "reference_complex": "ACETYL-COA-CARBOXYLMULTI-CPLX"
+                },
+                {
+                    "complex": "SGL_RS14190-MONOMER",
+                    "reference_complex": "ABC-27-CPLX"
+                },
+                {
+                    "complex": "SGL_RS15255-MONOMER",
+                    "reference_complex": "CPLX0-1341"
+                },
+                {
+                    "complex": "SGL_RS02895-MONOMER",
+                    "reference_complex": "GLUTAMATESYN-CPLX"
+                },
+                {
+                    "complex": "SGL_RS13565-MONOMER",
+                    "reference_complex": "Gly_RS_tetra"
+                },
+                {
+                    "complex": "SGL_RS17390-MONOMER",
+                    "reference_complex": "CARBPSYN-CPLX"
+                },
+                {
+                    "complex": "SGL_RS13860-MONOMER",
+                    "reference_complex": "ACETOLACTSYNIII-CPLX"
+                },
+                {
+                    "complex": "SGL_RS03380-MONOMER",
+                    "reference_complex": "SULFITE-REDUCT-CPLX"
+                },
+                {
+                    "complex": "SGL_RS04630-MONOMER",
+                    "reference_complex": "ABC-63-CPLX"
+                },
+                {
+                    "complex": "SGL_RS11225-MONOMER",
+                    "reference_complex": "SUCCCOASYN"
+                },
+                {
+                    "complex": "SGL_RS12745-MONOMER",
+                    "reference_complex": "GCVMULTI-CPLX"
+                },
+                {
+                    "complex": "SGL_RS11275-MONOMER",
+                    "reference_complex": "Phe_RS_tetra"
+                },
+                {
+                    "complex": "SGL_RS14790-MONOMER",
+                    "reference_complex": "EG11595-MONOMER_EG11666-MONOMER"
+                },
+                {
+                    "complex": "SGL_RS06815-MONOMER",
+                    "reference_complex": "PYRNUTRANSHYDROGEN-CPLX"
+                },
+                {
+                    "complex": "SGL_RS10800-MONOMER",
+                    "reference_complex": "3-ISOPROPYLMALISOM-CPLX"
+                },
+                {
+                    "complex": "SGL_RS13765-MONOMER",
+                    "reference_complex": "CPLX0-7458"
+                },
+                {
+                    "complex": "SGL_RS08695-MONOMER",
+                    "reference_complex": "MnmEG_cplx"
+                },
+                {
+                    "complex": "SGL_RS15265-MONOMER",
+                    "reference_complex": "CPLX0-246_CPLX0-1342"
+                },
+                {
+                    "complex": "SGL_RS15330-MONOMER",
+                    "reference_complex": "GLUTAMIDOTRANS-CPLX"
+                },
+                {
+                    "complex": "SGL_RS05930-MONOMER",
+                    "reference_complex": "hRNAP"
+                },
+                {
+                    "complex": "SGL_RS13880-MONOMER",
+                    "reference_complex": "PABASYN-CPLX"
+                },
+                {
+                    "complex": "SGL_RS03395-MONOMER",
+                    "reference_complex": "TRYPSYN"
+                },
+                {
+                    "complex": "CPLX_FNOR-0",
+                    "reference_complex": "FLAVODOXIN1-MONOMER"
+                },
+                {
+                    "complex": "CPLX_TDPDRE_1-1",
+                    "reference_complex": "DTDPDEHYDRHAMEPIM-MONOMER"
+                },
+                {
+                    "complex": "CPLX_TDPDRE_1-1",
+                    "reference_complex": "DTDPDEHYRHAMREDUCT-MONOMER"
+                }
+            ],
+            "importance": "medium",
+            "to_do": "Curate these manually in protein_corrections.txt"
+        }
+    ],
+    "update_me_mets": [
+        {
+            "msg": "Some metabolites in me_metabolites.txt are not in m_model, so they were skipped.",
+            "triggered_by": [
+                "sufbcd_2fe2s_c",
+                "sufbcd_2fe2s2_c",
+                "sufbcd_4fe4s_c",
+                "iscu_2fe2s_c",
+                "iscu_2fe2s2_c",
+                "iscu_4fe4s_c"
+            ],
+            "importance": "medium",
+            "to_do": "Confirm these metabolites are correctly defined in me_metabolites.txt"
+        }
+    ],
+    "update_ribosome_subreactions_from_homology": [
+        {
+            "msg": "Some enzymes defined in me_builder.org.ribosome_subreactions are different from the ones inferred from homology",
+            "triggered_by": [
+                {
+                    "subreaction": "gtp_bound_30S_assembly_factor_phase1",
+                    "defined_complex": "",
+                    "inferred_complex": "SGL_RS12545-MONOMER"
+                },
+                {
+                    "subreaction": "RbfA_mono_assembly_factor_phase1",
+                    "defined_complex": "",
+                    "inferred_complex": "SGL_RS13145-MONOMER"
+                },
+                {
+                    "subreaction": "RimM_mono_assembly_factor_phase1",
+                    "defined_complex": "",
+                    "inferred_complex": "SGL_RS09820-MONOMER"
+                }
+            ],
+            "importance": "medium",
+            "to_do": "Confirm whether the definitions or homology calls are correct in me_builder.org.ribosome_subreactions. Curate the inputs in ribosome_subreactions.txt accordingly."
+        }
+    ],
+    "check": [
+        {
+            "msg": "Some metabolites in me_metabolites.txt need curation",
+            "triggered_by": [
+                "3hbutACP_c",
+                "octe_9_ACP_c",
+                "octe_9_12_ACP_c",
+                "octe_6_9_12_ACP_c",
+                "octe_9_12_15_ACP_c",
+                "octe_6_9_12_15_ACP_c",
+                "asptrna_asn_c",
+                "hdeceACP_c",
+                "glutrna_gln_c",
+                "trnauri_c",
+                "trnarib_c",
+                "LI_c",
+                "sufbcd_c",
+                "sufse_c",
+                "sufsesh_c",
+                "dsbard_p",
+                "dsbaox_p",
+                "dsbcrd_p",
+                "dsbcox_p",
+                "dsbdrd_c",
+                "dsbdox_c",
+                "dsbgrd_p",
+                "dsbgox_p",
+                "lpp_p",
+                "alpp_p",
+                "moadamp_c",
+                "moadcoo_c",
+                "moadcosh_c",
+                "3hcpalm9eACP_c",
+                "3ocpalm9eACP_c",
+                "grxrd_c",
+                "grxox_c",
+                "iscssh_c",
+                "iscu_c"
+            ],
+            "importance": "medium",
+            "to_do": "Map or remove these metabolites in me_metabolites.txt"
+        }
+    ],
+    "troubleshoot": [
+        {
+            "msg": "Some metabolites are necessary for growth",
+            "triggered_by": [
+                "TS_cpppg3_c",
+                "TS_5drib_c",
+                "TS_dhlprot_c",
+                "TS_spmd_c",
+                "TS_omppp9_c",
+                "TS_provitd3_c",
+                "TS_aicar_c",
+                "TS_dadsn_c",
+                "TS_biliverd_c",
+                "TS_val__L_c",
+                "TS_3mop_c",
+                "TS_cytd_c",
+                "TS_o2_x",
+                "TS_alaala_c",
+                "TS_co2dam_c",
+                "TS_argsuc_c",
+                "TS_dhap_c",
+                "TS_grdp_c",
+                "TS_pydx5p_c",
+                "TS_pi_c",
+                "TS_adocbl_c",
+                "TS_fe3_c",
+                "TS_4fe4s_c",
+                "TS_k_c",
+                "TS_cbl1_c"
+            ],
+            "importance": "critical",
+            "to_do": "Fix the gaps by adding reactions or solving other warnings. If some items are from the E-matrix, fix these first!"
+        }
+    ]
+}

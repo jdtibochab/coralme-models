@@ -1,0 +1,8 @@
+,value
+FecI_mono,RNAP_FecImono
+FliA_mono,RNAP_FliAmono
+RpoD_mono,RNAP_RpoDmono
+RpoE_mono,RNAP_RpoEmono
+RpoH_mono,RNAP_RpoHmono
+RpoN_mono,RNAP_RpoNmono
+RpoS_mono,RNAP_RpoSmono

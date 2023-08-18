@@ -1,0 +1,3 @@
+subreaction	enzymes
+FusA_mono_elongation	ALW85_RS10700-MONOMER
+Tuf_gtp_regeneration	ALW85_RS08935-MONOMER

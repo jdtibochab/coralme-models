@@ -1,0 +1,5 @@
+,value
+RNA_degradosome,"{'enzymes': ['BSU33900-MONOMER_mod_mg2(4)', 'BSU16690-MONOMER']}"
+monocistronic,{'enzymes': ['generic_RNase']}
+polycistronic_wout_rRNA,"{'enzymes': ['generic_RNase', 'BSU15930-MONOMER']}"
+rRNA_containing,"{'enzymes': ['generic_RNase', 'BSU15930-MONOMER_mod_mg2(2)']}"

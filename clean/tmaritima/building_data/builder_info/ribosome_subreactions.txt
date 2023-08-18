@@ -1,0 +1,4 @@
+,value
+RbfA_mono_assembly_factor_phase1,{'enzyme': 'TM0855-MONOMER'}
+RimM_mono_assembly_factor_phase1,{'enzyme': 'TM1568-MONOMER'}
+gtp_bound_30S_assembly_factor_phase1,{'enzyme': 'TM0847-MONOMER'}

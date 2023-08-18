@@ -1,0 +1,502 @@
+Modified_enzyme,Core_enzyme,Modifications,Source
+RNAP-CPLX_mod_zn2(1)_mod_mg2(2),RNAP-CPLX,zn2(1) AND mg2(2),RNA_Polymerase
+YPO0003-MONOMER_mod_mg2(1),YPO0003-MONOMER,mg2(1),Homology
+YPO0008-MONOMER_mod_k(1)_mod_mg2(1),YPO0008-MONOMER,k(1) AND mg2(1),Homology
+YPO0013-MONOMER_mod_mg2(1),YPO0013-MONOMER,mg2(1),Homology
+YPO0013-MONOMER_mod_mn2(1),YPO0013-MONOMER,mn2(1),Homology
+YPO0021-MONOMER_mod_4fe4s(1),YPO0021-MONOMER,4fe4s(1),Homology
+YPO0024-MONOMER_mod_mn2(1),YPO0024-MONOMER,mn2(1),Homology
+YPO0038-MONOMER_mod_mn2(1),YPO0038-MONOMER,mn2(1),Homology
+YPO0039-MONOMER_mod_mg2(1),YPO0039-MONOMER,mg2(1),Homology
+YPO0040-MONOMER_mod_mg2(1),YPO0040-MONOMER,mg2(1),Homology
+YPO0044-MONOMER_mod_mg2(1),YPO0044-MONOMER,mg2(1),Homology
+YPO0045-MONOMER_mod_mg2(1),YPO0045-MONOMER,mg2(1),Homology
+YPO0047-MONOMER_mod_zn2(1),YPO0047-MONOMER,zn2(1),Homology
+YPO0048-MONOMER_mod_fmn(1),YPO0048-MONOMER,fmn(1),Homology
+YPO0048-MONOMER_mod_mg2(1),YPO0048-MONOMER,mg2(1),Homology
+YPO0053-MONOMER_mod_mg2(1),YPO0053-MONOMER,mg2(1),Homology
+YPO0058-MONOMER_mod_nadp(1),YPO0058-MONOMER,nadp(1),Homology
+YPO0059-MONOMER_mod_pydx5p(1),YPO0059-MONOMER,pydx5p(1),Homology
+YPO0060-MONOMER_mod_zn2(1),YPO0060-MONOMER,zn2(1),Homology
+YPO0064-MONOMER_mod_mn2(1),YPO0064-MONOMER,mn2(1),Homology
+YPO0066-MONOMER_mod_Oxidized(1),YPO0066-MONOMER,Oxidized(1),Homology
+YPO0078-MONOMER_mod_mg2(1),YPO0078-MONOMER,mg2(1),Homology
+YPO0088-MONOMER_mod_fad(1),YPO0088-MONOMER,fad(1),Homology
+YPO0104-MONOMER_mod_mg2(1),YPO0104-MONOMER,mg2(1),Homology
+YPO0117-MONOMER_mod_fad(1),YPO0117-MONOMER,fad(1),Homology
+YPO0138-MONOMER_mod_mg2(1),YPO0138-MONOMER,mg2(1),Homology
+YPO0138-MONOMER_mod_ca2(1),YPO0138-MONOMER,ca2(1),Homology
+YPO0138-MONOMER_mod_mn2(1),YPO0138-MONOMER,mn2(1),Homology
+YPO0144-MONOMER_mod_mg2(1),YPO0144-MONOMER,mg2(1),Homology
+YPO0151-MONOMER_mod_mg2(1),YPO0151-MONOMER,mg2(1),Homology
+YPO0151-MONOMER_mod_mn2(1),YPO0151-MONOMER,mn2(1),Homology
+YPO0151-MONOMER_mod_cobalt2(1),YPO0151-MONOMER,cobalt2(1),Homology
+YPO0151-MONOMER_mod_fe2(1),YPO0151-MONOMER,fe2(1),Homology
+YPO0151-MONOMER_mod_ca2(1),YPO0151-MONOMER,ca2(1),Homology
+YPO0151-MONOMER_mod_k(1),YPO0151-MONOMER,k(1),Homology
+YPO0152-MONOMER_mod_cobalt2(1)_mod_nad(1),YPO0152-MONOMER,cobalt2(1) AND nad(1),Homology
+YPO0156-MONOMER_mod_mg2(1)_mod_cl(1),YPO0156-MONOMER,mg2(1) AND cl(1),Homology
+YPO0157-MONOMER_mod_mg2(1),YPO0157-MONOMER,mg2(1),Homology
+YPO0162-MONOMER_mod_fe2(1)_mod_zn2(1),YPO0162-MONOMER,fe2(1) AND zn2(1),Homology
+YPO0162-MONOMER_mod_mn2(1)_mod_zn2(1),YPO0162-MONOMER,mn2(1) AND zn2(1),Homology
+YPO0162-MONOMER_mod_cobalt2(1)_mod_zn2(1),YPO0162-MONOMER,cobalt2(1) AND zn2(1),Homology
+YPO0185-MONOMER_mod_fe2(1),YPO0185-MONOMER,fe2(1),Homology
+YPO0241-MONOMER_mod_mg2(1)_mod_k(1),YPO0241-MONOMER,mg2(1) AND k(1),Homology
+YPO0242-MONOMER_mod_fe2(1),YPO0242-MONOMER,fe2(1),Homology
+YPO0311-MONOMER_mod_mg2(1),YPO0311-MONOMER,mg2(1),Homology
+YPO0313-MONOMER_mod_cd2(1)_mod_zn2(1)_mod_mg2(1)_mod_mn2(1)_mod_cobalt2(1),YPO0313-MONOMER,cd2(1) AND zn2(1) AND mg2(1) AND mn2(1) AND cobalt2(1),Homology
+YPO0322-MONOMER_mod_pydx5p(1),YPO0322-MONOMER,pydx5p(1),Homology
+YPO0328-MONOMER_mod_k(1)_mod_zn2(1),YPO0328-MONOMER,k(1) AND zn2(1),Homology
+YPO0329-MONOMER_mod_mn2(1),YPO0329-MONOMER,mn2(1),Homology
+YPO0330-MONOMER_mod_mg2(1),YPO0330-MONOMER,mg2(1),Homology
+YPO0345-MONOMER_mod_Oxidized(1),YPO0345-MONOMER,Oxidized(1),Homology
+YPO0348-MONOMER_mod_mg2(1),YPO0348-MONOMER,mg2(1),Homology
+YPO0348-MONOMER_mod_mn2(1),YPO0348-MONOMER,mn2(1),Homology
+YPO0348-MONOMER_mod_cobalt2(1),YPO0348-MONOMER,cobalt2(1),Homology
+YPO0366-MONOMER_mod_mg2(2),YPO0366-MONOMER,mg2(2),Homology
+YPO0367-MONOMER_mod_adocbl(1),YPO0367-MONOMER,adocbl(1),Homology
+YPO0367-MONOMER_mod_4fe4s(2),YPO0367-MONOMER,4fe4s(2),Homology
+YPO0372-MONOMER_mod_mg2(2),YPO0372-MONOMER,mg2(2),Homology
+YPO0378-MONOMER_mod_mg2(1),YPO0378-MONOMER,mg2(1),Homology
+YPO0439-MONOMER_mod_mn2(1),YPO0439-MONOMER,mn2(1),Homology
+YPO0442-MONOMER_mod_mg2(1),YPO0442-MONOMER,mg2(1),Homology
+YPO0444-MONOMER_mod_mg2(1),YPO0444-MONOMER,mg2(1),Homology
+YPO0444-MONOMER_mod_mn2(1),YPO0444-MONOMER,mn2(1),Homology
+YPO0444-MONOMER_mod_ca2(1),YPO0444-MONOMER,ca2(1),Homology
+YPO0444-MONOMER_mod_zn2(1),YPO0444-MONOMER,zn2(1),Homology
+YPO0444-MONOMER_mod_cu2(1),YPO0444-MONOMER,cu2(1),Homology
+YPO0444-MONOMER_mod_cd2(1),YPO0444-MONOMER,cd2(1),Homology
+YPO0444-MONOMER_mod_cobalt2(1),YPO0444-MONOMER,cobalt2(1),Homology
+YPO0444-MONOMER_mod_ni2(1),YPO0444-MONOMER,ni2(1),Homology
+YPO0454-MONOMER_mod_mg2(1),YPO0454-MONOMER,mg2(1),Homology
+YPO0460-MONOMER_mod_k(1)_mod_mg2(1),YPO0460-MONOMER,k(1) AND mg2(1),Homology
+YPO0461-MONOMER_mod_pydx5p(1),YPO0461-MONOMER,pydx5p(1),Homology
+YPO0469-MONOMER_mod_zn2(4),YPO0469-MONOMER,zn2(4),Homology
+YPO0475-MONOMER_mod_zn2(2),YPO0475-MONOMER,zn2(2),Homology
+YPO0477-MONOMER_mod_nadph(1)_mod_nadh(1)_mod_fad(1)_mod_cobalt2(1),YPO0477-MONOMER,nadph(1) AND nadh(1) AND fad(1) AND cobalt2(1),Homology
+YPO0532-MONOMER_mod_mg2(1)_mod_mn2(1),YPO0532-MONOMER,mg2(1) AND mn2(1),Homology
+YPO0553-MONOMER_mod_k(1)_mod_mg2(1),YPO0553-MONOMER,k(1) AND mg2(1),Homology
+YPO0556-MONOMER_mod_mg2(1),YPO0556-MONOMER,mg2(1),Homology
+YPO0565-MONOMER_mod_mn2(1)_mod_mg2(1),YPO0565-MONOMER,mn2(1) AND mg2(1),Homology
+YPO0579-MONOMER_mod_zn2(1),YPO0579-MONOMER,zn2(1),Homology
+YPO0658-MONOMER_mod_mg2(1),YPO0658-MONOMER,mg2(1),Homology
+YPO0664-MONOMER_mod_mg2(1),YPO0664-MONOMER,mg2(1),Homology
+YPO0670-MONOMER_mod_fad(1),YPO0670-MONOMER,fad(1),Homology
+YPO0681-MONOMER_mod_pydx5p(1),YPO0681-MONOMER,pydx5p(1),Homology
+YPO0783-MONOMER_mod_mg2(1),YPO0783-MONOMER,mg2(1),Homology
+YPO0793-MONOMER_mod_mg2(1),YPO0793-MONOMER,mg2(1),Homology
+YPO0796-MONOMER_mod_pydx5p(1),YPO0796-MONOMER,pydx5p(1),Homology
+YPO0891-MONOMER_mod_Oxidized(1),YPO0891-MONOMER,Oxidized(1),Homology
+YPO0893-MONOMER_mod_Oxidized(1),YPO0893-MONOMER,Oxidized(1),Homology
+YPO0926-MONOMER_mod_thmpp(1)_mod_mn2(1)_mod_mg2(1),YPO0926-MONOMER,thmpp(1) AND mn2(1) AND mg2(1),Homology
+YPO0929-MONOMER_mod_mg2(1)_mod_pydx5p(4),YPO0929-MONOMER,mg2(1) AND pydx5p(4),Homology
+YPO0931-MONOMER_mod_k(4)_mod_mg2(1),YPO0931-MONOMER,k(4) AND mg2(1),Homology
+YPO0931-MONOMER_mod_k(4)_mod_mn2(1),YPO0931-MONOMER,k(4) AND mn2(1),Homology
+YPO0931-MONOMER_mod_k(4)_mod_cobalt2(1),YPO0931-MONOMER,k(4) AND cobalt2(1),Homology
+YPO0931-MONOMER_mod_k(4)_mod_zn2(1),YPO0931-MONOMER,k(4) AND zn2(1),Homology
+YPO0931-MONOMER_mod_k(4)_mod_cd2(1),YPO0931-MONOMER,k(4) AND cd2(1),Homology
+YPO0931-MONOMER_mod_k(4)_mod_ni2(1),YPO0931-MONOMER,k(4) AND ni2(1),Homology
+YPO0931-MONOMER_mod_k(4)_mod_ca2(1),YPO0931-MONOMER,k(4) AND ca2(1),Homology
+YPO0931-MONOMER_mod_nh4(4)_mod_mg2(1),YPO0931-MONOMER,nh4(4) AND mg2(1),Homology
+YPO0931-MONOMER_mod_nh4(4)_mod_mn2(1),YPO0931-MONOMER,nh4(4) AND mn2(1),Homology
+YPO0931-MONOMER_mod_nh4(4)_mod_cobalt2(1),YPO0931-MONOMER,nh4(4) AND cobalt2(1),Homology
+YPO0931-MONOMER_mod_nh4(4)_mod_zn2(1),YPO0931-MONOMER,nh4(4) AND zn2(1),Homology
+YPO0931-MONOMER_mod_nh4(4)_mod_cd2(1),YPO0931-MONOMER,nh4(4) AND cd2(1),Homology
+YPO0931-MONOMER_mod_nh4(4)_mod_ni2(1),YPO0931-MONOMER,nh4(4) AND ni2(1),Homology
+YPO0931-MONOMER_mod_nh4(4)_mod_ca2(1),YPO0931-MONOMER,nh4(4) AND ca2(1),Homology
+YPO0931-MONOMER_mod_tl(4)_mod_mg2(1),YPO0931-MONOMER,tl(4) AND mg2(1),Homology
+YPO0931-MONOMER_mod_tl(4)_mod_mn2(1),YPO0931-MONOMER,tl(4) AND mn2(1),Homology
+YPO0931-MONOMER_mod_tl(4)_mod_cobalt2(1),YPO0931-MONOMER,tl(4) AND cobalt2(1),Homology
+YPO0931-MONOMER_mod_tl(4)_mod_zn2(1),YPO0931-MONOMER,tl(4) AND zn2(1),Homology
+YPO0931-MONOMER_mod_tl(4)_mod_cd2(1),YPO0931-MONOMER,tl(4) AND cd2(1),Homology
+YPO0931-MONOMER_mod_tl(4)_mod_ni2(1),YPO0931-MONOMER,tl(4) AND ni2(1),Homology
+YPO0931-MONOMER_mod_tl(4)_mod_ca2(1),YPO0931-MONOMER,tl(4) AND ca2(1),Homology
+YPO0931-MONOMER_mod_cs(4)_mod_mg2(1),YPO0931-MONOMER,cs(4) AND mg2(1),Homology
+YPO0931-MONOMER_mod_cs(4)_mod_mn2(1),YPO0931-MONOMER,cs(4) AND mn2(1),Homology
+YPO0931-MONOMER_mod_cs(4)_mod_cobalt2(1),YPO0931-MONOMER,cs(4) AND cobalt2(1),Homology
+YPO0931-MONOMER_mod_cs(4)_mod_zn2(1),YPO0931-MONOMER,cs(4) AND zn2(1),Homology
+YPO0931-MONOMER_mod_cs(4)_mod_cd2(1),YPO0931-MONOMER,cs(4) AND cd2(1),Homology
+YPO0931-MONOMER_mod_cs(4)_mod_ni2(1),YPO0931-MONOMER,cs(4) AND ni2(1),Homology
+YPO0931-MONOMER_mod_cs(4)_mod_ca2(1),YPO0931-MONOMER,cs(4) AND ca2(1),Homology
+YPO0931-MONOMER_mod_LI(4)_mod_mg2(1),YPO0931-MONOMER,LI(4) AND mg2(1),Homology
+YPO0931-MONOMER_mod_LI(4)_mod_mn2(1),YPO0931-MONOMER,LI(4) AND mn2(1),Homology
+YPO0931-MONOMER_mod_LI(4)_mod_cobalt2(1),YPO0931-MONOMER,LI(4) AND cobalt2(1),Homology
+YPO0931-MONOMER_mod_LI(4)_mod_zn2(1),YPO0931-MONOMER,LI(4) AND zn2(1),Homology
+YPO0931-MONOMER_mod_LI(4)_mod_cd2(1),YPO0931-MONOMER,LI(4) AND cd2(1),Homology
+YPO0931-MONOMER_mod_LI(4)_mod_ni2(1),YPO0931-MONOMER,LI(4) AND ni2(1),Homology
+YPO0931-MONOMER_mod_LI(4)_mod_ca2(1),YPO0931-MONOMER,LI(4) AND ca2(1),Homology
+YPO0931-MONOMER_mod_na1(4)_mod_mg2(1),YPO0931-MONOMER,na1(4) AND mg2(1),Homology
+YPO0931-MONOMER_mod_na1(4)_mod_mn2(1),YPO0931-MONOMER,na1(4) AND mn2(1),Homology
+YPO0931-MONOMER_mod_na1(4)_mod_cobalt2(1),YPO0931-MONOMER,na1(4) AND cobalt2(1),Homology
+YPO0931-MONOMER_mod_na1(4)_mod_zn2(1),YPO0931-MONOMER,na1(4) AND zn2(1),Homology
+YPO0931-MONOMER_mod_na1(4)_mod_cd2(1),YPO0931-MONOMER,na1(4) AND cd2(1),Homology
+YPO0931-MONOMER_mod_na1(4)_mod_ni2(1),YPO0931-MONOMER,na1(4) AND ni2(1),Homology
+YPO0931-MONOMER_mod_na1(4)_mod_ca2(1),YPO0931-MONOMER,na1(4) AND ca2(1),Homology
+YPO0935-MONOMER_mod_mg2(1),YPO0935-MONOMER,mg2(1),Homology
+YPO0945-MONOMER_mod_mg2(1),YPO0945-MONOMER,mg2(1),Homology
+YPO0960-MONOMER_mod_pydx5p(1),YPO0960-MONOMER,pydx5p(1),Homology
+YPO1028-MONOMER_mod_pydx5p(1),YPO1028-MONOMER,pydx5p(1),Homology
+YPO1043-MONOMER_mod_fe2(2),YPO1043-MONOMER,fe2(2),Homology
+YPO1048-MONOMER_mod_mn2(1),YPO1048-MONOMER,mn2(1),Homology
+YPO1048-MONOMER_mod_cobalt2(1),YPO1048-MONOMER,cobalt2(1),Homology
+YPO1048-MONOMER_mod_mg2(1),YPO1048-MONOMER,mg2(1),Homology
+YPO1049-MONOMER_mod_mg2(1),YPO1049-MONOMER,mg2(1),Homology
+YPO1050-MONOMER_mod_mg2(1)_mod_k(1),YPO1050-MONOMER,mg2(1) AND k(1),Homology
+YPO1074-MONOMER_mod_mg2(1),YPO1074-MONOMER,mg2(1),Homology
+YPO1079-MONOMER_mod_zn2(1),YPO1079-MONOMER,zn2(1),Homology
+YPO1106-MONOMER_mod_mg2(1),YPO1106-MONOMER,mg2(1),Homology
+YPO1127-MONOMER_mod_4fe4s(1),YPO1127-MONOMER,4fe4s(1),Homology
+YPO1129a-MONOMER_mod_fe2(1),YPO1129a-MONOMER,fe2(1),Homology
+YPO1133-MONOMER_mod_23bpg(1),YPO1133-MONOMER,23bpg(1),Homology
+YPO1137-MONOMER_mod_mg2(1),YPO1137-MONOMER,mg2(1),Homology
+YPO1138-MONOMER_mod_fe2(1)_mod_zn2(1),YPO1138-MONOMER,fe2(1) AND zn2(1),Homology
+YPO1139-MONOMER_mod_nad(1),YPO1139-MONOMER,nad(1),Homology
+YPO1148-MONOMER_mod_mg2(1),YPO1148-MONOMER,mg2(1),Homology
+YPO1150-MONOMER_mod_pydx5p(1),YPO1150-MONOMER,pydx5p(1),Homology
+YPO1151-MONOMER_mod_4fe4s(1)_mod_2fe2s(1),YPO1151-MONOMER,4fe4s(1) AND 2fe2s(1),Homology
+YPO1154-MONOMER_mod_mg2(1),YPO1154-MONOMER,mg2(1),Homology
+YPO1161-MONOMER_mod_amp(1),YPO1161-MONOMER,amp(1),Homology
+YPO1161-MONOMER_mod_coo(1),YPO1161-MONOMER,coo(1),Homology
+YPO1161-MONOMER_mod_cosh(1),YPO1161-MONOMER,cosh(1),Homology
+YPO1177-MONOMER_mod_fad(1),YPO1177-MONOMER,fad(1),Homology
+YPO1201-MONOMER_mod_pydx5p(1),YPO1201-MONOMER,pydx5p(1),Homology
+YPO1207-MONOMER_mod_hemed(6),YPO1207-MONOMER,hemed(6),Homology
+YPO1215-MONOMER_mod_zn2(1),YPO1215-MONOMER,zn2(1),Homology
+YPO1299-MONOMER_mod_mg2(1),YPO1299-MONOMER,mg2(1),Homology
+YPO1327-MONOMER_mod_Oxidized(1),YPO1327-MONOMER,Oxidized(1),Homology
+YPO1336-MONOMER_mod_4fe4s(1),YPO1336-MONOMER,4fe4s(1),Homology
+YPO1357-MONOMER_mod_pydx5p(1),YPO1357-MONOMER,pydx5p(1),Homology
+YPO1358-MONOMER_mod_mg2(1)_mod_thmpp(1)_mod_fad(1),YPO1358-MONOMER,mg2(1) AND thmpp(1) AND fad(1),Homology
+YPO1379-MONOMER_mod_mg2(1),YPO1379-MONOMER,mg2(1),Homology
+YPO1383-MONOMER_mod_glycyl(1),YPO1383-MONOMER,glycyl(1),Homology
+YPO1389-MONOMER_mod_pydx5p(1),YPO1389-MONOMER,pydx5p(1),Homology
+YPO1391-MONOMER_mod_mg2(1),YPO1391-MONOMER,mg2(1),Homology
+YPO1395-MONOMER_mod_mg2(1),YPO1395-MONOMER,mg2(1),Homology
+YPO1396-MONOMER_mod_mg2(1),YPO1396-MONOMER,mg2(1),Homology
+YPO1400-MONOMER_mod_mg2(1),YPO1400-MONOMER,mg2(1),Homology
+YPO1410-MONOMER_mod_pydx5p(1),YPO1410-MONOMER,pydx5p(1),Homology
+YPO1415-MONOMER_mod_fmn(1),YPO1415-MONOMER,fmn(1),Homology
+YPO1502-MONOMER_mod_zn2(1),YPO1502-MONOMER,zn2(1),Homology
+YPO1505-MONOMER_mod_zn2(1),YPO1505-MONOMER,zn2(1),Homology
+YPO1511-MONOMER_mod_mn2(1),YPO1511-MONOMER,mn2(1),Homology
+YPO1511-MONOMER_mod_mg2(1),YPO1511-MONOMER,mg2(1),Homology
+YPO1512-MONOMER_mod_zn2(1),YPO1512-MONOMER,zn2(1),Homology
+YPO1522-MONOMER_mod_zn2(2),YPO1522-MONOMER,zn2(2),Homology
+YPO1524-MONOMER_mod_mg2(1),YPO1524-MONOMER,mg2(1),Homology
+YPO1546-MONOMER_mod_mg2(1),YPO1546-MONOMER,mg2(1),Homology
+YPO1546-MONOMER_mod_mn2(1),YPO1546-MONOMER,mn2(1),Homology
+YPO1547-MONOMER_mod_pydx5p(1),YPO1547-MONOMER,pydx5p(1),Homology
+YPO1548-MONOMER_mod_mn2(1),YPO1548-MONOMER,mn2(1),Homology
+YPO1569-MONOMER_mod_fmn(1),YPO1569-MONOMER,fmn(1),Homology
+YPO1570-MONOMER_mod_mg2(1),YPO1570-MONOMER,mg2(1),Homology
+YPO1587-MONOMER_mod_zn2(2),YPO1587-MONOMER,zn2(2),Homology
+YPO1590-MONOMER_mod_zn2(2),YPO1590-MONOMER,zn2(2),Homology
+YPO1600-MONOMER_mod_pan4p(1),YPO1600-MONOMER,pan4p(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_ac(1),YPO1600-MONOMER,pan4p(1) AND ac(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_mal(1),YPO1600-MONOMER,pan4p(1) AND mal(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_but2e(1),YPO1600-MONOMER,pan4p(1) AND but2e(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_act(1),YPO1600-MONOMER,pan4p(1) AND act(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_but(1),YPO1600-MONOMER,pan4p(1) AND but(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_3ha(1),YPO1600-MONOMER,pan4p(1) AND 3ha(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_egme(1),YPO1600-MONOMER,pan4p(1) AND egme(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_ogme(1),YPO1600-MONOMER,pan4p(1) AND ogme(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_gme(1),YPO1600-MONOMER,pan4p(1) AND gme(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_hgme(1),YPO1600-MONOMER,pan4p(1) AND hgme(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_thex2e(1),YPO1600-MONOMER,pan4p(1) AND thex2e(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_3ohex(1),YPO1600-MONOMER,pan4p(1) AND 3ohex(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_hex(1),YPO1600-MONOMER,pan4p(1) AND hex(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_3hhex(1),YPO1600-MONOMER,pan4p(1) AND 3hhex(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_pim(1),YPO1600-MONOMER,pan4p(1) AND pim(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_epme(1),YPO1600-MONOMER,pan4p(1) AND epme(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_opme(1),YPO1600-MONOMER,pan4p(1) AND opme(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_pme(1),YPO1600-MONOMER,pan4p(1) AND pme(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_hpme(1),YPO1600-MONOMER,pan4p(1) AND hpme(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_toct2e(1),YPO1600-MONOMER,pan4p(1) AND toct2e(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_3ooct(1),YPO1600-MONOMER,pan4p(1) AND 3ooct(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_oc(1),YPO1600-MONOMER,pan4p(1) AND oc(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_3hoct(1),YPO1600-MONOMER,pan4p(1) AND 3hoct(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_tdec2e(1),YPO1600-MONOMER,pan4p(1) AND tdec2e(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_cdec3e(1),YPO1600-MONOMER,pan4p(1) AND cdec3e(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_3odec(1),YPO1600-MONOMER,pan4p(1) AND 3odec(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_dca(1),YPO1600-MONOMER,pan4p(1) AND dca(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_3hdec(1),YPO1600-MONOMER,pan4p(1) AND 3hdec(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_t3c5ddece(1),YPO1600-MONOMER,pan4p(1) AND t3c5ddece(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_3ocddec5e(1),YPO1600-MONOMER,pan4p(1) AND 3ocddec5e(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_tddec2e(1),YPO1600-MONOMER,pan4p(1) AND tddec2e(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_cddec5e(1),YPO1600-MONOMER,pan4p(1) AND cddec5e(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_3oddec(1),YPO1600-MONOMER,pan4p(1) AND 3oddec(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_3hcddec5e(1),YPO1600-MONOMER,pan4p(1) AND 3hcddec5e(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_ddca(1),YPO1600-MONOMER,pan4p(1) AND ddca(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_3hddec(1),YPO1600-MONOMER,pan4p(1) AND 3hddec(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_t3c7mrse(1),YPO1600-MONOMER,pan4p(1) AND t3c7mrse(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_3ocmrs7e(1),YPO1600-MONOMER,pan4p(1) AND 3ocmrs7e(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_tde(1),YPO1600-MONOMER,pan4p(1) AND tde(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_tmrs2e(1),YPO1600-MONOMER,pan4p(1) AND tmrs2e(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_3omrs(1),YPO1600-MONOMER,pan4p(1) AND 3omrs(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_3hcmrs7e(1),YPO1600-MONOMER,pan4p(1) AND 3hcmrs7e(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_myrs(1),YPO1600-MONOMER,pan4p(1) AND myrs(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_3hmrs(1),YPO1600-MONOMER,pan4p(1) AND 3hmrs(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_t3c9palme(1),YPO1600-MONOMER,pan4p(1) AND t3c9palme(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_3ocpalm9e(1),YPO1600-MONOMER,pan4p(1) AND 3ocpalm9e(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_hde(1),YPO1600-MONOMER,pan4p(1) AND hde(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_tpalm2e(1),YPO1600-MONOMER,pan4p(1) AND tpalm2e(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_3opalm(1),YPO1600-MONOMER,pan4p(1) AND 3opalm(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_3hcpalm9e(1),YPO1600-MONOMER,pan4p(1) AND 3hcpalm9e(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_palm(1),YPO1600-MONOMER,pan4p(1) AND palm(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_3hpalm(1),YPO1600-MONOMER,pan4p(1) AND 3hpalm(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_t3c11vace(1),YPO1600-MONOMER,pan4p(1) AND t3c11vace(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_3ocvac11e(1),YPO1600-MONOMER,pan4p(1) AND 3ocvac11e(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_toctd2e(1),YPO1600-MONOMER,pan4p(1) AND toctd2e(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_octe(1),YPO1600-MONOMER,pan4p(1) AND octe(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_3ooctd(1),YPO1600-MONOMER,pan4p(1) AND 3ooctd(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_3hcvac11e(1),YPO1600-MONOMER,pan4p(1) AND 3hcvac11e(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_ocdca(1),YPO1600-MONOMER,pan4p(1) AND ocdca(1),Homology
+YPO1600-MONOMER_mod_pan4p(1)_mod_3hocta(1),YPO1600-MONOMER,pan4p(1) AND 3hocta(1),Homology
+YPO1603-MONOMER_mod_pydx5p(1),YPO1603-MONOMER,pydx5p(1),Homology
+YPO1605-MONOMER_mod_mg2(1),YPO1605-MONOMER,mg2(1),Homology
+YPO1614-MONOMER_mod_mg2(1),YPO1614-MONOMER,mg2(1),Homology
+YPO1617-MONOMER_mod_mg2(1)_mod_cu(1)_mod_fad(1),YPO1617-MONOMER,mg2(1) AND cu(1) AND fad(1),Homology
+YPO1625-MONOMER_mod_mg2(1),YPO1625-MONOMER,mg2(1),Homology
+YPO1641-MONOMER_mod_mn2(1),YPO1641-MONOMER,mn2(1),Homology
+YPO1641-MONOMER_mod_mg2(1),YPO1641-MONOMER,mg2(1),Homology
+YPO1654-MONOMER_mod_mg2(1),YPO1654-MONOMER,mg2(1),Homology
+YPO1748-MONOMER_mod_zn2(2),YPO1748-MONOMER,zn2(2),Homology
+YPO1771-MONOMER_mod_4fe4s(1),YPO1771-MONOMER,4fe4s(1),Homology
+YPO1775-MONOMER_mod_mg2(1),YPO1775-MONOMER,mg2(1),Homology
+YPO1845-MONOMER_mod_pydx5p(1),YPO1845-MONOMER,pydx5p(1),Homology
+YPO1851-MONOMER_mod_fad(1),YPO1851-MONOMER,fad(1),Homology
+YPO1867-MONOMER_mod_mg2(1),YPO1867-MONOMER,mg2(1),Homology
+YPO1962-MONOMER_mod_pydx5p(1),YPO1962-MONOMER,pydx5p(1),Homology
+YPO2013-MONOMER_mod_mg2(1)_mod_pi(1),YPO2013-MONOMER,mg2(1) AND pi(1),Homology
+YPO2013-MONOMER_mod_mn2(1)_mod_pi(1),YPO2013-MONOMER,mn2(1) AND pi(1),Homology
+YPO2014-MONOMER_mod_mg2(1),YPO2014-MONOMER,mg2(1),Homology
+YPO2046-MONOMER_mod_mg2(1),YPO2046-MONOMER,mg2(1),Homology
+YPO2054-MONOMER_mod_mg2(1),YPO2054-MONOMER,mg2(1),Homology
+YPO2064-MONOMER_mod_mg2(1)_mod_k(1),YPO2064-MONOMER,mg2(1) AND k(1),Homology
+YPO2064-MONOMER_mod_mn2(1)_mod_k(1),YPO2064-MONOMER,mn2(1) AND k(1),Homology
+YPO2074-MONOMER_mod_mg2(1),YPO2074-MONOMER,mg2(1),Homology
+YPO2075-MONOMER_mod_mg2(5),YPO2075-MONOMER,mg2(5),Homology
+YPO2164-MONOMER_mod_mg2(1),YPO2164-MONOMER,mg2(1),Homology
+YPO2167-MONOMER_mod_mg2(1),YPO2167-MONOMER,mg2(1),Homology
+YPO2167-MONOMER_mod_mn2(1),YPO2167-MONOMER,mn2(1),Homology
+YPO2176-MONOMER_mod_mg2(1),YPO2176-MONOMER,mg2(1),Homology
+YPO2180-MONOMER_mod_fe2(1),YPO2180-MONOMER,fe2(1),Homology
+YPO2221-MONOMER_mod_4fe4s(1),YPO2221-MONOMER,4fe4s(1),Homology
+YPO2222-MONOMER_mod_mg2(1),YPO2222-MONOMER,mg2(1),Homology
+YPO2230-MONOMER_mod_zn2(1),YPO2230-MONOMER,zn2(1),Homology
+YPO2235-MONOMER_mod_mg2(1),YPO2235-MONOMER,mg2(1),Homology
+YPO2253-MONOMER_mod_mn2(1),YPO2253-MONOMER,mn2(1),Homology
+YPO2295-MONOMER_mod_mn2(1),YPO2295-MONOMER,mn2(1),Homology
+YPO2298-MONOMER_mod_zn2(1)_mod_mg2(1),YPO2298-MONOMER,zn2(1) AND mg2(1),Homology
+YPO2334-MONOMER_mod_thmpp(1),YPO2334-MONOMER,thmpp(1),Homology
+YPO2335-MONOMER_mod_4fe4s(1),YPO2335-MONOMER,4fe4s(1),Homology
+YPO2370-MONOMER_mod_fmn(1),YPO2370-MONOMER,fmn(1),Homology
+YPO2372-MONOMER_mod_mg2(1),YPO2372-MONOMER,mg2(1),Homology
+YPO2381-MONOMER_mod_ni2(1),YPO2381-MONOMER,ni2(1),Homology
+YPO2382-MONOMER_mod_mg2(4),YPO2382-MONOMER,mg2(4),Homology
+YPO2383-MONOMER_mod_Oxidized(1),YPO2383-MONOMER,Oxidized(1),Homology
+YPO2386-MONOMER_mod_fe3(1),YPO2386-MONOMER,fe3(1),Homology
+YPO2390-MONOMER_mod_hco3(1),YPO2390-MONOMER,hco3(1),Homology
+YPO2393-MONOMER_mod_mg2(1)_mod_k(1),YPO2393-MONOMER,mg2(1) AND k(1),Homology
+YPO2393-MONOMER_mod_mn2(1)_mod_k(1),YPO2393-MONOMER,mn2(1) AND k(1),Homology
+YPO2394-MONOMER_mod_palmitate(1),YPO2394-MONOMER,palmitate(1),Homology
+YPO2409-MONOMER_mod_mg2(1),YPO2409-MONOMER,mg2(1),Homology
+YPO2411-MONOMER_mod_fe3(1),YPO2411-MONOMER,fe3(1),Homology
+YPO2422-MONOMER_mod_pydx5p(1),YPO2422-MONOMER,pydx5p(1),Homology
+YPO2433-MONOMER_mod_zn2(1),YPO2433-MONOMER,zn2(1),Homology
+YPO2448-MONOMER_mod_fad(1),YPO2448-MONOMER,fad(1),Homology
+YPO2496-MONOMER_mod_k(1)_mod_mg2(1),YPO2496-MONOMER,k(1) AND mg2(1),Homology
+YPO2523-MONOMER_mod_mg2(1),YPO2523-MONOMER,mg2(1),Homology
+YPO2524-MONOMER_mod_mg2(1),YPO2524-MONOMER,mg2(1),Homology
+YPO2525-MONOMER_mod_hco3(1),YPO2525-MONOMER,hco3(1),Homology
+YPO2527-MONOMER_mod_mg2(1)_mod_mn2(1)_mod_thmpp(1),YPO2527-MONOMER,mg2(1) AND mn2(1) AND thmpp(1),Homology
+YPO2528-MONOMER_mod_mg2(1),YPO2528-MONOMER,mg2(1),Homology
+YPO2559-MONOMER_mod_cobalt2(1),YPO2559-MONOMER,cobalt2(1),Homology
+YPO2566-MONOMER_mod_mg2(1),YPO2566-MONOMER,mg2(1),Homology
+YPO2598-MONOMER_mod_4fe4s(2),YPO2598-MONOMER,4fe4s(2),Homology
+YPO2607-MONOMER_mod_mg2(1),YPO2607-MONOMER,mg2(1),Homology
+YPO2620-MONOMER_mod_4fe4s(1),YPO2620-MONOMER,4fe4s(1),Homology
+YPO2623-MONOMER_mod_mg2(1),YPO2623-MONOMER,mg2(1),Homology
+YPO2626-MONOMER_mod_zn2(1),YPO2626-MONOMER,zn2(1),Homology
+YPO2635-MONOMER_mod_Oxidized(1),YPO2635-MONOMER,Oxidized(1),Homology
+YPO2686-MONOMER_mod_mg2(1),YPO2686-MONOMER,mg2(1),Homology
+YPO2710-MONOMER_mod_fad(1),YPO2710-MONOMER,fad(1),Homology
+YPO2718-MONOMER_mod_mg2(2),YPO2718-MONOMER,mg2(2),Homology
+YPO2751-MONOMER_mod_fmnh2(1),YPO2751-MONOMER,fmnh2(1),Homology
+YPO2751-MONOMER_mod_fadh2(1),YPO2751-MONOMER,fadh2(1),Homology
+YPO2756-MONOMER_mod_fad(1),YPO2756-MONOMER,fad(1),Homology
+YPO2772-MONOMER_mod_mg2(1),YPO2772-MONOMER,mg2(1),Homology
+YPO2828-MONOMER_mod_k(1)_mod_mg2(1),YPO2828-MONOMER,k(1) AND mg2(1),Homology
+YPO2837-MONOMER_mod_mg2(1),YPO2837-MONOMER,mg2(1),Homology
+YPO2844-MONOMER_mod_pydx5p(1),YPO2844-MONOMER,pydx5p(1),Homology
+YPO2870-MONOMER_mod_mg2(1),YPO2870-MONOMER,mg2(1),Homology
+YPO2878-MONOMER_mod_mg2(4),YPO2878-MONOMER,mg2(4),Homology
+YPO2879-MONOMER_mod_mn2(1),YPO2879-MONOMER,mn2(1),Homology
+YPO2882-MONOMER_mod_4fe4s(1),YPO2882-MONOMER,4fe4s(1),Homology
+YPO2883-MONOMER_mod_mg2(1),YPO2883-MONOMER,mg2(1),Homology
+YPO2883-MONOMER_mod_mn2(1),YPO2883-MONOMER,mn2(1),Homology
+YPO2883-MONOMER_mod_ca2(1),YPO2883-MONOMER,ca2(1),Homology
+YPO2895-MONOMER_mod_fe2(1),YPO2895-MONOMER,fe2(1),Homology
+YPO2895-MONOMER_mod_fe2(2),YPO2895-MONOMER,fe2(2),Homology
+YPO2896-MONOMER_mod_pydx5p(2),YPO2896-MONOMER,pydx5p(2),Homology
+YPO2899-MONOMER_mod_mg2(1),YPO2899-MONOMER,mg2(1),Homology
+YPO2908-MONOMER_mod_fad(1)_mod_pheme(1),YPO2908-MONOMER,fad(1) AND pheme(1),Homology
+YPO2921-MONOMER_mod_mg2(1),YPO2921-MONOMER,mg2(1),Homology
+YPO2923-MONOMER_mod_zn2(2),YPO2923-MONOMER,zn2(2),Homology
+YPO2929-MONOMER_mod_mg2(1),YPO2929-MONOMER,mg2(1),Homology
+YPO2929-MONOMER_mod_mn2(1),YPO2929-MONOMER,mn2(1),Homology
+YPO2984-MONOMER_mod_mg2(1)_mod_zn2(1),YPO2984-MONOMER,mg2(1) AND zn2(1),Homology
+YPO2989-MONOMER_mod_mg2(1),YPO2989-MONOMER,mg2(1),Homology
+YPO2992-MONOMER_mod_pydx5p(2),YPO2992-MONOMER,pydx5p(2),Homology
+YPO3011-MONOMER_mod_pydx5p(1),YPO3011-MONOMER,pydx5p(1),Homology
+YPO3032-MONOMER_mod_mn2(1),YPO3032-MONOMER,mn2(1),Homology
+YPO3034-MONOMER_mod_mn2(1),YPO3034-MONOMER,mn2(1),Homology
+YPO3034-MONOMER_mod_mg2(1),YPO3034-MONOMER,mg2(1),Homology
+YPO3053-MONOMER_mod_zn2(1)_mod_cobalt2(1),YPO3053-MONOMER,zn2(1) AND cobalt2(1),Homology
+YPO3073-MONOMER_mod_zn2(1),YPO3073-MONOMER,zn2(1),Homology
+YPO3080-MONOMER_mod_ca2(1),YPO3080-MONOMER,ca2(1),Homology
+YPO3095-MONOMER_mod_k(1)_mod_mg2(1),YPO3095-MONOMER,k(1) AND mg2(1),Homology
+YPO3118-MONOMER_mod_mg2(1),YPO3118-MONOMER,mg2(1),Homology
+YPO3123-MONOMER_mod_mg2(1),YPO3123-MONOMER,mg2(1),Homology
+YPO3123-MONOMER_mod_mn2(1),YPO3123-MONOMER,mn2(1),Homology
+YPO3148-MONOMER_mod_mg2(1),YPO3148-MONOMER,mg2(1),Homology
+YPO3168-MONOMER_mod_mg2(1),YPO3168-MONOMER,mg2(1),Homology
+YPO3168-MONOMER_mod_ca2(1),YPO3168-MONOMER,ca2(1),Homology
+YPO3176-MONOMER_mod_mg2(1),YPO3176-MONOMER,mg2(1),Homology
+YPO3176-MONOMER_mod_mn2(1),YPO3176-MONOMER,mn2(1),Homology
+YPO3177-MONOMER_mod_thmpp(1),YPO3177-MONOMER,thmpp(1),Homology
+YPO3179-MONOMER_mod_mg2(1),YPO3179-MONOMER,mg2(1),Homology
+YPO3180-MONOMER_mod_mg2(1),YPO3180-MONOMER,mg2(1),Homology
+YPO3191-MONOMER_mod_zn2(6),YPO3191-MONOMER,zn2(6),Homology
+YPO3193-MONOMER_mod_zn2(1)_mod_fe2(1)_mod_cobalt2(1)_mod_mg2(1)_mod_mn2(1),YPO3193-MONOMER,zn2(1) AND fe2(1) AND cobalt2(1) AND mg2(1) AND mn2(1),Homology
+YPO3215-MONOMER_mod_mg2(1),YPO3215-MONOMER,mg2(1),Homology
+YPO3215-MONOMER_mod_mn2(1),YPO3215-MONOMER,mn2(1),Homology
+YPO3215-MONOMER_mod_cobalt2(1),YPO3215-MONOMER,cobalt2(1),Homology
+YPO3215-MONOMER_mod_fe2(1),YPO3215-MONOMER,fe2(1),Homology
+YPO3215-MONOMER_mod_ca2(1),YPO3215-MONOMER,ca2(1),Homology
+YPO3215-MONOMER_mod_k(1),YPO3215-MONOMER,k(1),Homology
+YPO3222-MONOMER_mod_mg2(1),YPO3222-MONOMER,mg2(1),Homology
+YPO3249-MONOMER_mod_mn2(1),YPO3249-MONOMER,mn2(1),Homology
+YPO3249-MONOMER_mod_2fe2s(1)_mod_mn2(1),YPO3249-MONOMER,2fe2s(1) AND mn2(1),Homology
+YPO3249-MONOMER_mod_4fe4s(1)_mod_mn2(1),YPO3249-MONOMER,4fe4s(1) AND mn2(1),Homology
+YPO3270-MONOMER_mod_Oxidized(1),YPO3270-MONOMER,Oxidized(1),Homology
+YPO3277-MONOMER_mod_mg2(1),YPO3277-MONOMER,mg2(1),Homology
+YPO3286-MONOMER_mod_fe2(2),YPO3286-MONOMER,fe2(2),Homology
+YPO3301-MONOMER_mod_mg2(1),YPO3301-MONOMER,mg2(1),Homology
+YPO3303-MONOMER_mod_mg2(1),YPO3303-MONOMER,mg2(1),Homology
+YPO3305-MONOMER_mod_zn2(4),YPO3305-MONOMER,zn2(4),Homology
+YPO3312-MONOMER_mod_mg2(1),YPO3312-MONOMER,mg2(1),Homology
+YPO3312-MONOMER_mod_mn2(1),YPO3312-MONOMER,mn2(1),Homology
+YPO3319-MONOMER_mod_pheme(1),YPO3319-MONOMER,pheme(1),Homology
+YPO3334-MONOMER_mod_mg2(1),YPO3334-MONOMER,mg2(1),Homology
+YPO3335-MONOMER_mod_4fe4s(1),YPO3335-MONOMER,4fe4s(1),Homology
+YPO3358-MONOMER_mod_cobalt2(1),YPO3358-MONOMER,cobalt2(1),Homology
+YPO3360-MONOMER_mod_mn2(1),YPO3360-MONOMER,mn2(1),Homology
+YPO3361-MONOMER_mod_mg2(1),YPO3361-MONOMER,mg2(1),Homology
+YPO3361-MONOMER_mod_mn2(1),YPO3361-MONOMER,mn2(1),Homology
+YPO3361-MONOMER_mod_cobalt2(1),YPO3361-MONOMER,cobalt2(1),Homology
+YPO3364-MONOMER_mod_mg2(1),YPO3364-MONOMER,mg2(1),Homology
+YPO3364-MONOMER_mod_mn2(1),YPO3364-MONOMER,mn2(1),Homology
+YPO3364-MONOMER_mod_cobalt2(1),YPO3364-MONOMER,cobalt2(1),Homology
+YPO3364-MONOMER_mod_cd2(1),YPO3364-MONOMER,cd2(1),Homology
+YPO3375-MONOMER_mod_cu2(1),YPO3375-MONOMER,cu2(1),Homology
+YPO3376-MONOMER_mod_mg2(4),YPO3376-MONOMER,mg2(4),Homology
+YPO3377-MONOMER_mod_mg2(1),YPO3377-MONOMER,mg2(1),Homology
+YPO3378-MONOMER_mod_mg2(1),YPO3378-MONOMER,mg2(1),Homology
+YPO3383-MONOMER_mod_mg2(1),YPO3383-MONOMER,mg2(1),Homology
+YPO3387-MONOMER_mod_2fe2s(1),YPO3387-MONOMER,2fe2s(1),Homology
+YPO3387-MONOMER_mod_4fe4s(1),YPO3387-MONOMER,4fe4s(1),Homology
+YPO3389-MONOMER_mod_pydx5p(1),YPO3389-MONOMER,pydx5p(1),Homology
+YPO3400-MONOMER_mod_mg2(1),YPO3400-MONOMER,mg2(1),Homology
+YPO3401-MONOMER_mod_mg2(1),YPO3401-MONOMER,mg2(1),Homology
+YPO3402-MONOMER_mod_mg2(1)_mod_k(1),YPO3402-MONOMER,mg2(1) AND k(1),Homology
+YPO3402-MONOMER_mod_mg2(1)_mod_nh4(1),YPO3402-MONOMER,mg2(1) AND nh4(1),Homology
+YPO3402-MONOMER_mod_mn2(1)_mod_k(1),YPO3402-MONOMER,mn2(1) AND k(1),Homology
+YPO3402-MONOMER_mod_mn2(1)_mod_nh4(1),YPO3402-MONOMER,mn2(1) AND nh4(1),Homology
+YPO3407-MONOMER_mod_zn2(1),YPO3407-MONOMER,zn2(1),Homology
+YPO3415-MONOMER_mod_4fe4s(1),YPO3415-MONOMER,4fe4s(1),Homology
+YPO3424-MONOMER_mod_mg2(1),YPO3424-MONOMER,mg2(1),Homology
+YPO3441-MONOMER_mod_zn2(1),YPO3441-MONOMER,zn2(1),Homology
+YPO3443-MONOMER_mod_mg2(1),YPO3443-MONOMER,mg2(1),Homology
+YPO3501-MONOMER_mod_mg2(1),YPO3501-MONOMER,mg2(1),Homology
+YPO3513-MONOMER_mod_mg2(1),YPO3513-MONOMER,mg2(1),Homology
+YPO3519-MONOMER_mod_mg2(1),YPO3519-MONOMER,mg2(1),Homology
+YPO3520-MONOMER_mod_mg2(1),YPO3520-MONOMER,mg2(1),Homology
+YPO3521-MONOMER_mod_mg2(1),YPO3521-MONOMER,mg2(1),Homology
+YPO3529-MONOMER_mod_mg2(1),YPO3529-MONOMER,mg2(1),Homology
+YPO3578-MONOMER_mod_mg2(1),YPO3578-MONOMER,mg2(1),Homology
+YPO3722-MONOMER_mod_zn2(1)_mod_cbl1(1),YPO3722-MONOMER,zn2(1) AND cbl1(1),Homology
+YPO3725-MONOMER_mod_mg2(1),YPO3725-MONOMER,mg2(1),Homology
+YPO3725-MONOMER_mod_mn2(1),YPO3725-MONOMER,mn2(1),Homology
+YPO3729-MONOMER_mod_mg2(1),YPO3729-MONOMER,mg2(1),Homology
+YPO3740-MONOMER_mod_mg2(1),YPO3740-MONOMER,mg2(1),Homology
+YPO3748-MONOMER_mod_acetyl(1),YPO3748-MONOMER,acetyl(1),Homology
+YPO3758-MONOMER_mod_mg2(1),YPO3758-MONOMER,mg2(1),Homology
+YPO3760-MONOMER_mod_fad(1),YPO3760-MONOMER,fad(1),Homology
+YPO3769-MONOMER_mod_mn2(1),YPO3769-MONOMER,mn2(1),Homology
+YPO3771-MONOMER_mod_zn2(1),YPO3771-MONOMER,zn2(1),Homology
+YPO3788-MONOMER_mod_zn2(1),YPO3788-MONOMER,zn2(1),Homology
+YPO3792-MONOMER_mod_mg2(1),YPO3792-MONOMER,mg2(1),Homology
+YPO3827-MONOMER_mod_ca2(1),YPO3827-MONOMER,ca2(1),Homology
+YPO3829-MONOMER_mod_mg2(1),YPO3829-MONOMER,mg2(1),Homology
+YPO3847-MONOMER_mod_fe2(1),YPO3847-MONOMER,fe2(1),Homology
+YPO3848-MONOMER_mod_mg2(1),YPO3848-MONOMER,mg2(1),Homology
+YPO3849-MONOMER_mod_dpm(1),YPO3849-MONOMER,dpm(1),Homology
+YPO3862-MONOMER_mod_nad(1),YPO3862-MONOMER,nad(1),Homology
+YPO3864-MONOMER_mod_nad(1),YPO3864-MONOMER,nad(1),Homology
+YPO3866-MONOMER_mod_mg2(1),YPO3866-MONOMER,mg2(1),Homology
+YPO3867-MONOMER_mod_mg2(3),YPO3867-MONOMER,mg2(3),Homology
+YPO3868-MONOMER_mod_Oxidized(1),YPO3868-MONOMER,Oxidized(1),Homology
+YPO3888-MONOMER_mod_mg2(1),YPO3888-MONOMER,mg2(1),Homology
+YPO3896-MONOMER_mod_pydx5p(1),YPO3896-MONOMER,pydx5p(1),Homology
+YPO3897-MONOMER_mod_4fe4s(1),YPO3897-MONOMER,4fe4s(1),Homology
+YPO3899-MONOMER_mod_pydx5p(6),YPO3899-MONOMER,pydx5p(6),Homology
+YPO3899-MONOMER_mod_pydx5p(1),YPO3899-MONOMER,pydx5p(1),Homology
+YPO3914-MONOMER_mod_fad(1),YPO3914-MONOMER,fad(1),Homology
+YPO3925-MONOMER_mod_mg2(1),YPO3925-MONOMER,mg2(1),Homology
+YPO3928-MONOMER_mod_zn2(1),YPO3928-MONOMER,zn2(1),Homology
+YPO3929-MONOMER_mod_mg2(1),YPO3929-MONOMER,mg2(1),Homology
+YPO3937-MONOMER_mod_fad(1),YPO3937-MONOMER,fad(1),Homology
+YPO3938-MONOMER_mod_pydx5p(1),YPO3938-MONOMER,pydx5p(1),Homology
+YPO3940-MONOMER_mod_mg2(1),YPO3940-MONOMER,mg2(1),Homology
+YPO3977-MONOMER_mod_fad(1),YPO3977-MONOMER,fad(1),Homology
+YPO3980-MONOMER_mod_mg2(1),YPO3980-MONOMER,mg2(1),Homology
+YPO3980-MONOMER_mod_cobalt2(1),YPO3980-MONOMER,cobalt2(1),Homology
+YPO3980-MONOMER_mod_mn2(1),YPO3980-MONOMER,mn2(1),Homology
+YPO3980-MONOMER_mod_fe2(1),YPO3980-MONOMER,fe2(1),Homology
+YPO3980-MONOMER_mod_ca2(1),YPO3980-MONOMER,ca2(1),Homology
+YPO3990-MONOMER_mod_mg2(1),YPO3990-MONOMER,mg2(1),Homology
+YPO4038-MONOMER_mod_mn2(1),YPO4038-MONOMER,mn2(1),Homology
+YPO4039-MONOMER_mod_mg2(1),YPO4039-MONOMER,mg2(1),Homology
+YPO4054-MONOMER_mod_pydx5p(1),YPO4054-MONOMER,pydx5p(1),Homology
+YPO4061-MONOMER_mod_mn2(1),YPO4061-MONOMER,mn2(1),Homology
+YPO4080-MONOMER_mod_ca2(1),YPO4080-MONOMER,ca2(1),Homology
+YPO4082-MONOMER_mod_pydx5p(1),YPO4082-MONOMER,pydx5p(1),Homology
+YPO4089-MONOMER_mod_pydx5p(1),YPO4089-MONOMER,pydx5p(1),Homology
+YPO4119-MONOMER_mod_mg2(1),YPO4119-MONOMER,mg2(1),Homology
+CPLX-tRNA-PHE-LIGASE_mod_mg2(1),CPLX-tRNA-PHE-LIGASE,mg2(1),Homology
+CPLX_ACCOAC-0_mod_btn(1),CPLX_ACCOAC-0,btn(1),Homology
+CPLX_ACHBS-0_mod_mg2(1)_mod_fad(1)_mod_thmpp(1),CPLX_ACHBS-0,mg2(1) AND fad(1) AND thmpp(1),Homology
+CPLX_ADCS-0_mod_mg2(1),CPLX_ADCS-0,mg2(1),Homology
+CPLX_AKGDH-0_mod_mg2(1)_mod_lipoyl(1),CPLX_AKGDH-0,mg2(1) AND lipoyl(1),Homology
+CPLX_ASPCT-0_mod_zn2(1),CPLX_ASPCT-0,zn2(1),Homology
+CPLX_ATPS4rpp-0_mod_mg2(1),CPLX_ATPS4rpp-0,mg2(1),Homology
+CPLX_ATPS4rpp-1_mod_mg2(1),CPLX_ATPS4rpp-1,mg2(1),Homology
+CPLX_CBPS-0_mod_mg2(1),CPLX_CBPS-0,mg2(1),Homology
+CPLX_CBPS-0_mod_mn2(1),CPLX_CBPS-0,mn2(1),Homology
+CPLX_CBPS-0_mod_cobalt2(1),CPLX_CBPS-0,cobalt2(1),Homology
+CPLX_CBPS-0_mod_cd2(1),CPLX_CBPS-0,cd2(1),Homology
+CPLX_CBPS-0_mod_zn2(1),CPLX_CBPS-0,zn2(1),Homology
+CPLX_CYTBD2pp-0_mod_pheme(1)_mod_hemed(1),CPLX_CYTBD2pp-0,pheme(1) AND hemed(1),Homology
+CPLX_CYTBO3_4pp-0_mod_pheme(1)_mod_hemeO(1)_mod_cu2(1),CPLX_CYTBO3_4pp-0,pheme(1) AND hemeO(1) AND cu2(1),Homology
+CPLX_DMSOR1-0_mod_bmocogdp(1),CPLX_DMSOR1-0,bmocogdp(1),Homology
+CPLX_FLVR-0_mod_4fe4s(1)_mod_sheme(1)_mod_fmn(1)_mod_fad(1),CPLX_FLVR-0,4fe4s(1) AND sheme(1) AND fmn(1) AND fad(1),Homology
+CPLX_GLUSy-0_mod_fe2(1)_mod_fad(1),CPLX_GLUSy-0,fe2(1) AND fad(1),Homology
+CPLX_FRD2-0_mod_pheme(1)_mod_3fe4s(1)_mod_4fe4s(1)_mod_fad(1)_mod_2fe2s(1),CPLX_FRD2-0,pheme(1) AND 3fe4s(1) AND 4fe4s(1) AND fad(1) AND 2fe2s(1),Homology
+CPLX_GLYCL-0_mod_lipoyl(1),CPLX_GLYCL-0,lipoyl(1),Homology
+CPLX_NADH16pp-0_mod_2fe2s(1)_mod_4fe4s(1)_mod_fmn(1),CPLX_NADH16pp-0,2fe2s(1) AND 4fe4s(1) AND fmn(1),Homology
+CPLX_NO3R1bpp-0_mod_bmocogdp(1),CPLX_NO3R1bpp-0,bmocogdp(1),Homology
+CPLX_NTRIR2x-0_mod_2fe2s(1)_mod_fad(1)_mod_sheme(1),CPLX_NTRIR2x-0,2fe2s(1) AND fad(1) AND sheme(1),Homology
+CPLX_PDH-0_mod_mg2(1)_mod_fad(1)_mod_thmpp(1)_mod_lipoyl(1),CPLX_PDH-0,mg2(1) AND fad(1) AND thmpp(1) AND lipoyl(1),Homology
+CPLX_SUCDi-0_mod_3fe4s(1)_mod_fad(1)_mod_2fe2s(1)_mod_4fe4s(1),CPLX_SUCDi-0,3fe4s(1) AND fad(1) AND 2fe2s(1) AND 4fe4s(1),Homology
+CPLX_TRPS1-0_mod_pydx5p(1),CPLX_TRPS1-0,pydx5p(1),Homology

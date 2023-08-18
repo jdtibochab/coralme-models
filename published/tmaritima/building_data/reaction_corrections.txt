@@ -1,0 +1,97 @@
+reaction_id,name,gene_reaction_rule,reaction,notes
+# From paper new reactions
+HYDFDi,,TM1426 and TM1425 and TM1424,fdxr_42_c + 2.000000 h_c --> fdxo_42_c + h2_c,
+IMPCT,,TM_1418,ctp_c + h_c + mi1p__D_c --> cdp_inost_c + ppi_c,
+MI1PP,,TM1415,h2o_c + mi1p__D_c --> inost_c + pi_c,
+MI1PS,,TM1419,g6p_c --> mi1p__D_c,
+NAD_H2,,TM1426 and TM1425 and TM1424,h_c + nadh_c <=> h2_c + nad_c,
+PPA_1,,TM0174,h2o_c + ppi_c --> 2.000000 pi_c + h_e,
+P_DIPS,,TM_1418,cdp_inost_c + inost_c --> cmp_c + dip_d_d_c + h_c,
+NADPDH1,,,fad_c + 3 h_c + nadph_c <=> fadh2_c + 2 h_e + nadp_c,
+ADA,,TM0936,adn_c + h_c + h2o_c --> ins_c + nh4_c,
+EX_oxa_e,,,oxa_e <=>,
+HYDFDN,,TM1426 and TM1425 and TM1424,fdxr_42_c + 3.000000 h_c + nadh_c --> fdxo_4_2_c + 2.000000 h2_c + nad_c,
+IMP,,TM1415,h2o_c + pdip_d_d_c --> dip_d_d_c + pi_c,
+IMPCT2,,TM_1418,ctp_c + h_c + mi1p__L_c --> cdp_inost_c + ppi_c,
+Kt1,,TM1088 and TM1089,k_e --> k_c,
+MI1PS2,,TM1419,g6p_c --> mi1p__L_c,
+OXADC,,TM1287,h_c + oxa_c --> co2_c + for_c,
+OXAt,,,h_e + oxa_e --> h_c + oxa_c,
+PDIPS,,TM_1418,cdp_inost_c + mi1p__L_c --> cmp_c + h_c + pdip_d_d_c,
+PPANA,,TM0174,h2o_c + na1_c + ppi_c --> h_c + 2.000000 pi_c + na1_e,
+EDD,,,6pgc_c --> 2ddg6p_c + h2o_c,
+TM_GL1_RXN,,,dcaACP_c + 2 udpg_c + glyc_c + 2 palmACP_c --> 2 udp_c + 3 ACP_c + TM_GL1_c + 2 h_c,
+TM_GL2_RXN,,,2 udpg_c + glyc_c + 2 palmACP_c --> 2 udp_c + 2 ACP_c + TM_GL2_c + 2 h_c,
+
+# From paper new GPRs
+BUTK,,(TM1754 or TM1756),,
+METS,,((TM0268 or TM0269) or TM1286),,
+MNLDH2,,TM0298,,
+NAti,,no_gene,,
+RBFK,,TM0379,,
+SUCD1,,(TM0427 or TM0428),,
+SUCD3,,(TM0427 or TM0428),,
+CELLBabc,,((TM0031 and TM0030 and TM0029 and TM0028 and TM0027) or (TM1223 and TM1222 and TM1221 and TM1220 and TM1219)),,
+BGLA,,(TM0025),,
+GLS,,(TM0024 or (TM0025) or TM1524),,
+GLS2,,(TM0024 or (TM0025) or TM1524),,
+LMN2,,(TM0025),,
+XYLOS1,,(TM0076),,
+XYLOS2,,(TM0076),,
+XYLOS3,,(TM0076),,
+
+# New corrections
+FE2tex,iron (II) transport via ABC transporter permease,TM0079 OR TM0189 OR TM0190,fe2_e <=> fe2_p,
+FE2tpp,iron (II) transport in via permease (no H+),TM1738,fe2_p --> fe2_c,
+
+EX_cobalt2,Co(II) exchange,,cobalt2_e <=>,
+COBALT2tex,cobalt (Co+2) transport via diffusion (extracellular to periplasm),,cobalt2_e <=> cobalt2_p,
+COBALT2tpp,cobalt transport in via permease (no H+),TM0561,cobalt2_p --> cobalt2_c,
+
+EX_mn2_e,Mn(II) Exchange,,mn2_e <=>,
+MNtex,Manganese (Mn+2) transport via diffusion (extracellular to periplasm),,mn2_e <=> mn2_p,
+MN2t3pp,manganese (Mn+2) transport out via proton antiport (periplasm),TM0876 or TM0538,h_p + mn2_c --> h_c + mn2_p,
+MN2tpp,manganese transport in via permease (no H+),TM1738,mn2_p --> mn2_c,
+
+EX_ca2_e,Ca(II) Exchange,,ca2_e <=>,
+CA2tex,calcium (Ca+2) transport via diffusion (extracellular to periplasm),,ca2_e <=> ca2_p,
+CAt6pp,calcium / sodium antiporter (1:1),TM0724,ca2_c + na1_p <=> ca2_p + na1_c,
+
+EX_cbl1_e,Cob(I)alamin exchange,,cbl1_e <=>,
+CBL1ab_cpp,Cob(1)alamin transport via ABC system (periplasm),TM0078 and TM0079 and TM0080,atp_c + cbl1_p + h2o_c --> adp_c + cbl1_c + h_c + pi_c,
+
+EX_cd2_e,Cadmium exchange,,cd2_e -->,
+CD2t3pp,cadmium (Cd+2) transport out via proton antiport (periplasm),TM0876 or TM0538,cd2__c + h_p --> cd2_p + h_c,
+CD2tpp,cadmium (+2) transport in via permease (no H+),TM1738,cd2_p --> cd2_c,
+
+FMNRx2,FMN reductase,,fmn_c + h_c + nadph_c --> fmnh2_c + nadp_c,
+
+CD2tpp,cadmium (+2) transport in via permease (no H+),TM1738,cd2_p --> cd2_c,
+
+# Corrected GPRs
+CHORMr,,TM0343,,
+AROH,,TM0343,,
+PPNDHr,,TM0343,,
+CHORMr,,TM0343,,
+IMPCT,,TM_RS07195,,
+P_DIPS,,TM_RS07195,,
+IMPCT2,,TM_RS07195,,
+PDIPS,,TM_RS07195,,
+MLTG1,,no_gene,,
+
+# To allow dad__5_c to leave
+5DOAN,5'-deoxyadenosine nuclosidase,TM1129,dad__5_c + h2o_c --> 5drib_c + ade_c,
+DM_5DRIB,Sink needed to allow 5'-deoxyribose to leave system,,5drib_c -->,
+
+# Glutaredoxin recovery
+GRXR,glutaredoxin reductase,,grxox_c + 2.0 gthrd_c --> grxrd_c + gthox_c,
+GTHOr,glutathione oxidoreductase,,gthox_c + h_c + nadph_c <=> 2.0 gthrd_c + nadp_c,
+
+# PreQ1 synthesis
+CPH4S,"6-carboxy-5,6,7,8-tetrahydropterin synthase",TM0038,ahdt_c + h2o_c --> acald_c + cph4_c + h_c + pppi_c,
+CDGS,7-deaza-7-carboxyguanine synthase,,cph4_c + h_c --> cdg_c + nh4_c,
+CCGS,7-cyano-7-carbaguanine synthase,,atp_c + cdg_c + nh4_c --> adp_c + h2o_c + h_c + pi_c + preq0_c,
+CDGR,7-cyano-7-deazaguanine reductase,,3.0 h_c + 2.0 nadph_c + preq0_c --> 2.0 nadp_c + preq1_c,
+
+# pppi assimilation
+PPA2,inorganic triphosphatase,TM1662,h2o_c + pppi_c --> h_c + pi_c + ppi_c,

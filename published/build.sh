@@ -1,0 +1,1 @@
+python ./build.py $5 -bbh $1 -g $2 -b $3 -ts $4 > $5/out.txt 2>&1 &

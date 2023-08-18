@@ -1,0 +1,727 @@
+{
+    "org.check_m_model": [
+        {
+            "msg": "Some metabolites are missing their formula",
+            "triggered_by": [
+                "bm_pigm_c",
+                "bm_pro_c",
+                "bm_cofactors_c",
+                "bm_carbs_c",
+                "bm_cw_c",
+                "bm_rna_c",
+                "bm_memlip_c",
+                "bm_dna_c",
+                "icolipacy_c",
+                "icolipacy_p",
+                "oanticy_c",
+                "oanticy_p",
+                "colipacy_p",
+                "colipacy_e"
+            ],
+            "importance": "critical",
+            "to_do": "Correct the formulas of the listed metabolites. Some metabolite formulas are critical for the completion of this pipeline. If homology is ON, this pipeline will try to fill in the formulas from the reference."
+        },
+        {
+            "msg": "Some metabolites have a problematic formula. If these metabolites are used in protein modifications, or other subreactions, it will cause an error.",
+            "triggered_by": [
+                "3omrsACP_c",
+                "trnaglu_c",
+                "3hhexACP_c",
+                "actACP_c",
+                "tdec2eACP_c",
+                "amylose_c",
+                "hdeACP_c",
+                "pcox_u",
+                "octe9ACP_c",
+                "thex2eACP_c",
+                "acACP_c",
+                "3odecACP_c",
+                "trdrd_c",
+                "3hdecACP_c",
+                "palmACP_c",
+                "ocACP_c",
+                "ddcaACP_c",
+                "trdox_c",
+                "3oddecACP_c",
+                "3hmrsACP_c",
+                "3opalmACP_c",
+                "3hddecACP_c",
+                "malACP_c",
+                "dcaACP_c",
+                "toct2eACP_c",
+                "3hpalmACP_c",
+                "butACP_c",
+                "ACP_c",
+                "3hoctACP_c",
+                "tmrs2eACP_c",
+                "toctd2eACP_c",
+                "pcrd_u",
+                "3hbutACP_c",
+                "myrsACP_c",
+                "glutrna_c",
+                "3ooctdACP_c",
+                "fdxox_c",
+                "fdxrd_c",
+                "3ohexACP_c",
+                "but2eACP_c",
+                "hexACP_c",
+                "ocdcaACP_c",
+                "glycogen_c",
+                "3hoctaACP_c",
+                "tpalm2eACP_c",
+                "tddec2eACP_c",
+                "3ooctACP_c",
+                "dna5mtc_c",
+                "dna_c",
+                "14glucan_c",
+                "iscssh_c",
+                "iscsh_c",
+                "bcaro_exc_c",
+                "phycy_exc_c",
+                "allocy_exc_c",
+                "this_c",
+                "athis_c",
+                "thissh_c",
+                "pho_loss_c",
+                "ogmeACP_c",
+                "hgmeACP_c",
+                "egmeACP_c",
+                "gmeACP_c",
+                "opmeACP_c",
+                "hpmeACP_c",
+                "glntrna_c",
+                "epmeACP_c",
+                "trnagln_c",
+                "pmeACP_c",
+                "pimACP_c",
+                "trnatyr_c",
+                "tyrtrna_c",
+                "trnamet_c",
+                "mettrna_c",
+                "trnaser_c",
+                "sertrna_c",
+                "accp_c",
+                "btnCCP_c",
+                "glytrna_c",
+                "trnagly_c",
+                "protrna_c",
+                "trnapro_c",
+                "trnacys_c",
+                "cystrna_c",
+                "trnaarg_c",
+                "argtrna_c",
+                "trnatrp_c",
+                "trptrna_c",
+                "phetrna_c",
+                "trnaphe_c",
+                "trnahis_c",
+                "histrna_c",
+                "trnaasn_c",
+                "asntrna_c",
+                "asptrna_c",
+                "trnaasp_c",
+                "trnathr_c",
+                "thrtrna_c",
+                "trnaleu_c",
+                "leutrna_c",
+                "trnaile_c",
+                "iletrna_c",
+                "trnalys_c",
+                "lystrna_c",
+                "alatrna_c",
+                "trnaala_c",
+                "valtrna_c",
+                "trnaval_c",
+                "fmettrna_c",
+                "photon410_e",
+                "photon430_e",
+                "photon450_e",
+                "photon470_e",
+                "photon490_e",
+                "zeax_exc_c",
+                "photon510_e",
+                "photon530_e",
+                "photon550_e",
+                "photon570_e",
+                "photon590_e",
+                "photon610_e",
+                "photon630_e",
+                "photon650_e",
+                "photon670_e",
+                "photon690_e",
+                "ps2d1_um",
+                "ps2d1_exc_um"
+            ],
+            "importance": "critical",
+            "to_do": "Correct the formulas of the listed metabolites. Some metabolite formulas are critical for the completion of this pipeline. If homology is ON, this pipeline will try to fill in the formulas from the reference."
+        },
+        {
+            "msg": "Some metabolites have no reactions associated",
+            "triggered_by": [
+                "his__L_e"
+            ],
+            "importance": "critical",
+            "to_do": "Make sure these metabolites are removed or connected properly"
+        }
+    ],
+    "org.read_gene_dictionary": [
+        {
+            "msg": "Some genes are missing Accession-1 IDs in genes.txt",
+            "triggered_by": [
+                "G490-7",
+                "SYNPCC7942_0845",
+                "SYNPCC7942_1757",
+                "SYNPCC7942_1670",
+                "SYNPCC7942_0648",
+                "SYNPCC7942_1540",
+                "SYNPCC7942_2489",
+                "SYNPCC7942_2275",
+                "SYNPCC7942_0347",
+                "SYNPCC7942_0207",
+                "SYNPCC7942_1041",
+                "SYNPCC7942_0999",
+                "SYNPCC7942_0907",
+                "SYNPCC7942_1822",
+                "SYNPCC7942_0767",
+                "SYNPCC7942_1754",
+                "SYNPCC7942_1702",
+                "SYNPCC7942_2486",
+                "SYNPCC7942_0476",
+                "SYNPCC7942_2257",
+                "SYNPCC7942_1031",
+                "SYNPCC7942_0758",
+                "SYNPCC7942_1560",
+                "SYNPCC7942_1470",
+                "SYNPCC7942_1097",
+                "HTX97_RS00035",
+                "SYNPCC7942_1601",
+                "SYNPCC7942_2413",
+                "SYNPCC7942_1363",
+                "SYNPCC7942_0389",
+                "SYNPCC7942_2241",
+                "SYNPCC7942_0916",
+                "SYNPCC7942_0452",
+                "SYNPCC7942_0034",
+                "SYNPCC7942_1084",
+                "SYNPCC7942_2404",
+                "SYNPCC7942_0438",
+                "SYNPCC7942_0905",
+                "SYNPCC7942_B2649",
+                "SYNPCC7942_2189",
+                "SYNPCC7942_2065",
+                "SYNPCC7942_0123",
+                "SYNPCC7942_0036",
+                "SYNPCC7942_1812",
+                "SYNPCC7942_1690",
+                "SYNPCC7942_B2641",
+                "SYNPCC7942_2481",
+                "SYNPCC7942_2056",
+                "SYNPCC7942_0115",
+                "HTX97_RS00040",
+                "SYNPCC7942_0784",
+                "SYNPCC7942_1765",
+                "SYNPCC7942_2608",
+                "SYNPCC7942_2474",
+                "SYNPCC7942_2336",
+                "SYNPCC7942_0306",
+                "SYNPCC7942_2107",
+                "SYNPCC7942_0456",
+                "SYNPCC7942_0176",
+                "SYNPCC7942_2050",
+                "SYNPCC7942_B2658",
+                "SYNPCC7942_0497",
+                "SYNPCC7942_0170",
+                "SYNPCC7942_1955",
+                "SYNPCC7942_1871",
+                "SYNPCC7942_1756",
+                "SYNPCC7942_1539",
+                "SYNPCC7942_1350",
+                "SYNPCC7942_1195",
+                "SYNPCC7942_0049",
+                "SYNPCC7942_2002",
+                "SYNPCC7942_0906",
+                "G490-5",
+                "SYNPCC7942_0765",
+                "SYNPCC7942_2251",
+                "SYNPCC7942_2485",
+                "SYNPCC7942_1009",
+                "SYNPCC7942_0668",
+                "SYNPCC7942_0577",
+                "SYNPCC7942_2482",
+                "SYNPCC7942_0474",
+                "SYNPCC7942_1376",
+                "SYNPCC7942_0372",
+                "SYNPCC7942_0763",
+                "SYNPCC7942_0033",
+                "SYNPCC7942_0757",
+                "SYNPCC7942_1023",
+                "SYNPCC7942_0064",
+                "SYNPCC7942_0025",
+                "SYNPCC7942_1174",
+                "G490-2",
+                "SYNPCC7942_0589",
+                "SYNPCC7942_1382",
+                "SYNPCC7942_0117",
+                "SYNPCC7942_0974",
+                "G490-89",
+                "G490-73",
+                "G490-57",
+                "G490-86",
+                "G490-70",
+                "G490-54",
+                "G490-83",
+                "G490-67",
+                "SYNPCC7942_0413",
+                "G490-80",
+                "G490-64",
+                "G490-93",
+                "G490-77",
+                "G490-61",
+                "G490-90",
+                "G490-74",
+                "G490-58",
+                "G490-87",
+                "G490-71",
+                "G490-55",
+                "G490-84",
+                "G490-68",
+                "G490-52",
+                "G490-81",
+                "G490-65",
+                "G490-94",
+                "G490-78",
+                "G490-62",
+                "G490-91",
+                "G490-75",
+                "G490-59",
+                "G490-88",
+                "G490-72",
+                "G490-56",
+                "G490-85",
+                "G490-69",
+                "G490-53",
+                "G490-82",
+                "G490-66",
+                "G490-95",
+                "G490-79",
+                "G490-63",
+                "G490-92",
+                "G490-76",
+                "G490-60",
+                "SYNPCC7942_1970",
+                "SYNPCC7942_1122",
+                "SYNPCC7942_2479",
+                "SYNPCC7942_1290",
+                "G490-6",
+                "SYNPCC7942_1286",
+                "G490-3",
+                "SYNPCC7942_1357",
+                "SYNPCC7942_0528",
+                "SYNPCC7942_0139",
+                "SYNPCC7942_1543",
+                "SYNPCC7942_1971",
+                "SYNPCC7942_1636",
+                "SYNPCC7942_2454",
+                "GCEQ-2175",
+                "SYNPCC7942_2010",
+                "SYNPCC7942_1759",
+                "SYNPCC7942_0048",
+                "G490-4",
+                "SYNPCC7942_2212",
+                "SYNPCC7942_1705",
+                "SYNPCC7942_1478",
+                "SYNPCC7942_R0017",
+                "SYNPCC7942_R0036",
+                "SYNPCC7942_R0047",
+                "SYNPCC7942_B2660",
+                "SYNPCC7942_B2635",
+                "SYNPCC7942_2411",
+                "SYNPCC7942_1270"
+            ],
+            "importance": "medium",
+            "to_do": "Complete Accession-1 IDs in genes.txt if those genes are important."
+        }
+    ],
+    "org.generate_complexes_df": [
+        {
+            "msg": "Some proteins have no genes in proteins.txt",
+            "triggered_by": [
+                "MONOMER490-3",
+                "EG50003-MONOMER"
+            ],
+            "importance": "medium",
+            "to_do": "Fill genes in proteins.txt"
+        }
+    ],
+    "org.prune_genbank": [
+        {
+            "msg": "Some features contain a sequence that is not divisible by 3.",
+            "triggered_by": [
+                {
+                    "locus_tag": [
+                        "SYNPCC7942_RS09995"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_011244435.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "M20 family metallopeptidase"
+                    ],
+                    "db_xref": [
+                        "GeneID:76400699"
+                    ],
+                    "location": "[2041037:2042224](-)"
+                }
+            ],
+            "importance": "critical",
+            "to_do": "Check whether any of these genes are translated in your final ME-model. If so, fix the positions of the gene in genome_modified.gb"
+        }
+    ],
+    "org.get_rpod": [
+        {
+            "msg": "SYNPCC7942_0649-MONOMER was identified as RpoD. If this is not true, define RpoD!",
+            "importance": "high",
+            "to_do": "Check whether you need to correct RpoD by running me_builder.org.rpod = correct_rpod"
+        }
+    ],
+    "org.get_rna_polymerase": [
+        {
+            "msg": "CPLX490-121 was identified as RNA polymerase",
+            "importance": "high",
+            "to_do": "Check whether you need to correct RNAP by running me_builder.org.get_rna_polymerase(force_RNAP_as=correct_RNAP)"
+        }
+    ],
+    "org.update_ribosome_stoich": [
+        {
+            "msg": "Some ribosomal proteins do not contain subunit information (30S, 50S) so they could not be mapped.",
+            "triggered_by": [
+                "SYNPCC7942_1500-MONOMER",
+                "SYNPCC7942_2352-MONOMER",
+                "SYNPCC7942_1567-MONOMER"
+            ],
+            "importance": "high",
+            "to_do": "Classify them in ribosomal_proteins.txt"
+        }
+    ],
+    "org.get_trna_synthetase": [
+        {
+            "msg": "No tRNA ligases were found for some amino acids. Assigned CPLX_dummy.",
+            "triggered_by": [
+                "gln__L_c"
+            ],
+            "importance": "high",
+            "to_do": "Check whether your organism should have a ligase for these amino acids, or if you need to add a reaction to get it (e.g. tRNA amidotransferases)"
+        }
+    ],
+    "org.purge_genes_in_model": [
+        {
+            "msg": "Some genes in M-model were not found in genes.txt or genome.gb. These genes will be skipped in reconstruction.",
+            "triggered_by": [
+                "Synpcc7942_2454",
+                "Synpcc7942_0034",
+                "Synpcc7942_0413",
+                "Synpcc7942_1971",
+                "Synpcc7942_2107",
+                "Synpcc7942_2010",
+                "Synpcc7942_1478",
+                "Synpcc7942_0491",
+                "Synpcc7942_0668"
+            ],
+            "importance": "high",
+            "to_do": "Confirm the gene is correct in the m_model. If so, add it to genes.txt"
+        }
+    ],
+    "prepare_model": [
+        {
+            "msg": "NGAM could not be identified in M-model, setting a standard value of 1.",
+            "importance": "high",
+            "to_do": "Manually define NGAM with me_builder.org.NGAM = NGAM_value. Check if a reaction with identifier NGAM or ATPM has a zero or negative lower bound."
+        },
+        {
+            "msg": "Some compartments in m_model are unknown",
+            "triggered_by": [
+                "cx",
+                "u",
+                "um",
+                "cm"
+            ],
+            "importance": "medium",
+            "to_do": "Check whether the compartment is correct. If not, change it in the reaction ID in the m_model."
+        }
+    ],
+    "org.get_complex_homology": [
+        {
+            "msg": "Some complexes were partial hits in the BLAST",
+            "triggered_by": [
+                {
+                    "complex": "SYNPCC7942_2457-MONOMER",
+                    "reference_complex": "Gly_RS_tetra"
+                },
+                {
+                    "complex": "SYNPCC7942_2064-MONOMER",
+                    "reference_complex": "Phe_RS_tetra"
+                },
+                {
+                    "complex": "SYNPCC7942_1680-MONOMER",
+                    "reference_complex": "ABC-70-CPLX"
+                },
+                {
+                    "complex": "SYNPCC7942_1198-MONOMER",
+                    "reference_complex": "GCVMULTI-CPLX"
+                },
+                {
+                    "complex": "SYNPCC7942_0411-MONOMER",
+                    "reference_complex": "TRYPSYN"
+                },
+                {
+                    "complex": "SYNPCC7942_1610-MONOMER",
+                    "reference_complex": "PYRNUTRANSHYDROGEN-CPLX"
+                },
+                {
+                    "complex": "SYNPCC7942_1898-MONOMER",
+                    "reference_complex": "3-ISOPROPYLMALISOM-CPLX"
+                },
+                {
+                    "complex": "SYNPCC7942_1735-MONOMER",
+                    "reference_complex": "CPLX0-1341"
+                },
+                {
+                    "complex": "SYNPCC7942_2087-MONOMER",
+                    "reference_complex": "GLUTAMIDOTRANS-CPLX"
+                },
+                {
+                    "complex": "SYNPCC7942_1671-MONOMER",
+                    "reference_complex": "ATPASE-1-CPLX_no_MONOMER0-12"
+                },
+                {
+                    "complex": "SYNPCC7942_2493-MONOMER",
+                    "reference_complex": "ABC-15-CPLX"
+                },
+                {
+                    "complex": "SYNPCC7942_1285-MONOMER",
+                    "reference_complex": "EG11595-MONOMER_EG11666-MONOMER"
+                },
+                {
+                    "complex": "SYNPCC7942_1956-MONOMER",
+                    "reference_complex": "ACETYL-COA-CARBOXYLMULTI-CPLX"
+                },
+                {
+                    "complex": "SYNPCC7942_2122-MONOMER",
+                    "reference_complex": "CARBPSYN-CPLX"
+                },
+                {
+                    "complex": "SYNPCC7942_2423-MONOMER",
+                    "reference_complex": "MnmEG_cplx"
+                },
+                {
+                    "complex": "SYNPCC7942_1003-MONOMER",
+                    "reference_complex": "ANTHRANSYN-CPLX"
+                },
+                {
+                    "complex": "SYNPCC7942_0978-MONOMER",
+                    "reference_complex": "SULFITE-REDUCT-CPLX"
+                },
+                {
+                    "complex": "SYNPCC7942_1717-MONOMER",
+                    "reference_complex": "CPLX0-7458"
+                },
+                {
+                    "complex": "SYNPCC7942_1334-MONOMER",
+                    "reference_complex": "PABASYN-CPLX"
+                },
+                {
+                    "complex": "SYNPCC7942_2571-MONOMER",
+                    "reference_complex": "CPLX0-3951_G6561-MONOMER"
+                },
+                {
+                    "complex": "CPLX490-80",
+                    "reference_complex": "ACETOLACTSYNIII-CPLX"
+                },
+                {
+                    "complex": "CPLX490-76",
+                    "reference_complex": "PURE-CPLX"
+                },
+                {
+                    "complex": "CPLX490-76",
+                    "reference_complex": "PURK-CPLX"
+                },
+                {
+                    "complex": "CPLX490-3603",
+                    "reference_complex": "CPLX0-3952"
+                },
+                {
+                    "complex": "CPLX490-3603",
+                    "reference_complex": "LUMAZINESYN-CPLX"
+                },
+                {
+                    "complex": "CPLX_GLCDBRAN3-0",
+                    "reference_complex": "EG10381-MONOMER"
+                },
+                {
+                    "complex": "CPLX_GLCDBRAN3-0",
+                    "reference_complex": "AMYLOMALT-MONOMER"
+                },
+                {
+                    "complex": "CPLX_G3PAT160-0",
+                    "reference_complex": "EG11674-MONOMER"
+                },
+                {
+                    "complex": "CPLX_G3PAT160-0",
+                    "reference_complex": "EG11437-MONOMER"
+                }
+            ],
+            "importance": "medium",
+            "to_do": "Curate these manually in protein_corrections.txt"
+        }
+    ],
+    "update_me_mets": [
+        {
+            "msg": "Some metabolites in me_metabolites.txt are not in m_model, so they were skipped.",
+            "triggered_by": [
+                "sufbcd_2fe2s_c",
+                "sufbcd_2fe2s2_c",
+                "sufbcd_4fe4s_c",
+                "iscu_2fe2s_c",
+                "iscu_2fe2s2_c",
+                "iscu_4fe4s_c"
+            ],
+            "importance": "medium",
+            "to_do": "Confirm these metabolites are correctly defined in me_metabolites.txt"
+        }
+    ],
+    "update_ribosome_subreactions_from_homology": [
+        {
+            "msg": "Some enzymes defined in me_builder.org.ribosome_subreactions are different from the ones inferred from homology",
+            "triggered_by": [
+                {
+                    "subreaction": "gtp_bound_30S_assembly_factor_phase1",
+                    "defined_complex": "",
+                    "inferred_complex": "SYNPCC7942_0160-MONOMER"
+                },
+                {
+                    "subreaction": "RbfA_mono_assembly_factor_phase1",
+                    "defined_complex": "",
+                    "inferred_complex": "SYNPCC7942_0355-MONOMER"
+                },
+                {
+                    "subreaction": "RimM_mono_assembly_factor_phase1",
+                    "defined_complex": "",
+                    "inferred_complex": "SYNPCC7942_2259-MONOMER"
+                }
+            ],
+            "importance": "medium",
+            "to_do": "Confirm whether the definitions or homology calls are correct in me_builder.org.ribosome_subreactions. Curate the inputs in ribosome_subreactions.txt accordingly."
+        }
+    ],
+    "check": [
+        {
+            "msg": "Some metabolites in me_metabolites.txt need curation",
+            "triggered_by": [
+                "octe9ACP_c",
+                "3hbutACP_c",
+                "preqtrna_c",
+                "epxqtrna_c",
+                "quetrna_c",
+                "LI_c",
+                "sufse_c",
+                "sufsesh_c",
+                "dsbard_p",
+                "dsbaox_p",
+                "dsbcrd_p",
+                "dsbcox_p",
+                "dsbdrd_c",
+                "dsbdox_c",
+                "dsbgrd_p",
+                "dsbgox_p",
+                "lpp_p",
+                "alpp_p",
+                "moadamp_c",
+                "moadcoo_c",
+                "moadcosh_c",
+                "3hcpalm9eACP_c",
+                "3ocpalm9eACP_c",
+                "grxrd_c",
+                "grxox_c",
+                "iscssh_c"
+            ],
+            "importance": "medium",
+            "to_do": "Map or remove these metabolites in me_metabolites.txt"
+        }
+    ],
+    "troubleshoot": [
+        {
+            "msg": "Some metabolites are necessary for growth",
+            "triggered_by": [
+                "TS_glu5p_c",
+                "TS_na1_p",
+                "TS_ipdp_c",
+                "TS_uaagmda_c",
+                "TS_udpgal_c",
+                "TS_dann_c",
+                "TS_pcox_u",
+                "TS_4ppcys_c",
+                "TS_ru5p__D_c",
+                "TS_26dap__M_c",
+                "TS_adocbip_c",
+                "TS_cl_p",
+                "TS_prpp_c",
+                "TS_this_c",
+                "TS_nac_c",
+                "TS_pcrd_u",
+                "TS_nmn_c",
+                "TS_3mob_c",
+                "TS_5aop_c",
+                "TS_g3p_c",
+                "TS_pppg9_c",
+                "TS_o2s_c",
+                "TS_cdp12dgr1819Z160_c",
+                "TS_ps2d1_exc_um",
+                "TS_lipamp_c",
+                "TS_cbp_c",
+                "TS_gdpmann_c",
+                "TS_ahdt_c",
+                "TS_akg_c",
+                "TS_ade_c",
+                "TS_hmgth_c",
+                "TS_ahcys_c",
+                "TS_applp_c",
+                "TS_hcys__L_c",
+                "TS_3mop_c",
+                "TS_pser__L_c",
+                "TS_3ig3p_c",
+                "TS_so3_c",
+                "TS_met__L_c",
+                "TS_cgly_c",
+                "TS_2me4p_c",
+                "TS_4mop_c",
+                "TS_sucbz_c",
+                "TS_2ahhmd_c",
+                "TS_uagmda_c",
+                "TS_gthox_c",
+                "TS_hmbil_c",
+                "TS_mal__L_c",
+                "TS_dhap_c",
+                "TS_pi_c",
+                "TS_nadph_c",
+                "TS_4fe4s_c",
+                "TS_k_c",
+                "TS_na1_c",
+                "TS_zn2_c"
+            ],
+            "importance": "critical",
+            "to_do": "Fix the gaps by adding reactions or solving other warnings. If some items are from the E-matrix, fix these first!"
+        }
+    ]
+}

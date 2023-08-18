@@ -1,0 +1,28 @@
+{
+    "ME-Model-ID" : "ecoli",
+    "m-model-path" : "inputs/iJO1366b-coralme.json",
+    "genbank-path" : "inputs/genome.gb",
+
+    "df_gene_cplxs_mods_rxns" : "automated-org-with-refs.xlsx",
+    "df_TranscriptionalUnits" : "TUs_from_ecolime_plus_genes.txt",
+    "df_matrix_stoichiometry" : "reaction_matrix.txt",
+    "df_matrix_subrxn_stoich" : "subreaction_matrix.txt",
+    "df_metadata_orphan_rxns" : "orphan_and_spont_reactions.txt",
+    "df_metadata_metabolites" : "me_metabolites.txt",
+    "df_reaction_keff_consts" : "keffs-rs.txt",
+
+    "biocyc.genes": "inputs/genes.txt",
+    "biocyc.prots": "inputs/proteins.txt",
+    "biocyc.TUs": "inputs/TUs.txt",
+    "biocyc.RNAs": "inputs/RNAs.txt",
+    "biocyc.seqs": "inputs/sequences.fasta",
+
+    "log_directory" : "iJL1678b-ME",
+    "out_directory" : "iJL1678b-ME",
+
+    "locus_tag" : "locus_tag",
+
+	"run_bbh_blast" : false,
+	"dev_reference" : false,
+	"add_lipoproteins" : true
+}

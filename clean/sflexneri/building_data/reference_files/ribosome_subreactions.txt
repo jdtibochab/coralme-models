@@ -1,0 +1,4 @@
+subreaction	enzyme
+gtp_bound_30S_assembly_factor_phase1	S2801-MONOMER
+RbfA_mono_assembly_factor_phase1	S3425-MONOMER
+RimM_mono_assembly_factor_phase1	S2845-MONOMER

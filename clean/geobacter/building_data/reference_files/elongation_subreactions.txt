@@ -1,0 +1,3 @@
+subreaction	enzymes
+FusA_mono_elongation	GMET_RS03140-MONOMER
+Tuf_gtp_regeneration	GMET_RS06300-MONOMER

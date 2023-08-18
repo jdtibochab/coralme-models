@@ -1,0 +1,10 @@
+,value
+DnaK_dependent_folding,"{'enzymes': ['YPO0468-MONOMER', 'YPO0469-MONOMER_mod_zn2(4)', 'YPO1107-MONOMER']}"
+GroEL_dependent_folding,"{'enzymes': ['YPO0351-MONOMER', 'YPO0350-MONOMER']}"
+N_terminal_methionine_cleavage,{'enzymes': ['YPO1043-MONOMER_mod_fe2(2)']}
+PrfA_mono_mediated_termination,{'enzymes': ['YPO2017-MONOMER']}
+PrfB_mono_mediated_termination,{'enzymes': ['YPO0889-MONOMER']}
+generic_RF_mediated_termination,{'enzymes': ['generic_RF']}
+peptide_chain_release,{'enzymes': ['YPO0430-MONOMER']}
+peptide_deformylase_processing,{'enzymes': ['YPO0242-MONOMER_mod_fe2(1)']}
+ribosome_recycler,{'enzymes': ['YPO1047-MONOMER']}

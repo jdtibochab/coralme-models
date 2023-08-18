@@ -1,0 +1,797 @@
+,subs
+DM_MTHTHF,Demand
+EX_ac_e,Exchange
+EX_ala__D_e,Exchange
+EX_alaala_e,Exchange
+EX_alltn_e,Exchange
+EX_arab__L_e,Exchange
+EX_arg__L_e,Exchange
+EX_asn__L_e,Exchange
+EX_asp__L_e,Exchange
+EX_btn_e,Exchange
+EX_but_e,Exchange
+EX_ca2_e,Exchange
+EX_cl_e,Exchange
+EX_co2_e,Exchange
+EX_cobalt2_e,Exchange
+EX_csn_e,Exchange
+EX_cu2_e,Exchange
+EX_cys__L_e,Exchange
+EX_etoh_e,Exchange
+EX_fe2_e,Exchange
+EX_for_e,Exchange
+EX_fru_e,Exchange
+EX_gal_e,Exchange
+EX_galctn__D_e,Exchange
+EX_galur_e,Exchange
+EX_glc_e,Exchange
+EX_glcn_e,Exchange
+EX_glcur_e,Exchange
+EX_gln__L_e,Exchange
+EX_glu__L_e,Exchange
+EX_gly_e,Exchange
+EX_glyb_e,Exchange
+EX_glyc_e,Exchange
+EX_h_e,Exchange
+EX_h2_e,Exchange
+EX_h2o_e,Exchange
+EX_his__L_e,Exchange
+EX_ile__L_e,Exchange
+EX_k_e,Exchange
+EX_lac__D_e,Exchange
+EX_lac__L_e,Exchange
+EX_leu__L_e,Exchange
+EX_lys__L_e,Exchange
+EX_malt_e,Exchange
+EX_malthx_e,Exchange
+EX_malttr_e,Exchange
+EX_man_e,Exchange
+EX_met__L_e,Exchange
+EX_mg2_e,Exchange
+EX_mn2_e,Exchange
+EX_mobd_e,Exchange
+EX_na1_e,Exchange
+EX_nh4_e,Exchange
+EX_ni2_e,Exchange
+EX_no2_e,Exchange
+EX_no3_e,Exchange
+EX_pi_e,Exchange
+EX_pro__L_e,Exchange
+EX_ptrc_e,Exchange
+EX_pydxn_e,Exchange
+EX_pyr_e,Exchange
+EX_rib__D_e,Exchange
+EX_rmn_e,Exchange
+EX_ser__D_e,Exchange
+EX_ser__L_e,Exchange
+EX_so4_e,Exchange
+EX_spmd_e,Exchange
+EX_taur_e,Exchange
+EX_thm_e,Exchange
+EX_trp__L_e,Exchange
+EX_ura_e,Exchange
+EX_val__L_e,Exchange
+EX_xan_e,Exchange
+EX_xyl__D_e,Exchange
+EX_zn2_e,Exchange
+3HAD100,Cell Envelope Biosynthesis
+3HAD120,Cell Envelope Biosynthesis
+3HAD121,Cell Envelope Biosynthesis
+3HAD140,Cell Envelope Biosynthesis
+3HAD141,Cell Envelope Biosynthesis
+3HAD160,Cell Envelope Biosynthesis
+3HAD161,Cell Envelope Biosynthesis
+3HAD180,Cell Envelope Biosynthesis
+3HAD181,Cell Envelope Biosynthesis
+3HAD40,Cell Envelope Biosynthesis
+3HAD60,Cell Envelope Biosynthesis
+3HAD80,Cell Envelope Biosynthesis
+3OAR100,Cell Envelope Biosynthesis
+3OAR120,Cell Envelope Biosynthesis
+3OAR121,Cell Envelope Biosynthesis
+3OAR140,Cell Envelope Biosynthesis
+3OAR141,Cell Envelope Biosynthesis
+3OAR160,Cell Envelope Biosynthesis
+3OAR161,Cell Envelope Biosynthesis
+3OAR180,Cell Envelope Biosynthesis
+3OAR181,Cell Envelope Biosynthesis
+3OAR40,Cell Envelope Biosynthesis
+3OAR60,Cell Envelope Biosynthesis
+3OAR80,Cell Envelope Biosynthesis
+3OAS100,Cell Envelope Biosynthesis
+3OAS120,Cell Envelope Biosynthesis
+3OAS121,Cell Envelope Biosynthesis
+3OAS140,Cell Envelope Biosynthesis
+3OAS141,Cell Envelope Biosynthesis
+3OAS160,Cell Envelope Biosynthesis
+3OAS161,Cell Envelope Biosynthesis
+3OAS180,Cell Envelope Biosynthesis
+3OAS181,Cell Envelope Biosynthesis
+3OAS60,Cell Envelope Biosynthesis
+3OAS80,Cell Envelope Biosynthesis
+4HTHRS,Cofactor and Prosthetic Group Biosynthesis
+ABTA,Arginine and Proline Metabolism
+ABUTD,Arginine and Proline Metabolism
+ACACT1r,Membrane Lipid Metabolism
+ACALD,Pyruvate Metabolism
+ACBIPGT,Cofactor and Prosthetic Group Biosynthesis
+ACCOAC,Membrane Lipid Metabolism
+ACGK,Arginine and Proline Metabolism
+ACGS,Arginine and Proline Metabolism
+ACHBS,"Valine, Leucine, and Isoleucine Metabolism"
+ACKr,Pyruvate Metabolism
+ACLS,"Valine, Leucine, and Isoleucine Metabolism"
+ACOATA,Membrane Lipid Metabolism
+ACONTa,Citric Acid Cycle
+ACONTb,Citric Acid Cycle
+ACOTA,Arginine and Proline Metabolism
+ACPS1,Cofactor and Prosthetic Group Biosynthesis
+ADA,Nucleotide Salvage Pathway
+ADCL,Cofactor and Prosthetic Group Biosynthesis
+ADCS,Cofactor and Prosthetic Group Biosynthesis
+ADD,Nucleotide Salvage Pathway
+ADK1,Nucleotide Salvage Pathway
+ADMDC,Arginine and Proline Metabolism
+ADOCBIK,Cofactor and Prosthetic Group Biosynthesis
+ADOCBLS,Cofactor and Prosthetic Group Biosynthesis
+ADPRDP,Nucleotide Salvage Pathway
+ADPT,Nucleotide Salvage Pathway
+ADSS,Purine and Pyrimidine Biosynthesis
+AGPAT120,Glycerophospholipid Metabolism
+AGPAT140,Glycerophospholipid Metabolism
+AGPAT160,Glycerophospholipid Metabolism
+AGPAT161,Glycerophospholipid Metabolism
+AGPAT180,Glycerophospholipid Metabolism
+AGPAT181,Glycerophospholipid Metabolism
+AGPR,Arginine and Proline Metabolism
+AHCYSNS,Methionine Metabolism
+AICART,Purine and Pyrimidine Biosynthesis
+ALAALAr,Cell Envelope Biosynthesis
+ALAR,Alanine and Aspartate Metabolism
+ALATA_L,Alanine and Aspartate Metabolism
+ALCD2x,Pyruvate Metabolism
+ALLTN,Nitrogen Metabolism
+AMMQLT8,Cofactor and Prosthetic Group Biosynthesis
+ANPRT,"Tyrosine, Tryptophan, and Phenylalanine Metabolism"
+ANS,"Tyrosine, Tryptophan, and Phenylalanine Metabolism"
+APRAUR,Cofactor and Prosthetic Group Biosynthesis
+ARAI,Alternate Carbon Metabolism
+ARGDC,Arginine and Proline Metabolism
+ARGSL,Arginine and Proline Metabolism
+ARGSS,Arginine and Proline Metabolism
+ASAD,Threonine and Lysine Metabolism
+ASNS1,Alanine and Aspartate Metabolism
+ASP1DC,Cofactor and Prosthetic Group Biosynthesis
+ASPCT,Purine and Pyrimidine Biosynthesis
+ASPK,Threonine and Lysine Metabolism
+ASPT,Alanine and Aspartate Metabolism
+ASPTA,Alanine and Aspartate Metabolism
+ATPM,Unassigned
+ATPPRT,Histidine Metabolism
+CBIAT,Cofactor and Prosthetic Group Biosynthesis
+CBLAT,Cofactor and Prosthetic Group Biosynthesis
+CBMKr,Unassigned
+CBPS,Arginine and Proline Metabolism
+CDPMEK,Cofactor and Prosthetic Group Biosynthesis
+CHORM,"Tyrosine, Tryptophan, and Phenylalanine Metabolism"
+CHORS,"Tyrosine, Tryptophan, and Phenylalanine Metabolism"
+CITL,Citric Acid Cycle
+CS,Citric Acid Cycle
+CSND,Nucleotide Salvage Pathway
+CTPS2,Purine and Pyrimidine Biosynthesis
+CYSDS,Cysteine Metabolism
+CYSS,Cysteine Metabolism
+CYSSADS,Cysteine Metabolism
+CYSTL,Methionine Metabolism
+CYTD,Nucleotide Salvage Pathway
+CYTDK2,Nucleotide Salvage Pathway
+CYTK1,Nucleotide Salvage Pathway
+CYTK2,Nucleotide Salvage Pathway
+DADA,Nucleotide Salvage Pathway
+DADK,Nucleotide Salvage Pathway
+DAGK120,Glycerophospholipid Metabolism
+DAGK140,Glycerophospholipid Metabolism
+DAGK160,Glycerophospholipid Metabolism
+DAGK161,Glycerophospholipid Metabolism
+DAGK180,Glycerophospholipid Metabolism
+DAGK181,Glycerophospholipid Metabolism
+DAPDC,Threonine and Lysine Metabolism
+DAPE,Threonine and Lysine Metabolism
+DASYN120,Glycerophospholipid Metabolism
+DASYN140,Glycerophospholipid Metabolism
+DASYN160,Glycerophospholipid Metabolism
+DASYN161,Glycerophospholipid Metabolism
+DASYN180,Glycerophospholipid Metabolism
+DASYN181,Glycerophospholipid Metabolism
+DB4PS,Cofactor and Prosthetic Group Biosynthesis
+DCYTD,Nucleotide Salvage Pathway
+DDPA,"Tyrosine, Tryptophan, and Phenylalanine Metabolism"
+DGK1,Nucleotide Salvage Pathway
+DHAD1,"Valine, Leucine, and Isoleucine Metabolism"
+DHAD2,"Valine, Leucine, and Isoleucine Metabolism"
+DHDPRy,Threonine and Lysine Metabolism
+DHDPS,Threonine and Lysine Metabolism
+DHFR,Cofactor and Prosthetic Group Biosynthesis
+DHFS,Cofactor and Prosthetic Group Biosynthesis
+DHNAOT4,Cofactor and Prosthetic Group Biosynthesis
+DHORD5,Purine and Pyrimidine Biosynthesis
+DHORTS,Purine and Pyrimidine Biosynthesis
+DHPS2,Cofactor and Prosthetic Group Biosynthesis
+DHPTDCs2,Methionine Metabolism
+DHQS,"Tyrosine, Tryptophan, and Phenylalanine Metabolism"
+DMATT,Cofactor and Prosthetic Group Biosynthesis
+DMPPS,Cofactor and Prosthetic Group Biosynthesis
+DPCOAK,Cofactor and Prosthetic Group Biosynthesis
+DPR,Cofactor and Prosthetic Group Biosynthesis
+DRPA,Alternate Carbon Metabolism
+DTMPK,Nucleotide Salvage Pathway
+DURIPP,Nucleotide Salvage Pathway
+DUTPDP,Nucleotide Salvage Pathway
+DXPRIi,Cofactor and Prosthetic Group Biosynthesis
+DXPS,Cofactor and Prosthetic Group Biosynthesis
+EAR100x,Cell Envelope Biosynthesis
+EAR120x,Cell Envelope Biosynthesis
+EAR121x,Cell Envelope Biosynthesis
+EAR140x,Cell Envelope Biosynthesis
+EAR141x,Cell Envelope Biosynthesis
+EAR160x,Cell Envelope Biosynthesis
+EAR161x,Cell Envelope Biosynthesis
+EAR180x,Cell Envelope Biosynthesis
+EAR181x,Cell Envelope Biosynthesis
+EAR40x,Cell Envelope Biosynthesis
+EAR60x,Cell Envelope Biosynthesis
+EAR80x,Cell Envelope Biosynthesis
+ECOAH1,Membrane Lipid Metabolism
+EDA,Pentose Phosphate Pathway
+ENO,Glycolysis/Gluconeogenesis
+FBA,Glycolysis/Gluconeogenesis
+FBA3,Pentose Phosphate Pathway
+FBP,Glycolysis/Gluconeogenesis
+FMNAT,Cofactor and Prosthetic Group Biosynthesis
+FRD2,Citric Acid Cycle
+FRUK,Alternate Carbon Metabolism
+FTHFLi,Folate Metabolism
+FUM,Citric Acid Cycle
+G1PACT,Cell Envelope Biosynthesis
+G1PTT,Cell Envelope Biosynthesis
+G1SAT,Cofactor and Prosthetic Group Biosynthesis
+G3PAT120,Glycerophospholipid Metabolism
+G3PAT140,Glycerophospholipid Metabolism
+G3PAT160,Glycerophospholipid Metabolism
+G3PAT161,Glycerophospholipid Metabolism
+G3PAT180,Glycerophospholipid Metabolism
+G3PAT181,Glycerophospholipid Metabolism
+G3PD2,Alternate Carbon Metabolism
+G5SD,Arginine and Proline Metabolism
+GALCTD,Alternate Carbon Metabolism
+GAPD,Glycolysis/Gluconeogenesis
+GARFT,Purine and Pyrimidine Biosynthesis
+GF6PTA,Cell Envelope Biosynthesis
+GHMT2r,Glycine and Serine Metabolism
+GK1,Nucleotide Salvage Pathway
+GLCRD,Alternate Carbon Metabolism
+GLNS,Glutamate Metabolism
+GLU5K,Arginine and Proline Metabolism
+GLUDy,Glutamate Metabolism
+GLUPRT,Purine and Pyrimidine Biosynthesis
+GLUR,Cell Envelope Biosynthesis
+GLUSy,Glutamate Metabolism
+GLUTRR,Cofactor and Prosthetic Group Biosynthesis
+GLUTRS,Cofactor and Prosthetic Group Biosynthesis
+GLYCDx,Alternate Carbon Metabolism
+GLYCK,Glyoxylate Metabolism
+GLYCL,Folate Metabolism
+GMPS2,Purine and Pyrimidine Biosynthesis
+GND,Pentose Phosphate Pathway
+GNK,Alternate Carbon Metabolism
+GPDDA1,Glycerophospholipid Metabolism
+GPDDA2,Glycerophospholipid Metabolism
+GPDDA4,Glycerophospholipid Metabolism
+GRTT,Cofactor and Prosthetic Group Biosynthesis
+GTPCI,Cofactor and Prosthetic Group Biosynthesis
+GTPDPK,Cofactor and Prosthetic Group Biosynthesis
+GUAD,Nucleotide Salvage Pathway
+GUAPRT,Nucleotide Salvage Pathway
+HACD1,Membrane Lipid Metabolism
+HCO3E,Unassigned
+HETZK,Cofactor and Prosthetic Group Biosynthesis
+HEX1,Glycolysis/Gluconeogenesis
+HISTD,Histidine Metabolism
+HISTP,Histidine Metabolism
+HMBS,Cofactor and Prosthetic Group Biosynthesis
+HMPK1,Cofactor and Prosthetic Group Biosynthesis
+HSDy,Threonine and Lysine Metabolism
+HSK,Threonine and Lysine Metabolism
+HSST,Methionine Metabolism
+HSTPT,Histidine Metabolism
+HXAND,Nucleotide Salvage Pathway
+HXPRT,Nucleotide Salvage Pathway
+IG3PS,Histidine Metabolism
+IGPDH,Histidine Metabolism
+IGPS,"Tyrosine, Tryptophan, and Phenylalanine Metabolism"
+ILETA,"Valine, Leucine, and Isoleucine Metabolism"
+ILETRS,tRNA Charging
+IMPC,Purine and Pyrimidine Biosynthesis
+IMPD,Purine and Pyrimidine Biosynthesis
+IPDPS,Cofactor and Prosthetic Group Biosynthesis
+IPMD,"Valine, Leucine, and Isoleucine Metabolism"
+IPPMIa,"Valine, Leucine, and Isoleucine Metabolism"
+IPPMIb,"Valine, Leucine, and Isoleucine Metabolism"
+IPPS,"Valine, Leucine, and Isoleucine Metabolism"
+KARA1,"Valine, Leucine, and Isoleucine Metabolism"
+KARA2,"Valine, Leucine, and Isoleucine Metabolism"
+KAS14,Membrane Lipid Metabolism
+KAS15,Membrane Lipid Metabolism
+LCARS,Alternate Carbon Metabolism
+LDH_D,Pyruvate Metabolism
+LEUTRS,tRNA Charging
+LYSDC,Threonine and Lysine Metabolism
+MAN1PT2,Cell Envelope Biosynthesis
+MAN6PI,Alternate Carbon Metabolism
+MCOATA,Membrane Lipid Metabolism
+MDH,Citric Acid Cycle
+ME1,Anaplerotic Reactions
+ME2,Anaplerotic Reactions
+MECDPS,Cofactor and Prosthetic Group Biosynthesis
+MEPCT,Cofactor and Prosthetic Group Biosynthesis
+METAT,Methionine Metabolism
+METS,Methionine Metabolism
+METTRS,tRNA Charging
+MGSA,Methylglyoxal Metabolism
+MOHMT,Cofactor and Prosthetic Group Biosynthesis
+MTAN,Arginine and Proline Metabolism
+MTHFC,Folate Metabolism
+MTHFD,Folate Metabolism
+MTHTHFSs,Methionine Metabolism
+NADK,Cofactor and Prosthetic Group Biosynthesis
+NADS1,Cofactor and Prosthetic Group Biosynthesis
+NDPK1,Nucleotide Salvage Pathway
+NDPK2,Nucleotide Salvage Pathway
+NDPK3,Nucleotide Salvage Pathway
+NDPK4,Nucleotide Salvage Pathway
+NDPK5,Nucleotide Salvage Pathway
+NDPK6,Nucleotide Salvage Pathway
+NDPK7,Nucleotide Salvage Pathway
+NDPK8,Nucleotide Salvage Pathway
+NNAM,Cofactor and Prosthetic Group Biosynthesis
+NNDMBRT,Cofactor and Prosthetic Group Biosynthesis
+NNDPR,Cofactor and Prosthetic Group Biosynthesis
+NTPP1,Nucleotide Salvage Pathway
+NTPP10,Nucleotide Salvage Pathway
+NTPP2,Nucleotide Salvage Pathway
+NTPP3,Nucleotide Salvage Pathway
+NTPP4,Nucleotide Salvage Pathway
+NTPP5,Nucleotide Salvage Pathway
+NTPP6,Nucleotide Salvage Pathway
+NTPP7,Nucleotide Salvage Pathway
+NTPP8,Nucleotide Salvage Pathway
+NTPP9,Nucleotide Salvage Pathway
+OBTFL,Alternate Carbon Metabolism
+OCBT,Arginine and Proline Metabolism
+OCTDPS,Cofactor and Prosthetic Group Biosynthesis
+OMCDC,"Valine, Leucine, and Isoleucine Metabolism"
+OMPDC,Purine and Pyrimidine Biosynthesis
+ORNDC,Arginine and Proline Metabolism
+ORPT,Purine and Pyrimidine Biosynthesis
+P5CR,Arginine and Proline Metabolism
+PANTS,Cofactor and Prosthetic Group Biosynthesis
+PAPPT3,Cell Envelope Biosynthesis
+PDX5PO2,Cofactor and Prosthetic Group Biosynthesis
+PFK,Glycolysis/Gluconeogenesis
+PFK_2,Alternate Carbon Metabolism
+PFK_3,Pentose Phosphate Pathway
+PFL,Pyruvate Metabolism
+PGAMT,Cell Envelope Biosynthesis
+PGCD,Glycine and Serine Metabolism
+PGI,Glycolysis/Gluconeogenesis
+PGK,Glycolysis/Gluconeogenesis
+PGM,Glycolysis/Gluconeogenesis
+PGMT,Alternate Carbon Metabolism
+PGPP120,Glycerophospholipid Metabolism
+PGPP140,Glycerophospholipid Metabolism
+PGPP160,Glycerophospholipid Metabolism
+PGPP161,Glycerophospholipid Metabolism
+PGPP180,Glycerophospholipid Metabolism
+PGPP181,Glycerophospholipid Metabolism
+PGSA120,Glycerophospholipid Metabolism
+PGSA140,Glycerophospholipid Metabolism
+PGSA160,Glycerophospholipid Metabolism
+PGSA161,Glycerophospholipid Metabolism
+PGSA180,Glycerophospholipid Metabolism
+PGSA181,Glycerophospholipid Metabolism
+PHETA1,"Tyrosine, Tryptophan, and Phenylalanine Metabolism"
+PHETRS,tRNA Charging
+PMPK,Cofactor and Prosthetic Group Biosynthesis
+PNTK,Cofactor and Prosthetic Group Biosynthesis
+PPA,Anaplerotic Reactions
+PPAKr,Alternate Carbon Metabolism
+PPBNGS,Cofactor and Prosthetic Group Biosynthesis
+PPCDC,Cofactor and Prosthetic Group Biosynthesis
+PPCK,Anaplerotic Reactions
+PPM,Alternate Carbon Metabolism
+PPM2,Alternate Carbon Metabolism
+PPNCL2,Cofactor and Prosthetic Group Biosynthesis
+PPND,"Tyrosine, Tryptophan, and Phenylalanine Metabolism"
+PPNDH,"Tyrosine, Tryptophan, and Phenylalanine Metabolism"
+PRAIS,Purine and Pyrimidine Biosynthesis
+PRAMPC,Histidine Metabolism
+PRATPP,Histidine Metabolism
+PRFGS,Purine and Pyrimidine Biosynthesis
+PRMICI,Histidine Metabolism
+PRPPS,Histidine Metabolism
+PSCVT,"Tyrosine, Tryptophan, and Phenylalanine Metabolism"
+PSD120,Glycerophospholipid Metabolism
+PSD140,Glycerophospholipid Metabolism
+PSD160,Glycerophospholipid Metabolism
+PSD161,Glycerophospholipid Metabolism
+PSD180,Glycerophospholipid Metabolism
+PSD181,Glycerophospholipid Metabolism
+PSERT,Glycine and Serine Metabolism
+PSP_L,Glycine and Serine Metabolism
+PSSA120,Glycerophospholipid Metabolism
+PSSA140,Glycerophospholipid Metabolism
+PSSA160,Glycerophospholipid Metabolism
+PSSA161,Glycerophospholipid Metabolism
+PSSA180,Glycerophospholipid Metabolism
+PSSA181,Glycerophospholipid Metabolism
+PTA2,Alternate Carbon Metabolism
+PTAr,Pyruvate Metabolism
+PTPATi,Cofactor and Prosthetic Group Biosynthesis
+PTRCTA,Arginine and Proline Metabolism
+PUNP1,Nucleotide Salvage Pathway
+PUNP2,Nucleotide Salvage Pathway
+PUNP3,Nucleotide Salvage Pathway
+PUNP4,Nucleotide Salvage Pathway
+PUNP5,Nucleotide Salvage Pathway
+PUNP6,Nucleotide Salvage Pathway
+PUNP7,Nucleotide Salvage Pathway
+PYDXNK,Cofactor and Prosthetic Group Biosynthesis
+PYK,Glycolysis/Gluconeogenesis
+QULNS,Cofactor and Prosthetic Group Biosynthesis
+RBFK,Cofactor and Prosthetic Group Biosynthesis
+RBFSa,Cofactor and Prosthetic Group Biosynthesis
+RBK,Alternate Carbon Metabolism
+RBK_L1,Alternate Carbon Metabolism
+RBP4E,Alternate Carbon Metabolism
+RHCCE,Methionine Metabolism
+RMI,Alternate Carbon Metabolism
+RMK,Alternate Carbon Metabolism
+RMPA,Alternate Carbon Metabolism
+RNDR1,Nucleotide Salvage Pathway
+RNDR2,Nucleotide Salvage Pathway
+RNDR3,Nucleotide Salvage Pathway
+RNDR4,Nucleotide Salvage Pathway
+RPE,Pentose Phosphate Pathway
+RPI,Pentose Phosphate Pathway
+RZ5PP,Cofactor and Prosthetic Group Biosynthesis
+SADT2,Cysteine Metabolism
+SDPDS,Threonine and Lysine Metabolism
+SDPTA,Threonine and Lysine Metabolism
+SELNPS,Unassigned
+SERAT,Cysteine Metabolism
+SERD_L,Glycine and Serine Metabolism
+SERTRS,tRNA Charging
+SHCHD2,Cofactor and Prosthetic Group Biosynthesis
+SHCHF,Cofactor and Prosthetic Group Biosynthesis
+SHK3Dr,"Tyrosine, Tryptophan, and Phenylalanine Metabolism"
+SHKK,"Tyrosine, Tryptophan, and Phenylalanine Metabolism"
+SPMS,Arginine and Proline Metabolism
+SPODM,Unassigned
+SSALx,Arginine and Proline Metabolism
+T2DECAI,Cell Envelope Biosynthesis
+TALA,Pentose Phosphate Pathway
+TDPDRE,Cell Envelope Biosynthesis
+TDPDRR,Cell Envelope Biosynthesis
+TDPGDH,Cell Envelope Biosynthesis
+THDPS,Threonine and Lysine Metabolism
+THRD_L,"Valine, Leucine, and Isoleucine Metabolism"
+THRS,Threonine and Lysine Metabolism
+TKT1,Pentose Phosphate Pathway
+TKT2,Pentose Phosphate Pathway
+TMDS,Nucleotide Salvage Pathway
+TMK,Cofactor and Prosthetic Group Biosynthesis
+TMPK,Cofactor and Prosthetic Group Biosynthesis
+TMPPP,Cofactor and Prosthetic Group Biosynthesis
+TPI,Glycolysis/Gluconeogenesis
+TRDR,Oxidative Phosphorylation
+TRPS1,"Tyrosine, Tryptophan, and Phenylalanine Metabolism"
+TRPS2,"Tyrosine, Tryptophan, and Phenylalanine Metabolism"
+TRPS3,"Tyrosine, Tryptophan, and Phenylalanine Metabolism"
+TRSARr,Alternate Carbon Metabolism
+TYRTA,"Tyrosine, Tryptophan, and Phenylalanine Metabolism"
+UAAGDS,Cell Envelope Biosynthesis
+UAG2E,Cell Envelope Biosynthesis
+UAGCVT,Cell Envelope Biosynthesis
+UAGDP,Cell Envelope Biosynthesis
+UAGPT3,Cell Envelope Biosynthesis
+UAMAGS,Cell Envelope Biosynthesis
+UAMAS,Cell Envelope Biosynthesis
+UAPGR,Cell Envelope Biosynthesis
+UDCPDP,Cell Envelope Biosynthesis
+UDCPDPS,Cofactor and Prosthetic Group Biosynthesis
+UDPG4E,Alternate Carbon Metabolism
+UDPGALM,Cell Envelope Biosynthesis
+UDPGD,Cell Envelope Biosynthesis
+UGMDDS,Cell Envelope Biosynthesis
+UMPK,Nucleotide Salvage Pathway
+UPP3MT,Cofactor and Prosthetic Group Biosynthesis
+UPP3S,Cofactor and Prosthetic Group Biosynthesis
+UPPRT,Nucleotide Salvage Pathway
+URIK2,Nucleotide Salvage Pathway
+VALTA,"Valine, Leucine, and Isoleucine Metabolism"
+VALTRS,tRNA Charging
+XAND,Nucleotide Salvage Pathway
+XPPT,Nucleotide Salvage Pathway
+XYLI1,Alternate Carbon Metabolism
+XYLI2,Alternate Carbon Metabolism
+XYLK,Alternate Carbon Metabolism
+BMOCOS,Cofactor and Prosthetic Group Biosynthesis
+CPMPS,Cofactor and Prosthetic Group Biosynthesis
+DAPAL,Alternate Carbon Metabolism
+FHL,Pyruvate Metabolism
+FMNRx2,Cofactor and Prosthetic Group Biosynthesis
+GLYCLTDx,Glyoxylate Metabolism
+LIPATPT,Cofactor and Prosthetic Group Biosynthesis
+MOCOS,Cofactor and Prosthetic Group Biosynthesis
+MOGDS,Cofactor and Prosthetic Group Biosynthesis
+MPTAT,Cofactor and Prosthetic Group Biosynthesis
+MPTS,Cofactor and Prosthetic Group Biosynthesis
+PGLYCP,Alternate Carbon Metabolism
+PPS,Glycolysis/Gluconeogenesis
+ABFA,Carbohydrates
+ACLDC,Carbohydrates
+ACOAD1z,Carbohydrates
+ACONT,Carbohydrates
+ADCPS1,"Cofactors, Vitamins, Prosthetic Groups, Pigments"
+ADCPS2,"Cofactors, Vitamins, Prosthetic Groups, Pigments"
+ADCYRS,"Cofactors, Vitamins, Prosthetic Groups, Pigments"
+ADK2,Nucleosides and Nucleotides
+ADSL1,Nucleosides and Nucleotides
+ADSL2,Nucleosides and Nucleotides
+AHSERL2,Amino Acids and Derivatives
+AIRCr,Nucleosides and Nucleotides
+ALCD2yi,Amino Acids and Derivatives
+ALCD4,Carbohydrates
+ALCD4y,Carbohydrates
+ALLTNt2r,Membrane Transport
+AMAA,Cell Wall and Capsule
+ANS2,Amino Acids and Derivatives
+AOR_CL,Miscellaneous
+ARABR,Carbohydrates
+ARBabc,Carbohydrates
+ARBt2r,Carbohydrates
+ARGD,Amino Acids and Derivatives
+ARGN,Amino Acids and Derivatives
+ARGt2r,Membrane Transport
+ASP4DC,Amino Acids and Derivatives
+ASPO2,"Cofactors, Vitamins, Prosthetic Groups, Pigments"
+ASPO2y,"Cofactors, Vitamins, Prosthetic Groups, Pigments"
+ASPR,Amino Acids and Derivatives
+ATPS4r,Respiration
+BACCL,"Cofactors, Vitamins, Prosthetic Groups, Pigments"
+BTCOARx,Carbohydrates
+BTNt2i,"Cofactors, Vitamins, Prosthetic Groups, Pigments"
+CLPNS120,"Fatty Acids, Lipids, and Isoprenoids"
+CLPNS140,"Fatty Acids, Lipids, and Isoprenoids"
+CLPNS160,"Fatty Acids, Lipids, and Isoprenoids"
+CLPNS161,"Fatty Acids, Lipids, and Isoprenoids"
+CLPNS180,"Fatty Acids, Lipids, and Isoprenoids"
+CLPNS181,"Fatty Acids, Lipids, and Isoprenoids"
+CODH4,Nitrogen Metabolism
+CODH_ACS,Respiration
+CPC2MT,"Cofactors, Vitamins, Prosthetic Groups, Pigments"
+CPC3MT,"Cofactors, Vitamins, Prosthetic Groups, Pigments"
+CPC4MT,"Cofactors, Vitamins, Prosthetic Groups, Pigments"
+CPC5MT,"Cofactors, Vitamins, Prosthetic Groups, Pigments"
+CPC6MT,"Cofactors, Vitamins, Prosthetic Groups, Pigments"
+CPC6R,"Cofactors, Vitamins, Prosthetic Groups, Pigments"
+CPC8MM,"Cofactors, Vitamins, Prosthetic Groups, Pigments"
+CPPPGOAN2,"Cofactors, Vitamins, Prosthetic Groups, Pigments"
+CSNt2,Membrane Transport
+CTPS1,Nucleosides and Nucleotides
+CYRDAAT,"Cofactors, Vitamins, Prosthetic Groups, Pigments"
+CYRDAS,"Cofactors, Vitamins, Prosthetic Groups, Pigments"
+CYSTGL,Amino Acids and Derivatives
+CYSTS,Amino Acids and Derivatives
+D__LACt2,Membrane Transport
+DALAt2,Carbohydrates
+DAPNH4T,Amino Acids and Derivatives
+DCMPDAi,Nucleosides and Nucleotides
+DDPGA,Carbohydrates
+DHAK,Carbohydrates
+DHNPA3,"Cofactors, Vitamins, Prosthetic Groups, Pigments"
+DHPPDA,"Cofactors, Vitamins, Prosthetic Groups, Pigments"
+DHPS,"Cofactors, Vitamins, Prosthetic Groups, Pigments"
+DHQD,Amino Acids and Derivatives
+DSERt2,Carbohydrates
+DURAD,Nucleosides and Nucleotides
+FACOAL140,"Cofactors, Vitamins, Prosthetic Groups, Pigments"
+FACOAL160,"Cofactors, Vitamins, Prosthetic Groups, Pigments"
+FACOAL180,"Cofactors, Vitamins, Prosthetic Groups, Pigments"
+FDH7,Protein Metabolism
+FE2abc,Membrane Transport
+FGLU,Amino Acids and Derivatives
+FOLR2,"Cofactors, Vitamins, Prosthetic Groups, Pigments"
+FORt2,Carbohydrates
+FRNDPR2r,Nitrogen Metabolism
+FRTT,"Fatty Acids, Lipids, and Isoprenoids"
+FRUpts,Carbohydrates
+GALCTNt2r,Membrane Transport
+GALU,Carbohydrates
+GALURt2r,Membrane Transport
+GALabc,Motility and Chemotaxis
+GCCa,"Cofactors, Vitamins, Prosthetic Groups, Pigments"
+GCCb,Amino Acids and Derivatives
+GCCc,"Cofactors, Vitamins, Prosthetic Groups, Pigments"
+GK2,Nucleosides and Nucleotides
+GLCNt2r,Carbohydrates
+GLCURt2r,Membrane Transport
+GLUt2,Membrane Transport
+GLUt4,Membrane Transport
+GLYBt2r,Membrane Transport
+GLYCt,Carbohydrates
+GLYt2,Carbohydrates
+GTPCII,"Cofactors, Vitamins, Prosthetic Groups, Pigments"
+HAMR,Nitrogen Metabolism
+HCITS,Carbohydrates
+HISD,Amino Acids and Derivatives
+HPPK,"Cofactors, Vitamins, Prosthetic Groups, Pigments"
+HSERTA,Amino Acids and Derivatives
+HYD2,Protein Metabolism
+HYDFDN2r,Respiration
+HYDFDNr,Respiration
+HYDFDi,Respiration
+ICDHx,Carbohydrates
+ILEt2r,Membrane Transport
+IZPN,Amino Acids and Derivatives
+Kabc,Potassium metabolism
+LEUTA,Carbohydrates
+LEUt2r,Membrane Transport
+LYSt2r,Membrane Transport
+MALTHXabc,Membrane Transport
+MALTTRabc,Membrane Transport
+MALTabc,Membrane Transport
+MANpts,Membrane Transport
+MCTP1Aex,RNA Metabolism
+MCTP1Bex,Membrane Transport
+MCTP2Aex,RNA Metabolism
+MDDCP1ex,Cell Wall and Capsule
+MDDCP2ex,Cell Wall and Capsule
+MDDCP3ex,Cell Wall and Capsule
+MDDCP4ex,Cell Wall and Capsule
+MDDCP5ex,Cell Wall and Capsule
+MECDPDH2,"Fatty Acids, Lipids, and Isoprenoids"
+METR,Respiration
+MGt5,Membrane Transport
+MNt2,Membrane Transport
+MOBDabc,"Cofactors, Vitamins, Prosthetic Groups, Pigments"
+MPTG2ex,Membrane Transport
+MPTGex,Membrane Transport
+MTHFR5,Carbohydrates
+NADS2,"Cofactors, Vitamins, Prosthetic Groups, Pigments"
+NAPRT,"Cofactors, Vitamins, Prosthetic Groups, Pigments"
+NAt3_2,Membrane Transport
+NFORGLUAH,Amino Acids and Derivatives
+NH4t,Nitrogen Metabolism
+NIT1b,Nitrogen Metabolism
+NNAT,"Cofactors, Vitamins, Prosthetic Groups, Pigments"
+NO2t2r,Nitrogen Metabolism
+NO3t2,Nitrogen Metabolism
+NTRARf,Nitrogen Metabolism
+NTRIR5,Nitrogen Metabolism
+ORNTAC,Amino Acids and Derivatives
+P5CRx,Amino Acids and Derivatives
+PC,Carbohydrates
+PC11M,"Cofactors, Vitamins, Prosthetic Groups, Pigments"
+PC17M,"Cofactors, Vitamins, Prosthetic Groups, Pigments"
+PC20M,"Cofactors, Vitamins, Prosthetic Groups, Pigments"
+PC6AR,"Cofactors, Vitamins, Prosthetic Groups, Pigments"
+PC6YM,"Cofactors, Vitamins, Prosthetic Groups, Pigments"
+PC8XM,"Cofactors, Vitamins, Prosthetic Groups, Pigments"
+PIabc,Membrane Transport
+PIt2r,Membrane Transport
+PLPS,"Cofactors, Vitamins, Prosthetic Groups, Pigments"
+PNP,Carbohydrates
+POR,Carbohydrates
+PPDK,Carbohydrates
+PRAGS,Nucleosides and Nucleotides
+PRAI,Secondary Metabolism
+PRASCS,Nucleosides and Nucleotides
+PROt4,Membrane Transport
+PTRCabc,Membrane Transport
+PYNP1,Carbohydrates
+RIBFLVt2,"Cofactors, Vitamins, Prosthetic Groups, Pigments"
+RIBabc,Carbohydrates
+RMNt,Carbohydrates
+RNF,Respiration
+RNTR1,Nucleosides and Nucleotides
+RNTR2,Nucleosides and Nucleotides
+RNTR3,Nucleosides and Nucleotides
+RNTR4,Nucleosides and Nucleotides
+SERt2r,Carbohydrates
+SHCHCC,"Cofactors, Vitamins, Prosthetic Groups, Pigments"
+SHSL2r,Amino Acids and Derivatives
+SO4t2,Membrane Transport
+SPMDabc,Membrane Transport
+SULR3,Sulfur Metabolism
+SULabc,Membrane Transport
+TAURabc,Membrane Transport
+THFGLUS,"Cofactors, Vitamins, Prosthetic Groups, Pigments"
+THRAr,Amino Acids and Derivatives
+THRPD,"Cofactors, Vitamins, Prosthetic Groups, Pigments"
+TMN,"Cofactors, Vitamins, Prosthetic Groups, Pigments"
+TRPt2r,Membrane Transport
+UAAGMDt,Membrane Transport
+UAG2EMA,Cell Wall and Capsule
+UDCPDPex,Cell Wall and Capsule
+URAt2,Membrane Transport
+URCN,Amino Acids and Derivatives
+URIDK2r,Nucleosides and Nucleotides
+URIK1,Nucleosides and Nucleotides
+URIK3,Nucleosides and Nucleotides
+VALt2r,Membrane Transport
+XANt2,Membrane Transport
+XYLabc,Membrane Transport
+XYLt2,Carbohydrates
+ZNabc,Membrane Transport
+EX_araban__L_e,Exchange
+EX_btd__RR_e,Exchange
+EX_btoh_e,Exchange
+EX_citr__L_e,Exchange
+EX_co_e,Exchange
+EX_fol_e,Exchange
+EX_murein4p3p_e,Exchange
+EX_murein4p4p_e,Exchange
+EX_murein4px4p_e,Exchange
+EX_murein4px4px4p_e,Exchange
+EX_murein5p3p_e,Exchange
+EX_murein5p4p_e,Exchange
+EX_murein5p5p_e,Exchange
+EX_murein5p5p5p_e,Exchange
+EX_murein5px3p_e,Exchange
+EX_murein5px4p_e,Exchange
+EX_murein5px4px4p_e,Exchange
+EX_ribflv_e,Exchange
+EX_uaagmda_e,Exchange
+EX_udcpdp_e,Exchange
+EX_udcpp_e,Exchange
+DM_succ_c,Demand
+Cl_biomass_DSM_WT_46p666M1,Transport
+ACt2r,Transport
+ASNt2r,Transport
+ASPt2,Transport
+BTDt__RR,Transport
+BTOHt,Transport
+BUTt,Transport
+CA2abc,Transport
+CITRt2r,Transport
+CLt3r_2,Transport
+CO2t,Transport
+COabc,Transport
+COt,Transport
+CYSabc,Transport
+Cuabc,Transport
+ETOHt,Transport
+FOLt,Transport
+GLCt2,Transport
+GLNabc,Transport
+GLUabc,Transport
+H2Ot,Transport
+H2td,Transport
+HISt2r,Transport
+METt2r,Transport
+MNabc,Transport
+NIabc,Transport
+PYDXNtr,Transport
+PYRt2r,Transport
+THMt2,Transport
+UDCPPtexi,Transport
+CCGt,Transport
+DADt,Transport
+GLCt3,Transport
+GLYCTt,Transport
+LIPOt2,Transport
+METabc,Transport
+PNTOt,Transport
+THRt2,Transport
+ZN2t,Transport

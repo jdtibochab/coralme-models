@@ -1,0 +1,9 @@
+{
+    "Translation_initiation_fmet_addition_at_START": 1540.4356849968603,
+    "Translation_termination_peptide_deformylase_processing": 1019.5963333345715,
+    "Translation_termination_ribosome_recycler": 1059.6910912619182,
+    "Protein_processing_N_terminal_methionine_cleavage": 1339.4233102860871,
+    "UAG_PrfA_mono_mediated_termination_c": 1721.7910609284945,
+    "UGA_PrfB_mono_mediated_termination_c": 1700.2966587695353,
+    "UAA_generic_RF_mediated_termination_c": 1753.4238515034572
+}

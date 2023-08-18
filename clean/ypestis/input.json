@@ -1,0 +1,17 @@
+{
+  "m-model-path": "./ypestis/inputs/m_model.json",
+  "genbank-path": "./ypestis/inputs/genome.gb",
+  "biocyc.genes": "",
+  "biocyc.prots": "",
+  "biocyc.TUs": "",
+  "biocyc.RNAs": "",
+  "biocyc.seqs": "",
+  "df_gene_cplxs_mods_rxns": "./ypestis/building_data/automated-org-with-refs.xlsx",
+  "df_TranscriptionalUnits": "",
+  "out_directory": "./ypestis/",
+  "log_directory": "./ypestis/",
+  "run_bbh_blast": true,
+  "dev_reference": true,
+  "include_pseudo_genes": true,
+  "locus_tag": "old_locus_tag"
+}

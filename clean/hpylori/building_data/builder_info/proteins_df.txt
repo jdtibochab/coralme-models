@@ -1,0 +1,1602 @@
+Proteins,"Genes of polypeptide, complex, or RNA",Common-Name,Locations
+HP_RS07395-MONOMER,HP_RS07395,TPR_REGION domain-containing protein,
+HP_RS01295-MONOMER,HP_RS01295,inactive Type IIP restriction-modification system M protein,CCI-CYTOSOL-GN
+HP_RS03285-MONOMER,HP_RS03285,anaerobic glycerol-3-phosphate dehydrogenase,
+HP_RS05335-MONOMER,HP_RS05335,Hypothetical protein HP1085,
+HP_RS07315-MONOMER,HP_RS07315,Flagellar basal body P-ring biosynthesis protein FlgA,CCI-PERI-BAC-GN
+HP_RS01200-MONOMER,HP_RS01200,FlgR histidine kinase FlgS,
+HP_RS03205-MONOMER,HP_RS03205,Family 4 uracil-DNA glycosylase,
+HP_RS05255-MONOMER,HP_RS05255,Ribosomal protein L11 methyltransferase,CCI-CYTOSOL-GN
+HP_RS07235-MONOMER,HP_RS07235,cytochrome <i>c</i><sub>553</sub> peroxidase,CCI-PERI-BAC-GN
+HP_RS01110-MONOMER,HP_RS01110,outer membrane protein HopM,
+HP_RS03120-MONOMER,HP_RS03120,Quinone-reactive Ni/Fe hydrogenase HydC,CCI-PM-BAC-NEG-GN
+HP_RS05170-MONOMER,HP_RS05170,UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase,
+HP_RS07155-MONOMER,HP_RS07155,MotA/TolQ/ExbB family protein,CCI-PM-BAC-NEG-GN
+HP_RS01030-MONOMER,HP_RS01030,Chaperone protein HtpG,CCI-CYTOSOL-GN
+HP_RS03040-MONOMER,HP_RS03040,Adenylate kinase,CCI-CYTOSOL-GN
+HP_RS05090-MONOMER,HP_RS05090,2-amino-4-hydroxy-6- hydroxymethyldihydropteridine pyrophosphokinase,
+HP_RS07065-MONOMER,HP_RS07065,Ribosomal RNA large subunit methyltransferase N,CCI-CYTOSOL-GN
+HP_RS00935-MONOMER,HP_RS00935,fumarate reductase flavoprotein subunit FrdA,CCI-PM-BAC-NEG-GN
+HP_RS02955-MONOMER,HP_RS02955,methyl-accepting chemotaxis protein TlpD,CCO-MEMBRANE
+HP_RS05010-MONOMER,HP_RS05010,"Bifunctional 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase/2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",
+HP_RS06980-MONOMER,HP_RS06980,Hypothetical protein HP1411,
+HP_RS00850-MONOMER,HP_RS00850,uncharacterized protein,CCO-MEMBRANE
+HP_RS02870-MONOMER,HP_RS02870,flagellar biosynthesis protein FliO,CCO-MEMBRANE
+HP_RS04895-MONOMER,HP_RS04895,Putative transposase TnpB,
+HP_RS06880-MONOMER,HP_RS06880,Fibronectin/fibrinogen-binding protein,
+HP_RS00770-MONOMER,HP_RS00770,AMIN domain-containing protein,
+HP_RS02790-MONOMER,HP_RS02790,autoinducer-2 exporter,CCI-PM-BAC-NEG-GN
+HP_RS04800-MONOMER,HP_RS04800,Exodeoxyribonuclease VII large subunit,
+HP_RS06800-MONOMER,HP_RS06800,flagellar assembly protein FliW,CCI-CYTOSOL-GN
+HP_RS00685-MONOMER,HP_RS00685,putative NAD-dependent lactate dehydrogenase subunit HP0139,CCI-CYTOSOL-GN
+HP_RS02710-MONOMER,HP_RS02710,Transcription termination factor Rho,
+HP_RS00280-MONOMER,HP_RS00280,proline:Na<sup>+</sup> symporter,CCI-PM-BAC-NEG-GN
+HP_RS04710-MONOMER,HP_RS04710,acyl carrier protein,
+HP_RS06715-MONOMER,HP_RS06715,Predicted coding region HP1359,
+HP_RS00605-MONOMER,HP_RS00605,Histone-like DUF874 family protein HP0119,
+HP_RS02620-MONOMER,HP_RS02620,Cag T4SS protein CagT,CCI-PM-BAC-NEG-GN
+HP_RS00195-MONOMER,HP_RS00195,PDZ domain-containing protein,
+HP_RS04630-MONOMER,HP_RS04630,"putative transporter, Na<sup>+</sup>:H<sup>+</sup> antiporter (NhaC) family",CCI-PM-BAC-NEG-GN
+HP_RS06620-MONOMER,HP_RS06620,energy-transducing Ton complex subunit TonB,CCI-PM-BAC-NEG-GN // CCI-PERI-BAC-GN
+HP_RS00520-MONOMER,HP_RS00520,"<i>H. pylroi</i> LPS trisaccharide &beta;-(1,3)-fucosyltransferase",
+HP_RS02540-MONOMER,HP_RS02540,ATP-dependent protease subunit HslV,CCI-CYTOSOL-GN
+HP_RS00115-MONOMER,HP_RS00115,chemotaxis protein CheV1,
+HP_RS04515-MONOMER,HP_RS04515,tRNA pseudouridine synthase D,CCI-CYTOSOL-GN
+HP_RS06540-MONOMER,HP_RS06540,Fumarate hydratase FumC,CCI-CYTOSOL-GN
+HP_RS00430-MONOMER,HP_RS00430,Hypothetical protein HP0085,CCO-MEMBRANE
+HP_RS02450-MONOMER,HP_RS02450,Hypothetical protein HP0495,
+HP_RS00005-MONOMER,HP_RS00005,Transcription antitermination protein NusB,CCI-CYTOSOL-GN
+HP_RS04430-MONOMER,HP_RS04430,hook-cap foldase FlgD,CCO-CELL-PROJECTION
+HP_RS06460-MONOMER,HP_RS06460,50S ribosomal protein L14,CCI-RIBOSOME-GN
+HP_RS00345-MONOMER,HP_RS00345,urease accessory protein GTPase UreG,CCI-CYTOSOL-GN
+HP_RS02360-MONOMER,HP_RS02360,outer membrane protein HopJ,
+HP_RS02345-MONOMER,HP_RS02345,"molybdate ABC transporter, membrane subunit",CCI-PM-BAC-NEG-GN
+HP_RS04310-MONOMER,HP_RS04310,Hypothetical protein HP0884,
+HP_RS06365-MONOMER,HP_RS06365,"putative transporter, nicotinamide ribonucleoside uptake permease (PnuC) family",CCO-MEMBRANE
+HP_RS02265-MONOMER,HP_RS02265,ICEHptfs3 protein C18,CCO-MEMBRANE
+HP_RS06285-MONOMER,HP_RS06285,Paralysed flagella protein PlfA,
+HP_RS02165-MONOMER,HP_RS02165,IS605 transposase TnpB,
+HP_RS04140-MONOMER,HP_RS04140,Type I restriction-modification system M protein M.HpyAXIII,
+HP_RS06200-MONOMER,HP_RS06200,Orotate phosphoribosyltransferase PyrE,
+HP_RS02060-MONOMER,HP_RS02060,cyclopropane fatty acid synthase,
+HP_RS04050-MONOMER,HP_RS04050,Aspartyl/glutamyl-tRNA amidotransferase subunit A GatA,
+HP_RS06120-MONOMER,HP_RS06120,Alanyl-tRNA synthetase,CCI-CYTOSOL-GN
+HP_RS01955-MONOMER,HP_RS01955,Phosphoglycerate dehydrogenase SerA,
+HP_RS03970-MONOMER,HP_RS03970,flagellar motor protein MotA,CCI-PM-BAC-NEG-GN
+HP_RS06035-MONOMER,HP_RS06035,Rhodanese domain-containing protein,
+HP_RS01875-MONOMER,HP_RS01875,Protoporphyrinogen oxidase,
+HP_RS03885-MONOMER,HP_RS03885,Molybdenum cofactor biosynthesis protein MoaC,
+HP_RS05910-MONOMER,HP_RS05910,Transcription antitermination protein NusG,CCI-CYTOSOL-GN
+HP_RS07900-MONOMER,HP_RS07900,inactive Type III restriction-modification system M protein M.HpyAXVII C-terminal domain,CCI-CYTOSOL-GN
+HP_RS01785-MONOMER,HP_RS01785,Protein-L-isoaspartate O-methyltransferase,CCI-CYTOSOL-GN
+HP_RS03795-MONOMER,HP_RS03795,Bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase  AcnB,CCI-CYTOSOL-GN
+HP_RS05825-MONOMER,HP_RS05825,"putative efflux transporter, major facilitator superfamily",CCI-PM-BAC-NEG-GN
+HP_RS07795-MONOMER,HP_RS07795,FlhB-related flagellar biosynthesis protein FlhX,CCI-PM-BAC-NEG-GN
+HP_RS01695-MONOMER,HP_RS01695,hypothetical protein,
+HP_RS03715-MONOMER,HP_RS03715,Hypothetical protein HP0762,
+HP_RS05740-MONOMER,HP_RS05740,Carbon starvation protein A CstA,CCI-PM-BAC-NEG-GN
+HP_RS01600-MONOMER,HP_RS01600,flagellar basal-body L-ring protein FlgH,CCI-OUTER-MEM-GN // CCO-CELL-PROJECTION
+HP_RS03630-MONOMER,HP_RS03630,50S ribosome-binding GTPase,
+HP_RS05660-MONOMER,HP_RS05660,signal recognition particle protein component,CCI-CYTOSOL-GN
+HP_RS07635-MONOMER,HP_RS07635,ToxR-activated protein TagE2,CCO-MEMBRANE
+HP_RS01520-MONOMER,HP_RS01520,Hypothetical protein HP0308,CCO-MEMBRANE
+HP_RS03540-MONOMER,HP_RS03540,tRNA-dihydrouridine synthase B,
+HP_RS05565-MONOMER,HP_RS05565,"F0F1 ATP synthase subunit gamma, AtpG",CCI-PM-BAC-NEG-GN
+HP_RS07555-MONOMER,HP_RS07555,periplasmic competence protein ComH,
+HP_RS01440-MONOMER,HP_RS01440,DUF2156 domain-containing protein,CCI-PM-BAC-NEG-GN
+HP_RS03450-MONOMER,HP_RS03450,Ribosomal RNA small subunit methyltransferase H,CCI-CYTOSOL-GN
+HP_RS05480-MONOMER,HP_RS05480,Hypothetical protein HP1116,
+HP_RS07465-MONOMER,HP_RS07465,Ferrodoxin-like protein,CCI-PM-BAC-NEG-GN
+HP_RS01360-MONOMER,HP_RS01360,Indole-3-glycerol phosphate synthase,
+HP_RS03365-MONOMER,HP_RS03365,ferrous iron transport protein B,CCI-PM-BAC-NEG-GN
+HP_RS05400-MONOMER,HP_RS05400,6-phosphogluconate dehydratase,CCI-CYTOSOL-GN
+HP_RS07380-MONOMER,HP_RS07380,Co2 resistance protein CorC,CCO-MEMBRANE
+HP_RS01275-MONOMER,HP_RS01275,Exodeoxyribonuclease VII large subunit,CCI-CYTOSOL-GN
+HP_RS03270-MONOMER,HP_RS03270,Chorismate synthase AroC,CCI-CYTOSOL-GN
+HP_RS05320-MONOMER,HP_RS05320,putative ATP-dependent Lipid A-core flippase,CCO-MEMBRANE
+HP_RS07300-MONOMER,HP_RS07300,Thymidylate kinase,CCI-CYTOSOL-GN
+HP_RS01185-MONOMER,HP_RS01185,Hypothetical protein HP0241,
+HP_RS03190-MONOMER,HP_RS03190,Hypothetical protein HP0647,CCO-MEMBRANE
+HP_RS05235-MONOMER,HP_RS05235,Hypothetical protein HP1065,
+HP_RS07220-MONOMER,HP_RS07220,thioredoxin Trx2,CCI-CYTOSOL-GN
+HP_RS01095-MONOMER,HP_RS01095,DNA repair protein RadA,
+HP_RS03105-MONOMER,HP_RS03105,NADPH dehydrogenase (quinone),
+HP_RS05155-MONOMER,HP_RS05155,DUF448 domain-containing protein,
+HP_RS07140-MONOMER,HP_RS07140,Carbon storage regulator CsrA,CCI-CYTOSOL-GN
+HP_RS01010-MONOMER,HP_RS01010,AAA family ATPase,
+HP_RS03025-MONOMER,HP_RS03025,NAD-dependent DNA ligase LigA,CCI-CYTOSOL-GN
+HP_RS05075-MONOMER,HP_RS05075,hypothetical protein,
+HP_RS07045-MONOMER,HP_RS07045,Putative RNA binding protein,
+HP_RS00920-MONOMER,HP_RS00920,UPF0114 protein HP0189,CCI-PM-BAC-NEG-GN
+HP_RS02940-MONOMER,HP_RS02940,tumor necrosis factor alpha-inducing protein monomer,
+HP_RS04990-MONOMER,HP_RS04990,Hypothetical protein HP1015,CCO-MEMBRANE
+HP_RS06965-MONOMER,HP_RS06965,hypothetical protein,CCO-MEMBRANE
+HP_RS00835-MONOMER,HP_RS00835,Peptide chain release factor 2 PrfB,CCI-CYTOSOL-GN
+HP_RS02855-MONOMER,HP_RS02855,Kdo hydrolase subunit 2,CCO-MEMBRANE
+HP_RS04880-MONOMER,HP_RS04880,Hypothetical protein HP0994,
+HP_RS06865-MONOMER,HP_RS06865,Hypothetical protein HP1387a,
+HP_RS00755-MONOMER,HP_RS00755,RecA recombinase,CCI-CYTOSOL-GN
+HP_RS02775-MONOMER,HP_RS02775,Predicted coding region HP0564,
+HP_RS04785-MONOMER,HP_RS04785,Cell division protein FtsA,CCI-PM-BAC-NEG-GN
+HP_RS06785-MONOMER,HP_RS06785,ATP-dependent protease ATP-binding subunit ClpX,
+HP_RS00670-MONOMER,HP_RS00670,bacterioferritin comigratory protein,CCI-CYTOSOL-GN
+HP_RS02685-MONOMER,HP_RS02685,Cag T4SS protein CagC,CCO-MEMBRANE
+HP_RS04695-MONOMER,HP_RS04695,GTP cyclohydrolase I,CCI-CYTOSOL-GN
+HP_RS06700-MONOMER,HP_RS06700,Quinolinate synthetase NadA,CCI-CYTOSOL-GN
+HP_RS00590-MONOMER,HP_RS00590,DNA topoisomerase I TopA,
+HP_RS02605-MONOMER,HP_RS02605,Cag T4SS protein CagW,CCO-MEMBRANE
+HP_RS00180-MONOMER,HP_RS00180,ATP-dependent Clp protease ClpA,CCI-CYTOSOL-GN
+HP_RS04595-MONOMER,HP_RS04595,D-amino acid dehydrogenase DadA,CCI-CYTOSOL-GN // CCI-PM-BAC-NEG-GN
+HP_RS06605-MONOMER,HP_RS06605,<i>apo</i>-nickel response regulator NikR,
+HP_RS00505-MONOMER,HP_RS00505,methyl-accepting chemotaxis protein TlpA,CCO-MEMBRANE
+HP_RS02520-MONOMER,HP_RS02520,Hypothetical protein HP0511,
+HP_RS00095-MONOMER,HP_RS00095,ComB3 competence protein,CCO-MEMBRANE
+HP_RS04500-MONOMER,HP_RS04500,outer membrane protein HopK,
+HP_RS06525-MONOMER,HP_RS06525,Hypothetical protein HP1322,
+HP_RS00415-MONOMER,HP_RS00415,methyl-accepting chemotaxis protein TlpC,CCO-MEMBRANE
+HP_RS02435-MONOMER,HP_RS02435,Neuraminyllactose-binding hemagglutinin,CCI-OUTER-MEM-GN
+HP_RS04400-MONOMER,HP_RS04400,hydrogenase/urease maturation factor HypB,
+HP_RS06445-MONOMER,HP_RS06445,30S ribosomal protein S14,CCI-RIBOSOME-GN
+HP_RS00330-MONOMER,HP_RS00330,Hypothetical protein HP0065,
+HP_RS06430-MONOMER,HP_RS06430,50S ribosomal protein L18,CCI-RIBOSOME-GN
+HP_RS02330-MONOMER,HP_RS02330,putative glutathione-regulated potassium efflux transporter,CCO-MEMBRANE
+HP_RS04280-MONOMER,HP_RS04280,Holliday junction resolvase,
+HP_RS06350-MONOMER,HP_RS06350,Transcriptional regulator TenA,CCI-CYTOSOL-GN
+HP_RS04210-MONOMER,HP_RS04210,plasminogen-binding protein PgbB,
+HP_RS06270-MONOMER,HP_RS06270,ferredoxin-menaquinone dehydrogenase subunit L,CCO-MEMBRANE
+HP_RS02145-MONOMER,HP_RS02145,protein kinase,
+HP_RS04125-MONOMER,HP_RS04125,Hydroxyethylthiazole kinase ThiM,
+HP_RS06185-MONOMER,HP_RS06185,malonyl-[acyl-carrier protein] <em>O</em>-methyltransferase,
+HP_RS02020-MONOMER,HP_RS02020,Putative neuraminyllactose-binding hemagglutinin-like protein,CCI-OUTER-MEM-GN
+HP_RS04035-MONOMER,HP_RS04035,RNA binding protein,
+HP_RS06105-MONOMER,HP_RS06105,Carbamoyl phosphate synthase small subunit,
+HP_RS01940-MONOMER,HP_RS01940,"UDP-2,3-diacylglucosamine hydrolase",CCI-PM-BAC-NEG-GN
+HP_RS03955-MONOMER,HP_RS03955,Hypothetical protein HP0812,
+HP_RS06020-MONOMER,HP_RS06020,ABC transporter ATP-binding protein,
+HP_RS01860-MONOMER,HP_RS01860,bifunctional cytochrome <i>c</i> biogenesis protein CcsBA,CCI-PM-BAC-NEG-GN
+HP_RS03870-MONOMER,HP_RS03870,trigger factor monomer,CCI-CYTOSOL-GN
+HP_RS05895-MONOMER,HP_RS05895,50S ribosomal protein L10,CCI-RIBOSOME-GN
+HP_RS07880-MONOMER,HP_RS07880,Hypothetical protein HP0756,
+HP_RS01770-MONOMER,HP_RS01770,UDP-glucose 4-epimerase,CCI-CYTOSOL-GN
+HP_RS03780-MONOMER,HP_RS03780,DNA-directed RNA polymerase subunit omega,
+HP_RS05810-MONOMER,HP_RS05810,tRNA(Cytosine32)-2-thiocytidine synthetase,
+HP_RS07780-MONOMER,HP_RS07780,peptidoglycan lytic endotransglycosylase,
+HP_RS01675-MONOMER,HP_RS01675,Hypothetical protein HP0340,
+HP_RS03695-MONOMER,HP_RS03695,"putative transporter, Na<sup>+</sup>:H<sup>+</sup> antiporter (NhaC) family",CCI-PM-BAC-NEG-GN
+HP_RS05725-MONOMER,HP_RS05725,"putative efflux transporter, major facilitator superfamily",CCO-MEMBRANE
+HP_RS07700-MONOMER,HP_RS07700,transcriptional regulator,
+HP_RS01585-MONOMER,HP_RS01585,Poly E-rich protein ChePep,CCI-CYTOSOL-GN
+HP_RS03610-MONOMER,HP_RS03610,Ribose-phosphate pyrophosphokinase PrsA,CCI-CYTOSOL-GN
+HP_RS05645-MONOMER,HP_RS05645,16S rRNA processing protein RimM,CCI-RIBOSOME-GN // CCI-CYTOSOL-GN
+HP_RS07620-MONOMER,HP_RS07620,Transcription-repair coupling factor TrcF,CCI-CYTOSOL-GN
+HP_RS01505-MONOMER,HP_RS01505,Base-induced polyisoprenoid-binding periplasmic protein,
+HP_RS03525-MONOMER,HP_RS03525,anaerobic C4-dicarboxylate transporter DcuA,CCI-PM-BAC-NEG-GN
+HP_RS05550-MONOMER,HP_RS05550,MotA/TolQ/ExbB family protein,CCI-PM-BAC-NEG-GN
+HP_RS07535-MONOMER,HP_RS07535,Hypothetical lipoprotein HP1526,
+HP_RS01425-MONOMER,HP_RS01425,Putative vacuolating cytotoxin (VacA)-like protein ImaA,
+HP_RS03435-MONOMER,HP_RS03435,transcriptional activator of flagella proteins FlgR,
+HP_RS05465-MONOMER,HP_RS05465,Outer membrane protein HorI,
+HP_RS07450-MONOMER,HP_RS07450,Diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase,
+HP_RS01345-MONOMER,HP_RS01345,Hypothetical protein HP0273,CCO-MEMBRANE
+HP_RS03350-MONOMER,HP_RS03350,bifunctional N-acetylglucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate acetyltransferase,CCI-CYTOSOL-GN
+HP_RS05385-MONOMER,HP_RS05385,IS605 transposase TnpA,
+HP_RS07365-MONOMER,HP_RS07365,"ABC-type tripartite efflux pump, membrane protein",CCI-PM-BAC-NEG-GN
+HP_RS01260-MONOMER,HP_RS01260,flagellar FliJ protein,CCI-PM-BAC-NEG-GN // CCO-CELL-PROJECTION
+HP_RS03255-MONOMER,HP_RS03255,TPR_REGION domain-containing protein,CCO-MEMBRANE
+HP_RS05305-MONOMER,HP_RS05305,uncharacterized ATPase/GTPase,
+HP_RS07285-MONOMER,HP_RS07285,inactive Type IIB restriction-modification system M/R protein,
+HP_RS01170-MONOMER,HP_RS01170,Prolyl-tRNA synthetase,CCI-CYTOSOL-GN
+HP_RS03175-MONOMER,HP_RS03175,conserved hypothetical integral membrane protein,CCO-MEMBRANE
+HP_RS05220-MONOMER,HP_RS05220,S-adenosylmethionine:tRNA ribosyltransferase-isomerase,CCI-CYTOSOL-GN
+HP_RS07205-MONOMER,HP_RS07205,Hypothetical protein HP1455,
+HP_RS01080-MONOMER,HP_RS01080,cysteine desulfurase NifS,CCI-CYTOSOL-GN
+HP_RS03090-MONOMER,HP_RS03090,hypothetical protein,
+HP_RS05140-MONOMER,HP_RS05140,Ribosome maturation factor RimP,CCI-CYTOSOL-GN
+HP_RS07115-MONOMER,HP_RS07115,Putative lipoprotein HP1438,
+HP_RS00985-MONOMER,HP_RS00985,3-oxoacyl-[acyl-carrier-protein] synthase 3 FabH,CCI-CYTOSOL-GN
+HP_RS03010-MONOMER,HP_RS03010,hypothetical protein,CCO-MEMBRANE
+HP_RS05060-MONOMER,HP_RS05060,flagellar motor switch protein FliY,CCI-PM-BAC-NEG-GN // CCO-CELL-PROJECTION
+HP_RS07030-MONOMER,HP_RS07030,flagellar export ATPase FliI,CCI-CYTOSOL-GN // CCO-MEMBRANE
+HP_RS00900-MONOMER,HP_RS00900,DUF1882 domain-containing protein,
+HP_RS02920-MONOMER,HP_RS02920,Type III restriction-modification system R protein R.HpyAXI,
+HP_RS04975-MONOMER,HP_RS04975,Putative zinc protease PqqE,CCI-EXTRACELLULAR-GN
+HP_RS00820-MONOMER,HP_RS00820,TPR_REGION domain-containing protein,
+HP_RS02840-MONOMER,HP_RS02840,"Bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase/5,10-methylene-tetrahydrofolate cyclohydrolase",CCI-CYTOSOL-GN
+HP_RS04860-MONOMER,HP_RS04860,Hypothetical protein HP0990,
+HP_RS06850-MONOMER,HP_RS06850,DNA polymerase III subunit epsilon DnaQ,CCI-CYTOSOL-GN // CCO-MEMBRANE
+HP_RS00740-MONOMER,HP_RS00740,Hypothetical protein HP0150,CCO-MEMBRANE
+HP_RS02760-MONOMER,HP_RS02760,3-ketoacyl-ACP reductase,
+HP_RS04770-MONOMER,HP_RS04770,Glutamyl-tRNA(Gln) amidotransferase subunit C,
+HP_RS06770-MONOMER,HP_RS06770,inactive Type III restriction-modification system R protein R.HpyAXVII,
+HP_RS00655-MONOMER,HP_RS00655,L-serine ammonia-lyase,
+HP_RS02670-MONOMER,HP_RS02670,CagF protein,
+HP_RS00250-MONOMER,HP_RS00250,agmatine deiminase,
+HP_RS04680-MONOMER,HP_RS04680,Pseudouridine synthase RluC,
+HP_RS06670-MONOMER,HP_RS06670,Type IIP restriction-modification system R protein R.HpyAIV,
+HP_RS00575-MONOMER,HP_RS00575,Hypothetical protein HP0113,
+HP_RS02590-MONOMER,HP_RS02590,CagZ protein,
+HP_RS00165-MONOMER,HP_RS00165,Hypothetical protein HP0030,
+HP_RS04580-MONOMER,HP_RS04580,"amino acid family ABC transporter, substrate-binding protein",
+HP_RS06590-MONOMER,HP_RS06590,tRNA-specific 2-thiouridylase MnmA,CCI-CYTOSOL-GN
+HP_RS00490-MONOMER,HP_RS00490,2-hydroxyacid dehydrogenase,
+HP_RS02505-MONOMER,HP_RS02505,plasminogen-binding protein PgbA,
+HP_RS00080-MONOMER,HP_RS00080,tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase,
+HP_RS04485-MONOMER,HP_RS04485,Ribonuclease 3,CCI-PM-BAC-NEG-GN
+HP_RS06510-MONOMER,HP_RS06510,50S ribosomal protein L3,CCI-RIBOSOME-GN
+HP_RS00400-MONOMER,HP_RS00400,first part of outer membrane protein HorA,
+HP_RS02420-MONOMER,HP_RS02420,Hypothetical protein HP0489,
+HP_RS04385-MONOMER,HP_RS04385,hypothetical protein,
+HP_RS06415-MONOMER,HP_RS06415,Sec translocon subunit SecY,CCI-PM-BAC-NEG-GN
+HP_RS02315-MONOMER,HP_RS02315,DUF5644 domain-containing protein,
+HP_RS04265-MONOMER,HP_RS04265,Hypothetical protein HP0874,
+HP_RS06335-MONOMER,HP_RS06335,heptosyltransferase III,CCI-CYTOSOL-GN
+HP_RS02230-MONOMER,HP_RS02230,Hypothetical protein HP0452,
+HP_RS04195-MONOMER,HP_RS04195,"D,D-heptose 1,7-bisphosphate phosphatase",CCI-CYTOSOL-GN
+HP_RS06255-MONOMER,HP_RS06255,ferredoxin-menaquinone dehydrogenase subunit I,CCI-PM-BAC-NEG-GN
+HP_RS02110-MONOMER,HP_RS02110,Hypothetical protein HP0426,
+HP_RS04110-MONOMER,HP_RS04110,Hypothetical protein HP0842,
+HP_RS06170-MONOMER,HP_RS06170,"peptide ABC transporter, membrane protein",CCI-PM-BAC-NEG-GN
+HP_RS02005-MONOMER,HP_RS02005,Biotin sulfoxide reductase BisC,CCI-PERI-BAC-GN
+HP_RS04020-MONOMER,HP_RS04020,thioredoxin Trx1,
+HP_RS06090-MONOMER,HP_RS06090,putative transporter,CCI-PM-BAC-NEG-GN
+HP_RS01925-MONOMER,HP_RS01925,chemotaxis protein CheW,CCI-CYTOSOL-GN
+HP_RS03940-MONOMER,HP_RS03940,Flagellar basal body-associated protein FliL,CCI-PM-BAC-NEG-GN // CCO-CELL-PROJECTION
+HP_RS06000-MONOMER,HP_RS06000,Hypothetical protein HP1214,
+MONOMER2DNV-5,G2DNV-42,"UDP-2,4-diacetamido-2,4,6-trideoxy-&beta;-<small>L</small>-altropyranose hydrolase",
+HP_RS01845-MONOMER,HP_RS01845,Hypothetical protein HP0375,CCO-MEMBRANE
+HP_RS03855-MONOMER,HP_RS03855,Sigma-54 interacting protein,
+HP_RS05880-MONOMER,HP_RS05880,30S ribosomal protein S12,CCI-RIBOSOME-GN
+HP_RS07845-MONOMER,HP_RS07845,flagellar basal-body rod protein FlgG,CCO-CELL-PROJECTION
+HP_RS01745-MONOMER,HP_RS01745,DUF3883 domain-containing protein,
+HP_RS03765-MONOMER,HP_RS03765,decanoyl-[acp]-oxidase/<em>trans</em>-2-decenoyl-[acp] isomerase,
+HP_RS05790-MONOMER,HP_RS05790,Phosphopentomutase DeoB,CCI-CYTOSOL-GN
+HP_RS07765-MONOMER,HP_RS07765,putative lipopolysaccharide transport system protein LptC,CCO-MEMBRANE
+HP_RS01660-MONOMER,HP_RS01660,Hypothetical protein HP0337,
+HP_RS03680-MONOMER,HP_RS03680,Hypothetical protein HP0754,
+HP_RS05710-MONOMER,HP_RS05710,DedA family protein,CCI-PM-BAC-NEG-GN
+HP_RS07685-MONOMER,HP_RS07685,30S ribosomal protein S2,CCI-RIBOSOME-GN
+HP_RS01570-MONOMER,HP_RS01570,Arginyl-tRNA synthetase,CCI-CYTOSOL-GN
+HP_RS03595-MONOMER,HP_RS03595,carboxylesterase,
+HP_RS05615-MONOMER,HP_RS05615,Hypothetical protein HP1143,
+HP_RS07605-MONOMER,HP_RS07605,"menaiquinol cytochrome c oxidoreductase, cytochrome c1",
+HP_RS01490-MONOMER,HP_RS01490,"peptide ABC transporter, ATP-binding protein DppF",
+HP_RS03510-MONOMER,HP_RS03510,sialic acid binding protein,
+HP_RS05530-MONOMER,HP_RS05530,peptidoglycan-associated lipoprotein PalA,CCO-MEMBRANE
+HP_RS07520-MONOMER,HP_RS07520,inactive Type III restriction-modification system R protein (Res),
+HP_RS01410-MONOMER,HP_RS01410,Cell division protein FtsH,CCI-PM-BAC-NEG-GN
+HP_RS03420-MONOMER,HP_RS03420,Diacylglycerol kinase,CCI-PM-BAC-NEG-GN
+HP_RS05450-MONOMER,HP_RS05450,Pyruvate flavodoxin oxidoreductase subunit alpha PorA,
+HP_RS07435-MONOMER,HP_RS07435,"Translocation protein, low temperature",CCO-MEMBRANE
+HP_RS01330-MONOMER,HP_RS01330,acyl-Kdo<small><sub>2</sub></small>-lipid IV<small><sub>A</sub></small> acyltransferase,
+HP_RS03335-MONOMER,HP_RS03335,Ribonucleotide-diphosphate reductase subunit alpha,CCI-CYTOSOL-GN
+HP_RS05370-MONOMER,HP_RS05370,flagellar basal-body rod protein FlgF,CCO-CELL-PROJECTION
+HP_RS07350-MONOMER,HP_RS07350,UPF0093 membrane protein HP1484,CCI-PM-BAC-NEG-GN
+HP_RS01235-MONOMER,HP_RS01235,"ABC transporter, membrane protein",CCI-PM-BAC-NEG-GN
+HP_RS03240-MONOMER,HP_RS03240,Processing protease YmxG,CCI-EXTRACELLULAR-GN
+HP_RS05290-MONOMER,HP_RS05290,flagellar export co-chaperone,
+HP_RS07270-MONOMER,HP_RS07270,Branched-chain amino acid aminotransferase IlvE,
+HP_RS01155-MONOMER,HP_RS01155,Helicobacter cysteine-rich protein E HcpE,CCI-EXTRACELLULAR-GN
+HP_RS03160-MONOMER,HP_RS03160,Predicted coding region HP0641,
+HP_RS05205-MONOMER,HP_RS05205,Holliday junction DNA helicase RuvB,
+HP_RS07190-MONOMER,HP_RS07190,tRNA modification GTPase TrmE,CCI-CYTOSOL-GN
+HP_RS01065-MONOMER,HP_RS01065,"Beta-1,4-N-acetylgalactosamyltransferase",
+HP_RS03075-MONOMER,HP_RS03075,succinyldiaminopimelate transaminase,
+HP_RS05125-MONOMER,HP_RS05125,homeostatic response regulator HsrA,CCI-CYTOSOL-GN
+HP_RS07100-MONOMER,HP_RS07100,Signal peptide protease IV,CCI-CYTOSOL-GN
+HP_RS00970-MONOMER,HP_RS00970,Hypothetical protein HP0199,
+HP_RS02990-MONOMER,HP_RS02990,tripartite efflux pump periplasmic adaptor protein HefB,CCO-MEMBRANE
+HP_RS05045-MONOMER,HP_RS05045,<i>apo</i>-DNA-binding transcriptional regulator Fur monomer,CCI-CYTOSOL-GN
+HP_RS07015-MONOMER,HP_RS07015,sulfatase-like hydrolase/transferase,
+HP_RS00885-MONOMER,HP_RS00885,Membrane protein required for colicin V production,CCO-MEMBRANE
+HP_RS02905-MONOMER,HP_RS02905,2-oxoglutarate-acceptor oxidoreductase subunit OorA,
+HP_RS04950-MONOMER,HP_RS04950,IS200 insertion sequence from SARA17,
+HP_RS06920-MONOMER,HP_RS06920,Putative metal-dependent hydrolase,
+HP_RS00805-MONOMER,HP_RS00805,histidine kinase sensor protein ArsS,
+HP_RS02825-MONOMER,HP_RS02825,Ribose-5-phosphate isomerase B,
+HP_RS04840-MONOMER,HP_RS04840,hypothetical protein,
+HP_RS06835-MONOMER,HP_RS06835,Hypothetical protein HP1384,
+HP_RS00725-MONOMER,HP_RS00725,"cytochrome c oxidase, cbb3-type, diheme subunit",CCI-PM-BAC-NEG-GN
+HP_RS02745-MONOMER,HP_RS02745,Acetyl-CoA carboxylase carboxyltransferase subunit alpha,CCI-CYTOSOL-GN
+HP_RS00315-MONOMER,HP_RS00315,Hypothetical protein HP0062,
+HP_RS04755-MONOMER,HP_RS04755,Glycyl-tRNA synthetase subunit beta,CCI-CYTOSOL-GN
+HP_RS06750-MONOMER,HP_RS06750,Type IIS restriction-modification system R protein R.HpyAII,
+HP_RS00640-MONOMER,HP_RS00640,outer membrane protein HorB,
+HP_RS02655-MONOMER,HP_RS02655,CagI protein,
+HP_RS00235-MONOMER,HP_RS00235,GDP-L-fucose synthase monomer,
+HP_RS04665-MONOMER,HP_RS04665,Hypothetical protein HP0953,
+HP_RS06655-MONOMER,HP_RS06655,1-acyl-sn-glycerol-3-phosphate acyltransferase,CCI-PM-BAC-NEG-GN
+HP_RS00560-MONOMER,HP_RS00560,Heat shock protein GrpE,CCI-CYTOSOL-GN
+HP_RS02575-MONOMER,HP_RS02575,Cag T4SS protein Cag&gamma;,
+HP_RS00150-MONOMER,HP_RS00150,isocitrate dehydrogenase,
+HP_RS04555-MONOMER,HP_RS04555,N-acetyltransferase 8-like protein,
+HP_RS06575-MONOMER,HP_RS06575,Chaperone protein DnaJ,CCI-CYTOSOL-GN
+HP_RS00470-MONOMER,HP_RS00470,"type IIP restriction-modification system, M protein M.HpyAIII",
+HP_RS02485-MONOMER,HP_RS02485,inactive Type IIP restriction-modification system M protein M.HpyAXII,
+HP_RS00065-MONOMER,HP_RS00065,chaperonin GroL monomer,CCI-CYTOSOL-GN
+HP_RS04465-MONOMER,HP_RS04465,Outer membrane protein HofG,
+HP_RS06495-MONOMER,HP_RS06495,50S ribosomal protein L2,CCI-RIBOSOME-GN
+HP_RS00385-MONOMER,HP_RS00385,Phosphoglucosamine mutase,CCI-CYTOSOL-GN
+HP_RS02405-MONOMER,HP_RS02405,outer membrane protein HofC,
+HP_RS04360-MONOMER,HP_RS04360,addiction module toxin protein HP0894 (RNAse),
+HP_RS04345-MONOMER,HP_RS04345,Acyl coenzyme A thioesterase VdlD,CCI-CYTOSOL-GN
+HP_RS06400-MONOMER,HP_RS06400,50S ribosomal protein L36,CCI-RIBOSOME-GN
+HP_RS02300-MONOMER,HP_RS02300,Hypothetical protein HP0465,
+HP_RS04245-MONOMER,HP_RS04245,flagellar hook protein FlgE1,CCO-CELL-PROJECTION
+HP_RS06320-MONOMER,HP_RS06320,Anthranilate synthase component II,
+HP_RS02210-MONOMER,HP_RS02210,Putative ATPase HP0447,
+HP_RS04180-MONOMER,HP_RS04180,sedoheptulose 7-phosphate isomerase monomer,CCI-CYTOSOL-GN
+HP_RS06240-MONOMER,HP_RS06240,ferredoxin-menaquinone dehydrogenase subunit F,
+HP_RS02095-MONOMER,HP_RS02095,Hypothetical protein HP0423,
+HP_RS04095-MONOMER,HP_RS04095,outer membrane protein P1,CCI-OUTER-MEM-GN
+HP_RS06155-MONOMER,HP_RS06155,Ribonuclease R,CCI-CYTOSOL-GN
+HP_RS01990-MONOMER,HP_RS01990,HIT family protein,CCI-CYTOSOL-GN
+HP_RS04005-MONOMER,HP_RS04005,Excinuclease ABC subunit C UvrC,CCI-CYTOSOL-GN
+HP_RS06075-MONOMER,HP_RS06075,DNA polymerase III subunit delta' HolB,
+HP_RS01910-MONOMER,HP_RS01910,tRNA (cmo5U34)-methyltransferase,
+HP_RS03920-MONOMER,HP_RS03920,Lipooligosaccharide 5G8 epitope biosynthesis-associated protein Lex2B,
+HP_RS05975-MONOMER,HP_RS05975,Serine O-acetyltransferase CysE,CCI-CYTOSOL-GN
+MONOMER2DNV-15,G2DNV-14,,
+HP_RS01830-MONOMER,HP_RS01830,Deoxycytidine triphosphate deaminase,
+HP_RS03840-MONOMER,HP_RS03840,Outer membrane protein HofF,
+HP_RS05865-MONOMER,HP_RS05865,Aldo/keto reductase,CCI-CYTOSOL-GN
+HP_RS07830-MONOMER,HP_RS07830,Pyridoxine 5'-phosphate synthase,CCI-CYTOSOL-GN
+HP_RS01730-MONOMER,HP_RS01730,flagellar ATPase regulator FliH,CCI-CYTOSOL-GN
+HP_RS03750-MONOMER,HP_RS03750,flagellar export protein FlhB,CCI-PM-BAC-NEG-GN
+HP_RS05775-MONOMER,HP_RS05775,"putative transporter, nucleobase:cation symporter-2 family",CCI-PM-BAC-NEG-GN
+HP_RS07750-MONOMER,HP_RS07750,Hypothetical protein HP1566,CCO-MEMBRANE
+HP_RS01640-MONOMER,HP_RS01640,cell division topological specificity factor MinE,
+HP_RS03665-MONOMER,HP_RS03665,Flagellar protein FlaG,
+HP_RS05695-MONOMER,HP_RS05695,Cell filamentation protein,
+HP_RS07670-MONOMER,HP_RS07670,Sec translocon accessory subunit YajC,CCI-PM-BAC-NEG-GN
+HP_RS01555-MONOMER,HP_RS01555,Hypothetical protein HP0316,
+HP_RS03580-MONOMER,HP_RS03580,Putative aminotransferase SerC,
+HP_RS05600-MONOMER,HP_RS05600,Biotin--protein ligase BirA,CCI-CYTOSOL-GN
+HP_RS07590-MONOMER,HP_RS07590,IS605 transposase TnpA,
+HP_RS01475-MONOMER,HP_RS01475,"peptide ABC transporter, membrane protein DppB",CCI-PM-BAC-NEG-GN
+HP_RS03490-MONOMER,HP_RS03490,tRNA threonylcarbamoyl adenosine modification protein,CCI-CYTOSOL-GN
+HP_RS05515-MONOMER,HP_RS05515,Hypothetical protein HP1122a,
+HP_RS07500-MONOMER,HP_RS07500,Hypothetical protein HP1516,CCO-MEMBRANE
+HP_RS01395-MONOMER,HP_RS01395,3-dehydroquinate synthase AroB,CCI-CYTOSOL-GN
+HP_RS03405-MONOMER,HP_RS03405,N-methylhydantoinase,CCI-CYTOSOL-GN
+HP_RS05435-MONOMER,HP_RS05435,outer membrane protein HorH,
+HP_RS07415-MONOMER,HP_RS07415,Peptidyl-tRNA hydrolase,CCI-CYTOSOL-GN
+HP_RS01315-MONOMER,HP_RS01315,aminodeoxyfutalosine deaminase monomer,
+HP_RS03315-MONOMER,HP_RS03315,Integrase/recombinase XerC,CCI-CYTOSOL-GN
+HP_RS05355-MONOMER,HP_RS05355,PDDEXK_1 domain-containing protein,
+HP_RS07335-MONOMER,HP_RS07335,Putative nitrilase/cyanide hydratase,
+HP_RS01220-MONOMER,HP_RS01220,Hypothetical membrane protein HP0248,CCO-MEMBRANE
+HP_RS03225-MONOMER,HP_RS03225,"Menaquinone biosynthesis protein, SCO4494 family",
+HP_RS05275-MONOMER,HP_RS05275,putative Cu<sup>2+</sup>-binding protein CopP,
+HP_RS07255-MONOMER,HP_RS07255,ABC transporter ATP-binding protein,
+HP_RS01140-MONOMER,HP_RS01140,Motility protein HP0232,CCI-PM-BAC-NEG-GN
+HP_RS03145-MONOMER,HP_RS03145,outer membrane protein HopH,
+HP_RS05190-MONOMER,HP_RS05190,Hypothetical protein HP1056,
+HP_RS07175-MONOMER,HP_RS07175,Putative membrane protein insertion efficiency factor,CCI-PM-BAC-NEG-GN
+HP_RS01050-MONOMER,HP_RS01050,"putative transporter, divalent anion:Na<sup>+</sup> symporter family",CCO-MEMBRANE
+HP_RS03060-MONOMER,HP_RS03060,Recombination and DNA strand exchange inhibitor protein MutS,
+HP_RS05110-MONOMER,HP_RS05110,30S ribosomal protein S15,CCI-RIBOSOME-GN
+HP_RS07085-MONOMER,HP_RS07085,cytoplasmic Ni<sup>2+</sup>-binding protein Hpn2,
+HP_RS00955-MONOMER,HP_RS00955,UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase,
+HP_RS02975-MONOMER,HP_RS02975,Hypothetical protein HP0603,
+HP_RS05030-MONOMER,HP_RS05030,Co-chaperone-curved DNA binding protein A,CCI-CYTOSOL-GN
+HP_RS07000-MONOMER,HP_RS07000,tRNA delta(2)-isopentenylpyrophosphate transferase,
+HP_RS00870-MONOMER,HP_RS00870,pseudoaminic acid synthase,
+HP_RS02890-MONOMER,HP_RS02890,Hypothetical protein HP0586,CCO-MEMBRANE
+HP_RS04920-MONOMER,HP_RS04920,Hypothetical protein HP1002,
+HP_RS06905-MONOMER,HP_RS06905,Alanine dehydrogenase,
+HP_RS00790-MONOMER,HP_RS00790,Helicobacter cysteine-rich protein E HcpD,CCI-EXTRACELLULAR-GN
+HP_RS02810-MONOMER,HP_RS02810,DedA family protein,CCI-PM-BAC-NEG-GN
+HP_RS04825-MONOMER,HP_RS04825,hypothetical protein,
+HP_RS06820-MONOMER,HP_RS06820,Nonspecific tight adherence fibril (pilus) secretion septum,CCO-MEMBRANE
+HP_RS00710-MONOMER,HP_RS00710,cbb3-type cytochrome c oxidase heme b and copper-binding subunit,CCI-PM-BAC-NEG-GN
+HP_RS02730-MONOMER,HP_RS02730,Sialidase A,CCO-MEMBRANE
+HP_RS00300-MONOMER,HP_RS00300,Hypothetical protein HP0059,
+HP_RS04740-MONOMER,HP_RS04740,"Ni<sup>2+</sup>/Zn<sup>2+</sup>/Cd<sup>2+</sup> efflux pump, RND permease",CCI-PM-BAC-NEG-GN
+HP_RS06735-MONOMER,HP_RS06735,Bifunctional NAD(P)H-hydrate repair enzyme Nnr,
+HP_RS00625-MONOMER,HP_RS00625,Translation initiation factor IF-3,CCI-CYTOSOL-GN
+HP_RS02640-MONOMER,HP_RS02640,Cag T4SS protein CagM,
+HP_RS00220-MONOMER,HP_RS00220,DNA type IV secretion system protein ComB10,CCO-MEMBRANE
+HP_RS04650-MONOMER,HP_RS04650,Acetyl-CoA carboxylase subunit beta,CCI-CYTOSOL-GN
+HP_RS06640-MONOMER,HP_RS06640,Phosphoglycerate kinase,CCI-CYTOSOL-GN
+HP_RS00540-MONOMER,HP_RS00540,cystathionine gamma-lyase,CCI-CYTOSOL-GN
+HP_RS02560-MONOMER,HP_RS02560,Beta-lactamase,
+HP_RS00135-MONOMER,HP_RS00135,lacdiNAc-binding adhesin LabA,
+HP_RS04535-MONOMER,HP_RS04535,Stationary phase survival protein SurE,CCI-CYTOSOL-GN
+HP_RS06560-MONOMER,HP_RS06560,copper efflux pump RND permease,CCI-PM-BAC-NEG-GN
+HP_RS00450-MONOMER,HP_RS00450,5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase,CCI-CYTOSOL-GN
+HP_RS02470-MONOMER,HP_RS02470,phospholipase A,CCI-OUTER-MEM-GN
+HP_RS00025-MONOMER,HP_RS00025,Orotidine 5'-phosphate decarboxylase PyrF,CCI-CYTOSOL-GN
+HP_RS04450-MONOMER,HP_RS04450,"Rep helicase, single-stranded DNA-dependent ATPase",CCI-CYTOSOL-GN
+HP_RS06480-MONOMER,HP_RS06480,30S ribosomal protein S3,CCI-RIBOSOME-GN
+HP_RS00365-MONOMER,HP_RS00365,urease subunit beta UreB,CCI-CYTOSOL-GN
+HP_RS02385-MONOMER,HP_RS02385,inactive Type IIP restriction-modification system R protein,
+HP_RS04330-MONOMER,HP_RS04330,"Ni<sup>2+</sup> ABC transporter, ATP-binding protein",CCI-PM-BAC-NEG-GN
+HP_RS06385-MONOMER,HP_RS06385,30S ribosomal protein S4,CCI-RIBOSOME-GN
+HP_RS02285-MONOMER,HP_RS02285,Type I restriction enzyme S protein HdsS,
+HP_RS04230-MONOMER,HP_RS04230,Lipid-A-disaccharide synthase,
+HP_RS06305-MONOMER,HP_RS06305,Tryptophan synthase subunit beta TrpB,CCI-CYTOSOL-GN
+HP_RS02190-MONOMER,HP_RS02190,ICEHptfs4 protein C19.2,CCO-MEMBRANE
+HP_RS04165-MONOMER,HP_RS04165,Guanosine 5'-monophosphate oxidoreductase GuaC,
+HP_RS06225-MONOMER,HP_RS06225,ferredoxin-menaquinone dehydrogenase subunit C,
+HP_RS02080-MONOMER,HP_RS02080,4HBT domain-containing protein,
+HP_RS04070-MONOMER,HP_RS04070,GTP-binding protein EngA,
+HP_RS06140-MONOMER,HP_RS06140,single-stranded DNA-binding protein monomer,CCI-BAC-NUCLEOID-GN
+HP_RS01975-MONOMER,HP_RS01975,3-phosphoshikimate 1-carboxyvinyltransferase,CCI-CYTOSOL-GN
+HP_RS03990-MONOMER,HP_RS03990,"putative osmoprotective ABC transporter, ATP-binding protein",
+HP_RS06060-MONOMER,HP_RS06060,RNA diphosphohydrolase,CCI-CYTOSOL-GN
+HP_RS01895-MONOMER,HP_RS01895,Hypothetical protein HP0385,
+HP_RS03905-MONOMER,HP_RS03905,GTP cyclohydrolase II,CCI-CYTOSOL-GN
+HP_RS05955-MONOMER,HP_RS05955,O-antigen flippase,CCO-MEMBRANE
+HP_RS07955-MONOMER,HP_RS07955,Hypothetical protein HP1070,
+HP_RS01810-MONOMER,HP_RS01810,inactive Type IIP restriction-modification system R protein,
+HP_RS03815-MONOMER,HP_RS03815,Hypothetical protein HP0783,
+HP_RS05850-MONOMER,HP_RS05850,Histidyl-tRNA synthetase,CCI-CYTOSOL-GN
+HP_RS07815-MONOMER,HP_RS07815,Hypothetical protein HP1579,
+HP_RS01715-MONOMER,HP_RS01715,Hypothetical protein HP0350,CCO-MEMBRANE
+HP_RS03735-MONOMER,HP_RS03735,Hypothetical protein HP0766,
+HP_RS05760-MONOMER,HP_RS05760,"ABC transporter, periplasmic L-glutamine-binding protein",
+HP_RS07735-MONOMER,HP_RS07735,AhpC monomer,CCI-CYTOSOL-GN
+HP_RS01620-MONOMER,HP_RS01620,NH(3)-dependent NAD(+) synthetase NadE,CCI-CYTOSOL-GN
+HP_RS03650-MONOMER,HP_RS03650,cell division protein FtsE,CCI-PM-BAC-NEG-GN
+HP_RS05680-MONOMER,HP_RS05680,outer membrane protein HopI,
+HP_RS07655-MONOMER,HP_RS07655,putative membrane protein,CCO-MEMBRANE
+HP_RS01540-MONOMER,HP_RS01540,ATP-binding protein,CCI-CYTOSOL-GN
+HP_RS03560-MONOMER,HP_RS03560,LeoA protein,
+HP_RS05585-MONOMER,HP_RS05585,"F0F1 ATP synthase subunit B', AtpX",CCO-MEMBRANE
+HP_RS07575-MONOMER,HP_RS07575,Glucosamine--fructose-6-phosphate aminotransferase GlmS,CCI-CYTOSOL-GN
+HP_RS01460-MONOMER,HP_RS01460,50S ribosomal protein L21,CCI-RIBOSOME-GN
+HP_RS03470-MONOMER,HP_RS03470,Competence protein ComGF,
+HP_RS05500-MONOMER,HP_RS05500,Hypothetical protein HP1120,
+HP_RS07485-MONOMER,HP_RS07485,TonB-dependent nickel transporter FrpB4,CCI-OUTER-MEM-GN
+HP_RS01380-MONOMER,HP_RS01380,Lipid A biosynthesis lauroyl acyltransferase,CCI-PM-BAC-NEG-GN
+HP_RS03390-MONOMER,HP_RS03390,"putative transporter, short chain fatty acid uptake family",CCI-PM-BAC-NEG-GN
+HP_RS05420-MONOMER,HP_RS05420,cinnamyl-alcohol dehydrogenase,
+HP_RS07400-MONOMER,HP_RS07400,"UDP-N-acetylmuramoylalanyl-D-glutamate--2, 6-diaminopimelate ligase",CCI-CYTOSOL-GN
+HP_RS01300-MONOMER,HP_RS01300,"ATP-dependent Clp protease, ATP-binding subunit ClpB",CCI-CYTOSOL-GN
+HP_RS03295-MONOMER,HP_RS03295,Predicted coding region HP0670,
+HP_RS05340-MONOMER,HP_RS05340,hemolysin,
+HP_RS07320-MONOMER,HP_RS07320,DNA helicase II UvrD,CCI-CYTOSOL-GN
+HP_RS01205-MONOMER,HP_RS01205,flagellar rod assembly protein/muramidase FlgJ,
+HP_RS03210-MONOMER,HP_RS03210,"&alpha;(1,3)-fucosyltransferase FutB",CCI-CYTOSOL-GN // CCO-MEMBRANE
+HP_RS05260-MONOMER,HP_RS05260,cell division protein FtsH,CCI-PM-BAC-NEG-GN
+HP_RS07240-MONOMER,HP_RS07240,secreted protein involved in flagellar motility,
+HP_RS01115-MONOMER,HP_RS01115,"putative transporter, sulfate permease family",CCO-MEMBRANE
+HP_RS03125-MONOMER,HP_RS03125,[NiFe]-hydrogenase maturation endopeptidase HydD,
+HP_RS05175-MONOMER,HP_RS05175,septum formation inhibitor MinC,
+HP_RS07160-MONOMER,HP_RS07160,ExbD family protein,CCI-PM-BAC-NEG-GN
+HP_RS01035-MONOMER,HP_RS01035,Helicobacter cysteine-rich protein E HcpA,CCI-EXTRACELLULAR-GN
+HP_RS03045-MONOMER,HP_RS03045,glycosyltransferase family 25 protein,
+HP_RS05095-MONOMER,HP_RS05095,aminopeptidase,CCI-CYTOSOL-GN
+HP_RS07070-MONOMER,HP_RS07070,Polysialic acid capsule expression protein,
+HP_RS00940-MONOMER,HP_RS00940,fumarate reductase cytochrome b-556 subunit FrdC,CCI-PM-BAC-NEG-GN
+HP_RS02960-MONOMER,HP_RS02960,"ABC family efflux transporter, ATP-binding/membrane protein",CCO-MEMBRANE
+HP_RS05015-MONOMER,HP_RS05015,redox switch response regulator HP1021,CCI-CYTOSOL-GN
+HP_RS06985-MONOMER,HP_RS06985,Hypothetical protein HP1412,
+HP_RS00855-MONOMER,HP_RS00855,Putative peptidyl-prolyl cis-trans isomerase PpiC,
+HP_RS02875-MONOMER,HP_RS02875,flagellar motor switch protein FliN,CCI-PM-BAC-NEG-GN // CCO-CELL-PROJECTION
+HP_RS04900-MONOMER,HP_RS04900,Putative transposase TnpA,
+HP_RS06885-MONOMER,HP_RS06885,DNA repair protein RecN,
+HP_RS00775-MONOMER,HP_RS00775,shikimate kinase,CCI-CYTOSOL-GN
+HP_RS02795-MONOMER,HP_RS02795,SPASM domain-containing protein,
+HP_RS04805-MONOMER,HP_RS04805,Hypothetical protein HP0982,CCO-MEMBRANE
+HP_RS06805-MONOMER,HP_RS06805,putative outer membrane protein assembly factor BamD,CCI-OUTER-MEM-GN
+HP_RS00690-MONOMER,HP_RS00690,lactate transporter LctP1,CCI-PM-BAC-NEG-GN
+HP_RS02715-MONOMER,HP_RS02715,50S ribosomal protein L31,CCI-RIBOSOME-GN
+HP_RS00285-MONOMER,HP_RS00285,Delta-1-pyrroline-5-carboxylate dehydrogenase PutA,CCI-PM-BAC-NEG-GN
+HP_RS04715-MONOMER,HP_RS04715,Putative ATPase,
+HP_RS06720-MONOMER,HP_RS06720,"1,4-dihydroxy-6-naphthoate prenyltransferase MqnP",CCI-PM-BAC-NEG-GN
+HP_RS00610-MONOMER,HP_RS00610,DUF874 family protein HP0120,
+HP_RS02625-MONOMER,HP_RS02625,CagS protein,
+HP_RS00200-MONOMER,HP_RS00200,ComB6 protein,CCO-MEMBRANE
+HP_RS04635-MONOMER,HP_RS04635,Hypothetical protein HP0947,
+HP_RS06625-MONOMER,HP_RS06625,outer membrane protein HopN,
+HP_RS00525-MONOMER,HP_RS00525,methyl-accepting chemotaxis protein TlpB,CCI-PM-BAC-NEG-GN
+HP_RS02545-MONOMER,HP_RS02545,ATP-dependent protease ATP-binding subunit HslU,CCI-CYTOSOL-GN
+HP_RS00120-MONOMER,HP_RS00120,Carboxynorspermidine decarboxylase,CCI-CYTOSOL-GN
+HP_RS04520-MONOMER,HP_RS04520,Heat shock protein HtpX,CCI-PM-BAC-NEG-GN
+HP_RS06545-MONOMER,HP_RS06545,copper resistance determinant CrdA,
+HP_RS00435-MONOMER,HP_RS00435,malate:quinone oxidoreductase,CCI-CYTOSOL-GN // CCI-PM-BAC-NEG-GN
+HP_RS02455-MONOMER,HP_RS02455,thioesterase YbgC monomer,
+HP_RS00010-MONOMER,HP_RS00010,"6,7-dimethyl-8-ribityllumazine synthase",CCI-CYTOSOL-GN
+HP_RS04435-MONOMER,HP_RS04435,flagellar hook protein FlgE2,CCO-CELL-PROJECTION
+HP_RS06465-MONOMER,HP_RS06465,30S ribosomal protein S17,CCI-RIBOSOME-GN
+HP_RS00350-MONOMER,HP_RS00350,urease accessory protein UreF,CCI-CYTOSOL-GN
+HP_RS02365-MONOMER,HP_RS02365,Type IIP restriction-modification system M protein M.HpyAVII,
+HP_RS02350-MONOMER,HP_RS02350,"molybdate ABC transporter, ATP-binding protein",
+HP_RS04315-MONOMER,HP_RS04315,lipid II flippase MurJ,CCI-PM-BAC-NEG-GN
+HP_RS06370-MONOMER,HP_RS06370,Thiamine pyrophosphokinase,
+HP_RS02270-MONOMER,HP_RS02270,hypothetical protein,
+HP_RS06290-MONOMER,HP_RS06290,Phosphomannomutase,
+HP_RS02175-MONOMER,HP_RS02175,ICEHptfs4 protein C16.2,
+HP_RS04150-MONOMER,HP_RS04150,undecaprenyl-diphosphate phosphatase,CCO-MEMBRANE
+HP_RS06205-MONOMER,HP_RS06205,Hypothetical protein HP1258,CCO-MEMBRANE
+HP_RS02065-MONOMER,HP_RS02065,Methionyl-tRNA synthetase,CCI-CYTOSOL-GN
+HP_RS04055-MONOMER,HP_RS04055,Dephospho-CoA kinase CoaE,CCI-CYTOSOL-GN
+HP_RS06125-MONOMER,HP_RS06125,Hypothetical protein HP1242,
+HP_RS01960-MONOMER,HP_RS01960,Hypothetical protein HP0398,
+HP_RS03975-MONOMER,HP_RS03975,flagellar motor protein MotB,CCI-PM-BAC-NEG-GN
+HP_RS06040-MONOMER,HP_RS06040,Uroporphyrinogen-III synthase HemD,
+HP_RS01880-MONOMER,HP_RS01880,Putative zinc-metallo protease,CCO-MEMBRANE
+HP_RS03890-MONOMER,HP_RS03890,Molybdopterin adenylyltransferase,
+HP_RS05915-MONOMER,HP_RS05915,Sec translocon subunit SecE,
+HP_RS07905-MONOMER,HP_RS07905,hypothetical protein,
+HP_RS01790-MONOMER,HP_RS01790,Ribonucleotide-diphosphate reductase subunit beta,
+HP_RS03800-MONOMER,HP_RS03800,Hypothetical protein HP0780,
+HP_RS05830-MONOMER,HP_RS05830,&alpha;-carbonic anhydrase,
+HP_RS07800-MONOMER,HP_RS07800,"ABC transporter, ATP-binding subunit",CCI-PM-BAC-NEG-GN
+HP_RS01700-MONOMER,HP_RS01700,Pseudouridine synthase,
+HP_RS03720-MONOMER,HP_RS03720,signal recognition particle receptor,CCI-PM-BAC-NEG-GN // CCI-CYTOSOL-GN
+HP_RS05745-MONOMER,HP_RS05745,"ABC transporter, membrane protein",CCI-PM-BAC-NEG-GN
+HP_RS07720-MONOMER,HP_RS07720,peptidoglycan glycosyltransferase FtsW,CCI-PM-BAC-NEG-GN
+HP_RS01605-MONOMER,HP_RS01605,,
+HP_RS03635-MONOMER,HP_RS03635,Pseudouridine synthase,
+HP_RS05665-MONOMER,HP_RS05665,Valyl-tRNA synthetase,CCI-CYTOSOL-GN
+HP_RS07640-MONOMER,HP_RS07640,folylpolyglutamate synthase FolC,CCI-CYTOSOL-GN
+HP_RS01525-MONOMER,HP_RS01525,Putative N-carbamoyl-D-amino acid amidohydrolase,
+HP_RS03545-MONOMER,HP_RS03545,tRNA(Ile)-lysidine synthase,CCI-CYTOSOL-GN
+HP_RS05570-MONOMER,HP_RS05570,"F0F1 ATP synthase subunit alpha, AtpA",CCI-PM-BAC-NEG-GN
+HP_RS07560-MONOMER,HP_RS07560,chromosomal replication initiator protein DnaA,CCI-PM-BAC-NEG-GN // CCI-CYTOSOL-GN
+HP_RS01445-MONOMER,HP_RS01445,Para-aminobenzoate synthetase PabB,CCI-CYTOSOL-GN
+HP_RS03455-MONOMER,HP_RS03455,Hypothetical protein HP0708,CCO-MEMBRANE
+HP_RS05485-MONOMER,HP_RS05485,Helicobacter cysteine-rich protein E HcpG,
+HP_RS07470-MONOMER,HP_RS07470,acyl phosphate:glycerol-3-phosphate acyltransferase,CCI-PM-BAC-NEG-GN
+HP_RS01365-MONOMER,HP_RS01365,Ferredoxin,CCI-CYTOSOL-GN
+HP_RS03375-MONOMER,HP_RS03375,acetyl-CoA acetyltransferase,
+HP_RS05405-MONOMER,HP_RS05405,glucose-6-phosphate 1-dehydrogenase,CCI-CYTOSOL-GN
+HP_RS07385-MONOMER,HP_RS07385,"putative transporter, inorganic phosphate transporter (PiT) family",CCI-PM-BAC-NEG-GN
+HP_RS01280-MONOMER,HP_RS01280,Type IIP restriction-modification system M protein M.HpyAX,CCI-CYTOSOL-GN
+HP_RS03275-MONOMER,HP_RS03275,UPF0763 protein HP0664,
+HP_RS05325-MONOMER,HP_RS05325,Outer membrane protein HofB,
+HP_RS07305-MONOMER,HP_RS07305,Phosphopantetheine adenylyltransferase,CCI-CYTOSOL-GN
+HP_RS01190-MONOMER,HP_RS01190,Hypothetical protein HP0242,
+HP_RS03195-MONOMER,HP_RS03195,UDP-N-acetylglucosamine 1-carboxyvinyltransferase MurA,CCI-CYTOSOL-GN
+HP_RS05245-MONOMER,HP_RS05245,Outer membrane protein HorD,
+HP_RS07225-MONOMER,HP_RS07225,Pseudouridine synthase RluB,
+HP_RS01100-MONOMER,HP_RS01100,Bifunctional methionine sulfoxide reductase A/B MrsA,CCI-CYTOSOL-GN
+HP_RS03110-MONOMER,HP_RS03110,Quinone-reactive Ni/Fe hydrogenase HydA,CCO-MEMBRANE
+HP_RS05160-MONOMER,HP_RS05160,Homoserine kinase ThrB,CCI-CYTOSOL-GN
+HP_RS07145-MONOMER,HP_RS07145,4-diphosphocytidyl-2-C-methyl-D-erythritol kinase,
+HP_RS01015-MONOMER,HP_RS01015,ATP-binding protein Mpr,
+HP_RS03030-MONOMER,HP_RS03030,chemotaxis protein CheV2,
+HP_RS05080-MONOMER,HP_RS05080,ATP-binding protein,CCI-CYTOSOL-GN // CCI-PM-BAC-NEG-GN
+HP_RS07050-MONOMER,HP_RS07050,Hypothetical protein HP1424,
+HP_RS00925-MONOMER,HP_RS00925,Phospholipase D-family protein,CCI-PM-BAC-NEG-GN
+HP_RS02945-MONOMER,HP_RS02945,penicillin-binding protein 1,CCO-MEMBRANE
+HP_RS04995-MONOMER,HP_RS04995,Phosphatidylglycerophosphate synthase PgsA,CCO-MEMBRANE
+HP_RS06970-MONOMER,HP_RS06970,Hypothetical protein HP1409,
+HP_RS00840-MONOMER,HP_RS00840,Molybdopterin biosynthesis protein MoeA,CCI-CYTOSOL-GN
+HP_RS02860-MONOMER,HP_RS02860,Dihydroorotase PyrC,
+HP_RS04885-MONOMER,HP_RS04885,ICEHptfs3 protein C1,
+HP_RS06870-MONOMER,HP_RS06870,Hypothetical protein HP1390,
+HP_RS00760-MONOMER,HP_RS00760,enolase,CCI-CYTOSOL-GN // CCI-EXTRACELLULAR-GN
+HP_RS02780-MONOMER,HP_RS02780,Inner membrane protein YkgB,CCI-PM-BAC-NEG-GN
+HP_RS04790-MONOMER,HP_RS04790,Cell division protein FtsZ,CCI-CYTOSOL-GN
+HP_RS06790-MONOMER,HP_RS06790,UDP-N-acetylglucosamine acyltransferase LpxA,CCI-CYTOSOL-GN
+HP_RS00675-MONOMER,HP_RS00675,putative NAD-dependent lactate dehydrogenase subunit HP0137,
+HP_RS02690-MONOMER,HP_RS02690,Cag pathogenicity island protein,
+HP_RS00270-MONOMER,HP_RS00270,Type IIS restriction-modification system R protein R.HpyAV,
+HP_RS04700-MONOMER,HP_RS04700,Glycyl-tRNA synthetase subunit alpha GlyQ,CCI-CYTOSOL-GN
+HP_RS06705-MONOMER,HP_RS06705,Phosphatidylserine decarboxylase,CCI-PM-BAC-NEG-GN
+HP_RS00595-MONOMER,HP_RS00595,Radical SAM domain-containing protein,
+HP_RS02610-MONOMER,HP_RS02610,CagV protein,CCO-MEMBRANE
+HP_RS00185-MONOMER,HP_RS00185,Aspartate alpha-decarboxylase,CCI-CYTOSOL-GN
+HP_RS04600-MONOMER,HP_RS04600,RutC family protein HP0944,CCI-CYTOSOL-GN
+HP_RS06610-MONOMER,HP_RS06610,energy-transducing Ton complex subunit ExbB,CCI-PM-BAC-NEG-GN
+HP_RS00510-MONOMER,HP_RS00510,epoxyqueuosine reductase,
+HP_RS02525-MONOMER,HP_RS02525,Glutamine synthetase GlnA,CCI-CYTOSOL-GN // CCO-MEMBRANE
+HP_RS00100-MONOMER,HP_RS00100,ComB4 competence protein,
+HP_RS04505-MONOMER,HP_RS04505,2-hydroxymuconate tautomerase monomer,
+HP_RS06530-MONOMER,HP_RS06530,Ribonuclease HII,CCI-CYTOSOL-GN
+HP_RS00420-MONOMER,HP_RS00420,30S ribosomal protein S9,CCI-RIBOSOME-GN
+HP_RS02440-MONOMER,HP_RS02440,Phospho-N-acetylmuramoyl-pentapeptide- transferase,CCI-PM-BAC-NEG-GN
+HP_RS04405-MONOMER,HP_RS04405,Hypothetical protein HP0902,
+HP_RS06450-MONOMER,HP_RS06450,50S ribosomal protein L5,CCI-RIBOSOME-GN
+HP_RS00335-MONOMER,HP_RS00335,cell division-related protein,
+HP_RS02335-MONOMER,HP_RS02335,outer membrane protein HorE,
+HP_RS04290-MONOMER,HP_RS04290,Hypothetical protein HP0880,
+HP_RS06355-MONOMER,HP_RS06355,Class IIc Sec-secreted bacteriocin Divergicin A precursor DvnA,
+HP_RS02250-MONOMER,HP_RS02250,hypothetical protein,
+HP_RS04215-MONOMER,HP_RS04215,50S ribosomal protein L22,CCO-MEMBRANE
+HP_RS06275-MONOMER,HP_RS06275,ferredoxin-menaquinone dehydrogenase subunit M,CCI-PM-BAC-NEG-GN
+HP_RS02150-MONOMER,HP_RS02150,hypothetical protein,
+HP_RS06190-MONOMER,HP_RS06190,Sec translocon subunit SecG,CCI-PM-BAC-NEG-GN
+HP_RS02050-MONOMER,HP_RS02050,IS200 insertion sequence from SARA17,
+HP_RS04040-MONOMER,HP_RS04040,F0F1 ATP synthase subunit A AtpB,CCI-PM-BAC-NEG-GN
+HP_RS06110-MONOMER,HP_RS06110,Formamidase AmiF,
+HP_RS01945-MONOMER,HP_RS01945,YggS family pyridoxal phosphate enzyme,
+HP_RS03960-MONOMER,HP_RS03960,Lactamase_B domain-containing protein,
+HP_RS06025-MONOMER,HP_RS06025,Undecaprenyl pyrophosphate synthase UppS,CCI-CYTOSOL-GN
+HP_RS01865-MONOMER,HP_RS01865,"&alpha;-(1,3)-fucosyltransferase FutA",CCI-CYTOSOL-GN // CCO-MEMBRANE
+HP_RS03875-MONOMER,HP_RS03875,Outer membrane protein HorG,
+HP_RS05900-MONOMER,HP_RS05900,50S ribosomal protein L1,CCI-RIBOSOME-GN
+HP_RS07885-MONOMER,HP_RS07885,Hypothetical protein HP0789,
+HP_RS01775-MONOMER,HP_RS01775,tRNA pseudouridine synthase A,
+HP_RS03785-MONOMER,HP_RS03785,UMP kinase,CCI-CYTOSOL-GN
+HP_RS05815-MONOMER,HP_RS05815,"putative transporter, monovalent cation:proton antiporter (CPA2) family",CCO-MEMBRANE
+HP_RS07785-MONOMER,HP_RS07785,DNAse TatD,CCI-CYTOSOL-GN
+HP_RS01680-MONOMER,HP_RS01680,Hypothetical protein HP0342,CCO-MEMBRANE
+HP_RS03700-MONOMER,HP_RS03700,"putative transporter, multi antimicrobial extrusion (MATE) family",CCI-PM-BAC-NEG-GN
+HP_RS05730-MONOMER,HP_RS05730,Glucose-6-phosphate isomerase Pgi,CCI-CYTOSOL-GN
+HP_RS07705-MONOMER,HP_RS07705,flagellar hook-basal body protein FliE,CCO-CELL-PROJECTION
+HP_RS01590-MONOMER,HP_RS01590,outer membrane associated nuclease,
+HP_RS03620-MONOMER,HP_RS03620,rod shape-determining protein RodA,CCI-PM-BAC-NEG-GN
+HP_RS05650-MONOMER,HP_RS05650,KH domain RNA binding protein,
+HP_RS07625-MONOMER,HP_RS07625,bactofilin,
+HP_RS01510-MONOMER,HP_RS01510,Glutamate-1-semialdehyde aminotransferase HemL,CCI-CYTOSOL-GN
+HP_RS03530-MONOMER,HP_RS03530,sialic acid-binding adhesin SabA,
+HP_RS05555-MONOMER,HP_RS05555,"F0F1 ATP synthase subunit epsilon, AtpC",CCI-PM-BAC-NEG-GN
+HP_RS07540-MONOMER,HP_RS07540,outer membrane protein HorD,
+HP_RS01430-MONOMER,HP_RS01430,diaminopimelate decarboxylase monomer,
+HP_RS03440-MONOMER,HP_RS03440,Excinuclease ABC subunit A UvrA,CCI-CYTOSOL-GN
+HP_RS05470-MONOMER,HP_RS05470,Excinuclease ABC subunit B UvrB,CCI-CYTOSOL-GN
+HP_RS07455-MONOMER,HP_RS07455,glutamate:Na<sup>+</sup> symporter GltS,CCI-PM-BAC-NEG-GN
+HP_RS01350-MONOMER,HP_RS01350,Hypothetical protein HP0274,
+HP_RS05390-MONOMER,HP_RS05390,Helicobacter cysteine-rich protein E HcpC,CCI-EXTRACELLULAR-GN
+HP_RS07370-MONOMER,HP_RS07370,"ABC-type tripartite efflux pump, periplasmic adaptor protein",CCO-MEMBRANE
+HP_RS01265-MONOMER,HP_RS01265,Hypothetical secreted protein HP0257,
+HP_RS03260-MONOMER,HP_RS03260,Ribonuclease H,CCI-CYTOSOL-GN
+HP_RS05310-MONOMER,HP_RS05310,Archaeal Holliday junction resolvase/Mrr protein-like protein,CCI-BAC-NUCLEOID-GN // CCO-MEMBRANE
+HP_RS07290-MONOMER,HP_RS07290,inactive Type IIB restriction-modification system S protein,
+HP_RS01175-MONOMER,HP_RS01175,Glutamyl-tRNA reductase,
+HP_RS03180-MONOMER,HP_RS03180,peptidoglycan lytic exotransglycosylase,
+HP_RS05225-MONOMER,HP_RS05225,16S rRNA methyltransferase GidB,CCI-CYTOSOL-GN
+HP_RS07210-MONOMER,HP_RS07210,Lpp20 lipoprotein,CCI-OUTER-MEM-GN
+HP_RS01085-MONOMER,HP_RS01085,Fe-S cluster biosynthesis scaffold protein NfU,CCI-CYTOSOL-GN
+HP_RS03095-MONOMER,HP_RS03095,Helicobacter cysteine-rich protein E HcpF,CCI-EXTRACELLULAR-GN
+HP_RS05145-MONOMER,HP_RS05145,Ribosome-binding factor A,CCI-CYTOSOL-GN
+HP_RS07130-MONOMER,HP_RS07130,Hypothetical protein HP1440,
+HP_RS00995-MONOMER,HP_RS00995,hypothetical protein,
+HP_RS03015-MONOMER,HP_RS03015,ABC transporter ATP-binding protein,
+HP_RS05065-MONOMER,HP_RS05065,flagellar motor switch protein FliM,CCI-PM-BAC-NEG-GN // CCO-CELL-PROJECTION
+HP_RS07035-MONOMER,HP_RS07035,VirB11 homolog,
+HP_RS00905-MONOMER,HP_RS00905,Hypothetical protein HP0185,CCO-MEMBRANE
+HP_RS02925-MONOMER,HP_RS02925,Type III restriction-modification system M protein M.HpyAXI,CCI-CYTOSOL-GN
+HP_RS04980-MONOMER,HP_RS04980,Dihydrodipicolinate synthase DapA,CCI-CYTOSOL-GN
+HP_RS06945-MONOMER,HP_RS06945,Biotin synthase BioB,
+HP_RS00825-MONOMER,HP_RS00825,Collagenase PrtC,
+HP_RS02845-MONOMER,HP_RS02845,Phosphatidylglycerol-membrane-oligosaccharide glycerophosphotransferase MdoB,CCO-MEMBRANE
+HP_RS04865-MONOMER,HP_RS04865,ICEHptfs3 protein C24.1,
+HP_RS06855-MONOMER,HP_RS06855,hypothetical protein,
+HP_RS00745-MONOMER,HP_RS00745,Putative membrane protein HP0151,CCO-MEMBRANE
+HP_RS02765-MONOMER,HP_RS02765,30S ribosomal protein S21,CCI-RIBOSOME-GN
+HP_RS04775-MONOMER,HP_RS04775,Adenosylmethionine-8-amino-7-oxononanoate aminotransferase,CCI-CYTOSOL-GN
+HP_RS06775-MONOMER,HP_RS06775,Rod shape-determining protein MreC,
+HP_RS00660-MONOMER,HP_RS00660,serine transporter,CCI-PM-BAC-NEG-GN
+HP_RS02675-MONOMER,HP_RS02675,Cag T4SS protein CagE,CCI-PM-BAC-NEG-GN
+HP_RS00255-MONOMER,HP_RS00255,<i>N</i><sup>6</sup>-adenine DNA methyltransferase monomer,CCI-CYTOSOL-GN
+HP_RS04685-MONOMER,HP_RS04685,3-deoxy-D-manno-octulosonic-acid transferase,CCI-PM-BAC-NEG-GN
+HP_RS06675-MONOMER,HP_RS06675,Type IIP restriction-modification system M protein M.HpyAIV,CCI-CYTOSOL-GN
+HP_RS00580-MONOMER,HP_RS00580,Motility accessory factor,
+HP_RS02595-MONOMER,HP_RS02595,Cag T4SS protein CagY,CCO-MEMBRANE
+HP_RS00170-MONOMER,HP_RS00170,universal stress global response regulator UspA,
+HP_RS04585-MONOMER,HP_RS04585,alanine racemase,CCI-CYTOSOL-GN
+HP_RS06595-MONOMER,HP_RS06595,J domain-containing protein,
+HP_RS00495-MONOMER,HP_RS00495,Hypothetical protein HP0097,
+HP_RS02510-MONOMER,HP_RS02510,glycolate oxidase,CCI-CYTOSOL-GN
+HP_RS00085-MONOMER,HP_RS00085,Valyl-tRNA synthetase,
+HP_RS04490-MONOMER,HP_RS04490,Glyceraldehyde-3-phosphate dehydrogenase,CCI-CYTOSOL-GN
+HP_RS06515-MONOMER,HP_RS06515,30S ribosomal protein S10,CCI-RIBOSOME-GN
+HP_RS00405-MONOMER,HP_RS00405,second part of outer membrane protein HorA,
+HP_RS02425-MONOMER,HP_RS02425,"putative transporter, K<sup>+</sup> transporter (Trk) family",CCO-MEMBRANE
+HP_RS04390-MONOMER,HP_RS04390,Fe-(CN)<sub>2</sub>CO cofactor assembly scaffold protein HypD,
+HP_RS06435-MONOMER,HP_RS06435,50S ribosomal protein L6,CCI-RIBOSOME-GN
+HP_RS00320-MONOMER,HP_RS00320,Hypothetical protein HP0063,
+HP_RS06420-MONOMER,HP_RS06420,50S ribosomal protein L15,CCI-RIBOSOME-GN
+HP_RS02320-MONOMER,HP_RS02320,Hypothetical protein HP0469,
+HP_RS04270-MONOMER,HP_RS04270,catalase monomer,CCI-CYTOSOL-GN
+HP_RS06340-MONOMER,HP_RS06340,Acid phosphatase lipoprotein,CCI-OUTER-MEM-GN
+HP_RS02235-MONOMER,HP_RS02235,DUF2357 domain-containing protein,
+HP_RS04200-MONOMER,HP_RS04200,DsbD_2 domain-containing protein,CCO-MEMBRANE
+HP_RS06260-MONOMER,HP_RS06260,ferredoxin-menaquinone dehydrogenase subunit J,CCI-PM-BAC-NEG-GN
+HP_RS02115-MONOMER,HP_RS02115,hypothetical protein,CCO-MEMBRANE
+HP_RS04115-MONOMER,HP_RS04115,Thiamine-phosphate pyrophosphorylase ThiE,CCI-CYTOSOL-GN
+HP_RS06175-MONOMER,HP_RS06175,"ABC transporter, substrate-binding protein",CCI-PERI-BAC-GN // CCI-PM-BAC-NEG-GN
+HP_RS02010-MONOMER,HP_RS02010,Hypothetical protein HP0408,
+HP_RS04025-MONOMER,HP_RS04025,thioredoxin reductase,CCI-CYTOSOL-GN
+HP_RS06095-MONOMER,HP_RS06095,Integral membrane protein HP1235,CCI-PM-BAC-NEG-GN
+HP_RS01930-MONOMER,HP_RS01930,chemotaxis histidine kinase/response regulator CheAY2,CCI-CYTOSOL-GN
+HP_RS03945-MONOMER,HP_RS03945,"RNA methyltransferase, RsmD family",
+HP_RS06010-MONOMER,HP_RS06010,RDD domain-containing protein,CCO-MEMBRANE
+MONOMER2DNV-6,G2DNV-43,ComB7,
+HP_RS01850-MONOMER,HP_RS01850,Ferrochelatase HemH,CCI-CYTOSOL-GN
+HP_RS03860-MONOMER,HP_RS03860,peptide deformylase,
+HP_RS05885-MONOMER,HP_RS05885,DNA-directed RNA polymerase subunit beta/beta',
+HP_RS07860-MONOMER,HP_RS07860,Protein of unknown function UPF0174,
+HP_RS01750-MONOMER,HP_RS01750,alcohol dehydrogenase (NADP<small><sup>+</sup></small>),CCI-CYTOSOL-GN
+HP_RS03770-MONOMER,HP_RS03770,Tyrosyl-tRNA synthetase,CCI-CYTOSOL-GN
+HP_RS05795-MONOMER,HP_RS05795,purine nucleobase/nucleoside transporter,CCI-PM-BAC-NEG-GN
+HP_RS07770-MONOMER,HP_RS07770,3-deoxy-D-manno-octulosonate 8-phosphate phosphatase,
+HP_RS01665-MONOMER,HP_RS01665,Hypothetical protein HP0338,CCO-MEMBRANE
+HP_RS03685-MONOMER,HP_RS03685,ThiF family protein,
+HP_RS05715-MONOMER,HP_RS05715,cytochrome oxidase maturation protein,CCO-MEMBRANE
+HP_RS07690-MONOMER,HP_RS07690,Elongation factor Ts,CCI-CYTOSOL-GN
+HP_RS01575-MONOMER,HP_RS01575,"twin arginine protein translocation system, TatA protein",CCI-PM-BAC-NEG-GN
+HP_RS03600-MONOMER,HP_RS03600,UDP-<em>N</em>-acetylmuramoyl-tripeptide&mdash;<small>D</small>-alanyl-<small>D</small>-alanine ligase,CCO-MEMBRANE
+HP_RS05635-MONOMER,HP_RS05635,50S ribosomal protein L19,CCI-RIBOSOME-GN
+HP_RS07610-MONOMER,HP_RS07610,"menaquinol cytochrome <i>c</i> oxidoreductase, cytochrome <i>b</i> subunit",CCO-MEMBRANE
+HP_RS01495-MONOMER,HP_RS01495,GTPase ObgE,CCI-CYTOSOL-GN
+HP_RS03515-MONOMER,HP_RS03515,outer membrane protein SabB,
+HP_RS05535-MONOMER,HP_RS05535,Tol-Pal system protein TolB,CCI-PERI-BAC-GN
+HP_RS01415-MONOMER,HP_RS01415,pimelyl-[acyl-carrier protein] methyl ester esterase,
+HP_RS03425-MONOMER,HP_RS03425,DNA gyrase subunit A,CCI-CYTOSOL-GN
+HP_RS05455-MONOMER,HP_RS05455,"Pyruvate ferredoxin oxidoreductase, beta subunit PorB",
+HP_RS07440-MONOMER,HP_RS07440,putative metal-specific P-type ATPase,CCI-PM-BAC-NEG-GN
+HP_RS01335-MONOMER,HP_RS01335,Hypothetical protein HP0271,
+HP_RS03340-MONOMER,HP_RS03340,Hypothetical protein HP0681,CCO-MEMBRANE
+HP_RS05375-MONOMER,HP_RS05375,Predicted coding region HP1094,
+HP_RS07355-MONOMER,HP_RS07355,UPF0029 domain-containing protein,
+HP_RS01245-MONOMER,HP_RS01245,outer membrane protein HopF,
+HP_RS03245-MONOMER,HP_RS03245,Aspartyl/glutamyl-tRNA amidotransferase subunit B,
+HP_RS05295-MONOMER,HP_RS05295,high-affinity Ni<sup>2+</sup> transporter NixA,CCI-PM-BAC-NEG-GN
+HP_RS07275-MONOMER,HP_RS07275,outer membrane protein HorJ,
+HP_RS01160-MONOMER,HP_RS01160,cytochrome c domain-containing protein,
+HP_RS03165-MONOMER,HP_RS03165,NAD(P)H-flavin oxidoreductase FrxA,CCI-CYTOSOL-GN
+HP_RS05210-MONOMER,HP_RS05210,"twin arginine protein translocation system, TatB protein",CCI-PM-BAC-NEG-GN
+HP_RS07195-MONOMER,HP_RS07195,Outer membrane protein HomD,
+HP_RS01070-MONOMER,HP_RS01070,Phospholipid-binding protein,
+HP_RS03080-MONOMER,HP_RS03080,4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase,
+HP_RS05130-MONOMER,HP_RS05130,Integral membrane protein,
+HP_RS07105-MONOMER,HP_RS07105,Hypothetical protein HP1436,CCO-MEMBRANE
+HP_RS00975-MONOMER,HP_RS00975,50S ribosomal protein L32,CCI-RIBOSOME-GN
+HP_RS02995-MONOMER,HP_RS02995,tripartite efflux pump RND permease HefC,CCI-PM-BAC-NEG-GN
+HP_RS05050-MONOMER,HP_RS05050,DUF2147 domain-containing protein,
+HP_RS07020-MONOMER,HP_RS07020,UDP-N-acetylenolpyruvoylglucosamine reductase,CCI-CYTOSOL-GN
+HP_RS00890-MONOMER,HP_RS00890,Lysyl-tRNA synthetase,CCI-CYTOSOL-GN
+HP_RS02910-MONOMER,HP_RS02910,2-oxoglutarate-acceptor oxidoreductase subunit OorB,
+HP_RS04965-MONOMER,HP_RS04965,Polyphosphate kinase,
+HP_RS06925-MONOMER,HP_RS06925,Type I restriction enzyme R protein HsdR,
+HP_RS00810-MONOMER,HP_RS00810,response regulator ArsR,CCI-CYTOSOL-GN
+HP_RS02830-MONOMER,HP_RS02830,Peptidase M50,CCI-PM-BAC-NEG-GN
+HP_RS04850-MONOMER,HP_RS04850,Putative transposase TnpA,
+HP_RS06840-MONOMER,HP_RS06840,"Fructose-1,6-bisphosphatase",CCI-CYTOSOL-GN
+HP_RS00730-MONOMER,HP_RS00730,Hypothetical protein HP0148,CCO-MEMBRANE
+HP_RS02750-MONOMER,HP_RS02750,3-oxoacyl-[acyl carrier protein] synthase,CCI-CYTOSOL-GN
+HP_RS04760-MONOMER,HP_RS04760,Hypothetical protein HP0973,
+HP_RS06755-MONOMER,HP_RS06755,Type IIS restriction-modification system M1 protein M1.HpyAII,CCI-CYTOSOL-GN
+HP_RS00645-MONOMER,HP_RS00645,Hypothetical protein HP0129,
+HP_RS02660-MONOMER,HP_RS02660,CagH protein,CCO-MEMBRANE
+HP_RS00240-MONOMER,HP_RS00240,HypE [NiFe]-hydrogenase maturation protein,
+HP_RS04670-MONOMER,HP_RS04670,RdxA,
+HP_RS06660-MONOMER,HP_RS06660,Putative periplasmic protein HP1349,CCO-MEMBRANE
+HP_RS00565-MONOMER,HP_RS00565,heat-inducible transcription repressor HrcA,
+HP_RS02580-MONOMER,HP_RS02580,Cag T4SS protein Cag&beta;,CCO-MEMBRANE
+HP_RS00155-MONOMER,HP_RS00155,Hypothetical protein HP0028,CCO-MEMBRANE
+HP_RS04565-MONOMER,HP_RS04565,"putative transporter, major facilitator superfamily",CCO-MEMBRANE
+HP_RS06580-MONOMER,HP_RS06580,Hypothetical protein HP1333,
+HP_RS00475-MONOMER,HP_RS00480,"&alpha;-(1,2)-fucosyltransferase FutC",CCI-CYTOSOL-GN // CCO-MEMBRANE
+HP_RS02495-MONOMER,HP_RS02495,"PG-modifying enzyme, HdpA",CCO-MEMBRANE
+HP_RS00070-MONOMER,HP_RS00070,chaperonin GroS monomer,CCI-CYTOSOL-GN
+HP_RS04475-MONOMER,HP_RS04475,Hypothetical protein HP0918,
+HP_RS06500-MONOMER,HP_RS06500,50S ribosomal protein L23,CCI-RIBOSOME-GN
+HP_RS00390-MONOMER,HP_RS00390,30S ribosomal protein S20,CCI-RIBOSOME-GN // CCI-CYTOSOL-GN
+HP_RS02410-MONOMER,HP_RS02410,Outer membrane protein HofD,
+HP_RS04365-MONOMER,HP_RS04365,antitoxin protein HP0895,
+HP_RS04350-MONOMER,HP_RS04350,addiction module toxin protein HP0892,
+HP_RS06405-MONOMER,HP_RS06405,Translation initiation factor IF-1,CCI-CYTOSOL-GN
+HP_RS02305-MONOMER,HP_RS02305,TerB domain-containing protein,
+HP_RS04255-MONOMER,HP_RS04255,uncharacterized protein,CCI-CYTOSOL-GN
+HP_RS06325-MONOMER,HP_RS06325,Anthranilate synthase component I,
+HP_RS02220-MONOMER,HP_RS02220,Hypothetical protein HP0449,
+HP_RS04185-MONOMER,HP_RS04185,Bifunctional protein hldE (D-beta-D-heptose 7-phosphate kinase/D-beta-D-heptose 1-phosphate adenosyltransferase),
+HP_RS06245-MONOMER,HP_RS06245,ferredoxin-menaquinone dehydrogenase subunit G,CCI-PM-BAC-NEG-GN
+HP_RS02100-MONOMER,HP_RS02100,Hypothetical protein HP0424,
+HP_RS04100-MONOMER,HP_RS04100,"UDP-N-acetylglucosamine 4,6-dehydratase",
+HP_RS06160-MONOMER,HP_RS06160,Shikimate 5-dehydrogenase,CCI-CYTOSOL-GN
+HP_RS01995-MONOMER,HP_RS01995,NifS-like protein,
+HP_RS04010-MONOMER,HP_RS04010,Homoserine dehydrogenase,
+HP_RS06080-MONOMER,HP_RS06080,bifunctional dihydropteroate synthase/dihydropteroate reductase,CCI-CYTOSOL-GN
+HP_RS01915-MONOMER,HP_RS01915,superoxide dismutase SodB,
+HP_RS03925-MONOMER,HP_RS03925,Metalloprotease,
+HP_RS05990-MONOMER,HP_RS05990,F0F1 ATP synthase subunit C AtpE,CCI-PM-BAC-NEG-GN
+MONOMER2DNV-16,G2DNV-15,,
+HP_RS01835-MONOMER,HP_RS01835,Outer membrane protein HomC,
+HP_RS03845-MONOMER,HP_RS03845,Type I restriction-modification system S protein S.HpyAXIII,
+HP_RS05870-MONOMER,HP_RS05870,Elongation factor G,CCI-CYTOSOL-GN
+HP_RS07835-MONOMER,HP_RS07835,4-hydroxythreonine-4-phosphate dehydrogenase,CCI-CYTOSOL-GN
+HP_RS01735-MONOMER,HP_RS01735,1-deoxy-D-xylulose-5-phosphate synthase,CCI-CYTOSOL-GN
+HP_RS03755-MONOMER,HP_RS03755,Hypothetical protein HP0771,CCO-MEMBRANE
+HP_RS05780-MONOMER,HP_RS05780,CEACAM-binding adhesin HopQ,
+HP_RS07755-MONOMER,HP_RS07755,Ribosome biogenesis GTP-binding protein YsxC,CCI-CYTOSOL-GN
+HP_RS01645-MONOMER,HP_RS01645,DNA protecting protein DprA,
+HP_RS03670-MONOMER,HP_RS03670,flagellar filament capping protein,CCI-EXTRACELLULAR-GN // CCO-CELL-PROJECTION
+HP_RS05700-MONOMER,HP_RS05700,endoribonuclease YbeY,CCI-CYTOSOL-GN
+HP_RS07675-MONOMER,HP_RS07675,sodium:proton antiporter NhaA,CCI-PM-BAC-NEG-GN
+HP_RS01560-MONOMER,HP_RS01560,outer membrane protein BabC/HopU,
+HP_RS03585-MONOMER,HP_RS03585,phosphatidylglycerophosphatase A PgpA,CCI-PM-BAC-NEG-GN
+HP_RS05605-MONOMER,HP_RS05605,Methionyl-tRNA formyltransferase,CCI-CYTOSOL-GN
+HP_RS07595-MONOMER,HP_RS07595,hypothetical protein,
+HP_RS01480-MONOMER,HP_RS01480,"peptide ABC transporter, membrane protein DppC",CCI-PM-BAC-NEG-GN
+HP_RS03495-MONOMER,HP_RS03495,DNA polymerase III subunits gamma and tau,
+HP_RS05520-MONOMER,HP_RS05520,nickel-binding protein SlyD,CCI-CYTOSOL-GN
+HP_RS07505-MONOMER,HP_RS07505,Type IIG restriction-modification system M protein M.HpyAXIV,
+HP_RS01400-MONOMER,HP_RS01400,putative small conductance mechanosensitive channel,CCO-MEMBRANE
+HP_RS03410-MONOMER,HP_RS03410,Acetone carboxylase subunit gamma,
+HP_RS05440-MONOMER,HP_RS05440,Pyruvate flavodoxin oxidoreductase subunit gamma PorG,
+HP_RS07420-MONOMER,HP_RS07420,putative lipopolysaccharide transport system protein LptG,CCI-PM-BAC-NEG-GN
+HP_RS01320-MONOMER,HP_RS01320,HP0268 domain-containing protein,
+HP_RS03320-MONOMER,HP_RS03320,Methylated-DNA--protein-cysteine methyltransferase,CCI-CYTOSOL-GN
+HP_RS05360-MONOMER,HP_RS05360,DNA translocase FtsK,CCI-PM-BAC-NEG-GN
+HP_RS07340-MONOMER,HP_RS07340,Exodeoxyribonuclease VII small subunit,CCI-CYTOSOL-GN
+HP_RS01225-MONOMER,HP_RS01225,Hypothetical protein HP0249,CCO-MEMBRANE
+HP_RS03230-MONOMER,HP_RS03230,putative outer membrane protein assembly factor BamA,CCI-OUTER-MEM-GN
+HP_RS05280-MONOMER,HP_RS05280,Hypothetical protein HP1074,
+HP_RS07260-MONOMER,HP_RS07260,ABC transporter membrane protein,CCI-PM-BAC-NEG-GN
+HP_RS01145-MONOMER,HP_RS01145,Glutathionylspermidine synthase,
+HP_RS03150-MONOMER,HP_RS03150,7-cyano-7-deazaguanine synthase,
+HP_RS05195-MONOMER,HP_RS05195,Hypothetical protein HP1057,
+HP_RS07180-MONOMER,HP_RS07180,membrane protein insertase YidC,CCI-PM-BAC-NEG-GN
+HP_RS01055-MONOMER,HP_RS01055,Phosphatidate cytidylyltransferase,CCI-PM-BAC-NEG-GN
+HP_RS03065-MONOMER,HP_RS03065,Putative membrane protein HP0622,CCO-MEMBRANE
+HP_RS05115-MONOMER,HP_RS05115,flagellar export protein FlhA,CCI-PM-BAC-NEG-GN
+HP_RS07090-MONOMER,HP_RS07090,Hypothetical protein HP1433,
+HP_RS00960-MONOMER,HP_RS00960,S-adenosylmethionine synthetase,CCI-CYTOSOL-GN
+HP_RS02980-MONOMER,HP_RS02980,Uroporphyrinogen decarboxylase HemE,CCI-CYTOSOL-GN
+HP_RS05035-MONOMER,HP_RS05035,heat shock protein HspR,
+HP_RS07005-MONOMER,HP_RS07005,"core oligosaccharide &alpha;-(1,4)-glucosyltransferase",
+HP_RS00875-MONOMER,HP_RS00875,ABC transporter ATP-binding protein,
+HP_RS07525-MONOMER,HP_RS07525,inactive Type III restriction-modification system M protein (Mod),
+HP_RS02895-MONOMER,HP_RS02895,Aminodeoxychorismate lyase,CCI-PM-BAC-NEG-GN
+HP_RS04930-MONOMER,HP_RS04930,ICEHptfs4 protein V7,
+HP_RS06910-MONOMER,HP_RS06910,arginase,CCI-CYTOSOL-GN
+HP_RS00795-MONOMER,HP_RS00795,Probable transcriptional regulatory protein HP0162,CCI-CYTOSOL-GN
+HP_RS02815-MONOMER,HP_RS02815,Adenine phosphoribosyltransferase,CCI-CYTOSOL-GN
+HP_RS04830-MONOMER,HP_RS04830,hypothetical protein,
+HP_RS06825-MONOMER,HP_RS06825,Putative endonuclease G NucG,
+HP_RS00715-MONOMER,HP_RS00715,"Cbb3-type cytochrome c oxidase, monoheme subunit",CCO-MEMBRANE
+HP_RS02735-MONOMER,HP_RS02735,Hypothetical protein HP05555,
+HP_RS00305-MONOMER,HP_RS00305,Hypothetical protein HP0060,
+HP_RS04745-MONOMER,HP_RS04745,"Ni<sup>2+</sup>/Zn<sup>2+</sup>/Cd<sup>2+</sup> efflux pump, periplasmic adaptor protein",CCO-CE-BAC
+HP_RS06740-MONOMER,HP_RS06740,[transcriptional regulator CrdR] histidine kinase,CCI-PM-BAC-NEG-GN
+HP_RS00630-MONOMER,HP_RS00630,50S ribosomal protein L35,CCI-RIBOSOME-GN
+HP_RS02645-MONOMER,HP_RS02645,CagN protein,
+HP_RS00225-MONOMER,HP_RS00225,Mannose-6-phosphate isomerase,
+HP_RS04655-MONOMER,HP_RS04655,recombination protein RecO,
+HP_RS06645-MONOMER,HP_RS06645,Glyceraldehyde-3-phosphate dehydrogenase,CCI-CYTOSOL-GN
+HP_RS00545-MONOMER,HP_RS00545,cystathionine &beta;-synthase (<em>O</em>-acetyl-<small>L</small>-serine) monomer,CCI-CYTOSOL-GN
+HP_RS02565-MONOMER,HP_RS02565,Cag pathogenicity island protein Cag&zeta;,CCO-MEMBRANE
+HP_RS00140-MONOMER,HP_RS00140,hypothetical protein,
+HP_RS04545-MONOMER,HP_RS04545,"6-carboxy-5,6,7,8-tetrahydropterin synthase",
+HP_RS06565-MONOMER,HP_RS06565,"putative branched-chain amino acid efflux pump, AzlD family protein",CCI-PM-BAC-NEG-GN
+HP_RS00455-MONOMER,HP_RS00455,malonyl CoA-[acyl carrier protein] transacylase,CCI-CYTOSOL-GN
+HP_RS02475-MONOMER,HP_RS02475,DNA polymerase III subunit beta,CCI-CYTOSOL-GN
+HP_RS06935-MONOMER,HP_RS06935,Type I restriction enzyme S protein HsdS,
+HP_RS00030-MONOMER,HP_RS00030,Pantoate-beta-alanine ligase PanC,CCI-CYTOSOL-GN
+HP_RS04455-MONOMER,HP_RS04455,outer membrane protein AlpA/HopC,
+HP_RS06485-MONOMER,HP_RS06485,50S ribosomal protein L22,CCI-RIBOSOME-GN
+HP_RS00370-MONOMER,HP_RS00370,urease subunit alpha UreA,CCI-CYTOSOL-GN
+HP_RS02395-MONOMER,HP_RS02395,inactive Type IIP restriction-modification system R protein,
+HP_RS04335-MONOMER,HP_RS04335,"Ni<sup>2+</sup> ABC transporter, membrane protein NiuD",CCI-PM-BAC-NEG-GN
+HP_RS06390-MONOMER,HP_RS06390,30S ribosomal protein S11,CCI-RIBOSOME-GN
+HP_RS04235-MONOMER,HP_RS04235,protein HP0868,
+HP_RS06310-MONOMER,HP_RS06310,Bifunctional indole-3-glycerol phosphate synthase/phosphoribosylanthranilate isomerase,
+HP_RS02195-MONOMER,HP_RS02195,Hypothetical protein HP0444,
+HP_RS04170-MONOMER,HP_RS04170,peptidoglycan <i>O</i>-acetyltransferase,CCI-PM-BAC-NEG-GN
+HP_RS06230-MONOMER,HP_RS06230,ferredoxin-menaquinone dehydrogenase subunit D,CCI-PM-BAC-NEG-GN
+HP_RS02085-MONOMER,HP_RS02085,,CCI-PM-BAC-NEG-GN
+HP_RS04075-MONOMER,HP_RS04075,DNA-binding protein HU,CCI-CYTOSOL-GN
+HP_RS06145-MONOMER,HP_RS06145,30S ribosomal protein S6,CCI-RIBOSOME-GN
+HP_RS01980-MONOMER,HP_RS01980,Phenylalanyl-tRNA synthetase subunit beta PheT,CCI-CYTOSOL-GN
+HP_RS03995-MONOMER,HP_RS03995,hypothetical protein,
+HP_RS06065-MONOMER,HP_RS06065,Aspartate kinase LysC,CCI-CYTOSOL-GN
+HP_RS02280-MONOMER,HP_RS02280,ICEHptfs3 protein C14,
+HP_RS01900-MONOMER,HP_RS01900,Uncharacterized protein HP0386,
+HP_RS03910-MONOMER,HP_RS03910,DUF3943 domain-containing protein,CCO-MEMBRANE
+HP_RS05960-MONOMER,HP_RS05960,Haloacid dehalogenase,CCI-CYTOSOL-GN
+HP_RS01820-MONOMER,HP_RS01820,Biotin carboxylase AccC,
+HP_RS03830-MONOMER,HP_RS03830,protein translocation ATPase SecA,CCI-CYTOSOL-GN // CCI-PM-BAC-NEG-GN
+HP_RS05855-MONOMER,HP_RS05855,lipopolysaccharide heptosyltransferase II,CCI-CYTOSOL-GN
+HP_RS07820-MONOMER,HP_RS07820,lipid A 4'-phosphatase,CCO-MEMBRANE
+HP_RS01720-MONOMER,HP_RS01720,flagellar basal-body MS-ring and collar protein,CCI-PM-BAC-NEG-GN // CCO-CELL-PROJECTION
+HP_RS03740-MONOMER,HP_RS03740,Molybdenum cofactor biosynthesis protein A MoaA,
+HP_RS05765-MONOMER,HP_RS05765,Hypothetical protein HP1173,
+HP_RS07740-MONOMER,HP_RS07740,D-methionine ABC transporter substrate-binding protein,CCO-MEMBRANE
+HP_RS01630-MONOMER,HP_RS01630,Ketol-acid reductoisomerase IlvC,CCI-CYTOSOL-GN
+HP_RS03655-MONOMER,HP_RS03655,cell division protein FtsX,CCO-MEMBRANE
+HP_RS05685-MONOMER,HP_RS05685,outer membrane protein HopL,
+HP_RS07660-MONOMER,HP_RS07660,Sec translocon accessory subunit SecF,CCI-PM-BAC-NEG-GN
+HP_RS01545-MONOMER,HP_RS01545,nitrate:nitrite antiporter NarK,CCI-PM-BAC-NEG-GN
+HP_RS07715-MONOMER,HP_RS07715,flagellar basal-body rod protein FlgB,CCO-CELL-PROJECTION
+HP_RS03570-MONOMER,HP_RS03570,Ribosomal protein S12 methylthiotransferase RimO,CCI-CYTOSOL-GN
+HP_RS05590-MONOMER,HP_RS05590,Plasmid replication-partition related protein,
+HP_RS07580-MONOMER,HP_RS07580,FAD-dependent thymidylate synthase ThyX,
+HP_RS01465-MONOMER,HP_RS01465,50S ribosomal protein L27,CCI-RIBOSOME-GN
+HP_RS03480-MONOMER,HP_RS03480,RNA polymerase factor &sigma;<sup>54</sup>,
+HP_RS05505-MONOMER,HP_RS05505,Type IIP restriction-modification system M protein M.HpyAVIII,
+HP_RS07490-MONOMER,HP_RS07490,Selenocysteine synthase SelA,CCI-CYTOSOL-GN
+HP_RS01385-MONOMER,HP_RS01385,queuine tRNA-ribosyltransferase,
+HP_RS03395-MONOMER,HP_RS03395,lipid A 3'-<i>O</i>-acyloxyacylase,
+HP_RS05425-MONOMER,HP_RS05425,"H. pylori LPS &beta;-(1,3)-<i>N</i>-acetylglucosaminyltransferase",
+HP_RS07405-MONOMER,HP_RS07405,Transaldolase,CCI-CYTOSOL-GN
+HP_RS01305-MONOMER,HP_RS01305,thioredoxin:protein disulfide reductase CcdA,CCO-MEMBRANE
+HP_RS03300-MONOMER,HP_RS03300,outer membrane protein HorF,
+HP_RS05345-MONOMER,HP_RS05345,Bifunctional riboflavin kinase/FMN adenylyltransferase,
+HP_RS07325-MONOMER,HP_RS07325,Hypothetical protein HP1479,CCO-MEMBRANE
+HP_RS01210-MONOMER,HP_RS01210,flagellar basal-body P-ring protein FlgI,CCI-PERI-BAC-GN // CCO-CELL-PROJECTION
+HP_RS03215-MONOMER,HP_RS03215,Phosphoserine phosphatase SerB,CCI-CYTOSOL-GN
+HP_RS05265-MONOMER,HP_RS05265,CDP-diacylglycerol--serine O-phosphatidyltransferase,CCI-PM-BAC-NEG-GN
+HP_RS07245-MONOMER,HP_RS07245,Hypothetical protein HP1463,
+HP_RS01125-MONOMER,HP_RS01125,outer membrane porin HopA,
+HP_RS03130-MONOMER,HP_RS03130,[NiFe]-hydrogenase maturation protein HydE,
+HP_RS05180-MONOMER,HP_RS05180,Hypothetical protein HP1054,
+HP_RS07165-MONOMER,HP_RS07165,50S ribosomal protein L34,CCI-RIBOSOME-GN
+ACP-MONOMER,,holo-[acyl-carrier protein],
+HP_RS01040-MONOMER,HP_RS01040,succinyl-diaminopimelate desuccinylase,
+HP_RS01135-MONOMER,HP_RS01135,protein dithiol oxidoreductase (disulfide-forming) DsbK,
+HP_RS03050-MONOMER,HP_RS03050,glycosyltransferase family 25 protein,
+HP_RS05100-MONOMER,HP_RS05100,3-dehydroquinate dehydratase monomer,
+HP_RS04130-MONOMER,HP_RS04130,Type I restriction-modification system R protein R.HpyAXIII,
+HP_RS07075-MONOMER,HP_RS07075,Ribonuclease J,CCI-CYTOSOL-GN
+HP_RS00945-MONOMER,HP_RS00945,Triosephosphate isomerase,CCI-CYTOSOL-GN
+HP_RS02695-MONOMER,HP_RS02695,CagA protein,
+HP_RS02965-MONOMER,HP_RS02965,flagellar filament structural protein FlaA,CCI-EXTRACELLULAR-GN // CCO-CELL-PROJECTION
+HP_RS05020-MONOMER,HP_RS05020,5'-3' exonuclease,
+HP_RS06990-MONOMER,HP_RS06990,NADPH-dependent 7-cyano-7-deazaguanine reductase,CCI-CYTOSOL-GN
+HP_RS00860-MONOMER,HP_RS00860,Fructose-bisphosphate aldolase,
+HP_RS02880-MONOMER,HP_RS02880,Endonuclease III,
+HP_RS04910-MONOMER,HP_RS04910,ICEHptfs4 protein C7,
+HP_RS06890-MONOMER,HP_RS06890,Putative inorganic polyphosphate/ATP-NAD kinase PpnK,CCI-CYTOSOL-GN
+HP_RS00780-MONOMER,HP_RS00780,N-linked glycosylation glycosyltransferase,CCO-MEMBRANE
+HP_RS02800-MONOMER,HP_RS02800,Ribosome-binding ATPase YchF,CCI-CYTOSOL-GN
+HP_RS00695-MONOMER,HP_RS00695,lactate transporter LctP2,CCI-PM-BAC-NEG-GN
+HP_RS04810-MONOMER,HP_RS04810,hypothetical protein,
+CPLX2DNV-1052,HP_RS02120 // HP_RS02125 // HP_RS05900 // HP_RS06495 // HP_RS06510 // HP_RS06505 // HP_RS06450 // HP_RS06435 // HP_RS05895 // HP_RS05890 // HP_RS02535 // HP_RS05905 // HP_RS00425 // HP_RS06460 // HP_RS06420 // HP_RS06475 // HP_RS06375 // HP_RS06430 // HP_RS05635 // HP_RS00635 // HP_RS01460 // HP_RS06485 // HP_RS06500 // HP_RS06455 // HP_RS07410 // HP_RS01465 // HP_RS02430 // HP_RS06470 // HP_RS02715 // HP_RS00975 // HP_RS05925 // HP_RS07165 // HP_RS00630 // HP_RS06400,50S ribosomal subunit,
+HP_RS06810-MONOMER,HP_RS06810,ATP-dependent protease La,CCI-CYTOSOL-GN
+CPLX2DNV-1053,HP_RS02765 // HP_RS00390 // HP_RS06490 // HP_RS06135 // HP_RS06465 // HP_RS05655 // HP_RS05110 // HP_RS06445 // HP_RS06395 // HP_RS05880 // HP_RS06390 // HP_RS06515 // HP_RS00420 // HP_RS06440 // HP_RS05875 // HP_RS06145 // HP_RS06425 // HP_RS06385 // HP_RS06480 // HP_RS07685 // HP_RS01965 // HP_RS05625,30S ribosomal subunit,
+HP_RS02290-MONOMER,HP_RS02290,inactive Type I restriction-modofication system M protein,
+HP_RS02720-MONOMER,HP_RS02720,Ribosomal RNA small subunit methyltransferase I,CCI-CYTOSOL-GN
+HP_RS00290-MONOMER,HP_RS00290,Hypothetical protein HP0057,
+HP_RS04725-MONOMER,HP_RS04725,Hypothetical protein HP0966,
+HP_RS06725-MONOMER,HP_RS06725,competence protein ComE,CCI-PM-BAC-NEG-GN
+HP_RS00615-MONOMER,HP_RS00615,Phosphoenolpyruvate synthase,
+HP_RS02630-MONOMER,HP_RS02630,CagQ protein,CCO-MEMBRANE
+HP_RS00210-MONOMER,HP_RS00210,ComB8 competence protein,CCO-MEMBRANE
+HP_RS04640-MONOMER,HP_RS04640,Hypothetical protein HP0948,CCO-MEMBRANE
+HP_RS06630-MONOMER,HP_RS06630,Integral membrane protein,CCI-PM-BAC-NEG-GN
+HP_RS00530-MONOMER,HP_RS00530,"2',3'-cyclic-nucleotide 2'-phosphodiesterase",CCI-PERI-BAC-GN
+HP_RS06055-MONOMER,HP_RS06055,cytochrome <i>c</i><sub>553</sub>,CCI-PERI-BAC-GN
+HP_RS02550-MONOMER,HP_RS02550,GTP-binding protein Era,CCI-CYTOSOL-GN // CCI-PM-BAC-NEG-GN
+HP_RS00125-MONOMER,HP_RS00125,lipid A 1-phosphatase,CCI-PM-BAC-NEG-GN
+HP_RS02245-MONOMER,HP_RS02245,integrase-resolvase,
+HP_RS04525-MONOMER,HP_RS04525,GTP cyclohydrolase I,CCI-CYTOSOL-GN
+HP_RS06550-MONOMER,HP_RS06550,copper efflux pump outer membrane channel,
+HP_RS00440-MONOMER,HP_RS00440,Putative lipoprotein,
+HP_RS02460-MONOMER,HP_RS02460,putative solute:Na<sup>+</sup> symporter,CCO-MEMBRANE
+HP_RS00015-MONOMER,HP_RS00015,2-dehydro-3-deoxyphosphooctonate aldolase,CCI-CYTOSOL-GN
+HP_RS04440-MONOMER,HP_RS04440,inactive Type IIP restriction-modification system R protein R.HpyAIX,
+HP_RS06470-MONOMER,HP_RS06470,50S ribosomal protein L29,CCI-RIBOSOME-GN
+HP_RS00355-MONOMER,HP_RS00355,nickel-carrier protein UreE monomer,CCI-CYTOSOL-GN
+HP_RS02370-MONOMER,HP_RS02370,"<i>H. pylroi</i> LPS trisaccharide &alpha;-(1,3)-DD-Hep transferase",CCI-CYTOSOL-GN
+HP_RS04320-MONOMER,HP_RS04320,Cysteinyl-tRNA synthetase,CCI-CYTOSOL-GN
+HP_RS06375-MONOMER,HP_RS06375,50S ribosomal protein L17,CCI-RIBOSOME-GN
+HP_RS02275-MONOMER,HP_RS02275,ICEHptfs3 protein C17,
+HP_RS06295-MONOMER,HP_RS06295,Hypothetical protein HP1276,
+HP_RS02180-MONOMER,HP_RS02180,ICEHptfs4 protein C17.2,
+HP_RS00265-MONOMER,HP_RS00265,Type IIS restriction-modification system R protein R.HpyAVI,
+HP_RS04155-MONOMER,HP_RS04155,Putative HrgA like protein,
+HP_RS06215-MONOMER,HP_RS06215,ferredoxin-menaquinone dehydrogenase subunit A,CCI-PM-BAC-NEG-GN
+HP_RS02070-MONOMER,HP_RS02070,Ferrochelatase,
+HP_RS04060-MONOMER,HP_RS04060,spermidine synthase,CCI-CYTOSOL-GN
+HP_RS06130-MONOMER,HP_RS06130,blood group antigen binding adhesin BabA/HopS,
+HP_RS01965-MONOMER,HP_RS01965,30S ribosomal protein S1,CCI-RIBOSOME-GN
+HP_RS03980-MONOMER,HP_RS03980,Hypothetical protein HP0817,
+HP_RS06045-MONOMER,HP_RS06045,Camphor resistance protein CrcB,CCI-PM-BAC-NEG-GN
+HP_RS01885-MONOMER,HP_RS01885,Hypothetical protein HP0383,CCO-MEMBRANE
+HP_RS03895-MONOMER,HP_RS03895,Molybdopterin converting factor subunit 2 MoaE,CCI-CYTOSOL-GN
+HP_RS05925-MONOMER,HP_RS05925,50S ribosomal protein L33,CCI-RIBOSOME-GN
+HP_RS07910-MONOMER,HP_RS07910,hypothetical protein,
+HP_RS01800-MONOMER,HP_RS01800,UDP-4-keto-6-deoxy-N-acetylglucosamine 4-aminotransferase,
+HP_RS03805-MONOMER,HP_RS03805,Hypothetical protein HP0781,
+HP_RS05835-MONOMER,HP_RS05835,Hypothetical protein HP1187,
+HP_RS07805-MONOMER,HP_RS07805,"ABC transporter, membrane protein",CCI-PM-BAC-NEG-GN
+HP_RS01705-MONOMER,HP_RS01705,Single-stranded-DNA-specific exonuclease RecJ,
+HP_RS03725-MONOMER,HP_RS03725,Proteobacterial sortase system OmpA family protein,
+HP_RS04135-MONOMER,HP_RS04135,inactive type I restriction enzyme S protein S.HpyAXIIIN,
+HP_RS05750-MONOMER,HP_RS05750,"L-glutamine ABC transporter, permease protein",CCI-PM-BAC-NEG-GN
+HP_RS07725-MONOMER,HP_RS07725,periplasmic Ni<sup>2+</sup>-binding protein NiuB1,
+HP_RS01610-MONOMER,HP_RS01610,"UDP-4-amino-4,6-dideoxy-N-acetyl-beta-L-altrosamine N-acetyltransferase",
+HP_RS03640-MONOMER,HP_RS03640,Hypothetical protein HP0746,
+HP_RS05670-MONOMER,HP_RS05670,flagellar assembly protein FliW,CCI-CYTOSOL-GN
+HP_RS07645-MONOMER,HP_RS07645,putative lipopolysaccharide assembly protein LptE,CCO-MEMBRANE
+HP_RS01530-MONOMER,HP_RS01530,peptidoglycan-<em>N</em>-acetylglucosamine deacetylase,
+HP_RS03550-MONOMER,HP_RS03550,Hypothetical protein HP0729,
+HP_RS05575-MONOMER,HP_RS05575,"F0F1 ATP synthase subunit delta, AtpH",CCO-MEMBRANE
+HP_RS07565-MONOMER,HP_RS07565,Purine nucleoside phosphorylase PunB,
+HP_RS01450-MONOMER,HP_RS01450,acylamide amidohydrolase AmiE,
+HP_RS03460-MONOMER,HP_RS03460,Acetolactate synthase 3 regulatory subunit,
+HP_RS05490-MONOMER,HP_RS05490,&gamma;-glutamyltransferase Ggt precursor,
+HP_RS07475-MONOMER,HP_RS07475,Dihydroneopterin aldolase FolB,
+HP_RS01370-MONOMER,HP_RS01370,Guanosine pentaphosphate phosphohydrolase GppA,
+HP_RS03380-MONOMER,HP_RS03380,succinyl-CoA-transferase subunit A,
+HP_RS05410-MONOMER,HP_RS05410,6-phosphogluconolactonase,CCI-CYTOSOL-GN
+HP_RS07390-MONOMER,HP_RS07390,NifU-like protein HP1492,CCI-CYTOSOL-GN
+HP_RS01285-MONOMER,HP_RS01285,Hypothetical protein HP0261,
+HP_RS03280-MONOMER,HP_RS03280,Coproporphyrinogen III oxidase HemN,CCI-CYTOSOL-GN
+HP_RS05330-MONOMER,HP_RS05330,Aspartate carbamoyltransferase PyrB,CCI-CYTOSOL-GN
+HP_RS07310-MONOMER,HP_RS07310,6-carboxy-2-demethylmenaquinol decarboxylase MqnM,
+HP_RS01195-MONOMER,HP_RS01195,neutrophil activating protein NapA (bacterioferritin),CCI-CYTOSOL-GN
+HP_RS03200-MONOMER,HP_RS03200,Aspartate ammonia-lyase AspA,CCI-CYTOSOL-GN
+HP_RS05250-MONOMER,HP_RS05250,chemotaxis response regulator CheY1,CCI-CYTOSOL-GN
+HP_RS07230-MONOMER,HP_RS07230,DNA polymerase III subunit alpha DnaE,CCI-CYTOSOL-GN
+HP_RS01105-MONOMER,HP_RS01105,putative transporter,CCI-PM-BAC-NEG-GN
+HP_RS03115-MONOMER,HP_RS03115,Quinone-reactive Ni/Fe hydrogenase HydB,CCI-PM-BAC-NEG-GN
+HP_RS05165-MONOMER,HP_RS05165,Universal bacterial protein YeaZ,
+HP_RS07150-MONOMER,HP_RS07150,SsrA-binding protein,CCI-CYTOSOL-GN
+HP_RS01025-MONOMER,HP_RS01025,Outer membrane protein HofA,
+HP_RS03035-MONOMER,HP_RS03035,Aspartyl-tRNA synthetase,CCI-CYTOSOL-GN
+HP_RS05085-MONOMER,HP_RS05085,flagellar biosynthesis regulator FlhF,CCI-PM-BAC-NEG-GN
+HP_RS07060-MONOMER,HP_RS07060,<i>apo</i>-Ni<sup>2+</sup>-binding protein Hpn monomer,
+HP_RS00930-MONOMER,HP_RS00930,Fumarate reductase iron-sulfur subunit FrdB,
+HP_RS02950-MONOMER,HP_RS02950,8-amino-7-oxononanoate synthase,
+HP_RS03355-MONOMER,HP_RS03355,flagellar type III secretion system pore protein FliP,
+HP_RS05000-MONOMER,HP_RS05000,arginine transporter,CCO-MEMBRANE
+HP_RS06975-MONOMER,HP_RS06975,Hypothetical protein HP1410,
+HP_RS00845-MONOMER,HP_RS00845,Flagellar biosynthesis protein FliR,CCI-PM-BAC-NEG-GN // CCO-CELL-PROJECTION
+HP_RS02865-MONOMER,HP_RS02865,TonB-like protein HP0582,CCI-PM-BAC-NEG-GN
+HP_RS04890-MONOMER,HP_RS04890,ICEHptfs3 protein C9,
+HP_RS06875-MONOMER,HP_RS06875,Hypothetical protein HP1391,
+HP_RS00765-MONOMER,HP_RS00765,hypothetical protein,CCO-MEMBRANE
+HP_RS02785-MONOMER,HP_RS02785,Diaminopimelate epimerase DapF,CCI-CYTOSOL-GN
+HP_RS04795-MONOMER,HP_RS04795,RIP metalloprotease RseP,CCO-MEMBRANE
+HP_RS06795-MONOMER,HP_RS06795,FabZ monomer,CCI-CYTOSOL-GN
+HP_RS00680-MONOMER,HP_RS00680,"putative NAD-dependent lactate dehydrogenase, iron-sulfur protein",
+HP_RS02705-MONOMER,HP_RS02705,Glutamate racemase,
+HP_RS00275-MONOMER,HP_RS00275,Type IIS restriction-modification system M protein M.HpyAV,
+HP_RS04705-MONOMER,HP_RS04705,NAD(P)H-dependent glycerol-3-phosphate dehydrogenase,CCI-CYTOSOL-GN
+HP_RS06710-MONOMER,HP_RS06710,Hypothetical protein HP1358,CCO-MEMBRANE
+HP_RS00600-MONOMER,HP_RS00600,DUF874 family protein HP0118,
+HP_RS02615-MONOMER,HP_RS02615,CagU protein,CCO-MEMBRANE
+HP_RS00190-MONOMER,HP_RS00190,Transcriptional regulatory protein,CCI-BAC-NUCLEOID-GN // CCI-CYTOSOL-GN
+EG50003-MONOMER,,acyl carrier protein,
+HP_RS04610-MONOMER,HP_RS04610,TRL family protein,
+HP_RS06615-MONOMER,HP_RS06615,energy-transducing Ton complex subunit ExbD,CCI-PM-BAC-NEG-GN
+HP_RS00515-MONOMER,HP_RS00515,Putative membrane protein HP0101,
+HP_RS02535-MONOMER,HP_RS02535,50S ribosomal protein L9,CCI-RIBOSOME-GN
+HP_RS00110-MONOMER,HP_RS00110,Hypothetical protein HP0018,
+HP_RS04510-MONOMER,HP_RS04510,recombination protein RecR,
+HP_RS06535-MONOMER,HP_RS06535,Hypothetical protein HP1324,
+HP_RS00425-MONOMER,HP_RS00425,50S ribosomal protein L13,CCI-RIBOSOME-GN
+HP_RS02445-MONOMER,HP_RS02445,UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase,CCI-CYTOSOL-GN
+HP_RS04425-MONOMER,HP_RS04425,flagellar hook-length control protein FliK,
+HP_RS06455-MONOMER,HP_RS06455,50S ribosomal protein L24,CCI-RIBOSOME-GN
+HP_RS00340-MONOMER,HP_RS00340,urease accessory protein UreD,CCI-CYTOSOL-GN
+HP_RS02355-MONOMER,HP_RS02355,glutamyl-tRNA synthetase,CCI-CYTOSOL-GN
+MONOMER2DNV-9,HP_RS05490,&gamma;-glutamyltransferase Ggt &alpha; subunit,
+MONOMER2DNV-10,HP_RS05490,&gamma;-glutamyltransferase Ggt &beta; subunit,
+MONOMER2DNV-17,HP_RS07060,Ni<sup>2+</sup>-bound Hpn monomer,
+MONOMER2DNV-20,HP_RS07085,Ni<sup>2+</sup>-bound Hpn2 monomer,
+CPLX2DNV-1121,HP_RS06605,nickel-bound nickel response regulator NikR monomer,
+CPLX2DNV-986,HP_RS04650 // HP_RS02745,,
+CPLX2DNV-970,HP_RS00365 // HP_RS00370,urease heterodimer,
+CPLX2DNV-1172,HP_RS07375 // HP_RS07370 // HP_RS07365,ABC-type tripartite efflux pump,
+CPLX2DNV-1145,HP_RS06615 // HP_RS06610 // HP_RS06620,energy-transducing Ton complex,
+CPLX2DNV-1126,HP_RS05890 // HP_RS05895,50S ribosomal protein complex L8,
+CPLX2DNV-1107,HP_RS04955 // HP_RS04910 // HP_RS04915 // HP_RS04940 // HP_RS02170 // HP_RS02175 // HP_RS02180 // HP_RS02185 // HP_RS02190 // HP_RS02205 // HP_RS04930,Tfs4 type IV secretion system,
+CPLX2DNV-1087,HP_RS04335 // HP_RS04330,Ni<sup>2+</sup> ABC transporter NiuDE,
+CPLX2DNV-1047,HP_RS00545,cystathionine &beta;-synthase (<em>O</em>-acetyl-<small>L</small>-serine),
+CPLX-7739,HP_RS04100,"UDP-<i>N</i>-acetylglucosamine 4,6-dehydratase (inverting)",
+CPLX2DNV-983,HP_RS01820 // HP_RS01825 // HP_RS02745 // HP_RS04650,Acetyl-CoA carboxylase,
+CPLX2DNV-967,HP_RS01045 // HP_RS07190,5-carboxymethylaminomethyluridine-tRNA synthase,
+CPLX2DNV-1169,HP_RS06565 // HP_RS06570,"putative transporter, branched-chain amino acid exporter family",
+CPLX2DNV-1142,HP_RS00370 // HP_RS00365,urease trimer of dimers,
+CPLX2DNV-1120,HP_RS05490,glutathione &gamma;-glutamate hydrolase,
+CPLX2DNV-1104,HP_RS05355 // HP_RS07680,AddAB helicase/exodeoxyribonuclease,
+CPLX2DNV-1083,HP_RS01600,flagellar basal-body L-ring,
+CPLX2DNV-1044,HP_RS05585 // HP_RS05580 // HP_RS05990 // HP_RS04040,ATPase F<sub>o</sub> complex,
+CPLX2DNV-980,HP_RS04480 // HP_RS06105,carbamoyl phosphate synthase,
+CPLX2DNV-963,HP_RS02480 // HP_RS03425,DNA gyrase,
+CPLX2DNV-1163,HP_RS03445,outer membrane nonselective porin HopE,
+CPLX2DNV-1136,HP_RS06935 // HP_RS06925 // HP_RS06930,inactive Type I restriction-modification system,
+CPLX2DNV-1117,HP_RS02455,acyl-CoA thioesterase YbgC,
+CPLX2DNV-1101,HP_RS03865 // HP_RS00180,ATP-dependent ClpAP protease,
+CPLX2DNV-1080,HP_RS01720,flagellar basal-body MS-ring,
+CPLX2DNV-1041,HP_RS03110 // HP_RS03115 // HP_RS03120,quinone-reactive Ni/Fe hydrogenase,
+CPLX2DNV-977,HP_RS00710 // HP_RS00715 // HP_RS00720 // HP_RS00725,<i>cbb</i><sub>3</sub>-type cytochrome c oxidase,
+CPLX2DNV-1183,HP_RS00950,enoyl-[acyl-carrier-protein] reductase (NADH),
+CPLX2DNV-1157,HP_RS02940,TNF&alpha;-inducing protein,
+CPLX2DNV-1133,HP_RS00065 // HP_RS00070,chaperonin GroL-GroS complex,
+CPLX2DNV-1114,HP_RS06730,replicative DNA helicase DnaB,
+CPLX2DNV-1098,HP_RS02610,CagV dimer,
+CPLX2DNV-1069,HP_RS03975 // HP_RS03970,flagellar motor stator complex,
+CPLX2DNV-1038,HP_RS06050,heme chaperone HemW,
+CPLX2DNV-974,HP_RS01790 // HP_RS03335,ribonucleotide-diphosphate reductase,
+CPLX2DNV-1177,HP_RS04400 // HP_RS04240,HypA/HypB complex,
+CPLX2DNV-1152,HP_RS00230,"GDP-mannose 4,6-dehydratase",
+CPLX2DNV-1130,HP_RS00065,chaperonin GroL heptamer,
+CPLX2DNV-1111,HP_RS04670,oxygen-insensitive NADPH-dependent nitroreductase,
+CPLX2DNV-1094,HP_RS00255,Type IIS restriction-modification system M1 protein M1.HpyAVI,
+CPLX2DNV-1065,HP_RS04435 // HP_RS04245,flagellar hook,
+CPLX-9289,HP_RS00145,citrate synthase,
+CPLX2DNV-987,HP_RS02855 // HP_RS02850,Kdo hydrolase,
+CPLX2DNV-971,HP_RS02540 // HP_RS02545,ATP-dependent protease HslUV,
+CPLX2DNV-1174,HP_RS00685 // HP_RS00680 // HP_RS00675,putative NAD-dependent L-lactate dehydrogenase,
+CPLX2DNV-1146,HP_RS06620 // HP_RS06610 // HP_RS06615 // HP_RS07485,FrpB4-TonB nickel transporter,
+CPLX2DNV-1127,HP_RS05625 // HP_RS01965 // HP_RS07685 // HP_RS06480 // HP_RS06385 // HP_RS06425 // HP_RS06145 // HP_RS05875 // HP_RS06440 // HP_RS00420 // HP_RS06515 // HP_RS06390 // HP_RS05880 // HP_RS06395 // HP_RS06445 // HP_RS05110 // HP_RS05655 // HP_RS06465 // HP_RS06135 // HP_RS06490 // HP_RS00390 // HP_RS02765 // HP_RS06400 // HP_RS00630 // HP_RS07165 // HP_RS05925 // HP_RS00975 // HP_RS02715 // HP_RS06470 // HP_RS02430 // HP_RS01465 // HP_RS07410 // HP_RS06455 // HP_RS06500 // HP_RS06485 // HP_RS01460 // HP_RS00635 // HP_RS05635 // HP_RS06430 // HP_RS06375 // HP_RS06475 // HP_RS06420 // HP_RS06460 // HP_RS00425 // HP_RS05905 // HP_RS02535 // HP_RS05890 // HP_RS05895 // HP_RS06435 // HP_RS06450 // HP_RS06505 // HP_RS06510 // HP_RS06495 // HP_RS05900 // HP_RS02125 // HP_RS02120,ribosome,
+CPLX2DNV-1108,HP_RS07580,FAD-dependent thymidylate synthase,
+CPLX2DNV-1089,HP_RS05745 // HP_RS05750 // HP_RS05755 // HP_RS05760,L-glutamine ABC transporter,
+CPLX2DNV-1062,HP_RS05060 // HP_RS02875 // HP_RS05065 // HP_RS01725,flagellar motor switch complex,
+CPLX-7740,HP_RS01800,,
+CPLX2DNV-984,HP_RS03245 // HP_RS04050 // HP_RS04770,aspartyl/glutamyl-tRNA amidotransferase,
+CPLX2DNV-968,HP_RS01980 // HP_RS01985,Phenylalanyl-tRNA synthetase,
+CPLX2DNV-1170,HP_RS02995 // HP_RS02990 // HP_RS02985,tripartite efflux pump HefABC,
+CPLX2DNV-1143,HP_RS00365 // HP_RS00370,,
+CPLX2DNV-1105,HP_RS00220 // HP_RS00215 // HP_RS00210 // G2DNV-43 // HP_RS00200 // HP_RS00100 // HP_RS00095 // HP_RS00090,ComB type IV secretion system,
+CPLX2DNV-1084,HP_RS05785,purine nucleoside phosphorylase,
+CPLX2DNV-1045,HP_RS02350 // HP_RS02345 // HP_RS02340,molybdate ABC transporter,
+CPLX2DNV-981,HP_RS04700 // HP_RS04755,glycyl-tRNA synthetase,
+CPLX2DNV-964,HP_RS06280 // HP_RS06275 // HP_RS06270 // HP_RS06265 // HP_RS06260 // HP_RS06255 // HP_RS06250 // HP_RS06245 // HP_RS06240 // HP_RS06235 // HP_RS06230 // HP_RS06225 // HP_RS06220 // HP_RS06215,ferredoxin-menaquinone dehydrogenase,
+CPLX2DNV-1164,HP_RS07250 // HP_RS07255 // HP_RS07260,putative ABC transporter complex,
+CPLX2DNV-1137,HP_RS02285 // HP_RS02290 // HP_RS02295,inactive Type I restriction-modification system,
+CPLX2DNV-1118,HP_RS03590,D-alanine--D-alanine ligase,
+CPLX2DNV-1102,HP_RS01300 // HP_RS03865,ATP-dependent ClpBP protease,
+CPLX2DNV-1081,HP_RS07845 // HP_RS05370 // HP_RS07710 // HP_RS07715,flagellar basal-body rod complex,
+CPLX2DNV-1042,HP_RS07610 // HP_RS07605 // HP_RS07615,cytochrome <i>bc</i><sub>1</sub> complex,
+CPLX2DNV-978,HP_RS02905 // HP_RS02910 // HP_RS02915 // HP_RS02900,2-oxoglutarate synthase,
+CPLX2DNV-1200,HP_RS04360 // HP_RS04365,HP0894/HP0895 type II toxin/antitoxin system,
+CPLX2DNV-1160,HP_RS04270,catalase,
+CPLX2DNV-1134,HP_RS03845 // HP_RS04140 // HP_RS04130,Type I restriction-modification system HpyAXIII,
+CPLX2DNV-1115,HP_RS01430,diaminopimelate decarboxylase,
+CPLX2DNV-1099,HP_RS05045,Fe<sup>2+</sup>-bound DNA-binding transcriptional regulator Fur,
+CPLX2DNV-1078,HP_RS01260 // HP_RS07030 // HP_RS01730 // HP_RS03750 // HP_RS05115 // HP_RS00845 // HP_RS07025 // HP_RS03355 // HP_RS02870,flagellar export apparatus,
+CPLX2DNV-1039,HP_RS02580 // HP_RS02585 // HP_RS02595 // HP_RS02600 // HP_RS02620 // HP_RS02605 // HP_RS02650 // HP_RS02675 // HP_RS02685 // HP_RS02575 // HP_RS02570 // HP_RS02640,Cag type IV secretion system,
+CPLX2DNV-975,HP_RS01275 // HP_RS04800 // HP_RS07340,Exodeoxyribonuclease VII,
+CPLX2DNV-1181,HP_RS00360,proton-gated urea channel,
+CPLX2DNV-1153,HP_RS00235,GDP-L-fucose synthase,
+CPLX2DNV-1131,HP_RS00065,chaperonin GroL,
+CPLX2DNV-1112,HP_RS06795,3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ,
+CPLX2DNV-1095,HP_RS03520,L-asparaginase II intimate dimer,
+CPLX2DNV-1066,HP_RS05495 // HP_RS01455 // HP_RS07705 // HP_RS04245 // HP_RS04435 // HP_RS03670 // HP_RS02965 // HP_RS00585 // HP_RS01210 // HP_RS01720 // HP_RS03975 // HP_RS03970 // HP_RS05060 // HP_RS02875 // HP_RS05065 // HP_RS01725 // HP_RS07845 // HP_RS05370 // HP_RS07710 // HP_RS07715 // HP_RS01600,flagellum,
+CPLX-9307,HP_RS04205,pantothenate kinase,
+CPLXI-41,G2DNV-13 // G2DNV-14 // G2DNV-15,fumarate reductase,CCI-PM-BAC-NEG-GN
+CPLX2DNV-972,HP_RS03865 // HP_RS06785,ATP-dependent ClpXP protease,
+CPLX2DNV-1175,HP_RS04390 // HP_RS04395 // HP_RS00240,(HypCDE)<sub>2</sub> complex,
+CPLX2DNV-1147,HP_RS06620 // HP_RS06610 // HP_RS06615 // HP_RS06915,FecA3-TonB metal transporter,
+CPLX2DNV-1128,G2DNV-15 // G2DNV-14 // G2DNV-13,fumarate reductase heterotrimer,
+CPLX2DNV-1109,HP_RS04505,2-hydroxymuconate tautomerase,
+CPLX2DNV-1092,HP_RS03870,trigger factor,
+CPLX2DNV-1063,HP_RS01600 // HP_RS07715 // HP_RS07710 // HP_RS05370 // HP_RS07845 // HP_RS01725 // HP_RS05065 // HP_RS02875 // HP_RS05060 // HP_RS03970 // HP_RS03975 // HP_RS01720 // HP_RS01210,flagellar basal body,
+CPLX-9123,HP_RS00450,5'-methylthioadenosine/adenosylhomocysteine/6-amino-6-deoxyfutalosine nucleosidase,
+CPLX2DNV-985,HP_RS03490 // HP_RS07840,N<sup>6</sup>-L-threonylcarbamoyladenine synthase,
+CPLX2DNV-969,HP_RS03440 // HP_RS04005 // HP_RS05470,excision nuclease UvrABC,
+CPLX2DNV-1171,HP_RS06550 // HP_RS06555 // HP_RS06560,copper efflux pump,
+CPLX2DNV-1144,HP_RS00355,nickel-carrier protein UreE,
+CPLX2DNV-1125,HP_RS06605,nickel-bound nickel response regulator NikR,
+CPLX2DNV-1106,HP_RS02255 // HP_RS04865 // HP_RS02265 // HP_RS04890 // HP_RS04885 // HP_RS02275 // HP_RS02280,Tfs3 type IV secretion system,
+CPLX2DNV-1086,HP_RS01480 // HP_RS01485 // HP_RS01470 // HP_RS01490 // HP_RS01475,peptide ABC transporter,
+CPLX2DNV-1046,HP_RS01315,aminodeoxyfutalosine deaminase,
+CPLX2DNV-982,HP_RS06300 // HP_RS06305,tryptophan synthase,
+CPLX2DNV-965,HP_RS03380 // HP_RS03385,succinyl-CoA-transferase,
+CPLX2DNV-1168,HP_RS07085,Ni<sup>2+</sup>-bound Hpn2,
+CPLX2DNV-1138,HP_RS07525 // HP_RS07520,inactive Type III restriction-modification system,
+CPLX2DNV-1119,HP_RS05490,&gamma;-glutamyltransferase Ggt heterodimer,
+CPLX2DNV-1103,HP_RS04280 // HP_RS05205 // HP_RS04305,Holliday junction resolvase RuvABC,
+CPLX2DNV-1082,HP_RS01210,flagellar basal-body P-ring,
+CPLX2DNV-1043,HP_RS05575 // HP_RS05565 // HP_RS05560 // HP_RS05555 // HP_RS05570,ATPase F<sub>1</sub> complex,
+CPLX2DNV-979,HP_RS05570 // HP_RS05555 // HP_RS05560 // HP_RS05565 // HP_RS05575 // HP_RS04040 // HP_RS05990 // HP_RS05580 // HP_RS05585,ATP synthase,
+CPLX2DNV-1201,HP_RS04355 // HP_RS04350,HP0892/HP0893 type II toxin/antitoxin system,
+CPLX2DNV-1162,HP_RS05100,type II 3-dehydroquinate dehydratase,
+CPLX2DNV-1135,HP_RS02920 // HP_RS02925,Type III restriction-modification system HpyAXI,
+CPLX2DNV-1116,HP_RS02455,thioesterase YbgC dimer,
+CPLX2DNV-1100,HP_RS05045,<i>apo</i>-DNA-binding transcriptional regulator Fur dimer,
+CPLX2DNV-1079,HP_RS01455 // HP_RS05495,flagellar hook-filament junction,
+CPLX2DNV-1040,HP_RS04390 // HP_RS04395,HypCD complex involved in hydrogenase maturation,
+CPLX2DNV-976,HP_RS06380 // HP_RS05885 // HP_RS03780,DNA-directed RNA polymerase core enzyme,
+CPLX2DNV-1182,HP_RS07740 // HP_RS07800 // HP_RS07805,putative D-methionine ABC transporter,
+CPLX2DNV-1156,HP_RS03055,inorganic pyrophosphatase,
+CPLX2DNV-1132,HP_RS00070,chaperonin GroS,
+CPLX2DNV-1113,HP_RS06140,single-stranded DNA-binding protein,
+CPLX2DNV-1097,HP_RS03520,L-asparaginase II,
+CPLX2DNV-1068,HP_RS03975,flagellar motor protein MotB dimer,
+CPLX2DNV-1015,HP_RS05445 // HP_RS05455 // HP_RS05450 // HP_RS05440,pyruvate flavodoxin oxidoreductase,
+CPLX2DNV-973,HP_RS02475 // HP_RS03495 // HP_RS06075 // HP_RS06150 // HP_RS07230 // HP_RS06850,DNA polymerase III,
+CPLX2DNV-1176,HP_RS00240 // HP_RS04395 // HP_RS04390,HypCDE trimer,
+CPLX2DNV-1148,HP_RS04750 // HP_RS04745 // HP_RS04740,Ni<sup>2+</sup>/Zn<sup>2+</sup>/Cd<sup>2+</sup> efflux pump,
+CPLX2DNV-1129,HP_RS07060,cytoplasmic Ni<sup>2+</sup>-binding protein Hpn,
+CPLX2DNV-1110,HP_RS07735,alkyl hydroperoxide reductase AhpC,
+CPLX2DNV-1093,HP_RS04180,sedoheptulose 7-phosphate isomerase,
+CPLX2DNV-1064,HP_RS00585 // HP_RS02965 // HP_RS03670,flagellar filament,
+CPLX-9124,HP_RS00960,S-adenosylmethionine synthase,
+HP_RS03825-MONOMER,HP_RS03825,putative outer-membrane lipoprotein carrier protein LolA,CCI-PERI-BAC-GN
+HP_RS02340-MONOMER,HP_RS02340,"molybdate ABC transporter, substrate-binding protein",CCI-PERI-BAC-GN
+HP_RS04305-MONOMER,HP_RS04305,Holliday junction DNA helicase RuvA,
+HP_RS06360-MONOMER,HP_RS06360,Hypothetical protein HP1289,CCO-MEMBRANE
+HP_RS02255-MONOMER,HP_RS02255,ICEHptfs3 protein V37,
+HP_RS04220-MONOMER,HP_RS04220,Deoxyuridine 5'-triphosphate nucleotidohydrolase,
+HP_RS06280-MONOMER,HP_RS06280,ferredoxin-menaquinone dehydrogenase subunit N,CCI-PM-BAC-NEG-GN
+HP_RS02160-MONOMER,HP_RS02160,IS605 transposase TnpA,
+HP_RS06195-MONOMER,HP_RS06195,Ribosome recycling factor,CCI-CYTOSOL-GN
+HP_RS02055-MONOMER,HP_RS02055,putative small conductance mechanosensitive channel,CCI-PM-BAC-NEG-GN
+HP_RS04045-MONOMER,HP_RS04045,Inosine 5'-monophosphate dehydrogenase GuaB,
+HP_RS06115-MONOMER,HP_RS06115,Maf-like protein,CCI-CYTOSOL-GN
+HP_RS01950-MONOMER,HP_RS01950,6-carboxy-2-demethylmenaquinol decarboxylase MqnL,CCI-CYTOSOL-GN
+HP_RS03965-MONOMER,HP_RS03965,Thiamin biosynthesis protein ThiF,CCI-CYTOSOL-GN // CCO-MEMBRANE
+HP_RS06030-MONOMER,HP_RS06030,D-lactate dehydrogenase,
+HP_RS01870-MONOMER,HP_RS01870,glutamate dehydrogenase GdhA,CCI-CYTOSOL-GN
+HP_RS03880-MONOMER,HP_RS03880,neuraminyllactose-binding hemagglutinin HpaA,CCI-OUTER-MEM-GN
+HP_RS05905-MONOMER,HP_RS05905,50S ribosomal protein L11,CCI-RIBOSOME-GN
+HP_RS07895-MONOMER,HP_RS07895,inactive Type III restriction-modification system M protein M.HpyAXVII N-terminal domain,
+HP_RS01780-MONOMER,HP_RS01780,putative lipopolysaccharide transport system protein LptF,CCI-PM-BAC-NEG-GN
+HP_RS03790-MONOMER,HP_RS03790,Chorismate dehydratase,
+HP_RS05820-MONOMER,HP_RS05820,"putative transporter, multi antimicrobial extrusion (MATE) family",CCI-PM-BAC-NEG-GN
+HP_RS07790-MONOMER,HP_RS07790,Riboflavin synthase subunit alpha RibC,CCI-CYTOSOL-GN
+HP_RS01690-MONOMER,HP_RS01690,hypothetical protein,CCO-MEMBRANE
+HP_RS03710-MONOMER,HP_RS03710,5-formyltetrahydrofolate cyclo-ligase,
+HP_RS05735-MONOMER,HP_RS05735,Outer membrane protein HofH,
+HP_RS07710-MONOMER,HP_RS07710,flagellar basal-body rod protein FlgC,CCO-CELL-PROJECTION
+HP_RS01595-MONOMER,HP_RS01595,outer membrane protein HorC,
+HP_RS03625-MONOMER,HP_RS03625,DUF697 domain-containing protein,
+HP_RS05655-MONOMER,HP_RS05655,30S ribosomal protein S16,CCI-RIBOSOME-GN
+HP_RS07630-MONOMER,HP_RS07630,ToxR-activated protein TagE1,CCO-MEMBRANE
+HP_RS01515-MONOMER,HP_RS01515,Arginine biosynthesis bifunctional protein ArgJ,CCO-MEMBRANE
+HP_RS03535-MONOMER,HP_RS03535,Outer membrane protein HP0726,CCO-MEMBRANE
+HP_RS05560-MONOMER,HP_RS05560,"F0F1 ATP synthase subunit beta, AtpD",CCI-PM-BAC-NEG-GN
+HP_RS07545-MONOMER,HP_RS07545,exodeoxyribonuclease III,
+HP_RS01435-MONOMER,HP_RS01435,Chorismate mutase/prephenate dehydratase PheA,
+HP_RS03445-MONOMER,HP_RS03445,HopE monomer,
+HP_RS05475-MONOMER,HP_RS05475,Hypothetical protein HP1115,
+HP_RS07460-MONOMER,HP_RS07460,Saccharopine dehydrogenase,
+HP_RS01355-MONOMER,HP_RS01355,ATP-dependent nuclease AddB,
+HP_RS03360-MONOMER,HP_RS03360,putative TonB-dependent ferric citrate transporter FecA1,CCI-OUTER-MEM-GN
+HP_RS05395-MONOMER,HP_RS05395,2-keto-3-deoxy-6-phosphogluconate aldolase,
+HP_RS07375-MONOMER,HP_RS07375,"ABC-type tripartite efflux pump, outer membrane channel",CCO-MEMBRANE
+HP_RS01270-MONOMER,HP_RS01270,RIP metalloprotease RseP,CCI-PM-BAC-NEG-GN
+HP_RS03265-MONOMER,HP_RS03265,Ribonuclease III,CCI-CYTOSOL-GN
+HP_RS05315-MONOMER,HP_RS05315,Hypothetical protein HP1081,
+HP_RS07295-MONOMER,HP_RS07295,Amidophosphoribosyltransferase,
+HP_RS01180-MONOMER,HP_RS01180,hexaprenyl-diphosphate synthase,
+HP_RS03185-MONOMER,HP_RS03185,UTP-glucose-1-phosphate uridylyltransferase GalU,
+HP_RS05230-MONOMER,HP_RS05230,Hypothetical protein HP1064,CCO-MEMBRANE
+HP_RS07215-MONOMER,HP_RS07215,Hypothetical lipprotein HP1457,
+HP_RS01090-MONOMER,HP_RS01090,Hypothetical protein HP0222,
+HP_RS03100-MONOMER,HP_RS03100,Hypothetical protein HP0629,
+HP_RS05150-MONOMER,HP_RS05150,Translation initiation factor IF-2,CCI-CYTOSOL-GN
+HP_RS07135-MONOMER,HP_RS07135,Peptidyl-prolyl cis-trans isomerase PpiB,
+HP_RS01000-MONOMER,HP_RS01000,Hypothetical protein HP0204,
+HP_RS03020-MONOMER,HP_RS03020,Hypothetical protein HP0614,
+HP_RS05070-MONOMER,HP_RS05070,RNA polymerase factor &sigma;<sup>28</sup>,
+HP_RS07040-MONOMER,HP_RS07040,Isoleucyl-tRNA synthetase,CCI-CYTOSOL-GN
+HP_RS00910-MONOMER,HP_RS00910,DUF1524 domain-containing protein,
+HP_RS02930-MONOMER,HP_RS02930,protein thiol:quinone oxidoreductase DsbI,CCO-MEMBRANE
+HP_RS04985-MONOMER,HP_RS04985,7-alpha-hydroxysteroid dehydrogenase HdhA,
+HP_RS06950-MONOMER,HP_RS06950,Putative ribonuclease N,CCO-MEMBRANE
+HP_RS00830-MONOMER,HP_RS00830,chemotaxis protein phosphatase CheZ,CCI-CYTOSOL-GN
+HP_RS02850-MONOMER,HP_RS02850,Kdo hydrolase subunit 1,CCO-MEMBRANE
+HP_RS04875-MONOMER,HP_RS04875,Hypothetical protein HP0993,
+HP_RS06860-MONOMER,HP_RS06860,Hypothetical protein HP1388,
+HP_RS00750-MONOMER,HP_RS00750,"1,4-dihydroxy-6-naphthoate synthase",
+HP_RS02770-MONOMER,HP_RS02770,Hypothetical protein HP0563,
+HP_RS04780-MONOMER,HP_RS04780,Peptidyl-prolyl cis-trans isomerase D PpiD,CCO-MEMBRANE
+HP_RS06780-MONOMER,HP_RS06780,Rod shape-determining protein MreB,CCI-CYTOSOL-GN
+HP_RS00665-MONOMER,HP_RS00665,3-deoxy-7-phosphoheptulonate synthase,CCI-CYTOSOL-GN
+HP_RS02680-MONOMER,HP_RS02680,CagD protein,
+HP_RS00260-MONOMER,HP_RS00260,Type IIS restriction-modification system M2 protein M2.HpyAVI,
+HP_RS04690-MONOMER,HP_RS04690,zinc finger domain-containing protein,
+HP_RS06695-MONOMER,HP_RS06695,Nicotinate-nucleotide pyrophosphorylase NadC,CCI-CYTOSOL-GN
+HP_RS00585-MONOMER,HP_RS00585,flagellar filament structural protein FlaB,CCI-EXTRACELLULAR-GN // CCO-CELL-PROJECTION
+HP_RS02600-MONOMER,HP_RS02600,Cag T4SS protein CagX,
+HP_RS00175-MONOMER,HP_RS00175,ATP-dependent Clp protease adapter protein ClpS,
+HP_RS04590-MONOMER,HP_RS04590,D-alanine transporter,CCI-PM-BAC-NEG-GN
+HP_RS06600-MONOMER,HP_RS06600,Nicotinate (nicotinamide) nucleotide adenylyltransferase NadD,CCI-CYTOSOL-GN
+HP_RS00500-MONOMER,HP_RS00500,Threonine synthase ThrC,CCI-CYTOSOL-GN
+HP_RS02515-MONOMER,HP_RS02515,Dihydrodipicolinate reductase DapB,CCI-CYTOSOL-GN
+HP_RS00090-MONOMER,HP_RS00090,ComB2 competence protein,CCO-MEMBRANE
+HP_RS04495-MONOMER,HP_RS04495,Putative vacuolating cytotoxin (VacA)-like protein VlpC,
+HP_RS06520-MONOMER,HP_RS06520,Hypothetical protein HP1321,
+HP_RS00410-MONOMER,HP_RS00410,Hypothetical protein HP0080,
+HP_RS02430-MONOMER,HP_RS02430,50S ribosomal protein L28,CCI-RIBOSOME-GN
+HP_RS04395-MONOMER,HP_RS04395,Hydrogenase assembly chaperone HypC/HupF,
+HP_RS06440-MONOMER,HP_RS06440,30S ribosomal protein S8,CCI-RIBOSOME-GN
+HP_RS00325-MONOMER,HP_RS00325,Cell division-related protein,
+HP_RS06425-MONOMER,HP_RS06425,30S ribosomal protein S5,CCI-RIBOSOME-GN
+HP_RS02325-MONOMER,HP_RS02325,Oligoendopeptidase F PepF,
+HP_RS04275-MONOMER,HP_RS04275,heme-binding TonB-dependent transporter FrpB1,CCI-OUTER-MEM-GN
+HP_RS06345-MONOMER,HP_RS06345,Secreted protein HP1286,
+HP_RS02240-MONOMER,HP_RS02240,Hypothetical protein HP0454,
+HP_RS04205-MONOMER,HP_RS04205,pantothenate kinase monomer,CCI-CYTOSOL-GN
+HP_RS06265-MONOMER,HP_RS06265,ferredoxin-menaquinone dehydrogenase subunit K,CCI-PM-BAC-NEG-GN
+HP_RS02140-MONOMER,HP_RS02140,Protein phosphatase 2C,
+HP_RS04120-MONOMER,HP_RS04120,Phosphomethylpyrimidine kinase ThiD,CCI-CYTOSOL-GN
+HP_RS06180-MONOMER,HP_RS06180,Tryptophanyl-tRNA synthetase,CCI-CYTOSOL-GN
+HP_RS02015-MONOMER,HP_RS02015,GMP synthase GuaA,CCI-CYTOSOL-GN
+HP_RS04030-MONOMER,HP_RS04030,"&beta;-<em>N</em>-acetylglucosaminylglycopeptide &beta;-1,4-galactosyltransferase",
+HP_RS06100-MONOMER,HP_RS06100,Hypothetical protein HP1236,
+HP_RS01935-MONOMER,HP_RS01935,chemotaxis protein CheV3,
+HP_RS03950-MONOMER,HP_RS03950,Dihydroneopterin aldolase,
+HP_RS06015-MONOMER,HP_RS06015,Phosphoribosylamine--glycine ligase PurD,
+HP_RS01855-MONOMER,HP_RS01855,dithiol reductase/isomerase ResA,
+HP_RS03865-MONOMER,HP_RS03865,ATP-dependent Clp protease proteolytic subunit ClpP,CCI-CYTOSOL-GN
+HP_RS05890-MONOMER,HP_RS05890,50S ribosomal protein L7/L12,CCI-RIBOSOME-GN
+HP_RS07875-MONOMER,HP_RS07875,DsbI-accessory protein,CCO-MEMBRANE
+HP_RS01755-MONOMER,HP_RS01755,Putative outer membrane protein HP0358,
+HP_RS03775-MONOMER,HP_RS03775,"guanosine-3&prime;,5&prime;-bis(diphosphate) 3&prime;-diphosphatase",
+HP_RS05805-MONOMER,HP_RS05805,"putative drug efflux transporter, major facilitator superfamily",CCO-MEMBRANE
+HP_RS07775-MONOMER,HP_RS07775,Rare lipoprotein A RlpA,CCI-PM-BAC-NEG-GN
+HP_RS01670-MONOMER,HP_RS01670,Lysozyme,
+HP_RS03690-MONOMER,HP_RS03690,<em>N</em>-carbamoylputrescine amidase,
+HP_RS05720-MONOMER,HP_RS05720,Thioredoxin reductase TrxB,
+HP_RS07695-MONOMER,HP_RS07695,penicillin-binding protein 3,CCI-PM-BAC-NEG-GN
+HP_RS01580-MONOMER,HP_RS01580,Guanylate kinase,CCI-CYTOSOL-GN
+HP_RS03605-MONOMER,HP_RS03605,Histidine triad family protein,
+HP_RS05640-MONOMER,HP_RS05640,tRNA (guanine-N(1)-)-methyltransferase,CCI-CYTOSOL-GN
+HP_RS07615-MONOMER,HP_RS07615,"menaquinol cytochrome c oxidoreductase, Rieske 2Fe-2S subunit FbcF",CCO-MEMBRANE
+HP_RS01500-MONOMER,HP_RS01500,Alginate_lyase domain-containing protein,CCI-PERI-BAC-GN
+HP_RS03520-MONOMER,HP_RS03520,L-asparaginase II monomer,CCI-CYTOSOL-GN
+HP_RS05545-MONOMER,HP_RS05545,ExbD family protein,CCI-PM-BAC-NEG-GN
+HP_RS07530-MONOMER,HP_RS07530,ATP-dependent DNA helicase RecG,
+HP_RS01420-MONOMER,HP_RS01420,DUF4149 domain-containing protein,CCO-MEMBRANE
+HP_RS03430-MONOMER,HP_RS03430,Hypothetical protein HP0702,
+HP_RS05460-MONOMER,HP_RS05460,Adenylosuccinate lyase PurB,CCI-CYTOSOL-GN
+HP_RS07445-MONOMER,HP_RS07445,O-methyltransferase,
+HP_RS01340-MONOMER,HP_RS01340,Hypothetical protein HP0272,CCO-MEMBRANE
+HP_RS03345-MONOMER,HP_RS03345,Class IIc Sec-secreted bacteriocin Divergicin A precursor (DvnA),CCO-MEMBRANE
+HP_RS05380-MONOMER,HP_RS05380,IS605 transposase TnpB,
+HP_RS07360-MONOMER,HP_RS07360,ABC transporter membrane protein,CCI-PM-BAC-NEG-GN
+HP_RS01255-MONOMER,HP_RS01255,Adenylosuccinate synthetase PurA,CCI-CYTOSOL-GN
+HP_RS03250-MONOMER,HP_RS03250,Chaperone SurA,
+HP_RS05300-MONOMER,HP_RS05300,HP1078,
+HP_RS07280-MONOMER,HP_RS07280,DNA polymerase I,CCI-CYTOSOL-GN
+HP_RS01165-MONOMER,HP_RS01165,Porphobilinogen deaminase HemC,CCI-CYTOSOL-GN
+HP_RS03170-MONOMER,HP_RS03170,Glutamylglutaminyl-tRNA synthetase,CCI-CYTOSOL-GN
+HP_RS05215-MONOMER,HP_RS05215,"twin arginine protein translocation system, TatC protein",CCI-PM-BAC-NEG-GN
+HP_RS07200-MONOMER,HP_RS07200,Hypothetical protein HP1454,
+HP_RS01075-MONOMER,HP_RS01075,Hypothetical protein HP0219,
+HP_RS03085-MONOMER,HP_RS03085,"2,3,4,5-tetrahydropyridine-2-carboxylate N-succinyltransferase",CCI-CYTOSOL-GN
+HP_RS05135-MONOMER,HP_RS05135,acetyl-CoA synthetase AcoE,CCI-CYTOSOL-GN
+HP_RS07110-MONOMER,HP_RS07110,Predicted coding region HP1437,
+HP_RS00980-MONOMER,HP_RS00980,Fatty acid/phospholipid synthesis protein PlsX,CCI-CYTOSOL-GN
+HP_RS03000-MONOMER,HP_RS03000,Putative outer membrane protein HP0608,
+HP_RS05055-MONOMER,HP_RS05055,Hypothetical protein HP1029,CCI-CYTOSOL-GN
+HP_RS07025-MONOMER,HP_RS07025,Flagellar biosynthesis protein FliQ,CCI-PM-BAC-NEG-GN // CCO-CELL-PROJECTION
+HP_RS00895-MONOMER,HP_RS00895,Serine hydroxymethyltransferase GlyA,CCI-CYTOSOL-GN
+HP_RS02915-MONOMER,HP_RS02915,2-oxoglutarate-acceptor oxidoreductase subunit OorC,
+HP_RS04970-MONOMER,HP_RS04970,Dihydroorotate dehydrogenase 2 PyrD,CCI-CYTOSOL-GN // CCI-PM-BAC-NEG-GN
+HP_RS06930-MONOMER,HP_RS06930,Type I restriction enzyme M protein HsdM,
+HP_RS00815-MONOMER,HP_RS00815,Hypothetical protein HP0167,
+HP_RS02835-MONOMER,HP_RS02835,Signal peptidase I,CCI-PM-BAC-NEG-GN
+HP_RS04855-MONOMER,HP_RS04855,Putative transposase TnpB,
+HP_RS06845-MONOMER,HP_RS06845,Ribulose-phosphate 3-epimerase,CCI-CYTOSOL-GN
+HP_RS00735-MONOMER,HP_RS00735,Hypothetical protein HP0149,CCO-MEMBRANE
+HP_RS02755-MONOMER,HP_RS02755,acyl carrier protein,CCI-CYTOSOL-GN
+HP_RS04765-MONOMER,HP_RS04765,"2,3-bisphosphoglycerate-independent phosphoglycerate mutase",CCI-CYTOSOL-GN
+HP_RS06760-MONOMER,HP_RS06760,Type IIS restriction-modification system M2 protein M2.HpyAII,
+HP_RS00650-MONOMER,HP_RS00650,Hypothetical protein HP0130,
+HP_RS02665-MONOMER,HP_RS02665,CagG protein,
+HP_RS00245-MONOMER,HP_RS00245,[NiFe]-hydrogenase maturation protein HypF,
+HP_RS04675-MONOMER,HP_RS04675,Prolipoprotein diacylglyceryl transferase,CCI-PM-BAC-NEG-GN
+HP_RS06665-MONOMER,HP_RS06665,Carboxyl-terminal protease,CCI-CYTOSOL-GN // CCI-PERI-BAC-GN
+HP_RS00570-MONOMER,HP_RS00570,L-fuculose-1-phosphate aldolase FucA,
+HP_RS02585-MONOMER,HP_RS02585,Cag T4SS protein Cag&alpha;,CCI-CYTOSOL-GN
+HP_RS00160-MONOMER,HP_RS00160,dethiobiotin synthetase,CCI-CYTOSOL-GN
+HP_RS04575-MONOMER,HP_RS04575,"amino acid family ABC transporter, membrane protein",CCI-PM-BAC-NEG-GN
+HP_RS06585-MONOMER,HP_RS06585,Hypothetical helicase HP1334,
+HP_RS00485-MONOMER,HP_RS00485,Hypothetical protein HP0095,
+HP_RS02500-MONOMER,HP_RS02500,UDP-sugar diphosphatase,
+HP_RS00075-MONOMER,HP_RS00075,DNA primase DnaG,CCI-CYTOSOL-GN
+HP_RS04480-MONOMER,HP_RS04480,Carbamoyl phosphate synthase large subunit CarB,CCI-CYTOSOL-GN
+HP_RS06505-MONOMER,HP_RS06505,50S ribosomal protein L4,CCI-RIBOSOME-GN
+HP_RS00395-MONOMER,HP_RS00395,Peptide chain release factor 1,CCI-CYTOSOL-GN
+HP_RS02415-MONOMER,HP_RS02415,Hypothetical protein HP0488,
+HP_RS04370-MONOMER,HP_RS04370,adhesin-binding fucosylated histo-blood group antigen BabB/HopT,
+HP_RS04355-MONOMER,HP_RS04355,antitoxin protein HP0893,
+HP_RS06410-MONOMER,HP_RS06410,Methionine aminopeptidase,
+HP_RS02310-MONOMER,HP_RS02310,Integral membrane protein HP0467,CCO-MEMBRANE
+HP_RS04260-MONOMER,HP_RS04260,Hypothetical protein HP0873,CCO-MEMBRANE
+HP_RS06330-MONOMER,HP_RS06330,"&alpha;-(1,3)-D-glycero-&beta;-D-<i>manno</i>-heptose transferase",CCI-CYTOSOL-GN // CCO-MEMBRANE
+HP_RS02225-MONOMER,HP_RS02225,Hypothetical protein HP0451,
+HP_RS04190-MONOMER,HP_RS04190,ADP-glyceromanno-heptose 6-epimerase,
+HP_RS06250-MONOMER,HP_RS06250,ferredoxin-menaquinone dehydrogenase subunit H,CCI-PM-BAC-NEG-GN
+HP_RS02105-MONOMER,HP_RS02105,Hypothetical protein HP0425,
+HP_RS04105-MONOMER,HP_RS04105,Bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate synthase,CCI-CYTOSOL-GN
+HP_RS06165-MONOMER,HP_RS06165,SH3b domain-containing protein,
+HP_RS02000-MONOMER,HP_RS02000,DUF3972 domain-containing protein,
+HP_RS04015-MONOMER,HP_RS04015,Hypothetical protein HP0823,
+HP_RS06085-MONOMER,HP_RS06085,hypothetical protein HP1233,
+HP_RS01920-MONOMER,HP_RS01920,thiol peroxidase Tpx,
+HP_RS03935-MONOMER,HP_RS03935,4'-phosphopantetheinyl transferase,CCI-CYTOSOL-GN
+HP_RS05995-MONOMER,HP_RS05995,Polyribonucleotide nucleotidyltransferase,CCI-CYTOSOL-GN
+MONOMER2DNV-4,HP_RS06745,CrdR-phosphate,
+HP_RS01840-MONOMER,HP_RS01840,16S ribosomal RNA methyltransferase RsmE,CCI-CYTOSOL-GN
+HP_RS03850-MONOMER,HP_RS03850,Cd<sup>2+</sup>/Zn<sup>2+</sup>/Co<sup>2+</sup> exporting P-type ATPase CadA,CCI-PM-BAC-NEG-GN
+HP_RS05875-MONOMER,HP_RS05875,30S ribosomal protein S7,CCI-RIBOSOME-GN
+HP_RS07840-MONOMER,HP_RS07840,putative DNA-binding/iron metalloprotein/AP endonuclease,CCI-CYTOSOL-GN
+HP_RS01740-MONOMER,HP_RS01740,GTP-binding protein LepA,CCI-PM-BAC-NEG-GN
+HP_RS03760-MONOMER,HP_RS03760,N-acetylmuramoyl-L-alanine amidase AmiA,CCI-PERI-BAC-GN
+HP_RS05785-MONOMER,HP_RS05785,purine nucleoside phosphorylase monomer,CCI-CYTOSOL-GN
+HP_RS07760-MONOMER,HP_RS07760,putative lipopolysaccharide transport system protein LptA,CCI-PERI-BAC-GN // CCI-OUTER-MEM-GN
+HP_RS01650-MONOMER,HP_RS01650,Holliday junction resolvase-like protein,CCI-CYTOSOL-GN
+HP_RS03675-MONOMER,HP_RS03675,flagellar biosynthesis protein FliS,CCI-CYTOSOL-GN
+HP_RS05705-MONOMER,HP_RS05705,flavodoxin,
+HP_RS07680-MONOMER,HP_RS07680,ATP-dependent DNA helicase,CCI-CYTOSOL-GN
+HP_RS01565-MONOMER,HP_RS01565,"Heme oxygenase, HugZ family",CCI-CYTOSOL-GN
+HP_RS03590-MONOMER,HP_RS03590,D-alanine--D-alanine ligase monomrt,CCI-CYTOSOL-GN
+HP_RS05610-MONOMER,HP_RS05610,AAA_13 domain-containing protein,
+HP_RS07600-MONOMER,HP_RS07600,Hypothetical protein HP1537,
+HP_RS01485-MONOMER,HP_RS01485,"peptide ABC transporter, ATP-binding protein DppD",
+HP_RS03500-MONOMER,HP_RS03500,"putative transporter, L-lysine exporter family",CCI-PM-BAC-NEG-GN
+HP_RS05525-MONOMER,HP_RS05525,periplasmic protein HP1124,
+HP_RS07510-MONOMER,HP_RS07510,Hypothetical protein HP1518,
+HP_RS01405-MONOMER,HP_RS01405,MiaB-like tRNA modifying enzyme,
+HP_RS03415-MONOMER,HP_RS03415,Hypothetical protein HP0699,CCO-MEMBRANE
+HP_RS05445-MONOMER,HP_RS05445,Pyruvate flavodoxin oxidoreductase subunit delta PorD,
+HP_RS07430-MONOMER,HP_RS07430,outer membrane protein HorW,
+HP_RS01325-MONOMER,HP_RS01325,(dimethylallyl)adenosine tRNA methylthiotransferase,CCI-CYTOSOL-GN
+HP_RS03325-MONOMER,HP_RS03325,putative transporter,CCI-PM-BAC-NEG-GN
+HP_RS05365-MONOMER,HP_RS05365,&alpha;-ketoglutarate transporter,CCO-MEMBRANE
+HP_RS07345-MONOMER,HP_RS07345,demethylmenaquinone methyltransferase,
+HP_RS01230-MONOMER,HP_RS01230,"ABC transporter, ATP-binding protein",
+HP_RS03235-MONOMER,HP_RS03235,cyclic dehypoxanthinyl futalosine synthase,
+HP_RS05285-MONOMER,HP_RS05285,Purine nucleoside phosphorylase HP1075,
+HP_RS07265-MONOMER,HP_RS07265,Predicted membrane protein HP1467,
+HP_RS01150-MONOMER,HP_RS01150,Integral membrane protein,CCO-MEMBRANE
+HP_RS03155-MONOMER,HP_RS03155,Poly(A) polymerase,
+HP_RS05200-MONOMER,HP_RS05200,3-methyl-2-oxobutanoate hydroxymethyltransferase PanB,CCI-CYTOSOL-GN
+HP_RS07185-MONOMER,HP_RS07185,Jag_N domain-containing protein,
+HP_RS01060-MONOMER,HP_RS01060,1-deoxy-D-xylulose 5-phosphate reductoisomerase,
+HP_RS03070-MONOMER,HP_RS03070,UDP-N-acetylmuramate-L-alanine ligase MurC,CCI-CYTOSOL-GN
+HP_RS05120-MONOMER,HP_RS05120,"3&prime;,5&prime;-cyclic-nucleotide phosphodiesterase",
+HP_RS07095-MONOMER,HP_RS07095,Formyltetrahydrofolate deformylase PurU,
+HP_RS00965-MONOMER,HP_RS00965,Nucleoside diphosphate kinase,CCI-CYTOSOL-GN
+HP_RS02985-MONOMER,HP_RS02985,tripartite efflux pump outer membrane channel HefA,CCO-MEMBRANE
+HP_RS05040-MONOMER,HP_RS05040,Recombination factor protein RarA,
+HP_RS07010-MONOMER,HP_RS07010,sulfatase-like hydrolase/transferase,
+HP_RS00880-MONOMER,HP_RS00880,Apolipoprotein N-acyltransferase,CCI-PM-BAC-NEG-GN
+HP_RS02900-MONOMER,HP_RS02900,2-oxoglutarate-acceptor oxidoreductase subunit OorD,
+HP_RS04940-MONOMER,HP_RS04940,ICEHptfs4 protein C10.1,CCO-MEMBRANE
+HP_RS06915-MONOMER,HP_RS06915,TonB-dependent metal transporter FecA3,CCI-OUTER-MEM-GN
+HP_RS00800-MONOMER,HP_RS00800,Delta-aminolevulinic acid dehydratase,CCI-CYTOSOL-GN
+HP_RS02820-MONOMER,HP_RS02820,Putative inner membrane protein HP0573,CCO-MEMBRANE
+HP_RS04835-MONOMER,HP_RS04835,Hypothetical protein HP0986,
+HP_RS06830-MONOMER,HP_RS06830,Type I R-M system specificity subunit,
+HP_RS00720-MONOMER,HP_RS00720,"Cytochrome c oxidase, cbb3-type, FixQ",CCO-MEMBRANE
+HP_RS02740-MONOMER,HP_RS02740,Hypothetical protein HP0556,CCO-MEMBRANE
+HP_RS00310-MONOMER,HP_RS00310,Hypothetical protein HP0061,
+HP_RS04750-MONOMER,HP_RS04750,"Ni<sup>2+</sup>/Zn<sup>2+</sup>/Cd<sup>2+</sup> efflux pump, outer membrane channel",
+HP_RS06745-MONOMER,HP_RS06745,transcriptional regulator CrdR,CCI-CYTOSOL-GN
+HP_RS00635-MONOMER,HP_RS00635,50S ribosomal protein L20,CCI-RIBOSOME-GN
+HP_RS02650-MONOMER,HP_RS02650,Cag T4SS protein CagL,
+HP_RS00230-MONOMER,HP_RS00230,"GDP-mannose 4,6-dehydratase monomer",CCI-CYTOSOL-GN
+HP_RS04660-MONOMER,HP_RS04660,Competence/damage-inducible protein CinA,
+HP_RS06650-MONOMER,HP_RS06650,Uracil-DNA glycosylase,CCI-CYTOSOL-GN
+HP_RS00555-MONOMER,HP_RS00555,molecular chaperone DnaK,CCI-CYTOSOL-GN
+HP_RS02570-MONOMER,HP_RS02570,Cag T4SS protein Cag&delta;,
+HP_RS00145-MONOMER,HP_RS00145,citrate synthase monomer,CCI-CYTOSOL-GN
+HP_RS04550-MONOMER,HP_RS04550,7-carboxy-7-deazaguanine synthase,
+HP_RS06570-MONOMER,HP_RS06570,"putative branched-chain amino acid efflux pump, AzlC family protein",CCI-PM-BAC-NEG-GN
+HP_RS00465-MONOMER,HP_RS00465,type IIP restriction-modification system R protein R.HpyAIII,
+HP_RS02480-MONOMER,HP_RS02480,DNA gyrase subunit B GyrB,CCI-CYTOSOL-GN
+HP_RS00060-MONOMER,HP_RS00060,outer membrane protein HopZ,
+HP_RS04460-MONOMER,HP_RS04460,outer membrane protein AlpB/HopB,
+HP_RS06490-MONOMER,HP_RS06490,30S ribosomal protein S19,CCI-RIBOSOME-GN
+HP_RS00380-MONOMER,HP_RS00380,Lipoprotein signal peptidase,CCI-PM-BAC-NEG-GN
+HP_RS02400-MONOMER,HP_RS02400,catalase-like protein,CCI-CYTOSOL-GN
+HP_RS04340-MONOMER,HP_RS04340,Short-chain oxidoreductase VdlC,
+HP_RS06395-MONOMER,HP_RS06395,30S ribosomal protein S13,CCI-RIBOSOME-GN // CCI-CYTOSOL-GN
+HP_RS02295-MONOMER,HP_RS02295,Type I restriction enzyme R protein HdsR,
+HP_RS04240-MONOMER,HP_RS04240,hydrogenase nickel incorporation protein HypA,
+HP_RS06315-MONOMER,HP_RS06315,Anthranilate phosphoribosyltransferase,CCI-CYTOSOL-GN
+HP_RS02205-MONOMER,HP_RS02205,ICEHptfs4 protein C21.2,
+HP_RS04175-MONOMER,HP_RS04175,Hypothetical protein HP0856,CCO-MEMBRANE
+HP_RS06235-MONOMER,HP_RS06235,ferredoxin-menaquinone dehydrogenase subunit E,
+HP_RS02090-MONOMER,HP_RS02090,arginine decarboxylase,
+HP_RS04090-MONOMER,HP_RS04090,Hypothetical protein HP0838,
+HP_RS06150-MONOMER,HP_RS06150,DNA polymerase III subunit delta,
+HP_RS01985-MONOMER,HP_RS01985,Phenylalanyl-tRNA synthetase subunit alpha PheS,CCI-CYTOSOL-GN
+HP_RS04000-MONOMER,HP_RS04000,Hypothetical protein HP0820,
+HP_RS06070-MONOMER,HP_RS06070,DNA replication regulator HobA,
+HP_RS01905-MONOMER,HP_RS01905,Primosome assembly protein PriA,
+HP_RS03915-MONOMER,HP_RS03915,"Bifunctional 3,4-dihydroxy-2-butanone 4-phosphate synthase/GTP cyclohydrolase II protein",CCI-CYTOSOL-GN
+HP_RS05965-MONOMER,HP_RS05965,Type IIP restriction-modification system M protein,
+MONOMER2DNV-14,G2DNV-13,,
+HP_RS01825-MONOMER,HP_RS01825,Biotin carboxyl carrier protein AccB,CCI-CYTOSOL-GN
+HP_RS03835-MONOMER,HP_RS03835,putative lipoprotein release protein,CCI-PM-BAC-NEG-GN
+HP_RS05860-MONOMER,HP_RS05860,Secreted protein involved in flagellar motility HP1192,
+HP_RS07825-MONOMER,HP_RS07825,undecaprenyl phosphate <i>N</i>-acetylglucosaminyltransferase,CCI-PM-BAC-NEG-GN
+HP_RS01725-MONOMER,HP_RS01725,flagellar motor switch protein FliG,CCI-PM-BAC-NEG-GN // CCO-CELL-PROJECTION
+HP_RS03745-MONOMER,HP_RS03745,Molybdopterin-guanine dinucleotide biosynthesis protein MobA,CCI-CYTOSOL-GN
+HP_RS05770-MONOMER,HP_RS05770,D-glucose/D-galactose/D-mannose:Na<sup>+</sup> symporter,CCI-PM-BAC-NEG-GN
+HP_RS07745-MONOMER,HP_RS07745,penicillin-binding protein 2,CCI-PM-BAC-NEG-GN
+HP_RS01635-MONOMER,HP_RS01635,septum site-determining protein MinD,CCI-PM-BAC-NEG-GN // CCI-CYTOSOL-GN
+HP_RS03660-MONOMER,HP_RS03660,Peptidase_M23 domain-containing protein,
+HP_RS05690-MONOMER,HP_RS05690,Pyrroline-5-carboxylate reductase,CCI-CYTOSOL-GN
+HP_RS07665-MONOMER,HP_RS07665,Sec translocon accessory subunit SecD,CCI-PM-BAC-NEG-GN
+HP_RS01550-MONOMER,HP_RS01550,purine-specific endoribonuclease VapD,
+HP_RS03575-MONOMER,HP_RS03575,Xanthine guanine phosphoribosyl transferase Gpt,
+HP_RS05595-MONOMER,HP_RS05595,SpoOJ regulator Soj,
+HP_RS07585-MONOMER,HP_RS07585,IS605 transposase TnpB,
+HP_RS01470-MONOMER,HP_RS01470,"peptide ABC transporter, substrate-binding protein",CCI-PERI-BAC-GN // CCI-PM-BAC-NEG-GN
+HP_RS03485-MONOMER,HP_RS03485,lipopolysaccharide transport system ATP-binding protein LptB,CCI-PM-BAC-NEG-GN
+HP_RS05510-MONOMER,HP_RS05510,anti-&sigma;<sup>28</sup> factor FlgM,
+HP_RS07495-MONOMER,HP_RS07495,Transcription elongation factor NusA,CCI-CYTOSOL-GN
+HP_RS01390-MONOMER,HP_RS01390,Predicted coding region HP0282,
+HP_RS03400-MONOMER,HP_RS03400,Hydantoin utilization protein A HyuA,CCI-CYTOSOL-GN
+HP_RS05430-MONOMER,HP_RS05430,Hypothetical protein HP1106,
+HP_RS07410-MONOMER,HP_RS07410,50S ribosomal protein L25/general stress protein Ctc,CCI-RIBOSOME-GN
+HP_RS01310-MONOMER,HP_RS01310,Dihydroorotase PyrC,
+HP_RS03305-MONOMER,HP_RS03305,aspartate aminotransferase,
+HP_RS05350-MONOMER,HP_RS05350,Transketolase,CCI-CYTOSOL-GN // CCO-MEMBRANE
+HP_RS07330-MONOMER,HP_RS07330,Seryl-tRNA synthetase,CCI-CYTOSOL-GN
+HP_RS01215-MONOMER,HP_RS01215,ATP-dependent RNA helicase,CCI-CYTOSOL-GN // CCI-RIBOSOME-GN
+HP_RS03220-MONOMER,HP_RS03220,ferritin,CCI-CYTOSOL-GN
+HP_RS05270-MONOMER,HP_RS05270,Cu<sup>2+</sup>-exporting P-type ATPase CopA,CCI-PM-BAC-NEG-GN
+HP_RS07250-MONOMER,HP_RS07250,ABC transporter substrate-binding protein,CCO-MEMBRANE
+HP_RS01130-MONOMER,HP_RS01130,3-deoxy-manno-octulosonate cytidylyltransferase,CCI-CYTOSOL-GN
+HP_RS03140-MONOMER,HP_RS03140,Hypothetical protein HP0637,CCO-MEMBRANE
+HP_RS05185-MONOMER,HP_RS05185,Hypothetical protein HP1055,
+HP_RS07170-MONOMER,HP_RS07170,Ribonuclease P protein component,
+HP_RS01045-MONOMER,HP_RS01045,tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA,CCI-CYTOSOL-GN
+HP_RS03055-MONOMER,HP_RS03055,inorganic pyrophosphatase monomer,CCI-CYTOSOL-GN
+HP_RS05105-MONOMER,HP_RS05105,O-antigen ligase,CCO-MEMBRANE
+HP_RS07080-MONOMER,HP_RS07080,Ribosomal RNA small subunit methyltransferase A,CCI-CYTOSOL-GN
+HP_RS00950-MONOMER,HP_RS00950,enoyl-[acyl-carrier-protein] reductase monomer,
+HP_RS02970-MONOMER,HP_RS02970,3-methyladenine DNA glycosylase,
+HP_RS05025-MONOMER,HP_RS05025,Hypothetical protein HP1023,
+HP_RS06995-MONOMER,HP_RS06995,Hypothetical protein HP1414,CCI-CYTOSOL-GN
+HP_RS00865-MONOMER,HP_RS00865,Elongation factor P EfP,CCI-CYTOSOL-GN
+HP_RS02885-MONOMER,HP_RS02885,ferrous iron transport protein A,
+HP_RS04915-MONOMER,HP_RS04915,ICEHptfs4 protein C8,
+HP_RS06895-MONOMER,HP_RS06895,outer membrane protein HorL,
+HP_RS00785-MONOMER,HP_RS00785,"H. pylori lipopolysaccharide &alpha;-(1,6)-glucosyltransferase",
+HP_RS02805-MONOMER,HP_RS02805,Cytosol aminopeptidase (Leucine aminopeptidase) PepA,CCI-CYTOSOL-GN
+HP_RS04820-MONOMER,HP_RS04820,small conductance mechanosensitive channel MscS,CCI-PM-BAC-NEG-GN
+HP_RS06815-MONOMER,HP_RS06815,Prephenate dehydrogenase TyrA,
+HP_RS00700-MONOMER,HP_RS00700,A/G-specific adenine glycosylase MutY,
+HP_RS02725-MONOMER,HP_RS02725,23S rRNA methyltransferase,CCI-CYTOSOL-GN
+HP_RS00295-MONOMER,HP_RS00295,hypothetical protein,
+HP_RS04730-MONOMER,HP_RS04730,Virulence associated protein D VapD,
+HP_RS06730-MONOMER,HP_RS06730,replicative DNA helicase DnaB monomer,CCI-CYTOSOL-GN
+HP_RS00620-MONOMER,HP_RS00620,Threonyl-tRNA synthetase ThrS,CCI-CYTOSOL-GN
+HP_RS02635-MONOMER,HP_RS02635,CagP protein,CCO-MEMBRANE
+HP_RS00215-MONOMER,HP_RS00215,TrbG/VirB9 family P-type conjugative transfer protein,
+HP_RS04645-MONOMER,HP_RS04645,rRNA large subunit methyltransferase,CCI-CYTOSOL-GN
+HP_RS06635-MONOMER,HP_RS06635,Mg<sup>2+</sup> transporter,CCI-PM-BAC-NEG-GN
+HP_RS00535-MONOMER,HP_RS00535,S-ribosylhomocysteine lyase,
+HP_RS02555-MONOMER,HP_RS02555,Putative periplasmic protein involved in flagellin deglycosylation,
+HP_RS00130-MONOMER,HP_RS00130,lipid A phosphoethanolamine transferase,CCI-PM-BAC-NEG-GN
+HP_RS04530-MONOMER,HP_RS04530,geranyltranstransferase,
+HP_RS06555-MONOMER,HP_RS06555,copper efflux pump periplasmic adaptor protein,CCI-PERI-BAC-GN // CCO-CE-BAC
+HP_RS00445-MONOMER,HP_RS00445,RNA polymerase factor &sigma;<sup>80</sup>,CCI-CYTOSOL-GN
+HP_RS02465-MONOMER,HP_RS02465,putative solute:Na<sup>+</sup> symporter,CCO-MEMBRANE
+HP_RS00020-MONOMER,HP_RS00020,&beta;-carbonic anhydrase,
+HP_RS04445-MONOMER,HP_RS04445,Type IIP restriction-modification system M protein M.HpyAIX,
+HP_RS06475-MONOMER,HP_RS06475,50S ribosomal protein L16,CCI-RIBOSOME-GN
+HP_RS00360-MONOMER,HP_RS00360,proton-gated urea channel,CCI-PM-BAC-NEG-GN
+HP_RS02375-MONOMER,HP_RS02375,50S ribosomal subunit assembly factor BipA,CCI-CYTOSOL-GN
+HP_RS04325-MONOMER,HP_RS04325,vacuolating cytotoxin VacA,CCI-EXTRACELLULAR-GN // CCI-OUTER-MEM-GN // CCI-PERI-BAC-GN
+HP_RS06380-MONOMER,HP_RS06380,DNA-directed RNA polymerase subunit alpha RpoA,CCI-CYTOSOL-GN
+HP_RS04225-MONOMER,HP_RS04225,Transcription elongation factor GreA,
+HP_RS06300-MONOMER,HP_RS06300,Tryptophan synthase subunit alpha TrpA,CCI-CYTOSOL-GN
+HP_RS02185-MONOMER,HP_RS02185,ICEHptfs4 protein C18.2,CCO-MEMBRANE
+HP_RS04160-MONOMER,HP_RS04160,ABC transporter ATP-binding protein YheS,
+HP_RS06220-MONOMER,HP_RS06220,ferredoxin-menaquinone dehydrogenase subunit B,CCI-PM-BAC-NEG-GN
+HP_RS02075-MONOMER,HP_RS02075,tRNA (mo5U34)-methyltransferase,
+HP_RS04065-MONOMER,HP_RS04065,Hypothetical protein HP0833,
+HP_RS06135-MONOMER,HP_RS06135,30S ribosomal protein S18,CCI-RIBOSOME-GN
+HP_RS01970-MONOMER,HP_RS01970,4-hydroxy-3-methylbut-2-enyl diphosphate reductase,
+HP_RS03985-MONOMER,HP_RS03985,"putative osmoprotective ABC transporter, membrane/substrate-binding protein",CCI-PM-BAC-NEG-GN
+HP_RS06050-MONOMER,HP_RS06050,heme chaperone HemW monomer,CCI-CYTOSOL-GN
+HP_RS01890-MONOMER,HP_RS01890,SPOR domain-containing protein,
+HP_RS03900-MONOMER,HP_RS03900,"Molybdopterin converting factor, subunit 1 MoaD",
+HP_RS05930-MONOMER,HP_RS05930,Elongation factor Tu,CCI-CYTOSOL-GN
+HP_RS07915-MONOMER,HP_RS07915,hypothetical protein,
+HP_RS01805-MONOMER,HP_RS01805,Hypothetical protein HP0367,
+HP_RS03810-MONOMER,HP_RS03810,Outer membrane protein HofE,
+HP_RS05845-MONOMER,HP_RS05845,Aspartate-semialdehyde dehydrogenase,
+HP_RS07810-MONOMER,HP_RS07810,"<i>H. pylroi</i> LPS &alpha;-(1,2)-<i>N</i>-acetylglucosyltransferase",
+HP_RS01710-MONOMER,HP_RS01710,CTP synthetase PyrG,CCI-CYTOSOL-GN
+HP_RS03730-MONOMER,HP_RS03730,Hypothetical protein HP0765,
+HP_RS05755-MONOMER,HP_RS05755,"L-glutamine ABC transporter, ATP-binding protein",
+HP_RS07730-MONOMER,HP_RS07730,periplasmic Ni<sup>2+</sup>-binding protein NiuB2,
+HP_RS01615-MONOMER,HP_RS01615,Tetraacyldisaccharide 4'-kinase,CCI-PM-BAC-NEG-GN
+HP_RS03645-MONOMER,HP_RS03645,tRNA (guanine-N(7)-)-methyltransferase,
+HP_RS05675-MONOMER,HP_RS05675,UDP-N-acetylglucosamine-N-acetylmuramyl- (pentapeptide) pyrophosphoryl-undecaprenol N- acetylglucosamine transferase,CCI-PM-BAC-NEG-GN
+HP_RS07650-MONOMER,HP_RS07650,Leucine--tRNA ligase,CCI-CYTOSOL-GN
+HP_RS01535-MONOMER,HP_RS01535,Hypothetical protein HP0311,
+HP_RS03555-MONOMER,HP_RS03555,Hypothetical protein HP0730,
+HP_RS05580-MONOMER,HP_RS05580,"F0F1 ATP synthase subunit B, AtpF",CCI-PM-BAC-NEG-GN
+HP_RS07570-MONOMER,HP_RS07570,Uncharacterized protein HP1531,
+HP_RS01455-MONOMER,HP_RS01455,flagellar hook-filament junction protein FlgL,CCI-EXTRACELLULAR-GN
+HP_RS03465-MONOMER,HP_RS03465,Outer membrane protein HomA,
+HP_RS05495-MONOMER,HP_RS05495,flagellar hook-filament junction protein FlgK,CCI-EXTRACELLULAR-GN // CCO-CELL-PROJECTION
+HP_RS07480-MONOMER,HP_RS07480,Hypothetical protein HP1511,
+HP_RS01375-MONOMER,HP_RS01375,lipopolysaccharide heptosyltransferase I,CCI-CYTOSOL-GN
+HP_RS03385-MONOMER,HP_RS03385,succinyl-CoA-transferase subunit B,
+HP_RS05415-MONOMER,HP_RS05415,glucokinase,CCI-CYTOSOL-GN

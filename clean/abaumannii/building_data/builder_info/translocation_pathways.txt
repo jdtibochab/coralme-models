@@ -1,0 +1,10 @@
+,value
+bam,{'enzymes': ['ABAYE_RS10660-MONOMER']}
+lol,{'enzymes': ['ABAYE_RS04325-MONOMER']}
+sec,"{'enzymes': ['ABAYE_RS16210-MONOMER', 'ABAYE_RS03645-MONOMER']}"
+secA,{'enzymes': ['ABAYE_RS03645-MONOMER']}
+srp,{'enzymes': ['ABAYE_RS08480-MONOMER']}
+srp_yidC,{'enzymes': ['ABAYE_RS19325-MONOMER']}
+tat,{'enzymes': ['ABAYE_RS16410-MONOMER']}
+tat_alt,{'enzymes': ['CPLX_dummy']}
+yidC,{'enzymes': ['ABAYE_RS19325-MONOMER']}

@@ -1,0 +1,40 @@
+,value
+ME-Model-ID,hpylori
+amino_acid_trna_synthetase,"{'ala__L_c': 'HP_RS06120-MONOMER', 'arg__L_c': 'HP_RS01570-MONOMER', 'asn__L_c': 'CPLX_dummy', 'asp__L_c': 'HP_RS03035-MONOMER', 'cys__L_c': 'HP_RS04320-MONOMER', 'gln__L_c': 'CPLX_dummy', 'glu__L_c': 'generic_glu_ligase', 'gly_c': 'CPLX2DNV-981', 'his__L_c': 'HP_RS05850-MONOMER', 'ile__L_c': 'HP_RS07040-MONOMER', 'leu__L_c': 'HP_RS07650-MONOMER', 'lys__L_c': 'HP_RS00890-MONOMER', 'met__L_c': 'HP_RS02065-MONOMER', 'phe__L_c': 'CPLX2DNV-968', 'pro__L_c': 'HP_RS01170-MONOMER', 'ser__L_c': 'HP_RS07330-MONOMER', 'thr__L_c': 'CPLX_dummy', 'trp__L_c': 'HP_RS06180-MONOMER', 'tyr__L_c': 'HP_RS03770-MONOMER', 'val__L_c': 'generic_val_ligase'}"
+biocyc.RNAs,./hpylori/inputs/RNAs.txt
+biocyc.TUs,./hpylori/inputs/TUs.txt
+biocyc.genes,./hpylori/inputs/genes.txt
+biocyc.prots,./hpylori/inputs/proteins.txt
+biocyc.seqs,./hpylori/inputs/sequences.fasta
+braun's_lipoprotein,[]
+braun's_lipoproteins,[]
+braun's_lpp_flux,-0.0
+braun's_murein_flux,-0.0
+complex_cofactors,"{'fes_transfers': ['CPLX_dummy'], 'biotin_subreactions': {'mod_btn_c': ['biotin_ligase']}, 'lipoate_subreactions': {'mod_lipoyl_c': ['lipoyl_denovo', 'lipoyl_scavenging']}, 'fes_chaperones': {}, 'bmocogdp_chaperones': {}, 'FeFe/NiFe': {'mod_FeFe_cofactor_c': '', 'mod_NiFe_cofactor_c': ''}}"
+defer_to_rxn_matrix,"['BIOMASS_HP_published', 'FMETTRS', 'ATPM']"
+dev_reference,False
+df_TranscriptionalUnits,./hpylori//building_data/TUs_from_biocyc.txt
+df_gene_cplxs_mods_rxns,./hpylori/building_data/automated-org-with-refs.xlsx
+flux_of_biomass_constituents,{}
+flux_of_lipid_constituents,{}
+gam,45.5608
+genbank-path,./hpylori//building_data/genome_modified.gb
+gr_data_doublings_per_hour,"[0, 0.6, 1.0, 1.5, 2.0, 2.5]"
+growth_key,mu1
+include_pseudo_genes,True
+lipid_modifications,[]
+lipoprotein_precursors,{'MetQ': 'HP1564'}
+locus_tag,old_locus_tag
+log_directory,./hpylori/
+m-model-path,./hpylori//building_data/m_model_modified.json
+ngam,1.0
+other_lipids,[]
+out_directory,./hpylori/
+peptide_release_factors,"{'UAG': 'HP_RS00395-MONOMER', 'UGA': 'HP_RS00835-MONOMER', 'UAA': 'generic_RF'}"
+percent_dna_data,"[0.0592, 0.0512, 0.033, 0.0252, 0.0222, 0.0208]"
+pg_pe_160,['HP_RS04675-MONOMER']
+rna_polymerases,"{'RNAP_HPRS03480MONOMER': {'sigma_factor': 'HP_RS03480-MONOMER', 'polymerase': 'CPLX2DNV-976_mod_zn2(1)_mod_mg2(2)'}, 'RNAP_HPRS05070MONOMER': {'sigma_factor': 'HP_RS05070-MONOMER', 'polymerase': 'CPLX2DNV-976_mod_zn2(1)_mod_mg2(2)'}, 'RNAP_HPRS00445MONOMER': {'sigma_factor': 'HP_RS00445-MONOMER', 'polymerase': 'CPLX2DNV-976_mod_zn2(1)_mod_mg2(2)'}}"
+run_bbh_blast,False
+selenocysteine_enzymes,['CPLX_dummy']
+translocation_multipliers,{'HP_RS07180-MONOMER': {}}
+unmodeled_protein_fraction,0.36

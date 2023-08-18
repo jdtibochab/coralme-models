@@ -1,0 +1,10 @@
+,value
+bam,{'enzymes': ['VC_0445-MONOMER']}
+lol,"{'enzymes': ['VC_1107-MONOMER', 'VC_2181-MONOMER']}"
+sec,"{'enzymes': ['VC_2653-MONOMER', 'VC_2394-MONOMER']}"
+secA,{'enzymes': ['VC_2394-MONOMER']}
+srp,{'enzymes': ['VC_0147-MONOMER']}
+srp_yidC,{'enzymes': ['VC_0004-MONOMER']}
+tat,{'enzymes': ['VC_0086-MONOMER']}
+tat_alt,{'enzymes': ['CPLX_dummy']}
+yidC,{'enzymes': ['VC_0004-MONOMER']}

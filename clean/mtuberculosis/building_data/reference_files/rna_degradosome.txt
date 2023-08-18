@@ -1,0 +1,4 @@
+rna_degradosome
+G185E-5182-MONOMER_mod_mg2(4)
+G185E-7032-MONOMER
+G185E-6747-MONOMER_mod_mg2(2)

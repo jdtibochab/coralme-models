@@ -1,0 +1,1 @@
+find . -name "out.txt" | xargs rm

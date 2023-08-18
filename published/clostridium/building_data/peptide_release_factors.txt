@@ -1,0 +1,4 @@
+codon	enzyme
+UAG	PrfA_mono_mod_methyl(1)
+UGA	PrfB_mono_mod_methyl(1)
+UAA	generic_RF

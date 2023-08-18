@@ -1,0 +1,3 @@
+lipid_mod	enzymes
+other_lipids	G185E-6255-MONOMER
+pg_pe_160	

@@ -1,0 +1,2198 @@
+{
+    "org.check_m_model": [
+        {
+            "msg": "Some metabolites are missing their formula",
+            "triggered_by": [
+                "pyr_c",
+                "6pgc_c",
+                "glcn_c",
+                "r1p_c",
+                "udpg_c",
+                "udpglcur_c",
+                "f1p_c",
+                "glyald_c",
+                "man6p_c",
+                "man1p_c",
+                "gtp_c",
+                "gdpmann_c",
+                "srb1p_c",
+                "sbt6p_c",
+                "fc1p_c",
+                "udpgal_c",
+                "utp_c",
+                "glcurn_c",
+                "glcr_c",
+                "tre6p_c",
+                "udp_c",
+                "tre_c",
+                "gln__L_c",
+                "gam6p_c",
+                "gam1p_c",
+                "acgam1p_c",
+                "uacgam_c",
+                "acmana_c",
+                "uacmam_c",
+                "uacmamu_c",
+                "uaccg_c",
+                "uamr_c",
+                "chtbs_c",
+                "n2ppn_c",
+                "acgam_c",
+                "uacgala_c",
+                "acetone_c",
+                "glc__bD_c",
+                "dtdpglu_c",
+                "dttp_c",
+                "dtdp4d6dg_c",
+                "nh3_c",
+                "dtdp4d6dm_c",
+                "dtdprmn_c",
+                "g6p_c",
+                "actp_c",
+                "glx_c",
+                "so4_c",
+                "aacoa_c",
+                "aps_c",
+                "mthgxl_c",
+                "paps_c",
+                "g6p_B_c",
+                "gthrd_c",
+                "so3_c",
+                "f6p_c",
+                "lac__L_c",
+                "g1p_c",
+                "trdox_c",
+                "3mob_c",
+                "pap_c",
+                "fdp_c",
+                "3c3hmp_c",
+                "h2o_c",
+                "trdrd_c",
+                "gdp_c",
+                "h2s_c",
+                "pi_c",
+                "for_c",
+                "g3p_c",
+                "malcoa_c",
+                "glyclt_c",
+                "malACP_c",
+                "gcald_c",
+                "2pglyc_c",
+                "ACP_c",
+                "dhap_c",
+                "2h3oppan_c",
+                "acACP_c",
+                "glyc__R_c",
+                "rdxr_c",
+                "oxglyc_c",
+                "rdxo_c",
+                "13dpg_c",
+                "h_c",
+                "tartr__L_c",
+                "nad_c",
+                "dxyl5p_c",
+                "tartr__M_c",
+                "2me4p_c",
+                "nadh_c",
+                "hpyr_c",
+                "ctp_c",
+                "prpncoa_c",
+                "4c2me_c",
+                "cmp_c",
+                "atp_c",
+                "adp_c",
+                "3pg_c",
+                "3hpcoa_c",
+                "pep_c",
+                "ppi_c",
+                "ac_c",
+                "2p4c2me_c",
+                "2mecdp_c",
+                "h2mb4p_c",
+                "ipdp_c",
+                "grdp_c",
+                "ppap_c",
+                "dmpp_c",
+                "frdp_c",
+                "coa_c",
+                "ppa_c",
+                "amp_c",
+                "ppcoa_c",
+                "accoa_c",
+                "acald_c",
+                "etoh_c",
+                "oaa_c",
+                "ggdp_c",
+                "2mcit_c",
+                "pendp_c",
+                "cit_c",
+                "icit_c",
+                "micit_c",
+                "akg_c",
+                "co2_c",
+                "actn__R_c",
+                "nadp_c",
+                "nadph_c",
+                "hco3_c",
+                "hepdp_c",
+                "hexdp_c",
+                "lpam_c",
+                "3hbcoa_c",
+                "sdhlam_c",
+                "glyc3p_c",
+                "btal_c",
+                "glyc_c",
+                "dhlam_c",
+                "1btol_c",
+                "mqn7_c",
+                "sucsal_c",
+                "mql7_c",
+                "4abut_c",
+                "12dgr160_c",
+                "4abutn_c",
+                "pa160_c",
+                "acac_c",
+                "bhb_c",
+                "chol_c",
+                "btd_RR_c",
+                "g3pc_c",
+                "diact_c",
+                "cdpdhdecg_c",
+                "succoa_c",
+                "msa_c",
+                "q8_c",
+                "succ_c",
+                "ps160_c",
+                "q8h2_c",
+                "fum_c",
+                "o2_c",
+                "fadh2_c",
+                "h_e",
+                "pe160_c",
+                "g3pe_c",
+                "fad_c",
+                "mql8_c",
+                "no2_c",
+                "mqn8_c",
+                "etha_c",
+                "pgp160_c",
+                "2dmmql8_c",
+                "no3_c",
+                "2dmmq8_c",
+                "pg160_c",
+                "nh4_c",
+                "prpp_c",
+                "ap4a_c",
+                "pram_c",
+                "mal__L_c",
+                "urate_c",
+                "gar_c",
+                "urdglyc_c",
+                "gly_c",
+                "gua_c",
+                "fgam_c",
+                "gbdp_c",
+                "r5p_c",
+                "s7p_c",
+                "e4p_c",
+                "2dr5p_c",
+                "thf_c",
+                "10fthf_c",
+                "fpram_c",
+                "dimp_c",
+                "air_c",
+                "5aizc_c",
+                "2dr1p_c",
+                "2ddg6p_c",
+                "25aics_c",
+                "xtp_c",
+                "aicar_c",
+                "cbasp_c",
+                "fprica_c",
+                "cbp_c",
+                "orot_c",
+                "dcamp_c",
+                "2maacoa_c",
+                "orot5p_c",
+                "xmp_c",
+                "ump_c",
+                "gmp_c",
+                "cdp_c",
+                "4mop_c",
+                "ins_c",
+                "dcdp_c",
+                "adn_c",
+                "dctp_c",
+                "2ahbut_c",
+                "dtmp_c",
+                "din_c",
+                "23dhmp_c",
+                "dtdp_c",
+                "3c4mop_c",
+                "3c2hmp_c",
+                "leutrna_c",
+                "xtsn_c",
+                "gsn_c",
+                "damp_c",
+                "dcmp_c",
+                "dgmp_c",
+                "trnaleu_c",
+                "trnaval_c",
+                "dgsn_c",
+                "dgdp_c",
+                "psd5p_c",
+                "idp_c",
+                "valtrna_c",
+                "duri_c",
+                "trnaile_c",
+                "itp_c",
+                "thymd_c",
+                "didp_c",
+                "iletrna_c",
+                "thym_c",
+                "23dhdp_c",
+                "ditp_c",
+                "dutp_c",
+                "hxan_c",
+                "thdp_c",
+                "dudp_c",
+                "sl2a6o_c",
+                "xan_c",
+                "dump_c",
+                "ade_c",
+                "sl26da_c",
+                "uri_c",
+                "26dap_LL_c",
+                "dgtp_c",
+                "pppi_c",
+                "cytd_c",
+                "gdptp_c",
+                "dcyt_c",
+                "lys__L_c",
+                "ppgpp_c",
+                "csn_c",
+                "dadp_c",
+                "lystrna_c",
+                "trnalys_c",
+                "5mcsn_c",
+                "sucarg_c",
+                "datp_c",
+                "adprib_c",
+                "argtrna_c",
+                "glutrna_c",
+                "3dhq_c",
+                "trnaglu_c",
+                "3dhsk_c",
+                "skm_c",
+                "trnaarg_c",
+                "1pyr5c_c",
+                "glntrna_c",
+                "pro__L_c",
+                "skm5p_c",
+                "trnagln_c",
+                "3psme_c",
+                "trnapro_c",
+                "glutrna_gln_c",
+                "protrna_c",
+                "chor_c",
+                "asptrna_c",
+                "pran_c",
+                "2cpr5p_c",
+                "e4hglu_c",
+                "trnaasp_c",
+                "3ig3p_c",
+                "ala__L_c",
+                "indole_c",
+                "alatrna_c",
+                "pphn_c",
+                "trnaala_c",
+                "trnaphe_c",
+                "1p3h5c_c",
+                "4h2oglt_c",
+                "phetrna_c",
+                "h2o2_c",
+                "tyrtrna_c",
+                "sucgsa_c",
+                "asp__D_c",
+                "sucglu_c",
+                "sucorn_c",
+                "trnatyr_c",
+                "asptrna_asn_c",
+                "prbatp_c",
+                "asntrna_c",
+                "prbamp_c",
+                "4pasp_c",
+                "prfp_c",
+                "prlp_c",
+                "Largn_c",
+                "eig3p_c",
+                "imacp_c",
+                "quin_c",
+                "phom_c",
+                "pqqh2_c",
+                "hisp_c",
+                "histd_c",
+                "pqq_c",
+                "3php_c",
+                "glu5p_c",
+                "glu5sa_c",
+                "his__L_c",
+                "NPmehis_c",
+                "dhlplarg_c",
+                "histrna_c",
+                "acglu_c",
+                "lplarg_c",
+                "acg5p_c",
+                "trnahis_c",
+                "2obut_c",
+                "orn_c",
+                "trnathr_c",
+                "thrtrna_c",
+                "argsuc_c",
+                "forglu_c",
+                "sertrna_c",
+                "frmd_c",
+                "n4abutn_c",
+                "trnaser_c",
+                "glytrna_c",
+                "4aabutn_c",
+                "trnagly_c",
+                "5mta_c",
+                "im4act_c",
+                "24dab_c",
+                "im4ac_c",
+                "5mtr_c",
+                "betald_c",
+                "glyb_c",
+                "acetol_c",
+                "hcarn_c",
+                "hista_c",
+                "4gudbutn_c",
+                "cyst__L_c",
+                "4gudbd_c",
+                "5mthf_c",
+                "urea_c",
+                "allphn_c",
+                "mettrna_c",
+                "4mlacac_c",
+                "trnamet_c",
+                "4fumacac_c",
+                "fmettrna_c",
+                "bamppald_c",
+                "amet_c",
+                "34dhoxpeg_c",
+                "ahcys_c",
+                "34dhmald_c",
+                "aacald_c",
+                "rhcys_c",
+                "taur_c",
+                "achms_c",
+                "suchms_c",
+                "4hphac_c",
+                "thcys_c",
+                "34dhpha_c",
+                "34hpp_c",
+                "Pald_c",
+                "2ameph_c",
+                "cysi__L_c",
+                "acser_c",
+                "selhcys_c",
+                "scys__L_c",
+                "selcyst_c",
+                "seahcys_c",
+                "2hyoxplac_c",
+                "pac_c",
+                "tsul_c",
+                "pacald_c",
+                "selmeth_c",
+                "2amac_c",
+                "seasmet_c",
+                "bz_c",
+                "bgly_c",
+                "cystrna_c",
+                "trnacys_c",
+                "pad_c",
+                "phaccoa_c",
+                "2mp2coa_c",
+                "trnatrp_c",
+                "selcys_c",
+                "3hibutcoa_c",
+                "seln_c",
+                "2mb2coa_c",
+                "trptrna_c",
+                "sel_c",
+                "3hmbcoa_c",
+                "ind3ac_c",
+                "fmn_c",
+                "id3acald_c",
+                "adsel_c",
+                "glu__D_c",
+                "iad_c",
+                "5prdmbz_c",
+                "alaala_c",
+                "nac_c",
+                "cgly_c",
+                "nformanth_c",
+                "nicrnt_c",
+                "Lfmkynr_c",
+                "gthox_c",
+                "dmbzid_c",
+                "glucys_c",
+                "anth_c",
+                "4per_c",
+                "Lkynr_c",
+                "u3hga_c",
+                "u3aga_c",
+                "ohpb_c",
+                "u23ga_c",
+                "3hanthrn_c",
+                "phthr_c",
+                "hLkynr_c",
+                "indpyr_c",
+                "2dda7p_c",
+                "lipidAds_c",
+                "lipidX_c",
+                "lipidA_c",
+                "4hthr_c",
+                "ckdo_c",
+                "kdolipid4_c",
+                "pdx5p_c",
+                "kdo2lipid4_c",
+                "2ommb_c",
+                "pydx5p_c",
+                "2ombz_c",
+                "ara5p_c",
+                "pydx_c",
+                "kdo8p_c",
+                "malt_c",
+                "kdo_c",
+                "pyam5p_c",
+                "uama_c",
+                "malt_e",
+                "pydxn_c",
+                "uamag_c",
+                "pydam_c",
+                "ugmd_c",
+                "fru_e",
+                "iasp_c",
+                "glc__D_e",
+                "ugmda_c",
+                "quln_c",
+                "uagmda_c",
+                "nmn_c",
+                "udcpp_c",
+                "uaagmda_c",
+                "glcn__D_c",
+                "rnam_c",
+                "glcn__D_e",
+                "nicrns_c",
+                "dnad_c",
+                "mnl_e",
+                "uaagtmda_c",
+                "ncam_c",
+                "udcpdp_c",
+                "mnl1p_c",
+                "2dhp_c",
+                "acgam_e",
+                "4ampm_c",
+                "mlthf_c",
+                "4ahmmp_c",
+                "acgam6p_c",
+                "pant__R_c",
+                "sucr_c",
+                "2mahmp_c",
+                "pnto__R_c",
+                "thmmp_c",
+                "4mpetz_c",
+                "sucr_e",
+                "4ppan_c",
+                "tre_e",
+                "thmpp_c",
+                "ptcys_c",
+                "4mhetz_c",
+                "2pg_e",
+                "4ppcys_c",
+                "3pg_e",
+                "thm_c",
+                "pan4p_c",
+                "ac_e",
+                "25dhpp_c",
+                "ptth_c",
+                "5apru_c",
+                "akg_e",
+                "dpcoa_c",
+                "cit_e",
+                "for_e",
+                "5aprbu_c",
+                "pmcoa_c",
+                "db4p_c",
+                "fum_e",
+                "dmlz_c",
+                "8aonn_c",
+                "4r5au_c",
+                "succ_e",
+                "icit_e",
+                "dann_c",
+                "mal__L_e",
+                "ribflv_c",
+                "amob_c",
+                "dtbt_c",
+                "slnt_c",
+                "btn_c",
+                "na1_p",
+                "s_c",
+                "na1_e",
+                "btamp_c",
+                "glyclt_e",
+                "ahdt_c",
+                "co2_e",
+                "dhpmp_c",
+                "no2_e",
+                "no3_e",
+                "dhnpt_c",
+                "o2_e",
+                "2ahhmp_c",
+                "pi_e",
+                "2ahhmd_c",
+                "na1_c",
+                "4abz_c",
+                "so4_e",
+                "ala__L_e",
+                "arg__L_e",
+                "4adcho_c",
+                "asn__L_e",
+                "dhpt_c",
+                "asp__L_e",
+                "dhf_c",
+                "cys__L_e",
+                "ala__D_e",
+                "fol_c",
+                "glu__D_e",
+                "6pthp_c",
+                "gln__L_e",
+                "methf_c",
+                "glu__L_e",
+                "glu1sa_c",
+                "5aop_c",
+                "ppbng_c",
+                "glu__L_r",
+                "hmbil_c",
+                "gly_e",
+                "uppg3_c",
+                "his__L_e",
+                "dscl_c",
+                "ile__L_e",
+                "fe2_c",
+                "leu__L_e",
+                "sheme_c",
+                "lys__L_e",
+                "scl_c",
+                "met__L_e",
+                "phe__L_e",
+                "cpppg3_c",
+                "pro__L_e",
+                "pppg9_c",
+                "ser__L_e",
+                "thr__L_e",
+                "pheme_c",
+                "trp__L_e",
+                "ppp9_c",
+                "tyr__L_e",
+                "cbl1_c",
+                "val__L_e",
+                "4hoxpacd_c",
+                "adocbl_c",
+                "ser__D_e",
+                "orn_e",
+                "adocbi_c",
+                "ptrc_c",
+                "adocbip_c",
+                "ptrc_e",
+                "34dhpac_c",
+                "agdpcbi_c",
+                "spmd_c",
+                "rdmbzi_c",
+                "spmd_e",
+                "cbi_c",
+                "urea_e",
+                "co1dam_c",
+                "chol_e",
+                "adcobdam_c",
+                "adn_e",
+                "uppg1_c",
+                "cytd_e",
+                "cpppg1_c",
+                "dcyt_e",
+                "hemeO_c",
+                "dgsn_e",
+                "ichor_c",
+                "thymd_e",
+                "hphaccoa_c",
+                "4hbz_c",
+                "duri_e",
+                "3ophb_c",
+                "gsn_e",
+                "octdp_c",
+                "uri_e",
+                "2ohph_c",
+                "csn_e",
+                "xan_e",
+                "2oph_c",
+                "ura_e",
+                "2omph_c",
+                "taur_e",
+                "2ombzl_c",
+                "etha_e",
+                "2ommbl_c",
+                "glyb_e",
+                "2omhmbl_c",
+                "bz_e",
+                "2shchc_c",
+                "sucbz_c",
+                "3hivcoa_c",
+                "sbzcoa_c",
+                "dhna_c",
+                "hethmpp_c",
+                "2ahethmpp_c",
+                "ppad_c",
+                "arab__L_e",
+                "glcr_e",
+                "hmgcoa_c",
+                "gal_e",
+                "man_e",
+                "alltt_c",
+                "hpglu_c",
+                "galt_e",
+                "sbt__D_e",
+                "mhpglu_c",
+                "glyc_e",
+                "3mgcoa_c",
+                "fuc__L_e",
+                "glcn_e",
+                "glyc3p_e",
+                "xyl__D_e",
+                "lac__L_e",
+                "g6p_e",
+                "rib__D_e",
+                "rmn_e",
+                "melib_e",
+                "asp__D_e",
+                "gam_e",
+                "13ppd_e",
+                "2obut_e",
+                "tartr__L_e",
+                "g1p_e",
+                "f6p_e",
+                "mbdg_e",
+                "rbt_e",
+                "malttr_e",
+                "inost_e",
+                "ppa_e",
+                "galct__D_e",
+                "glx_e",
+                "ins_e",
+                "gly_glu__L_e",
+                "acac_e",
+                "acmana_e",
+                "mal__D_e",
+                "4hoxpac_e",
+                "3hoxpac_e",
+                "tym_e",
+                "all__D_e",
+                "lyx__L_e",
+                "pyr_e",
+                "galur_e",
+                "peamn_e",
+                "lcts_e",
+                "arab__L_c",
+                "gal_c",
+                "man_c",
+                "sbt__D_c",
+                "xyl__D_c",
+                "rib__D_c",
+                "rmn_c",
+                "gam_c",
+                "malttr_c",
+                "inost_c",
+                "galur_c",
+                "3opcoa_c",
+                "protein_c",
+                "rna_c",
+                "cav_c",
+                "phospholipid_c",
+                "lipids_c",
+                "lps_c",
+                "biomass_c"
+            ],
+            "importance": "critical",
+            "to_do": "Correct the formulas of the listed metabolites. Some metabolite formulas are critical for the completion of this pipeline. If homology is ON, this pipeline will try to fill in the formulas from the reference."
+        },
+        {
+            "msg": "Some metabolites have a problematic formula. If these metabolites are used in protein modifications, or other subreactions, it will cause an error.",
+            "triggered_by": [
+                "crm_cho_c",
+                "primAlc_c",
+                "alkane_c",
+                "aldehyde_c",
+                "crmp_cho_c",
+                "aglp2_c",
+                "apocarb_c",
+                "holocarb_c",
+                "propacp_c",
+                "nonacp_c",
+                "decacp_c",
+                "undacp_c",
+                "dodecacp_c",
+                "triacp_c",
+                "tetacp_c",
+                "penacp_c",
+                "peneacp_c",
+                "hexacp_c",
+                "hexeacp_c",
+                "hepacp_c",
+                "hepeacp_c",
+                "octacp_c",
+                "octeacp_c",
+                "nonaacp_c",
+                "noneacp_c",
+                "eicacp_c"
+            ],
+            "importance": "critical",
+            "to_do": "Correct the formulas of the listed metabolites. Some metabolite formulas are critical for the completion of this pipeline. If homology is ON, this pipeline will try to fill in the formulas from the reference."
+        },
+        {
+            "msg": "Some reactions are missing their subsystem",
+            "triggered_by": [
+                "MAN1PT",
+                "HPYRI",
+                "MCITL2",
+                "UMPK",
+                "ASPO1",
+                "ACtr",
+                "CPPPGO",
+                "PIt",
+                "DDPGA",
+                "MTAM_1",
+                "IPDDI",
+                "PDC",
+                "HBCHLR",
+                "FGFT",
+                "VALTA",
+                "GGTP1",
+                "UDCPDPS",
+                "CDPMEK",
+                "GGTP2",
+                "DMPPS",
+                "NAt",
+                "GLYCLTDx",
+                "GLYCLTDy",
+                "O2t",
+                "MHPGLUT2",
+                "ATPS4r",
+                "PYR5CD2",
+                "CAV",
+                "PHOSPHOLIPID",
+                "LIPIDS",
+                "LPS_1",
+                "EXOPOLYS",
+                "ARAB_Lt",
+                "GALabc",
+                "MANabc",
+                "GLYCt",
+                "XYLt",
+                "RIBabc",
+                "RMNabc",
+                "ASPDTDe",
+                "MALTTRabc",
+                "INSTabc",
+                "PPAt6",
+                "MAL_Dt2",
+                "PYRt2",
+                "2OBUT_Et",
+                "HPOXR",
+                "MCA",
+                "OCDOR",
+                "HPCOR",
+                "CITL",
+                "OBTFL",
+                "ARApts",
+                "XYLpts",
+                "PROTEIN",
+                "DNA",
+                "DNADRAIN",
+                "RNA",
+                "GART",
+                "HCYSMT",
+                "ABAH",
+                "GLYO1",
+                "LACLt2",
+                "PUNP1",
+                "ACLSb",
+                "GLCD",
+                "NARK"
+            ],
+            "importance": "high",
+            "to_do": "Make sure the subsystems of these reactions are correct"
+        },
+        {
+            "msg": "Some metabolites have no reactions associated",
+            "triggered_by": [
+                "na1_p",
+                "sbt__D_c",
+                "gam_c",
+                "galur_c"
+            ],
+            "importance": "critical",
+            "to_do": "Make sure these metabolites are removed or connected properly"
+        }
+    ],
+    "org.generate_complexes_df": [
+        {
+            "msg": "Some proteins have no genes in proteins.txt",
+            "triggered_by": [
+                "EG10823-MONOMER"
+            ],
+            "importance": "medium",
+            "to_do": "Fill genes in proteins.txt"
+        }
+    ],
+    "org.prune_genbank": [
+        {
+            "msg": "Some features contain a sequence that is not divisible by 3.",
+            "triggered_by": [
+                {
+                    "locus_tag": [
+                        "ABAYE_RS00970"
+                    ],
+                    "old_locus_tag": [
+                        "ABAYE0083"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:YP_004997134.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "hypothetical protein"
+                    ],
+                    "location": "[93557:93852](+)"
+                },
+                {
+                    "locus_tag": [
+                        "ABAYE_RS20140"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:YP_004996982.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "hypothetical protein"
+                    ],
+                    "location": "[256305:256471](-)"
+                },
+                {
+                    "locus_tag": [
+                        "ABAYE_RS20150"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:YP_004996907.1"
+                    ],
+                    "note": [
+                        "frameshifted; internal stop; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "hypothetical protein"
+                    ],
+                    "location": "[335244:335375](-)"
+                },
+                {
+                    "gene": [
+                        "rpsC"
+                    ],
+                    "locus_tag": [
+                        "ABAYE_RS02585"
+                    ],
+                    "old_locus_tag": [
+                        "ABAYE0414"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:YP_004996803.1"
+                    ],
+                    "GO_component": [
+                        "GO:0022627 - cytosolic small ribosomal subunit [Evidence IEA]; GO:0000312 - plastid small ribosomal subunit [Evidence IEA]"
+                    ],
+                    "GO_function": [
+                        "GO:0003735 - structural constituent of ribosome [Evidence IEA]"
+                    ],
+                    "GO_process": [
+                        "GO:0006412 - translation [Evidence IEA]"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "30S ribosomal protein S3"
+                    ],
+                    "location": "[436836:437653](+)"
+                },
+                {
+                    "locus_tag": [
+                        "ABAYE_RS02885"
+                    ],
+                    "old_locus_tag": [
+                        "ABAYE0471"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:YP_004996747.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "hypothetical protein"
+                    ],
+                    "location": "[485904:487015](+)"
+                },
+                {
+                    "locus_tag": [
+                        "ABAYE_RS19585"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:YP_004996419.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "hypothetical protein"
+                    ],
+                    "location": "[797554:797684](+)"
+                },
+                {
+                    "locus_tag": [
+                        "ABAYE_RS20180"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_004674924.1"
+                    ],
+                    "note": [
+                        "frameshifted; incomplete; partial in the middle of a contig; missing N-terminus; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "hypothetical protein"
+                    ],
+                    "location": "[807247:>807407](-)"
+                },
+                {
+                    "locus_tag": [
+                        "ABAYE_RS20745"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_013198568.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "hypothetical protein"
+                    ],
+                    "location": "[902018:902235](-)"
+                },
+                {
+                    "locus_tag": [
+                        "ABAYE_RS06045"
+                    ],
+                    "old_locus_tag": [
+                        "ABAYE1122"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_001189809.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "M1 family metallopeptidase"
+                    ],
+                    "location": "[1198418:1201183](+)"
+                },
+                {
+                    "locus_tag": [
+                        "ABAYE_RS20210"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:YP_004995764.1"
+                    ],
+                    "note": [
+                        "frameshifted; incomplete; partial in the middle of a contig; missing C-terminus; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "hypothetical protein"
+                    ],
+                    "location": "[1605788:>1605883](+)"
+                },
+                {
+                    "locus_tag": [
+                        "ABAYE_RS09635"
+                    ],
+                    "old_locus_tag": [
+                        "ABAYE1871"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_003651761.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "phospholipase D family protein"
+                    ],
+                    "location": "[1931121:1932682](+)"
+                },
+                {
+                    "gene": [
+                        "ppk1"
+                    ],
+                    "locus_tag": [
+                        "ABAYE_RS09690"
+                    ],
+                    "old_locus_tag": [
+                        "ABAYE1885"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_017398115.1"
+                    ],
+                    "GO_component": [
+                        "GO:0009358 - polyphosphate kinase complex [Evidence IEA]"
+                    ],
+                    "GO_function": [
+                        "GO:0008976 - polyphosphate kinase activity [Evidence IEA]"
+                    ],
+                    "GO_process": [
+                        "GO:0006799 - polyphosphate biosynthetic process [Evidence IEA]"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "polyphosphate kinase 1"
+                    ],
+                    "location": "[1940434:1942509](-)"
+                },
+                {
+                    "locus_tag": [
+                        "ABAYE_RS09710"
+                    ],
+                    "old_locus_tag": [
+                        "ABAYE1889"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:YP_004995391.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "SDR family oxidoreductase"
+                    ],
+                    "location": "[1946307:1947079](-)"
+                },
+                {
+                    "locus_tag": [
+                        "ABAYE_RS09775"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:YP_004995378.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "dienelactone hydrolase family protein"
+                    ],
+                    "location": "[1958454:1959704](-)"
+                },
+                {
+                    "locus_tag": [
+                        "ABAYE_RS20770"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:YP_004995338.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "protein tyrosine phosphatase family protein"
+                    ],
+                    "location": "[1995922:1996431](-)"
+                },
+                {
+                    "locus_tag": [
+                        "ABAYE_RS10025"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:YP_004995320.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "VWA domain-containing protein"
+                    ],
+                    "location": "[2015155:2016344](-)"
+                },
+                {
+                    "locus_tag": [
+                        "ABAYE_RS10750"
+                    ],
+                    "old_locus_tag": [
+                        "ABAYE2106"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:YP_004995186.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "Lrp/AsnC ligand binding domain-containing protein"
+                    ],
+                    "location": "[2160316:2160806](-)"
+                },
+                {
+                    "locus_tag": [
+                        "ABAYE_RS20775"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_001990052.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "hypothetical protein"
+                    ],
+                    "location": "[2295210:2295337](+)"
+                },
+                {
+                    "locus_tag": [
+                        "ABAYE_RS20780"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:YP_004995053.1"
+                    ],
+                    "note": [
+                        "frameshifted; internal stop; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "hypothetical protein"
+                    ],
+                    "location": "[2297168:2297289](+)"
+                },
+                {
+                    "locus_tag": [
+                        "ABAYE_RS11850"
+                    ],
+                    "old_locus_tag": [
+                        "ABAYE2347"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_005124300.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "TetR/AcrR family transcriptional regulator"
+                    ],
+                    "location": "[2394694:2395236](-)"
+                },
+                {
+                    "locus_tag": [
+                        "ABAYE_RS12180"
+                    ],
+                    "old_locus_tag": [
+                        "ABAYE2416"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:YP_004994906.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "hypothetical protein"
+                    ],
+                    "location": "[2463815:2464507](-)"
+                },
+                {
+                    "gene": [
+                        "uca"
+                    ],
+                    "locus_tag": [
+                        "ABAYE_RS12230"
+                    ],
+                    "old_locus_tag": [
+                        "ABAYE2428"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:YP_004994881.1"
+                    ],
+                    "GO_function": [
+                        "GO:0004847 - urea carboxylase activity [Evidence IEA]"
+                    ],
+                    "GO_process": [
+                        "GO:0019627 - urea metabolic process [Evidence IEA]"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "urea carboxylase"
+                    ],
+                    "location": "[2472590:2476194](-)"
+                },
+                {
+                    "locus_tag": [
+                        "ABAYE_RS20805"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_017386593.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "hypothetical protein"
+                    ],
+                    "location": "[2517942:2518186](+)"
+                },
+                {
+                    "locus_tag": [
+                        "ABAYE_RS12420"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_000633298.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "EAL domain-containing protein"
+                    ],
+                    "location": "[2519364:2520713](-)"
+                },
+                {
+                    "locus_tag": [
+                        "ABAYE_RS12560"
+                    ],
+                    "old_locus_tag": [
+                        "ABAYE2499"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_001019727.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "hypothetical protein"
+                    ],
+                    "location": "[2545826:2546371](-)"
+                },
+                {
+                    "locus_tag": [
+                        "ABAYE_RS12580"
+                    ],
+                    "old_locus_tag": [
+                        "ABAYE2504"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_005068159.1"
+                    ],
+                    "note": [
+                        "frameshifted; incomplete; partial in the middle of a contig; missing N-terminus; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "fibronectin type III domain-containing protein"
+                    ],
+                    "location": "[2548924:>2550111](-)"
+                },
+                {
+                    "locus_tag": [
+                        "ABAYE_RS20290"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_001019726.1"
+                    ],
+                    "note": [
+                        "frameshifted; incomplete; partial in the middle of a contig; missing N-terminus; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "hypothetical protein"
+                    ],
+                    "location": "[2563907:>2564053](-)"
+                },
+                {
+                    "gene": [
+                        "benB"
+                    ],
+                    "locus_tag": [
+                        "ABAYE_RS12820"
+                    ],
+                    "old_locus_tag": [
+                        "ABAYE2556"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:YP_004994733.1"
+                    ],
+                    "GO_process": [
+                        "GO:0006725 - cellular aromatic compound metabolic process [Evidence IEA]"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "benzoate 1,2-dioxygenase small subunit"
+                    ],
+                    "location": "[2586607:2587127](+)"
+                },
+                {
+                    "locus_tag": [
+                        "ABAYE_RS20825"
+                    ],
+                    "old_locus_tag": [
+                        "ABAYE2686"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_000332602.1"
+                    ],
+                    "note": [
+                        "frameshifted; incomplete; partial in the middle of a contig; missing C-terminus; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "SOS response-associated peptidase"
+                    ],
+                    "location": "[2725559:>2725708](+)"
+                },
+                {
+                    "locus_tag": [
+                        "ABAYE_RS16440"
+                    ],
+                    "old_locus_tag": [
+                        "ABAYE3305"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_003651761.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "phospholipase D family protein"
+                    ],
+                    "location": "[3349887:3351448](+)"
+                },
+                {
+                    "gene": [
+                        "aadA1"
+                    ],
+                    "locus_tag": [
+                        "ABAYE_RS17750"
+                    ],
+                    "old_locus_tag": [
+                        "ABAYE3570"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_048608579.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA1"
+                    ],
+                    "location": "[3621444:3622283](-)"
+                },
+                {
+                    "gene": [
+                        "aadA1"
+                    ],
+                    "locus_tag": [
+                        "ABAYE_RS17970"
+                    ],
+                    "old_locus_tag": [
+                        "ABAYE3618"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_048608579.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA1"
+                    ],
+                    "location": "[3656021:3656860](-)"
+                },
+                {
+                    "locus_tag": [
+                        "ABAYE_RS18210"
+                    ],
+                    "old_locus_tag": [
+                        "ABAYE3669"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:YP_004997395.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "PLP-dependent aminotransferase family protein"
+                    ],
+                    "location": "[3696942:3698383](-)"
+                },
+                {
+                    "locus_tag": [
+                        "ABAYE_RS18375"
+                    ],
+                    "old_locus_tag": [
+                        "ABAYE3700"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:YP_004997362.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "TetR/AcrR family transcriptional regulator"
+                    ],
+                    "location": "[3733900:3734471](-)"
+                },
+                {
+                    "locus_tag": [
+                        "ABAYE_RS19295"
+                    ],
+                    "old_locus_tag": [
+                        "ABAYE3894"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_003651761.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "phospholipase D family protein"
+                    ],
+                    "location": "[3927476:3929037](+)"
+                }
+            ],
+            "importance": "critical",
+            "to_do": "Check whether any of these genes are translated in your final ME-model. If so, fix the positions of the gene in genome_modified.gb"
+        }
+    ],
+    "org.get_rpod": [
+        {
+            "msg": "ABAYE_RS04385-MONOMER was identified as RpoD. If this is not true, define RpoD!",
+            "importance": "high",
+            "to_do": "Check whether you need to correct RpoD by running me_builder.org.rpod = correct_rpod"
+        }
+    ],
+    "org.get_rna_polymerase": [
+        {
+            "msg": "CPLX1SOZ-9 was identified as RNA polymerase",
+            "importance": "high",
+            "to_do": "Check whether you need to correct RNAP by running me_builder.org.get_rna_polymerase(force_RNAP_as=correct_RNAP)"
+        }
+    ],
+    "org.update_ribosome_stoich": [
+        {
+            "msg": "Some ribosomal proteins do not contain subunit information (30S, 50S) so they could not be mapped.",
+            "triggered_by": [
+                "ABAYE_RS15615-MONOMER"
+            ],
+            "importance": "high",
+            "to_do": "Classify them in ribosomal_proteins.txt"
+        }
+    ],
+    "org.get_trna_synthetase": [
+        {
+            "msg": "No tRNA ligases were found for some amino acids. Assigned CPLX_dummy.",
+            "triggered_by": [
+                "asn__L_c",
+                "gln__L_c"
+            ],
+            "importance": "high",
+            "to_do": "Check whether your organism should have a ligase for these amino acids, or if you need to add a reaction to get it (e.g. tRNA amidotransferases)"
+        }
+    ],
+    "org.purge_genes_in_model": [
+        {
+            "msg": "Some genes in M-model were not found in genes.txt or genome.gb. These genes will be skipped in reconstruction.",
+            "triggered_by": [
+                "p3ABAYE0024",
+                "p3ABAYE0020",
+                "p2ABAYE0004",
+                "p3ABAYE0029",
+                "ABAYE3572"
+            ],
+            "importance": "high",
+            "to_do": "Confirm the gene is correct in the m_model. If so, add it to genes.txt"
+        }
+    ],
+    "prepare_model": [
+        {
+            "msg": "NGAM could not be identified in M-model, setting a standard value of 1.",
+            "importance": "high",
+            "to_do": "Manually define NGAM with me_builder.org.NGAM = NGAM_value. Check if a reaction with identifier NGAM or ATPM has a zero or negative lower bound."
+        },
+        {
+            "msg": "Some compartments in m_model are unknown",
+            "triggered_by": [
+                "r"
+            ],
+            "importance": "medium",
+            "to_do": "Check whether the compartment is correct. If not, change it in the reaction ID in the m_model."
+        }
+    ],
+    "org.get_complex_homology": [
+        {
+            "msg": "Some complexes were partial hits in the BLAST",
+            "triggered_by": [
+                {
+                    "complex": "ABAYE_RS15230-MONOMER",
+                    "reference_complex": "NADH-DHI-CPLX"
+                },
+                {
+                    "complex": "ABAYE_RS13930-MONOMER",
+                    "reference_complex": "CPLX0-7428"
+                },
+                {
+                    "complex": "ABAYE_RS18505-MONOMER",
+                    "reference_complex": "ABC-63-CPLX"
+                },
+                {
+                    "complex": "ABAYE_RS05145-MONOMER",
+                    "reference_complex": "ABC-70-CPLX"
+                },
+                {
+                    "complex": "ABAYE_RS15725-MONOMER",
+                    "reference_complex": "ACETYL-COA-CARBOXYLMULTI-CPLX"
+                },
+                {
+                    "complex": "ABAYE_RS14810-MONOMER",
+                    "reference_complex": "BamAD-CPLX"
+                },
+                {
+                    "complex": "ABAYE_RS07280-MONOMER",
+                    "reference_complex": "MnmEG_cplx"
+                },
+                {
+                    "complex": "ABAYE_RS07505-MONOMER",
+                    "reference_complex": "ATPASE-1-CPLX_no_MONOMER0-12"
+                },
+                {
+                    "complex": "CPLX1SOZ-9",
+                    "reference_complex": "hRNAP"
+                },
+                {
+                    "complex": "ABAYE_RS04455-MONOMER",
+                    "reference_complex": "SUCCCOASYN"
+                },
+                {
+                    "complex": "ABAYE_RS09815-MONOMER",
+                    "reference_complex": "ACETOACETYL-COA-TRANSFER-CPLX"
+                },
+                {
+                    "complex": "ABAYE_RS10980-MONOMER",
+                    "reference_complex": "ABC-13-CPLX"
+                },
+                {
+                    "complex": "ABAYE_RS01325-MONOMER",
+                    "reference_complex": "PYRUVATEDEH-CPLX"
+                },
+                {
+                    "complex": "ABAYE_RS11220-MONOMER",
+                    "reference_complex": "ABC-64-CPLX"
+                },
+                {
+                    "complex": "ABAYE_RS04425-MONOMER",
+                    "reference_complex": "SUCC-DEHASE"
+                },
+                {
+                    "complex": "ABAYE_RS06335-MONOMER",
+                    "reference_complex": "ABC-3-CPLX"
+                },
+                {
+                    "complex": "ABAYE_RS07675-MONOMER",
+                    "reference_complex": "ETHAMLY-CPLX"
+                },
+                {
+                    "complex": "ABAYE_RS07350-MONOMER",
+                    "reference_complex": "CYT-O-UBIOX-CPLX"
+                },
+                {
+                    "complex": "ABAYE_RS11055-MONOMER",
+                    "reference_complex": "CPLX0-7684"
+                },
+                {
+                    "complex": "ABAYE_RS11025-MONOMER",
+                    "reference_complex": "METNIQ-METHIONINE-ABC-CPLX"
+                },
+                {
+                    "complex": "ABAYE_RS04435-MONOMER",
+                    "reference_complex": "2OXOGLUTARATEDEH-CPLX"
+                },
+                {
+                    "complex": "ABAYE_RS17400-MONOMER",
+                    "reference_complex": "ANTHRANSYN-CPLX"
+                },
+                {
+                    "complex": "ABAYE_RS15295-MONOMER",
+                    "reference_complex": "RIBONUCLEOSIDE-DIP-REDUCTI-CPLX"
+                },
+                {
+                    "complex": "ABAYE_RS08510-MONOMER",
+                    "reference_complex": "CYT-D-UBIOX-CPLX"
+                },
+                {
+                    "complex": "ABAYE_RS17485-MONOMER",
+                    "reference_complex": "CPLX0-3932"
+                },
+                {
+                    "complex": "ABAYE_RS18455-MONOMER",
+                    "reference_complex": "ATPSYN-CPLX"
+                },
+                {
+                    "complex": "ABAYE_RS16415-MONOMER",
+                    "reference_complex": "TatBC_octa"
+                },
+                {
+                    "complex": "ABAYE_RS18955-MONOMER",
+                    "reference_complex": "CPLX0-7717_G6561-MONOMER"
+                },
+                {
+                    "complex": "ABAYE_RS18955-MONOMER",
+                    "reference_complex": "CPLX0-3951_G6561-MONOMER"
+                },
+                {
+                    "complex": "ABAYE_RS15760-MONOMER",
+                    "reference_complex": "Phe_RS_tetra"
+                },
+                {
+                    "complex": "ABAYE_RS09720-MONOMER",
+                    "reference_complex": "ABC-19-CPLX"
+                },
+                {
+                    "complex": "ABAYE_RS15585-MONOMER",
+                    "reference_complex": "PABASYN-CPLX"
+                },
+                {
+                    "complex": "ABAYE_RS02030-MONOMER",
+                    "reference_complex": "GLUTAMATESYN-CPLX"
+                },
+                {
+                    "complex": "ABAYE_RS11970-MONOMER",
+                    "reference_complex": "CPLX0-1762"
+                },
+                {
+                    "complex": "ABAYE_RS04535-MONOMER",
+                    "reference_complex": "CARBPSYN-CPLX"
+                },
+                {
+                    "complex": "ABAYE_RS15915-MONOMER",
+                    "reference_complex": "PYRNUTRANSHYDROGEN-CPLX"
+                },
+                {
+                    "complex": "ABAYE_RS01735-MONOMER",
+                    "reference_complex": "GLUTAMIDOTRANS-CPLX"
+                },
+                {
+                    "complex": "ABAYE_RS16135-MONOMER",
+                    "reference_complex": "ACETOLACTSYNIII-CPLX"
+                },
+                {
+                    "complex": "ABAYE_RS03180-MONOMER",
+                    "reference_complex": "Sec-CPLX"
+                },
+                {
+                    "complex": "ABAYE_RS03180-MONOMER",
+                    "reference_complex": "SecYE-CPLX"
+                },
+                {
+                    "complex": "ABAYE_RS16695-MONOMER",
+                    "reference_complex": "3-ISOPROPYLMALISOM-CPLX"
+                },
+                {
+                    "complex": "ABAYE_RS19055-MONOMER",
+                    "reference_complex": "ABC-56-CPLX"
+                },
+                {
+                    "complex": "ABAYE_RS02360-MONOMER",
+                    "reference_complex": "Gly_RS_tetra"
+                },
+                {
+                    "complex": "ABAYE_RS10355-MONOMER",
+                    "reference_complex": "EG12130-MONOMER_EG12131-MONOMER"
+                },
+                {
+                    "complex": "ABAYE_RS08110-MONOMER",
+                    "reference_complex": "EG11595-MONOMER_EG11666-MONOMER"
+                },
+                {
+                    "complex": "ABAYE_RS03585-MONOMER",
+                    "reference_complex": "TRYPSYN"
+                },
+                {
+                    "complex": "ABAYE_RS03975-MONOMER",
+                    "reference_complex": "SULFITE-REDUCT-CPLX"
+                },
+                {
+                    "complex": "CPLX_CYTBD-0",
+                    "reference_complex": "HEMEOSYN-MONOMER"
+                },
+                {
+                    "complex": "CPLX_AIRC1-0",
+                    "reference_complex": "PURK-CPLX"
+                },
+                {
+                    "complex": "CPLX_AIRC1-0",
+                    "reference_complex": "PURE-CPLX"
+                },
+                {
+                    "complex": "CPLX_PPACO-0",
+                    "reference_complex": "3-OXOACYL-ACP-REDUCT-MONOMER"
+                },
+                {
+                    "complex": "CPLX_PPACO-0",
+                    "reference_complex": "ENOYL-ACP-REDUCT-NADH-MONOMER"
+                },
+                {
+                    "complex": "CPLX_PPACO-0",
+                    "reference_complex": "FABB-CPLX"
+                },
+                {
+                    "complex": "CPLX_PPACO-0",
+                    "reference_complex": "CPLX0-252"
+                },
+                {
+                    "complex": "CPLX_PPACO-0",
+                    "reference_complex": "FABZ-CPLX"
+                },
+                {
+                    "complex": "CPLX_NADH10-0",
+                    "reference_complex": "NADH-DHII-MONOMER"
+                }
+            ],
+            "importance": "medium",
+            "to_do": "Curate these manually in protein_corrections.txt"
+        }
+    ],
+    "update_me_mets": [
+        {
+            "msg": "Some metabolites in me_metabolites.txt are not in m_model, so they were skipped.",
+            "triggered_by": [
+                "sufbcd_2fe2s_c",
+                "sufbcd_2fe2s2_c",
+                "sufbcd_4fe4s_c",
+                "iscu_2fe2s_c",
+                "iscu_2fe2s2_c",
+                "iscu_4fe4s_c"
+            ],
+            "importance": "medium",
+            "to_do": "Confirm these metabolites are correctly defined in me_metabolites.txt"
+        }
+    ],
+    "update_ribosome_subreactions_from_homology": [
+        {
+            "msg": "Some enzymes defined in me_builder.org.ribosome_subreactions are different from the ones inferred from homology",
+            "triggered_by": [
+                {
+                    "subreaction": "gtp_bound_30S_assembly_factor_phase1",
+                    "defined_complex": "",
+                    "inferred_complex": "ABAYE_RS05220-MONOMER"
+                },
+                {
+                    "subreaction": "RbfA_mono_assembly_factor_phase1",
+                    "defined_complex": "",
+                    "inferred_complex": "ABAYE_RS17085-MONOMER"
+                },
+                {
+                    "subreaction": "RimM_mono_assembly_factor_phase1",
+                    "defined_complex": "",
+                    "inferred_complex": "ABAYE_RS02140-MONOMER"
+                }
+            ],
+            "importance": "medium",
+            "to_do": "Confirm whether the definitions or homology calls are correct in me_builder.org.ribosome_subreactions. Curate the inputs in ribosome_subreactions.txt accordingly."
+        }
+    ],
+    "check": [
+        {
+            "msg": "Some metabolites in me_metabolites.txt need curation",
+            "triggered_by": [
+                "glutrna_gln_c",
+                "asptrna_asn_c",
+                "LI_c",
+                "sufbcd_c",
+                "sufse_c",
+                "sufsesh_c",
+                "dsbaox_p",
+                "dsbgrd_p",
+                "dsbgox_p",
+                "lpp_p",
+                "alpp_p",
+                "moadamp_c",
+                "moadcoo_c",
+                "moadcosh_c",
+                "3hcpalm9eACP_c",
+                "3ocpalm9eACP_c",
+                "flxr_c",
+                "fldrd_c",
+                "flxso_c",
+                "fldox_c",
+                "grxrd_c",
+                "grxox_c",
+                "iscssh_c"
+            ],
+            "importance": "medium",
+            "to_do": "Map or remove these metabolites in me_metabolites.txt"
+        }
+    ],
+    "troubleshoot": [
+        {
+            "msg": "Some metabolites are necessary for growth",
+            "triggered_by": [
+                "TS_4fe4s_c",
+                "TS_fe2_c",
+                "TS_k_c",
+                "TS_zn2_c",
+                "TS_mg2_c"
+            ],
+            "importance": "critical",
+            "to_do": "Fix the gaps by adding reactions or solving other warnings. If some items are from the E-matrix, fix these first!"
+        }
+    ]
+}

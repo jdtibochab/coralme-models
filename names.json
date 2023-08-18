@@ -1,0 +1,23 @@
+{
+    "mycoplasma": "M. mycoides",
+    "hpylori": "H. pylori",
+    "liberibacter": "L. crescens",
+    "tmaritima": "T. maritima",
+    "nitrosomonas": "N. europaea",
+    "lcremoris": "L. cremoris",
+    "synechococcus": "S. elongatus",
+    "staph": "S. aureus",
+    "geobacter": "G. metallireducens",
+    "synechocystis": "Synechocystis",
+    "abaumannii": "A. baumannii",
+    "cdiff": "C. difficile",
+    "ypestis": "Y. pestis",
+    "bacillus": "B. subtilis",
+    "mtuberculosis": "M. tuberculosis",
+    "sflexneri": "S. flexneri",
+    "clostridium": "C. ljungdahlii",
+    "senterica": "S. enterica",
+    "ecoli": "E. coli",
+    "vcholerae": "V. cholerae",
+    "pputida": "P. putida"
+}

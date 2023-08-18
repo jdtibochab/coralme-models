@@ -1,0 +1,7 @@
+,value
+bmocogdp_chaperones,"{'enzymes': ['EG12195-MONOMER', 'G6849-MONOMER', 'NARJ-MONOMER', 'NARW-MONOMER', 'NAPD-MONOMER']}"
+fes_chaperones,{'enzymes': ['G6712-MONOMER']}
+fes_transfer,"{'enzymes': ['EG12332-MONOMER', 'EG12132-MONOMER', 'EG11378-MONOMER']}"
+generic_2fe2s_transfer_complex,{'enzymes': ['EG12332-MONOMER_mod_2fe2s(1)']}
+generic_4fe4s_transfer_complex,{'enzymes': ['EG12332-MONOMER_mod_4fe4s(1)']}
+lipoate_modifications,"{'enzymes': ['EG11796-MONOMER'], 'stoich': 'lipoamp_c:-1,amp_c:1'}"

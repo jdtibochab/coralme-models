@@ -1,0 +1,10 @@
+,value
+bam,{'enzymes': ['CPLX_dummy']}
+lol,{'enzymes': ['CPLX_dummy']}
+sec,{'enzymes': ['SYNPCC7942_0289-MONOMER']}
+secA,{'enzymes': ['SYNPCC7942_0289-MONOMER']}
+srp,{'enzymes': ['SYNPCC7942_2472-MONOMER']}
+srp_yidC,{'enzymes': ['SYNPCC7942_1617-MONOMER']}
+tat,{'enzymes': ['CPLX_dummy']}
+tat_alt,{'enzymes': ['CPLX_dummy']}
+yidC,{'enzymes': ['SYNPCC7942_1617-MONOMER']}

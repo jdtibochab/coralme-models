@@ -1,0 +1,4 @@
+,value
+RbfA_mono_assembly_factor_phase1,{'enzyme': 'USA300HOU_RS06400-MONOMER'}
+RimM_mono_assembly_factor_phase1,{'enzyme': 'USA300HOU_RS06230-MONOMER'}
+gtp_bound_30S_assembly_factor_phase1,{'enzyme': 'USA300HOU_RS08360-MONOMER'}

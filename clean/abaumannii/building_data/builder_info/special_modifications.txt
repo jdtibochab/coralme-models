@@ -1,0 +1,7 @@
+,value
+bmocogdp_chaperones,{'enzymes': ['CPLX_dummy']}
+fes_chaperones,{'enzymes': ['ABAYE_RS11960-MONOMER']}
+fes_transfer,"{'enzymes': ['ABAYE_RS00605-MONOMER', 'ABAYE_RS10345-MONOMER']}"
+generic_2fe2s_transfer_complex,{'enzymes': ['ABAYE_RS00605-MONOMER_mod_2fe2s(1)']}
+generic_4fe4s_transfer_complex,{'enzymes': ['ABAYE_RS00605-MONOMER_mod_4fe4s(1)']}
+lipoate_modifications,{'enzymes': ['CPLX_dummy']}

@@ -1,0 +1,62 @@
+,name,genes,source
+YPO0050-MONOMER,50S ribosomal protein L28,YPO0050(),GenBank
+YPO0051-MONOMER,50S ribosomal protein L33,YPO0051(),GenBank
+YPO0111-MONOMER,50S ribosomal protein L31,YPO0111(),GenBank
+YPO0200-MONOMER,30S ribosomal protein S12,YPO0200(),GenBank
+YPO0201-MONOMER,30S ribosomal protein S7,YPO0201(),GenBank
+YPO0209-MONOMER,30S ribosomal protein S10,YPO0209(),GenBank
+YPO0210-MONOMER,50S ribosomal protein L3,YPO0210(),GenBank
+YPO0211-MONOMER,50S ribosomal protein L4,YPO0211(),GenBank
+YPO0212-MONOMER,50S ribosomal protein L23,YPO0212(),GenBank
+YPO0213-MONOMER,50S ribosomal protein L2,YPO0213(),GenBank
+YPO0214-MONOMER,30S ribosomal protein S19,YPO0214(),GenBank
+YPO0215-MONOMER,50S ribosomal protein L22,YPO0215(),GenBank
+YPO0216-MONOMER,30S ribosomal protein S3,YPO0216(),GenBank
+YPO0217-MONOMER,50S ribosomal protein L16,YPO0217(),GenBank
+YPO0218-MONOMER,50S ribosomal protein L29,YPO0218(),GenBank
+YPO0219-MONOMER,30S ribosomal protein S17,YPO0219(),GenBank
+YPO0220-MONOMER,50S ribosomal protein L14,YPO0220(),GenBank
+YPO0221-MONOMER,50S ribosomal protein L24,YPO0221(),GenBank
+YPO0222-MONOMER,50S ribosomal protein L5,YPO0222(),GenBank
+YPO0222a-MONOMER,30S ribosomal protein S14,YPO0222a(),GenBank
+YPO0223-MONOMER,30S ribosomal protein S8,YPO0223(),GenBank
+YPO0224-MONOMER,50S ribosomal protein L6,YPO0224(),GenBank
+YPO0225-MONOMER,50S ribosomal protein L18,YPO0225(),GenBank
+YPO0226-MONOMER,30S ribosomal protein S5,YPO0226(),GenBank
+YPO0227-MONOMER,50S ribosomal protein L30,YPO0227(),GenBank
+YPO0228-MONOMER,50S ribosomal protein L15,YPO0228(),GenBank
+YPO0230-MONOMER,50S ribosomal protein L36,YPO0230(),GenBank
+YPO0231-MONOMER,30S ribosomal protein S13,YPO0231(),GenBank
+YPO0232-MONOMER,30S ribosomal protein S11,YPO0232(),GenBank
+YPO0233-MONOMER,30S ribosomal protein S4,YPO0233(),GenBank
+YPO0235-MONOMER,50S ribosomal protein L17,YPO0235(),GenBank
+YPO0429-MONOMER,ribosomal protein S18-alanine N-acetyltransferase,YPO0429(),GenBank
+YPO0472-MONOMER,30S ribosomal protein S20,YPO0472(),GenBank
+YPO0645-MONOMER,30S ribosomal protein S21,YPO0645(),GenBank
+YPO1044-MONOMER,30S ribosomal protein S2,YPO1044(),GenBank
+YPO1264-MONOMER,50S ribosomal protein L25,YPO1264(),GenBank
+YPO1385-MONOMER,30S ribosomal protein S12 methylthiotransferase accessory protein YcaO,YPO1385(),GenBank
+YPO1392-MONOMER,30S ribosomal protein S1,YPO1392(),GenBank
+YPO1595-MONOMER,50S ribosomal protein L32,YPO1595(),GenBank
+YPO2041-MONOMER,ribosomal protein S5-alanine N-acetyltransferase,YPO2041(),GenBank
+YPO2430-MONOMER,50S ribosomal protein L20,YPO2430(),GenBank
+YPO2431-MONOMER,50S ribosomal protein L35,YPO2431(),GenBank
+YPO2750-MONOMER,50S ribosomal protein L3 N(5)-glutamine methyltransferase,YPO2750(),GenBank
+YPO3134-MONOMER,type B 50S ribosomal protein L31,YPO3134(),GenBank
+YPO3135-MONOMER,type B 50S ribosomal protein L36,YPO3135(),GenBank
+YPO3292-MONOMER,50S ribosomal protein L19,YPO3292(),GenBank
+YPO3295-MONOMER,30S ribosomal protein S16,YPO3295(),GenBank
+YPO3493-MONOMER,30S ribosomal protein S15,YPO3493(),GenBank
+YPO3511-MONOMER,50S ribosomal protein L27,YPO3511(),GenBank
+YPO3512-MONOMER,50S ribosomal protein L21,YPO3512(),GenBank
+YPO3536-MONOMER,50S ribosomal protein L9,YPO3536(),GenBank
+YPO3537-MONOMER,30S ribosomal protein S18,YPO3537(),GenBank
+YPO3539-MONOMER,30S ribosomal protein S6,YPO3539(),GenBank
+YPO3562-MONOMER,30S ribosomal protein S9,YPO3562(),GenBank
+YPO3563-MONOMER,50S ribosomal protein L13,YPO3563(),GenBank
+YPO3656-MONOMER,50S ribosomal protein L11 methyltransferase,YPO3656(),GenBank
+YPO3748-MONOMER,50S ribosomal protein L7/L12,YPO3748(),GenBank
+YPO3749-MONOMER,50S ribosomal protein L10,YPO3749(),GenBank
+YPO3750-MONOMER,50S ribosomal protein L1,YPO3750(),GenBank
+YPO3751-MONOMER,50S ribosomal protein L11,YPO3751(),GenBank
+YPO4100-MONOMER,50S ribosomal protein L34,YPO4100(),GenBank

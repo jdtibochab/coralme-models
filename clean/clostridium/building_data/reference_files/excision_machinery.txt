@@ -1,0 +1,4 @@
+type	enzymes
+monocistronic	generic_RNase
+polycistronic_wout_rRNA	generic_RNase,CLJU_RS06290-MONOMER,CLJU_RS03620-MONOMER
+rRNA_containing	generic_RNase,CLJU_RS06290-MONOMER_mod_mg2(2),CLJU_RS03620-MONOMER

@@ -1,0 +1,3 @@
+subreaction	enzymes
+FusA_mono_elongation	VC_0361-MONOMER
+Tuf_gtp_regeneration	VC_2259-MONOMER

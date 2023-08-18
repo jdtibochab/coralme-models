@@ -1,0 +1,10 @@
+pathway	enzyme
+sec	HP_RS03830-MONOMER
+tat	CPLX_dummy
+tat_alt	CPLX_dummy
+bam	CPLX_dummy
+lol	CPLX_dummy
+yidC	HP_RS07180-MONOMER
+secA	HP_RS03830-MONOMER
+srp_yidC	HP_RS07180-MONOMER
+srp	HP_RS03720-MONOMER

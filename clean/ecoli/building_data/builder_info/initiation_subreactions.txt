@@ -1,0 +1,5 @@
+,value
+Translation_gtp_initiation_factor_InfB,{'enzymes': ['MONOMER0-4539']}
+Translation_initiation_factor_InfA,{'enzymes': ['EG10504-MONOMER']}
+Translation_initiation_factor_InfC,{'enzymes': ['EG10506-MONOMER']}
+fmet_addition_at_START,"{'enzymes': ['MONOMER0-4539', 'EG11268-MONOMER_mod_mg2(1)_mod_k(1)']}"

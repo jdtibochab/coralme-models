@@ -1,0 +1,3 @@
+subreaction	enzymes
+FusA_mono_elongation	YPO0202-MONOMER
+Tuf_gtp_regeneration	YPO1045-MONOMER

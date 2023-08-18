@@ -1,0 +1,3 @@
+subreaction	enzymes
+FusA_mono_elongation	SYNPCC7942_0885-MONOMER
+Tuf_gtp_regeneration	SYNPCC7942_2531-MONOMER

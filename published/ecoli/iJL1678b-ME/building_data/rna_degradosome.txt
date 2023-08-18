@@ -1,0 +1,6 @@
+enzymes
+Eno_dim_mod_mg2(4)
+Pnp_trim
+RNase_E_tetra_mod_zn2(2)
+RhlB_dim
+Orn_dim_mod_mg2(2)

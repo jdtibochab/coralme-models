@@ -1,0 +1,59 @@
+,name,genes,source
+S0022-MONOMER,30S ribosomal subunit protein S20,S0022(),GenBank
+S0162-MONOMER,30S ribosomal subunit protein S2,S0162(),GenBank
+S0848-MONOMER,ribosomal protein S6 modification protein,S0848(),GenBank
+S0971-MONOMER,30S ribosomal subunit protein S1,S0971(),GenBank
+S1173-MONOMER,50S ribosomal subunit protein L32,S1173(),GenBank
+S1632-MONOMER,50S ribosomal subunit protein A,S1632(),GenBank
+S1633-MONOMER,50S ribosomal subunit protein L20/regulator,S1633(),GenBank
+S2401-MONOMER,50S ribosomal subunit protein L25,S2401(),GenBank
+S2843-MONOMER,50S ribosomal subunit protein L19,S2843(),GenBank
+S2846-MONOMER,30S ribosomal subunit protein S16,S2846(),GenBank
+S3149-MONOMER,putative ribosomal protein,S3149(),GenBank
+S3311-MONOMER,30S ribosomal subunit protein S21,S3311(),GenBank
+S3423-MONOMER,30S ribosomal subunit protein S15,S3423(),GenBank
+S3443-MONOMER,50S ribosomal subunit protein L27,S3443(),GenBank
+S3444-MONOMER,50S ribosomal subunit protein L21,S3444(),GenBank
+S3485-MONOMER,30S ribosomal subunit protein S9,S3485(),GenBank
+S3486-MONOMER,50S ribosomal subunit protein L13,S3486(),GenBank
+S3514-MONOMER,methylase for 50S ribosomal subunit protein L11,S3514(),GenBank
+S3676-MONOMER,50S ribosomal subunit protein L7/L12,S3676(),GenBank
+S3677-MONOMER,50S ribosomal subunit protein L10,S3677(),GenBank
+S3678-MONOMER,50S ribosomal subunit protein L1,S3678(),GenBank
+S3679-MONOMER,50S ribosomal subunit protein L11,S3679(),GenBank
+S3733-MONOMER,50S ribosomal subunit protein L31,S3733(),GenBank
+S4010-MONOMER,50S ribosomal subunit protein L34,S4010(),GenBank
+S4092-MONOMER,50S ribosomal subunit protein L28,S4092(),GenBank
+S4093-MONOMER,50S ribosomal subunit protein L33,S4093(),GenBank
+S4402-MONOMER,30S ribosomal subunit protein S12,S4402(),GenBank
+S4403-MONOMER,30S ribosomal subunit protein S7,S4403(),GenBank
+S4409-MONOMER,30S ribosomal subunit protein S10,S4409(),GenBank
+S4410-MONOMER,50S ribosomal subunit protein L3,S4410(),GenBank
+S4411-MONOMER,50S ribosomal subunit protein L4,S4411(),GenBank
+S4412-MONOMER,50S ribosomal subunit protein L23,S4412(),GenBank
+S4413-MONOMER,50S ribosomal subunit protein L2,S4413(),GenBank
+S4414-MONOMER,30S ribosomal subunit protein S19,S4414(),GenBank
+S4415-MONOMER,50S ribosomal subunit protein L22,S4415(),GenBank
+S4416-MONOMER,30S ribosomal subunit protein S3,S4416(),GenBank
+S4417-MONOMER,50S ribosomal subunit protein L16,S4417(),GenBank
+S4418-MONOMER,50S ribosomal subunit protein L29,S4418(),GenBank
+S4419-MONOMER,30S ribosomal subunit protein S17,S4419(),GenBank
+S4420-MONOMER,50S ribosomal subunit protein L14,S4420(),GenBank
+S4421-MONOMER,50S ribosomal subunit protein L24,S4421(),GenBank
+S4422-MONOMER,50S ribosomal subunit protein L5,S4422(),GenBank
+S4423-MONOMER,30S ribosomal subunit protein S14,S4423(),GenBank
+S4424-MONOMER,"30S ribosomal subunit protein S8, and regulator",S4424(),GenBank
+S4425-MONOMER,50S ribosomal subunit protein L6,S4425(),GenBank
+S4426-MONOMER,50S ribosomal subunit protein L18,S4426(),GenBank
+S4427-MONOMER,30S ribosomal subunit protein S5,S4427(),GenBank
+S4428-MONOMER,50S ribosomal subunit protein L30,S4428(),GenBank
+S4429-MONOMER,50S ribosomal subunit protein L15,S4429(),GenBank
+S4431-MONOMER,50S ribosomal subunit protein L36,S4431(),GenBank
+S4432-MONOMER,30S ribosomal subunit protein S13,S4432(),GenBank
+S4433-MONOMER,30S ribosomal subunit protein S11,S4433(),GenBank
+S4434-MONOMER,30S ribosomal subunit protein S4,S4434(),GenBank
+S4436-MONOMER,50S ribosomal subunit protein L17,S4436(),GenBank
+S4625-MONOMER,30S ribosomal subunit protein S6,S4625(),GenBank
+S4627-MONOMER,30S ribosomal subunit protein S18,S4627(),GenBank
+S4628-MONOMER,50S ribosomal subunit protein L9,S4628(),GenBank
+S4676-MONOMER,acyltransferase for 30S ribosomal subunit protein S18,S4676(),GenBank

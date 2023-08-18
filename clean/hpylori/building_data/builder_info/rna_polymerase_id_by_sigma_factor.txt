@@ -1,0 +1,4 @@
+,value
+RNAP_HPRS00445MONOMER,"{'sigma_factor': 'HP_RS00445-MONOMER', 'polymerase': 'CPLX2DNV-976_mod_zn2(1)_mod_mg2(2)'}"
+RNAP_HPRS03480MONOMER,"{'sigma_factor': 'HP_RS03480-MONOMER', 'polymerase': 'CPLX2DNV-976_mod_zn2(1)_mod_mg2(2)'}"
+RNAP_HPRS05070MONOMER,"{'sigma_factor': 'HP_RS05070-MONOMER', 'polymerase': 'CPLX2DNV-976_mod_zn2(1)_mod_mg2(2)'}"

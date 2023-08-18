@@ -1,0 +1,4 @@
+codon	enzyme
+UAG	G12WB-3664-MONOMER
+UGA	G12WB-248-MONOMER
+UAA	generic_RF

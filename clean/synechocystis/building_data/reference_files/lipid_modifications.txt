@@ -1,0 +1,3 @@
+lipid_mod	enzymes
+other_lipids	SGL_RS09925-MONOMER
+pg_pe_160	SGL_RS03335-MONOMER,SGL_RS07065-MONOMER

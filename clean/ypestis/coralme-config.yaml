@@ -1,0 +1,152 @@
+ME-Model-ID: ypestis
+growth_key: mu1
+complex_cofactors:
+  fes_transfers:
+  - YPO3387-MONOMER
+  - YPO2404-MONOMER
+  - YPO2894-MONOMER
+  biotin_subreactions:
+    mod_btn_c:
+    - biotin_ligase
+  lipoate_subreactions:
+    mod_lipoyl_c:
+    - lipoyl_denovo
+    - lipoyl_scavenging
+  fes_chaperones: {}
+  bmocogdp_chaperones: {}
+  FeFe/NiFe:
+    mod_FeFe_cofactor_c: ''
+    mod_NiFe_cofactor_c: ''
+lipoprotein_precursors:
+  AcrA: YPO3132
+  BamB: YPO2876
+  BamC: YPO3061
+  BamD: YPO3278
+  BamE: YPO1104
+  CusC: YPO3481
+  EG10544-MONOMER: YPO2394
+  EmtA: YPO2438
+  LolB: YPO2015
+  MetQ: YPO1071
+  MltA: YPO1025
+  MltB: YPO2957
+  MltC: YPO0954
+lipid_modifications:
+- pg181_p
+- pg140_p
+- pg120_p
+- pg161_p
+- pg141_p
+- pg180_p
+- pg160_p
+unmodeled_protein_fraction: 0.36
+flux_of_biomass_constituents: {}
+flux_of_lipid_constituents: {}
+braun's_lipoprotein: []
+braun's_lpp_flux: -0.0
+braun's_murein_flux: -0.0
+gr_data_doublings_per_hour:
+- 0
+- 0.6
+- 1.0
+- 1.5
+- 2.0
+- 2.5
+percent_dna_data:
+- 0.0592
+- 0.0512
+- 0.033
+- 0.0252
+- 0.0222
+- 0.0208
+defer_to_rxn_matrix:
+- BIOMASS_37C
+- FMETTRS
+- ATPM
+m-model-path: ./ypestis//building_data/m_model_modified.json
+genbank-path: ./ypestis//building_data/genome_modified.gb
+biocyc.genes: ''
+biocyc.prots: ''
+biocyc.TUs: ''
+biocyc.RNAs: ''
+biocyc.seqs: ''
+df_gene_cplxs_mods_rxns: ./ypestis/building_data/automated-org-with-refs.xlsx
+df_TranscriptionalUnits: ./ypestis//building_data/TUs_from_biocyc.txt
+out_directory: ./ypestis/
+log_directory: ./ypestis/
+run_bbh_blast: false
+dev_reference: false
+include_pseudo_genes: true
+locus_tag: old_locus_tag
+selenocysteine_enzymes:
+- CPLX_dummy
+pg_pe_160:
+- YPO0784-MONOMER
+- YPO0476-MONOMER
+other_lipids:
+- YPO2616-MONOMER
+rna_polymerases:
+  RNAP_YPO0643MONOMER:
+    sigma_factor: YPO0643-MONOMER
+    polymerase: RNAP-CPLX_mod_zn2(1)_mod_mg2(2)
+  RNAP_YPO0745MONOMER:
+    sigma_factor: YPO0745-MONOMER
+    polymerase: RNAP-CPLX_mod_zn2(1)_mod_mg2(2)
+  RNAP_YPO1843MONOMER:
+    sigma_factor: YPO1843-MONOMER
+    polymerase: RNAP-CPLX_mod_zn2(1)_mod_mg2(2)
+  RNAP_YPO2711MONOMER:
+    sigma_factor: YPO2711-MONOMER
+    polymerase: RNAP-CPLX_mod_zn2(1)_mod_mg2(2)
+  RNAP_YPO3355MONOMER:
+    sigma_factor: YPO3355-MONOMER
+    polymerase: RNAP-CPLX_mod_zn2(1)_mod_mg2(2)
+  RNAP_YPO3582MONOMER:
+    sigma_factor: YPO3582-MONOMER
+    polymerase: RNAP-CPLX_mod_zn2(1)_mod_mg2(2)
+  RNAP_YPO3811MONOMER:
+    sigma_factor: YPO3811-MONOMER
+    polymerase: RNAP-CPLX_mod_zn2(1)_mod_mg2(2)
+ngam: 1.0
+gam: 45.5608
+translocation_multipliers:
+  YPO4102-MONOMER:
+    YPO2063: 2.0
+    YPO4120: 2.0
+  YPO3778-MONOMER:
+    YPO1023: 22.0
+    YPO4057: 15.5
+    YPO3391: 21.0
+    YPO4058: 15.5
+    YPO0929: 6.25
+    YPO0794: 26.0
+    YPO3325: 26.0
+    YPO3409: 23.0
+    YPO3038: 27.0
+amino_acid_trna_synthetase:
+  ala__L_c: YPO3305-MONOMER
+  arg__L_c: YPO2046-MONOMER
+  asn__L_c: YPO1412-MONOMER
+  asp__L_c: YPO2053-MONOMER
+  cys__L_c: YPO3073-MONOMER
+  gln__L_c: YPO2630-MONOMER
+  glu__L_c: YPO2984-MONOMER
+  gly_c: CPLX-tRNA-GLY-LIGASE
+  his__L_c: YPO2878-MONOMER
+  ile__L_c: YPO0475-MONOMER
+  leu__L_c: YPO2610-MONOMER
+  lys__L_c: YPO0888-MONOMER
+  met__L_c: YPO1522-MONOMER
+  phe__L_c: CPLX-tRNA-PHE-LIGASE
+  pro__L_c: YPO1068-MONOMER
+  ser__L_c: YPO1379-MONOMER
+  thr__L_c: YPO2433-MONOMER
+  trp__L_c: YPO0157-MONOMER
+  tyr__L_c: YPO2369-MONOMER
+  val__L_c: YPO3443-MONOMER
+peptide_release_factors:
+  UAG: YPO2017-MONOMER
+  UGA: YPO0889-MONOMER
+  UAA: generic_RF
+braun's_lipoproteins:
+- YPO2394-MONOMER

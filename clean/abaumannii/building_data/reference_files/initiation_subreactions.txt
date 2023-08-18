@@ -1,0 +1,5 @@
+subreaction	enzymes
+Translation_gtp_initiation_factor_InfB	ABAYE_RS17090-MONOMER
+Translation_initiation_factor_InfA	ABAYE_RS16670-MONOMER
+Translation_initiation_factor_InfC	ABAYE_RS15800-MONOMER
+fmet_addition_at_START	ABAYE_RS17090-MONOMER,ABAYE_RS00675-MONOMER_mod_mg2(1)_mod_k(1)

@@ -1,0 +1,5 @@
+sigma,complex,genes,name
+S2808-MONOMER,RNAP_S2808MONOMER,S2808(),sigma-E factor of RNA polymerase
+S3313-MONOMER,RNAP_S3313MONOMER,S3313(),sigmaD(70) factor of RNA polymerase
+S3460-MONOMER,RNAP_S3460MONOMER,S3460(),sigma(54 or 60) factor of RNA polymerase
+S4284-MONOMER,RNAP_S4284MONOMER,S4284(),sigma(32) factor of RNA polymerase

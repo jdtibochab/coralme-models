@@ -1,0 +1,3 @@
+,value
+FusA_mono_elongation,{'enzymes': ['JCVISYN3A_0150-MONOMER']}
+Tuf_gtp_regeneration,{'enzymes': ['JCVISYN3A_0539-MONOMER']}

@@ -1,0 +1,585 @@
+
+#################### critical@org.check_m_model ####################
+********** Some metabolites are missing their formula
+The following items triggered the warning:
+adphep_DD_c
+
+**********Solution:
+Correct the formulas of the listed metabolites. Some metabolite formulas are critical for the completion of this pipeline. If homology is ON, this pipeline will try to fill in the formulas from the reference.
+
+#################### critical@org.check_m_model ####################
+********** Some metabolites have a problematic formula. If these metabolites are used in protein modifications, or other subreactions, it will cause an error.
+The following items triggered the warning:
+apoACP_c
+ACP_c
+mstrACP_c
+4hbzACP_c
+palmACP_c
+arachACP_c
+mmmeroacidcyc1ACP_c
+mkmeroacidcyc1ACP_c
+malACP_c
+phdcaACP_c
+meroacidcyc2ACP_c
+mmeroacidcyc2ACP_c
+trnaglu_c
+kmeroacidcyc2ACP_c
+meroacidACP_c
+meroacidcyc1ACP_c
+mmeroacidACP_c
+mmeroacidcyc1ACP_c
+kmeroacidACP_c
+kmeroacidcyc1ACP_c
+mmmeroacidACP_c
+mkmeroacidACP_c
+lpro_c
+alpro_c
+dhlpro_c
+prephthACP_c
+prepphthACP_c
+trdrd_c
+trdox_c
+moadcosh_c
+moadcoo_c
+accb_c
+bccp_c
+bccpco2_c
+alatrna_c
+argtrna_c
+asntrna_c
+asptrna_c
+cystrna_c
+fmettrna_c
+glntrna_c
+trnagly_c
+glytrna_c
+histrna_c
+iletrna_c
+leutrna_c
+lystrna_c
+trnaphe_c
+trnapro_c
+sertrna_sec_c
+sectrna_c
+sertrna_c
+trnathr_c
+trnatrp_c
+trnatyr_c
+hdcaMAS_c
+tyrtrna_c
+valtrna_c
+mas_c
+c78mycolateACP_c
+
+**********Solution:
+Correct the formulas of the listed metabolites. Some metabolite formulas are critical for the completion of this pipeline. If homology is ON, this pipeline will try to fill in the formulas from the reference.
+
+#################### high@org.check_m_model ####################
+********** Some reactions are missing their subsystem
+The following items triggered the warning:
+EGTD
+DGTP8DETOX
+DGTP8OXO
+GTP8OXO
+
+**********Solution:
+Make sure the subsystems of these reactions are correct
+
+#################### critical@org.check_m_model ####################
+********** Some metabolites have no reactions associated
+The following items triggered the warning:
+tarab__D_c
+seramp_c
+trnaglu_c
+adphep_DD_c
+ptdcacoa_c
+ptdca_c
+nondca_c
+alatrna_c
+argtrna_c
+asntrna_c
+asptrna_c
+cystrna_c
+fmettrna_c
+glntrna_c
+histrna_c
+iletrna_c
+leutrna_c
+lystrna_c
+trnaphe_c
+trnapro_c
+sertrna_c
+trnathr_c
+trnatrp_c
+valtrna_c
+mmycolate87_c
+amycolate82_c
+
+**********Solution:
+Make sure these metabolites are removed or connected properly
+
+
+
+
+#################### medium@org.read_gene_dictionary ####################
+********** Some genes are missing Accession-1 IDs in genes.txt
+The following items triggered the warning:
+G185E-8383
+G185E-8066
+G185E-6721
+G185E-4120
+G185E-8011
+G185E-6566
+G185E-5154
+G185E-7458
+G185E-6348
+G185E-4984
+G185E-7247
+G185E-5527
+G185E-4903
+G185E-6890
+G185E-4774
+G185E-8072
+G185E-6748
+G185E-4134
+G185E-8042
+G185E-6695
+G185E-5177
+G185E-7923
+G185E-6452
+G185E-4985
+G185E-7248
+G185E-5814
+G185E-4982
+G185E-6891
+G185E-5217
+G185E-4775
+G185E-6756
+G185E-4441
+G185E-8065
+G185E-6696
+G185E-4119
+G185E-7969
+G185E-6531
+G185E-5074
+G185E-7329
+G185E-5912
+G185E-4983
+G185E-6892
+G185E-5465
+G185E-4780
+G185E-6889
+G185E-4700
+G185E-6385
+G185E-4746
+G185E-8141
+G185E-5928
+G185E-7944
+G185E-5557
+G185E-7875
+G185E-5436
+G185E-6801
+G185E-5325
+G185E-6438
+G185E-4974
+G185E-6087
+G185E-4365
+G185E-8010
+G185E-5880
+G185E-7932
+G185E-5490
+G185E-6804
+G185E-5366
+G185E-6459
+G185E-5212
+G185E-6252
+G185E-4614
+G185E-8139
+G185E-5920
+G185E-7942
+G185E-5544
+G185E-7362
+G185E-5392
+G185E-6622
+G185E-5257
+G185E-5492
+G185E-5493
+
+**********Solution:
+Complete Accession-1 IDs in genes.txt if those genes are important.
+
+
+
+
+#################### medium@org.generate_complexes_df ####################
+********** Some proteins have no genes in proteins.txt
+The following items triggered the warning:
+EG10823-MONOMER
+G185E-7171-MONOMER
+G185E-7289-MONOMER
+G185E-7288-MONOMER
+CPLX185E-103
+EG50003-MONOMER
+
+**********Solution:
+Fill genes in proteins.txt
+
+
+
+
+#################### medium@org.sync_files ####################
+********** The types of some genes (e.g. CDS, RNA...) could not be identified. Is Product or Gene Name missing?
+The following items triggered the warning:
+G185E-8383
+G185E-8383
+Rv2098c
+Rv2098c
+Rv1150
+Rv1150
+Rv3324A
+Rv3324A
+Rv3022c
+Rv3022c
+Rv2099c
+Rv2099c
+Rv1792
+Rv1792
+Rv0277A
+Rv0277A
+Rv3128c
+Rv3128c
+Rv2427A
+Rv2427A
+Rv2023A
+Rv2023A
+Rv0947c
+Rv0947c
+Rv3216
+Rv3216
+Rv3021c
+Rv3021c
+
+**********Solution:
+Manually fill the products (with types) of these genes in genes.txt
+
+
+
+
+#################### critical@org.get_rpod ####################
+********** RpoD randomly assigned to G185E-7691-MONOMER
+
+**********Solution:
+genome.gb does not have a valid annotation for RpoD. A random identified sigma factor in me_builder.org.sigmas was set as RpoD so that the builder can continue running. Set the correct RpoD by running me_builder.org.rpod = correct_rpod
+
+
+
+
+#################### medium@org.get_rna_polymerase ####################
+********** RNAP was identified with subunits Rv0667, Rv0668, Rv1390, Rv3457c
+
+**********Solution:
+Check whether the correct proteins were called as subunits of RNAP. If not find correct RNAP complex and run me_builder.org.get_rna_polymerase(force_RNAP_as=correct_RNAP)
+
+
+
+
+#################### medium@org.get_TU_df ####################
+********** Some genes appear in TUs.txt but not in genes.txt
+The following items triggered the warning:
+G185E-4400
+G185E-7600
+G185E-7487
+G185E-6305
+G185E-6304
+G185E-6658
+G185E-5317
+G185E-7281
+G185E-7280
+G185E-7392
+G185E-5987
+G185E-6226
+G185E-5102
+
+**********Solution:
+If those genes are supposed to be in the model, fill them in genes.txt
+
+#################### medium@org.get_TU_df ####################
+********** Some TUs are either empty (no genes in TUs.txt) or contain genes that are not in genes.txt
+The following items triggered the warning:
+TU185E-6242
+TU185E-6431
+TU185E-7299
+TU185E-6083
+TU185E-5656
+
+**********Solution:
+If those TUs contain genes that are supposed to be in the model, fill them in TUs.txt and genes.txt
+
+
+
+
+#################### high@org.get_trna_synthetase ####################
+********** No tRNA ligases were found for some amino acids. Assigned CPLX_dummy.
+The following items triggered the warning:
+asn__L_c
+asp__L_c
+cys__L_c
+gln__L_c
+lys__L_c
+tyr__L_c
+val__L_c
+
+**********Solution:
+Check whether your organism should have a ligase for these amino acids, or if you need to add a reaction to get it (e.g. tRNA amidotransferases)
+
+
+
+
+#################### medium@org.get_complex_homology ####################
+********** Some complexes were partial hits in the BLAST
+The following items triggered the warning:
+
+{"complex": "G185E-8156-MONOMER", "reference_complex": "GLUTAMATESYN-CPLX"}
+
+{"complex": "G185E-7418-MONOMER", "reference_complex": "NADH-DHI-CPLX"}
+
+{"complex": "G185E-5567-MONOMER", "reference_complex": "CARBPSYN-CPLX"}
+
+{"complex": "G185E-7309-MONOMER", "reference_complex": "RIBONUCLEOSIDE-DIP-REDUCTII-CPLX"}
+
+{"complex": "G185E-6627-MONOMER", "reference_complex": "ABC-70-CPLX"}
+
+{"complex": "G185E-6243-MONOMER", "reference_complex": "ABC-34-CPLX"}
+
+{"complex": "G185E-5840-MONOMER", "reference_complex": "Phe_RS_tetra"}
+
+{"complex": "G185E-7599-MONOMER", "reference_complex": "EG11595-MONOMER_EG11666-MONOMER"}
+
+{"complex": "G185E-5457-MONOMER", "reference_complex": "CPLX0-7428"}
+
+{"complex": "G185E-5801-MONOMER", "reference_complex": "TRYPSYN"}
+
+{"complex": "G185E-6740-MONOMER", "reference_complex": "ACETOACETYL-COA-TRANSFER-CPLX"}
+
+{"complex": "G185E-5189-MONOMER", "reference_complex": "ATPASE-1-CPLX_no_MONOMER0-12"}
+
+{"complex": "G185E-4375-MONOMER", "reference_complex": "NITRITREDUCT-CPLX"}
+
+{"complex": "G185E-7845-MONOMER", "reference_complex": "G6523-MONOMER_G6518-MONOMER"}
+
+{"complex": "G185E-8208-MONOMER", "reference_complex": "CPLX0-3951_G6561-MONOMER"}
+
+{"complex": "G185E-5107-MONOMER", "reference_complex": "SUCCCOASYN"}
+
+{"complex": "G185E-5090-MONOMER", "reference_complex": "ABC-27-CPLX"}
+
+{"complex": "G185E-7260-MONOMER", "reference_complex": "ACETOLACTSYNIII-CPLX"}
+
+{"complex": "G185E-7242-MONOMER", "reference_complex": "3-ISOPROPYLMALISOM-CPLX"}
+
+{"complex": "G185E-4589-MONOMER", "reference_complex": "2OXOGLUTARATEDEH-CPLX"}
+
+{"complex": "G185E-4589-MONOMER", "reference_complex": "GCVMULTI-CPLX"}
+
+{"complex": "G185E-4272-MONOMER", "reference_complex": "PYRNUTRANSHYDROGEN-CPLX"}
+
+{"complex": "G185E-5645-MONOMER", "reference_complex": "CPLX0-1341"}
+
+{"complex": "G185E-4810-MONOMER", "reference_complex": "hRNAP"}
+
+{"complex": "G185E-5793-MONOMER", "reference_complex": "GLUTAMIDOTRANS-CPLX"}
+
+{"complex": "CPLX185E-34", "reference_complex": "CPLX0-3952"}
+
+{"complex": "CPLX185E-34", "reference_complex": "LUMAZINESYN-CPLX"}
+
+{"complex": "CPLX185E-30", "reference_complex": "ANTHRANSYN-CPLX"}
+
+{"complex": "CPLX_AIRCr-0", "reference_complex": "PURE-CPLX"}
+
+{"complex": "CPLX_AIRCr-0", "reference_complex": "PURK-CPLX"}
+
+{"complex": "CPLX_METS-0", "reference_complex": "HOMOCYSMETB12-MONOMER"}
+
+{"complex": "CPLX_METS-0", "reference_complex": "HOMOCYSMET-MONOMER"}
+
+{"complex": "CPLX_PFK-0", "reference_complex": "6PFK-2-CPX"}
+
+{"complex": "CPLX_PFK-0", "reference_complex": "6PFK-1-CPX"}
+
+{"complex": "CPLX_PPTGS-0", "reference_complex": "EG10341-MONOMER"}
+
+{"complex": "CPLX_PPTGS-0", "reference_complex": "EG10202-MONOMER"}
+
+{"complex": "CPLX_UMPK-0", "reference_complex": "CMPKI-MONOMER"}
+
+{"complex": "CPLX_UMPK-0", "reference_complex": "UMPKI-CPLX"}
+
+**********Solution:
+Curate these manually in protein_corrections.txt
+
+
+
+
+#################### medium@update_me_mets ####################
+********** Some metabolites in me_metabolites.txt are not in m_model, so they were skipped.
+The following items triggered the warning:
+sufbcd_2fe2s_c
+sufbcd_2fe2s2_c
+sufbcd_4fe4s_c
+iscu_2fe2s_c
+iscu_2fe2s2_c
+iscu_4fe4s_c
+
+**********Solution:
+Confirm these metabolites are correctly defined in me_metabolites.txt
+
+
+
+
+#################### medium@update_ribosome_subreactions_from_homology ####################
+********** Some enzymes defined in me_builder.org.ribosome_subreactions are different from the ones inferred from homology
+The following items triggered the warning:
+
+{"subreaction": "gtp_bound_30S_assembly_factor_phase1", "defined_complex": "", "inferred_complex": "G185E-6590-MONOMER"}
+
+{"subreaction": "RimM_mono_assembly_factor_phase1", "defined_complex": "", "inferred_complex": "G185E-7159-MONOMER"}
+
+**********Solution:
+Confirm whether the definitions or homology calls are correct in me_builder.org.ribosome_subreactions. Curate the inputs in ribosome_subreactions.txt accordingly.
+
+
+
+
+#################### medium@check ####################
+********** Some metabolites in me_metabolites.txt need curation
+The following items triggered the warning:
+mstrACP_c
+4hbzACP_c
+arachACP_c
+mmmeroacidcyc1ACP_c
+mkmeroacidcyc1ACP_c
+phdcaACP_c
+meroacidcyc2ACP_c
+mmeroacidcyc2ACP_c
+kmeroacidcyc2ACP_c
+meroacidACP_c
+meroacidcyc1ACP_c
+mmeroacidACP_c
+mmeroacidcyc1ACP_c
+kmeroacidACP_c
+kmeroacidcyc1ACP_c
+mmmeroacidACP_c
+mkmeroacidACP_c
+prephthACP_c
+prepphthACP_c
+sertrna_sec_c
+c78mycolateACP_c
+LI_c
+sufbcd_c
+sufse_c
+sufsesh_c
+dsbard_p
+dsbaox_p
+dsbcrd_p
+dsbcox_p
+dsbdrd_c
+dsbdox_c
+dsbgrd_p
+dsbgox_p
+lpp_p
+alpp_p
+moadamp_c
+moadcoo_c
+moadcosh_c
+apoACP_c
+ACP_c
+3haACP_c
+3hcddec5eACP_c
+3hcmrs7eACP_c
+3hcpalm9eACP_c
+3hcvac11eACP_c
+3hddecACP_c
+3hdecACP_c
+3hhexACP_c
+3hmrsACP_c
+3hoctACP_c
+3hoctaACP_c
+3hpalmACP_c
+3ocddec5eACP_c
+3ocmrs7eACP_c
+3ocvac11eACP_c
+3oddecACP_c
+3odecACP_c
+3ohexACP_c
+3omrsACP_c
+3ooctACP_c
+3ooctdACP_c
+3opalmACP_c
+3ocpalm9eACP_c
+acACP_c
+actACP_c
+butACP_c
+but2eACP_c
+cddec5eACP_c
+cdec3eACP_c
+dcaACP_c
+ddcaACP_c
+egmeACP_c
+epmeACP_c
+gmeACP_c
+hdeACP_c
+hexACP_c
+hgmeACP_c
+hpmeACP_c
+malACP_c
+myrsACP_c
+ocACP_c
+ocdcaACP_c
+octeACP_c
+ogmeACP_c
+opmeACP_c
+palmACP_c
+pimACP_c
+pmeACP_c
+t3c11vaceACP_c
+t3c5ddeceACP_c
+t3c7mrseACP_c
+t3c9palmeACP_c
+tddec2eACP_c
+tdeACP_c
+tdec2eACP_c
+thex2eACP_c
+tmrs2eACP_c
+toct2eACP_c
+toctd2eACP_c
+tpalm2eACP_c
+flxr_c
+fldrd_c
+flxso_c
+fldox_c
+grxrd_c
+grxox_c
+iscssh_c
+iscu_c
+
+**********Solution:
+Map or remove these metabolites in me_metabolites.txt
+
+
+
+
+#################### critical@troubleshoot ####################
+********** Some metabolites are necessary for growth
+The following items triggered the warning:
+TS_k_c
+TS_4fe4s_c
+TS_cobalt2_c
+TS_mn2_c
+TS_zn2_c
+
+**********Solution:
+Fix the gaps by adding reactions or solving other warnings. If some items are from the E-matrix, fix these first!
+
+
+

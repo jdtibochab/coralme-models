@@ -1,0 +1,17 @@
+{
+  "m-model-path": "./liberibacter/inputs/m_model.json",
+  "genbank-path": "./liberibacter/inputs/genome.gb",
+  "biocyc.genes": "./liberibacter/inputs/genes.txt",
+  "biocyc.prots": "./liberibacter/inputs/proteins.txt",
+  "biocyc.TUs": "./liberibacter/inputs/TUs.txt",
+  "biocyc.RNAs": "./liberibacter/inputs/RNAs.txt",
+  "biocyc.seqs": "./liberibacter/inputs/sequences.fasta",
+  "df_gene_cplxs_mods_rxns": "./liberibacter/building_data/automated-org-with-refs.xlsx",
+  "df_TranscriptionalUnits": "",
+  "out_directory": "./liberibacter/",
+  "log_directory": "./liberibacter/",
+  "run_bbh_blast": true,
+  "dev_reference": true,
+  "include_pseudo_genes": true,
+  "feasibility_mu": 0.01
+}

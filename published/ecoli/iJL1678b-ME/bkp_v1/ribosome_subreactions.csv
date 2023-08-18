@@ -1,0 +1,4 @@
+	enzyme	stoich	num_mods
+gtp_bound_30S_assembly_factor_phase1	Era_dim	gtp_c:-2,h2o_c:-2,h_c:2,pi_c:2,gdp_c:2	1
+RbfA_mono_assembly_factor_phase1	RbfA_mono		1
+RimM_mono_assembly_factor_phase1	RimM_mono		1

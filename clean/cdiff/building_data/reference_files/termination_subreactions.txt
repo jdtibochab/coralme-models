@@ -1,0 +1,10 @@
+subreaction	enzymes
+DnaK_dependent_folding	G12WB-2616-MONOMER,G12WB-2615-MONOMER_mod_zn2(4),G12WB-2617-MONOMER
+GroEL_dependent_folding	G12WB-299-MONOMER,G12WB-298-MONOMER
+N_terminal_methionine_cleavage	G12WB-1735-MONOMER_mod_fe2(2)
+PrfA_mono_mediated_termination	G12WB-3664-MONOMER
+PrfB_mono_mediated_termination	G12WB-248-MONOMER
+generic_RF_mediated_termination	generic_RF
+peptide_chain_release	CPLX_dummy
+peptide_deformylase_processing	G12WB-2741-MONOMER_mod_fe2(1)
+ribosome_recycler	G12WB-2294-MONOMER

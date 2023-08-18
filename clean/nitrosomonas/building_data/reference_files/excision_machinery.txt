@@ -1,0 +1,4 @@
+type	enzymes
+monocistronic	ALW85_RS07625-MONOMER_mod_zn2(2),generic_RNase
+polycistronic_wout_rRNA	ALW85_RS07625-MONOMER_mod_zn2(2),generic_RNase,ALW85_RS12120-MONOMER
+rRNA_containing	ALW85_RS07625-MONOMER_mod_zn2(2),generic_RNase,ALW85_RS12120-MONOMER_mod_mg2(2)

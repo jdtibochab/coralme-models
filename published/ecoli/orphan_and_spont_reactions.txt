@@ -1,0 +1,277 @@
+name	description	is_reversible	is_spontaneous	subsystems
+ACALDtpp	acetaldehyde reversible transport (periplasm)	True	True
+ACONIs	aconitate isomerase (spontaneous)	True	True
+AOBUTDs	L-2-amino-3-oxobutanoate decarboxylation (spontaneous)	False	True
+ARBTNexs	aerobactin Fe-loading reaction (spontaneous)	False	True
+ATPHs	ATP amine hydrolysis (spontaneous)	False	True
+CBMD	carbamate deaminase	False	True
+CO2tpp	CO2 transporter via diffusion (periplasm)	True	True
+CPGNexs	coprogen Fe-loading reaction (spontaneaous)	False	True
+CPLX0-782_mod_4fe4s(2)_regeneration	CPLX0-782_mod_4fe4s(2)_regeneration	False	True
+DATPHs	dATP amine hydrolysis (spontaneous)	False	True
+DHPTDCs2	4,5-dihydroxy-2,3-pentanedione cyclization (spontaneous)	False	True
+DMSOtpp	Dimethyl sulfoxide transport via diffusion (periplasm)	True	True
+ETOHtrpp	ethanol reversible transport via diffusion (periplasm)	True	True
+FALDtpp	formaldehyde transport via diffusion (periplasm)	True	True
+FALGTHLs	formaldehyde glutathione ligase (spontaneous)	True	True
+FE3HOXexs	Fe(III) hydroxamate Fe-loading reaction (spontaneaous)	False	True
+FECRMexs	ferrichrome Fe(III)-loading reaction (spontaneous)	False	True
+FEENTERexs	enterobactin Fe(III) binding (spontaneous)	False	True
+FEOXAMexs	ferroxamine Fe3-loading reaction (spontaneous)	False	True
+G5SADs	L-glutamate 5-semialdehyde dehydratase (spontaneous)	False	True
+GTPHs	GTP amine hydrolysis (spontaneous)	False	True
+H2St1pp	h2s transport (periplasm)	False	True
+H2tpp	hydrogen transport diffusion (periplasm)	True	True
+MEOHtrpp	Methanol reversible transport via diffusion (periplasm)	True	True
+METOX1s	methionine oxidation (spontaneous)	False	True
+METOX2s	methionine oxidation 2 (spontaneous)	False	True
+MTHTHFSs	(2R,4S)-2-methyl-2,3,3,4-tetrahydroxytetrahydrofuran synthesis (spontaneous)	False	True
+N2Otpp	nitrous oxide transport (diffusion)	True	True
+NOtpp	NO transport (diffusion)	True	True
+NOVBCNtex	Novobiocin transport via diffusion (extracellular to periplasm)	True	True
+O2tpp	O2 transport via diffusion (periplasm)	True	True
+OMCDC	2-Oxo-4-methyl-3-carboxypentanoate decarboxylation	False	True
+RFAMPtex	Rifampin transport via diffusion (extracellular to periplasm)	True	True
+SO2tpp	SO2 transport via diffusion (periplasm)	True	True
+
+GLYCtpp	glycerol transport via channel (periplasm)	True	True
+H2Otex	H2O transport via diffusion (extracellular to periplasm)	True	True
+H2Otpp	H2O transport via diffusion (periplasm)	True	True
+NH4tpp	ammonia reversible transport (periplasm)	True	True
+
+Fe_transfer_CyaY_mod_fe2(1)_to_IscU		False	False
+Fe_transfer_CyaY_mod_fe2(1)_to_IscU_mod_2Fe2S(1)		False	False
+Fe_transfer_CyaY_mod_fe2(1)_to_IscU_mod_2Fe2S(1)_mod_fe2(1)		False	False
+Fe_transfer_CyaY_mod_fe2(1)_to_IscU_mod_fe2(1)		False	False
+
+IscU_Fe_loading		False	False
+IscU_mod_fe2(1)_Fe_loading		False	False
+
+S_transfer_to_IscU_mod_2Fe1S(1)		False	False
+S_transfer_to_IscU_mod_2Fe2S(1)_mod_2Fe1S(1)		False	False
+S_transfer_to_IscU_mod_2Fe2S(1)_mod_fe2(2)		False	False
+S_transfer_to_IscU_mod_fe2(2)		False	False
+S_transfer_to_SufBCD_mod_2Fe1S(1)		False	False
+S_transfer_to_SufBCD_mod_2Fe2S(1)_mod_2Fe1S(1)		False	False
+S_transfer_to_SufBCD_mod_2Fe2S(1)_mod_fe2(2)		False	False
+S_transfer_to_SufBCD_mod_fe2(2)		False	False
+
+SufBCD_2fe2s(2)_to_SufBCD_4fe4s(1)		False	False
+SufBCDatp_mediated_FE_loading		False	False
+SufBCD_mod_2Fe2S(1)_atp_mediated_FE_loading		False	False
+SufBCD_mod_2Fe2S(1)_mod_fe2(1)_atp_mediated_FE_loading		False	False
+SufBCD_mod_fe2(1)_atp_mediated_FE_loading		False	False
+
+23bpg_generation	23bpg_generation	False	False
+2Fe2S_to_ErpA_by_IscA	2Fe2S_to_ErpA_by_IscA	False	False
+2Fe2S_to_ErpA_by_IscU	2Fe2S_to_ErpA_by_IscU	False	False
+2Fe2S_to_ErpA_by_SufA	2Fe2S_to_ErpA_by_SufA	False	False
+2Fe2S_to_IscA_by_IscU	2Fe2S_to_IscA_by_IscU	False	False
+2Fe2S_to_IscA_by_SufBCD	2Fe2S_to_IscA_by_SufBCD	False	False
+2Fe2S_to_SufA_by_IscU	2Fe2S_to_SufA_by_IscU	False	False
+3HAD1001	3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C10:0)	False	False
+3HAD1201	3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C12:0)	False	False
+3HAD1211	3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C12:1)	False	False
+3HAD1401	3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C14:0)	False	False
+3HAD1411	3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C14:1)	False	False
+3HAD1601	3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C16:0)	False	False
+3HAD1611	3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C16:1)	False	False
+3HAD1801	3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C18:0)	False	False
+3HAD1811	3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C18:1)	False	False
+3HAD401	3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C4:0)	False	False
+3HAD601	3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C6:0)	False	False
+3HAD801	3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C8:0)	False	False
+3OAR1001	3-oxoacyl-[acyl-carrier-protein] reductase (n-C10:0)	True	False
+3OAR1201	3-oxoacyl-[acyl-carrier-protein] reductase (n-C12:0)	True	False
+3OAR1211	3-oxoacyl-[acyl-carrier-protein] reductase (n-C12:1)	False	False
+3OAR1401	3-oxoacyl-[acyl-carrier-protein] reductase (n-C14:0)	True	False
+3OAR1411	3-oxoacyl-[acyl-carrier-protein] reductase (n-C14:1)	False	False
+3OAR1601	3-oxoacyl-[acyl-carrier-protein] reductase (n-C16:0)	True	False
+3OAR1611	3-oxoacyl-[acyl-carrier-protein] reductase (n-C16:1)	False	False
+3OAR1801	3-oxoacyl-[acyl-carrier-protein] reductase (n-C18:0)	True	False
+3OAR1811	3-oxoacyl-[acyl-carrier-protein] reductase (n-C18:1)	False	False
+3OAR401	3-oxoacyl-[acyl-carrier-protein] reductase (n-C4:0)	True	False
+3OAR601	3-oxoacyl-[acyl-carrier-protein] reductase (n-C6:0)	True	False
+3OAR801	3-oxoacyl-[acyl-carrier-protein] reductase (n-C8:0)	True	False
+3OAS1001	3-oxoacyl-[acyl-carrier-protein] synthase (n-C10:0)	False	False
+3OAS1201	3-oxoacyl-[acyl-carrier-protein] synthase (n-C12:0)	False	False
+3OAS1211	3-oxoacyl-[acyl-carrier-protein] synthase (n-C12:1)	False	False
+3OAS1401	3-oxoacyl-[acyl-carrier-protein] synthase (n-C14:0)	False	False
+3OAS1411	3-oxoacyl-[acyl-carrier-protein] synthase (n-C14:1)	False	False
+3OAS1601	3-oxoacyl-[acyl-carrier-protein] synthase (n-C16:0)	False	False
+3OAS1611	3-oxoacyl-[acyl-carrier-protein] synthase (n-C16:1)	False	False
+3OAS1801	3-oxoacyl-[acyl-carrier-protein] synthase (n-C18:0)	False	False
+3OAS1811	3-oxoacyl-[acyl-carrier-protein] synthase (n-C18:1)	False	False
+3OAS601	3-oxoacyl-[acyl-carrier-protein] synthase (n-C6:0)	False	False
+3OAS801	3-oxoacyl-[acyl-carrier-protein] synthase (n-C8:0)	False	False
+4Fe4S_to_ErpA_by_IscA	4Fe4S_to_ErpA_by_IscA	False	False
+4Fe4S_to_ErpA_by_IscU	4Fe4S_to_ErpA_by_IscU	False	False
+4Fe4S_to_ErpA_by_SufA	4Fe4S_to_ErpA_by_SufA	False	False
+4Fe4S_to_IscA_by_IscU	4Fe4S_to_IscA_by_IscU	False	False
+4Fe4S_to_IscA_by_SufBCD	4Fe4S_to_IscA_by_SufBCD	False	False
+4Fe4S_to_SufA_by_IscU	4Fe4S_to_SufA_by_IscU	False	False
+AACPS11	acyl-[acyl-carrier-protein] synthetase (n-C14:0)	False	False
+AACPS21	acyl-[acyl-carrier-protein] synthetase  (n-C14:1)	False	False
+AACPS31	acyl-[acyl-carrier-protein] synthetase  (n-C16:0)	False	False
+AACPS41	acyl-[acyl-carrier-protein] synthetase  (n-C16:1)	False	False
+AACPS51	acyl-[acyl-carrier-protein] synthetase  (n-C18:1)	False	False
+AACPS61	acyl-[acyl-carrier-protein] synthetase  (n-C18:0)	False	False
+AACPS71	acyl-[acyl-carrier-protein] synthetase  (n-C12:0)	False	False
+AACPS81	acyl-[acyl-carrier-protein] synthetase  (n-C10:0)	False	False
+AACPS91	acyl-[acyl-carrier-protein] synthetase  (n-C8:0)	False	False
+ACOATA1	Acetyl-CoA ACP transacylase	True	False
+ACPPAT1201	acyl-(acyl carrier protein):phosphate acyltransferase (C12:0)	False	False
+ACPPAT1401	acyl-(acyl carrier protein):phosphate acyltransferase (C14:0)	False	False
+ACPPAT1411	acyl-(acyl carrier protein):phosphate acyltransferase (C14:1)	False	False
+ACPPAT1601	acyl-(acyl carrier protein):phosphate acyltransferase (C16:0)	False	False
+ACPPAT1611	acyl-(acyl carrier protein):phosphate acyltransferase (C16:1)	False	False
+ACPPAT1801	acyl-(acyl carrier protein):phosphate acyltransferase (C18:0)	False	False
+ACPPAT1811	acyl-(acyl carrier protein):phosphate acyltransferase (C18:1)	False	False
+ACPS11	acyl-carrier protein synthase	False	False
+AGPAT1201	1-tetradecanoyl-sn-glycerol 3-phosphate O-acyltransferase (n-C12:0)	False	False
+AGPAT1401	1-tetradecanoyl-sn-glycerol 3-phosphate O-acyltransferase (n-C14:0)	False	False
+AGPAT1411	1-tetradec-7-enoyl-sn-glycerol 3-phosphate O-acyltransferase (n-C14:1)	False	False
+AGPAT1601	1-hexadecanoyl-sn-glycerol 3-phosphate O-acyltransferase (n-C16:0)	False	False
+AGPAT1611	1-hexadec-7-enoyl-sn-glycerol 3-phosphate O-acyltransferase (n-C16:1)	False	False
+AGPAT1801	1-octadecanoyl-sn-glycerol 3-phosphate O-acyltransferase (n-C18:0)	False	False
+AGPAT1811	1-octadec-7-enoyl-sn-glycerol 3-phosphate O-acyltransferase (n-C18:1)	False	False
+AOXSr21	8-amino-7-oxononanoate synthase	False	False
+Cs_cyto_import	Cs_cyto_import	False	False
+Cs_peri_import	Cs_peri_import	False	False
+CyaY_Fe_loading	CyaY_Fe_loading	False	False
+DSBAO11	DsbA protein reoxidation reaction (aerobic)	False	False
+DSBAO21	DsbA protein reoxidation reaction (anaerobic)	False	False
+DSBCGT1	DsbC:glutathione thiotransferase	False	False
+DSBDR1	DsbD reductase	False	False
+DSBDR2	DsbD reductase	False	False
+DSBGGT1	DsbG:glutathione thiotransferase	False	False
+EAR100x1	enoyl-[acyl-carrier-protein] reductase (NADH) (n-C10:0)	False	False
+EAR100y1	enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C10:0)	False	False
+EAR120x1	enoyl-[acyl-carrier-protein] reductase (NADH) (n-C12:0)	False	False
+EAR120y1	enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C12:0)	False	False
+EAR121x1	enoyl-[acyl-carrier-protein] reductase (NADH) (n-C12:1)	False	False
+EAR121y1	enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C12:1)	False	False
+EAR140x1	enoyl-[acyl-carrier-protein] reductase (NADH) (n-C14:0)	False	False
+EAR140y1	enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C14:0)	False	False
+EAR141x1	enoyl-[acyl-carrier-protein] reductase (NADH) (n-C14:1)	False	False
+EAR141y1	enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C14:1)	False	False
+EAR160x1	enoyl-[acyl-carrier-protein] reductase (NADH) (n-C16:0)	False	False
+EAR160y1	enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C16:0)	False	False
+EAR161x1	enoyl-[acyl-carrier-protein] reductase (NADH) (n-C16:1)	False	False
+EAR161y1	enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C16:1)	False	False
+EAR180x1	enoyl-[acyl-carrier-protein] reductase (NADH) (n-C18:0)	False	False
+EAR180y1	enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C18:0)	False	False
+EAR181x1	enoyl-[acyl-carrier-protein] reductase (NADH) (n-C18:1)	False	False
+EAR181y1	enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C18:1)	False	False
+EAR40x1	enoyl-[acyl-carrier-protein] reductase (NADH) (n-C4:0)	False	False
+EAR40y1	enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C4:0)	False	False
+EAR60x1	enoyl-[acyl-carrier-protein] reductase (NADH) (n-C6:0)	False	False
+EAR60y1	enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C6:0)	False	False
+EAR80x1	enoyl-[acyl-carrier-protein] reductase (NADH) (n-C8:0)	False	False
+EAR80y1	enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C8:0)	False	False
+EDTXS11	Endotoxin Synthesis (lauroyl transferase)	False	False
+EDTXS21	Endotoxin Synthesis (myristoyl transferase)	False	False
+EDTXS31	Endotoxin Synthesis (palmitoleoyl ACP)	False	False
+EDTXS41	Endotoxin Synthesis (myristoyl transferase)	False	False
+EGMEACPR1	Enoylglutaryl-[ACP] methyl ester reductase	False	False
+EPMEACPR1	Enoylpimeloyl-[ACP] methyl ester reductase	False	False
+FA100ACPHi1	fatty-acyl-ACP hydrolase	False	False
+FA120ACPHi1	fatty-acyl-ACP hydrolase	False	False
+FA140ACPHi1	fatty-acyl-ACP hydrolase	False	False
+FA141ACPHi1	fatty-acyl-ACP hydrolase	False	False
+FA160ACPHi1	fatty-acyl-ACP hydrolase	False	False
+FA161ACPHi1	fatty-acyl-ACP hydrolase	False	False
+FA80ACPHi1	fatty-acyl-ACP hydrolase	False	False
+FLDR21	flavodoxin reductase (NADPH)	False	False
+FLDR22	flavodoxin reductase (NADPH)	False	False
+G3PAT1201	glycerol-3-phosphate acyltransferase (C12:0)	False	False
+G3PAT1401	glycerol-3-phosphate acyltransferase (C14:0)	False	False
+G3PAT1411	glycerol-3-phosphate acyltransferase (C14:1)	False	False
+G3PAT1601	glycerol-3-phosphate acyltransferase (C16:0)	False	False
+G3PAT1611	glycerol-3-phosphate acyltransferase (C16:1)	False	False
+G3PAT1801	glycerol-3-phosphate acyltransferase (C18:0)	False	False
+G3PAT1811	glycerol-3-phosphate acyltransferase (C18:1)	False	False
+GLUTRR	glutamyl-tRNA reductase	False	False
+GRXR1	glutaredoxin reductase	False	False
+GRXR2	glutaredoxin reductase	False	False
+GRXR3	glutaredoxin reductase	False	False
+GRXR4	glutaredoxin reductase	False	False
+I4FE4SR1	ISC [4Fe-4S] Reduction	False	False
+ICYSDS1	ISC Cysteine desulfuration	False	False
+KAS141	beta-ketoacyl-ACP synthase	False	False
+KAS151	beta-ketoacyl-ACP synthase (2)	False	False
+MACPD1	Malonyl-ACP decarboxylase	False	False
+MCOATA1	Malonyl-CoA-ACP transacylase	True	False
+MECDPDH51	2C-methyl-D-erythritol 2,4 cyclodiphosphate dehydratase	False	False
+MECDPDH52	2C-methyl-D-erythritol 2,4 cyclodiphosphate dehydratase	False	False
+METSOXR11	L-methionine-S-oxide reductase	False	False
+METSOXR12	L-methionine-S-oxide reductase	False	False
+METSOXR21	L-methionine-R-sulfoxide reductase	False	False
+METSOXR22	L-methionine-R-sulfoxide reductase	False	False
+MOADSUx1	MoaD sulfuration (nadh, assumed)	False	False
+MPTS1	molybdopterin synthase	False	False
+MPTSS1	molybdopterin synthase sulfurylase	False	False
+OGMEACPD1	3-Oxo-glutaryl-[ACP] methyl ester dehydratase	False	False
+OGMEACPR1	3-Oxo-glutaryl-[ACP] methyl ester reductase	False	False
+OGMEACPS1	3-Oxo-glutaryl-[ACP] methyl ester synthase	False	False
+OPMEACPD1	3-Oxo-pimeloyl-[ACP] methyl ester dehydratase	False	False
+OPMEACPR1	3-Oxo-pimeloyl-[ACP] methyl ester reductase	False	False
+OPMEACPS1	3-Oxo-pimeloyl-[ACP] methyl ester synthase	False	False
+PAPSR1	phosphoadenylyl-sulfate reductase (thioredoxin)	False	False
+PAPSR2	phosphoadenylyl-sulfate reductase (thioredoxin)	False	False
+PAPSR21	phosphoadenylyl-sulfate reductase (glutaredoxin)	False	False
+PAPSR22	phosphoadenylyl-sulfate reductase (glutaredoxin)	False	False
+PAPSR23	phosphoadenylyl-sulfate reductase (glutaredoxin)	False	False
+PAPSR24	phosphoadenylyl-sulfate reductase (glutaredoxin)	False	False
+PDX5PS1	PDX5PS1	False	False
+PDX5PS2	PDX5PS2	False	False
+PMEACPE1	Pimeloyl-[ACP] methyl ester esterase	False	False
+POR51	pyruvate synthase	True	False
+POR52	pyruvate synthase	True	False
+RNDR11	ribonucleoside-diphosphate reductase (ADP)	False	False
+RNDR12	ribonucleoside-diphosphate reductase (ADP)	False	False
+RNDR1b1	ribonucleoside-diphosphate reductase (ADP) (glutaredoxin)	False	False
+RNDR1b2	ribonucleoside-diphosphate reductase (ADP) (glutaredoxin)	False	False
+RNDR1b3	ribonucleoside-diphosphate reductase (ADP) (glutaredoxin)	False	False
+RNDR1b4	ribonucleoside-diphosphate reductase (ADP) (glutaredoxin)	False	False
+RNDR21	ribonucleoside-diphosphate reductase (GDP)	False	False
+RNDR22	ribonucleoside-diphosphate reductase (GDP)	False	False
+RNDR2b1	ribonucleoside-diphosphate reductase (GDP) (glutaredoxin)	False	False
+RNDR2b2	ribonucleoside-diphosphate reductase (GDP) (glutaredoxin)	False	False
+RNDR2b3	ribonucleoside-diphosphate reductase (GDP) (glutaredoxin)	False	False
+RNDR2b4	ribonucleoside-diphosphate reductase (GDP) (glutaredoxin)	False	False
+RNDR31	ribonucleoside-diphosphate reductase (CDP)	False	False
+RNDR32	ribonucleoside-diphosphate reductase (CDP)	False	False
+RNDR3b1	ribonucleoside-diphosphate reductase (CDP) (glutaredoxin)	False	False
+RNDR3b2	ribonucleoside-diphosphate reductase (CDP) (glutaredoxin)	False	False
+RNDR3b3	ribonucleoside-diphosphate reductase (CDP) (glutaredoxin)	False	False
+RNDR3b4	ribonucleoside-diphosphate reductase (CDP) (glutaredoxin)	False	False
+RNDR41	ribonucleoside-diphosphate reductase (UDP)	False	False
+RNDR42	ribonucleoside-diphosphate reductase (UDP)	False	False
+RNDR4b1	ribonucleoside-diphosphate reductase (UDP) (glutaredoxin)	False	False
+RNDR4b2	ribonucleoside-diphosphate reductase (UDP) (glutaredoxin)	False	False
+RNDR4b3	ribonucleoside-diphosphate reductase (UDP) (glutaredoxin)	False	False
+RNDR4b4	ribonucleoside-diphosphate reductase (UDP) (glutaredoxin)	False	False
+RNTR1c21	ribonucleoside-triphosphate reductase (ATP) (flavodoxin)	False	False
+RNTR1c22	ribonucleoside-triphosphate reductase (ATP) (flavodoxin)	False	False
+RNTR2c21	ribonucleoside-triphosphate reductase (GTP) (flavodoxin)	False	False
+RNTR2c22	ribonucleoside-triphosphate reductase (GTP) (flavodoxin)	False	False
+RNTR3c21	ribonucleoside-triphosphate reductase (CTP) (flavodoxin)	False	False
+RNTR3c22	ribonucleoside-triphosphate reductase (CTP) (flavodoxin)	False	False
+RNTR4c21	ribonucleoside-triphosphate reductase (UTP) (flavodoxin)	False	False
+RNTR4c22	ribonucleoside-triphosphate reductase (UTP) (flavodoxin)	False	False
+SCYSDS1	SUF Cysteine desulfuration	False	False
+T2DECAI1	trans-2-decenoyl-ACP isomerase	True	False
+TDSR11	thiol:disulfide reductase (DsbC)	False	False
+TDSR21	thiol:disulfide reductase (DsbG)	False	False
+THIORDXi1	hydrogen peroxide reductase (thioredoxin)	False	False
+THIORDXi2	hydrogen peroxide reductase (thioredoxin)	False	False
+THZPSN31	thiazole phosphate synthesis	False	False
+TRDR1	thioredoxin reductase (NADPH)	False	False
+TRDR2	thioredoxin reductase (NADPH)	False	False
+U23GAAT1	UDP-3-O-(3-hydroxymyristoyl)glucosamine acyltransferase	False	False
+UAGAAT1	UDP-N-acetylglucosamine acyltransferase	True	False
+dpm_import	dpm_import	False	False
+hemeD_synthesis	hemeD_synthesis	False	False
+pqq_transport	pqq_transport	False	False
+tl_generation	tl_generation	False	False

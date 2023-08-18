@@ -1,0 +1,2 @@
+,value
+rna_degradosome,"{'enzymes': ['CLJU_RS19255-MONOMER_mod_mg2(4)', 'CLJU_RS06485-MONOMER']}"

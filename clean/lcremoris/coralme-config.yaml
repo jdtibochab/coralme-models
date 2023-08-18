@@ -1,0 +1,105 @@
+ME-Model-ID: lcremoris
+growth_key: mu1
+complex_cofactors:
+  fes_transfers:
+  - CPLX_dummy
+  biotin_subreactions:
+    mod_btn_c:
+    - biotin_ligase
+  lipoate_subreactions:
+    mod_lipoyl_c:
+    - lipoyl_denovo
+    - lipoyl_scavenging
+  fes_chaperones: {}
+  bmocogdp_chaperones: {}
+  FeFe/NiFe:
+    mod_FeFe_cofactor_c: ''
+    mod_NiFe_cofactor_c: ''
+lipoprotein_precursors:
+  MetQ: LLMG_RS01735
+lipid_modifications: []
+unmodeled_protein_fraction: 0.36
+flux_of_biomass_constituents: {}
+flux_of_lipid_constituents: {}
+braun's_lipoprotein: []
+braun's_lpp_flux: -0.0
+braun's_murein_flux: -0.0
+gr_data_doublings_per_hour:
+- 0
+- 0.6
+- 1.0
+- 1.5
+- 2.0
+- 2.5
+percent_dna_data:
+- 0.0592
+- 0.0512
+- 0.033
+- 0.0252
+- 0.0222
+- 0.0208
+defer_to_rxn_matrix:
+- BIOMASS_LLA
+- FMETTRS
+- ATPM
+m-model-path: ./lcremoris//building_data/m_model_modified.json
+genbank-path: ./lcremoris//building_data/genome_modified.gb
+biocyc.genes: ''
+biocyc.prots: ''
+biocyc.TUs: ''
+biocyc.RNAs: ''
+biocyc.seqs: ''
+df_gene_cplxs_mods_rxns: ./lcremoris/building_data/automated-org-with-refs.xlsx
+df_TranscriptionalUnits: ./lcremoris//building_data/TUs_from_biocyc.txt
+out_directory: ./lcremoris/
+log_directory: ./lcremoris/
+run_bbh_blast: false
+dev_reference: false
+include_pseudo_genes: true
+selenocysteine_enzymes:
+- CPLX_dummy
+pg_pe_160:
+- LLMG_RS03030-MONOMER
+- LLMG_RS07675-MONOMER
+other_lipids: []
+rna_polymerases:
+  RNAP_LLMGRS02740MONOMER:
+    sigma_factor: LLMG_RS02740-MONOMER
+    polymerase: RNAP-CPLX_mod_zn2(1)_mod_mg2(2)
+  RNAP_LLMGRS12190MONOMER:
+    sigma_factor: LLMG_RS12190-MONOMER
+    polymerase: RNAP-CPLX_mod_zn2(1)_mod_mg2(2)
+  RNAP_LLMGRS12280MONOMER:
+    sigma_factor: LLMG_RS12280-MONOMER
+    polymerase: RNAP-CPLX_mod_zn2(1)_mod_mg2(2)
+ngam: 1.0
+gam: 39.4
+translocation_multipliers:
+  LLMG_RS00775-MONOMER:
+    LLMG_RS09730: 2.0
+amino_acid_trna_synthetase:
+  ala__L_c: LLMG_RS09540-MONOMER
+  arg__L_c: LLMG_RS11600-MONOMER
+  asn__L_c: LLMG_RS10095-MONOMER
+  asp__L_c: LLMG_RS11115-MONOMER
+  cys__L_c: LLMG_RS10195-MONOMER
+  gln__L_c: CPLX_dummy
+  glu__L_c: LLMG_RS11690-MONOMER
+  gly_c: CPLX-tRNA-GLY-LIGASE
+  his__L_c: LLMG_RS11125-MONOMER
+  ile__L_c: LLMG_RS10255-MONOMER
+  leu__L_c: LLMG_RS08750-MONOMER
+  lys__L_c: LLMG_RS01995-MONOMER
+  met__L_c: LLMG_RS08860-MONOMER
+  phe__L_c: CPLX-tRNA-PHE-LIGASE
+  pro__L_c: LLMG_RS12095-MONOMER
+  ser__L_c: LLMG_RS03735-MONOMER
+  thr__L_c: LLMG_RS10900-MONOMER
+  trp__L_c: LLMG_RS00430-MONOMER
+  tyr__L_c: LLMG_RS02055-MONOMER
+  val__L_c: LLMG_RS12325-MONOMER
+peptide_release_factors:
+  UAG: LLMG_RS02900-MONOMER
+  UGA: LLMG_RS07780-MONOMER
+  UAA: generic_RF
+braun's_lipoproteins: []

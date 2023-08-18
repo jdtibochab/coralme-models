@@ -1,0 +1,2 @@
+,value
+rna_degradosome,"{'enzymes': ['TM0877-MONOMER_mod_mg2(4)', 'TM1345-MONOMER']}"

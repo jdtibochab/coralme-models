@@ -1,0 +1,16 @@
+{
+  "m-model-path": "./lcremoris/inputs/m_model.json",
+  "genbank-path": "./lcremoris/inputs/genome.gb",
+  "biocyc.genes": "",
+  "biocyc.prots": "",
+  "biocyc.TUs": "",
+  "biocyc.RNAs": "",
+  "biocyc.seqs": "",
+  "df_gene_cplxs_mods_rxns": "./lcremoris/building_data/automated-org-with-refs.xlsx",
+  "df_TranscriptionalUnits": "",
+  "out_directory": "./lcremoris/",
+  "log_directory": "./lcremoris/",
+  "run_bbh_blast": true,
+  "dev_reference": true,
+  "include_pseudo_genes": true
+}

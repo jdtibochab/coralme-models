@@ -1,0 +1,3250 @@
+{
+    "org.check_m_model": [
+        {
+            "msg": "Some metabolites have a problematic formula. If these metabolites are used in protein modifications, or other subreactions, it will cause an error.",
+            "triggered_by": [
+                "3haACP_c",
+                "3hcddec5eACP_c",
+                "3hcmrs7eACP_c",
+                "3hcpalm9eACP_c",
+                "3hcvac11eACP_c",
+                "3hddecACP_c",
+                "3hdecACP_c",
+                "3hhexACP_c",
+                "3hmrsACP_c",
+                "3hoctACP_c",
+                "3hoctaACP_c",
+                "3hpalmACP_c",
+                "3ocddec5eACP_c",
+                "3ocmrs7eACP_c",
+                "3ocpalm9eACP_c",
+                "3ocvac11eACP_c",
+                "3oddecACP_c",
+                "3odecACP_c",
+                "3ohexACP_c",
+                "3omrsACP_c",
+                "3ooctACP_c",
+                "3ooctdACP_c",
+                "3opalmACP_c",
+                "ACP_c",
+                "acACP_c",
+                "actACP_c",
+                "alatrna_c",
+                "apoACP_c",
+                "argtrna_c",
+                "asntrna_c",
+                "asptrna_c",
+                "but2eACP_c",
+                "butACP_c",
+                "cddec5eACP_c",
+                "cdec3eACP_c",
+                "cystrna_c",
+                "dcaACP_c",
+                "ddcaACP_c",
+                "dsbdox_c",
+                "dsbdrd_c",
+                "egmeACP_c",
+                "epmeACP_c",
+                "flxr_c",
+                "flxso_c",
+                "fmettrna_c",
+                "glntrna_c",
+                "glutrna_c",
+                "glytrna_c",
+                "gmeACP_c",
+                "grxox_c",
+                "grxrd_c",
+                "hdeACP_c",
+                "hexACP_c",
+                "hgmeACP_c",
+                "histrna_c",
+                "hpmeACP_c",
+                "iletrna_c",
+                "iscs_c",
+                "iscssh_c",
+                "iscu_c",
+                "iscu__2fe2s_c",
+                "iscu__2fe2s2_c",
+                "iscu__4fe4s_c",
+                "leutrna_c",
+                "lystrna_c",
+                "malACP_c",
+                "mettrna_c",
+                "moadamp_c",
+                "moadcoo_c",
+                "moadcosh_c",
+                "myrsACP_c",
+                "ocACP_c",
+                "ocdcaACP_c",
+                "octeACP_c",
+                "ogmeACP_c",
+                "opmeACP_c",
+                "palmACP_c",
+                "phetrna_c",
+                "pimACP_c",
+                "pmeACP_c",
+                "protrna_c",
+                "sectrna_c",
+                "sertrna_c",
+                "sertrna[sec]_c",
+                "sufbcd_c",
+                "sufbcd__2fe2s_c",
+                "sufbcd__2fe2s2_c",
+                "sufbcd__4fe4s_c",
+                "sufse_c",
+                "sufsesh_c",
+                "t3c11vaceACP_c",
+                "t3c5ddeceACP_c",
+                "t3c7mrseACP_c",
+                "t3c9palmeACP_c",
+                "tddec2eACP_c",
+                "tdeACP_c",
+                "tdec2eACP_c",
+                "thex2eACP_c",
+                "thrtrna_c",
+                "tmrs2eACP_c",
+                "toct2eACP_c",
+                "toctd2eACP_c",
+                "tpalm2eACP_c",
+                "trdox_c",
+                "trdrd_c",
+                "trnaala_c",
+                "trnaarg_c",
+                "trnaasn_c",
+                "trnaasp_c",
+                "trnacys_c",
+                "trnagln_c",
+                "trnaglu_c",
+                "trnagly_c",
+                "trnahis_c",
+                "trnaile_c",
+                "trnaleu_c",
+                "trnalys_c",
+                "trnamet_c",
+                "trnaphe_c",
+                "trnapro_c",
+                "trnasecys_c",
+                "trnaser_c",
+                "trnathr_c",
+                "trnatrp_c",
+                "trnatyr_c",
+                "trnaval_c",
+                "trptrna_c",
+                "tyrtrna_c",
+                "valtrna_c",
+                "alpp_p",
+                "dsbaox_p",
+                "dsbard_p",
+                "dsbcox_p",
+                "dsbcrd_p",
+                "dsbgox_p",
+                "dsbgrd_p",
+                "lpp_p"
+            ],
+            "importance": "critical",
+            "to_do": "Correct the formulas of the listed metabolites. Some metabolite formulas are critical for the completion of this pipeline. If homology is ON, this pipeline will try to fill in the formulas from the reference."
+        },
+        {
+            "msg": "Some reactions are missing their subsystem",
+            "triggered_by": [
+                "DM_4CRSOL",
+                "DM_5DRIB",
+                "DM_AACALD",
+                "DM_AMOB",
+                "DM_MTHTHF",
+                "DM_OXAM",
+                "Ec_biomass_iJO1366_WT_53p95M",
+                "Ec_biomass_iJO1366_core_53p95M",
+                "EX_12ppd__R_e",
+                "EX_12ppd__S_e",
+                "EX_14glucan_e",
+                "EX_15dap_e",
+                "EX_23camp_e",
+                "EX_23ccmp_e",
+                "EX_23cgmp_e",
+                "EX_23cump_e",
+                "EX_23dappa_e",
+                "EX_26dap__M_e",
+                "EX_2ddglcn_e",
+                "EX_34dhpac_e",
+                "EX_3amp_e",
+                "EX_3cmp_e",
+                "EX_3gmp_e",
+                "EX_3hcinnm_e",
+                "EX_3hpp_e",
+                "EX_3hpppn_e",
+                "EX_3ump_e",
+                "EX_4abut_e",
+                "EX_4hoxpacd_e",
+                "EX_5dglcn_e",
+                "EX_5mtr_e",
+                "EX_LalaDglu_e",
+                "EX_LalaDgluMdap_e",
+                "EX_LalaDgluMdapDala_e",
+                "EX_LalaLglu_e",
+                "EX_ac_e",
+                "EX_acac_e",
+                "EX_acald_e",
+                "EX_acgal_e",
+                "EX_acgal1p_e",
+                "EX_acgam_e",
+                "EX_acgam1p_e",
+                "EX_acmana_e",
+                "EX_acmum_e",
+                "EX_acnam_e",
+                "EX_acolipa_e",
+                "EX_acser_e",
+                "EX_ade_e",
+                "EX_adn_e",
+                "EX_adocbl_e",
+                "EX_ag_e",
+                "EX_agm_e",
+                "EX_akg_e",
+                "EX_ala__B_e",
+                "EX_ala__D_e",
+                "EX_ala__L_e",
+                "EX_alaala_e",
+                "EX_all__D_e",
+                "EX_alltn_e",
+                "EX_amp_e",
+                "EX_anhgm_e",
+                "EX_arab__L_e",
+                "EX_arbt_e",
+                "EX_arbtn_e",
+                "EX_arbtn__fe3_e",
+                "EX_arg__L_e",
+                "EX_ascb__L_e",
+                "EX_asn__L_e",
+                "EX_aso3_e",
+                "EX_asp__L_e",
+                "EX_btn_e",
+                "EX_but_e",
+                "EX_butso3_e",
+                "EX_ca2_e",
+                "EX_cbi_e",
+                "EX_cbl1_e",
+                "EX_cd2_e",
+                "EX_cgly_e",
+                "EX_chol_e",
+                "EX_chtbs_e",
+                "EX_cit_e",
+                "EX_cl_e",
+                "EX_cm_e",
+                "EX_cmp_e",
+                "EX_co2_e",
+                "EX_cobalt2_e",
+                "EX_colipa_e",
+                "EX_colipap_e",
+                "EX_cpgn_e",
+                "EX_cpgn__un_e",
+                "EX_crn_e",
+                "EX_crn__D_e",
+                "EX_csn_e",
+                "EX_cu_e",
+                "EX_cu2_e",
+                "EX_cyan_e",
+                "EX_cynt_e",
+                "EX_cys__D_e",
+                "EX_cys__L_e",
+                "EX_cytd_e",
+                "EX_dad__2_e",
+                "EX_damp_e",
+                "EX_dca_e",
+                "EX_dcmp_e",
+                "EX_dcyt_e",
+                "EX_ddca_e",
+                "EX_dgmp_e",
+                "EX_dgsn_e",
+                "EX_dha_e",
+                "EX_dimp_e",
+                "EX_din_e",
+                "EX_dms_e",
+                "EX_dmso_e",
+                "EX_dopa_e",
+                "EX_doxrbcn_e",
+                "EX_dtmp_e",
+                "EX_dump_e",
+                "EX_duri_e",
+                "EX_eca4colipa_e",
+                "EX_enlipa_e",
+                "EX_enter_e",
+                "EX_etha_e",
+                "EX_ethso3_e",
+                "EX_etoh_e",
+                "EX_f6p_e",
+                "EX_fald_e",
+                "EX_fe2_e",
+                "EX_fe3_e",
+                "EX_fe3dcit_e",
+                "EX_fe3dhbzs_e",
+                "EX_fe3hox_e",
+                "EX_fe3hox__un_e",
+                "EX_fecrm_e",
+                "EX_fecrm__un_e",
+                "EX_feenter_e",
+                "EX_feoxam_e",
+                "EX_feoxam__un_e",
+                "EX_for_e",
+                "EX_fru_e",
+                "EX_frulys_e",
+                "EX_fruur_e",
+                "EX_fuc__L_e",
+                "EX_fum_e",
+                "EX_fusa_e",
+                "EX_g1p_e",
+                "EX_g3pc_e",
+                "EX_g3pe_e",
+                "EX_g3pg_e",
+                "EX_g3pi_e",
+                "EX_g3ps_e",
+                "EX_g6p_e",
+                "EX_gal_e",
+                "EX_gal__bD_e",
+                "EX_gal1p_e",
+                "EX_galct__D_e",
+                "EX_galctn__D_e",
+                "EX_galctn__L_e",
+                "EX_galt_e",
+                "EX_galur_e",
+                "EX_gam_e",
+                "EX_gam6p_e",
+                "EX_gbbtn_e",
+                "EX_gdp_e",
+                "EX_glc_e",
+                "EX_glcn_e",
+                "EX_glcr_e",
+                "EX_glcur_e",
+                "EX_glcur1p_e",
+                "EX_gln__L_e",
+                "EX_glu__L_e",
+                "EX_gly_e",
+                "EX_glyald_e",
+                "EX_glyb_e",
+                "EX_glyc_e",
+                "EX_glyc__R_e",
+                "EX_glyc2p_e",
+                "EX_glyc3p_e",
+                "EX_glyclt_e",
+                "EX_gmp_e",
+                "EX_gsn_e",
+                "EX_gthox_e",
+                "EX_gthrd_e",
+                "EX_gtp_e",
+                "EX_gua_e",
+                "EX_h_e",
+                "EX_h2_e",
+                "EX_h2o_e",
+                "EX_h2o2_e",
+                "EX_h2s_e",
+                "EX_hacolipa_e",
+                "EX_halipa_e",
+                "EX_hdca_e",
+                "EX_hdcea_e",
+                "EX_hg2_e",
+                "EX_his__L_e",
+                "EX_hom__L_e",
+                "EX_hxa_e",
+                "EX_hxan_e",
+                "EX_idon__L_e",
+                "EX_ile__L_e",
+                "EX_imp_e",
+                "EX_indole_e",
+                "EX_inost_e",
+                "EX_ins_e",
+                "EX_isetac_e",
+                "EX_k_e",
+                "EX_kdo2lipid4_e",
+                "EX_lac__D_e",
+                "EX_lac__L_e",
+                "EX_lcts_e",
+                "EX_leu__L_e",
+                "EX_lipa_e",
+                "EX_lipa_cold_e",
+                "EX_lipoate_e",
+                "EX_lys__L_e",
+                "EX_lyx__L_e",
+                "EX_mal__D_e",
+                "EX_mal__L_e",
+                "EX_malt_e",
+                "EX_malthx_e",
+                "EX_maltpt_e",
+                "EX_malttr_e",
+                "EX_maltttr_e",
+                "EX_man_e",
+                "EX_man6p_e",
+                "EX_manglyc_e",
+                "EX_melib_e",
+                "EX_meoh_e",
+                "EX_met__D_e",
+                "EX_met__L_e",
+                "EX_metsox__R__L_e",
+                "EX_metsox__S__L_e",
+                "EX_mg2_e",
+                "EX_mincyc_e",
+                "EX_minohp_e",
+                "EX_mmet_e",
+                "EX_mn2_e",
+                "EX_mnl_e",
+                "EX_mobd_e",
+                "EX_mso3_e",
+                "EX_n2o_e",
+                "EX_na1_e",
+                "EX_nac_e",
+                "EX_nh4_e",
+                "EX_ni2_e",
+                "EX_nmn_e",
+                "EX_no_e",
+                "EX_no2_e",
+                "EX_no3_e",
+                "EX_novbcn_e",
+                "EX_o16a4colipa_e",
+                "EX_o2_e",
+                "EX_o2s_e",
+                "EX_ocdca_e",
+                "EX_ocdcea_e",
+                "EX_octa_e",
+                "EX_orn_e",
+                "EX_orot_e",
+                "EX_pacald_e",
+                "EX_peamn_e",
+                "EX_phe__L_e",
+                "EX_pheme_e",
+                "EX_pi_e",
+                "EX_pnto__R_e",
+                "EX_ppa_e",
+                "EX_ppal_e",
+                "EX_pppn_e",
+                "EX_ppt_e",
+                "EX_pro__L_e",
+                "EX_progly_e",
+                "EX_psclys_e",
+                "EX_pser__L_e",
+                "EX_ptrc_e",
+                "EX_pydam_e",
+                "EX_pydx_e",
+                "EX_pydxn_e",
+                "EX_pyr_e",
+                "EX_quin_e",
+                "EX_r5p_e",
+                "EX_rfamp_e",
+                "EX_rib__D_e",
+                "EX_rmn_e",
+                "EX_sbt__D_e",
+                "EX_sel_e",
+                "EX_ser__D_e",
+                "EX_ser__L_e",
+                "EX_skm_e",
+                "EX_slnt_e",
+                "EX_so2_e",
+                "EX_so3_e",
+                "EX_so4_e",
+                "EX_spmd_e",
+                "EX_succ_e",
+                "EX_sucr_e",
+                "EX_sulfac_e",
+                "EX_tartr__D_e",
+                "EX_tartr__L_e",
+                "EX_taur_e",
+                "EX_tcynt_e",
+                "EX_thm_e",
+                "EX_thr__L_e",
+                "EX_thrp_e",
+                "EX_thym_e",
+                "EX_thymd_e",
+                "EX_tma_e",
+                "EX_tmao_e",
+                "EX_tre_e",
+                "EX_trp__L_e",
+                "EX_tsul_e",
+                "EX_ttdca_e",
+                "EX_ttdcea_e",
+                "EX_ttrcyc_e",
+                "EX_tungs_e",
+                "EX_tym_e",
+                "EX_tyr__L_e",
+                "EX_tyrp_e",
+                "EX_uacgam_e",
+                "EX_udpacgal_e",
+                "EX_udpg_e",
+                "EX_udpgal_e",
+                "EX_udpglcur_e",
+                "EX_ump_e",
+                "EX_ura_e",
+                "EX_urea_e",
+                "EX_uri_e",
+                "EX_val__L_e",
+                "EX_xan_e",
+                "EX_xmp_e",
+                "EX_xtsn_e",
+                "EX_xyl__D_e",
+                "EX_xylu__L_e",
+                "EX_zn2_e"
+            ],
+            "importance": "high",
+            "to_do": "Make sure the subsystems of these reactions are correct"
+        }
+    ],
+    "org.read_gene_dictionary": [
+        {
+            "msg": "Some genes are missing Accession-1 IDs in genes.txt",
+            "triggered_by": [
+                "G0-9281",
+                "G0-10537",
+                "G0-10531",
+                "G0-10528",
+                "G0-10544",
+                "G0-10541",
+                "G0-10538",
+                "G0-10535",
+                "G0-10529",
+                "G0-10545",
+                "G0-10542",
+                "G0-10539",
+                "G0-10536",
+                "G0-10530",
+                "G0-10546",
+                "G0-10525",
+                "G0-10543",
+                "G0-10540",
+                "G0-10697",
+                "G0-16695",
+                "G0-10701",
+                "G0-8861",
+                "G0-16699",
+                "G0-16635",
+                "G0-16696",
+                "G0-16693",
+                "G0-10706",
+                "G0-17079",
+                "G0-17076",
+                "G0-16697",
+                "G0-10738",
+                "G26",
+                "G0-16694",
+                "G0-10624",
+                "G0-16698",
+                "G0-8898",
+                "G0-8893",
+                "G0-9387",
+                "G0-10704",
+                "G0-8911",
+                "G0-10700",
+                "G0-8906",
+                "G0-8902",
+                "G0-8894",
+                "G0-10705",
+                "G0-8912",
+                "G0-10702",
+                "G0-8907",
+                "G0-8903",
+                "G0-10202",
+                "G0-8896",
+                "G14",
+                "G0-9384",
+                "G0-10703",
+                "G0-8908",
+                "G0-10698"
+            ],
+            "importance": "medium",
+            "to_do": "Complete Accession-1 IDs in genes.txt if those genes are important."
+        }
+    ],
+    "org.sync_files": [
+        {
+            "msg": "The types of some genes (e.g. CDS, RNA...) could not be identified. Is Product or Gene Name missing?",
+            "triggered_by": [
+                "b4654",
+                "b4654",
+                "b4651",
+                "b4651",
+                "b4627",
+                "b4627",
+                "b3459",
+                "b3459",
+                "G0-9281",
+                "G0-9281",
+                "b4662",
+                "b4662",
+                "b3204",
+                "b3204",
+                "b4566",
+                "b4566",
+                "b3505",
+                "b3505",
+                "b4412",
+                "b4412",
+                "b4428",
+                "b4428",
+                "G0-10537",
+                "G0-10537",
+                "b4419",
+                "b4419",
+                "b3218",
+                "b3218",
+                "b0540",
+                "b0540",
+                "b4455",
+                "b4455",
+                "b4421",
+                "b4421",
+                "G0-10531",
+                "G0-10531",
+                "b4453",
+                "b4453",
+                "b2982",
+                "b2982",
+                "b4710",
+                "b4710",
+                "G0-10528",
+                "G0-10528",
+                "b4423",
+                "b4423",
+                "b4284",
+                "b4284",
+                "b1027",
+                "b1027",
+                "G0-10544",
+                "G0-10544",
+                "b4273",
+                "b4273",
+                "b2088",
+                "b2088",
+                "G0-10541",
+                "G0-10541",
+                "b1996",
+                "b1996",
+                "b0582",
+                "b0582",
+                "b4511",
+                "b4511",
+                "G0-10538",
+                "G0-10538",
+                "b3444",
+                "b3444",
+                "b1893",
+                "b1893",
+                "b0541",
+                "b0541",
+                "G0-10535",
+                "G0-10535",
+                "b3044",
+                "b3044",
+                "b1402",
+                "b1402",
+                "b0372",
+                "b0372",
+                "b4709",
+                "b4709",
+                "b3491",
+                "b3491",
+                "G0-10529",
+                "G0-10529",
+                "b2860",
+                "b2860",
+                "b1331",
+                "b1331",
+                "G0-10545",
+                "G0-10545",
+                "b4516",
+                "b4516",
+                "b2089",
+                "b2089",
+                "b4411",
+                "b4411",
+                "b0274",
+                "b0274",
+                "G0-10542",
+                "G0-10542",
+                "b1997",
+                "b1997",
+                "b4410",
+                "b4410",
+                "b0656",
+                "b0656",
+                "G0-10539",
+                "G0-10539",
+                "b3445",
+                "b3445",
+                "b2592",
+                "b2592",
+                "b1894",
+                "b1894",
+                "G0-10536",
+                "G0-10536",
+                "b3045",
+                "b3045",
+                "b1403",
+                "b1403",
+                "b0373",
+                "b0373",
+                "b4711",
+                "b4711",
+                "G0-10530",
+                "G0-10530",
+                "b2861",
+                "b2861",
+                "G0-10546",
+                "G0-10546",
+                "G0-10525",
+                "G0-10525",
+                "b2192",
+                "b2192",
+                "b1026",
+                "b1026",
+                "b0275",
+                "b0275",
+                "G0-10543",
+                "G0-10543",
+                "b4272",
+                "b4272",
+                "b2030",
+                "b2030",
+                "G0-10540",
+                "G0-10540",
+                "b0552",
+                "b0552",
+                "b4588",
+                "b4588",
+                "b0470",
+                "b0470",
+                "b4510",
+                "b4510",
+                "b4550",
+                "b4550",
+                "b4147",
+                "b4147",
+                "b4501",
+                "b4501",
+                "b1235",
+                "b1235",
+                "b1507",
+                "b1507",
+                "b4528",
+                "b4528",
+                "b2126",
+                "b2126",
+                "b0570",
+                "b0570",
+                "b1968",
+                "b1968",
+                "b2556",
+                "b2556",
+                "b3026",
+                "b3026",
+                "b2216",
+                "b2216",
+                "b3869",
+                "b3869",
+                "b3206",
+                "b3206",
+                "b4533",
+                "b4533",
+                "b2624",
+                "b2624",
+                "b0564",
+                "b0564",
+                "b4509",
+                "b4509",
+                "b4506",
+                "b4506",
+                "b1951",
+                "b1951",
+                "b4532",
+                "b4532",
+                "b2217",
+                "b2217",
+                "b4003",
+                "b4003",
+                "b1237",
+                "b1237",
+                "b3261",
+                "b3261",
+                "b4505",
+                "b4505",
+                "b1608",
+                "b1608",
+                "b3060",
+                "b3060",
+                "b4490",
+                "b4490",
+                "b4498",
+                "b4498",
+                "b2218",
+                "b2218",
+                "b1712",
+                "b1712",
+                "b1040",
+                "b1040",
+                "G0-10697",
+                "G0-10697",
+                "b3237",
+                "b3237",
+                "b2369",
+                "b2369",
+                "b4521",
+                "b4521",
+                "b4499",
+                "b4499",
+                "b0912",
+                "b0912",
+                "b4578",
+                "b4578",
+                "b2381",
+                "b2381",
+                "b4236",
+                "b4236",
+                "b4112",
+                "b4112",
+                "b4113",
+                "b4113",
+                "b1969",
+                "b1969",
+                "b4576",
+                "b4576",
+                "b4689",
+                "b4689",
+                "b4610",
+                "b4610",
+                "b4545",
+                "b4545",
+                "b2079",
+                "b2079",
+                "b2554",
+                "b2554",
+                "b2370",
+                "b2370",
+                "b0571",
+                "b0571",
+                "b1914",
+                "b1914",
+                "b4062",
+                "b4062",
+                "b3961",
+                "b3961",
+                "b4795",
+                "b4795",
+                "b0683",
+                "b0683",
+                "b4777",
+                "b4777",
+                "b3702",
+                "b3702",
+                "b4753",
+                "b4753",
+                "b3743",
+                "b3743",
+                "b4738",
+                "b4738",
+                "b4396",
+                "b4396",
+                "b4684",
+                "b4684",
+                "b1275",
+                "b1275",
+                "b4596",
+                "b4596",
+                "b4525",
+                "b4525",
+                "b0899",
+                "b0899",
+                "b3357",
+                "b3357",
+                "b3210",
+                "b3210",
+                "b0889",
+                "b0889",
+                "b3438",
+                "b3438",
+                "b0694",
+                "b0694",
+                "b4406",
+                "b4406",
+                "b1531",
+                "b1531",
+                "b4791",
+                "b4791",
+                "b4063",
+                "b4063",
+                "b4774",
+                "b4774",
+                "b3868",
+                "b3868",
+                "b4749",
+                "b4749",
+                "b4735",
+                "b4735",
+                "b0313",
+                "b0313",
+                "b4683",
+                "b4683",
+                "b4592",
+                "b4592",
+                "b2839",
+                "b2839",
+                "b0020",
+                "b0020",
+                "b3667",
+                "b3667",
+                "b4393",
+                "b4393",
+                "b1130",
+                "b1130",
+                "b1530",
+                "b1530",
+                "b0620",
+                "b0620",
+                "b3938",
+                "b3938",
+                "b0878",
+                "b0878",
+                "b4401",
+                "b4401",
+                "b0076",
+                "b0076",
+                "b4743",
+                "b4743",
+                "b2213",
+                "b2213",
+                "b4788",
+                "b4788",
+                "b1323",
+                "b1323",
+                "b4771",
+                "b4771",
+                "b3773",
+                "b3773",
+                "b4746",
+                "b4746",
+                "b0566",
+                "b0566",
+                "b1013",
+                "b1013",
+                "b4732",
+                "b4732",
+                "b3556",
+                "b3556",
+                "b4670",
+                "b4670",
+                "b0761",
+                "b0761",
+                "b0322",
+                "b0322",
+                "b3828",
+                "b3828",
+                "b4398",
+                "b4398",
+                "b4802",
+                "b4802",
+                "b4785",
+                "b4785",
+                "b4768",
+                "b4768",
+                "b4742",
+                "b4742",
+                "b4729",
+                "b4729",
+                "b4622",
+                "b4622",
+                "b4567",
+                "b4567",
+                "b3025",
+                "b3025",
+                "b4702",
+                "b4702",
+                "b4799",
+                "b4799",
+                "b4782",
+                "b4782",
+                "b4757",
+                "b4757",
+                "b4726",
+                "b4726",
+                "b4612",
+                "b4612",
+                "b4547",
+                "b4547",
+                "b4602",
+                "b4602",
+                "b4796",
+                "b4796",
+                "b4778",
+                "b4778",
+                "b4754",
+                "b4754",
+                "b4739",
+                "b4739",
+                "b4672",
+                "b4672",
+                "b4604",
+                "b4604",
+                "b4537",
+                "b4537",
+                "b2125",
+                "b2125",
+                "b1330",
+                "b1330",
+                "b4792",
+                "b4792",
+                "b4775",
+                "b4775",
+                "b4750",
+                "b4750",
+                "b4736",
+                "b4736",
+                "b4663",
+                "b4663",
+                "b4593",
+                "b4593",
+                "b4637",
+                "b4637",
+                "b4526",
+                "b4526",
+                "b4789",
+                "b4789",
+                "b4772",
+                "b4772",
+                "b4747",
+                "b4747",
+                "b4733",
+                "b4733",
+                "b4677",
+                "b4677",
+                "b4534",
+                "b4534",
+                "b4598",
+                "b4598",
+                "b4786",
+                "b4786",
+                "b4769",
+                "b4769",
+                "b4744",
+                "b4744",
+                "b4730",
+                "b4730",
+                "b4655",
+                "b4655",
+                "b4522",
+                "b4522",
+                "b2074",
+                "b2074",
+                "b0879",
+                "b0879",
+                "b0619",
+                "b0619",
+                "b4565",
+                "b4565",
+                "b4800",
+                "b4800",
+                "b4783",
+                "b4783",
+                "b4765",
+                "b4765",
+                "b4727",
+                "b4727",
+                "b4615",
+                "b4615",
+                "b4548",
+                "b4548",
+                "b0399",
+                "b0399",
+                "b4797",
+                "b4797",
+                "b4779",
+                "b4779",
+                "b4755",
+                "b4755",
+                "b4740",
+                "b4740",
+                "b4688",
+                "b4688",
+                "b4605",
+                "b4605",
+                "b4538",
+                "b4538",
+                "b4793",
+                "b4793",
+                "b4776",
+                "b4776",
+                "b4752",
+                "b4752",
+                "b4737",
+                "b4737",
+                "b4671",
+                "b4671",
+                "b2829",
+                "b2829",
+                "b4594",
+                "b4594",
+                "b4504",
+                "b4504",
+                "b4599",
+                "b4599",
+                "b0450",
+                "b0450",
+                "b4613",
+                "b4613",
+                "b4790",
+                "b4790",
+                "b4773",
+                "b4773",
+                "b4748",
+                "b4748",
+                "b2078",
+                "b2078",
+                "b4734",
+                "b4734",
+                "b3119",
+                "b3119",
+                "b4674",
+                "b4674",
+                "b4589",
+                "b4589",
+                "b2380",
+                "b2380",
+                "b2364",
+                "b2364",
+                "b3118",
+                "b3118",
+                "b4606",
+                "b4606",
+                "b4515",
+                "b4515",
+                "b4787",
+                "b4787",
+                "b4770",
+                "b4770",
+                "b4745",
+                "b4745",
+                "b4133",
+                "b4133",
+                "b4731",
+                "b4731",
+                "b4669",
+                "b4669",
+                "b4523",
+                "b4523",
+                "b4801",
+                "b4801",
+                "b4784",
+                "b4784",
+                "b4767",
+                "b4767",
+                "b4741",
+                "b4741",
+                "b4728",
+                "b4728",
+                "b4621",
+                "b4621",
+                "b4554",
+                "b4554",
+                "b2706",
+                "b2706",
+                "b2786",
+                "b2786",
+                "b1609",
+                "b1609",
+                "b3418",
+                "b3418",
+                "b4798",
+                "b4798",
+                "b4781",
+                "b4781",
+                "b4756",
+                "b4756",
+                "b4558",
+                "b4558",
+                "b3906",
+                "b3906",
+                "b2151",
+                "b2151",
+                "b3094",
+                "b3094",
+                "b4705",
+                "b4705",
+                "b4518",
+                "b4518",
+                "b3668",
+                "b3668",
+                "b4118",
+                "b4118",
+                "b2707",
+                "b2707",
+                "b4415",
+                "b4415",
+                "b4725",
+                "b4725",
+                "b4679",
+                "b4679",
+                "b3905",
+                "b3905",
+                "b1620",
+                "b1620",
+                "b2386",
+                "b2386",
+                "b4812",
+                "b4812",
+                "b4721",
+                "b4721",
+                "b4675",
+                "b4675",
+                "b2805",
+                "b2805",
+                "b3669",
+                "b3669",
+                "b0345",
+                "b0345",
+                "b1500",
+                "b1500",
+                "b4678",
+                "b4678",
+                "b3075",
+                "b3075",
+                "b3753",
+                "b3753",
+                "b2837",
+                "b2837",
+                "b4682",
+                "b4682",
+                "b4502",
+                "b4502",
+                "b3601",
+                "b3601",
+                "b4409",
+                "b4409",
+                "b0064",
+                "b0064",
+                "b1187",
+                "b1187",
+                "b4527",
+                "b4527",
+                "b2525",
+                "b2525",
+                "G0-16693",
+                "G0-16693",
+                "b4686",
+                "b4686",
+                "b4512",
+                "b4512",
+                "b2220",
+                "b2220",
+                "b4520",
+                "b4520",
+                "b1120",
+                "b1120",
+                "b4595",
+                "b4595",
+                "b4723",
+                "b4723",
+                "b4676",
+                "b4676",
+                "b1916",
+                "b1916",
+                "b0435",
+                "b0435",
+                "b0840",
+                "b0840",
+                "b4706",
+                "b4706",
+                "b4722",
+                "b4722",
+                "b4673",
+                "b4673",
+                "b1073",
+                "b1073",
+                "b1891",
+                "b1891",
+                "b3934",
+                "b3934",
+                "b1888",
+                "b1888",
+                "b1080",
+                "b1080",
+                "b4601",
+                "b4601",
+                "b1890",
+                "b1890",
+                "b1077",
+                "b1077",
+                "b1945",
+                "b1945",
+                "b1074",
+                "b1074",
+                "b1004",
+                "b1004",
+                "b1882",
+                "b1882",
+                "b1883",
+                "b1883",
+                "b1889",
+                "b1889",
+                "b1078",
+                "b1078",
+                "b0676",
+                "b0676",
+                "b1946",
+                "b1946",
+                "b4557",
+                "b4557",
+                "b1938",
+                "b1938",
+                "b1079",
+                "b1079",
+                "b4016",
+                "b4016",
+                "b1939",
+                "b1939",
+                "b4018",
+                "b4018",
+                "b2808",
+                "b2808",
+                "G26",
+                "G26",
+                "b4703",
+                "b4703",
+                "b4514",
+                "b4514",
+                "b4539",
+                "b4539",
+                "b4487",
+                "b4487",
+                "b4724",
+                "b4724",
+                "b4685",
+                "b4685",
+                "b0338",
+                "b0338",
+                "b4618",
+                "b4618",
+                "b4043",
+                "b4043",
+                "b4720",
+                "b4720",
+                "b4535",
+                "b4535",
+                "b4680",
+                "b4680",
+                "b4555",
+                "b4555",
+                "b4546",
+                "b4546",
+                "b4536",
+                "b4536",
+                "b4568",
+                "b4568",
+                "b4551",
+                "b4551",
+                "b4541",
+                "b4541",
+                "b4529",
+                "b4529",
+                "b4620",
+                "b4620",
+                "b4553",
+                "b4553",
+                "b4542",
+                "b4542",
+                "b0080",
+                "b0080",
+                "b2731",
+                "b2731",
+                "G0-10624",
+                "G0-10624",
+                "b4715",
+                "b4715",
+                "b4004",
+                "b4004",
+                "b0994",
+                "b0994",
+                "b4586",
+                "b4586",
+                "b2193",
+                "b2193",
+                "b1221",
+                "b1221",
+                "b4667",
+                "b4667",
+                "b4664",
+                "b4664",
+                "b2730",
+                "b2730",
+                "b4687",
+                "b4687",
+                "b4665",
+                "b4665",
+                "b4559",
+                "b4559",
+                "b4780",
+                "b4780",
+                "b1334",
+                "b1334",
+                "b4668",
+                "b4668",
+                "b4666",
+                "b4666",
+                "b0730",
+                "b0730",
+                "b2191",
+                "b2191",
+                "b0165",
+                "b0165",
+                "G0-8898",
+                "G0-8898",
+                "b1594",
+                "b1594",
+                "b4223",
+                "b4223",
+                "b1437",
+                "b1437",
+                "b0017",
+                "b0017",
+                "G0-8893",
+                "G0-8893",
+                "b4274",
+                "b4274",
+                "b1364",
+                "b1364",
+                "G0-9387",
+                "G0-9387",
+                "G0-10704",
+                "G0-10704",
+                "b3975",
+                "b3975",
+                "b1005",
+                "b1005",
+                "G0-8911",
+                "G0-8911",
+                "G0-10700",
+                "G0-10700",
+                "b3004",
+                "b3004",
+                "b0609",
+                "b0609",
+                "G0-8906",
+                "G0-8906",
+                "b4591",
+                "b4591",
+                "b4794",
+                "b4794",
+                "b2596",
+                "b2596",
+                "b0309",
+                "b0309",
+                "G0-8902",
+                "G0-8902",
+                "b4517",
+                "b4517",
+                "b0079",
+                "b0079",
+                "b1903",
+                "b1903",
+                "b4803",
+                "b4803",
+                "b0100",
+                "b0100",
+                "b4751",
+                "b4751",
+                "G0-8894",
+                "G0-8894",
+                "b0701",
+                "b0701",
+                "b1367",
+                "b1367",
+                "b4617",
+                "b4617",
+                "G0-10705",
+                "G0-10705",
+                "b4247",
+                "b4247",
+                "b4766",
+                "b4766",
+                "b1052",
+                "b1052",
+                "G0-8912",
+                "G0-8912",
+                "G0-10702",
+                "G0-10702",
+                "b3007",
+                "b3007",
+                "b1658",
+                "b1658",
+                "b0725",
+                "b0725",
+                "G0-8907",
+                "G0-8907",
+                "b4607",
+                "b4607",
+                "b2651",
+                "b2651",
+                "b0370",
+                "b0370",
+                "G0-8903",
+                "G0-8903",
+                "G0-10202",
+                "G0-10202",
+                "b2084",
+                "b2084",
+                "b0105",
+                "b0105",
+                "G0-8896",
+                "G0-8896",
+                "b3036",
+                "b3036",
+                "b1425",
+                "b1425",
+                "G14",
+                "G14",
+                "b4448",
+                "b4448",
+                "b4250",
+                "b4250",
+                "b1354",
+                "b1354",
+                "G0-9384",
+                "G0-9384",
+                "G0-10703",
+                "G0-10703",
+                "b3254",
+                "b3254",
+                "b0816",
+                "b0816",
+                "G0-8908",
+                "G0-8908",
+                "G0-10698",
+                "G0-10698",
+                "b2653",
+                "b2653",
+                "b0538",
+                "b0538",
+                "b4434",
+                "b4434",
+                "b4590",
+                "b4590",
+                "b4556",
+                "b4556",
+                "b4648",
+                "b4648",
+                "b4552",
+                "b4552",
+                "b4645",
+                "b4645",
+                "b4508",
+                "b4508",
+                "b3423",
+                "b3423",
+                "b3912",
+                "b3912",
+                "b4708",
+                "b4708",
+                "b4640",
+                "b4640",
+                "b4656",
+                "b4656",
+                "b4643",
+                "b4643",
+                "b4652",
+                "b4652",
+                "b4628",
+                "b4628",
+                "b4649",
+                "b4649",
+                "b4561",
+                "b4561",
+                "b4646",
+                "b4646",
+                "b4519",
+                "b4519",
+                "b4503",
+                "b4503",
+                "b4639",
+                "b4639",
+                "b4346",
+                "b4346",
+                "b0782",
+                "b0782",
+                "b4642",
+                "b4642",
+                "b4653",
+                "b4653",
+                "b4631",
+                "b4631",
+                "b2553",
+                "b2553",
+                "b4614",
+                "b4614",
+                "b4647",
+                "b4647",
+                "b4543",
+                "b4543",
+                "b2353",
+                "b2353",
+                "b4636",
+                "b4636",
+                "b4524",
+                "b4524",
+                "b4697",
+                "b4697",
+                "b4641",
+                "b4641"
+            ],
+            "importance": "medium",
+            "to_do": "Manually fill the products (with types) of these genes in genes.txt"
+        }
+    ],
+    "org.prune_genbank": [
+        {
+            "msg": "Some features contain a sequence that is not divisible by 3.",
+            "triggered_by": [
+                {
+                    "gene": [
+                        "ykfC"
+                    ],
+                    "locus_tag": [
+                        "b0258"
+                    ],
+                    "gene_synonym": [
+                        "ECK0260; JW5813"
+                    ],
+                    "note": [
+                        "CP4-6 prophage; conserved protein;Phage or Prophage Related"
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "db_xref": [
+                        "ASAP:ABE-0000885",
+                        "UniProtKB/Swiss-Prot:Q47688",
+                        "EcoGene:EG13341",
+                        "GeneID:944940"
+                    ],
+                    "location": "[272070:273178](+)"
+                },
+                {
+                    "gene": [
+                        "ykgS"
+                    ],
+                    "locus_tag": [
+                        "b4688"
+                    ],
+                    "gene_synonym": [
+                        "ECK4504"
+                    ],
+                    "note": [
+                        "pseudogene"
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "db_xref": [
+                        "EcoGene:EG14492",
+                        "GeneID:7751632"
+                    ],
+                    "location": "[289652:289857](+)"
+                },
+                {
+                    "gene": [
+                        "eaeH"
+                    ],
+                    "locus_tag": [
+                        "b0297"
+                    ],
+                    "gene_synonym": [
+                        "ECK0297; JW0291"
+                    ],
+                    "GO_component": [
+                        "GO:0009279 - cell outer membrane; GO:0009274 - peptidoglycan-based cell wall"
+                    ],
+                    "note": [
+                        "pseudogene, attaching and effacing protein homology;factor; Not classified"
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "db_xref": [
+                        "ASAP:ABE-0001025",
+                        "UniProtKB/Swiss-Prot:P36943",
+                        "EcoGene:EG12161",
+                        "GeneID:944957"
+                    ],
+                    "location": "[313580:314452](+)"
+                },
+                {
+                    "gene": [
+                        "yaiX"
+                    ],
+                    "locus_tag": [
+                        "b4579"
+                    ],
+                    "gene_synonym": [
+                        "ECK0356; JW0350; yaiF"
+                    ],
+                    "note": [
+                        "pseudogene, interrupted by IS2A, acetyltransferase homolog; putative transferase; nonfunctional; interruped by IS2"
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "db_xref": [
+                        "ASAP:ABE-0001232",
+                        "ASAP:ABE-0001241",
+                        "ASAP:ABE-0285111",
+                        "UniProtKB/Swiss-Prot:P75697",
+                        "EcoGene:EG14236",
+                        "GeneID:4056039"
+                    ],
+                    "location": "join{[381814:382096](-), [380067:380483](-)}"
+                },
+                {
+                    "gene": [
+                        "ybbD"
+                    ],
+                    "locus_tag": [
+                        "b0501"
+                    ],
+                    "gene_synonym": [
+                        "ECK0494; JW0489"
+                    ],
+                    "note": [
+                        "pseudogene"
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "db_xref": [
+                        "ASAP:ABE-0001731",
+                        "UniProtKB/Swiss-Prot:P33669",
+                        "EcoGene:EG11770",
+                        "GeneID:945133"
+                    ],
+                    "location": "[527863:528354](+)"
+                },
+                {
+                    "gene": [
+                        "beeE"
+                    ],
+                    "locus_tag": [
+                        "b1151"
+                    ],
+                    "gene_synonym": [
+                        "ECK1137; JW1137; ymfO"
+                    ],
+                    "note": [
+                        "pseudogene, portal protein family, e14 prophage;Phage or Prophage Related"
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "db_xref": [
+                        "ASAP:ABE-0003870",
+                        "UniProtKB/Swiss-Prot:P75980",
+                        "EcoGene:EG14253",
+                        "GeneID:945698"
+                    ],
+                    "location": "[1204953:1205365](+)"
+                },
+                {
+                    "gene": [
+                        "ycgH"
+                    ],
+                    "locus_tag": [
+                        "b4491"
+                    ],
+                    "gene_synonym": [
+                        "ECK1157; JW5176; JW5901"
+                    ],
+                    "note": [
+                        "pseudogene; putative ATP-binding component of a transport system"
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "db_xref": [
+                        "ASAP:ABE-0003921",
+                        "ASAP:ABE-0003924",
+                        "ASAP:ABE-0285092",
+                        "EcoGene:EG13889",
+                        "GeneID:2847703"
+                    ],
+                    "location": "[1218823:1221471](+)"
+                },
+                {
+                    "gene": [
+                        "ydaW"
+                    ],
+                    "locus_tag": [
+                        "b1361"
+                    ],
+                    "gene_synonym": [
+                        "ECK1359; JW5211"
+                    ],
+                    "note": [
+                        "Rac prophage; pseudogene, DNA-binding protein homoolgy;Phage or Prophage Related"
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "db_xref": [
+                        "ASAP:ABE-0004562",
+                        "UniProtKB/Swiss-Prot:P76066",
+                        "EcoGene:EG13365",
+                        "GeneID:945927"
+                    ],
+                    "location": "[1420724:1421224](+)"
+                },
+                {
+                    "gene": [
+                        "lomR"
+                    ],
+                    "locus_tag": [
+                        "b4570"
+                    ],
+                    "gene_synonym": [
+                        "ECK1366; JW5884; JW5904"
+                    ],
+                    "note": [
+                        "pseudogene, Rac prophage lom homolog;Phage or Prophage Related; interrupted by IS5 and N-ter deletion"
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "db_xref": [
+                        "ASAP:ABE-0004583",
+                        "ASAP:ABE-0004590",
+                        "ASAP:ABE-0285103",
+                        "EcoGene:EG14315",
+                        "GeneID:4056036"
+                    ],
+                    "location": "join{[1425412:1425622](+), [1426818:1427008](+)}"
+                },
+                {
+                    "gene": [
+                        "yneO"
+                    ],
+                    "locus_tag": [
+                        "b4696"
+                    ],
+                    "gene_synonym": [
+                        "ECK1503; JW1503; orfT; ydeK; ydeU"
+                    ],
+                    "note": [
+                        "pseudogene, AidA homolog"
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "db_xref": [
+                        "ASAP:ABE-0005037",
+                        "UniProtKB/Swiss-Prot:P32051",
+                        "EcoGene:EG11780",
+                        "GeneID:7751623"
+                    ],
+                    "location": "[1590688:1596011](-)"
+                },
+                {
+                    "gene": [
+                        "yoeA"
+                    ],
+                    "locus_tag": [
+                        "b4582"
+                    ],
+                    "gene_synonym": [
+                        "ECK1989; JW5326; yoeE"
+                    ],
+                    "note": [
+                        "CP4-44 prophage; predicted disrupted hemin or colicin receptor;Phage or Prophage Related; interrupted by IS2 and C-terminal deletion"
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "db_xref": [
+                        "ASAP:ABE-0006626",
+                        "ASAP:ABE-0006636",
+                        "ASAP:ABE-0285114",
+                        "EcoGene:EG14308",
+                        "GeneID:4056042"
+                    ],
+                    "location": "join{[2066658:2066962](+), [2068293:2068498](+)}"
+                },
+                {
+                    "gene": [
+                        "ygaY"
+                    ],
+                    "locus_tag": [
+                        "b2681"
+                    ],
+                    "gene_synonym": [
+                        "ECK2674; JW2655; ygaX"
+                    ],
+                    "GO_process": [
+                        "GO:0006950 - response to stress"
+                    ],
+                    "note": [
+                        "predicted transporter (pseudogene);putative transport; Not classified; putative transport protein"
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "db_xref": [
+                        "ASAP:ABE-0008822",
+                        "ASAP:ABE-0008824",
+                        "UniProtKB/Swiss-Prot:P76628",
+                        "EcoGene:EG13527",
+                        "GeneID:2847696"
+                    ],
+                    "location": "[2806337:2807515](+)"
+                },
+                {
+                    "gene": [
+                        "yqiG"
+                    ],
+                    "locus_tag": [
+                        "b3046"
+                    ],
+                    "gene_synonym": [
+                        "ECK3035; JW5507"
+                    ],
+                    "GO_component": [
+                        "GO:0009279 - cell outer membrane; GO:0009274 - peptidoglycan-based cell wall"
+                    ],
+                    "note": [
+                        "pseudogene; outer membrane usher homology;putative membrane; Not classified; putative membrane protein"
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "db_xref": [
+                        "ASAP:ABE-0010001",
+                        "UniProtKB/Swiss-Prot:P76655",
+                        "EcoGene:EG14228",
+                        "GeneID:947529"
+                    ],
+                    "location": "join{[3184082:3184111](+), [3185442:3187887](+)}"
+                },
+                {
+                    "gene": [
+                        "yrdF"
+                    ],
+                    "locus_tag": [
+                        "b4697"
+                    ],
+                    "gene_synonym": [
+                        "ECK4509"
+                    ],
+                    "note": [
+                        "pseudogene, conserved protein"
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "db_xref": [
+                        "EcoGene:EG14497",
+                        "GeneID:7751640"
+                    ],
+                    "location": "[3402516:3402659](+)"
+                },
+                {
+                    "gene": [
+                        "mokA"
+                    ],
+                    "locus_tag": [
+                        "b4647"
+                    ],
+                    "gene_synonym": [
+                        "ECK4448"
+                    ],
+                    "note": [
+                        "pseudogene, overlapping regulatory peptide, enables hokB"
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "db_xref": [
+                        "EcoGene:EG14436",
+                        "GeneID:5625573"
+                    ],
+                    "location": "[3718470:3718655](-)"
+                },
+                {
+                    "gene": [
+                        "yibV"
+                    ],
+                    "locus_tag": [
+                        "b4615"
+                    ],
+                    "gene_synonym": [
+                        "ECK4424"
+                    ],
+                    "note": [
+                        "hypothetical protein, no homologs"
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "db_xref": [
+                        "EcoGene:EG14438",
+                        "GeneID:5061524"
+                    ],
+                    "location": "[3767367:3767806](+)"
+                },
+                {
+                    "gene": [
+                        "glvG"
+                    ],
+                    "locus_tag": [
+                        "b4556"
+                    ],
+                    "gene_synonym": [
+                        "ECK3673; JW3658; yidM; ysdC"
+                    ],
+                    "GO_process": [
+                        "GO:0016052 - carbohydrate catabolic process; GO:0009435 - NAD biosynthetic process"
+                    ],
+                    "note": [
+                        "pseudogene; probable 6-phospho-beta-glucosidase"
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "db_xref": [
+                        "ASAP:ABE-0012036",
+                        "ASAP:ABE-0285077",
+                        "UniProtKB/Swiss-Prot:P31450",
+                        "EcoGene:EG11708",
+                        "GeneID:1450301"
+                    ],
+                    "location": "[3859195:3860010](-)"
+                },
+                {
+                    "gene": [
+                        "insO"
+                    ],
+                    "locus_tag": [
+                        "b4623"
+                    ],
+                    "gene_synonym": [
+                        "ECK4476; insN2; ORFAB; yjhW"
+                    ],
+                    "note": [
+                        "pseudogene, IS911 transposase B;IS, phage, Tn; Transposon-related functions; extrachromosomal; transposon related"
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "db_xref": [
+                        "ASAP:ABE-0014040",
+                        "EcoGene:EG40121",
+                        "GeneID:5061531"
+                    ],
+                    "location": "join{[4505219:4505474](+), [4507031:4507816](+)}"
+                }
+            ],
+            "importance": "critical",
+            "to_do": "Check whether any of these genes are translated in your final ME-model. If so, fix the positions of the gene in genome_modified.gb"
+        }
+    ],
+    "org.update_genbank_from_files": [
+        {
+            "msg": "Could not add some genes in genes.txt to genbank.gb since they lack position information",
+            "triggered_by": [
+                "G0-9281",
+                "G26"
+            ],
+            "importance": "medium",
+            "to_do": "Fill in position information in genes.txt"
+        }
+    ],
+    "org.get_rpod": [
+        {
+            "msg": "RpoD_mono was identified as RpoD. If this is not true, define RpoD!",
+            "importance": "high",
+            "to_do": "Check whether you need to correct RpoD by running me_builder.org.rpod = correct_rpod"
+        }
+    ],
+    "org.get_rna_polymerase": [
+        {
+            "msg": "hRNAP was identified as RNA polymerase",
+            "importance": "high",
+            "to_do": "Check whether you need to correct RNAP by running me_builder.org.get_rna_polymerase(force_RNAP_as=correct_RNAP)"
+        }
+    ],
+    "org.get_TU_df": [
+        {
+            "msg": "Some genes appear in TUs.txt but not in genes.txt",
+            "triggered_by": [
+                "G0-8893",
+                "G0-16737",
+                "G0-16685",
+                "G0-16687",
+                "G0-16686",
+                "G0-16690",
+                "G0-16685",
+                "G0-10546",
+                "G0-9387",
+                "G0-10529",
+                "G0-17023",
+                "G0-17088",
+                "G0-10541",
+                "G0-16690",
+                "G0-10538",
+                "G0-10530",
+                "G0-16737",
+                "G0-17088",
+                "G0-10531",
+                "G0-8893",
+                "G0-10536",
+                "G0-17100",
+                "G0-16685",
+                "G0-8906",
+                "G0-8893",
+                "G0-17074",
+                "G0-8893",
+                "G0-16736",
+                "G0-10535",
+                "G0-16721",
+                "G0-10540",
+                "G0-10525",
+                "G0-16736",
+                "G0-17101",
+                "G0-10543",
+                "G0-16690",
+                "EG11213",
+                "G0-16690",
+                "G0-10559",
+                "G0-16742",
+                "G0-17103",
+                "G0-10544",
+                "G0-10542",
+                "G0-17102",
+                "G0-10528",
+                "G0-16690",
+                "G0-10545",
+                "G0-16731",
+                "G0-10539",
+                "G0-9384",
+                "G0-10537",
+                "G0-10550"
+            ],
+            "importance": "medium",
+            "to_do": "If those genes are supposed to be in the model, fill them in genes.txt"
+        },
+        {
+            "msg": "Some TUs are either empty (no genes in TUs.txt) or contain genes that are not in genes.txt",
+            "triggered_by": [
+                "TU0-52570",
+                "TU0-13611",
+                "TU0-14330",
+                "TU0-44222",
+                "TU0-7061",
+                "TU0-13332",
+                "TU0-12893"
+            ],
+            "importance": "medium",
+            "to_do": "If those TUs contain genes that are supposed to be in the model, fill them in TUs.txt and genes.txt"
+        }
+    ],
+    "org.get_trna_synthetase": [
+        {
+            "msg": "No tRNA ligases were found for some amino acids. Assigned CPLX_dummy.",
+            "triggered_by": [
+                "ala__L_c",
+                "arg__L_c",
+                "asn__L_c",
+                "asp__L_c",
+                "cys__L_c",
+                "gln__L_c",
+                "glu__L_c",
+                "his__L_c",
+                "ile__L_c",
+                "leu__L_c",
+                "lys__L_c",
+                "met__L_c",
+                "pro__L_c",
+                "ser__L_c",
+                "thr__L_c",
+                "trp__L_c",
+                "tyr__L_c",
+                "val__L_c"
+            ],
+            "importance": "high",
+            "to_do": "Check whether your organism should have a ligase for these amino acids, or if you need to add a reaction to get it (e.g. tRNA amidotransferases)"
+        }
+    ],
+    "org.purge_genes_in_model": [
+        {
+            "msg": "Some genes in M-model were not found in genes.txt or genome.gb. These genes will be skipped in reconstruction.",
+            "triggered_by": [
+                "s0001"
+            ],
+            "importance": "high",
+            "to_do": "Confirm the gene is correct in the m_model. If so, add it to genes.txt"
+        }
+    ],
+    "org.get_complex_homology": [
+        {
+            "msg": "Some complexes were partial hits in the BLAST",
+            "triggered_by": [
+                {
+                    "complex": "EG11009-MONOMER",
+                    "reference_complex": "CPLX0-3932"
+                },
+                {
+                    "complex": "EG11009-MONOMER",
+                    "reference_complex": "CPLX0-2141"
+                },
+                {
+                    "complex": "EG11009-MONOMER",
+                    "reference_complex": "TRANS-CPLX-201"
+                },
+                {
+                    "complex": "PABASYN-COMPI-MONOMER",
+                    "reference_complex": "PABASYN-CPLX"
+                },
+                {
+                    "complex": "ABC-3-CPLX",
+                    "reference_complex": "ABC-14-CPLX"
+                },
+                {
+                    "complex": "EG11910-MONOMER_dimer",
+                    "reference_complex": "EG11910-MONOMER_dimer_EG11911-MONOMER"
+                },
+                {
+                    "complex": "CPLX-167",
+                    "reference_complex": "EIISGA"
+                },
+                {
+                    "complex": "CPLX-167",
+                    "reference_complex": "CPLX0-7"
+                },
+                {
+                    "complex": "CPLX-167",
+                    "reference_complex": "CPLX-169"
+                },
+                {
+                    "complex": "CPLX-167",
+                    "reference_complex": "CPLX0-231"
+                },
+                {
+                    "complex": "CPLX-167",
+                    "reference_complex": "CPLX-157"
+                },
+                {
+                    "complex": "CPLX-167",
+                    "reference_complex": "CPLX-163"
+                },
+                {
+                    "complex": "CPLX-167",
+                    "reference_complex": "CPLX-168"
+                },
+                {
+                    "complex": "CPLX-167",
+                    "reference_complex": "CPLX-164"
+                },
+                {
+                    "complex": "CPLX-167",
+                    "reference_complex": "CPLX-158"
+                },
+                {
+                    "complex": "CPLX-167",
+                    "reference_complex": "CPLX-165"
+                },
+                {
+                    "complex": "CPLX-167",
+                    "reference_complex": "CPLX-153"
+                },
+                {
+                    "complex": "CPLX-167",
+                    "reference_complex": "CPLX-154"
+                },
+                {
+                    "complex": "CPLX-167",
+                    "reference_complex": "CPLX-166"
+                },
+                {
+                    "complex": "ABC-7-CPLX",
+                    "reference_complex": "ABC-70-CPLX"
+                },
+                {
+                    "complex": "ANTHRANSYNCOMPII-MONOMER",
+                    "reference_complex": "ANTHRANSYN-CPLX"
+                },
+                {
+                    "complex": "CPLX0-1941",
+                    "reference_complex": "CPLX0-1942"
+                },
+                {
+                    "complex": "CPLX0-1941",
+                    "reference_complex": "CPLX0-1923_EG10306-MONOMER"
+                },
+                {
+                    "complex": "CPLX0-1941",
+                    "reference_complex": "G6414-MONOMER_CPLX0-1923"
+                },
+                {
+                    "complex": "CPLX0-1941",
+                    "reference_complex": "CPLX0-1923_EG10155-MONOMER"
+                },
+                {
+                    "complex": "CPLX0-1941",
+                    "reference_complex": "CPLX0-1943"
+                },
+                {
+                    "complex": "CPLX0-1941",
+                    "reference_complex": "CPLX0-1924"
+                },
+                {
+                    "complex": "ANTHRANSYN-CPLX",
+                    "reference_complex": "ANTHRANSYNCOMPII-MONOMER"
+                },
+                {
+                    "complex": "HYDROG3-CPLX",
+                    "reference_complex": "FHLMULTI-CPLX"
+                },
+                {
+                    "complex": "EIISGA",
+                    "reference_complex": "CPLX-167"
+                },
+                {
+                    "complex": "YheL_mono",
+                    "reference_complex": "YheLMN_cplx"
+                },
+                {
+                    "complex": "FLAVONADPREDUCT-MONOMER",
+                    "reference_complex": "NRDACTMULTI-CPLX"
+                },
+                {
+                    "complex": "DHHB-METHYLTRANSFER-CPLX",
+                    "reference_complex": "UBIX-MONOMER_DHHB-METHYLTRANSFER-MONOMER"
+                },
+                {
+                    "complex": "ASPCARBTRANS-CPLX",
+                    "reference_complex": "ASPCARBCAT-TRIMER"
+                },
+                {
+                    "complex": "CPLX0-7838",
+                    "reference_complex": "CPLX0-7838_CPLX0-7839"
+                },
+                {
+                    "complex": "MnmE_dim",
+                    "reference_complex": "MnmEG_cplx"
+                },
+                {
+                    "complex": "FHLMULTI-CPLX",
+                    "reference_complex": "HYDROG3-CPLX"
+                },
+                {
+                    "complex": "ATPSYN-CPLX_EG10106-MONOMER",
+                    "reference_complex": "ATPSYN-CPLX"
+                },
+                {
+                    "complex": "GRXB-MONOMER",
+                    "reference_complex": "GRXB-MONOMER_EG12237-MONOMER"
+                },
+                {
+                    "complex": "CPLX0-7838_CPLX0-7839",
+                    "reference_complex": "CPLX0-7838"
+                },
+                {
+                    "complex": "CPLX0-1942",
+                    "reference_complex": "CPLX0-1941"
+                },
+                {
+                    "complex": "ATPASE-1-CPLX_no_MONOMER0-12",
+                    "reference_complex": "ATPASE-1-CPLX"
+                },
+                {
+                    "complex": "CPLX0-7717",
+                    "reference_complex": "CPLX0-7717_G6561-MONOMER"
+                },
+                {
+                    "complex": "CPLX0-7717_G6561-MONOMER",
+                    "reference_complex": "G7322-MONOMER_G6561-MONOMER"
+                },
+                {
+                    "complex": "CPLX0-7717_G6561-MONOMER",
+                    "reference_complex": "CPLX0-3951_G6561-MONOMER"
+                },
+                {
+                    "complex": "ThiI_mono",
+                    "reference_complex": "THIH-MONOMER_THIF-MONOMER_THII-MONOMER_THIS-MONOMER"
+                },
+                {
+                    "complex": "EG11829-MONOMER",
+                    "reference_complex": "EG11829-MONOMER_EG11828-MONOMER"
+                },
+                {
+                    "complex": "NAP-CPLX",
+                    "reference_complex": "NAPAB-CPLX_NAPC-MONOMER"
+                },
+                {
+                    "complex": "GRXB-MONOMER_EG12237-MONOMER",
+                    "reference_complex": "GRXB-MONOMER"
+                },
+                {
+                    "complex": "ATPASE-1-CPLX",
+                    "reference_complex": "ATPASE-1-CPLX_no_MONOMER0-12"
+                },
+                {
+                    "complex": "NAPAB-CPLX_NAPC-MONOMER",
+                    "reference_complex": "NAP-CPLX"
+                },
+                {
+                    "complex": "ABC-22-CPLX",
+                    "reference_complex": "CPLX0-3970"
+                },
+                {
+                    "complex": "CPLX0-3970",
+                    "reference_complex": "ABC-22-CPLX"
+                },
+                {
+                    "complex": "ATPSYN-CPLX",
+                    "reference_complex": "ATPSYN-CPLX_EG10106-MONOMER"
+                },
+                {
+                    "complex": "PYRUVFORMLY-INACTIVE-CPLX",
+                    "reference_complex": "PYRUVFORMLY-MONOMER_EG11784-MONOMER"
+                },
+                {
+                    "complex": "ASPCARBCAT-TRIMER",
+                    "reference_complex": "ASPCARBTRANS-CPLX"
+                },
+                {
+                    "complex": "YheLMN_cplx",
+                    "reference_complex": "YheL_mono"
+                },
+                {
+                    "complex": "MnmEG_cplx",
+                    "reference_complex": "MnmE_dim"
+                },
+                {
+                    "complex": "Sec-CPLX",
+                    "reference_complex": "SecYE-CPLX"
+                },
+                {
+                    "complex": "SecYE-CPLX",
+                    "reference_complex": "Sec-CPLX"
+                },
+                {
+                    "complex": "Bam-CPLX",
+                    "reference_complex": "BamAD-CPLX"
+                },
+                {
+                    "complex": "BamAD-CPLX",
+                    "reference_complex": "Bam-CPLX"
+                },
+                {
+                    "complex": "G7486-MONOMER",
+                    "reference_complex": "CPLX0-761"
+                },
+                {
+                    "complex": "LARGEILVB-MONOMER",
+                    "reference_complex": "ACETOLACTSYNI-CPLX"
+                },
+                {
+                    "complex": "ACETOLACTSYNIII-HCHAIN-MONOMER",
+                    "reference_complex": "ACETOLACTSYNIII-CPLX"
+                },
+                {
+                    "complex": "EG11025-MONOMER",
+                    "reference_complex": "TRYPSYN"
+                },
+                {
+                    "complex": "G6359-MONOMER",
+                    "reference_complex": "ABC-13-CPLX"
+                },
+                {
+                    "complex": "LEUC-MONOMER",
+                    "reference_complex": "3-ISOPROPYLMALISOM-CPLX"
+                },
+                {
+                    "complex": "LIVJ-MONOMER",
+                    "reference_complex": "ABC-15-CPLX"
+                },
+                {
+                    "complex": "LIVK-MONOMER",
+                    "reference_complex": "ABC-304-CPLX"
+                },
+                {
+                    "complex": "YDCS-MONOMER",
+                    "reference_complex": "ABC-51-CPLX"
+                },
+                {
+                    "complex": "CYCLASE-MONOMER",
+                    "reference_complex": "GLUTAMIDOTRANS-CPLX"
+                },
+                {
+                    "complex": "ARTJ-MONOMER",
+                    "reference_complex": "ABC-4-CPLX"
+                },
+                {
+                    "complex": "EG10135-MONOMER",
+                    "reference_complex": "CARBPSYN-CPLX"
+                },
+                {
+                    "complex": "GLNQ-MONOMER",
+                    "reference_complex": "ABC-12-CPLX"
+                },
+                {
+                    "complex": "ARGT-MONOMER",
+                    "reference_complex": "ABC-3-CPLX"
+                },
+                {
+                    "complex": "BCCP-MONOMER",
+                    "reference_complex": "ACETYL-COA-CARBOXYLMULTI-CPLX"
+                },
+                {
+                    "complex": "CCMA-MONOMER",
+                    "reference_complex": "ABC-35-CPLX"
+                },
+                {
+                    "complex": "G6847-MONOMER",
+                    "reference_complex": "CPLX0-1601"
+                },
+                {
+                    "complex": "G6178-MONOMER",
+                    "reference_complex": "G6176-MONOMER_G6177-MONOMER_G6178-MONOMER"
+                },
+                {
+                    "complex": "YLIC-MONOMER",
+                    "reference_complex": "ABC-49-CPLX"
+                },
+                {
+                    "complex": "G6322-MONOMER",
+                    "reference_complex": "CPLX0-1721"
+                },
+                {
+                    "complex": "TRKA-MONOMER",
+                    "reference_complex": "TRKA-MONOMER_SAPD-MONOMER_TRKG-MONOMER"
+                },
+                {
+                    "complex": "TRKA-MONOMER",
+                    "reference_complex": "TRKA-MONOMER_SAPD-MONOMER_TRKH-MONOMER"
+                },
+                {
+                    "complex": "FECE-MONOMER",
+                    "reference_complex": "ABC-9-CPLX"
+                },
+                {
+                    "complex": "FHUC-MONOMER",
+                    "reference_complex": "ABC-11-CPLX"
+                },
+                {
+                    "complex": "FEPC-MONOMER",
+                    "reference_complex": "ABC-10-CPLX"
+                },
+                {
+                    "complex": "PROV-MONOMER",
+                    "reference_complex": "ABC-26-CPLX"
+                },
+                {
+                    "complex": "EG12130-MONOMER",
+                    "reference_complex": "EG12130-MONOMER_EG12131-MONOMER"
+                },
+                {
+                    "complex": "GLYS-MONOMER",
+                    "reference_complex": "Gly_RS_tetra"
+                },
+                {
+                    "complex": "PHES-MONOMER",
+                    "reference_complex": "Phe_RS_tetra"
+                },
+                {
+                    "complex": "EG11982-MONOMER",
+                    "reference_complex": "G7090-MONOMER_EG11982-MONOMER"
+                },
+                {
+                    "complex": "MALG-MONOMER",
+                    "reference_complex": "ABC-16-CPLX"
+                },
+                {
+                    "complex": "CYOA-MONOMER",
+                    "reference_complex": "CYT-O-UBIOX-CPLX"
+                },
+                {
+                    "complex": "XYLH-MONOMER",
+                    "reference_complex": "ABC-33-CPLX"
+                },
+                {
+                    "complex": "NUOL-MONOMER",
+                    "reference_complex": "NADH-DHI-CPLX"
+                },
+                {
+                    "complex": "EG11815-MONOMER",
+                    "reference_complex": "TMAOREDUCTI-CPLX"
+                },
+                {
+                    "complex": "POTH-MONOMER",
+                    "reference_complex": "ABC-25-CPLX"
+                },
+                {
+                    "complex": "G7664-MONOMER",
+                    "reference_complex": "ABC-53-CPLX"
+                },
+                {
+                    "complex": "EG10932-MONOMER",
+                    "reference_complex": "SUCC-DEHASE"
+                },
+                {
+                    "complex": "POTC-MONOMER",
+                    "reference_complex": "ABC-24-CPLX"
+                },
+                {
+                    "complex": "YDDQ-MONOMER",
+                    "reference_complex": "ABC-59-CPLX"
+                },
+                {
+                    "complex": "CYDA-MONOMER",
+                    "reference_complex": "CYT-D-UBIOX-CPLX"
+                },
+                {
+                    "complex": "YEHY-MONOMER",
+                    "reference_complex": "ABC-40-CPLX"
+                },
+                {
+                    "complex": "EG11295-MONOMER",
+                    "reference_complex": "CPLX0-3976_edit"
+                },
+                {
+                    "complex": "PNTA-MONOMER",
+                    "reference_complex": "PYRNUTRANSHYDROGEN-CPLX"
+                },
+                {
+                    "complex": "RPOC-MONOMER",
+                    "reference_complex": "hRNAP"
+                },
+                {
+                    "complex": "MONOMER0-2682",
+                    "reference_complex": "CPLX0-7720"
+                },
+                {
+                    "complex": "DMSB-MONOMER",
+                    "reference_complex": "DIMESULFREDUCT-CPLX"
+                },
+                {
+                    "complex": "NIKB-MONOMER",
+                    "reference_complex": "ABC-20-CPLX"
+                },
+                {
+                    "complex": "EG11479-MONOMER",
+                    "reference_complex": "TatBC_octa"
+                },
+                {
+                    "complex": "APPB-MONOMER",
+                    "reference_complex": "APP-UBIOX-CPLX"
+                },
+                {
+                    "complex": "ANGLYC3PDEHYDROGSUBUNITC-MONOMER",
+                    "reference_complex": "ANGLYC3PDEHYDROG-CPLX"
+                },
+                {
+                    "complex": "FDOI-MONOMER",
+                    "reference_complex": "FORMATEDEHYDROGO-CPLX"
+                },
+                {
+                    "complex": "PSTA-MONOMER",
+                    "reference_complex": "ABC-27-CPLX"
+                },
+                {
+                    "complex": "NARI-MONOMER",
+                    "reference_complex": "NITRATREDUCTA-CPLX"
+                },
+                {
+                    "complex": "BTUC-MONOMER",
+                    "reference_complex": "ABC-5-CPLX"
+                },
+                {
+                    "complex": "YTFT-MONOMER",
+                    "reference_complex": "ABC-46-CPLX"
+                },
+                {
+                    "complex": "SFUB-MONOMER",
+                    "reference_complex": "ABC-32-CPLX"
+                },
+                {
+                    "complex": "FDNH-MONOMER",
+                    "reference_complex": "FORMATEDEHYDROGN-CPLX"
+                },
+                {
+                    "complex": "MONOMER0-143",
+                    "reference_complex": "CPLX0-250_FORMATEDEHYDROGH-MONOMER"
+                },
+                {
+                    "complex": "YCFU-MONOMER",
+                    "reference_complex": "LolCDE-CPLX"
+                },
+                {
+                    "complex": "MONOMER0-422",
+                    "reference_complex": "TRANS-CPLX-203"
+                },
+                {
+                    "complex": "UGPA-MONOMER",
+                    "reference_complex": "ABC-34-CPLX"
+                },
+                {
+                    "complex": "CYDC-MONOMER",
+                    "reference_complex": "ABC-6-CPLX"
+                },
+                {
+                    "complex": "DPPB-MONOMER",
+                    "reference_complex": "ABC-8-CPLX"
+                },
+                {
+                    "complex": "EG10332-MONOMER",
+                    "reference_complex": "FUMARATE-REDUCTASE"
+                },
+                {
+                    "complex": "YJCV-MONOMER",
+                    "reference_complex": "ABC-42-CPLX"
+                },
+                {
+                    "complex": "B1599-MONOMER",
+                    "reference_complex": "YDGEF-CPLX"
+                },
+                {
+                    "complex": "MGLC-MONOMER",
+                    "reference_complex": "ABC-18-CPLX"
+                },
+                {
+                    "complex": "YCBM-MONOMER",
+                    "reference_complex": "ABC-56-CPLX"
+                },
+                {
+                    "complex": "TAUC-MONOMER",
+                    "reference_complex": "ABC-64-CPLX"
+                },
+                {
+                    "complex": "CYST-MONOMER",
+                    "reference_complex": "ABC-7-CPLX"
+                },
+                {
+                    "complex": "NRFC-MONOMER",
+                    "reference_complex": "NRFMULTI-CPLX"
+                },
+                {
+                    "complex": "ARAH-MONOMER",
+                    "reference_complex": "ABC-2-CPLX"
+                },
+                {
+                    "complex": "HYAC-MONOMER",
+                    "reference_complex": "FORMHYDROGI-CPLX"
+                },
+                {
+                    "complex": "ALPHACOMP-MONOMER",
+                    "reference_complex": "SULFITE-REDUCT-CPLX"
+                },
+                {
+                    "complex": "CYSD-MONOMER",
+                    "reference_complex": "CPLX0-7428"
+                },
+                {
+                    "complex": "EG11800-MONOMER",
+                    "reference_complex": "FORMHYDROG2-CPLX"
+                },
+                {
+                    "complex": "G6906-MONOMER",
+                    "reference_complex": "CPLX0-246_CPLX0-1342"
+                },
+                {
+                    "complex": "GLUSYNLARGE-MONOMER",
+                    "reference_complex": "GLUTAMATESYN-CPLX"
+                },
+                {
+                    "complex": "G6523-MONOMER",
+                    "reference_complex": "G6523-MONOMER_G6518-MONOMER"
+                },
+                {
+                    "complex": "RBSC-MONOMER",
+                    "reference_complex": "ABC-28-CPLX_EG10817-MONOMER"
+                },
+                {
+                    "complex": "MODB-MONOMER",
+                    "reference_complex": "ABC-19-CPLX"
+                },
+                {
+                    "complex": "EUTB-MONOMER",
+                    "reference_complex": "ETHAMLY-CPLX"
+                },
+                {
+                    "complex": "NARV-MONOMER",
+                    "reference_complex": "NITRATREDUCTZ-CPLX"
+                },
+                {
+                    "complex": "MONOMER0-1261",
+                    "reference_complex": "CPLX0-2081"
+                },
+                {
+                    "complex": "ZNUB-MONOMER",
+                    "reference_complex": "ABC-63-CPLX"
+                },
+                {
+                    "complex": "HCAA2-MONOMER",
+                    "reference_complex": "HCAMULTI-CPLX"
+                },
+                {
+                    "complex": "METI-MONOMER",
+                    "reference_complex": "METNIQ-METHIONINE-ABC-CPLX"
+                },
+                {
+                    "complex": "G6713-MONOMER",
+                    "reference_complex": "CPLX0-1762"
+                },
+                {
+                    "complex": "G7128-MONOMER",
+                    "reference_complex": "CPLX0-241"
+                },
+                {
+                    "complex": "TAGAALDOL1-MONOMER",
+                    "reference_complex": "CPLX0-240"
+                },
+                {
+                    "complex": "ATOD-MONOMER",
+                    "reference_complex": "ACETOACETYL-COA-TRANSFER-CPLX"
+                },
+                {
+                    "complex": "G6909-MONOMER",
+                    "reference_complex": "CPLX0-1341"
+                },
+                {
+                    "complex": "NRDB-MONOMER",
+                    "reference_complex": "RIBONUCLEOSIDE-DIP-REDUCTI-CPLX"
+                },
+                {
+                    "complex": "NRDE-MONOMER",
+                    "reference_complex": "RIBONUCLEOSIDE-DIP-REDUCTII-CPLX"
+                },
+                {
+                    "complex": "MONOMER0-561",
+                    "reference_complex": "CPLX0-7458"
+                },
+                {
+                    "complex": "GCVP-MONOMER",
+                    "reference_complex": "GCVMULTI-CPLX"
+                },
+                {
+                    "complex": "CITRYLY-MONOMER",
+                    "reference_complex": "CITLY-CPLX"
+                },
+                {
+                    "complex": "TTDA-MONOMER",
+                    "reference_complex": "LTARTDEHYDRA-CPLX"
+                },
+                {
+                    "complex": "E1P-MONOMER",
+                    "reference_complex": "PYRUVATEDEH-CPLX"
+                },
+                {
+                    "complex": "E3-MONOMER",
+                    "reference_complex": "2OXOGLUTARATEDEH-CPLX"
+                },
+                {
+                    "complex": "G7022-MONOMER",
+                    "reference_complex": "CPLX-63"
+                },
+                {
+                    "complex": "NIRB-MONOMER",
+                    "reference_complex": "NITRITREDUCT-CPLX"
+                },
+                {
+                    "complex": "EG10982-MONOMER",
+                    "reference_complex": "SUCCCOASYN"
+                },
+                {
+                    "complex": "G7405-MONOMER",
+                    "reference_complex": "CPLX0-7684"
+                },
+                {
+                    "complex": "EG11289-MONOMER",
+                    "reference_complex": "CPLX0-7788"
+                },
+                {
+                    "complex": "EG11595-MONOMER",
+                    "reference_complex": "EG11595-MONOMER_EG11666-MONOMER"
+                },
+                {
+                    "complex": "CPLX_AACPS1-0",
+                    "reference_complex": "AAS-MONOMER"
+                },
+                {
+                    "complex": "CPLX_AACPS1-0",
+                    "reference_complex": "EG50003-MONOMER"
+                },
+                {
+                    "complex": "CPLX_ACOATA-0",
+                    "reference_complex": "CPLX0-252"
+                },
+                {
+                    "complex": "CPLX_ACPPAT120-0",
+                    "reference_complex": "EG11437-MONOMER"
+                },
+                {
+                    "complex": "CPLX_ALPATE160pp-0",
+                    "reference_complex": "EG10168-MONOMER"
+                },
+                {
+                    "complex": "CPLX_ALPATE160pp-0",
+                    "reference_complex": "EG10544-MONOMER"
+                },
+                {
+                    "complex": "CPLX_CITL-0",
+                    "reference_complex": "G6340-MONOMER"
+                },
+                {
+                    "complex": "CPLX_DHAPT-0",
+                    "reference_complex": "PTSI-MONOMER"
+                },
+                {
+                    "complex": "CPLX_DSBAO1-0",
+                    "reference_complex": "DISULFOXRED-MONOMER"
+                },
+                {
+                    "complex": "CPLX_DSBAO1-0",
+                    "reference_complex": "DSBBPROT-MONOMER"
+                },
+                {
+                    "complex": "CPLX_DSBDR-0",
+                    "reference_complex": "DSBD-MONOMER"
+                },
+                {
+                    "complex": "CPLX_DSBDR-0",
+                    "reference_complex": "RED-THIOREDOXIN2-MONOMER"
+                },
+                {
+                    "complex": "CPLX_DSBDR-1",
+                    "reference_complex": "RED-THIOREDOXIN-MONOMER"
+                },
+                {
+                    "complex": "CPLX_FLDR2-0",
+                    "reference_complex": "FLAVODOXIN1-MONOMER"
+                },
+                {
+                    "complex": "CPLX_FLDR2-0",
+                    "reference_complex": "FLAVONADPREDUCT-MONOMER"
+                },
+                {
+                    "complex": "CPLX_FLDR2-1",
+                    "reference_complex": "FLAVODOXIN2-MONOMER"
+                },
+                {
+                    "complex": "CPLX_G3PAT120-0",
+                    "reference_complex": "GLYCEROL-3-P-ACYLTRANSFER-MONOMER"
+                },
+                {
+                    "complex": "CPLX_I2FE2SR-0",
+                    "reference_complex": "IscS"
+                },
+                {
+                    "complex": "CPLX_I2FE2SR-0",
+                    "reference_complex": "IscU"
+                },
+                {
+                    "complex": "CPLX_I2FE2SS-0",
+                    "reference_complex": "EG11653-MONOMER"
+                },
+                {
+                    "complex": "CPLX_I2FE2ST-0",
+                    "reference_complex": "IscA_tetra"
+                },
+                {
+                    "complex": "CPLX_MCOATA-0",
+                    "reference_complex": "MALONYL-COA-ACP-TRANSACYL-MONOMER"
+                },
+                {
+                    "complex": "CPLX_MECDPDH5-0",
+                    "reference_complex": "EG10370-MONOMER"
+                },
+                {
+                    "complex": "CPLX_METSOXR1-0",
+                    "reference_complex": "EG11433-MONOMER"
+                },
+                {
+                    "complex": "CPLX_METSOXR1-2",
+                    "reference_complex": "EG10124-MONOMER"
+                },
+                {
+                    "complex": "CPLX_METSOXR2-0",
+                    "reference_complex": "EG12394-MONOMER"
+                },
+                {
+                    "complex": "CPLX_MOADSUx-0",
+                    "reference_complex": "EG11597-MONOMER"
+                },
+                {
+                    "complex": "CPLX_MPTS-0",
+                    "reference_complex": "EG11598-MONOMER"
+                },
+                {
+                    "complex": "CPLX_NHFRBO-0",
+                    "reference_complex": "CPLX0-1"
+                },
+                {
+                    "complex": "CPLX_NHFRBO-0",
+                    "reference_complex": "EG12450-MONOMER"
+                },
+                {
+                    "complex": "CPLX_NO3R1pp-0",
+                    "reference_complex": "NARW-MONOMER"
+                },
+                {
+                    "complex": "CPLX_NO3R1pp-1",
+                    "reference_complex": "NARJ-MONOMER"
+                },
+                {
+                    "complex": "CPLX_OBTFL-0",
+                    "reference_complex": "PFLACTENZ-MONOMER"
+                },
+                {
+                    "complex": "CPLX_OBTFL-0",
+                    "reference_complex": "PYRUVFORMLY-INACTIVE-CPLX"
+                },
+                {
+                    "complex": "CPLX_OBTFL-2",
+                    "reference_complex": "KETOBUTFORMLY-INACT-MONOMER"
+                },
+                {
+                    "complex": "CPLX_OPHBDC-0",
+                    "reference_complex": "CPLX0-301"
+                },
+                {
+                    "complex": "CPLX_OXDHCOAT-0",
+                    "reference_complex": "G6715-MONOMER"
+                },
+                {
+                    "complex": "CPLX_OXDHCOAT-0",
+                    "reference_complex": "G6718-MONOMER"
+                },
+                {
+                    "complex": "CPLX_PACCOAE-0",
+                    "reference_complex": "G6712-MONOMER"
+                },
+                {
+                    "complex": "CPLX_PAPSR-0",
+                    "reference_complex": "PAPSSULFOTRANS-CPLX"
+                },
+                {
+                    "complex": "CPLX_PAPSR2-0",
+                    "reference_complex": "GLUTAREDOXIN-MONOMER"
+                },
+                {
+                    "complex": "CPLX_PAPSR2-2",
+                    "reference_complex": "CPLX0-7817"
+                },
+                {
+                    "complex": "CPLX_PAPSR2-3",
+                    "reference_complex": "GRXC-MONOMER"
+                },
+                {
+                    "complex": "CPLX_PDX5PS-0",
+                    "reference_complex": "CPLX0-7847"
+                },
+                {
+                    "complex": "CPLX_PDX5PS-0",
+                    "reference_complex": "CPLX0-321"
+                },
+                {
+                    "complex": "CPLX_PFL-0",
+                    "reference_complex": "EG11910-MONOMER_dimer"
+                },
+                {
+                    "complex": "CPLX_POR5-0",
+                    "reference_complex": "G6701-MONOMER"
+                },
+                {
+                    "complex": "CPLX_RNTR1c2-0",
+                    "reference_complex": "RIBONUCLEOSIDE-TRIP-REDUCT-CPLX"
+                },
+                {
+                    "complex": "CPLX_S2FE2ST-0",
+                    "reference_complex": "CPLX0-7824"
+                },
+                {
+                    "complex": "CPLX_TDSR1-0",
+                    "reference_complex": "DSBC-CPLX"
+                },
+                {
+                    "complex": "CPLX_TDSR2-0",
+                    "reference_complex": "DSBG-CPLX"
+                },
+                {
+                    "complex": "CPLX_THIORDXi-0",
+                    "reference_complex": "EG10108-MONOMER"
+                },
+                {
+                    "complex": "CPLX_THZPSN3-0",
+                    "reference_complex": "ThiI_mono"
+                },
+                {
+                    "complex": "CPLX_TRDR-0",
+                    "reference_complex": "THIOREDOXIN-REDUCT-NADPH-CPLX"
+                },
+                {
+                    "complex": "CPLX_UAGAAT-0",
+                    "reference_complex": "UDPNACETYLGLUCOSAMACYLTRANS-CPLX"
+                }
+            ],
+            "importance": "medium",
+            "to_do": "Curate these manually in protein_corrections.txt"
+        }
+    ],
+    "update_ribosome_subreactions_from_homology": [
+        {
+            "msg": "Some enzymes defined in me_builder.org.ribosome_subreactions are different from the ones inferred from homology",
+            "triggered_by": [
+                {
+                    "subreaction": "gtp_bound_30S_assembly_factor_phase1",
+                    "defined_complex": "",
+                    "inferred_complex": "EG10270-MONOMER"
+                },
+                {
+                    "subreaction": "RbfA_mono_assembly_factor_phase1",
+                    "defined_complex": "",
+                    "inferred_complex": "EG11178-MONOMER"
+                },
+                {
+                    "subreaction": "RimM_mono_assembly_factor_phase1",
+                    "defined_complex": "",
+                    "inferred_complex": "EG11153-MONOMER"
+                }
+            ],
+            "importance": "medium",
+            "to_do": "Confirm whether the definitions or homology calls are correct in me_builder.org.ribosome_subreactions. Curate the inputs in ribosome_subreactions.txt accordingly."
+        }
+    ],
+    "check": [
+        {
+            "msg": "Some metabolites in me_metabolites.txt need curation",
+            "triggered_by": [
+                "LI_c",
+                "sufbcd__2fe2s_c",
+                "sufbcd__2fe2s2_c",
+                "sufbcd__4fe4s_c",
+                "sufsesh_c",
+                "dsbaox_p",
+                "3hcpalm9eACP_c",
+                "3ocpalm9eACP_c",
+                "iscssh_c",
+                "iscu__2fe2s_c",
+                "iscu__2fe2s2_c",
+                "iscu__4fe4s_c"
+            ],
+            "importance": "medium",
+            "to_do": "Map or remove these metabolites in me_metabolites.txt"
+        }
+    ],
+    "troubleshoot": [
+        {
+            "msg": "Some metabolites are necessary for growth",
+            "triggered_by": [
+                "TS_4fe4s_c",
+                "TS_dpm_c"
+            ],
+            "importance": "critical",
+            "to_do": "Fix the gaps by adding reactions or solving other warnings. If some items are from the E-matrix, fix these first!"
+        }
+    ]
+}

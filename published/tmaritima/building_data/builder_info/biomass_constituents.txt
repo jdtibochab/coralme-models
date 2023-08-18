@@ -1,0 +1,17 @@
+,value
+5mthf_c,-0.05
+accoa_c,-5e-05
+coa_c,-6e-06
+fad_c,-1e-05
+glycogen_c,-0.154
+nad_c,-0.00215
+nadh_c,-5e-05
+nadp_c,-0.00013
+nadph_c,-0.0004
+pa160_c,-0.001398
+peptido_TM_c,-0.0276
+pgp160_c,-0.001398
+ptrc_c,-0.035
+spmd_c,-0.007
+succoa_c,-3e-06
+udcpdp_c,-0.001398

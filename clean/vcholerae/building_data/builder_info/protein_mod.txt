@@ -1,0 +1,449 @@
+Modified_enzyme,Core_enzyme,Modifications,Source
+CPLX2G6Z-10_mod_zn2(1)_mod_mg2(2),CPLX2G6Z-10,zn2(1) AND mg2(2),RNA_Polymerase
+FY484_RS13060-MONOMER_mod_mg2(1)_mod_cl(1),FY484_RS13060-MONOMER,mg2(1) AND cl(1),Homology
+FY484_RS09875-MONOMER_mod_mg2(1),FY484_RS09875-MONOMER,mg2(1),Homology
+FY484_RS02450-MONOMER_mod_mg2(1),FY484_RS02450-MONOMER,mg2(1),Homology
+FY484_RS11270-MONOMER_mod_mg2(1)_mod_k(1),FY484_RS11270-MONOMER,mg2(1) AND k(1),Homology
+FY484_RS17315-MONOMER_mod_mg2(1),FY484_RS17315-MONOMER,mg2(1),Homology
+FY484_RS10215-MONOMER_mod_Oxidized(1),FY484_RS10215-MONOMER,Oxidized(1),Homology
+FY484_RS12175-MONOMER_mod_mg2(1),FY484_RS12175-MONOMER,mg2(1),Homology
+FY484_RS09115-MONOMER_mod_mg2(1),FY484_RS09115-MONOMER,mg2(1),Homology
+FY484_RS18455-MONOMER_mod_mg2(1),FY484_RS18455-MONOMER,mg2(1),Homology
+FY484_RS18455-MONOMER_mod_cobalt2(1),FY484_RS18455-MONOMER,cobalt2(1),Homology
+FY484_RS18455-MONOMER_mod_mn2(1),FY484_RS18455-MONOMER,mn2(1),Homology
+FY484_RS18455-MONOMER_mod_fe2(1),FY484_RS18455-MONOMER,fe2(1),Homology
+FY484_RS18455-MONOMER_mod_ca2(1),FY484_RS18455-MONOMER,ca2(1),Homology
+FY484_RS18365-MONOMER_mod_pydx5p(1),FY484_RS18365-MONOMER,pydx5p(1),Homology
+FY484_RS00090-MONOMER_mod_pydx5p(1),FY484_RS00090-MONOMER,pydx5p(1),Homology
+FY484_RS19185-MONOMER_mod_mg2(1),FY484_RS19185-MONOMER,mg2(1),Homology
+FY484_RS12470-MONOMER_mod_mg2(1),FY484_RS12470-MONOMER,mg2(1),Homology
+FY484_RS05830-MONOMER_mod_Oxidized(1),FY484_RS05830-MONOMER,Oxidized(1),Homology
+FY484_RS12955-MONOMER_mod_mg2(1),FY484_RS12955-MONOMER,mg2(1),Homology
+FY484_RS08005-MONOMER_mod_fe2(1)_mod_zn2(1),FY484_RS08005-MONOMER,fe2(1) AND zn2(1),Homology
+FY484_RS17545-MONOMER_mod_cd2(1)_mod_zn2(1)_mod_mg2(1)_mod_mn2(1)_mod_cobalt2(1),FY484_RS17545-MONOMER,cd2(1) AND zn2(1) AND mg2(1) AND mn2(1) AND cobalt2(1),Homology
+FY484_RS17290-MONOMER_mod_mg2(1),FY484_RS17290-MONOMER,mg2(1),Homology
+FY484_RS09460-MONOMER_mod_mg2(1)_mod_cu(1)_mod_fad(1),FY484_RS09460-MONOMER,mg2(1) AND cu(1) AND fad(1),Homology
+FY484_RS06575-MONOMER_mod_4fe4s(1),FY484_RS06575-MONOMER,4fe4s(1),Homology
+FY484_RS18230-MONOMER_mod_ca2(1),FY484_RS18230-MONOMER,ca2(1),Homology
+FY484_RS07580-MONOMER_mod_fe3(1),FY484_RS07580-MONOMER,fe3(1),Homology
+FY484_RS17190-MONOMER_mod_fad(1),FY484_RS17190-MONOMER,fad(1),Homology
+FY484_RS18705-MONOMER_mod_mg2(1),FY484_RS18705-MONOMER,mg2(1),Homology
+FY484_RS05930-MONOMER_mod_mg2(1),FY484_RS05930-MONOMER,mg2(1),Homology
+FY484_RS14970-MONOMER_mod_mg2(1),FY484_RS14970-MONOMER,mg2(1),Homology
+FY484_RS07945-MONOMER_mod_cu2(1),FY484_RS07945-MONOMER,cu2(1),Homology
+FY484_RS06595-MONOMER_mod_4fe4s(1),FY484_RS06595-MONOMER,4fe4s(1),Homology
+FY484_RS00680-MONOMER_mod_mg2(1),FY484_RS00680-MONOMER,mg2(1),Homology
+FY484_RS18305-MONOMER_mod_pydx5p(1),FY484_RS18305-MONOMER,pydx5p(1),Homology
+FY484_RS07815-MONOMER_mod_mg2(1),FY484_RS07815-MONOMER,mg2(1),Homology
+FY484_RS05710-MONOMER_mod_hco3(1),FY484_RS05710-MONOMER,hco3(1),Homology
+VC_0027-MONOMER_mod_pydx5p(1),VC_0027-MONOMER,pydx5p(1),Homology
+VC_0028-MONOMER_mod_4fe4s(1),VC_0028-MONOMER,4fe4s(1),Homology
+VC_0029-MONOMER_mod_pydx5p(6),VC_0029-MONOMER,pydx5p(6),Homology
+VC_0029-MONOMER_mod_pydx5p(1),VC_0029-MONOMER,pydx5p(1),Homology
+VC_0045-MONOMER_mod_mg2(1)_mod_k(1),VC_0045-MONOMER,mg2(1) AND k(1),Homology
+VC_0046-MONOMER_mod_fe2(1),VC_0046-MONOMER,fe2(1),Homology
+VC_0055-MONOMER_mod_mn2(1),VC_0055-MONOMER,mn2(1),Homology
+VC_0062-MONOMER_mod_mg2(1),VC_0062-MONOMER,mg2(1),Homology
+VC_0094-MONOMER_mod_mg2(1),VC_0094-MONOMER,mg2(1),Homology
+VC_0105-MONOMER_mod_zn2(1),VC_0105-MONOMER,zn2(1),Homology
+VC_0116-MONOMER_mod_4fe4s(1),VC_0116-MONOMER,4fe4s(1),Homology
+VC_0120-MONOMER_mod_dpm(1),VC_0120-MONOMER,dpm(1),Homology
+VC_0122-MONOMER_mod_mg2(1),VC_0122-MONOMER,mg2(1),Homology
+VC_0123-MONOMER_mod_fe2(1),VC_0123-MONOMER,fe2(1),Homology
+VC_0125-MONOMER_mod_pydx5p(1),VC_0125-MONOMER,pydx5p(1),Homology
+VC_0151-MONOMER_mod_fad(1),VC_0151-MONOMER,fad(1),Homology
+VC_0162-MONOMER_mod_mg2(1),VC_0162-MONOMER,mg2(1),Homology
+VC_0186-MONOMER_mod_fad(1),VC_0186-MONOMER,fad(1),Homology
+VC_0210-MONOMER_mod_mg2(1),VC_0210-MONOMER,mg2(1),Homology
+VC_0211-MONOMER_mod_mg2(1),VC_0211-MONOMER,mg2(1),Homology
+VC_0215-MONOMER_mod_fmn(1),VC_0215-MONOMER,fmn(1),Homology
+VC_0215-MONOMER_mod_mg2(1),VC_0215-MONOMER,mg2(1),Homology
+VC_0222-MONOMER_mod_mg2(1),VC_0222-MONOMER,mg2(1),Homology
+VC_0240-MONOMER_mod_nadp(1),VC_0240-MONOMER,nadp(1),Homology
+VC_0243-MONOMER_mod_nadp(1),VC_0243-MONOMER,nadp(1),Homology
+VC_0244-MONOMER_mod_pydx5p(1),VC_0244-MONOMER,pydx5p(1),Homology
+VC_0275-MONOMER_mod_mg2(1),VC_0275-MONOMER,mg2(1),Homology
+VC_0281-MONOMER_mod_pydx5p(1),VC_0281-MONOMER,pydx5p(1),Homology
+VC_0304-MONOMER_mod_nh4(1)_mod_mg2(1),VC_0304-MONOMER,nh4(1) AND mg2(1),Homology
+VC_0306-MONOMER_mod_Oxidized(1),VC_0306-MONOMER,Oxidized(1),Homology
+VC_0307-MONOMER_mod_mg2(3),VC_0307-MONOMER,mg2(3),Homology
+VC_0309-MONOMER_mod_mn2(1),VC_0309-MONOMER,mn2(1),Homology
+VC_0318-MONOMER_mod_fad(1),VC_0318-MONOMER,fad(1),Homology
+VC_0320-MONOMER_mod_mg2(1),VC_0320-MONOMER,mg2(1),Homology
+VC_0327-MONOMER_mod_acetyl(1),VC_0327-MONOMER,acetyl(1),Homology
+VC_0336-MONOMER_mod_mn2(1),VC_0336-MONOMER,mn2(1),Homology
+VC_0341-MONOMER_mod_mg2(2),VC_0341-MONOMER,mg2(2),Homology
+VC_0342-MONOMER_mod_adocbl(1),VC_0342-MONOMER,adocbl(1),Homology
+VC_0342-MONOMER_mod_4fe4s(2),VC_0342-MONOMER,4fe4s(2),Homology
+VC_0346-MONOMER_mod_mg2(2),VC_0346-MONOMER,mg2(2),Homology
+VC_0390-MONOMER_mod_zn2(1)_mod_cbl1(1),VC_0390-MONOMER,zn2(1) AND cbl1(1),Homology
+VC_0434-MONOMER_mod_mg2(1),VC_0434-MONOMER,mg2(1),Homology
+VC_0468-MONOMER_mod_mg2(1),VC_0468-MONOMER,mg2(1),Homology
+VC_0472-MONOMER_mod_k(4)_mod_mg2(1),VC_0472-MONOMER,k(4) AND mg2(1),Homology
+VC_0472-MONOMER_mod_k(4)_mod_mn2(1),VC_0472-MONOMER,k(4) AND mn2(1),Homology
+VC_0472-MONOMER_mod_k(4)_mod_cobalt2(1),VC_0472-MONOMER,k(4) AND cobalt2(1),Homology
+VC_0472-MONOMER_mod_k(4)_mod_zn2(1),VC_0472-MONOMER,k(4) AND zn2(1),Homology
+VC_0472-MONOMER_mod_k(4)_mod_cd2(1),VC_0472-MONOMER,k(4) AND cd2(1),Homology
+VC_0472-MONOMER_mod_k(4)_mod_ni2(1),VC_0472-MONOMER,k(4) AND ni2(1),Homology
+VC_0472-MONOMER_mod_k(4)_mod_ca2(1),VC_0472-MONOMER,k(4) AND ca2(1),Homology
+VC_0472-MONOMER_mod_nh4(4)_mod_mg2(1),VC_0472-MONOMER,nh4(4) AND mg2(1),Homology
+VC_0472-MONOMER_mod_nh4(4)_mod_mn2(1),VC_0472-MONOMER,nh4(4) AND mn2(1),Homology
+VC_0472-MONOMER_mod_nh4(4)_mod_cobalt2(1),VC_0472-MONOMER,nh4(4) AND cobalt2(1),Homology
+VC_0472-MONOMER_mod_nh4(4)_mod_zn2(1),VC_0472-MONOMER,nh4(4) AND zn2(1),Homology
+VC_0472-MONOMER_mod_nh4(4)_mod_cd2(1),VC_0472-MONOMER,nh4(4) AND cd2(1),Homology
+VC_0472-MONOMER_mod_nh4(4)_mod_ni2(1),VC_0472-MONOMER,nh4(4) AND ni2(1),Homology
+VC_0472-MONOMER_mod_nh4(4)_mod_ca2(1),VC_0472-MONOMER,nh4(4) AND ca2(1),Homology
+VC_0472-MONOMER_mod_tl(4)_mod_mg2(1),VC_0472-MONOMER,tl(4) AND mg2(1),Homology
+VC_0472-MONOMER_mod_tl(4)_mod_mn2(1),VC_0472-MONOMER,tl(4) AND mn2(1),Homology
+VC_0472-MONOMER_mod_tl(4)_mod_cobalt2(1),VC_0472-MONOMER,tl(4) AND cobalt2(1),Homology
+VC_0472-MONOMER_mod_tl(4)_mod_zn2(1),VC_0472-MONOMER,tl(4) AND zn2(1),Homology
+VC_0472-MONOMER_mod_tl(4)_mod_cd2(1),VC_0472-MONOMER,tl(4) AND cd2(1),Homology
+VC_0472-MONOMER_mod_tl(4)_mod_ni2(1),VC_0472-MONOMER,tl(4) AND ni2(1),Homology
+VC_0472-MONOMER_mod_tl(4)_mod_ca2(1),VC_0472-MONOMER,tl(4) AND ca2(1),Homology
+VC_0472-MONOMER_mod_cs(4)_mod_mg2(1),VC_0472-MONOMER,cs(4) AND mg2(1),Homology
+VC_0472-MONOMER_mod_cs(4)_mod_mn2(1),VC_0472-MONOMER,cs(4) AND mn2(1),Homology
+VC_0472-MONOMER_mod_cs(4)_mod_cobalt2(1),VC_0472-MONOMER,cs(4) AND cobalt2(1),Homology
+VC_0472-MONOMER_mod_cs(4)_mod_zn2(1),VC_0472-MONOMER,cs(4) AND zn2(1),Homology
+VC_0472-MONOMER_mod_cs(4)_mod_cd2(1),VC_0472-MONOMER,cs(4) AND cd2(1),Homology
+VC_0472-MONOMER_mod_cs(4)_mod_ni2(1),VC_0472-MONOMER,cs(4) AND ni2(1),Homology
+VC_0472-MONOMER_mod_cs(4)_mod_ca2(1),VC_0472-MONOMER,cs(4) AND ca2(1),Homology
+VC_0472-MONOMER_mod_LI(4)_mod_mg2(1),VC_0472-MONOMER,LI(4) AND mg2(1),Homology
+VC_0472-MONOMER_mod_LI(4)_mod_mn2(1),VC_0472-MONOMER,LI(4) AND mn2(1),Homology
+VC_0472-MONOMER_mod_LI(4)_mod_cobalt2(1),VC_0472-MONOMER,LI(4) AND cobalt2(1),Homology
+VC_0472-MONOMER_mod_LI(4)_mod_zn2(1),VC_0472-MONOMER,LI(4) AND zn2(1),Homology
+VC_0472-MONOMER_mod_LI(4)_mod_cd2(1),VC_0472-MONOMER,LI(4) AND cd2(1),Homology
+VC_0472-MONOMER_mod_LI(4)_mod_ni2(1),VC_0472-MONOMER,LI(4) AND ni2(1),Homology
+VC_0472-MONOMER_mod_LI(4)_mod_ca2(1),VC_0472-MONOMER,LI(4) AND ca2(1),Homology
+VC_0472-MONOMER_mod_na1(4)_mod_mg2(1),VC_0472-MONOMER,na1(4) AND mg2(1),Homology
+VC_0472-MONOMER_mod_na1(4)_mod_mn2(1),VC_0472-MONOMER,na1(4) AND mn2(1),Homology
+VC_0472-MONOMER_mod_na1(4)_mod_cobalt2(1),VC_0472-MONOMER,na1(4) AND cobalt2(1),Homology
+VC_0472-MONOMER_mod_na1(4)_mod_zn2(1),VC_0472-MONOMER,na1(4) AND zn2(1),Homology
+VC_0472-MONOMER_mod_na1(4)_mod_cd2(1),VC_0472-MONOMER,na1(4) AND cd2(1),Homology
+VC_0472-MONOMER_mod_na1(4)_mod_ni2(1),VC_0472-MONOMER,na1(4) AND ni2(1),Homology
+VC_0472-MONOMER_mod_na1(4)_mod_ca2(1),VC_0472-MONOMER,na1(4) AND ca2(1),Homology
+VC_0473-MONOMER_mod_thmpp(1)_mod_mn2(1)_mod_mg2(1),VC_0473-MONOMER,thmpp(1) AND mn2(1) AND mg2(1),Homology
+VC_0485-MONOMER_mod_mg2(1)_mod_k(1),VC_0485-MONOMER,mg2(1) AND k(1),Homology
+VC_0485-MONOMER_mod_mn2(1)_mod_k(1),VC_0485-MONOMER,mn2(1) AND k(1),Homology
+VC_0528-MONOMER_mod_mg2(1),VC_0528-MONOMER,mg2(1),Homology
+VC_0528-MONOMER_mod_mn2(1),VC_0528-MONOMER,mn2(1),Homology
+VC_0528-MONOMER_mod_cobalt2(1),VC_0528-MONOMER,cobalt2(1),Homology
+VC_0529-MONOMER_mod_mn2(1),VC_0529-MONOMER,mn2(1),Homology
+VC_0531-MONOMER_mod_cobalt2(1),VC_0531-MONOMER,cobalt2(1),Homology
+VC_0537-MONOMER_mod_pydx5p(1),VC_0537-MONOMER,pydx5p(1),Homology
+VC_0545-MONOMER_mod_zn2(4),VC_0545-MONOMER,zn2(4),Homology
+VC_0556-MONOMER_mod_mg2(1),VC_0556-MONOMER,mg2(1),Homology
+VC_0586-MONOMER_mod_zn2(1),VC_0586-MONOMER,zn2(1),Homology
+VC_0591-MONOMER_mod_mg2(1)_mod_k(1),VC_0591-MONOMER,mg2(1) AND k(1),Homology
+VC_0591-MONOMER_mod_mg2(1)_mod_nh4(1),VC_0591-MONOMER,mg2(1) AND nh4(1),Homology
+VC_0591-MONOMER_mod_mn2(1)_mod_k(1),VC_0591-MONOMER,mn2(1) AND k(1),Homology
+VC_0591-MONOMER_mod_mn2(1)_mod_nh4(1),VC_0591-MONOMER,mn2(1) AND nh4(1),Homology
+VC_0592-MONOMER_mod_mg2(1),VC_0592-MONOMER,mg2(1),Homology
+VC_0593-MONOMER_mod_mg2(1),VC_0593-MONOMER,mg2(1),Homology
+VC_0604-MONOMER_mod_4fe4s(1),VC_0604-MONOMER,4fe4s(1),Homology
+VC_0626-MONOMER_mod_pydx5p(1),VC_0626-MONOMER,pydx5p(1),Homology
+VC_0627-MONOMER_mod_2fe2s(1),VC_0627-MONOMER,2fe2s(1),Homology
+VC_0627-MONOMER_mod_4fe4s(1),VC_0627-MONOMER,4fe4s(1),Homology
+VC_0638-MONOMER_mod_mg2(1),VC_0638-MONOMER,mg2(1),Homology
+VC_0664-MONOMER_mod_mg2(6),VC_0664-MONOMER,mg2(6),Homology
+VC_0664-MONOMER_mod_lys__L(1),VC_0664-MONOMER,lys__L(1),Homology
+VC_0675-MONOMER_mod_mg2(1),VC_0675-MONOMER,mg2(1),Homology
+VC_0682-MONOMER_mod_zn2(2),VC_0682-MONOMER,zn2(2),Homology
+VC_0685-MONOMER_mod_nadph(1)_mod_nadh(1)_mod_fad(1)_mod_cobalt2(1),VC_0685-MONOMER,nadph(1) AND nadh(1) AND fad(1) AND cobalt2(1),Homology
+VC_0691-MONOMER_mod_mg2(1),VC_0691-MONOMER,mg2(1),Homology
+VC_0695-MONOMER_mod_fe2(2),VC_0695-MONOMER,fe2(2),Homology
+VC_0702-MONOMER_mod_mg2(1),VC_0702-MONOMER,mg2(1),Homology
+VC_0709-MONOMER_mod_mg2(1),VC_0709-MONOMER,mg2(1),Homology
+VC_0722-MONOMER_mod_mg2(1),VC_0722-MONOMER,mg2(1),Homology
+VC_0736-MONOMER_mod_mg2(1),VC_0736-MONOMER,mg2(1),Homology
+VC_0736-MONOMER_mod_mn2(1),VC_0736-MONOMER,mn2(1),Homology
+VC_0741-MONOMER_mod_zn2(6),VC_0741-MONOMER,zn2(6),Homology
+VC_0745-MONOMER_mod_mg2(1),VC_0745-MONOMER,mg2(1),Homology
+VC_0748-MONOMER_mod_pydx5p(2),VC_0748-MONOMER,pydx5p(2),Homology
+VC_0749-MONOMER_mod_fe2(1),VC_0749-MONOMER,fe2(1),Homology
+VC_0749-MONOMER_mod_fe2(2),VC_0749-MONOMER,fe2(2),Homology
+VC_0756-MONOMER_mod_mg2(1),VC_0756-MONOMER,mg2(1),Homology
+VC_0756-MONOMER_mod_mn2(1),VC_0756-MONOMER,mn2(1),Homology
+VC_0756-MONOMER_mod_ca2(1),VC_0756-MONOMER,ca2(1),Homology
+VC_0757-MONOMER_mod_4fe4s(1),VC_0757-MONOMER,4fe4s(1),Homology
+VC_0759-MONOMER_mod_mn2(1),VC_0759-MONOMER,mn2(1),Homology
+VC_0760-MONOMER_mod_mg2(4),VC_0760-MONOMER,mg2(4),Homology
+VC_0768-MONOMER_mod_mg2(1),VC_0768-MONOMER,mg2(1),Homology
+VC_0773-MONOMER_mod_mg2(1),VC_0773-MONOMER,mg2(1),Homology
+VC_0853-MONOMER_mod_mg2(1),VC_0853-MONOMER,mg2(1),Homology
+VC_0856-MONOMER_mod_zn2(4),VC_0856-MONOMER,zn2(4),Homology
+VC_0864-MONOMER_mod_zn2(2),VC_0864-MONOMER,zn2(2),Homology
+VC_0869-MONOMER_mod_mg2(1),VC_0869-MONOMER,mg2(1),Homology
+VC_0889-MONOMER_mod_thmpp(1),VC_0889-MONOMER,thmpp(1),Homology
+VC_0890-MONOMER_mod_mg2(1),VC_0890-MONOMER,mg2(1),Homology
+VC_0890-MONOMER_mod_mn2(1),VC_0890-MONOMER,mn2(1),Homology
+VC_0908-MONOMER_mod_mg2(1),VC_0908-MONOMER,mg2(1),Homology
+VC_0917-MONOMER_mod_nad(1),VC_0917-MONOMER,nad(1),Homology
+VC_0943-MONOMER_mod_4fe4s(2),VC_0943-MONOMER,4fe4s(2),Homology
+VC_0962-MONOMER_mod_4fe4s(1),VC_0962-MONOMER,4fe4s(1),Homology
+VC_0968-MONOMER_mod_pydx5p(2),VC_0968-MONOMER,pydx5p(2),Homology
+VC_0971-MONOMER_mod_mg2(1),VC_0971-MONOMER,mg2(1),Homology
+VC_0986-MONOMER_mod_mg2(1),VC_0986-MONOMER,mg2(1),Homology
+VC_0991-MONOMER_mod_mg2(1),VC_0991-MONOMER,mg2(1),Homology
+VC_0994-MONOMER_mod_zn2(1),VC_0994-MONOMER,zn2(1),Homology
+VC_1004-MONOMER_mod_mg2(1),VC_1004-MONOMER,mg2(1),Homology
+VC_1006-MONOMER_mod_mg2(4),VC_1006-MONOMER,mg2(4),Homology
+VC_1010-MONOMER_mod_ni2(1),VC_1010-MONOMER,ni2(1),Homology
+VC_1027-MONOMER_mod_amp(1),VC_1027-MONOMER,amp(1),Homology
+VC_1027-MONOMER_mod_coo(1),VC_1027-MONOMER,coo(1),Homology
+VC_1027-MONOMER_mod_cosh(1),VC_1027-MONOMER,cosh(1),Homology
+VC_1036-MONOMER_mod_zn2(2),VC_1036-MONOMER,zn2(2),Homology
+VC_1038-MONOMER_mod_mg2(1),VC_1038-MONOMER,mg2(1),Homology
+VC_1053-MONOMER_mod_mg2(1),VC_1053-MONOMER,mg2(1),Homology
+VC_1053-MONOMER_mod_mn2(1),VC_1053-MONOMER,mn2(1),Homology
+VC_1098-MONOMER_mod_mg2(1),VC_1098-MONOMER,mg2(1),Homology
+VC_1110-MONOMER_mod_mg2(1),VC_1110-MONOMER,mg2(1),Homology
+VC_1111-MONOMER_mod_pydx5p(1),VC_1111-MONOMER,pydx5p(1),Homology
+VC_1112-MONOMER_mod_4fe4s(1)_mod_2fe2s(1),VC_1112-MONOMER,4fe4s(1) AND 2fe2s(1),Homology
+VC_1129-MONOMER_mod_k(1)_mod_mg2(1),VC_1129-MONOMER,k(1) AND mg2(1),Homology
+VC_1133-MONOMER_mod_mn2(1),VC_1133-MONOMER,mn2(1),Homology
+VC_1134-MONOMER_mod_pydx5p(1),VC_1134-MONOMER,pydx5p(1),Homology
+VC_1135-MONOMER_mod_mg2(1),VC_1135-MONOMER,mg2(1),Homology
+VC_1135-MONOMER_mod_mn2(1),VC_1135-MONOMER,mn2(1),Homology
+VC_1159-MONOMER_mod_pydx5p(1),VC_1159-MONOMER,pydx5p(1),Homology
+VC_1188-MONOMER_mod_mn2(1),VC_1188-MONOMER,mn2(1),Homology
+VC_1188-MONOMER_mod_mg2(1),VC_1188-MONOMER,mg2(1),Homology
+VC_1215-MONOMER_mod_mg2(1),VC_1215-MONOMER,mg2(1),Homology
+VC_1228-MONOMER_mod_mg2(1),VC_1228-MONOMER,mg2(1),Homology
+VC_1231-MONOMER_mod_zn2(1),VC_1231-MONOMER,zn2(1),Homology
+VC_1257-MONOMER_mod_zn2(1),VC_1257-MONOMER,zn2(1),Homology
+VC_1263-MONOMER_mod_mg2(1),VC_1263-MONOMER,mg2(1),Homology
+VC_1293-MONOMER_mod_pydx5p(1),VC_1293-MONOMER,pydx5p(1),Homology
+VC_1336-MONOMER_mod_mg2(1),VC_1336-MONOMER,mg2(1),Homology
+VC_1338-MONOMER_mod_4fe4s(1),VC_1338-MONOMER,4fe4s(1),Homology
+VC_1432-MONOMER_mod_4fe4s(1),VC_1432-MONOMER,4fe4s(1),Homology
+VC_1491-MONOMER_mod_fmn(1),VC_1491-MONOMER,fmn(1),Homology
+VC_1526-MONOMER_mod_mg2(1),VC_1526-MONOMER,mg2(1),Homology
+VC_1526-MONOMER_mod_mn2(1),VC_1526-MONOMER,mn2(1),Homology
+VC_1560-MONOMER_mod_pheme(1),VC_1560-MONOMER,pheme(1),Homology
+VC_1585-MONOMER_mod_hemed(6),VC_1585-MONOMER,hemed(6),Homology
+VC_1595-MONOMER_mod_mg2(1),VC_1595-MONOMER,mg2(1),Homology
+VC_1671-MONOMER_mod_pydx5p(1),VC_1671-MONOMER,pydx5p(1),Homology
+VC_1704-MONOMER_mod_zn2(1),VC_1704-MONOMER,zn2(1),Homology
+VC_1833-MONOMER_mod_4fe4s(1),VC_1833-MONOMER,4fe4s(1),Homology
+VC_1848-MONOMER_mod_zn2(1),VC_1848-MONOMER,zn2(1),Homology
+VC_1866-MONOMER_mod_glycyl(1),VC_1866-MONOMER,glycyl(1),Homology
+VC_1875-MONOMER_mod_mg2(1),VC_1875-MONOMER,mg2(1),Homology
+VC_1877-MONOMER_mod_mg2(1),VC_1877-MONOMER,mg2(1),Homology
+VC_1878-MONOMER_mod_mg2(1),VC_1878-MONOMER,mg2(1),Homology
+VC_1886-MONOMER_mod_mg2(1),VC_1886-MONOMER,mg2(1),Homology
+VC_1916-MONOMER_mod_mg2(1),VC_1916-MONOMER,mg2(1),Homology
+VC_1971-MONOMER_mod_mg2(1),VC_1971-MONOMER,mg2(1),Homology
+VC_1972-MONOMER_mod_mg2(1),VC_1972-MONOMER,mg2(1),Homology
+VC_1973-MONOMER_mod_hco3(1),VC_1973-MONOMER,hco3(1),Homology
+VC_1975-MONOMER_mod_mg2(1)_mod_mn2(1)_mod_thmpp(1),VC_1975-MONOMER,mg2(1) AND mn2(1) AND thmpp(1),Homology
+VC_1976-MONOMER_mod_mg2(1),VC_1976-MONOMER,mg2(1),Homology
+VC_1978-MONOMER_mod_cobalt2(1),VC_1978-MONOMER,cobalt2(1),Homology
+VC_1984-MONOMER_mod_mg2(5),VC_1984-MONOMER,mg2(5),Homology
+VC_1985-MONOMER_mod_mg2(1),VC_1985-MONOMER,mg2(1),Homology
+VC_2003-MONOMER_mod_zn2(2),VC_2003-MONOMER,zn2(2),Homology
+VC_2008-MONOMER_mod_mg2(1)_mod_k(1),VC_2008-MONOMER,mg2(1) AND k(1),Homology
+VC_2008-MONOMER_mod_mn2(1)_mod_k(1),VC_2008-MONOMER,mn2(1) AND k(1),Homology
+VC_2016-MONOMER_mod_mg2(1),VC_2016-MONOMER,mg2(1),Homology
+VC_2018-MONOMER_mod_pydx5p(1),VC_2018-MONOMER,pydx5p(1),Homology
+VC_2020-MONOMER_mod_pan4p(1),VC_2020-MONOMER,pan4p(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_ac(1),VC_2020-MONOMER,pan4p(1) AND ac(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_mal(1),VC_2020-MONOMER,pan4p(1) AND mal(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_but2e(1),VC_2020-MONOMER,pan4p(1) AND but2e(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_act(1),VC_2020-MONOMER,pan4p(1) AND act(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_but(1),VC_2020-MONOMER,pan4p(1) AND but(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_3ha(1),VC_2020-MONOMER,pan4p(1) AND 3ha(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_egme(1),VC_2020-MONOMER,pan4p(1) AND egme(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_ogme(1),VC_2020-MONOMER,pan4p(1) AND ogme(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_gme(1),VC_2020-MONOMER,pan4p(1) AND gme(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_hgme(1),VC_2020-MONOMER,pan4p(1) AND hgme(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_thex2e(1),VC_2020-MONOMER,pan4p(1) AND thex2e(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_3ohex(1),VC_2020-MONOMER,pan4p(1) AND 3ohex(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_hex(1),VC_2020-MONOMER,pan4p(1) AND hex(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_3hhex(1),VC_2020-MONOMER,pan4p(1) AND 3hhex(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_pim(1),VC_2020-MONOMER,pan4p(1) AND pim(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_epme(1),VC_2020-MONOMER,pan4p(1) AND epme(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_opme(1),VC_2020-MONOMER,pan4p(1) AND opme(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_pme(1),VC_2020-MONOMER,pan4p(1) AND pme(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_hpme(1),VC_2020-MONOMER,pan4p(1) AND hpme(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_toct2e(1),VC_2020-MONOMER,pan4p(1) AND toct2e(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_3ooct(1),VC_2020-MONOMER,pan4p(1) AND 3ooct(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_oc(1),VC_2020-MONOMER,pan4p(1) AND oc(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_3hoct(1),VC_2020-MONOMER,pan4p(1) AND 3hoct(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_tdec2e(1),VC_2020-MONOMER,pan4p(1) AND tdec2e(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_cdec3e(1),VC_2020-MONOMER,pan4p(1) AND cdec3e(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_3odec(1),VC_2020-MONOMER,pan4p(1) AND 3odec(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_dca(1),VC_2020-MONOMER,pan4p(1) AND dca(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_3hdec(1),VC_2020-MONOMER,pan4p(1) AND 3hdec(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_t3c5ddece(1),VC_2020-MONOMER,pan4p(1) AND t3c5ddece(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_3ocddec5e(1),VC_2020-MONOMER,pan4p(1) AND 3ocddec5e(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_tddec2e(1),VC_2020-MONOMER,pan4p(1) AND tddec2e(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_cddec5e(1),VC_2020-MONOMER,pan4p(1) AND cddec5e(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_3oddec(1),VC_2020-MONOMER,pan4p(1) AND 3oddec(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_3hcddec5e(1),VC_2020-MONOMER,pan4p(1) AND 3hcddec5e(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_ddca(1),VC_2020-MONOMER,pan4p(1) AND ddca(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_3hddec(1),VC_2020-MONOMER,pan4p(1) AND 3hddec(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_t3c7mrse(1),VC_2020-MONOMER,pan4p(1) AND t3c7mrse(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_3ocmrs7e(1),VC_2020-MONOMER,pan4p(1) AND 3ocmrs7e(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_tde(1),VC_2020-MONOMER,pan4p(1) AND tde(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_tmrs2e(1),VC_2020-MONOMER,pan4p(1) AND tmrs2e(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_3omrs(1),VC_2020-MONOMER,pan4p(1) AND 3omrs(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_3hcmrs7e(1),VC_2020-MONOMER,pan4p(1) AND 3hcmrs7e(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_myrs(1),VC_2020-MONOMER,pan4p(1) AND myrs(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_3hmrs(1),VC_2020-MONOMER,pan4p(1) AND 3hmrs(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_t3c9palme(1),VC_2020-MONOMER,pan4p(1) AND t3c9palme(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_3ocpalm9e(1),VC_2020-MONOMER,pan4p(1) AND 3ocpalm9e(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_hde(1),VC_2020-MONOMER,pan4p(1) AND hde(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_tpalm2e(1),VC_2020-MONOMER,pan4p(1) AND tpalm2e(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_3opalm(1),VC_2020-MONOMER,pan4p(1) AND 3opalm(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_3hcpalm9e(1),VC_2020-MONOMER,pan4p(1) AND 3hcpalm9e(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_palm(1),VC_2020-MONOMER,pan4p(1) AND palm(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_3hpalm(1),VC_2020-MONOMER,pan4p(1) AND 3hpalm(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_t3c11vace(1),VC_2020-MONOMER,pan4p(1) AND t3c11vace(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_3ocvac11e(1),VC_2020-MONOMER,pan4p(1) AND 3ocvac11e(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_toctd2e(1),VC_2020-MONOMER,pan4p(1) AND toctd2e(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_octe(1),VC_2020-MONOMER,pan4p(1) AND octe(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_3ooctd(1),VC_2020-MONOMER,pan4p(1) AND 3ooctd(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_3hcvac11e(1),VC_2020-MONOMER,pan4p(1) AND 3hcvac11e(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_ocdca(1),VC_2020-MONOMER,pan4p(1) AND ocdca(1),Homology
+VC_2020-MONOMER_mod_pan4p(1)_mod_3hocta(1),VC_2020-MONOMER,pan4p(1) AND 3hocta(1),Homology
+VC_2030-MONOMER_mod_zn2(2),VC_2030-MONOMER,zn2(2),Homology
+VC_2033-MONOMER_mod_fe2(1),VC_2033-MONOMER,fe2(1),Homology
+VC_2045-MONOMER_mod_fe3(1),VC_2045-MONOMER,fe3(1),Homology
+VC_2074-MONOMER_mod_mg2(1),VC_2074-MONOMER,mg2(1),Homology
+VC_2095-MONOMER_mod_mg2(1),VC_2095-MONOMER,mg2(1),Homology
+VC_2099-MONOMER_mod_Oxidized(1),VC_2099-MONOMER,Oxidized(1),Homology
+VC_2110-MONOMER_mod_fad(1),VC_2110-MONOMER,fad(1),Homology
+VC_2116-MONOMER_mod_fmnh2(1),VC_2116-MONOMER,fmnh2(1),Homology
+VC_2116-MONOMER_mod_fadh2(1),VC_2116-MONOMER,fadh2(1),Homology
+VC_2152-MONOMER_mod_zn2(1)_mod_cobalt2(1),VC_2152-MONOMER,zn2(1) AND cobalt2(1),Homology
+VC_2174-MONOMER_mod_zn2(1),VC_2174-MONOMER,zn2(1),Homology
+VC_2174-MONOMER_mod_cobalt2(1),VC_2174-MONOMER,cobalt2(1),Homology
+VC_2182-MONOMER_mod_mg2(1),VC_2182-MONOMER,mg2(1),Homology
+VC_2183-MONOMER_mod_mg2(1)_mod_pi(1),VC_2183-MONOMER,mg2(1) AND pi(1),Homology
+VC_2183-MONOMER_mod_mn2(1)_mod_pi(1),VC_2183-MONOMER,mn2(1) AND pi(1),Homology
+VC_2214-MONOMER_mod_mg2(1)_mod_zn2(1),VC_2214-MONOMER,mg2(1) AND zn2(1),Homology
+VC_2226-MONOMER_mod_k(1)_mod_mg2(1),VC_2226-MONOMER,k(1) AND mg2(1),Homology
+VC_2236-MONOMER_mod_zn2(1),VC_2236-MONOMER,zn2(1),Homology
+VC_2254-MONOMER_mod_mn2(1),VC_2254-MONOMER,mn2(1),Homology
+VC_2254-MONOMER_mod_cobalt2(1),VC_2254-MONOMER,cobalt2(1),Homology
+VC_2254-MONOMER_mod_mg2(1),VC_2254-MONOMER,mg2(1),Homology
+VC_2256-MONOMER_mod_mg2(1),VC_2256-MONOMER,mg2(1),Homology
+VC_2261-MONOMER_mod_fe2(2),VC_2261-MONOMER,fe2(2),Homology
+VC_2265-MONOMER_mod_mg2(1),VC_2265-MONOMER,mg2(1),Homology
+VC_2266-MONOMER_mod_mg2(1),VC_2266-MONOMER,mg2(1),Homology
+VC_2274-MONOMER_mod_mg2(1),VC_2274-MONOMER,mg2(1),Homology
+VC_2309-MONOMER_mod_pydx5p(1),VC_2309-MONOMER,pydx5p(1),Homology
+VC_2345-MONOMER_mod_mg2(1),VC_2345-MONOMER,mg2(1),Homology
+VC_2348-MONOMER_mod_mn2(1),VC_2348-MONOMER,mn2(1),Homology
+VC_2362-MONOMER_mod_pydx5p(1),VC_2362-MONOMER,pydx5p(1),Homology
+VC_2363-MONOMER_mod_k(1)_mod_mg2(1),VC_2363-MONOMER,k(1) AND mg2(1),Homology
+VC_2392-MONOMER_mod_mn2(1)_mod_mg2(1),VC_2392-MONOMER,mn2(1) AND mg2(1),Homology
+VC_2400-MONOMER_mod_mg2(1),VC_2400-MONOMER,mg2(1),Homology
+VC_2403-MONOMER_mod_k(1)_mod_mg2(1),VC_2403-MONOMER,k(1) AND mg2(1),Homology
+VC_2418-MONOMER_mod_Oxidized(1),VC_2418-MONOMER,Oxidized(1),Homology
+VC_2420-MONOMER_mod_Oxidized(1),VC_2420-MONOMER,Oxidized(1),Homology
+VC_2422-MONOMER_mod_mg2(1),VC_2422-MONOMER,mg2(1),Homology
+VC_2435-MONOMER_mod_mg2(1),VC_2435-MONOMER,mg2(1),Homology
+VC_2447-MONOMER_mod_mg2(4),VC_2447-MONOMER,mg2(4),Homology
+VC_2450-MONOMER_mod_mg2(1),VC_2450-MONOMER,mg2(1),Homology
+VC_2452-MONOMER_mod_4fe4s(1),VC_2452-MONOMER,4fe4s(1),Homology
+VC_2457-MONOMER_mod_mg2(1),VC_2457-MONOMER,mg2(1),Homology
+VC_2457-MONOMER_mod_mn2(1),VC_2457-MONOMER,mn2(1),Homology
+VC_2461-MONOMER_mod_mg2(2),VC_2461-MONOMER,mg2(2),Homology
+VC_2469-MONOMER_mod_fad(1),VC_2469-MONOMER,fad(1),Homology
+VC_2491-MONOMER_mod_mg2(1)_mod_mn2(1),VC_2491-MONOMER,mg2(1) AND mn2(1),Homology
+VC_2501-MONOMER_mod_zn2(1),VC_2501-MONOMER,zn2(1),Homology
+VC_2524-MONOMER_mod_mg2(1),VC_2524-MONOMER,mg2(1),Homology
+VC_2542-MONOMER_mod_mg2(1),VC_2542-MONOMER,mg2(1),Homology
+VC_2544-MONOMER_mod_mg2(1),VC_2544-MONOMER,mg2(1),Homology
+VC_2545-MONOMER_mod_mg2(1),VC_2545-MONOMER,mg2(1),Homology
+VC_2558-MONOMER_mod_mg2(1),VC_2558-MONOMER,mg2(1),Homology
+VC_2558-MONOMER_mod_mn2(1),VC_2558-MONOMER,mn2(1),Homology
+VC_2558-MONOMER_mod_cobalt2(1),VC_2558-MONOMER,cobalt2(1),Homology
+VC_2558-MONOMER_mod_cd2(1),VC_2558-MONOMER,cd2(1),Homology
+VC_2618-MONOMER_mod_pydx5p(1),VC_2618-MONOMER,pydx5p(1),Homology
+VC_2623-MONOMER_mod_mg2(1),VC_2623-MONOMER,mg2(1),Homology
+VC_2628-MONOMER_mod_cobalt2(1)_mod_nad(1),VC_2628-MONOMER,cobalt2(1) AND nad(1),Homology
+VC_2629-MONOMER_mod_mg2(1),VC_2629-MONOMER,mg2(1),Homology
+VC_2629-MONOMER_mod_mn2(1),VC_2629-MONOMER,mn2(1),Homology
+VC_2629-MONOMER_mod_cobalt2(1),VC_2629-MONOMER,cobalt2(1),Homology
+VC_2629-MONOMER_mod_fe2(1),VC_2629-MONOMER,fe2(1),Homology
+VC_2629-MONOMER_mod_ca2(1),VC_2629-MONOMER,ca2(1),Homology
+VC_2629-MONOMER_mod_k(1),VC_2629-MONOMER,k(1),Homology
+VC_2637-MONOMER_mod_Oxidized(1),VC_2637-MONOMER,Oxidized(1),Homology
+VC_2642-MONOMER_mod_mg2(1),VC_2642-MONOMER,mg2(1),Homology
+VC_2643-MONOMER_mod_mg2(1),VC_2643-MONOMER,mg2(1),Homology
+VC_2645-MONOMER_mod_zn2(1),VC_2645-MONOMER,zn2(1),Homology
+VC_2646-MONOMER_mod_mg2(1),VC_2646-MONOMER,mg2(1),Homology
+VC_2673-MONOMER_mod_mg2(1),VC_2673-MONOMER,mg2(1),Homology
+VC_2681-MONOMER_mod_mn2(1),VC_2681-MONOMER,mn2(1),Homology
+VC_2681-MONOMER_mod_mg2(1),VC_2681-MONOMER,mg2(1),Homology
+VC_2683-MONOMER_mod_pydx5p(1),VC_2683-MONOMER,pydx5p(1),Homology
+VC_2685-MONOMER_mod_fad(1),VC_2685-MONOMER,fad(1),Homology
+VC_2688-MONOMER_mod_mn2(1),VC_2688-MONOMER,mn2(1),Homology
+VC_2689-MONOMER_mod_mg2(1),VC_2689-MONOMER,mg2(1),Homology
+VC_2694-MONOMER_mod_mn2(1),VC_2694-MONOMER,mn2(1),Homology
+VC_2698-MONOMER_mod_mg2(1),VC_2698-MONOMER,mg2(1),Homology
+VC_2698-MONOMER_mod_mn2(1),VC_2698-MONOMER,mn2(1),Homology
+VC_2698-MONOMER_mod_cobalt2(1),VC_2698-MONOMER,cobalt2(1),Homology
+VC_2701-MONOMER_mod_Oxidized(1),VC_2701-MONOMER,Oxidized(1),Homology
+VC_2708-MONOMER_mod_mg2(1),VC_2708-MONOMER,mg2(1),Homology
+VC_2709-MONOMER_mod_mg2(1),VC_2709-MONOMER,mg2(1),Homology
+VC_2710-MONOMER_mod_mn2(1),VC_2710-MONOMER,mn2(1),Homology
+VC_2721-MONOMER_mod_mg2(1),VC_2721-MONOMER,mg2(1),Homology
+VC_2722-MONOMER_mod_mg2(1),VC_2722-MONOMER,mg2(1),Homology
+VC_2738-MONOMER_mod_mg2(1),VC_2738-MONOMER,mg2(1),Homology
+VC_2738-MONOMER_mod_ca2(1),VC_2738-MONOMER,ca2(1),Homology
+VC_2738-MONOMER_mod_mn2(1),VC_2738-MONOMER,mn2(1),Homology
+VC_2746-MONOMER_mod_mn2(1),VC_2746-MONOMER,mn2(1),Homology
+VC_2762-MONOMER_mod_mg2(1),VC_2762-MONOMER,mg2(1),Homology
+VC_A0013-MONOMER_mod_pydx5p(1),VC_A0013-MONOMER,pydx5p(1),Homology
+VC_A0131-MONOMER_mod_k(1)_mod_mg2(1),VC_A0131-MONOMER,k(1) AND mg2(1),Homology
+VC_A0136-MONOMER_mod_ca2(1),VC_A0136-MONOMER,ca2(1),Homology
+VC_A0183-MONOMER_mod_fad(1)_mod_pheme(1),VC_A0183-MONOMER,fad(1) AND pheme(1),Homology
+VC_A0207-MONOMER_mod_mg2(1),VC_A0207-MONOMER,mg2(1),Homology
+VC_A0207-MONOMER_mod_mn2(1),VC_A0207-MONOMER,mn2(1),Homology
+VC_A0248-MONOMER_mod_mn2(1),VC_A0248-MONOMER,mn2(1),Homology
+VC_A0287-MONOMER_mod_zn2(1),VC_A0287-MONOMER,zn2(1),Homology
+VC_A0517-MONOMER_mod_mg2(1),VC_A0517-MONOMER,mg2(1),Homology
+VC_A0530-MONOMER_mod_thmpp(1),VC_A0530-MONOMER,thmpp(1),Homology
+VC_A0608-MONOMER_mod_mn2(1),VC_A0608-MONOMER,mn2(1),Homology
+VC_A0616-MONOMER_mod_zn2(1),VC_A0616-MONOMER,zn2(1),Homology
+VC_A0657-MONOMER_mod_fad(1),VC_A0657-MONOMER,fad(1),Homology
+VC_A0699-MONOMER_mod_mg2(1),VC_A0699-MONOMER,mg2(1),Homology
+VC_A0744-MONOMER_mod_mg2(1),VC_A0744-MONOMER,mg2(1),Homology
+VC_A0744-MONOMER_mod_mn2(1),VC_A0744-MONOMER,mn2(1),Homology
+VC_A0752-MONOMER_mod_Oxidized(1),VC_A0752-MONOMER,Oxidized(1),Homology
+VC_A0765-MONOMER_mod_pydx5p(1),VC_A0765-MONOMER,pydx5p(1),Homology
+VC_A0769-MONOMER_mod_zn2(1)_mod_fe2(1)_mod_cobalt2(1)_mod_mg2(1)_mod_mn2(1),VC_A0769-MONOMER,zn2(1) AND fe2(1) AND cobalt2(1) AND mg2(1) AND mn2(1),Homology
+VC_A0774-MONOMER_mod_nad(1),VC_A0774-MONOMER,nad(1),Homology
+VC_A0783-MONOMER_mod_ca2(1),VC_A0783-MONOMER,ca2(1),Homology
+VC_A0805-MONOMER_mod_mg2(1),VC_A0805-MONOMER,mg2(1),Homology
+VC_A0814-MONOMER_mod_mn2(2),VC_A0814-MONOMER,mn2(2),Homology
+VC_A0815-MONOMER_mod_mg2(1)_mod_pydx5p(4),VC_A0815-MONOMER,mg2(1) AND pydx5p(4),Homology
+VC_A0885-MONOMER_mod_zn2(1),VC_A0885-MONOMER,zn2(1),Homology
+VC_A0925-MONOMER_mod_zn2(2),VC_A0925-MONOMER,zn2(2),Homology
+VC_A0929-MONOMER_mod_4fe4s(1),VC_A0929-MONOMER,4fe4s(1),Homology
+VC_A0984-MONOMER_mod_fmn(1),VC_A0984-MONOMER,fmn(1),Homology
+VC_A0987-MONOMER_mod_mg2(1),VC_A0987-MONOMER,mg2(1),Homology
+VC_A0992-MONOMER_mod_Oxidized(1),VC_A0992-MONOMER,Oxidized(1),Homology
+VC_A1063-MONOMER_mod_pydx5p(1),VC_A1063-MONOMER,pydx5p(1),Homology
+VC_A1079-MONOMER_mod_fmn(1),VC_A1079-MONOMER,fmn(1),Homology
+CPLX_ACCOAC-0_mod_btn(1),CPLX_ACCOAC-0,btn(1),Homology
+CPLX_ADCS-0_mod_mg2(1),CPLX_ADCS-0,mg2(1),Homology
+CPLX_AKGDH-0_mod_mg2(1)_mod_lipoyl(1),CPLX_AKGDH-0,mg2(1) AND lipoyl(1),Homology
+CPLX_ASPCT-0_mod_zn2(1),CPLX_ASPCT-0,zn2(1),Homology
+CPLX_ATPS4rpp-1_mod_mg2(1),CPLX_ATPS4rpp-1,mg2(1),Homology
+CPLX_CBPS-0_mod_mg2(1),CPLX_CBPS-0,mg2(1),Homology
+CPLX_CBPS-0_mod_mn2(1),CPLX_CBPS-0,mn2(1),Homology
+CPLX_CBPS-0_mod_cobalt2(1),CPLX_CBPS-0,cobalt2(1),Homology
+CPLX_CBPS-0_mod_cd2(1),CPLX_CBPS-0,cd2(1),Homology
+CPLX_CBPS-0_mod_zn2(1),CPLX_CBPS-0,zn2(1),Homology
+CPLX_CYTBD2pp-3_mod_pheme(1)_mod_hemed(1),CPLX_CYTBD2pp-3,pheme(1) AND hemed(1),Homology
+CPLX_FADRx2-0_mod_4fe4s(1)_mod_sheme(1)_mod_fmn(1)_mod_fad(1),CPLX_FADRx2-0,4fe4s(1) AND sheme(1) AND fmn(1) AND fad(1),Homology
+CPLX_FRD2-0_mod_pheme(1)_mod_3fe4s(1)_mod_4fe4s(1)_mod_fad(1)_mod_2fe2s(1),CPLX_FRD2-0,pheme(1) AND 3fe4s(1) AND 4fe4s(1) AND fad(1) AND 2fe2s(1),Homology
+CPLX_G3PD5-0_mod_fmn(1),CPLX_G3PD5-0,fmn(1),Homology
+CPLX_GLUSy-3_mod_fe2(1)_mod_fad(1),CPLX_GLUSy-3,fe2(1) AND fad(1),Homology
+CPLX_NO3R1bpp-0_mod_bmocogdp(1),CPLX_NO3R1bpp-0,bmocogdp(1),Homology
+CPLX_PDH-0_mod_mg2(1)_mod_fad(1)_mod_thmpp(1)_mod_lipoyl(1),CPLX_PDH-0,mg2(1) AND fad(1) AND thmpp(1) AND lipoyl(1),Homology
+CPLX_TRPS1-0_mod_pydx5p(1),CPLX_TRPS1-0,pydx5p(1),Homology

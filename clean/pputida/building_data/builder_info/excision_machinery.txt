@@ -1,0 +1,5 @@
+,value
+RNA_degradosome,"{'enzymes': ['G1G01-1709-MONOMER_mod_mg2(4)', 'G1G01-5029-MONOMER', 'G1G01-1382-MONOMER', 'G1G01-5244-MONOMER_mod_mg2(2)']}"
+monocistronic,{'enzymes': ['generic_RNase']}
+polycistronic_wout_rRNA,"{'enzymes': ['generic_RNase', 'G1G01-1525-MONOMER', 'G1G01-1011-MONOMER', 'G1G01-1158-MONOMER_mod_mg2(4)']}"
+rRNA_containing,"{'enzymes': ['generic_RNase', 'G1G01-1525-MONOMER_mod_mg2(2)', 'G1G01-1011-MONOMER', 'G1G01-1158-MONOMER_mod_mg2(4)']}"

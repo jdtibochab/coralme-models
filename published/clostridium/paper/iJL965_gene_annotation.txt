@@ -1,0 +1,2209 @@
+Category	CLJU
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c39390
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c22770
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c10840
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c24470
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c26660
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c35920
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c02610
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c35050
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c08800
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c12650
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c36870
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c11160
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c08790
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c13440
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c33050
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c40280
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c40300
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c32000
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c31930
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c31890
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c32020
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c31870
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c31830
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c31850
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c35520
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c31840
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c31860
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c31880
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c32010
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c31940
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c31820
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c23980
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c31920
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c31950
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c07950
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c13390
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c31970
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c04490
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c31990
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c31960
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c04480
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c31980
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c13190
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c33870
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c39260
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c02690
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c08450
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c22060
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c22090
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c13180
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c22070
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c22080
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c14000
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c39580
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c23360
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c00970
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c03850
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c23700
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c13510
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c13400
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c24430
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c13430
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c08170
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c24410
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c11180
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c00130
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c11240
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c06920
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c24420
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c07400
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c23150
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c06350
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c06110
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c06340
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c06370
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c41550
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c33920
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c17230
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c25050
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c22160
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c07000
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c21410
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c24080
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c06770
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c07010
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c38070
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c22170
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c20180
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c20190
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c20060
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c19250
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c36000
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c34680
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c23410
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c21900
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c24490
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c36010
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c23320
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c06360
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c36020
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c03830
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c11500
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c08580
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c22820
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c21500
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c37610
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c37600
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c37650
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c37630
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c08590
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c21440
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c09210
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c33210
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c08720
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c12720
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c15310
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c12540
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c33600
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c41520
+Cell Wall and Capsule	CLJU_c05340
+Cell Wall and Capsule	CLJU_c05320
+Cell Wall and Capsule	CLJU_c05350
+Cell Wall and Capsule	CLJU_c05330
+Cell Wall and Capsule	CLJU_c05510
+Cell Wall and Capsule	CLJU_c05520
+Cell Wall and Capsule	CLJU_c02350
+Cell Wall and Capsule	CLJU_c01600
+Cell Wall and Capsule	CLJU_c01610
+Cell Wall and Capsule	CLJU_c10000
+Cell Wall and Capsule	CLJU_c34160
+Cell Wall and Capsule	CLJU_c05420
+Cell Wall and Capsule	CLJU_c05150
+Cell Wall and Capsule	CLJU_c05140
+Cell Wall and Capsule	CLJU_c05160
+Cell Wall and Capsule	CLJU_c04550
+Cell Wall and Capsule	CLJU_c05210
+Cell Wall and Capsule	CLJU_c41780
+Cell Wall and Capsule	CLJU_c40420
+Cell Wall and Capsule	CLJU_c40440
+Cell Wall and Capsule	CLJU_c11550
+Cell Wall and Capsule	CLJU_c34120
+Cell Wall and Capsule	CLJU_c05650
+Cell Wall and Capsule	CLJU_c05660
+Cell Wall and Capsule	CLJU_c01880
+Cell Wall and Capsule	CLJU_c07440
+Cell Wall and Capsule	CLJU_c33590
+Cell Wall and Capsule	CLJU_c01350
+Cell Wall and Capsule	CLJU_c10570
+Cell Wall and Capsule	CLJU_c03150
+Cell Wall and Capsule	CLJU_c03180
+Cell Wall and Capsule	CLJU_c02460
+Cell Wall and Capsule	CLJU_c41450
+Cell Wall and Capsule	CLJU_c09330
+Cell Wall and Capsule	CLJU_c41950
+Cell Wall and Capsule	CLJU_c07290
+Cell Wall and Capsule	CLJU_c10580
+Cell Wall and Capsule	CLJU_c34630
+Cell Wall and Capsule	CLJU_c07250
+Cell Wall and Capsule	CLJU_c32110
+Cell Wall and Capsule	CLJU_c10590
+Cell Wall and Capsule	CLJU_c38180
+Cell Wall and Capsule	CLJU_c16410
+Cell Wall and Capsule	CLJU_c04440
+Cell Wall and Capsule	CLJU_c02160
+Cell Wall and Capsule	CLJU_c34010
+Cell Wall and Capsule	CLJU_c34050
+Cell Wall and Capsule	CLJU_c02340
+Cell Wall and Capsule	CLJU_c41280
+Cell Wall and Capsule	CLJU_c19690
+Cell Wall and Capsule	CLJU_c08770
+Cell Wall and Capsule	CLJU_c19670
+Virulence, Disease and Defense	CLJU_c34600
+Virulence, Disease and Defense	CLJU_c25750
+Virulence, Disease and Defense	CLJU_c25770
+Virulence, Disease and Defense	CLJU_c14170
+Virulence, Disease and Defense	CLJU_c32910
+Virulence, Disease and Defense	CLJU_c14420
+Virulence, Disease and Defense	CLJU_c25780
+Virulence, Disease and Defense	CLJU_c14400
+Virulence, Disease and Defense	CLJU_c24900
+Virulence, Disease and Defense	CLJU_c24890
+Virulence, Disease and Defense	CLJU_c24690
+Virulence, Disease and Defense	CLJU_c04090
+Virulence, Disease and Defense	CLJU_c04080
+Virulence, Disease and Defense	CLJU_c08360
+Virulence, Disease and Defense	CLJU_c14670
+Virulence, Disease and Defense	CLJU_c14380
+Virulence, Disease and Defense	CLJU_c42520
+Virulence, Disease and Defense	CLJU_c04380
+Virulence, Disease and Defense	CLJU_c04370
+Virulence, Disease and Defense	CLJU_c41070
+Virulence, Disease and Defense	CLJU_c37150
+Virulence, Disease and Defense	CLJU_c00060
+Virulence, Disease and Defense	CLJU_c00070
+Virulence, Disease and Defense	CLJU_c09190
+Virulence, Disease and Defense	CLJU_c14140
+Virulence, Disease and Defense	CLJU_c08840
+Virulence, Disease and Defense	CLJU_c06780
+Virulence, Disease and Defense	CLJU_c08400
+Virulence, Disease and Defense	CLJU_c01860
+Virulence, Disease and Defense	CLJU_c08450
+Virulence, Disease and Defense	CLJU_c15500
+Virulence, Disease and Defense	CLJU_c08160
+Virulence, Disease and Defense	CLJU_c17580
+Virulence, Disease and Defense	CLJU_c41080
+Virulence, Disease and Defense	CLJU_c41060
+Virulence, Disease and Defense	CLJU_c41090
+Virulence, Disease and Defense	CLJU_c26750
+Virulence, Disease and Defense	CLJU_c42930
+Virulence, Disease and Defense	CLJU_c42950
+Virulence, Disease and Defense	CLJU_c42940
+Virulence, Disease and Defense	CLJU_c41110
+Virulence, Disease and Defense	CLJU_c41120
+Virulence, Disease and Defense	CLJU_c24430
+Virulence, Disease and Defense	CLJU_c24410
+Virulence, Disease and Defense	CLJU_c24420
+Virulence, Disease and Defense	CLJU_c34450
+Virulence, Disease and Defense	CLJU_c20760
+Virulence, Disease and Defense	CLJU_c34440
+Potassium metabolism	CLJU_c39560
+Potassium metabolism	CLJU_c39550
+Potassium metabolism	CLJU_c42810
+Potassium metabolism	CLJU_c39540
+Potassium metabolism	CLJU_c05890
+Miscellaneous	CLJU_c27340
+Miscellaneous	CLJU_c37470
+Miscellaneous	CLJU_c39880
+Miscellaneous	CLJU_c23150
+Miscellaneous	CLJU_c20850
+Miscellaneous	CLJU_c41230
+Miscellaneous	CLJU_c39300
+Miscellaneous	CLJU_c41240
+Miscellaneous	CLJU_c41260
+Miscellaneous	CLJU_c23980
+Miscellaneous	CLJU_c03090
+Miscellaneous	CLJU_c39120
+Miscellaneous	CLJU_c26320
+Miscellaneous	CLJU_c20110
+Miscellaneous	CLJU_c15950
+Miscellaneous	CLJU_c16410
+Miscellaneous	CLJU_c40590
+Miscellaneous	CLJU_c40600
+Miscellaneous	CLJU_c03100
+Phages, Prophages, Transposable elements, Plasmids	CLJU_c03640
+Phages, Prophages, Transposable elements, Plasmids	CLJU_c00400
+Phages, Prophages, Transposable elements, Plasmids	CLJU_c03240
+Phages, Prophages, Transposable elements, Plasmids	CLJU_c03440
+Phages, Prophages, Transposable elements, Plasmids	CLJU_c00350
+Phages, Prophages, Transposable elements, Plasmids	CLJU_c03530
+Phages, Prophages, Transposable elements, Plasmids	CLJU_c03540
+Phages, Prophages, Transposable elements, Plasmids	CLJU_c04260
+Phages, Prophages, Transposable elements, Plasmids	CLJU_c31310
+Phages, Prophages, Transposable elements, Plasmids	CLJU_c31390
+Phages, Prophages, Transposable elements, Plasmids	CLJU_c22020
+Membrane Transport	CLJU_c28800
+Membrane Transport	CLJU_c28830
+Membrane Transport	CLJU_c28790
+Membrane Transport	CLJU_c28820
+Membrane Transport	CLJU_c28840
+Membrane Transport	CLJU_c28810
+Membrane Transport	CLJU_c28850
+Membrane Transport	CLJU_c20150
+Membrane Transport	CLJU_c20140
+Membrane Transport	CLJU_c20160
+Membrane Transport	CLJU_c22650
+Membrane Transport	CLJU_c22660
+Membrane Transport	CLJU_c12080
+Membrane Transport	CLJU_c12070
+Membrane Transport	CLJU_c22540
+Membrane Transport	CLJU_c12050
+Membrane Transport	CLJU_c12060
+Membrane Transport	CLJU_c12040
+Membrane Transport	CLJU_c12880
+Membrane Transport	CLJU_c12870
+Membrane Transport	CLJU_c12860
+Membrane Transport	CLJU_c05620
+Membrane Transport	CLJU_c09130
+Membrane Transport	CLJU_c28430
+Membrane Transport	CLJU_c02970
+Membrane Transport	CLJU_c33200
+Membrane Transport	CLJU_c22230
+Membrane Transport	CLJU_c22220
+Membrane Transport	CLJU_c32030
+Membrane Transport	CLJU_c28590
+Membrane Transport	CLJU_c28600
+Membrane Transport	CLJU_c24900
+Membrane Transport	CLJU_c35050
+Membrane Transport	CLJU_c18230
+Membrane Transport	CLJU_c23410
+Membrane Transport	CLJU_c22310
+Membrane Transport	CLJU_c02690
+Membrane Transport	CLJU_c24470
+Membrane Transport	CLJU_c22300
+Membrane Transport	CLJU_c40730
+Membrane Transport	CLJU_c29000
+Membrane Transport	CLJU_c38250
+Membrane Transport	CLJU_c10900
+Membrane Transport	CLJU_c12270
+Membrane Transport	CLJU_c07180
+Membrane Transport	CLJU_c05610
+Membrane Transport	CLJU_c29160
+RNA Metabolism	CLJU_c37000
+RNA Metabolism	CLJU_c10720
+RNA Metabolism	CLJU_c17350
+RNA Metabolism	CLJU_c21360
+RNA Metabolism	CLJU_c13180
+RNA Metabolism	CLJU_c40720
+RNA Metabolism	CLJU_c01520
+RNA Metabolism	CLJU_c38120
+RNA Metabolism	CLJU_c11280
+RNA Metabolism	CLJU_c08020
+RNA Metabolism	CLJU_c21250
+RNA Metabolism	CLJU_c13260
+RNA Metabolism	CLJU_c12960
+RNA Metabolism	CLJU_c32150
+RNA Metabolism	CLJU_c12200
+RNA Metabolism	CLJU_c39020
+RNA Metabolism	CLJU_c07350
+RNA Metabolism	CLJU_c39090
+RNA Metabolism	CLJU_c13170
+RNA Metabolism	CLJU_c12830
+RNA Metabolism	CLJU_c34430
+RNA Metabolism	CLJU_c01470
+RNA Metabolism	CLJU_c08010
+RNA Metabolism	CLJU_c01770
+RNA Metabolism	CLJU_c41250
+RNA Metabolism	CLJU_c29660
+RNA Metabolism	CLJU_c12600
+RNA Metabolism	CLJU_c12920
+RNA Metabolism	CLJU_c17400
+RNA Metabolism	CLJU_c42900
+RNA Metabolism	CLJU_c39190
+RNA Metabolism	CLJU_c23380
+RNA Metabolism	CLJU_c22990
+RNA Metabolism	CLJU_c04110
+RNA Metabolism	CLJU_c09120
+RNA Metabolism	CLJU_c06020
+RNA Metabolism	CLJU_c10560
+RNA Metabolism	CLJU_c03150
+RNA Metabolism	CLJU_c07250
+RNA Metabolism	CLJU_c10540
+RNA Metabolism	CLJU_c01480
+RNA Metabolism	CLJU_c22890
+RNA Metabolism	CLJU_c06350
+RNA Metabolism	CLJU_c26330
+RNA Metabolism	CLJU_c18230
+RNA Metabolism	CLJU_c33810
+RNA Metabolism	CLJU_c03940
+RNA Metabolism	CLJU_c33800
+RNA Metabolism	CLJU_c06130
+RNA Metabolism	CLJU_c42960
+RNA Metabolism	CLJU_c41550
+RNA Metabolism	CLJU_c26640
+RNA Metabolism	CLJU_c00760
+RNA Metabolism	CLJU_c21220
+RNA Metabolism	CLJU_c36860
+RNA Metabolism	CLJU_c08220
+RNA Metabolism	CLJU_c11350
+RNA Metabolism	CLJU_c12320
+RNA Metabolism	CLJU_c41230
+RNA Metabolism	CLJU_c33950
+RNA Metabolism	CLJU_c24530
+RNA Metabolism	CLJU_c16190
+RNA Metabolism	CLJU_c13570
+RNA Metabolism	CLJU_c12260
+RNA Metabolism	CLJU_c27510
+RNA Metabolism	CLJU_c12330
+RNA Metabolism	CLJU_c10410
+RNA Metabolism	CLJU_c40770
+RNA Metabolism	CLJU_c41110
+RNA Metabolism	CLJU_c12530
+RNA Metabolism	CLJU_c41120
+RNA Metabolism	CLJU_c11120
+RNA Metabolism	CLJU_c02680
+RNA Metabolism	CLJU_c26390
+RNA Metabolism	CLJU_c02220
+RNA Metabolism	CLJU_c41170
+RNA Metabolism	CLJU_c41720
+RNA Metabolism	CLJU_c13140
+RNA Metabolism	CLJU_c13130
+RNA Metabolism	CLJU_c13110
+RNA Metabolism	CLJU_c13120
+RNA Metabolism	CLJU_c34000
+RNA Metabolism	CLJU_c12100
+Nucleosides and Nucleotides	CLJU_c01390
+Nucleosides and Nucleotides	CLJU_c19230
+Nucleosides and Nucleotides	CLJU_c27330
+Nucleosides and Nucleotides	CLJU_c18160
+Nucleosides and Nucleotides	CLJU_c21330
+Nucleosides and Nucleotides	CLJU_c20750
+Nucleosides and Nucleotides	CLJU_c23320
+Nucleosides and Nucleotides	CLJU_c18120
+Nucleosides and Nucleotides	CLJU_c02840
+Nucleosides and Nucleotides	CLJU_c02320
+Nucleosides and Nucleotides	CLJU_c02200
+Nucleosides and Nucleotides	CLJU_c10730
+Nucleosides and Nucleotides	CLJU_c35910
+Nucleosides and Nucleotides	CLJU_c35900
+Nucleosides and Nucleotides	CLJU_c35870
+Nucleosides and Nucleotides	CLJU_c23790
+Nucleosides and Nucleotides	CLJU_c35710
+Nucleosides and Nucleotides	CLJU_c35700
+Nucleosides and Nucleotides	CLJU_c15290
+Nucleosides and Nucleotides	CLJU_c35690
+Nucleosides and Nucleotides	CLJU_c04400
+Nucleosides and Nucleotides	CLJU_c35680
+Nucleosides and Nucleotides	CLJU_c35720
+Nucleosides and Nucleotides	CLJU_c04410
+Nucleosides and Nucleotides	CLJU_c30030
+Nucleosides and Nucleotides	CLJU_c10740
+Nucleosides and Nucleotides	CLJU_c08600
+Nucleosides and Nucleotides	CLJU_c08590
+Nucleosides and Nucleotides	CLJU_c08560
+Nucleosides and Nucleotides	CLJU_c41770
+Nucleosides and Nucleotides	CLJU_c08540
+Nucleosides and Nucleotides	CLJU_c08580
+Nucleosides and Nucleotides	CLJU_c08550
+Nucleosides and Nucleotides	CLJU_c41800
+Nucleosides and Nucleotides	CLJU_c13370
+Nucleosides and Nucleotides	CLJU_c08570
+Nucleosides and Nucleotides	CLJU_c11540
+Nucleosides and Nucleotides	CLJU_c06770
+Nucleosides and Nucleotides	CLJU_c23590
+Nucleosides and Nucleotides	CLJU_c23610
+Nucleosides and Nucleotides	CLJU_c15130
+Nucleosides and Nucleotides	CLJU_c23990
+Nucleosides and Nucleotides	CLJU_c23600
+Nucleosides and Nucleotides	CLJU_c15120
+Nucleosides and Nucleotides	CLJU_c23850
+Nucleosides and Nucleotides	CLJU_c15320
+Nucleosides and Nucleotides	CLJU_c08480
+Nucleosides and Nucleotides	CLJU_c23960
+Nucleosides and Nucleotides	CLJU_c37170
+Nucleosides and Nucleotides	CLJU_c40830
+Nucleosides and Nucleotides	CLJU_c42350
+Nucleosides and Nucleotides	CLJU_c02930
+Nucleosides and Nucleotides	CLJU_c33920
+Nucleosides and Nucleotides	CLJU_c23940
+Nucleosides and Nucleotides	CLJU_c33720
+Nucleosides and Nucleotides	CLJU_c28280
+Nucleosides and Nucleotides	CLJU_c12520
+Nucleosides and Nucleotides	CLJU_c01850
+Nucleosides and Nucleotides	CLJU_c01840
+Nucleosides and Nucleotides	CLJU_c06840
+Nucleosides and Nucleotides	CLJU_c12350
+Nucleosides and Nucleotides	CLJU_c27900
+Nucleosides and Nucleotides	CLJU_c10700
+Nucleosides and Nucleotides	CLJU_c41680
+Nucleosides and Nucleotides	CLJU_c24610
+Nucleosides and Nucleotides	CLJU_c17640
+Nucleosides and Nucleotides	CLJU_c10140
+Nucleosides and Nucleotides	CLJU_c13420
+Nucleosides and Nucleotides	CLJU_c11240
+Nucleosides and Nucleotides	CLJU_c00910
+Nucleosides and Nucleotides	CLJU_c14320
+Nucleosides and Nucleotides	CLJU_c34740
+Nucleosides and Nucleotides	CLJU_c42050
+Nucleosides and Nucleotides	CLJU_c36850
+Protein Metabolism	CLJU_c07970
+Protein Metabolism	CLJU_c07960
+Protein Metabolism	CLJU_c07980
+Protein Metabolism	CLJU_c02780
+Protein Metabolism	CLJU_c37200
+Protein Metabolism	CLJU_c37190
+Protein Metabolism	CLJU_c19770
+Protein Metabolism	CLJU_c06170
+Protein Metabolism	CLJU_c02270
+Protein Metabolism	CLJU_c01180
+Protein Metabolism	CLJU_c07470
+Protein Metabolism	CLJU_c07480
+Protein Metabolism	CLJU_c07460
+Protein Metabolism	CLJU_c34690
+Protein Metabolism	CLJU_c01730
+Protein Metabolism	CLJU_c01890
+Protein Metabolism	CLJU_c21700
+Protein Metabolism	CLJU_c40820
+Protein Metabolism	CLJU_c12570
+Protein Metabolism	CLJU_c20760
+Protein Metabolism	CLJU_c13150
+Protein Metabolism	CLJU_c13160
+Protein Metabolism	CLJU_c42770
+Protein Metabolism	CLJU_c40790
+Protein Metabolism	CLJU_c21320
+Protein Metabolism	CLJU_c42790
+Protein Metabolism	CLJU_c13200
+Protein Metabolism	CLJU_c40910
+Protein Metabolism	CLJU_c40870
+Protein Metabolism	CLJU_c40950
+Protein Metabolism	CLJU_c07900
+Protein Metabolism	CLJU_c41090
+Protein Metabolism	CLJU_c40700
+Protein Metabolism	CLJU_c40900
+Protein Metabolism	CLJU_c40780
+Protein Metabolism	CLJU_c41000
+Protein Metabolism	CLJU_c41050
+Protein Metabolism	CLJU_c12890
+Protein Metabolism	CLJU_c40980
+Protein Metabolism	CLJU_c41080
+Protein Metabolism	CLJU_c13020
+Protein Metabolism	CLJU_c08040
+Protein Metabolism	CLJU_c40800
+Protein Metabolism	CLJU_c41460
+Protein Metabolism	CLJU_c12150
+Protein Metabolism	CLJU_c02620
+Protein Metabolism	CLJU_c38290
+Protein Metabolism	CLJU_c12910
+Protein Metabolism	CLJU_c10720
+Protein Metabolism	CLJU_c17350
+Protein Metabolism	CLJU_c01770
+Protein Metabolism	CLJU_c12920
+Protein Metabolism	CLJU_c38200
+Protein Metabolism	CLJU_c01760
+Protein Metabolism	CLJU_c17400
+Protein Metabolism	CLJU_c08000
+Protein Metabolism	CLJU_c00990
+Protein Metabolism	CLJU_c40880
+Protein Metabolism	CLJU_c15890
+Protein Metabolism	CLJU_c40920
+Protein Metabolism	CLJU_c41020
+Protein Metabolism	CLJU_c40940
+Protein Metabolism	CLJU_c02230
+Protein Metabolism	CLJU_c41010
+Protein Metabolism	CLJU_c40890
+Protein Metabolism	CLJU_c07360
+Protein Metabolism	CLJU_c40930
+Protein Metabolism	CLJU_c40960
+Protein Metabolism	CLJU_c40860
+Protein Metabolism	CLJU_c41150
+Protein Metabolism	CLJU_c41190
+Protein Metabolism	CLJU_c40970
+Protein Metabolism	CLJU_c41040
+Protein Metabolism	CLJU_c40850
+Protein Metabolism	CLJU_c41100
+Protein Metabolism	CLJU_c40710
+Protein Metabolism	CLJU_c40990
+Protein Metabolism	CLJU_c42970
+Protein Metabolism	CLJU_c41140
+Protein Metabolism	CLJU_c42730
+Protein Metabolism	CLJU_c41130
+Protein Metabolism	CLJU_c12670
+Protein Metabolism	CLJU_c12930
+Protein Metabolism	CLJU_c34450
+Protein Metabolism	CLJU_c40810
+Protein Metabolism	CLJU_c34440
+Protein Metabolism	CLJU_c12800
+Protein Metabolism	CLJU_c40760
+Protein Metabolism	CLJU_c07380
+Protein Metabolism	CLJU_c41030
+Protein Metabolism	CLJU_c02640
+Protein Metabolism	CLJU_c20850
+Protein Metabolism	CLJU_c02250
+Protein Metabolism	CLJU_c13050
+Protein Metabolism	CLJU_c41730
+Protein Metabolism	CLJU_c12560
+Protein Metabolism	CLJU_c38280
+Protein Metabolism	CLJU_c39080
+Protein Metabolism	CLJU_c17840
+Protein Metabolism	CLJU_c02260
+Protein Metabolism	CLJU_c35780
+Protein Metabolism	CLJU_c12880
+Protein Metabolism	CLJU_c12470
+Protein Metabolism	CLJU_c33910
+Protein Metabolism	CLJU_c41070
+Protein Metabolism	CLJU_c12860
+Protein Metabolism	CLJU_c08100
+Protein Metabolism	CLJU_c12950
+Protein Metabolism	CLJU_c12220
+Protein Metabolism	CLJU_c42920
+Protein Metabolism	CLJU_c07940
+Protein Metabolism	CLJU_c41060
+Protein Metabolism	CLJU_c10520
+Protein Metabolism	CLJU_c12630
+Protein Metabolism	CLJU_c35610
+Protein Metabolism	CLJU_c07390
+Protein Metabolism	CLJU_c33670
+Protein Metabolism	CLJU_c36930
+Protein Metabolism	CLJU_c36910
+Protein Metabolism	CLJU_c33660
+Protein Metabolism	CLJU_c06740
+Protein Metabolism	CLJU_c36920
+Protein Metabolism	CLJU_c13030
+Protein Metabolism	CLJU_c11010
+Protein Metabolism	CLJU_c41380
+Protein Metabolism	CLJU_c01170
+Protein Metabolism	CLJU_c00200
+Protein Metabolism	CLJU_c00770
+Protein Metabolism	CLJU_c00840
+Protein Metabolism	CLJU_c41830
+Protein Metabolism	CLJU_c01330
+Protein Metabolism	CLJU_c41480
+Protein Metabolism	CLJU_c34470
+Protein Metabolism	CLJU_c38360
+Protein Metabolism	CLJU_c42630
+Protein Metabolism	CLJU_c21150
+Protein Metabolism	CLJU_c37150
+Protein Metabolism	CLJU_c13390
+Protein Metabolism	CLJU_c26740
+Protein Metabolism	CLJU_c00170
+Protein Metabolism	CLJU_c34300
+Protein Metabolism	CLJU_c02750
+Protein Metabolism	CLJU_c34420
+Protein Metabolism	CLJU_c34410
+Protein Metabolism	CLJU_c10710
+Protein Metabolism	CLJU_c08410
+Protein Metabolism	CLJU_c40420
+Protein Metabolism	CLJU_c01840
+Protein Metabolism	CLJU_c06840
+Protein Metabolism	CLJU_c03240
+Protein Metabolism	CLJU_c13000
+Protein Metabolism	CLJU_c03530
+Protein Metabolism	CLJU_c14340
+Protein Metabolism	CLJU_c05980
+Protein Metabolism	CLJU_c13260
+Protein Metabolism	CLJU_c23090
+Protein Metabolism	CLJU_c23080
+Protein Metabolism	CLJU_c20640
+Protein Metabolism	CLJU_c19080
+Protein Metabolism	CLJU_c23070
+Protein Metabolism	CLJU_c23060
+Protein Metabolism	CLJU_c10000
+Protein Metabolism	CLJU_c05480
+Protein Metabolism	CLJU_c05490
+Protein Metabolism	CLJU_c15760
+Protein Metabolism	CLJU_c40100
+Protein Metabolism	CLJU_c01090
+Protein Metabolism	CLJU_c26670
+Protein Metabolism	CLJU_c11000
+Protein Metabolism	CLJU_c07440
+Protein Metabolism	CLJU_c01350
+Protein Metabolism	CLJU_c41320
+Protein Metabolism	CLJU_c35630
+Protein Metabolism	CLJU_c24730
+Protein Metabolism	CLJU_c10500
+Protein Metabolism	CLJU_c41340
+Protein Metabolism	CLJU_c41350
+Protein Metabolism	CLJU_c35620
+Protein Metabolism	CLJU_c24740
+Protein Metabolism	CLJU_c41290
+Protein Metabolism	CLJU_c41330
+Protein Metabolism	CLJU_c32940
+Protein Metabolism	CLJU_c41360
+Cell Division and Cell Cycle	CLJU_c40470
+Cell Division and Cell Cycle	CLJU_c03020
+Cell Division and Cell Cycle	CLJU_c40440
+Cell Division and Cell Cycle	CLJU_c37400
+Cell Division and Cell Cycle	CLJU_c08220
+Cell Division and Cell Cycle	CLJU_c08210
+Cell Division and Cell Cycle	CLJU_c08050
+Cell Division and Cell Cycle	CLJU_c08040
+Cell Division and Cell Cycle	CLJU_c04400
+Cell Division and Cell Cycle	CLJU_c04410
+Cell Division and Cell Cycle	CLJU_c07260
+Cell Division and Cell Cycle	CLJU_c03150
+Cell Division and Cell Cycle	CLJU_c03140
+Cell Division and Cell Cycle	CLJU_c42870
+Cell Division and Cell Cycle	CLJU_c07240
+Cell Division and Cell Cycle	CLJU_c13250
+Cell Division and Cell Cycle	CLJU_c02500
+Cell Division and Cell Cycle	CLJU_c07200
+Cell Division and Cell Cycle	CLJU_c07270
+Cell Division and Cell Cycle	CLJU_c42880
+Cell Division and Cell Cycle	CLJU_c07290
+Cell Division and Cell Cycle	CLJU_c12300
+Cell Division and Cell Cycle	CLJU_c10690
+Cell Division and Cell Cycle	CLJU_c07220
+Cell Division and Cell Cycle	CLJU_c07230
+Cell Division and Cell Cycle	CLJU_c10610
+Cell Division and Cell Cycle	CLJU_c07280
+Motility and Chemotaxis	CLJU_c09440
+Motility and Chemotaxis	CLJU_c09470
+Motility and Chemotaxis	CLJU_c09390
+Motility and Chemotaxis	CLJU_c09480
+Motility and Chemotaxis	CLJU_c09430
+Motility and Chemotaxis	CLJU_c34110
+Motility and Chemotaxis	CLJU_c10230
+Motility and Chemotaxis	CLJU_c08950
+Motility and Chemotaxis	CLJU_c09410
+Motility and Chemotaxis	CLJU_c18860
+Motility and Chemotaxis	CLJU_c09420
+Motility and Chemotaxis	CLJU_c09400
+Motility and Chemotaxis	CLJU_c12040
+Motility and Chemotaxis	CLJU_c09450
+Motility and Chemotaxis	CLJU_c10200
+Motility and Chemotaxis	CLJU_c09600
+Motility and Chemotaxis	CLJU_c03150
+Motility and Chemotaxis	CLJU_c10210
+Motility and Chemotaxis	CLJU_c10190
+Motility and Chemotaxis	CLJU_c10390
+Motility and Chemotaxis	CLJU_c08220
+Motility and Chemotaxis	CLJU_c10320
+Motility and Chemotaxis	CLJU_c09580
+Motility and Chemotaxis	CLJU_c09510
+Motility and Chemotaxis	CLJU_c10240
+Motility and Chemotaxis	CLJU_c10360
+Motility and Chemotaxis	CLJU_c10340
+Motility and Chemotaxis	CLJU_c10220
+Motility and Chemotaxis	CLJU_c10280
+Motility and Chemotaxis	CLJU_c10180
+Motility and Chemotaxis	CLJU_c09490
+Motility and Chemotaxis	CLJU_c10330
+Motility and Chemotaxis	CLJU_c09570
+Motility and Chemotaxis	CLJU_c10440
+Motility and Chemotaxis	CLJU_c10450
+Motility and Chemotaxis	CLJU_c24530
+Motility and Chemotaxis	CLJU_c01460
+Motility and Chemotaxis	CLJU_c10260
+Motility and Chemotaxis	CLJU_c09520
+Motility and Chemotaxis	CLJU_c10370
+Motility and Chemotaxis	CLJU_c10250
+Motility and Chemotaxis	CLJU_c10350
+Motility and Chemotaxis	CLJU_c02700
+Motility and Chemotaxis	CLJU_c10380
+Motility and Chemotaxis	CLJU_c01450
+Motility and Chemotaxis	CLJU_c10310
+Motility and Chemotaxis	CLJU_c10410
+Motility and Chemotaxis	CLJU_c09550
+Motility and Chemotaxis	CLJU_c34000
+Motility and Chemotaxis	CLJU_c19340
+Regulation and Cell signaling	CLJU_c14150
+Regulation and Cell signaling	CLJU_c03550
+Regulation and Cell signaling	CLJU_c32940
+Regulation and Cell signaling	CLJU_c02800
+Regulation and Cell signaling	CLJU_c33720
+Regulation and Cell signaling	CLJU_c12040
+Regulation and Cell signaling	CLJU_c19790
+Regulation and Cell signaling	CLJU_c01900
+Regulation and Cell signaling	CLJU_c21910
+Regulation and Cell signaling	CLJU_c33710
+Regulation and Cell signaling	CLJU_c03040
+Regulation and Cell signaling	CLJU_c33080
+Regulation and Cell signaling	CLJU_c37330
+Regulation and Cell signaling	CLJU_c33090
+Regulation and Cell signaling	CLJU_c39100
+Regulation and Cell signaling	CLJU_c16170
+Regulation and Cell signaling	CLJU_c18120
+Regulation and Cell signaling	CLJU_c37320
+Regulation and Cell signaling	CLJU_c40130
+Regulation and Cell signaling	CLJU_c32650
+Regulation and Cell signaling	CLJU_c32640
+Secondary Metabolism	CLJU_c16130
+Secondary Metabolism	CLJU_c16090
+Secondary Metabolism	CLJU_c16120
+Secondary Metabolism	CLJU_c16110
+DNA Metabolism	CLJU_c01720
+DNA Metabolism	CLJU_c01120
+DNA Metabolism	CLJU_c30280
+DNA Metabolism	CLJU_c34380
+DNA Metabolism	CLJU_c15050
+DNA Metabolism	CLJU_c21820
+DNA Metabolism	CLJU_c21240
+DNA Metabolism	CLJU_c21230
+DNA Metabolism	CLJU_c03170
+DNA Metabolism	CLJU_c03120
+DNA Metabolism	CLJU_c03110
+DNA Metabolism	CLJU_c04250
+DNA Metabolism	CLJU_c13280
+DNA Metabolism	CLJU_c06980
+DNA Metabolism	CLJU_c33160
+DNA Metabolism	CLJU_c11130
+DNA Metabolism	CLJU_c41320
+DNA Metabolism	CLJU_c20310
+DNA Metabolism	CLJU_c21030
+DNA Metabolism	CLJU_c11200
+DNA Metabolism	CLJU_c31630
+DNA Metabolism	CLJU_c07210
+DNA Metabolism	CLJU_c21040
+DNA Metabolism	CLJU_c20320
+DNA Metabolism	CLJU_c10150
+DNA Metabolism	CLJU_c17870
+DNA Metabolism	CLJU_c20270
+DNA Metabolism	CLJU_c11140
+DNA Metabolism	CLJU_c00870
+DNA Metabolism	CLJU_c00040
+DNA Metabolism	CLJU_c25260
+DNA Metabolism	CLJU_c09240
+DNA Metabolism	CLJU_c33730
+DNA Metabolism	CLJU_c02590
+DNA Metabolism	CLJU_c39270
+DNA Metabolism	CLJU_c01950
+DNA Metabolism	CLJU_c36310
+DNA Metabolism	CLJU_c03390
+DNA Metabolism	CLJU_c36970
+DNA Metabolism	CLJU_c16530
+DNA Metabolism	CLJU_c28400
+DNA Metabolism	CLJU_c36980
+DNA Metabolism	CLJU_c03320
+DNA Metabolism	CLJU_c03330
+DNA Metabolism	CLJU_c06050
+DNA Metabolism	CLJU_c00540
+DNA Metabolism	CLJU_c01740
+DNA Metabolism	CLJU_c08780
+DNA Metabolism	CLJU_c12850
+DNA Metabolism	CLJU_c41670
+DNA Metabolism	CLJU_c14570
+DNA Metabolism	CLJU_c14550
+DNA Metabolism	CLJU_c14560
+DNA Metabolism	CLJU_c14580
+DNA Metabolism	CLJU_c22980
+DNA Metabolism	CLJU_c13000
+DNA Metabolism	CLJU_c36410
+DNA Metabolism	CLJU_c00060
+DNA Metabolism	CLJU_c00070
+DNA Metabolism	CLJU_c09190
+DNA Metabolism	CLJU_c33870
+DNA Metabolism	CLJU_c33830
+DNA Metabolism	CLJU_c33820
+DNA Metabolism	CLJU_c00860
+DNA Metabolism	CLJU_c00890
+DNA Metabolism	CLJU_c00880
+DNA Metabolism	CLJU_c00850
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c08890
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c03830
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c08090
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c02910
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c06600
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c00150
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c13270
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c12480
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c32240
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c00710
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c12690
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c13070
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c12820
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c12810
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c28110
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c42200
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c19990
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c42100
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c03000
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c42140
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c20450
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c42110
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c42170
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c42130
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c42180
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c11150
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c13060
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c11420
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c21320
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c02110
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c01570
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c11160
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c13080
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c13100
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c41280
+Nitrogen Metabolism	CLJU_c07730
+Nitrogen Metabolism	CLJU_c07720
+Nitrogen Metabolism	CLJU_c26680
+Nitrogen Metabolism	CLJU_c09100
+Nitrogen Metabolism	CLJU_c23730
+Nitrogen Metabolism	CLJU_c09090
+Nitrogen Metabolism	CLJU_c14820
+Nitrogen Metabolism	CLJU_c24510
+Nitrogen Metabolism	CLJU_c17380
+Nitrogen Metabolism	CLJU_c04050
+Nitrogen Metabolism	CLJU_c41950
+Nitrogen Metabolism	CLJU_c04040
+Nitrogen Metabolism	CLJU_c05100
+Dormancy and Sporulation	CLJU_c28580
+Dormancy and Sporulation	CLJU_c07910
+Dormancy and Sporulation	CLJU_c21860
+Dormancy and Sporulation	CLJU_c11060
+Dormancy and Sporulation	CLJU_c12320
+Dormancy and Sporulation	CLJU_c10560
+Dormancy and Sporulation	CLJU_c20940
+Dormancy and Sporulation	CLJU_c11050
+Dormancy and Sporulation	CLJU_c11250
+Dormancy and Sporulation	CLJU_c20910
+Dormancy and Sporulation	CLJU_c02470
+Dormancy and Sporulation	CLJU_c13300
+Dormancy and Sporulation	CLJU_c20920
+Dormancy and Sporulation	CLJU_c41700
+Dormancy and Sporulation	CLJU_c12490
+Dormancy and Sporulation	CLJU_c11210
+Dormancy and Sporulation	CLJU_c02490
+Dormancy and Sporulation	CLJU_c41560
+Dormancy and Sporulation	CLJU_c11080
+Dormancy and Sporulation	CLJU_c02480
+Dormancy and Sporulation	CLJU_c33950
+Dormancy and Sporulation	CLJU_c11090
+Dormancy and Sporulation	CLJU_c02150
+Dormancy and Sporulation	CLJU_c17360
+Dormancy and Sporulation	CLJU_c07320
+Dormancy and Sporulation	CLJU_c11100
+Dormancy and Sporulation	CLJU_c11220
+Dormancy and Sporulation	CLJU_c12310
+Dormancy and Sporulation	CLJU_c11040
+Dormancy and Sporulation	CLJU_c11070
+Dormancy and Sporulation	CLJU_c12260
+Dormancy and Sporulation	CLJU_c12330
+Dormancy and Sporulation	CLJU_c11030
+Dormancy and Sporulation	CLJU_c01710
+Dormancy and Sporulation	CLJU_c01700
+Dormancy and Sporulation	CLJU_c02980
+Dormancy and Sporulation	CLJU_c02170
+Dormancy and Sporulation	CLJU_c28080
+Dormancy and Sporulation	CLJU_c08500
+Dormancy and Sporulation	CLJU_c19860
+Dormancy and Sporulation	CLJU_c02130
+Dormancy and Sporulation	CLJU_c41790
+Dormancy and Sporulation	CLJU_c41730
+Dormancy and Sporulation	CLJU_c41230
+Dormancy and Sporulation	CLJU_c41620
+Dormancy and Sporulation	CLJU_c41720
+Dormancy and Sporulation	CLJU_c41680
+Dormancy and Sporulation	CLJU_c41650
+Dormancy and Sporulation	CLJU_c41660
+Dormancy and Sporulation	CLJU_c41640
+Respiration	CLJU_c11390
+Respiration	CLJU_c11400
+Respiration	CLJU_c11380
+Respiration	CLJU_c11370
+Respiration	CLJU_c11410
+Respiration	CLJU_c11360
+Respiration	CLJU_c26570
+Respiration	CLJU_c00150
+Respiration	CLJU_c23090
+Respiration	CLJU_c23080
+Respiration	CLJU_c23070
+Respiration	CLJU_c23060
+Respiration	CLJU_c28670
+Respiration	CLJU_c07060
+Respiration	CLJU_c07040
+Respiration	CLJU_c07070
+Respiration	CLJU_c07030
+Respiration	CLJU_c28660
+Respiration	CLJU_c14720
+Respiration	CLJU_c20290
+Respiration	CLJU_c06990
+Respiration	CLJU_c22820
+Respiration	CLJU_c22800
+Respiration	CLJU_c08670
+Respiration	CLJU_c37560
+Respiration	CLJU_c37670
+Respiration	CLJU_c37530
+Respiration	CLJU_c37550
+Respiration	CLJU_c37590
+Respiration	CLJU_c37570
+Respiration	CLJU_c37580
+Respiration	CLJU_c08690
+Respiration	CLJU_c02270
+Respiration	CLJU_c00930
+Stress Response	CLJU_c11890
+Stress Response	CLJU_c38300
+Stress Response	CLJU_c27340
+Stress Response	CLJU_c37470
+Stress Response	CLJU_c26190
+Stress Response	CLJU_c33690
+Stress Response	CLJU_c29490
+Stress Response	CLJU_c17010
+Stress Response	CLJU_c19480
+Stress Response	CLJU_c13430
+Stress Response	CLJU_c23150
+Stress Response	CLJU_c01320
+Stress Response	CLJU_c13400
+Stress Response	CLJU_c18420
+Stress Response	CLJU_c19500
+Stress Response	CLJU_c33240
+Stress Response	CLJU_c07950
+Stress Response	CLJU_c07960
+Stress Response	CLJU_c07980
+Stress Response	CLJU_c08020
+Stress Response	CLJU_c02780
+Stress Response	CLJU_c08010
+Stress Response	CLJU_c39080
+Stress Response	CLJU_c07970
+Stress Response	CLJU_c07940
+Stress Response	CLJU_c41660
+Stress Response	CLJU_c36850
+Stress Response	CLJU_c08000
+Stress Response	CLJU_c01420
+Stress Response	CLJU_c36840
+Stress Response	CLJU_c36860
+Stress Response	CLJU_c01480
+Stress Response	CLJU_c15950
+Stress Response	CLJU_c33910
+Stress Response	CLJU_c21210
+Stress Response	CLJU_c09540
+Stress Response	CLJU_c37340
+Metabolism of Aromatic Compounds	CLJU_c28750
+Metabolism of Aromatic Compounds	CLJU_c28760
+Metabolism of Aromatic Compounds	CLJU_c25240
+Amino Acids and Derivatives	CLJU_c04650
+Amino Acids and Derivatives	CLJU_c41950
+Amino Acids and Derivatives	CLJU_c05460
+Amino Acids and Derivatives	CLJU_c05100
+Amino Acids and Derivatives	CLJU_c17380
+Amino Acids and Derivatives	CLJU_c02660
+Amino Acids and Derivatives	CLJU_c04170
+Amino Acids and Derivatives	CLJU_c26210
+Amino Acids and Derivatives	CLJU_c29440
+Amino Acids and Derivatives	CLJU_c20790
+Amino Acids and Derivatives	CLJU_c24450
+Amino Acids and Derivatives	CLJU_c21420
+Amino Acids and Derivatives	CLJU_c21470
+Amino Acids and Derivatives	CLJU_c21480
+Amino Acids and Derivatives	CLJU_c21460
+Amino Acids and Derivatives	CLJU_c21500
+Amino Acids and Derivatives	CLJU_c11710
+Amino Acids and Derivatives	CLJU_c11750
+Amino Acids and Derivatives	CLJU_c11700
+Amino Acids and Derivatives	CLJU_c11720
+Amino Acids and Derivatives	CLJU_c11690
+Amino Acids and Derivatives	CLJU_c11660
+Amino Acids and Derivatives	CLJU_c11730
+Amino Acids and Derivatives	CLJU_c11740
+Amino Acids and Derivatives	CLJU_c11670
+Amino Acids and Derivatives	CLJU_c11680
+Amino Acids and Derivatives	CLJU_c11810
+Amino Acids and Derivatives	CLJU_c38960
+Amino Acids and Derivatives	CLJU_c20470
+Amino Acids and Derivatives	CLJU_c09290
+Amino Acids and Derivatives	CLJU_c09250
+Amino Acids and Derivatives	CLJU_c09300
+Amino Acids and Derivatives	CLJU_c09280
+Amino Acids and Derivatives	CLJU_c09270
+Amino Acids and Derivatives	CLJU_c28200
+Amino Acids and Derivatives	CLJU_c42560
+Amino Acids and Derivatives	CLJU_c21740
+Amino Acids and Derivatives	CLJU_c21750
+Amino Acids and Derivatives	CLJU_c21310
+Amino Acids and Derivatives	CLJU_c42500
+Amino Acids and Derivatives	CLJU_c21760
+Amino Acids and Derivatives	CLJU_c42490
+Amino Acids and Derivatives	CLJU_c01380
+Amino Acids and Derivatives	CLJU_c34220
+Amino Acids and Derivatives	CLJU_c12020
+Amino Acids and Derivatives	CLJU_c10700
+Amino Acids and Derivatives	CLJU_c21730
+Amino Acids and Derivatives	CLJU_c23210
+Amino Acids and Derivatives	CLJU_c21930
+Amino Acids and Derivatives	CLJU_c32880
+Amino Acids and Derivatives	CLJU_c04750
+Amino Acids and Derivatives	CLJU_c21530
+Amino Acids and Derivatives	CLJU_c21520
+Amino Acids and Derivatives	CLJU_c06710
+Amino Acids and Derivatives	CLJU_c06700
+Amino Acids and Derivatives	CLJU_c21540
+Amino Acids and Derivatives	CLJU_c21510
+Amino Acids and Derivatives	CLJU_c02100
+Amino Acids and Derivatives	CLJU_c02090
+Amino Acids and Derivatives	CLJU_c26670
+Amino Acids and Derivatives	CLJU_c04600
+Amino Acids and Derivatives	CLJU_c02580
+Amino Acids and Derivatives	CLJU_c06640
+Amino Acids and Derivatives	CLJU_c24380
+Amino Acids and Derivatives	CLJU_c39300
+Amino Acids and Derivatives	CLJU_c07160
+Amino Acids and Derivatives	CLJU_c24330
+Amino Acids and Derivatives	CLJU_c06650
+Amino Acids and Derivatives	CLJU_c27610
+Amino Acids and Derivatives	CLJU_c08270
+Amino Acids and Derivatives	CLJU_c23480
+Amino Acids and Derivatives	CLJU_c37610
+Amino Acids and Derivatives	CLJU_c24370
+Amino Acids and Derivatives	CLJU_c07150
+Amino Acids and Derivatives	CLJU_c06300
+Amino Acids and Derivatives	CLJU_c24390
+Amino Acids and Derivatives	CLJU_c04610
+Amino Acids and Derivatives	CLJU_c36290
+Amino Acids and Derivatives	CLJU_c24860
+Amino Acids and Derivatives	CLJU_c23860
+Amino Acids and Derivatives	CLJU_c15090
+Amino Acids and Derivatives	CLJU_c06270
+Amino Acids and Derivatives	CLJU_c10760
+Amino Acids and Derivatives	CLJU_c34570
+Amino Acids and Derivatives	CLJU_c00600
+Amino Acids and Derivatives	CLJU_c38310
+Amino Acids and Derivatives	CLJU_c34540
+Amino Acids and Derivatives	CLJU_c14280
+Amino Acids and Derivatives	CLJU_c34610
+Amino Acids and Derivatives	CLJU_c18050
+Amino Acids and Derivatives	CLJU_c32890
+Amino Acids and Derivatives	CLJU_c09340
+Amino Acids and Derivatives	CLJU_c33180
+Amino Acids and Derivatives	CLJU_c39920
+Amino Acids and Derivatives	CLJU_c19230
+Amino Acids and Derivatives	CLJU_c27900
+Amino Acids and Derivatives	CLJU_c09070
+Amino Acids and Derivatives	CLJU_c09050
+Amino Acids and Derivatives	CLJU_c08740
+Amino Acids and Derivatives	CLJU_c09080
+Amino Acids and Derivatives	CLJU_c09060
+Amino Acids and Derivatives	CLJU_c15310
+Amino Acids and Derivatives	CLJU_c20420
+Amino Acids and Derivatives	CLJU_c00610
+Amino Acids and Derivatives	CLJU_c20430
+Amino Acids and Derivatives	CLJU_c29150
+Amino Acids and Derivatives	CLJU_c14780
+Amino Acids and Derivatives	CLJU_c29160
+Amino Acids and Derivatives	CLJU_c29140
+Amino Acids and Derivatives	CLJU_c28760
+Amino Acids and Derivatives	CLJU_c29110
+Amino Acids and Derivatives	CLJU_c29180
+Amino Acids and Derivatives	CLJU_c29120
+Amino Acids and Derivatives	CLJU_c28750
+Amino Acids and Derivatives	CLJU_c29130
+Amino Acids and Derivatives	CLJU_c25500
+Amino Acids and Derivatives	CLJU_c29170
+Amino Acids and Derivatives	CLJU_c16080
+Amino Acids and Derivatives	CLJU_c36000
+Amino Acids and Derivatives	CLJU_c16130
+Amino Acids and Derivatives	CLJU_c16090
+Amino Acids and Derivatives	CLJU_c16120
+Amino Acids and Derivatives	CLJU_c16100
+Amino Acids and Derivatives	CLJU_c16070
+Amino Acids and Derivatives	CLJU_c16110
+Amino Acids and Derivatives	CLJU_c36010
+Amino Acids and Derivatives	CLJU_c36020
+Amino Acids and Derivatives	CLJU_c37380
+Amino Acids and Derivatives	CLJU_c06000
+Amino Acids and Derivatives	CLJU_c05990
+Amino Acids and Derivatives	CLJU_c11500
+Amino Acids and Derivatives	CLJU_c12110
+Amino Acids and Derivatives	CLJU_c12010
+Amino Acids and Derivatives	CLJU_c12100
+Amino Acids and Derivatives	CLJU_c00970
+Amino Acids and Derivatives	CLJU_c09360
+Amino Acids and Derivatives	CLJU_c24170
+Amino Acids and Derivatives	CLJU_c24150
+Amino Acids and Derivatives	CLJU_c24160
+Amino Acids and Derivatives	CLJU_c37600
+Amino Acids and Derivatives	CLJU_c24180
+Amino Acids and Derivatives	CLJU_c04180
+Amino Acids and Derivatives	CLJU_c33250
+Amino Acids and Derivatives	CLJU_c33260
+Amino Acids and Derivatives	CLJU_c00170
+Amino Acids and Derivatives	CLJU_c28110
+Sulfur Metabolism	CLJU_c27330
+Sulfur Metabolism	CLJU_c18330
+Sulfur Metabolism	CLJU_c18310
+Sulfur Metabolism	CLJU_c18320
+Sulfur Metabolism	CLJU_c26530
+Phosphorus Metabolism	CLJU_c00820
+Phosphorus Metabolism	CLJU_c12420
+Phosphorus Metabolism	CLJU_c12410
+Phosphorus Metabolism	CLJU_c12430
+Phosphorus Metabolism	CLJU_c12390
+Phosphorus Metabolism	CLJU_c10470
+Phosphorus Metabolism	CLJU_c12450
+Phosphorus Metabolism	CLJU_c37210
+Phosphorus Metabolism	CLJU_c12440
+Carbohydrates	CLJU_c07300
+Carbohydrates	CLJU_c33690
+Carbohydrates	CLJU_c09340
+Carbohydrates	CLJU_c16510
+Carbohydrates	CLJU_c12770
+Carbohydrates	CLJU_c12780
+Carbohydrates	CLJU_c01320
+Carbohydrates	CLJU_c04180
+Carbohydrates	CLJU_c33250
+Carbohydrates	CLJU_c08740
+Carbohydrates	CLJU_c33260
+Carbohydrates	CLJU_c12010
+Carbohydrates	CLJU_c29050
+Carbohydrates	CLJU_c03250
+Carbohydrates	CLJU_c39130
+Carbohydrates	CLJU_c08140
+Carbohydrates	CLJU_c00660
+Carbohydrates	CLJU_c39120
+Carbohydrates	CLJU_c37130
+Carbohydrates	CLJU_c03260
+Carbohydrates	CLJU_c14340
+Carbohydrates	CLJU_c39110
+Carbohydrates	CLJU_c13400
+Carbohydrates	CLJU_c39140
+Carbohydrates	CLJU_c11590
+Carbohydrates	CLJU_c03050
+Carbohydrates	CLJU_c41770
+Carbohydrates	CLJU_c25960
+Carbohydrates	CLJU_c02310
+Carbohydrates	CLJU_c03060
+Carbohydrates	CLJU_c12640
+Carbohydrates	CLJU_c06210
+Carbohydrates	CLJU_c38470
+Carbohydrates	CLJU_c38480
+Carbohydrates	CLJU_c11800
+Carbohydrates	CLJU_c25300
+Carbohydrates	CLJU_c25360
+Carbohydrates	CLJU_c04160
+Carbohydrates	CLJU_c04250
+Carbohydrates	CLJU_c05910
+Carbohydrates	CLJU_c05920
+Carbohydrates	CLJU_c37650
+Carbohydrates	CLJU_c00960
+Carbohydrates	CLJU_c21900
+Carbohydrates	CLJU_c11500
+Carbohydrates	CLJU_c37630
+Carbohydrates	CLJU_c22800
+Carbohydrates	CLJU_c06620
+Carbohydrates	CLJU_c22820
+Carbohydrates	CLJU_c21440
+Carbohydrates	CLJU_c40590
+Carbohydrates	CLJU_c37610
+Carbohydrates	CLJU_c28110
+Carbohydrates	CLJU_c00680
+Carbohydrates	CLJU_c25370
+Carbohydrates	CLJU_c25340
+Carbohydrates	CLJU_c24220
+Carbohydrates	CLJU_c25290
+Carbohydrates	CLJU_c25350
+Carbohydrates	CLJU_c25330
+Carbohydrates	CLJU_c25320
+Carbohydrates	CLJU_c32190
+Carbohydrates	CLJU_c03830
+Carbohydrates	CLJU_c37490
+Carbohydrates	CLJU_c11840
+Carbohydrates	CLJU_c00900
+Carbohydrates	CLJU_c11830
+Carbohydrates	CLJU_c20420
+Carbohydrates	CLJU_c20430
+Carbohydrates	CLJU_c23220
+Carbohydrates	CLJU_c07090
+Carbohydrates	CLJU_c08380
+Carbohydrates	CLJU_c21800
+Carbohydrates	CLJU_c00150
+Carbohydrates	CLJU_c26260
+Carbohydrates	CLJU_c12480
+Carbohydrates	CLJU_c11890
+Carbohydrates	CLJU_c09530
+Carbohydrates	CLJU_c09540
+Carbohydrates	CLJU_c28680
+Carbohydrates	CLJU_c34110
+Carbohydrates	CLJU_c26540
+Carbohydrates	CLJU_c00630
+Carbohydrates	CLJU_c01930
+Carbohydrates	CLJU_c20750
+Carbohydrates	CLJU_c29970
+Carbohydrates	CLJU_c18150
+Carbohydrates	CLJU_c18110
+Carbohydrates	CLJU_c18160
+Carbohydrates	CLJU_c29990
+Carbohydrates	CLJU_c18130
+Carbohydrates	CLJU_c28160
+Carbohydrates	CLJU_c27650
+Carbohydrates	CLJU_c00620
+Carbohydrates	CLJU_c11610
+Carbohydrates	CLJU_c40530
+Carbohydrates	CLJU_c20590
+Carbohydrates	CLJU_c20610
+Carbohydrates	CLJU_c20600
+Carbohydrates	CLJU_c28100
+Carbohydrates	CLJU_c28130
+Carbohydrates	CLJU_c28220
+Carbohydrates	CLJU_c01260
+Carbohydrates	CLJU_c01270
+Carbohydrates	CLJU_c01280
+Carbohydrates	CLJU_c42590
+Carbohydrates	CLJU_c42610
+Carbohydrates	CLJU_c42570
+Carbohydrates	CLJU_c42600
+Carbohydrates	CLJU_c04290
+Carbohydrates	CLJU_c42580
+Carbohydrates	CLJU_c18240
+Carbohydrates	CLJU_c11570
+Carbohydrates	CLJU_c18280
+Carbohydrates	CLJU_c01250
+Carbohydrates	CLJU_c18290
+Carbohydrates	CLJU_c01210
+Carbohydrates	CLJU_c01240
+Carbohydrates	CLJU_c01220
+Carbohydrates	CLJU_c01200
+Carbohydrates	CLJU_c01980
+Carbohydrates	CLJU_c01230
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c25380
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c25400
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c35340
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c25390
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c35350
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c33060
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c35060
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c35540
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c14190
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c15230
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c16260
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c22520
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c27110
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c33100
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c40120
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c14220
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c17600
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c19570
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c23370
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c03860
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c11580
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c11620
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c30120
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c30610
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c32780
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c33430
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c34760
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c42090
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c38400
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c39590
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c39150
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c32050
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c38350
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c41530
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c41540
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c17240
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c22150
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c38080
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c38090
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c17110
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c17950
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c20170
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c23920
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c33380
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c17940
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c24000
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c24070
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c26020
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c38100
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c25040
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c38010
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c20230
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c22140
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c40680
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c11880
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c15000
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c16510
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c16520
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c18470
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c24880
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c30740
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c35930
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c38930
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c39670
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c39950
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c22210
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c37640
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c38800
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c33220
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c17690
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c20390
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c20400
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c40140
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c28560
+Cell Wall and Capsule	CLJU_c05570
+Cell Wall and Capsule	CLJU_c05550
+Cell Wall and Capsule	CLJU_c05580
+Cell Wall and Capsule	CLJU_c37840
+Cell Wall and Capsule	CLJU_c05560
+Cell Wall and Capsule	CLJU_c34070
+Cell Wall and Capsule	CLJU_c06180
+Cell Wall and Capsule	CLJU_c26730
+Cell Wall and Capsule	CLJU_c28370
+Cell Wall and Capsule	CLJU_c38420
+Cell Wall and Capsule	CLJU_c40160
+Cell Wall and Capsule	peg.146
+Cell Wall and Capsule	CLJU_c33990
+Cell Wall and Capsule	CLJU_c34640
+Cell Wall and Capsule	CLJU_c21710
+Cell Wall and Capsule	CLJU_c09720
+Cell Wall and Capsule	CLJU_c09730
+Cell Wall and Capsule	CLJU_c18990
+Cell Wall and Capsule	CLJU_c34020
+Cell Wall and Capsule	CLJU_c03740
+Cell Wall and Capsule	CLJU_c05000
+Cell Wall and Capsule	CLJU_c05110
+Cell Wall and Capsule	CLJU_c05120
+Cell Wall and Capsule	CLJU_c05630
+Cell Wall and Capsule	CLJU_c05900
+Cell Wall and Capsule	CLJU_c08660
+Cell Wall and Capsule	CLJU_c17000
+Cell Wall and Capsule	CLJU_c18030
+Cell Wall and Capsule	CLJU_c18600
+Cell Wall and Capsule	CLJU_c18660
+Cell Wall and Capsule	CLJU_c18760
+Cell Wall and Capsule	CLJU_c22280
+Cell Wall and Capsule	CLJU_c22330
+Cell Wall and Capsule	CLJU_c22350
+Cell Wall and Capsule	CLJU_c24750
+Cell Wall and Capsule	CLJU_c28610
+Cell Wall and Capsule	CLJU_c30310
+Cell Wall and Capsule	CLJU_c32530
+Cell Wall and Capsule	CLJU_c35160
+Cell Wall and Capsule	CLJU_c36350
+Cell Wall and Capsule	CLJU_c36450
+Cell Wall and Capsule	CLJU_c40690
+Cell Wall and Capsule	CLJU_c11270
+Cell Wall and Capsule	CLJU_c11330
+Cell Wall and Capsule	CLJU_c13410
+Cell Wall and Capsule	CLJU_c14360
+Cell Wall and Capsule	CLJU_c15720
+Cell Wall and Capsule	CLJU_c12250
+Cell Wall and Capsule	CLJU_c38810
+Cell Wall and Capsule	CLJU_c41980
+Cell Wall and Capsule	CLJU_c17020
+Cell Wall and Capsule	CLJU_c41940
+Cell Wall and Capsule	CLJU_c41810
+Cell Wall and Capsule	CLJU_c20280
+Cell Wall and Capsule	CLJU_c15930
+Cell Wall and Capsule	CLJU_c33940
+Cell Wall and Capsule	CLJU_c30630
+Cell Wall and Capsule	CLJU_c25080
+Virulence, Disease and Defense	CLJU_c38650
+Virulence, Disease and Defense	CLJU_c14390
+Virulence, Disease and Defense	CLJU_c30160
+Virulence, Disease and Defense	CLJU_c25760
+Virulence, Disease and Defense	CLJU_c38640
+Virulence, Disease and Defense	CLJU_c29070
+Virulence, Disease and Defense	CLJU_c35480
+Virulence, Disease and Defense	CLJU_c07600
+Virulence, Disease and Defense	CLJU_c23280
+Virulence, Disease and Defense	CLJU_c04390
+Virulence, Disease and Defense	CLJU_c05950
+Virulence, Disease and Defense	CLJU_c07590
+Virulence, Disease and Defense	CLJU_c22260
+Virulence, Disease and Defense	CLJU_c23270
+Virulence, Disease and Defense	CLJU_c14120
+Virulence, Disease and Defense	CLJU_c14210
+Virulence, Disease and Defense	CLJU_c14880
+Virulence, Disease and Defense	CLJU_c17970
+Virulence, Disease and Defense	CLJU_c19920
+Virulence, Disease and Defense	CLJU_c25640
+Virulence, Disease and Defense	CLJU_c26770
+Virulence, Disease and Defense	CLJU_c26970
+Virulence, Disease and Defense	CLJU_c27390
+Virulence, Disease and Defense	CLJU_c35070
+Virulence, Disease and Defense	CLJU_c36040
+Virulence, Disease and Defense	CLJU_c40090
+Virulence, Disease and Defense	CLJU_c40110
+Virulence, Disease and Defense	CLJU_c18940
+Virulence, Disease and Defense	CLJU_c19010
+Virulence, Disease and Defense	CLJU_c33500
+Virulence, Disease and Defense	CLJU_c21980
+Virulence, Disease and Defense	CLJU_c05960
+Virulence, Disease and Defense	CLJU_c22250
+Virulence, Disease and Defense	CLJU_c24640
+Virulence, Disease and Defense	CLJU_c16430
+Virulence, Disease and Defense	CLJU_c35230
+Virulence, Disease and Defense	CLJU_c38660
+Virulence, Disease and Defense	CLJU_c38670
+Virulence, Disease and Defense	CLJU_c13470
+Virulence, Disease and Defense	CLJU_c13550
+Virulence, Disease and Defense	CLJU_c25160
+Virulence, Disease and Defense	CLJU_c38720
+Virulence, Disease and Defense	CLJU_c38700
+Virulence, Disease and Defense	CLJU_c14190
+Virulence, Disease and Defense	CLJU_c15230
+Virulence, Disease and Defense	CLJU_c16260
+Virulence, Disease and Defense	CLJU_c22520
+Virulence, Disease and Defense	CLJU_c27110
+Virulence, Disease and Defense	CLJU_c33100
+Virulence, Disease and Defense	CLJU_c40120
+Virulence, Disease and Defense	CLJU_c19740
+Virulence, Disease and Defense	CLJU_c41200
+Virulence, Disease and Defense	CLJU_c34460
+Potassium metabolism	CLJU_c39520
+Miscellaneous	CLJU_c27820
+Miscellaneous	CLJU_c39900
+Miscellaneous	CLJU_c41270
+Miscellaneous	CLJU_c35540
+Miscellaneous	CLJU_c06040
+Miscellaneous	CLJU_c20210
+Phages, Prophages, Transposable elements, Plasmids	CLJU_c26030
+Phages, Prophages, Transposable elements, Plasmids	CLJU_c03660
+Phages, Prophages, Transposable elements, Plasmids	CLJU_c31220
+Phages, Prophages, Transposable elements, Plasmids	CLJU_c30690
+Phages, Prophages, Transposable elements, Plasmids	CLJU_c36500
+Phages, Prophages, Transposable elements, Plasmids	CLJU_c03520
+Phages, Prophages, Transposable elements, Plasmids	CLJU_c31400
+Phages, Prophages, Transposable elements, Plasmids	CLJU_c36420
+Phages, Prophages, Transposable elements, Plasmids	CLJU_c32420
+Membrane Transport	CLJU_c22630
+Membrane Transport	CLJU_c22570
+Membrane Transport	CLJU_c22640
+Membrane Transport	CLJU_c22580
+Membrane Transport	CLJU_c22670
+Membrane Transport	CLJU_c36890
+Membrane Transport	CLJU_c22600
+Membrane Transport	CLJU_c22590
+Membrane Transport	CLJU_c21890
+Membrane Transport	CLJU_c32040
+Membrane Transport	CLJU_c29070
+Membrane Transport	CLJU_c40740
+Membrane Transport	CLJU_c40750
+Membrane Transport	CLJU_c28560
+Membrane Transport	CLJU_c28890
+Membrane Transport	CLJU_c15930
+Membrane Transport	CLJU_c33940
+RNA Metabolism	CLJU_c35670
+RNA Metabolism	CLJU_c12250
+RNA Metabolism	CLJU_c38810
+RNA Metabolism	CLJU_c20280
+RNA Metabolism	CLJU_c32750
+RNA Metabolism	CLJU_c06330
+RNA Metabolism	CLJU_c06580
+RNA Metabolism	CLJU_c13330
+RNA Metabolism	CLJU_c24680
+RNA Metabolism	CLJU_c32130
+RNA Metabolism	CLJU_c39220
+RNA Metabolism	CLJU_c39170
+RNA Metabolism	CLJU_c25910
+RNA Metabolism	CLJU_c35450
+RNA Metabolism	CLJU_c41490
+Nucleosides and Nucleotides	CLJU_c18640
+Nucleosides and Nucleotides	CLJU_c29910
+Nucleosides and Nucleotides	CLJU_c27810
+Nucleosides and Nucleotides	CLJU_c40490
+Nucleosides and Nucleotides	CLJU_c23580
+Nucleosides and Nucleotides	CLJU_c35890
+Nucleosides and Nucleotides	CLJU_c35730
+Nucleosides and Nucleotides	CLJU_c25220
+Nucleosides and Nucleotides	CLJU_c25210
+Nucleosides and Nucleotides	CLJU_c37290
+Nucleosides and Nucleotides	CLJU_c22210
+Nucleosides and Nucleotides	CLJU_c17940
+Nucleosides and Nucleotides	CLJU_c24000
+Nucleosides and Nucleotides	CLJU_c24070
+Nucleosides and Nucleotides	CLJU_c23900
+Nucleosides and Nucleotides	CLJU_c23910
+Nucleosides and Nucleotides	CLJU_c24050
+Nucleosides and Nucleotides	CLJU_c24130
+Nucleosides and Nucleotides	CLJU_c29940
+Nucleosides and Nucleotides	CLJU_c23880
+Nucleosides and Nucleotides	CLJU_c29920
+Nucleosides and Nucleotides	CLJU_c23890
+Nucleosides and Nucleotides	CLJU_c29930
+Nucleosides and Nucleotides	CLJU_c15350
+Nucleosides and Nucleotides	CLJU_c19220
+Nucleosides and Nucleotides	CLJU_c27940
+Nucleosides and Nucleotides	CLJU_c23950
+Nucleosides and Nucleotides	CLJU_c30530
+Nucleosides and Nucleotides	CLJU_c29010
+Nucleosides and Nucleotides	CLJU_c37180
+Nucleosides and Nucleotides	CLJU_c41540
+Nucleosides and Nucleotides	CLJU_c26120
+Nucleosides and Nucleotides	CLJU_c29900
+Nucleosides and Nucleotides	CLJU_c17780
+Nucleosides and Nucleotides	CLJU_c26600
+Nucleosides and Nucleotides	CLJU_c32050
+Nucleosides and Nucleotides	CLJU_c19510
+Protein Metabolism	CLJU_c07990
+Protein Metabolism	CLJU_c41710
+Protein Metabolism	CLJU_c08930
+Protein Metabolism	CLJU_c27710
+Protein Metabolism	CLJU_c27700
+Protein Metabolism	CLJU_c27720
+Protein Metabolism	CLJU_c34460
+Protein Metabolism	CLJU_c28540
+Protein Metabolism	CLJU_c35670
+Protein Metabolism	CLJU_c30730
+Protein Metabolism	CLJU_c36060
+Protein Metabolism	CLJU_c41160
+Protein Metabolism	CLJU_c41270
+Protein Metabolism	CLJU_c13640
+Protein Metabolism	CLJU_c16270
+Protein Metabolism	CLJU_c21960
+Protein Metabolism	CLJU_c41200
+Protein Metabolism	CLJU_c42030
+Protein Metabolism	CLJU_c06320
+Protein Metabolism	CLJU_c35440
+Protein Metabolism	CLJU_c24640
+Protein Metabolism	CLJU_c38210
+Protein Metabolism	CLJU_c30690
+Protein Metabolism	CLJU_c38600
+Protein Metabolism	CLJU_c12940
+Protein Metabolism	CLJU_c21710
+Protein Metabolism	CLJU_c34180
+Protein Metabolism	CLJU_c01110
+Protein Metabolism	CLJU_c15060
+Protein Metabolism	CLJU_c11270
+Protein Metabolism	CLJU_c11330
+Protein Metabolism	CLJU_c13410
+Protein Metabolism	CLJU_c14360
+Protein Metabolism	CLJU_c15720
+Protein Metabolism	CLJU_c35640
+Cell Division and Cell Cycle	CLJU_c35360
+Cell Division and Cell Cycle	CLJU_c25220
+Cell Division and Cell Cycle	CLJU_c25210
+Cell Division and Cell Cycle	CLJU_c12250
+Cell Division and Cell Cycle	CLJU_c38810
+Cell Division and Cell Cycle	CLJU_c10600
+Cell Division and Cell Cycle	CLJU_c42890
+Cell Division and Cell Cycle	CLJU_c14510
+Cell Division and Cell Cycle	CLJU_c17020
+Cell Division and Cell Cycle	CLJU_c17330
+Motility and Chemotaxis	CLJU_c09460
+Motility and Chemotaxis	CLJU_c22110
+Motility and Chemotaxis	CLJU_c22120
+Motility and Chemotaxis	CLJU_c38740
+Motility and Chemotaxis	CLJU_c22130
+Motility and Chemotaxis	CLJU_c30040
+Motility and Chemotaxis	CLJU_c09630
+Motility and Chemotaxis	CLJU_c09710
+Motility and Chemotaxis	CLJU_c12250
+Motility and Chemotaxis	CLJU_c38810
+Motility and Chemotaxis	CLJU_c09610
+Motility and Chemotaxis	CLJU_c39170
+Motility and Chemotaxis	CLJU_c19710
+Motility and Chemotaxis	CLJU_c10270
+Motility and Chemotaxis	CLJU_c16180
+Motility and Chemotaxis	CLJU_c18950
+Motility and Chemotaxis	CLJU_c19720
+Regulation and Cell signaling	CLJU_c35640
+Regulation and Cell signaling	CLJU_c28770
+Regulation and Cell signaling	CLJU_c38940
+Regulation and Cell signaling	CLJU_c39370
+Regulation and Cell signaling	CLJU_c33120
+DNA Metabolism	CLJU_c30390
+DNA Metabolism	CLJU_c22180
+DNA Metabolism	CLJU_c27090
+DNA Metabolism	CLJU_c14750
+DNA Metabolism	CLJU_c36670
+DNA Metabolism	CLJU_c34620
+DNA Metabolism	CLJU_c42780
+DNA Metabolism	CLJU_c33610
+DNA Metabolism	CLJU_c36550
+DNA Metabolism	CLJU_c30170
+DNA Metabolism	CLJU_c14620
+DNA Metabolism	CLJU_c23470
+DNA Metabolism	CLJU_c27490
+DNA Metabolism	CLJU_c33760
+DNA Metabolism	CLJU_c41850
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c29040
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c11880
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c15000
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c16510
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c16520
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c18470
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c24880
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c30740
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c35930
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c38930
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c39670
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c39950
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c39280
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c37480
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c34880
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c38380
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c20960
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c29220
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c34940
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c38950
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c42160
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c42120
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c42210
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c40310
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c35470
+Nitrogen Metabolism	CLJU_c27260
+Nitrogen Metabolism	CLJU_c23720
+Nitrogen Metabolism	CLJU_c23710
+Nitrogen Metabolism	CLJU_c23740
+Nitrogen Metabolism	CLJU_c38390
+Nitrogen Metabolism	CLJU_c23830
+Nitrogen Metabolism	CLJU_c24040
+Nitrogen Metabolism	CLJU_c24120
+Nitrogen Metabolism	CLJU_c24190
+Nitrogen Metabolism	CLJU_c04910
+Nitrogen Metabolism	CLJU_c04920
+Nitrogen Metabolism	CLJU_c42650
+Nitrogen Metabolism	CLJU_c42660
+Nitrogen Metabolism	CLJU_c42670
+Nitrogen Metabolism	CLJU_c17370
+Nitrogen Metabolism	CLJU_c37240
+Dormancy and Sporulation	CLJU_c29720
+Dormancy and Sporulation	CLJU_c30960
+Dormancy and Sporulation	CLJU_c24760
+Dormancy and Sporulation	CLJU_c20930
+Dormancy and Sporulation	CLJU_c22050
+Dormancy and Sporulation	CLJU_c41690
+Dormancy and Sporulation	CLJU_c16440
+Dormancy and Sporulation	CLJU_c16460
+Dormancy and Sporulation	CLJU_c38990
+Dormancy and Sporulation	CLJU_c39060
+Dormancy and Sporulation	CLJU_c39070
+Dormancy and Sporulation	CLJU_c15610
+Dormancy and Sporulation	CLJU_c16480
+Dormancy and Sporulation	CLJU_c35960
+Dormancy and Sporulation	CLJU_c38870
+Dormancy and Sporulation	CLJU_c38980
+Dormancy and Sporulation	CLJU_c39040
+Dormancy and Sporulation	CLJU_c08490
+Dormancy and Sporulation	CLJU_c15590
+Dormancy and Sporulation	CLJU_c16490
+Dormancy and Sporulation	CLJU_c35950
+Dormancy and Sporulation	CLJU_c38850
+Dormancy and Sporulation	CLJU_c39030
+Respiration	CLJU_c37480
+Respiration	CLJU_c07080
+Respiration	CLJU_c17270
+Respiration	CLJU_c20030
+Respiration	CLJU_c08680
+Respiration	CLJU_c14710
+Respiration	CLJU_c14700
+Respiration	CLJU_c17280
+Respiration	CLJU_c37220
+Respiration	CLJU_c08930
+Respiration	CLJU_c30250
+Respiration	CLJU_c37660
+Respiration	CLJU_c37830
+Respiration	CLJU_c20040
+Respiration	CLJU_c30260
+Respiration	CLJU_c01440
+Respiration	CLJU_c01820
+Respiration	CLJU_c17980
+Respiration	CLJU_c22870
+Respiration	CLJU_c26180
+Respiration	CLJU_c26960
+Respiration	CLJU_c29400
+Stress Response	CLJU_c15570
+Stress Response	CLJU_c27820
+Stress Response	CLJU_c25950
+Stress Response	CLJU_c28910
+Stress Response	CLJU_c39340
+Stress Response	CLJU_c39150
+Stress Response	CLJU_c19580
+Stress Response	CLJU_c07990
+Stress Response	CLJU_c09690
+Stress Response	CLJU_c37350
+Amino Acids and Derivatives	CLJU_c08850
+Amino Acids and Derivatives	CLJU_c13340
+Amino Acids and Derivatives	CLJU_c17850
+Amino Acids and Derivatives	CLJU_c19600
+Amino Acids and Derivatives	CLJU_c21290
+Amino Acids and Derivatives	CLJU_c29390
+Amino Acids and Derivatives	CLJU_c32060
+Amino Acids and Derivatives	CLJU_c33890
+Amino Acids and Derivatives	CLJU_c39910
+Amino Acids and Derivatives	CLJU_c41940
+Amino Acids and Derivatives	CLJU_c17710
+Amino Acids and Derivatives	CLJU_c26720
+Amino Acids and Derivatives	CLJU_c17370
+Amino Acids and Derivatives	CLJU_c37240
+Amino Acids and Derivatives	CLJU_c23830
+Amino Acids and Derivatives	CLJU_c24040
+Amino Acids and Derivatives	CLJU_c24120
+Amino Acids and Derivatives	CLJU_c24190
+Amino Acids and Derivatives	CLJU_c42370
+Amino Acids and Derivatives	CLJU_c32840
+Amino Acids and Derivatives	CLJU_c19150
+Amino Acids and Derivatives	CLJU_c27990
+Amino Acids and Derivatives	CLJU_c11190
+Amino Acids and Derivatives	CLJU_c15300
+Amino Acids and Derivatives	CLJU_c23570
+Amino Acids and Derivatives	CLJU_c23800
+Amino Acids and Derivatives	CLJU_c28000
+Amino Acids and Derivatives	CLJU_c42550
+Amino Acids and Derivatives	CLJU_c23840
+Amino Acids and Derivatives	CLJU_c25230
+Amino Acids and Derivatives	CLJU_c28010
+Amino Acids and Derivatives	CLJU_c26150
+Amino Acids and Derivatives	CLJU_c26160
+Amino Acids and Derivatives	CLJU_c26140
+Amino Acids and Derivatives	CLJU_c26270
+Amino Acids and Derivatives	CLJU_c17780
+Amino Acids and Derivatives	CLJU_c26600
+Amino Acids and Derivatives	CLJU_c26130
+Amino Acids and Derivatives	CLJU_c04760
+Amino Acids and Derivatives	CLJU_c09260
+Amino Acids and Derivatives	CLJU_c21450
+Amino Acids and Derivatives	CLJU_c28050
+Amino Acids and Derivatives	CLJU_c23810
+Amino Acids and Derivatives	CLJU_c29950
+Amino Acids and Derivatives	CLJU_c41500
+Amino Acids and Derivatives	CLJU_c06280
+Amino Acids and Derivatives	CLJU_c17160
+Amino Acids and Derivatives	CLJU_c23250
+Amino Acids and Derivatives	CLJU_c27680
+Amino Acids and Derivatives	CLJU_c23550
+Amino Acids and Derivatives	CLJU_c19160
+Amino Acids and Derivatives	CLJU_c07500
+Amino Acids and Derivatives	CLJU_c07510
+Amino Acids and Derivatives	CLJU_c07560
+Amino Acids and Derivatives	CLJU_c20620
+Amino Acids and Derivatives	CLJU_c20690
+Amino Acids and Derivatives	CLJU_c39310
+Amino Acids and Derivatives	CLJU_c10090
+Amino Acids and Derivatives	CLJU_c27660
+Amino Acids and Derivatives	CLJU_c32100
+Amino Acids and Derivatives	CLJU_c06290
+Amino Acids and Derivatives	CLJU_c27670
+Amino Acids and Derivatives	CLJU_c17340
+Amino Acids and Derivatives	CLJU_c03840
+Amino Acids and Derivatives	CLJU_c04300
+Amino Acids and Derivatives	CLJU_c34560
+Amino Acids and Derivatives	CLJU_c34550
+Amino Acids and Derivatives	CLJU_c38320
+Amino Acids and Derivatives	CLJU_c29340
+Amino Acids and Derivatives	CLJU_c40360
+Amino Acids and Derivatives	CLJU_c29910
+Amino Acids and Derivatives	CLJU_c09370
+Amino Acids and Derivatives	CLJU_c39500
+Amino Acids and Derivatives	CLJU_c20390
+Amino Acids and Derivatives	CLJU_c20400
+Amino Acids and Derivatives	CLJU_c23420
+Amino Acids and Derivatives	CLJU_c38920
+Amino Acids and Derivatives	CLJU_c20410
+Amino Acids and Derivatives	CLJU_c40680
+Amino Acids and Derivatives	CLJU_c14540
+Amino Acids and Derivatives	CLJU_c23390
+Amino Acids and Derivatives	CLJU_c27730
+Amino Acids and Derivatives	CLJU_c28360
+Amino Acids and Derivatives	CLJU_c33190
+Amino Acids and Derivatives	CLJU_c33280
+Amino Acids and Derivatives	CLJU_c32120
+Amino Acids and Derivatives	CLJU_c40390
+Amino Acids and Derivatives	CLJU_c03860
+Amino Acids and Derivatives	CLJU_c11580
+Amino Acids and Derivatives	CLJU_c11620
+Amino Acids and Derivatives	CLJU_c30120
+Amino Acids and Derivatives	CLJU_c30610
+Amino Acids and Derivatives	CLJU_c32780
+Amino Acids and Derivatives	CLJU_c33430
+Amino Acids and Derivatives	CLJU_c34760
+Amino Acids and Derivatives	CLJU_c42090
+Amino Acids and Derivatives	CLJU_c21640
+Amino Acids and Derivatives	CLJU_c37540
+Amino Acids and Derivatives	CLJU_c08330
+Amino Acids and Derivatives	CLJU_c16020
+Amino Acids and Derivatives	CLJU_c17900
+Amino Acids and Derivatives	CLJU_c40660
+Amino Acids and Derivatives	CLJU_c38380
+Sulfur Metabolism	CLJU_c27810
+Sulfur Metabolism	CLJU_c40490
+Sulfur Metabolism	CLJU_c26520
+Sulfur Metabolism	CLJU_c26510
+Phosphorus Metabolism	CLJU_c01050
+Phosphorus Metabolism	CLJU_c12370
+Phosphorus Metabolism	CLJU_c19450
+Phosphorus Metabolism	CLJU_c29600
+Phosphorus Metabolism	CLJU_c32970
+Phosphorus Metabolism	CLJU_c15470
+Phosphorus Metabolism	CLJU_c19460
+Phosphorus Metabolism	CLJU_c41750
+Phosphorus Metabolism	CLJU_c39960
+Carbohydrates	CLJU_c29340
+Carbohydrates	CLJU_c16520
+Carbohydrates	CLJU_c18470
+Carbohydrates	CLJU_c24880
+Carbohydrates	CLJU_c39950
+Carbohydrates	CLJU_c08330
+Carbohydrates	CLJU_c16020
+Carbohydrates	CLJU_c17900
+Carbohydrates	CLJU_c40660
+Carbohydrates	CLJU_c09370
+Carbohydrates	CLJU_c32120
+Carbohydrates	CLJU_c40390
+Carbohydrates	CLJU_c25790
+Carbohydrates	CLJU_c02810
+Carbohydrates	CLJU_c38600
+Carbohydrates	CLJU_c39150
+Carbohydrates	CLJU_c25830
+Carbohydrates	CLJU_c39640
+Carbohydrates	CLJU_c25820
+Carbohydrates	CLJU_c20380
+Carbohydrates	CLJU_c26480
+Carbohydrates	CLJU_c38450
+Carbohydrates	CLJU_c30500
+Carbohydrates	CLJU_c38460
+Carbohydrates	CLJU_c13900
+Carbohydrates	CLJU_c20350
+Carbohydrates	CLJU_c21570
+Carbohydrates	CLJU_c23190
+Carbohydrates	CLJU_c01130
+Carbohydrates	CLJU_c30460
+Carbohydrates	CLJU_c37640
+Carbohydrates	CLJU_c38800
+Carbohydrates	CLJU_c40600
+Carbohydrates	CLJU_c38380
+Carbohydrates	CLJU_c28090
+Carbohydrates	CLJU_c30490
+Carbohydrates	CLJU_c40580
+Carbohydrates	CLJU_c40550
+Carbohydrates	CLJU_c30480
+Carbohydrates	CLJU_c40570
+Carbohydrates	CLJU_c30470
+Carbohydrates	CLJU_c40560
+Carbohydrates	CLJU_c11880
+Carbohydrates	CLJU_c15000
+Carbohydrates	CLJU_c30740
+Carbohydrates	CLJU_c35930
+Carbohydrates	CLJU_c38930
+Carbohydrates	CLJU_c39670
+Carbohydrates	CLJU_c25970
+Carbohydrates	CLJU_c39820
+Carbohydrates	CLJU_c25980
+Carbohydrates	CLJU_c39830
+Carbohydrates	CLJU_c23420
+Carbohydrates	CLJU_c38920
+Carbohydrates	CLJU_c25810
+Carbohydrates	CLJU_c25840
+Carbohydrates	CLJU_c20120
+Carbohydrates	CLJU_c20130
+Carbohydrates	CLJU_c20200
+Carbohydrates	CLJU_c22680
+Carbohydrates	CLJU_c23230
+Carbohydrates	CLJU_c23970
+Carbohydrates	CLJU_c24060
+Carbohydrates	CLJU_c24140
+Carbohydrates	CLJU_c37480
+Carbohydrates	CLJU_c15570
+Carbohydrates	CLJU_c09690
+Carbohydrates	CLJU_c29060
+Carbohydrates	CLJU_c34210
+Carbohydrates	CLJU_c39450
+Carbohydrates	CLJU_c05310
+Carbohydrates	CLJU_c05540
+Carbohydrates	CLJU_c39600
+Carbohydrates	CLJU_c11600
+Carbohydrates	CLJU_c26070
+Carbohydrates	CLJU_c28170
+Carbohydrates	CLJU_c14910
+Carbohydrates	CLJU_c18250
+Carbohydrates	CLJU_c13530
+Carbohydrates	CLJU_c25860
+Respiration	CLJU_c02360
+Respiration	CLJU_c02370
+Respiration	CLJU_c02380
+Respiration	CLJU_c02390
+Respiration	CLJU_c02400
+Respiration	CLJU_c02410
+Respiration	CLJU_c02420
+Respiration	CLJU_c02430
+Respiration	CLJU_c02440
+Respiration	CLJU_c07050
+Respiration	CLJU_c40500
+Respiration	CLJU_c27800
+Respiration	CLJU_c27320
+Membrane Transport	CLJU_c26060
+Membrane Transport	CLJU_c02950
+Membrane Transport	CLJU_c26050
+Membrane Transport	CLJU_c20590
+Membrane Transport	CLJU_c27340
+Membrane Transport	CLJU_c27820
+Membrane Transport	CLJU_c11600
+Membrane Transport	CLJU_c28160
+Membrane Transport	CLJU_c00620
+Membrane Transport	CLJU_c37490
+Membrane Transport	CLJU_c42580
+Membrane Transport	CLJU_c18870
+Membrane Transport	CLJU_c17740
+Membrane Transport	CLJU_c17900
+Membrane Transport	CLJU_c08330
+Membrane Transport	CLJU_c23740
+Membrane Transport	CLJU_c23850
+Membrane Transport	CLJU_c15130
+Membrane Transport	CLJU_c21810
+Membrane Transport	CLJU_c24360
+Membrane Transport	CLJU_c20530
+Membrane Transport	CLJU_c03870
+Membrane Transport	CLJU_c02280
+Membrane Transport	CLJU_c04750
+Membrane Transport	CLJU_c04760
+Membrane Transport	CLJU_c21450
+Membrane Transport	CLJU_c28050
+Membrane Transport	CLJU_c27940
+Membrane Transport	CLJU_c19220
+Membrane Transport	CLJU_c18280
+Membrane Transport	CLJU_c32870
+Membrane Transport	CLJU_c10620
+Membrane Transport	CLJU_c12450
+Membrane Transport	CLJU_c20790
+Membrane Transport	CLJU_c10730
+Membrane Transport	CLJU_c23580
+Membrane Transport	CLJU_c15320
+Membrane Transport	CLJU_c15990
+Membrane Transport	CLJU_c21610
+Membrane Transport	CLJU_c06120
+Membrane Transport	CLJU_c21180
+Membrane Transport	CLJU_c34340
+Membrane Transport	CLJU_c35850
+Membrane Transport	CLJU_c42390
+Membrane Transport	CLJU_c16000
+Membrane Transport	CLJU_c24250
+Membrane Transport	CLJU_c08880
+Membrane Transport	CLJU_c08970
+Membrane Transport	CLJU_c40350
+Membrane Transport	CLJU_c01250
+Membrane Transport	CLJU_c42660
+Membrane Transport	CLJU_c42670
+Membrane Transport	CLJU_c04040
+Membrane Transport	CLJU_c15570
+Membrane Transport	CLJU_c11890
+Membrane Transport	CLJU_c23180
+Membrane Transport	CLJU_c13620
+Membrane Transport	CLJU_c15350
+Membrane Transport	CLJU_c39540
+Membrane Transport	CLJU_c39550
+Membrane Transport	CLJU_c39560
+Membrane Transport	CLJU_c32270
+Membrane Transport	CLJU_c16880
+Membrane Transport	CLJU_c12420
+Membrane Transport	CLJU_c06890
+Membrane Transport	CLJU_c07870
+Membrane Transport	CLJU_c10480
+Membrane Transport	CLJU_c21650
+Membrane Transport	CLJU_c21660
+Membrane Transport	CLJU_c13960
+Membrane Transport	CLJU_c13980
+Membrane Transport	CLJU_c06280
+Membrane Transport	CLJU_c06290
+Membrane Transport	CLJU_c06300
+Membrane Transport	CLJU_c21730
+Membrane Transport	CLJU_c21740
+Membrane Transport	CLJU_c21750
+Membrane Transport	CLJU_c21760
+Membrane Transport	CLJU_c01260
+Membrane Transport	CLJU_c01270
+Membrane Transport	CLJU_c01280
+Membrane Transport	CLJU_c22150
+Membrane Transport	CLJU_c22160
+Membrane Transport	CLJU_c22170
+Membrane Transport	CLJU_c38080
+Membrane Transport	CLJU_c38090
+Membrane Transport	CLJU_c38100
+Membrane Transport	CLJU_c17230
+Membrane Transport	CLJU_c17240
+Membrane Transport	CLJU_c04890
+Membrane Transport	CLJU_c26020
+Membrane Transport	CLJU_c26510
+Membrane Transport	CLJU_c26520
+Membrane Transport	CLJU_c26530
+Membrane Transport	CLJU_c06680
+Membrane Transport	CLJU_c06690
+Membrane Transport	CLJU_c22200
+Membrane Transport	CLJU_c31790
+Membrane Transport	CLJU_c31800
+Membrane Transport	CLJU_c04010
+Membrane Transport	CLJU_c38160
+Membrane Transport	CLJU_c37880
+Membrane Transport	CLJU_c08950
+Membrane Transport	CLJU_c01980
+Membrane Transport	CLJU_c38570
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c12120
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c26900
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c26910
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c37930
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c37940
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c28340
+Membrane Transport	CLJU_c02630
+Membrane Transport	CLJU_c33740
+Membrane Transport	CLJU_c33750
+Membrane Transport	CLJU_c39100
+Membrane Transport	CLJU_c40840
+Membrane Transport	CLJU_c41180
+Membrane Transport	CLJU_c26750
+Membrane Transport	CLJU_c41670
+Cell Wall and Capsule	CLJU_c04820
+Cell Wall and Capsule	CLJU_c31080
+Cell Wall and Capsule	CLJU_c40480
+Nitrogen Metabolism	CLJU_c04900
+Nitrogen Metabolism	CLJU_c04940
+Nitrogen Metabolism	CLJU_c23520
+Nitrogen Metabolism	CLJU_c23510
+Nitrogen Metabolism	CLJU_c23530
+Nitrogen Metabolism	CLJU_c04930
+Nitrogen Metabolism	CLJU_c23750
+Nitrogen Metabolism	CLJU_c23760
+Nitrogen Metabolism	CLJU_c23770
+Sulfur Metabolism	CLJU_c25470
+Sulfur Metabolism	CLJU_c25480
+RNA Metabolism	CLJU_c02290
+RNA Metabolism	CLJU_c26950
+RNA Metabolism	CLJU_c37400
+RNA Metabolism	CLJU_c38180
+RNA Metabolism	CLJU_c38190
+RNA Metabolism	CLJU_c38790
+RNA Metabolism	CLJU_c41510
+RNA Metabolism	CLJU_c42910
+Nucleosides and Nucleotides	CLJU_c02330
+Nucleosides and Nucleotides	CLJU_c13040
+Nucleosides and Nucleotides	CLJU_c34190
+Carbohydrates	CLJU_c34190
+Nucleosides and Nucleotides	CLJU_c04510
+Carbohydrates	CLJU_c04510
+Nucleosides and Nucleotides	CLJU_c34100
+Carbohydrates	CLJU_c34100
+Carbohydrates	CLJU_c11960
+RNA Metabolism	CLJU_c12590
+RNA Metabolism	CLJU_c12710
+Cell Wall and Capsule	CLJU_c06220
+Cell Wall and Capsule	CLJU_c15920
+Carbohydrates	CLJU_c04980
+Carbohydrates	CLJU_c06610
+Carbohydrates	CLJU_c06630
+Carbohydrates	CLJU_c11630
+Carbohydrates	CLJU_c13610
+Respiration	CLJU_c09110
+Respiration	CLJU_c09100
+Respiration	CLJU_c09090
+Carbohydrates	CLJU_c13880
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c13880
+Amino Acids and Derivatives	CLJU_c13880
+Respiration	CLJU_c13880
+Carbohydrates	CLJU_c13890
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c13890
+Amino Acids and Derivatives	CLJU_c13890
+Respiration	CLJU_c13890
+Respiration	CLJU_c37610
+Carbohydrates	CLJU_c37620
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c37620
+Amino Acids and Derivatives	CLJU_c37620
+Respiration	CLJU_c37620
+Carbohydrates	CLJU_c20340
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c20340
+Amino Acids and Derivatives	CLJU_c20340
+Respiration	CLJU_c20340
+Carbohydrates	CLJU_c20330
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c20330
+Amino Acids and Derivatives	CLJU_c20330
+Respiration	CLJU_c20330
+Carbohydrates	CLJU_c39400
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c39400
+Amino Acids and Derivatives	CLJU_c39400
+Respiration	CLJU_c39400
+Carbohydrates	CLJU_c39410
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c39410
+Amino Acids and Derivatives	CLJU_c39410
+Respiration	CLJU_c39410
+Nucleosides and Nucleotides	CLJU_c15340
+Nitrogen Metabolism	CLJU_c15340
+Nucleosides and Nucleotides	CLJU_c15330
+Nitrogen Metabolism	CLJU_c15330
+Amino Acids and Derivatives	CLJU_c17390
+Carbohydrates	CLJU_c17820
+Carbohydrates	CLJU_c20810
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c25410
+Amino Acids and Derivatives	CLJU_c26170
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c26350
+Respiration	CLJU_c28640
+Respiration	CLJU_c28650
+Stress Response	CLJU_c29780
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c31900
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c31910
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c35530
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c33040
+Amino Acids and Derivatives	CLJU_c33270
+Cell Wall and Capsule	CLJU_c33530
+Cofactors, Vitamins, Prosthetic Groups, Pigments	CLJU_c37110
+Carbohydrates	CLJU_c37390
+Protein Metabolism	CLJU_c35650
+Respiration	CLJU_c37500
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c39420
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c42150
+Fatty Acids, Lipids, and Isoprenoids	CLJU_c42190
+Protein Metabolism	CLJU_c00080
+Protein Metabolism	CLJU_c00090
+Protein Metabolism	CLJU_c00100
+Protein Metabolism	CLJU_c32740
+Protein Metabolism	CLJU_c31750
+Protein Metabolism	CLJU_c02560
+Protein Metabolism	CLJU_c34520
+Protein Metabolism	CLJU_c36810
+Protein Metabolism	CLJU_c36760
+Protein Metabolism	CLJU_c36710
+Protein Metabolism	CLJU_c41590
+Protein Metabolism	CLJU_c42240
+Protein Metabolism	CLJU_c01030
+Protein Metabolism	CLJU_c33580
+Protein Metabolism	CLJU_c28460
+Protein Metabolism	CLJU_c41580
+Protein Metabolism	CLJU_c00180
+Protein Metabolism	CLJU_c42260
+Protein Metabolism	CLJU_c42300
+Protein Metabolism	CLJU_c38150
+Protein Metabolism	CLJU_c42280
+Protein Metabolism	CLJU_c39240
+Protein Metabolism	CLJU_c41410
+Protein Metabolism	CLJU_c34500
+Protein Metabolism	CLJU_c41390
+Protein Metabolism	CLJU_c36830
+Protein Metabolism	CLJU_c36720
+Protein Metabolism	CLJU_c02550
+Protein Metabolism	CLJU_c36770
+Protein Metabolism	CLJU_c36800
+Protein Metabolism	CLJU_c14920
+Protein Metabolism	CLJU_c34490
+Protein Metabolism	CLJU_c06570
+Protein Metabolism	CLJU_c36690
+Protein Metabolism	CLJU_c06240
+Protein Metabolism	CLJU_c41470
+Protein Metabolism	CLJU_c42270
+Protein Metabolism	CLJU_c42290
+Protein Metabolism	CLJU_c41220
+Protein Metabolism	CLJU_c02540
+Protein Metabolism	CLJU_c02760
+Protein Metabolism	CLJU_c41400
+Protein Metabolism	CLJU_c34510
+Protein Metabolism	CLJU_c28440
+Protein Metabolism	CLJU_c36730
+Protein Metabolism	CLJU_c06530
+Protein Metabolism	CLJU_c41210
+Protein Metabolism	CLJU_c00110
+Protein Metabolism	CLJU_c00750
+Protein Metabolism	CLJU_c36740
+Protein Metabolism	CLJU_c36780
+Protein Metabolism	CLJU_c28450
+Protein Metabolism	CLJU_c41570
+Protein Metabolism	CLJU_c42680
+Protein Metabolism	CLJU_c36790
+Protein Metabolism	CLJU_c02570
+Protein Metabolism	CLJU_c36700
+Protein Metabolism	CLJU_c41600
+Protein Metabolism	CLJU_c41610
+Protein Metabolism	CLJU_c06540
+Protein Metabolism	CLJU_c36820
+Protein Metabolism	CLJU_c00190
+Protein Metabolism	CLJU_c42250
+Protein Metabolism	CLJU_c02530
+Protein Metabolism	CLJU_c06250
+Protein Metabolism	CLJU_c36750
+Respiration	CLJU_c20210
+Respiration	CLJU_c20110
+Respiration	CLJU_c24050
+Respiration	CLJU_c24130

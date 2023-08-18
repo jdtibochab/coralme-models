@@ -1,0 +1,3 @@
+,value
+other_lipids,['STM0666-MONOMER']
+pg_pe_160,"['STM3002-MONOMER', 'STM0047-MONOMER']"

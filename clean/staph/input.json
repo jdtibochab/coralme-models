@@ -1,0 +1,16 @@
+{
+  "m-model-path": "./staph/inputs/m_model.json",
+  "genbank-path": "./staph/inputs/genome.gb",
+  "biocyc.genes": "./staph/inputs/genes.txt",
+  "biocyc.prots": "./staph/inputs/proteins.txt",
+  "biocyc.TUs": "./staph/inputs/TUs.txt",
+  "biocyc.RNAs": "./staph/inputs/RNAs.txt",
+  "biocyc.seqs": "./staph/inputs/sequences.fasta",
+  "df_gene_cplxs_mods_rxns": "./staph/building_data/automated-org-with-refs.xlsx",
+  "df_TranscriptionalUnits": "",
+  "out_directory": "./staph/",
+  "log_directory": "./staph/",
+  "run_bbh_blast": true,
+  "dev_reference": true,
+  "include_pseudo_genes": true
+}

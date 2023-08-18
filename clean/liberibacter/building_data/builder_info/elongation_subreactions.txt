@@ -1,0 +1,3 @@
+,value
+FusA_mono_elongation,{'enzymes': ['B488_RS01985-MONOMER']}
+Tuf_gtp_regeneration,{'enzymes': ['B488_RS00205-MONOMER']}

@@ -1,0 +1,20 @@
+{
+    "ME-Model-ID" : "iJL1678b-ME",
+    "m-model-path" : "iJL1678b-ME/building_data/m_model.json",
+    "genbank-path" : "iJL1678b-ME/building_data/genome.gb",
+
+    "df_gene_cplxs_mods_rxns" : "automated-org-with-refs.xlsx",
+    "df_TranscriptionalUnits" : "/home/glucksfall/Dropbox/coralME-ManualCuration/ecoli-noBBH/TUs_from_biocyc.txt",
+    "df_matrix_stoichiometry" : "",
+    "df_matrix_subrxn_stoich" : "",
+    "df_metadata_orphan_rxns" : "",
+    "df_metadata_metabolites" : "",
+
+    "log_directory" : "iJL1678b-ME",
+    "out_directory" : "iJL1678b-ME",
+
+    "locus_tag" : "locus_tag",
+	"run_bbh_blast" : false,
+	"dev_reference" : false,
+	"add_lipoproteins" : false
+}

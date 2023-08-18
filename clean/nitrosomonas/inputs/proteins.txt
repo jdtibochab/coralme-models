@@ -1,0 +1,2526 @@
+Proteins	Citations	Common-Name	Genes of polypeptide, complex, or RNA	Locations
+ALW85_RS02735-MONOMER		IS481-like element ISNe2 family transposase	ALW85_RS02735	
+ALW85_RS11545-MONOMER		SH3 domain-containing protein	ALW85_RS11545	
+ALW85_RS09455-MONOMER		hypothetical protein	ALW85_RS09455	
+ALW85_RS02055-MONOMER		membrane protein insertion efficiency factor YidD	ALW85_RS02055	
+ALW85_RS07070-MONOMER		type II toxin-antitoxin system RelE/ParE family toxin	ALW85_RS07070	
+ALW85_RS01395-MONOMER		metalloregulator ArsR/SmtB family transcription factor	ALW85_RS01395	
+ALW85_RS08175-MONOMER		SDR family oxidoreductase	ALW85_RS08175	
+ALW85_RS04125-MONOMER		C39 family peptidase	ALW85_RS04125	
+ALW85_RS11550-MONOMER		protein-export chaperone SecB	ALW85_RS11550	
+ALW85_RS03225-MONOMER		4-hydroxy-tetrahydrodipicolinate reductase	ALW85_RS03225	
+ALW85_RS05400-MONOMER		50S ribosomal protein L31	ALW85_RS05400	
+ALW85_RS11555-MONOMER		glutaredoxin 3	ALW85_RS11555	
+ALW85_RS09465-MONOMER		IS3 family transposase	ALW85_RS09465	
+ALW85_RS14305-MONOMER		type II toxin-antitoxin system RelE/ParE family toxin	ALW85_RS14305	
+ALW85_RS01605-MONOMER		flagellar basal body rod protein FlgC	ALW85_RS01605	
+ALW85_RS11560-MONOMER		rhodanese-like domain-containing protein	ALW85_RS11560	
+ALW85_RS02345-MONOMER		valine--tRNA ligase	ALW85_RS02345	
+ALW85_RS03990-MONOMER		heme exporter protein CcmB	ALW85_RS03990	
+ALW85_RS00405-MONOMER		deoxynucleoside kinase	ALW85_RS00405	
+ALW85_RS03605-MONOMER		membrane protein	ALW85_RS03605	
+ALW85_RS11565-MONOMER		bifunctional glutamate N-acetyltransferase/amino-acid acetyltransferase ArgJ	ALW85_RS11565	
+ALW85_RS11570-MONOMER		ATP-binding protein	ALW85_RS11570	
+ALW85_RS00565-MONOMER		thioredoxin domain-containing protein	ALW85_RS00565	
+ALW85_RS09470-MONOMER		helix-turn-helix domain-containing protein	ALW85_RS09470	
+ALW85_RS14310-MONOMER		DUF2442 domain-containing protein	ALW85_RS14310	
+ALW85_RS11575-MONOMER		Nudix family hydrolase	ALW85_RS11575	
+ALW85_RS08180-MONOMER		Gfo/Idh/MocA family oxidoreductase	ALW85_RS08180	
+ALW85_RS04410-MONOMER		mercuric ion transporter MerT	ALW85_RS04410	
+ALW85_RS11580-MONOMER		FAD-dependent oxidoreductase	ALW85_RS11580	
+ALW85_RS05415-MONOMER		hypothetical protein	ALW85_RS05415	
+ALW85_RS00205-MONOMER		protein-L-isoaspartate O-methyltransferase	ALW85_RS00205	
+ALW85_RS01090-MONOMER		YebC/PmpR family DNA-binding transcriptional regulator	ALW85_RS01090	
+ALW85_RS11585-MONOMER		UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl- meso-diaminopimelate ligase	ALW85_RS11585	
+ALW85_RS07085-MONOMER		DUF4160 domain-containing protein	ALW85_RS07085	
+ALW85_RS08185-MONOMER		acylneuraminate cytidylyltransferase family protein	ALW85_RS08185	
+ALW85_RS11590-MONOMER		hypothetical protein	ALW85_RS11590	
+ALW85_RS00410-MONOMER		3-methyl-2-oxobutanoate hydroxymethyltransferase	ALW85_RS00410	
+ALW85_RS05020-MONOMER		cytochrome c554	ALW85_RS05020	
+ALW85_RS11595-MONOMER		leucyl/phenylalanyl-tRNA--protein transferase	ALW85_RS11595	
+ALW85_RS01885-MONOMER		23S rRNA (pseudouridine(1915)-N(3))-methyltransferase RlmH	ALW85_RS01885	
+ALW85_RS09490-MONOMER		type IV toxin-antitoxin system AbiEi family antitoxin domain-containing protein	ALW85_RS09490	
+ALW85_RS07090-MONOMER		putative addiction module antidote protein	ALW85_RS07090	
+ALW85_RS11600-MONOMER		arginyltransferase	ALW85_RS11600	
+ALW85_RS08190-MONOMER		N-acetylneuraminate synthase family protein	ALW85_RS08190	
+ALW85_RS04130-MONOMER		hypothetical protein	ALW85_RS04130	
+ALW85_RS01480-MONOMER		copper resistance protein B	ALW85_RS01480	
+ALW85_RS03080-MONOMER		type 1 glutamine amidotransferase	ALW85_RS03080	
+ALW85_RS11605-MONOMER		quinone-dependent dihydroorotate dehydrogenase	ALW85_RS11605	
+ALW85_RS05420-MONOMER		FecR domain-containing protein	ALW85_RS05420	
+ALW85_RS05235-MONOMER		NAD(P)H-dependent oxidoreductase	ALW85_RS05235	
+ALW85_RS11610-MONOMER		RnfABCDGE type electron transport complex subunit B	ALW85_RS11610	
+ALW85_RS02505-MONOMER		ATP-binding protein	ALW85_RS02505	
+ALW85_RS09495-MONOMER		nucleotidyl transferase AbiEii/AbiGii toxin family protein	ALW85_RS09495	
+ALW85_RS07095-MONOMER		type II toxin-antitoxin system RelE/ParE family toxin	ALW85_RS07095	
+ALW85_RS01610-MONOMER		flagellar hook assembly protein FlgD	ALW85_RS01610	
+ALW85_RS08195-MONOMER		hypothetical protein	ALW85_RS08195	
+ALW85_RS11615-MONOMER		endonuclease III	ALW85_RS11615	
+ALW85_RS00415-MONOMER		pantoate--beta-alanine ligase	ALW85_RS00415	
+ALW85_RS11620-MONOMER		nucleotidyltransferase domain-containing protein	ALW85_RS11620	
+ALW85_RS03760-MONOMER		ABC transporter ATP-binding protein/permease	ALW85_RS03760	
+ALW85_RS09500-MONOMER		redox-regulated ATPase YchF	ALW85_RS09500	
+ALW85_RS11625-MONOMER		DUF86 domain-containing protein	ALW85_RS11625	
+ALW85_RS07105-MONOMER		HigA family addiction module antidote protein	ALW85_RS07105	
+ALW85_RS00710-MONOMER		IS1595-like element ISNe7 family transposase	ALW85_RS00710	
+ALW85_RS08200-MONOMER		SAM-dependent methyltransferase	ALW85_RS08200	
+ALW85_RS11630-MONOMER		transglycosylase SLT domain-containing protein	ALW85_RS11630	
+ALW85_RS04555-MONOMER		ATP phosphoribosyltransferase	ALW85_RS04555	
+ALW85_RS05425-MONOMER		RNA polymerase sigma factor	ALW85_RS05425	
+ALW85_RS11635-MONOMER		TerC family protein	ALW85_RS11635	
+ALW85_RS09505-MONOMER		aminoacyl-tRNA hydrolase	ALW85_RS09505	
+ALW85_RS07110-MONOMER		RloB family protein	ALW85_RS07110	
+ALW85_RS11640-MONOMER		IS481 family transposase	ALW85_RS11640	
+ALW85_RS01245-MONOMER		recombinase family protein	ALW85_RS01245	
+ALW85_RS08205-MONOMER		Co2+/Mg2+ efflux protein ApaG	ALW85_RS08205	
+ALW85_RS00420-MONOMER		alpha-glucan family phosphorylase	ALW85_RS00420	
+ALW85_RS09510-MONOMER		50S ribosomal protein L25/general stress protein Ctc	ALW85_RS09510	
+ALW85_RS11645-MONOMER		hypothetical protein	ALW85_RS11645	
+ALW85_RS04870-MONOMER		autotransporter assembly complex protein TamA	ALW85_RS04870	
+ALW85_RS11650-MONOMER		hypothetical protein	ALW85_RS11650	
+ALW85_RS09515-MONOMER		ribose-phosphate pyrophosphokinase	ALW85_RS09515	
+ALW85_RS02060-MONOMER		ribonuclease P protein component	ALW85_RS02060	
+ALW85_RS07115-MONOMER		ATP-binding protein	ALW85_RS07115	
+ALW85_RS11655-MONOMER		nucleotidyltransferase domain-containing protein	ALW85_RS11655	
+ALW85_RS08210-MONOMER		S8 family serine peptidase	ALW85_RS08210	
+ALW85_RS04135-MONOMER		transporter	ALW85_RS04135	
+ALW85_RS09525-MONOMER		4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase	ALW85_RS09525	
+ALW85_RS11660-MONOMER		IS481 family transposase	ALW85_RS11660	
+ALW85_RS05160-MONOMER		UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase	ALW85_RS05160	
+ALW85_RS03230-MONOMER		outer membrane protein assembly factor BamE	ALW85_RS03230	
+ALW85_RS05430-MONOMER		cell division protein FtsB	ALW85_RS05430	
+ALW85_RS13760-MONOMER		DUF86 domain-containing protein	ALW85_RS13760	
+ALW85_RS09530-MONOMER		lipoprotein insertase outer membrane protein LolB	ALW85_RS09530	
+ALW85_RS07120-MONOMER		hypothetical protein	ALW85_RS07120	
+ALW85_RS01615-MONOMER		flagellar hook protein FlgE	ALW85_RS01615	
+ALW85_RS02350-MONOMER		uroporphyrinogen decarboxylase	ALW85_RS02350	
+ALW85_RS08215-MONOMER		PEP-CTERM sorting domain-containing protein	ALW85_RS08215	
+ALW85_RS11670-MONOMER		fatty acid desaturase	ALW85_RS11670	
+ALW85_RS00425-MONOMER		oligoribonuclease	ALW85_RS00425	
+ALW85_RS03610-MONOMER		tRNA pseudouridine(38-40) synthase TruA	ALW85_RS03610	
+ALW85_RS09535-MONOMER		cell division topological specificity factor MinE	ALW85_RS09535	
+ALW85_RS11675-MONOMER		SDR family oxidoreductase	ALW85_RS11675	
+ALW85_RS00570-MONOMER		dihydroxy-acid dehydratase	ALW85_RS00570	
+ALW85_RS09540-MONOMER		septum site-determining protein MinD	ALW85_RS09540	
+ALW85_RS07125-MONOMER		hypothetical protein	ALW85_RS07125	
+ALW85_RS11680-MONOMER		AMP-binding protein	ALW85_RS11680	
+ALW85_RS08220-MONOMER		type II toxin-antitoxin system RelE/ParE family toxin	ALW85_RS08220	
+ALW85_RS04415-MONOMER		Hg(II)-responsive transcriptional regulator	ALW85_RS04415	
+ALW85_RS09545-MONOMER		septum site-determining protein MinC	ALW85_RS09545	
+ALW85_RS11685-MONOMER		hypothetical protein	ALW85_RS11685	
+ALW85_RS05435-MONOMER		phosphopyruvate hydratase	ALW85_RS05435	
+ALW85_RS01095-MONOMER		crossover junction endodeoxyribonuclease RuvC	ALW85_RS01095	
+ALW85_RS09550-MONOMER		Slp family lipoprotein	ALW85_RS09550	
+ALW85_RS07130-MONOMER		DUF4433 domain-containing protein	ALW85_RS07130	
+ALW85_RS08225-MONOMER		type II toxin-antitoxin system Phd/YefM family antitoxin	ALW85_RS08225	
+ALW85_RS11690-MONOMER		FAD-dependent oxidoreductase	ALW85_RS11690	
+ALW85_RS00430-MONOMER		M48 family metallopeptidase	ALW85_RS00430	
+ALW85_RS05025-MONOMER		hydroxylamine oxidation protein HaoB	ALW85_RS05025	
+ALW85_RS09555-MONOMER		hypothetical protein	ALW85_RS09555	
+ALW85_RS11695-MONOMER		IS200/IS605 family transposase	ALW85_RS11695	
+ALW85_RS02660-MONOMER		DUF4124 domain-containing protein	ALW85_RS02660	
+ALW85_RS01890-MONOMER		ribosome silencing factor	ALW85_RS01890	
+ALW85_RS09560-MONOMER		Trk system potassium transporter TrkA	ALW85_RS09560	
+ALW85_RS11700-MONOMER		flocculation-associated PEP-CTERM protein PepA	ALW85_RS11700	
+ALW85_RS07135-MONOMER		macro domain-containing protein	ALW85_RS07135	
+ALW85_RS05440-MONOMER		CTP synthase	ALW85_RS05440	
+ALW85_RS08230-MONOMER		type II toxin-antitoxin system PemK/MazF family toxin	ALW85_RS08230	
+ALW85_RS04140-MONOMER		protein tyrosine phosphatase family protein	ALW85_RS04140	
+ALW85_RS11705-MONOMER		ABC transporter permease	ALW85_RS11705	
+ALW85_RS03085-MONOMER		DUF2868 domain-containing protein	ALW85_RS03085	
+ALW85_RS11710-MONOMER		hypothetical protein	ALW85_RS11710	
+ALW85_RS09565-MONOMER		TrkH family potassium uptake protein	ALW85_RS09565	
+ALW85_RS07145-MONOMER		HigA family addiction module antidote protein	ALW85_RS07145	
+ALW85_RS01620-MONOMER		flagellar basal-body rod protein FlgF	ALW85_RS01620	
+ALW85_RS11715-MONOMER		ABC transporter permease	ALW85_RS11715	
+ALW85_RS03915-MONOMER		IS481 family transposase	ALW85_RS03915	
+ALW85_RS05445-MONOMER		succinate dehydrogenase, cytochrome b556 subunit	ALW85_RS05445	
+ALW85_RS08235-MONOMER		ribbon-helix-helix protein, CopG family	ALW85_RS08235	
+ALW85_RS11720-MONOMER		hypothetical protein	ALW85_RS11720	
+ALW85_RS03765-MONOMER		16S rRNA (cytidine(1402)-2'-O)-methyltransferase	ALW85_RS03765	
+ALW85_RS11725-MONOMER		ABC transporter ATP-binding protein	ALW85_RS11725	
+ALW85_RS09570-MONOMER		response regulator	ALW85_RS09570	
+ALW85_RS00715-MONOMER		response regulator transcription factor	ALW85_RS00715	
+ALW85_RS05450-MONOMER		succinate dehydrogenase, hydrophobic membrane anchor protein	ALW85_RS05450	
+ALW85_RS08240-MONOMER		type II toxin-antitoxin system VapC family toxin	ALW85_RS08240	
+ALW85_RS11730-MONOMER		outer membrane lipoprotein-sorting protein	ALW85_RS11730	
+ALW85_RS11735-MONOMER		PEP-CTERM/exosortase system-associated acyltransferase	ALW85_RS11735	
+ALW85_RS00130-MONOMER		exodeoxyribonuclease III	ALW85_RS00130	
+ALW85_RS09575-MONOMER		chorismate lyase	ALW85_RS09575	
+ALW85_RS11740-MONOMER		porin	ALW85_RS11740	
+ALW85_RS07150-MONOMER		hypothetical protein	ALW85_RS07150	
+ALW85_RS05455-MONOMER		succinate dehydrogenase flavoprotein subunit	ALW85_RS05455	
+ALW85_RS01250-MONOMER		hypothetical protein	ALW85_RS01250	
+ALW85_RS08245-MONOMER		plasmid stabilization protein	ALW85_RS08245	
+ALW85_RS11745-MONOMER		YajQ family cyclic di-GMP-binding protein	ALW85_RS11745	
+ALW85_RS04875-MONOMER		uracil-DNA glycosylase	ALW85_RS04875	
+ALW85_RS11750-MONOMER		UDP-N-acetylglucosamine 2-epimerase (non-hydrolyzing)	ALW85_RS11750	
+ALW85_RS13510-MONOMER		IS5 family transposase	ALW85_RS13510	
+ALW85_RS09580-MONOMER		4-hydroxybenzoate octaprenyltransferase	ALW85_RS09580	
+ALW85_RS13475-MONOMER		50S ribosomal protein L34	ALW85_RS13475	
+ALW85_RS07160-MONOMER		glycosyl transferase	ALW85_RS07160	
+ALW85_RS11755-MONOMER		mannose-1-phosphate guanylyltransferase/mannose-6-phosphate isomerase	ALW85_RS11755	
+ALW85_RS01400-MONOMER		SRPBCC family protein	ALW85_RS01400	
+ALW85_RS05460-MONOMER		ankyrin repeat domain-containing protein	ALW85_RS05460	
+ALW85_RS08250-MONOMER		type II toxin-antitoxin system Phd/YefM family antitoxin	ALW85_RS08250	
+ALW85_RS04145-MONOMER		bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD	ALW85_RS04145	
+ALW85_RS11760-MONOMER		zinc ribbon domain-containing protein	ALW85_RS11760	
+ALW85_RS03235-MONOMER		ferric iron uptake transcriptional regulator	ALW85_RS03235	
+ALW85_RS11765-MONOMER		aspartate--tRNA ligase	ALW85_RS11765	
+ALW85_RS09585-MONOMER		4-hydroxy-3-polyprenylbenzoate decarboxylase	ALW85_RS09585	
+ALW85_RS07165-MONOMER		glycosyltransferase	ALW85_RS07165	
+ALW85_RS01625-MONOMER		flagellar basal-body rod protein FlgG	ALW85_RS01625	
+ALW85_RS05470-MONOMER		DNA translocase FtsK	ALW85_RS05470	
+ALW85_RS02355-MONOMER		VOC family protein	ALW85_RS02355	
+ALW85_RS08255-MONOMER		type II toxin-antitoxin system RelE/ParE family toxin	ALW85_RS08255	
+ALW85_RS11770-MONOMER		dihydroneopterin triphosphate diphosphatase	ALW85_RS11770	
+ALW85_RS03995-MONOMER		heme ABC transporter permease CcmC	ALW85_RS03995	
+ALW85_RS03615-MONOMER		phosphoribosylanthranilate isomerase	ALW85_RS03615	
+ALW85_RS11780-MONOMER		guanylate kinase	ALW85_RS11780	
+ALW85_RS00575-MONOMER		prolipoprotein diacylglyceryl transferase	ALW85_RS00575	
+ALW85_RS09590-MONOMER		IS481 family transposase	ALW85_RS09590	
+ALW85_RS11785-MONOMER		DNA-directed RNA polymerase subunit omega	ALW85_RS11785	
+ALW85_RS07170-MONOMER		CDP-glycerol glycerophosphotransferase family protein	ALW85_RS07170	
+ALW85_RS13655-MONOMER		IS5-like element ISNeu3 family transposase	ALW85_RS13655	
+ALW85_RS04425-MONOMER		CRISPR-associated endonuclease Cas2	ALW85_RS04425	
+ALW85_RS11790-MONOMER		GNAT family N-acetyltransferase	ALW85_RS11790	
+ALW85_RS11795-MONOMER		class I SAM-dependent methyltransferase	ALW85_RS11795	
+ALW85_RS00210-MONOMER		phosphomethylpyrimidine synthase ThiC	ALW85_RS00210	
+ALW85_RS01100-MONOMER		Holliday junction branch migration protein RuvA	ALW85_RS01100	
+ALW85_RS09595-MONOMER		cytochrome c	ALW85_RS09595	
+ALW85_RS07180-MONOMER		helix-turn-helix domain-containing protein	ALW85_RS07180	
+ALW85_RS11800-MONOMER		hypothetical protein	ALW85_RS11800	
+ALW85_RS05475-MONOMER		outer membrane lipoprotein chaperone LolA	ALW85_RS05475	
+ALW85_RS08270-MONOMER		transcriptional regulator	ALW85_RS08270	
+ALW85_RS05030-MONOMER		hydroxylamine oxidoreductase	ALW85_RS05030	
+ALW85_RS11805-MONOMER		type 1 glutamine amidotransferase domain-containing protein	ALW85_RS11805	
+ALW85_RS00890-MONOMER		DUF481 domain-containing protein	ALW85_RS00890	
+ALW85_RS01895-MONOMER		nicotinate-nucleotide adenylyltransferase	ALW85_RS01895	
+ALW85_RS11810-MONOMER		ATP-dependent protease subunit HslV	ALW85_RS11810	
+ALW85_RS09605-MONOMER		hypothetical protein	ALW85_RS09605	
+ALW85_RS07185-MONOMER		PIN domain-containing protein	ALW85_RS07185	
+ALW85_RS05480-MONOMER		replication-associated recombination protein A	ALW85_RS05480	
+ALW85_RS11815-MONOMER		ATP-dependent protease ATPase subunit HslU	ALW85_RS11815	
+ALW85_RS08275-MONOMER		type II toxin-antitoxin system HigB family toxin	ALW85_RS08275	
+ALW85_RS04150-MONOMER		glycosyltransferase, exosortase A system-associated	ALW85_RS04150	
+ALW85_RS01485-MONOMER		hypothetical protein	ALW85_RS01485	
+ALW85_RS03090-MONOMER		DUF3482 domain-containing protein	ALW85_RS03090	
+ALW85_RS11820-MONOMER		acetyl-CoA C-acyltransferase family protein	ALW85_RS11820	
+ALW85_RS05240-MONOMER		acetylglutamate kinase	ALW85_RS05240	
+ALW85_RS11825-MONOMER		glucose-6-phosphate isomerase	ALW85_RS11825	
+ALW85_RS02510-MONOMER		ribbon-helix-helix protein, CopG family	ALW85_RS02510	
+ALW85_RS09610-MONOMER		IS481-like element ISNe2 family transposase	ALW85_RS09610	
+ALW85_RS07190-MONOMER		AbrB/MazE/SpoVT family DNA-binding domain-containing protein	ALW85_RS07190	
+ALW85_RS01630-MONOMER		flagellar basal body L-ring protein FlgH	ALW85_RS01630	
+ALW85_RS05485-MONOMER		MBOAT family protein	ALW85_RS05485	
+ALW85_RS08285-MONOMER		type II toxin-antitoxin system Phd/YefM family antitoxin	ALW85_RS08285	
+ALW85_RS03395-MONOMER		hypothetical protein	ALW85_RS03395	
+ALW85_RS11830-MONOMER		glycogen synthase GlgA	ALW85_RS11830	
+ALW85_RS03770-MONOMER		AraC family transcriptional regulator	ALW85_RS03770	
+ALW85_RS14135-MONOMER		hypothetical protein	ALW85_RS14135	
+ALW85_RS11835-MONOMER		PEP-CTERM sorting domain-containing protein	ALW85_RS11835	
+ALW85_RS13685-MONOMER		heparan-alpha-glucosaminide N-acetyltransferase domain-containing protein	ALW85_RS13685	
+ALW85_RS07195-MONOMER		helix-turn-helix domain-containing protein	ALW85_RS07195	
+ALW85_RS11840-MONOMER		glycosyltransferase family 4 protein	ALW85_RS11840	
+ALW85_RS00720-MONOMER		hypothetical protein	ALW85_RS00720	
+ALW85_RS05490-MONOMER		hypothetical protein	ALW85_RS05490	
+ALW85_RS08290-MONOMER		type II toxin-antitoxin system VapC family toxin	ALW85_RS08290	
+ALW85_RS04560-MONOMER		histidinol dehydrogenase	ALW85_RS04560	
+ALW85_RS11845-MONOMER		glycosyltransferase	ALW85_RS11845	
+ALW85_RS11850-MONOMER		hypothetical protein	ALW85_RS11850	
+ALW85_RS09615-MONOMER		IS481 family transposase	ALW85_RS09615	
+ALW85_RS07200-MONOMER		AbrB/MazE/SpoVT family DNA-binding domain-containing protein	ALW85_RS07200	
+ALW85_RS05495-MONOMER		lipoprotein-releasing ABC transporter ATP-binding protein LolD	ALW85_RS05495	
+ALW85_RS13820-MONOMER		hypothetical protein	ALW85_RS13820	
+ALW85_RS08295-MONOMER		Arc family DNA-binding protein	ALW85_RS08295	
+ALW85_RS11855-MONOMER		glycosyltransferase	ALW85_RS11855	
+ALW85_RS03400-MONOMER		4-hydroxy-3-methylbut-2-enyl diphosphate reductase	ALW85_RS03400	
+ALW85_RS11860-MONOMER		hypothetical protein	ALW85_RS11860	
+ALW85_RS00895-MONOMER		polyribonucleotide nucleotidyltransferase	ALW85_RS00895	
+ALW85_RS04880-MONOMER		4-oxalocrotonate tautomerase family protein	ALW85_RS04880	
+ALW85_RS11865-MONOMER		CapA family protein	ALW85_RS11865	
+ALW85_RS09620-MONOMER		HDOD domain-containing protein	ALW85_RS09620	
+ALW85_RS02070-MONOMER		DUF5658 family protein	ALW85_RS02070	
+ALW85_RS07205-MONOMER		hypothetical protein	ALW85_RS07205	
+ALW85_RS05500-MONOMER		lipoprotein-releasing ABC transporter permease subunit	ALW85_RS05500	
+ALW85_RS08300-MONOMER		hypothetical protein	ALW85_RS08300	
+ALW85_RS04155-MONOMER		glycosyltransferase	ALW85_RS04155	
+ALW85_RS11870-MONOMER		polysaccharide biosynthesis C-terminal domain-containing protein	ALW85_RS11870	
+ALW85_RS03240-MONOMER		TonB-dependent receptor	ALW85_RS03240	
+ALW85_RS05165-MONOMER		putative lipid II flippase FtsW	ALW85_RS05165	
+ALW85_RS13765-MONOMER		IS5 family transposase	ALW85_RS13765	
+ALW85_RS09625-MONOMER		adenylate/guanylate cyclase domain-containing protein	ALW85_RS09625	
+ALW85_RS07210-MONOMER		putative toxin-antitoxin system toxin component, PIN family	ALW85_RS07210	
+ALW85_RS01635-MONOMER		flagellar basal body P-ring protein FlgI	ALW85_RS01635	
+ALW85_RS05505-MONOMER		PEP-CTERM sorting domain-containing protein	ALW85_RS05505	
+ALW85_RS02360-MONOMER		DNA-3-methyladenine glycosylase I	ALW85_RS02360	
+ALW85_RS08305-MONOMER		type II toxin-antitoxin system RelE/ParE family toxin	ALW85_RS08305	
+ALW85_RS03405-MONOMER		glycine oxidase ThiO	ALW85_RS03405	
+ALW85_RS03620-MONOMER		tryptophan synthase subunit beta	ALW85_RS03620	
+ALW85_RS11885-MONOMER		oligosaccharide flippase family protein	ALW85_RS11885	
+ALW85_RS00900-MONOMER		30S ribosomal protein S15	ALW85_RS00900	
+ALW85_RS11890-MONOMER		Vi polysaccharide biosynthesis UDP-N-acetylglucosamine C-6 dehydrogenase TviB	ALW85_RS11890	
+ALW85_RS00580-MONOMER		ABC transporter permease	ALW85_RS00580	
+ALW85_RS09630-MONOMER		transcription elongation factor GreB	ALW85_RS09630	
+ALW85_RS07215-MONOMER		IS481 family transposase	ALW85_RS07215	
+ALW85_RS05510-MONOMER		urea transporter	ALW85_RS05510	
+ALW85_RS11895-MONOMER		NAD-dependent epimerase	ALW85_RS11895	
+ALW85_RS08310-MONOMER		addiction module protein	ALW85_RS08310	
+ALW85_RS04430-MONOMER		NERD domain-containing protein	ALW85_RS04430	
+ALW85_RS11900-MONOMER		low molecular weight phosphotyrosine protein phosphatase	ALW85_RS11900	
+ALW85_RS01105-MONOMER		Holliday junction branch migration DNA helicase RuvB	ALW85_RS01105	
+ALW85_RS09635-MONOMER		RNase adapter RapZ	ALW85_RS09635	
+ALW85_RS11905-MONOMER		polysaccharide biosynthesis/export family protein	ALW85_RS11905	
+ALW85_RS07220-MONOMER		hypothetical protein	ALW85_RS07220	
+ALW85_RS05515-MONOMER		TonB-dependent receptor	ALW85_RS05515	
+ALW85_RS08315-MONOMER		flagellin	ALW85_RS08315	
+ALW85_RS03410-MONOMER		type II 3-dehydroquinate dehydratase	ALW85_RS03410	
+ALW85_RS11910-MONOMER		polysaccharide biosynthesis tyrosine autokinase	ALW85_RS11910	
+ALW85_RS05035-MONOMER		tRNA 2-thiouridine(34) synthase MnmA	ALW85_RS05035	
+ALW85_RS02665-MONOMER		type I glutamate--ammonia ligase	ALW85_RS02665	
+ALW85_RS00905-MONOMER		cysteine desulfurase	ALW85_RS00905	
+ALW85_RS11915-MONOMER		undecaprenyl/decaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase	ALW85_RS11915	
+ALW85_RS01900-MONOMER		dihydrolipoyllysine-residue acetyltransferase	ALW85_RS01900	
+ALW85_RS09640-MONOMER		ATP-dependent DNA helicase RecG	ALW85_RS09640	
+ALW85_RS07225-MONOMER		STAS-like domain-containing protein	ALW85_RS07225	
+ALW85_RS13770-MONOMER		CDGSH iron-sulfur domain-containing protein	ALW85_RS13770	
+ALW85_RS05520-MONOMER		IS481-like element ISNe2 family transposase	ALW85_RS05520	
+ALW85_RS04160-MONOMER		AMP-binding protein	ALW85_RS04160	
+ALW85_RS03095-MONOMER		integrase	ALW85_RS03095	
+ALW85_RS09645-MONOMER		RidA family protein	ALW85_RS09645	
+ALW85_RS11920-MONOMER		cell division protein FtsZ	ALW85_RS11920	
+ALW85_RS11925-MONOMER		chromosome segregation protein SMC	ALW85_RS11925	
+ALW85_RS02515-MONOMER		type II toxin-antitoxin system RelE/ParE family toxin	ALW85_RS02515	
+ALW85_RS09650-MONOMER		UDP-N-acetylglucosamine 1-carboxyvinyltransferase	ALW85_RS09650	
+ALW85_RS07230-MONOMER		hypothetical protein	ALW85_RS07230	
+ALW85_RS01640-MONOMER		flagellar assembly peptidoglycan hydrolase FlgJ	ALW85_RS01640	
+ALW85_RS03920-MONOMER		recombinase family protein	ALW85_RS03920	
+ALW85_RS05535-MONOMER		type II toxin-antitoxin system VapC family toxin	ALW85_RS05535	
+ALW85_RS08320-MONOMER		flagellar protein FlaG	ALW85_RS08320	
+ALW85_RS11930-MONOMER		preQ(1) synthase	ALW85_RS11930	
+ALW85_RS03415-MONOMER		acetyl-CoA carboxylase biotin carboxyl carrier protein	ALW85_RS03415	
+ALW85_RS11935-MONOMER		class II fumarate hydratase	ALW85_RS11935	
+ALW85_RS00910-MONOMER		phosphocholine cytidylyltransferase family protein	ALW85_RS00910	
+ALW85_RS03775-MONOMER		autotransporter domain-containing protein	ALW85_RS03775	
+ALW85_RS09655-MONOMER		hypothetical protein	ALW85_RS09655	
+ALW85_RS11945-MONOMER		GGDEF domain-containing protein	ALW85_RS11945	
+ALW85_RS07245-MONOMER		chain-length determining protein	ALW85_RS07245	
+ALW85_RS00725-MONOMER		TlpA family protein disulfide reductase	ALW85_RS00725	
+ALW85_RS05540-MONOMER		plasmid stabilization protein	ALW85_RS05540	
+ALW85_RS11950-MONOMER		GspE/PulE family protein	ALW85_RS11950	
+ALW85_RS09660-MONOMER		argininosuccinate lyase	ALW85_RS09660	
+ALW85_RS00135-MONOMER		cytochrome c	ALW85_RS00135	
+ALW85_RS11955-MONOMER		3',5'-cyclic-nucleotide phosphodiesterase	ALW85_RS11955	
+ALW85_RS11960-MONOMER		universal stress protein	ALW85_RS11960	
+ALW85_RS05545-MONOMER		type II toxin-antitoxin system Phd/YefM family antitoxin	ALW85_RS05545	
+ALW85_RS08325-MONOMER		flagellar filament capping protein FliD	ALW85_RS08325	
+ALW85_RS03420-MONOMER		acetyl-CoA carboxylase biotin carboxylase subunit	ALW85_RS03420	
+ALW85_RS09665-MONOMER		fructosamine kinase family protein	ALW85_RS09665	
+ALW85_RS11965-MONOMER		TerC family protein	ALW85_RS11965	
+ALW85_RS00915-MONOMER		HIT family protein	ALW85_RS00915	
+ALW85_RS04885-MONOMER		excinuclease ABC subunit UvrC	ALW85_RS04885	
+ALW85_RS02755-MONOMER		class 1 fructose-bisphosphatase	ALW85_RS02755	
+ALW85_RS11970-MONOMER		patatin-like phospholipase family protein	ALW85_RS11970	
+ALW85_RS09670-MONOMER		dynamin family protein	ALW85_RS09670	
+ALW85_RS02075-MONOMER		DUF2905 domain-containing protein	ALW85_RS02075	
+ALW85_RS07250-MONOMER		ABC transporter ATP-binding protein	ALW85_RS07250	
+ALW85_RS13470-MONOMER		YdeI/OmpD-associated family protein	ALW85_RS13470	
+ALW85_RS14290-MONOMER		hypothetical protein	ALW85_RS14290	
+ALW85_RS11975-MONOMER		prolyl aminopeptidase	ALW85_RS11975	
+ALW85_RS04165-MONOMER		exopolysaccharide biosynthesis protein	ALW85_RS04165	
+ALW85_RS11980-MONOMER		dethiobiotin synthase	ALW85_RS11980	
+ALW85_RS03245-MONOMER		cation-transporting P-type ATPase	ALW85_RS03245	
+ALW85_RS11985-MONOMER		malonyl-ACP O-methyltransferase BioC	ALW85_RS11985	
+ALW85_RS11990-MONOMER		pimeloyl-ACP methyl ester esterase BioH	ALW85_RS11990	
+ALW85_RS09675-MONOMER		class I SAM-dependent RNA methyltransferase	ALW85_RS09675	
+ALW85_RS07255-MONOMER		ABC transporter permease	ALW85_RS07255	
+ALW85_RS01645-MONOMER		flagellar hook-associated protein FlgK	ALW85_RS01645	
+ALW85_RS14295-MONOMER		PIN domain-containing protein	ALW85_RS14295	
+ALW85_RS02365-MONOMER		ammonium transporter	ALW85_RS02365	
+ALW85_RS08330-MONOMER		flagellar export chaperone FliS	ALW85_RS08330	
+ALW85_RS11995-MONOMER		8-amino-7-oxononanoate synthase	ALW85_RS11995	
+ALW85_RS03425-MONOMER		50S ribosomal protein L11 methyltransferase	ALW85_RS03425	
+ALW85_RS04000-MONOMER		heme exporter protein CcmD	ALW85_RS04000	
+ALW85_RS03625-MONOMER		tryptophan synthase subunit alpha	ALW85_RS03625	
+ALW85_RS12000-MONOMER		biotin synthase BioB	ALW85_RS12000	
+ALW85_RS00920-MONOMER		fatty acid desaturase	ALW85_RS00920	
+ALW85_RS12005-MONOMER		ComF family protein	ALW85_RS12005	
+ALW85_RS00585-MONOMER		ABC transporter ATP-binding protein	ALW85_RS00585	
+ALW85_RS09680-MONOMER		HDOD domain-containing protein	ALW85_RS09680	
+ALW85_RS12010-MONOMER		tRNA (uridine(34)/cytosine(34)/5- carboxymethylaminomethyluridine(34)-2'-O)- methyltransferase TrmL	ALW85_RS12010	
+ALW85_RS07260-MONOMER		polysaccharide export protein	ALW85_RS07260	
+ALW85_RS05555-MONOMER		hypothetical protein	ALW85_RS05555	
+ALW85_RS12015-MONOMER		FAD-dependent oxidoreductase	ALW85_RS12015	
+ALW85_RS04435-MONOMER		polysaccharide deacetylase family protein	ALW85_RS04435	
+ALW85_RS12020-MONOMER		hydrolase	ALW85_RS12020	
+ALW85_RS12025-MONOMER		DUF488 domain-containing protein	ALW85_RS12025	
+ALW85_RS00215-MONOMER		undecaprenyl-diphosphate phosphatase	ALW85_RS00215	
+ALW85_RS01110-MONOMER		tol-pal system-associated acyl-CoA thioesterase	ALW85_RS01110	
+ALW85_RS09685-MONOMER		chemotaxis response regulator protein-glutamate methylesterase	ALW85_RS09685	
+ALW85_RS12030-MONOMER		DEAD/DEAH box helicase family protein	ALW85_RS12030	
+ALW85_RS07265-MONOMER		aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme	ALW85_RS07265	
+ALW85_RS05560-MONOMER		helix-turn-helix transcriptional regulator	ALW85_RS05560	
+ALW85_RS08335-MONOMER		flagellar protein FliT	ALW85_RS08335	
+ALW85_RS12035-MONOMER		virulence RhuM family protein	ALW85_RS12035	
+ALW85_RS03430-MONOMER		zinc-ribbon and DUF3426 domain-containing protein	ALW85_RS03430	
+ALW85_RS05040-MONOMER		PilT/PilU family type 4a pilus ATPase	ALW85_RS05040	
+ALW85_RS09690-MONOMER		chemoreceptor glutamine deamidase CheD	ALW85_RS09690	
+ALW85_RS12040-MONOMER		PDDEXK nuclease domain-containing protein	ALW85_RS12040	
+ALW85_RS00925-MONOMER		2,3-bisphosphoglycerate-dependent phosphoglycerate mutase	ALW85_RS00925	
+ALW85_RS12045-MONOMER		site-specific DNA-methyltransferase	ALW85_RS12045	
+ALW85_RS01905-MONOMER		pyruvate dehydrogenase (acetyl-transferring), homodimeric type	ALW85_RS01905	
+ALW85_RS09695-MONOMER		chemotaxis protein CheR	ALW85_RS09695	
+ALW85_RS12050-MONOMER		AAA family ATPase	ALW85_RS12050	
+ALW85_RS07270-MONOMER		type I polyketide synthase	ALW85_RS07270	
+ALW85_RS05565-MONOMER		type II toxin-antitoxin system RelE/ParE family toxin	ALW85_RS05565	
+ALW85_RS12055-MONOMER		DEAD/DEAH box helicase	ALW85_RS12055	
+ALW85_RS04170-MONOMER		hypothetical protein	ALW85_RS04170	
+ALW85_RS01490-MONOMER		LemA family protein	ALW85_RS01490	
+ALW85_RS03100-MONOMER		phosphoenolpyruvate carboxylase	ALW85_RS03100	
+ALW85_RS09700-MONOMER		hypothetical protein	ALW85_RS09700	
+ALW85_RS12060-MONOMER		type IV pilus secretin PilQ	ALW85_RS12060	
+ALW85_RS12065-MONOMER		pilus assembly protein PilP	ALW85_RS12065	
+ALW85_RS05245-MONOMER		chemotaxis protein CheW	ALW85_RS05245	
+ALW85_RS12070-MONOMER		type 4a pilus biogenesis protein PilO	ALW85_RS12070	
+ALW85_RS13875-MONOMER		type II toxin-antitoxin system RelE/ParE family toxin	ALW85_RS13875	
+ALW85_RS09705-MONOMER		methyl-accepting chemotaxis protein	ALW85_RS09705	
+ALW85_RS07280-MONOMER		exonuclease SbcCD subunit D C-terminal domain-containing protein	ALW85_RS07280	
+ALW85_RS01650-MONOMER		flagellar hook-associated protein FlgL	ALW85_RS01650	
+ALW85_RS05570-MONOMER		FecR domain-containing protein	ALW85_RS05570	
+ALW85_RS12075-MONOMER		PilN domain-containing protein	ALW85_RS12075	
+ALW85_RS03435-MONOMER		N-acetylmuramoyl-L-alanine amidase	ALW85_RS03435	
+ALW85_RS12080-MONOMER		pilus assembly protein PilM	ALW85_RS12080	
+ALW85_RS00930-MONOMER		hypothetical protein	ALW85_RS00930	
+ALW85_RS03780-MONOMER		putative sulfate exporter family transporter	ALW85_RS03780	
+ALW85_RS12085-MONOMER		penicillin-binding protein 1A	ALW85_RS12085	
+ALW85_RS09710-MONOMER		methyl-accepting chemotaxis protein	ALW85_RS09710	
+ALW85_RS12090-MONOMER		hypothetical protein	ALW85_RS12090	
+ALW85_RS07285-MONOMER		dienelactone hydrolase family protein	ALW85_RS07285	
+ALW85_RS00730-MONOMER		hydroxyacylglutathione hydrolase	ALW85_RS00730	
+ALW85_RS05575-MONOMER		sigma-70 family RNA polymerase sigma factor	ALW85_RS05575	
+ALW85_RS08340-MONOMER		hypothetical protein	ALW85_RS08340	
+ALW85_RS12095-MONOMER		dihydrolipoyl dehydrogenase	ALW85_RS12095	
+ALW85_RS04565-MONOMER		FAD-dependent monooxygenase	ALW85_RS04565	
+ALW85_RS12100-MONOMER		beta-N-acetylhexosaminidase	ALW85_RS12100	
+ALW85_RS12105-MONOMER		holo-ACP synthase	ALW85_RS12105	
+ALW85_RS09715-MONOMER		chemotaxis protein CheW	ALW85_RS09715	
+ALW85_RS12110-MONOMER		pyridoxine 5'-phosphate synthase	ALW85_RS12110	
+ALW85_RS14270-MONOMER		hypothetical protein	ALW85_RS14270	
+ALW85_RS05580-MONOMER		TonB-dependent receptor	ALW85_RS05580	
+ALW85_RS01260-MONOMER		IS481 family transposase	ALW85_RS01260	
+ALW85_RS08345-MONOMER		plasmid stabilization protein	ALW85_RS08345	
+ALW85_RS12115-MONOMER		GTPase Era	ALW85_RS12115	
+ALW85_RS03440-MONOMER		tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE	ALW85_RS03440	
+ALW85_RS00935-MONOMER		serine--tRNA ligase	ALW85_RS00935	
+ALW85_RS04900-MONOMER		TonB-dependent receptor plug domain-containing protein	ALW85_RS04900	
+ALW85_RS12120-MONOMER		ribonuclease III	ALW85_RS12120	
+ALW85_RS12125-MONOMER		DUF4845 domain-containing protein	ALW85_RS12125	
+ALW85_RS09720-MONOMER		chemotaxis protein CheW	ALW85_RS09720	
+ALW85_RS02080-MONOMER		pyrroline-5-carboxylate reductase	ALW85_RS02080	
+ALW85_RS07290-MONOMER		AAA family ATPase	ALW85_RS07290	
+ALW85_RS05585-MONOMER		DUF86 domain-containing protein	ALW85_RS05585	
+ALW85_RS08350-MONOMER		tetratricopeptide repeat protein	ALW85_RS08350	
+ALW85_RS04175-MONOMER		DNA-binding protein	ALW85_RS04175	
+ALW85_RS12130-MONOMER		signal peptidase I	ALW85_RS12130	
+ALW85_RS03250-MONOMER		zinc-dependent peptidase	ALW85_RS03250	
+ALW85_RS05170-MONOMER		undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase	ALW85_RS05170	
+ALW85_RS12135-MONOMER		translation elongation factor 4	ALW85_RS12135	
+ALW85_RS12140-MONOMER		glutaredoxin family protein	ALW85_RS12140	
+ALW85_RS09725-MONOMER		hypothetical protein	ALW85_RS09725	
+ALW85_RS07295-MONOMER		outer membrane protein transport protein	ALW85_RS07295	
+ALW85_RS01655-MONOMER		hypothetical protein	ALW85_RS01655	
+ALW85_RS05590-MONOMER		nucleotidyltransferase	ALW85_RS05590	
+ALW85_RS02370-MONOMER		glutamate racemase	ALW85_RS02370	
+ALW85_RS08355-MONOMER		type II secretion system protein	ALW85_RS08355	
+ALW85_RS12145-MONOMER		DegQ family serine endoprotease	ALW85_RS12145	
+ALW85_RS03445-MONOMER		SDR family oxidoreductase	ALW85_RS03445	
+ALW85_RS03630-MONOMER		acetyl-CoA carboxylase, carboxyltransferase subunit beta	ALW85_RS03630	
+ALW85_RS12150-MONOMER		sigma-E factor negative regulatory protein	ALW85_RS12150	
+ALW85_RS00940-MONOMER		adenine phosphoribosyltransferase	ALW85_RS00940	
+ALW85_RS12155-MONOMER		RNA polymerase sigma factor RpoE	ALW85_RS12155	
+ALW85_RS00590-MONOMER		succinyl-diaminopimelate desuccinylase	ALW85_RS00590	
+ALW85_RS09730-MONOMER		hypothetical protein	ALW85_RS09730	
+ALW85_RS12160-MONOMER		CBS domain-containing protein	ALW85_RS12160	
+ALW85_RS07300-MONOMER		outer membrane protein transport protein	ALW85_RS07300	
+ALW85_RS05595-MONOMER		CcdB family protein	ALW85_RS05595	
+ALW85_RS12165-MONOMER		rRNA maturation RNase YbeY	ALW85_RS12165	
+ALW85_RS08360-MONOMER		type II secretion system GspH family protein	ALW85_RS08360	
+ALW85_RS04440-MONOMER		histidine phosphatase family protein	ALW85_RS04440	
+ALW85_RS12170-MONOMER		PhoH family protein	ALW85_RS12170	
+ALW85_RS12175-MONOMER		tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB	ALW85_RS12175	
+ALW85_RS01115-MONOMER		protein TolQ	ALW85_RS01115	
+ALW85_RS09735-MONOMER		ubiquinone biosynthesis regulatory protein kinase UbiB	ALW85_RS09735	
+ALW85_RS12180-MONOMER		tetraheme cytochrome c-type	ALW85_RS12180	
+ALW85_RS07305-MONOMER		PAS domain-containing protein	ALW85_RS07305	
+ALW85_RS05600-MONOMER		type II toxin-antitoxin system CcdA family antitoxin	ALW85_RS05600	
+ALW85_RS08365-MONOMER		type II secretion system GspH family protein	ALW85_RS08365	
+ALW85_RS12185-MONOMER		cytochrome c554	ALW85_RS12185	
+ALW85_RS05045-MONOMER		type IV pilus twitching motility protein PilT	ALW85_RS05045	
+ALW85_RS12190-MONOMER		hydroxylamine oxidation protein HaoB	ALW85_RS12190	
+ALW85_RS02670-MONOMER		23S rRNA pseudouridine(1911/1915/1917) synthase RluD	ALW85_RS02670	
+ALW85_RS12195-MONOMER		hydroxylamine oxidoreductase	ALW85_RS12195	
+ALW85_RS01910-MONOMER		bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase FolD	ALW85_RS01910	
+ALW85_RS04730-MONOMER		cytochrome c	ALW85_RS04730	
+ALW85_RS09740-MONOMER		ABC transporter ATP-binding protein	ALW85_RS09740	
+ALW85_RS12200-MONOMER		30S ribosomal protein S20	ALW85_RS12200	
+ALW85_RS07310-MONOMER		PAS domain-containing methyl-accepting chemotaxis protein	ALW85_RS07310	
+ALW85_RS05605-MONOMER		FecR domain-containing protein	ALW85_RS05605	
+ALW85_RS12205-MONOMER		hypothetical protein	ALW85_RS12205	
+ALW85_RS08370-MONOMER		type II secretion pathway protein GspD	ALW85_RS08370	
+ALW85_RS04180-MONOMER		nucleotidyltransferase family protein	ALW85_RS04180	
+ALW85_RS03105-MONOMER		hydroxymethylbilane synthase	ALW85_RS03105	
+ALW85_RS12210-MONOMER		acetate--CoA ligase	ALW85_RS12210	
+ALW85_RS02205-MONOMER		50S ribosomal protein L18	ALW85_RS02205	
+ALW85_RS12215-MONOMER		MBL fold metallo-hydrolase	ALW85_RS12215	
+ALW85_RS03450-MONOMER		methionine adenosyltransferase	ALW85_RS03450	
+ALW85_RS02520-MONOMER		ATP-binding cassette domain-containing protein	ALW85_RS02520	
+ALW85_RS09745-MONOMER		ABC transporter permease	ALW85_RS09745	
+ALW85_RS07315-MONOMER		chemotaxis protein CheW	ALW85_RS07315	
+ALW85_RS01660-MONOMER		hypothetical protein	ALW85_RS01660	
+ALW85_RS03925-MONOMER		hypothetical protein	ALW85_RS03925	
+ALW85_RS05610-MONOMER		sigma-70 family RNA polymerase sigma factor	ALW85_RS05610	
+ALW85_RS08375-MONOMER		hypothetical protein	ALW85_RS08375	
+ALW85_RS12220-MONOMER		amidohydrolase family protein	ALW85_RS12220	
+ALW85_RS12225-MONOMER		hypothetical protein	ALW85_RS12225	
+ALW85_RS00945-MONOMER		YbhB/YbcL family Raf kinase inhibitor-like protein	ALW85_RS00945	
+ALW85_RS03785-MONOMER		DUF5395 domain-containing protein	ALW85_RS03785	
+ALW85_RS12230-MONOMER		alginate export family protein	ALW85_RS12230	
+ALW85_RS09750-MONOMER		ABC transporter permease subunit	ALW85_RS09750	
+ALW85_RS12235-MONOMER		alpha/beta hydrolase	ALW85_RS12235	
+ALW85_RS07320-MONOMER		uracil-DNA glycosylase	ALW85_RS07320	
+ALW85_RS00735-MONOMER		methyltransferase domain-containing protein	ALW85_RS00735	
+ALW85_RS05615-MONOMER		efflux transporter outer membrane subunit	ALW85_RS05615	
+ALW85_RS08380-MONOMER		type 4a pilus biogenesis protein PilO	ALW85_RS08380	
+ALW85_RS12240-MONOMER		MFS transporter	ALW85_RS12240	
+ALW85_RS04570-MONOMER		tRNA dihydrouridine synthase DusB	ALW85_RS04570	
+ALW85_RS12245-MONOMER		acyl-CoA dehydrogenase	ALW85_RS12245	
+ALW85_RS00140-MONOMER		MBL fold metallo-hydrolase	ALW85_RS00140	
+ALW85_RS12250-MONOMER		acyl--CoA ligase	ALW85_RS12250	
+ALW85_RS09755-MONOMER		spermidine/putrescine ABC transporter substrate-binding protein	ALW85_RS09755	
+ALW85_RS12255-MONOMER		CoA transferase	ALW85_RS12255	
+ALW85_RS07325-MONOMER		ribosomal protein S18-alanine N-acetyltransferase	ALW85_RS07325	
+ALW85_RS05620-MONOMER		MacB family efflux pump subunit	ALW85_RS05620	
+ALW85_RS01265-MONOMER		SEL1-like repeat protein	ALW85_RS01265	
+ALW85_RS12260-MONOMER		MoaD family protein	ALW85_RS12260	
+ALW85_RS12265-MONOMER		M67 family metallopeptidase	ALW85_RS12265	
+ALW85_RS04905-MONOMER		response regulator transcription factor	ALW85_RS04905	
+ALW85_RS12270-MONOMER		molybdopterin-synthase adenylyltransferase MoeB	ALW85_RS12270	
+ALW85_RS02760-MONOMER		glutathione S-transferase family protein	ALW85_RS02760	
+ALW85_RS12275-MONOMER		hypothetical protein	ALW85_RS12275	
+ALW85_RS04735-MONOMER		DUF3293 domain-containing protein	ALW85_RS04735	
+ALW85_RS09760-MONOMER		NAD(P)H-dependent oxidoreductase subunit E	ALW85_RS09760	
+ALW85_RS02085-MONOMER		YggT family protein	ALW85_RS02085	
+ALW85_RS07330-MONOMER		tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB	ALW85_RS07330	
+ALW85_RS01410-MONOMER		VOC family protein	ALW85_RS01410	
+ALW85_RS05625-MONOMER		efflux RND transporter periplasmic adaptor subunit	ALW85_RS05625	
+ALW85_RS12280-MONOMER		lysine--tRNA ligase	ALW85_RS12280	
+ALW85_RS08385-MONOMER		PilN domain-containing protein	ALW85_RS08385	
+ALW85_RS04185-MONOMER		LPS export ABC transporter permease LptF	ALW85_RS04185	
+ALW85_RS12285-MONOMER		glutamine--tRNA ligase/YqeY domain fusion protein	ALW85_RS12285	
+ALW85_RS03255-MONOMER		iron-containing alcohol dehydrogenase	ALW85_RS03255	
+ALW85_RS02210-MONOMER		30S ribosomal protein S5	ALW85_RS02210	
+ALW85_RS03455-MONOMER		adenosylhomocysteinase	ALW85_RS03455	
+ALW85_RS12290-MONOMER		C40 family peptidase	ALW85_RS12290	
+ALW85_RS09765-MONOMER		alpha/beta hydrolase	ALW85_RS09765	
+ALW85_RS07335-MONOMER		RNA 2',3'-cyclic phosphodiesterase	ALW85_RS07335	
+ALW85_RS01665-MONOMER		hypothetical protein	ALW85_RS01665	
+ALW85_RS05630-MONOMER		DUF3325 domain-containing protein	ALW85_RS05630	
+ALW85_RS02375-MONOMER		integron integrase	ALW85_RS02375	
+ALW85_RS12295-MONOMER		kinase/pyrophosphorylase	ALW85_RS12295	
+ALW85_RS02840-MONOMER		efflux transporter outer membrane subunit	ALW85_RS02840	
+ALW85_RS04005-MONOMER		cytochrome c maturation protein CcmE	ALW85_RS04005	
+ALW85_RS03635-MONOMER		bifunctional tetrahydrofolate synthase/dihydrofolate synthase	ALW85_RS03635	
+ALW85_RS12300-MONOMER		phosphoenolpyruvate synthase	ALW85_RS12300	
+ALW85_RS00950-MONOMER		hypothetical protein	ALW85_RS00950	
+ALW85_RS12305-MONOMER		Mth938-like domain-containing protein	ALW85_RS12305	
+ALW85_RS00595-MONOMER		hypothetical protein	ALW85_RS00595	
+ALW85_RS09770-MONOMER		oxygen-dependent coproporphyrinogen oxidase	ALW85_RS09770	
+ALW85_RS12320-MONOMER		glutamine--tRNA ligase/YqeY domain fusion protein	ALW85_RS12320	
+ALW85_RS07340-MONOMER		2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	ALW85_RS07340	
+ALW85_RS05635-MONOMER		PepSY domain-containing protein	ALW85_RS05635	
+ALW85_RS12325-MONOMER		C40 family peptidase	ALW85_RS12325	
+ALW85_RS08390-MONOMER		hypothetical protein	ALW85_RS08390	
+ALW85_RS04445-MONOMER		VIT family protein	ALW85_RS04445	
+ALW85_RS12330-MONOMER		kinase/pyrophosphorylase	ALW85_RS12330	
+ALW85_RS12335-MONOMER		phosphoenolpyruvate synthase	ALW85_RS12335	
+ALW85_RS00220-MONOMER		rhodanese-like domain-containing protein	ALW85_RS00220	
+ALW85_RS09775-MONOMER		chorismate synthase	ALW85_RS09775	
+ALW85_RS12340-MONOMER		Mth938-like domain-containing protein	ALW85_RS12340	
+ALW85_RS07345-MONOMER		DUF488 domain-containing protein	ALW85_RS07345	
+ALW85_RS05640-MONOMER		FecR domain-containing protein	ALW85_RS05640	
+ALW85_RS08395-MONOMER		GspE/PulE family protein	ALW85_RS08395	
+ALW85_RS12345-MONOMER		pyridoxal phosphate-dependent aminotransferase	ALW85_RS12345	
+ALW85_RS05050-MONOMER		YggS family pyridoxal phosphate-dependent enzyme	ALW85_RS05050	
+ALW85_RS12350-MONOMER		homoserine dehydrogenase	ALW85_RS12350	
+ALW85_RS05645-MONOMER		sigma-70 family RNA polymerase sigma factor	ALW85_RS05645	
+ALW85_RS12355-MONOMER		threonine synthase	ALW85_RS12355	
+ALW85_RS01915-MONOMER		hypothetical protein	ALW85_RS01915	
+ALW85_RS09780-MONOMER		sel1 repeat family protein	ALW85_RS09780	
+ALW85_RS12360-MONOMER		succinate dehydrogenase iron-sulfur subunit	ALW85_RS12360	
+ALW85_RS07350-MONOMER		ABC transporter ATP-binding protein	ALW85_RS07350	
+ALW85_RS05650-MONOMER		TonB-dependent receptor	ALW85_RS05650	
+ALW85_RS12365-MONOMER		succinate dehydrogenase assembly factor 2	ALW85_RS12365	
+ALW85_RS08400-MONOMER		type II secretion system F family protein	ALW85_RS08400	
+ALW85_RS04190-MONOMER		LPS export ABC transporter permease LptG	ALW85_RS04190	
+ALW85_RS01495-MONOMER		tRNA (guanosine(46)-N7)-methyltransferase TrmB	ALW85_RS01495	
+ALW85_RS03110-MONOMER		uroporphyrinogen-III synthase	ALW85_RS03110	
+ALW85_RS12370-MONOMER		citrate (Si)-synthase	ALW85_RS12370	
+ALW85_RS05655-MONOMER		TonB-dependent siderophore receptor	ALW85_RS05655	
+ALW85_RS13490-MONOMER		50S ribosomal protein L30	ALW85_RS13490	
+ALW85_RS12375-MONOMER		2-oxoglutarate dehydrogenase E1 component	ALW85_RS12375	
+ALW85_RS03460-MONOMER		methylenetetrahydrofolate reductase [NAD(P)H]	ALW85_RS03460	
+ALW85_RS05250-MONOMER		response regulator	ALW85_RS05250	
+ALW85_RS12380-MONOMER		2-oxoglutarate dehydrogenase complex dihydrolipoyllysine-residue succinyltransferase	ALW85_RS12380	
+ALW85_RS02525-MONOMER		antitoxin	ALW85_RS02525	
+ALW85_RS09785-MONOMER		hypothetical protein	ALW85_RS09785	
+ALW85_RS07355-MONOMER		ABC transporter permease	ALW85_RS07355	
+ALW85_RS01670-MONOMER		protein-glutamate O-methyltransferase family protein	ALW85_RS01670	
+ALW85_RS05660-MONOMER		TonB-dependent receptor	ALW85_RS05660	
+ALW85_RS08405-MONOMER		type II secretion system major pseudopilin GspG	ALW85_RS08405	
+ALW85_RS12385-MONOMER		hypothetical protein	ALW85_RS12385	
+ALW85_RS02845-MONOMER		biotin/lipoyl-binding protein	ALW85_RS02845	
+ALW85_RS12390-MONOMER		BolA/IbaG family iron-sulfur metabolism protein	ALW85_RS12390	
+ALW85_RS00955-MONOMER		NUDIX hydrolase	ALW85_RS00955	
+ALW85_RS05670-MONOMER		type II toxin-antitoxin system RelE/ParE family toxin	ALW85_RS05670	
+ALW85_RS03790-MONOMER		hypothetical protein	ALW85_RS03790	
+ALW85_RS12395-MONOMER		ABC transporter permease	ALW85_RS12395	
+ALW85_RS09790-MONOMER		IS481 family transposase	ALW85_RS09790	
+ALW85_RS12400-MONOMER		ABC transporter ATP-binding protein	ALW85_RS12400	
+ALW85_RS07360-MONOMER		carotenoid 1,2-hydratase	ALW85_RS07360	
+ALW85_RS00740-MONOMER		ribonuclease HI	ALW85_RS00740	
+ALW85_RS05675-MONOMER		hypothetical protein	ALW85_RS05675	
+ALW85_RS08415-MONOMER		diaminopimelate epimerase	ALW85_RS08415	
+ALW85_RS12405-MONOMER		STAS domain-containing protein	ALW85_RS12405	
+ALW85_RS00005-MONOMER		chromosomal replication initiator protein DnaA	ALW85_RS00005	
+ALW85_RS09795-MONOMER		epoxyqueuosine reductase QueH	ALW85_RS09795	
+ALW85_RS04575-MONOMER		Fis family transcriptional regulator	ALW85_RS04575	
+ALW85_RS12410-MONOMER		ABC transporter substrate-binding protein	ALW85_RS12410	
+ALW85_RS05685-MONOMER		IS1182 family transposase	ALW85_RS05685	
+ALW85_RS12415-MONOMER		outer membrane lipid asymmetry maintenance protein MlaD	ALW85_RS12415	
+ALW85_RS09800-MONOMER		DUF3696 domain-containing protein	ALW85_RS09800	
+ALW85_RS12420-MONOMER		lipid asymmetry maintenance ABC transporter permease subunit MlaE	ALW85_RS12420	
+ALW85_RS07365-MONOMER		sulfurtransferase TusA family protein	ALW85_RS07365	
+ALW85_RS05690-MONOMER		TonB-dependent receptor plug domain-containing protein	ALW85_RS05690	
+ALW85_RS01270-MONOMER		hypothetical protein	ALW85_RS01270	
+ALW85_RS08420-MONOMER		ABC transporter ATP-binding protein/permease	ALW85_RS08420	
+ALW85_RS09805-MONOMER		hypothetical protein	ALW85_RS09805	
+ALW85_RS12425-MONOMER		ABC transporter ATP-binding protein	ALW85_RS12425	
+ALW85_RS05695-MONOMER		FecR domain-containing protein	ALW85_RS05695	
+ALW85_RS04910-MONOMER		hypothetical protein	ALW85_RS04910	
+ALW85_RS12430-MONOMER		thermonuclease family protein	ALW85_RS12430	
+ALW85_RS04740-MONOMER		ATP-dependent zinc metalloprotease FtsH	ALW85_RS04740	
+ALW85_RS12435-MONOMER		TIGR04211 family SH3 domain-containing protein	ALW85_RS12435	
+ALW85_RS02090-MONOMER		DUF167 domain-containing protein	ALW85_RS02090	
+ALW85_RS07370-MONOMER		GHKL domain-containing protein	ALW85_RS07370	
+ALW85_RS05700-MONOMER		sigma-70 family RNA polymerase sigma factor	ALW85_RS05700	
+ALW85_RS04195-MONOMER		CDP-alcohol phosphatidyltransferase family protein	ALW85_RS04195	
+ALW85_RS08425-MONOMER		multifunctional CCA addition/repair protein	ALW85_RS08425	
+ALW85_RS12440-MONOMER		hypothetical protein	ALW85_RS12440	
+ALW85_RS09810-MONOMER		RNA ligase family protein	ALW85_RS09810	
+ALW85_RS12445-MONOMER		divalent-cation tolerance protein CutA	ALW85_RS12445	
+ALW85_RS05705-MONOMER		TonB-dependent siderophore receptor	ALW85_RS05705	
+ALW85_RS03260-MONOMER		antibiotic biosynthesis monooxygenase	ALW85_RS03260	
+ALW85_RS05175-MONOMER		UDP-N-acetylmuramate--L-alanine ligase	ALW85_RS05175	
+ALW85_RS02215-MONOMER		50S ribosomal protein L15	ALW85_RS02215	
+ALW85_RS12450-MONOMER		protein-disulfide reductase DsbD	ALW85_RS12450	
+ALW85_RS13900-MONOMER		hypothetical protein	ALW85_RS13900	
+ALW85_RS07375-MONOMER		response regulator transcription factor	ALW85_RS07375	
+ALW85_RS12455-MONOMER		TlpA family protein disulfide reductase	ALW85_RS12455	
+ALW85_RS05710-MONOMER		FecR family protein	ALW85_RS05710	
+ALW85_RS02380-MONOMER		IS3 family transposase	ALW85_RS02380	
+ALW85_RS08430-MONOMER		transglycosylase SLT domain-containing protein	ALW85_RS08430	
+ALW85_RS02850-MONOMER		efflux RND transporter permease subunit	ALW85_RS02850	
+ALW85_RS03640-MONOMER		SPOR domain-containing protein	ALW85_RS03640	
+ALW85_RS09815-MONOMER		DUF202 domain-containing protein	ALW85_RS09815	
+ALW85_RS00965-MONOMER		glycosyltransferase	ALW85_RS00965	
+ALW85_RS05715-MONOMER		sigma-70 family RNA polymerase sigma factor	ALW85_RS05715	
+ALW85_RS00600-MONOMER		CRISPR-associated endonuclease Cas2	ALW85_RS00600	
+ALW85_RS07380-MONOMER		PepSY domain-containing protein	ALW85_RS07380	
+ALW85_RS05720-MONOMER		sigma-70 family RNA polymerase sigma factor	ALW85_RS05720	
+ALW85_RS04450-MONOMER		dienelactone hydrolase family protein	ALW85_RS04450	
+ALW85_RS08435-MONOMER		NADP-specific glutamate dehydrogenase	ALW85_RS08435	
+ALW85_RS09820-MONOMER		catalase	ALW85_RS09820	
+ALW85_RS05725-MONOMER		FecR domain-containing protein	ALW85_RS05725	
+ALW85_RS01120-MONOMER		protein TolR	ALW85_RS01120	
+ALW85_RS07385-MONOMER		hypothetical protein	ALW85_RS07385	
+ALW85_RS05730-MONOMER		GNAT family N-acetyltransferase	ALW85_RS05730	
+ALW85_RS08440-MONOMER		sigma-70 family RNA polymerase sigma factor	ALW85_RS08440	
+ALW85_RS13555-MONOMER		YfhL family 4Fe-4S dicluster ferredoxin	ALW85_RS13555	
+ALW85_RS09825-MONOMER		DUF3422 domain-containing protein	ALW85_RS09825	
+ALW85_RS02675-MONOMER		outer membrane protein assembly factor BamD	ALW85_RS02675	
+ALW85_RS05735-MONOMER		DUF1778 domain-containing protein	ALW85_RS05735	
+ALW85_RS01920-MONOMER		arginine--tRNA ligase	ALW85_RS01920	
+ALW85_RS04745-MONOMER		S-(hydroxymethyl)glutathione dehydrogenase/class III alcohol dehydrogenase	ALW85_RS04745	
+ALW85_RS07390-MONOMER		methane monooxygenase/ammonia monooxygenase subunit C	ALW85_RS07390	
+ALW85_RS05740-MONOMER		TonB-dependent receptor	ALW85_RS05740	
+ALW85_RS08460-MONOMER		type II toxin-antitoxin system prevent-host-death family antitoxin	ALW85_RS08460	
+ALW85_RS04210-MONOMER		DUF2959 domain-containing protein	ALW85_RS04210	
+ALW85_RS03115-MONOMER		uroporphyrinogen-III C-methyltransferase	ALW85_RS03115	
+ALW85_RS09830-MONOMER		sulfite exporter TauE/SafE family protein	ALW85_RS09830	
+ALW85_RS03265-MONOMER		cupin domain-containing protein	ALW85_RS03265	
+ALW85_RS05760-MONOMER		type II toxin-antitoxin system RelE/ParE family toxin	ALW85_RS05760	
+ALW85_RS02220-MONOMER		preprotein translocase subunit SecY	ALW85_RS02220	
+ALW85_RS03480-MONOMER		NYN domain-containing protein	ALW85_RS03480	
+ALW85_RS02530-MONOMER		type II toxin-antitoxin system VapC family toxin	ALW85_RS02530	
+ALW85_RS07395-MONOMER		2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	ALW85_RS07395	
+ALW85_RS01675-MONOMER		bacterial transcriptional activator domain-containing protein	ALW85_RS01675	
+ALW85_RS03935-MONOMER		Plug domain-containing protein	ALW85_RS03935	
+ALW85_RS05765-MONOMER		HigA family addiction module antidote protein	ALW85_RS05765	
+ALW85_RS08465-MONOMER		putative toxin-antitoxin system toxin component, PIN family	ALW85_RS08465	
+ALW85_RS02855-MONOMER		RNA polymerase sigma factor	ALW85_RS02855	
+ALW85_RS09835-MONOMER		EVE domain-containing protein	ALW85_RS09835	
+ALW85_RS00970-MONOMER		Rho-binding antiterminator	ALW85_RS00970	
+ALW85_RS05770-MONOMER		efflux transporter outer membrane subunit	ALW85_RS05770	
+ALW85_RS03800-MONOMER		hypothetical protein	ALW85_RS03800	
+ALW85_RS09840-MONOMER		cell division protein ZapA	ALW85_RS09840	
+ALW85_RS07400-MONOMER		permease-like cell division protein FtsX	ALW85_RS07400	
+ALW85_RS00745-MONOMER		DNA polymerase III subunit epsilon	ALW85_RS00745	
+ALW85_RS05775-MONOMER		multidrug efflux RND transporter permease subunit	ALW85_RS05775	
+ALW85_RS08475-MONOMER		methionine synthase	ALW85_RS08475	
+ALW85_RS00010-MONOMER		DNA polymerase III subunit beta	ALW85_RS00010	
+ALW85_RS09845-MONOMER		hypothetical protein	ALW85_RS09845	
+ALW85_RS04580-MONOMER		bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	ALW85_RS04580	
+ALW85_RS00145-MONOMER		adenosylmethionine--8-amino-7-oxononanoate transaminase	ALW85_RS00145	
+ALW85_RS05780-MONOMER		MexX/AxyX family multidrug efflux RND transporter periplasmic adaptor subunit	ALW85_RS05780	
+ALW85_RS09850-MONOMER		L-aspartate oxidase	ALW85_RS09850	
+ALW85_RS07405-MONOMER		ATP-binding cassette domain-containing protein	ALW85_RS07405	
+ALW85_RS05785-MONOMER		TetR family transcriptional regulator	ALW85_RS05785	
+ALW85_RS01275-MONOMER		hypothetical protein	ALW85_RS01275	
+ALW85_RS08480-MONOMER		glutamate--tRNA ligase	ALW85_RS08480	
+ALW85_RS14200-MONOMER		hypothetical protein	ALW85_RS14200	
+ALW85_RS05790-MONOMER		efflux transporter outer membrane subunit	ALW85_RS05790	
+ALW85_RS04915-MONOMER		IS481 family transposase	ALW85_RS04915	
+ALW85_RS02765-MONOMER		DoxX family protein	ALW85_RS02765	
+ALW85_RS09855-MONOMER		branched-chain amino acid transaminase	ALW85_RS09855	
+ALW85_RS04750-MONOMER		S-formylglutathione hydrolase	ALW85_RS04750	
+ALW85_RS07410-MONOMER		signal recognition particle-docking protein FtsY	ALW85_RS07410	
+ALW85_RS02095-MONOMER		ADP-ribosylglycohydrolase family protein	ALW85_RS02095	
+ALW85_RS01415-MONOMER		DUF1428 domain-containing protein	ALW85_RS01415	
+ALW85_RS05795-MONOMER		HlyD family efflux transporter periplasmic adaptor subunit	ALW85_RS05795	
+ALW85_RS14015-MONOMER		hypothetical protein	ALW85_RS14015	
+ALW85_RS04215-MONOMER		DUF721 domain-containing protein	ALW85_RS04215	
+ALW85_RS09860-MONOMER		zinc-finger domain-containing protein	ALW85_RS09860	
+ALW85_RS05180-MONOMER		UDP-N-acetylmuramate dehydrogenase	ALW85_RS05180	
+ALW85_RS05800-MONOMER		ribosome-associated ATPase/putative transporter RbbA	ALW85_RS05800	
+ALW85_RS02225-MONOMER		translation initiation factor IF-1	ALW85_RS02225	
+ALW85_RS03485-MONOMER		HAMP domain-containing histidine kinase	ALW85_RS03485	
+ALW85_RS09865-MONOMER		phosphomannomutase/phosphoglucomutase	ALW85_RS09865	
+ALW85_RS07415-MONOMER		insulinase family protein	ALW85_RS07415	
+ALW85_RS01680-MONOMER		helix-turn-helix transcriptional regulator	ALW85_RS01680	
+ALW85_RS05805-MONOMER		ABC transporter permease	ALW85_RS05805	
+ALW85_RS02395-MONOMER		IS481-like element ISNe2 family transposase	ALW85_RS02395	
+ALW85_RS08485-MONOMER		RNB domain-containing ribonuclease	ALW85_RS08485	
+ALW85_RS02860-MONOMER		FecR domain-containing protein	ALW85_RS02860	
+ALW85_RS04010-MONOMER		heme lyase CcmF/NrfE family subunit	ALW85_RS04010	
+ALW85_RS00975-MONOMER		PEP-CTERM sorting domain-containing protein	ALW85_RS00975	
+ALW85_RS05810-MONOMER		hypothetical protein	ALW85_RS05810	
+ALW85_RS00605-MONOMER		CRISPR-associated endonuclease Cas1	ALW85_RS00605	
+ALW85_RS09870-MONOMER		NAD+ synthase	ALW85_RS09870	
+ALW85_RS07420-MONOMER		alanine racemase	ALW85_RS07420	
+ALW85_RS13580-MONOMER		DUF1328 domain-containing protein	ALW85_RS13580	
+ALW85_RS04455-MONOMER		transglutaminase-like domain-containing protein	ALW85_RS04455	
+ALW85_RS08490-MONOMER		TonB family protein	ALW85_RS08490	
+ALW85_RS09875-MONOMER		M48 family metalloprotease	ALW85_RS09875	
+ALW85_RS05815-MONOMER		hypothetical protein	ALW85_RS05815	
+ALW85_RS00225-MONOMER		peptidyl-prolyl cis-trans isomerase	ALW85_RS00225	
+ALW85_RS01125-MONOMER		TonB family protein	ALW85_RS01125	
+ALW85_RS09880-MONOMER		efflux RND transporter periplasmic adaptor subunit	ALW85_RS09880	
+ALW85_RS07425-MONOMER		peptidyl-prolyl cis-trans isomerase	ALW85_RS07425	
+ALW85_RS05820-MONOMER		uracil-DNA glycosylase family protein	ALW85_RS05820	
+ALW85_RS08495-MONOMER		shikimate dehydrogenase	ALW85_RS08495	
+ALW85_RS05055-MONOMER		pantetheine-phosphate adenylyltransferase	ALW85_RS05055	
+ALW85_RS09885-MONOMER		ABC transporter ATP-binding protein	ALW85_RS09885	
+ALW85_RS05825-MONOMER		penicillin acylase family protein	ALW85_RS05825	
+ALW85_RS01925-MONOMER		SPOR domain-containing protein	ALW85_RS01925	
+ALW85_RS09890-MONOMER		ABC transporter permease	ALW85_RS09890	
+ALW85_RS04755-MONOMER		type III PLP-dependent enzyme	ALW85_RS04755	
+ALW85_RS07430-MONOMER		YciI family protein	ALW85_RS07430	
+ALW85_RS05835-MONOMER		PEP-CTERM-box response regulator transcription factor	ALW85_RS05835	
+ALW85_RS08500-MONOMER		monofunctional biosynthetic peptidoglycan transglycosylase	ALW85_RS08500	
+ALW85_RS04220-MONOMER		preprotein translocase subunit SecA	ALW85_RS04220	
+ALW85_RS03120-MONOMER		heme biosynthesis protein HemY	ALW85_RS03120	
+ALW85_RS01500-MONOMER		thiazole synthase	ALW85_RS01500	
+ALW85_RS09900-MONOMER		monovalent cation/H+ antiporter subunit A	ALW85_RS09900	
+ALW85_RS03270-MONOMER		dCTP deaminase	ALW85_RS03270	
+ALW85_RS05840-MONOMER		acyl-CoA ligase (AMP-forming), exosortase A system-associated	ALW85_RS05840	
+ALW85_RS13495-MONOMER		50S ribosomal protein L36	ALW85_RS13495	
+ALW85_RS03490-MONOMER		response regulator transcription factor	ALW85_RS03490	
+ALW85_RS05255-MONOMER		BON domain-containing protein	ALW85_RS05255	
+ALW85_RS02535-MONOMER		hypothetical protein	ALW85_RS02535	
+ALW85_RS07435-MONOMER		FAD-dependent oxidoreductase	ALW85_RS07435	
+ALW85_RS13850-MONOMER		hypothetical protein	ALW85_RS13850	
+ALW85_RS05845-MONOMER		pyridoxal-dependent decarboxylase, exosortase A system-associated	ALW85_RS05845	
+ALW85_RS14190-MONOMER		hypothetical protein	ALW85_RS14190	
+ALW85_RS02865-MONOMER		hypothetical protein	ALW85_RS02865	
+ALW85_RS09905-MONOMER		Na+/H+ antiporter subunit C	ALW85_RS09905	
+ALW85_RS05850-MONOMER		asparagine synthase	ALW85_RS05850	
+ALW85_RS03805-MONOMER		dihydroorotase	ALW85_RS03805	
+ALW85_RS09910-MONOMER		monovalent cation/H+ antiporter subunit D	ALW85_RS09910	
+ALW85_RS07440-MONOMER		protease HtpX	ALW85_RS07440	
+ALW85_RS00750-MONOMER		aspartate aminotransferase family protein	ALW85_RS00750	
+ALW85_RS05855-MONOMER		PEP-CTERM/exosortase system-associated acyltransferase	ALW85_RS05855	
+ALW85_RS08505-MONOMER		hypothetical protein	ALW85_RS08505	
+ALW85_RS00015-MONOMER		DNA topoisomerase (ATP-hydrolyzing) subunit B	ALW85_RS00015	
+ALW85_RS09915-MONOMER		Na+/H+ antiporter subunit E	ALW85_RS09915	
+ALW85_RS04585-MONOMER		phosphoribosylamine--glycine ligase	ALW85_RS04585	
+ALW85_RS05860-MONOMER		hypothetical protein	ALW85_RS05860	
+ALW85_RS09920-MONOMER		K+/H+ antiporter subunit F	ALW85_RS09920	
+ALW85_RS07445-MONOMER		VacJ family lipoprotein	ALW85_RS07445	
+ALW85_RS05865-MONOMER		hypothetical protein	ALW85_RS05865	
+ALW85_RS01280-MONOMER		hypothetical protein	ALW85_RS01280	
+ALW85_RS08520-MONOMER		hypothetical protein	ALW85_RS08520	
+ALW85_RS09925-MONOMER		monovalent cation/H(+) antiporter subunit G	ALW85_RS09925	
+ALW85_RS05870-MONOMER		diguanylate cyclase	ALW85_RS05870	
+ALW85_RS04920-MONOMER		helix-hairpin-helix domain-containing protein	ALW85_RS04920	
+ALW85_RS09930-MONOMER		hypothetical protein	ALW85_RS09930	
+ALW85_RS04760-MONOMER		hypothetical protein	ALW85_RS04760	
+ALW85_RS07450-MONOMER		glutamate-1-semialdehyde 2,1-aminomutase	ALW85_RS07450	
+ALW85_RS14265-MONOMER		hypothetical protein	ALW85_RS14265	
+ALW85_RS08525-MONOMER		magnesium transporter	ALW85_RS08525	
+ALW85_RS04225-MONOMER		ubiquinol-cytochrome c reductase iron-sulfur subunit	ALW85_RS04225	
+ALW85_RS09935-MONOMER		glutathione S-transferase family protein	ALW85_RS09935	
+ALW85_RS05890-MONOMER		OsmC family protein	ALW85_RS05890	
+ALW85_RS02230-MONOMER		30S ribosomal protein S13	ALW85_RS02230	
+ALW85_RS03495-MONOMER		TolC family protein	ALW85_RS03495	
+ALW85_RS09940-MONOMER		EAL domain-containing protein	ALW85_RS09940	
+ALW85_RS07455-MONOMER		thiamine phosphate synthase	ALW85_RS07455	
+ALW85_RS01690-MONOMER		GNAT family N-acetyltransferase	ALW85_RS01690	
+ALW85_RS05895-MONOMER		DNA polymerase III subunit delta	ALW85_RS05895	
+ALW85_RS02405-MONOMER		RNA polymerase-binding protein DksA	ALW85_RS02405	
+ALW85_RS08530-MONOMER		nucleotidyltransferase family protein	ALW85_RS08530	
+ALW85_RS02870-MONOMER		HupE/UreJ family protein	ALW85_RS02870	
+ALW85_RS03645-MONOMER		CvpA family protein	ALW85_RS03645	
+ALW85_RS09945-MONOMER		DedA family protein	ALW85_RS09945	
+ALW85_RS00980-MONOMER		IS481 family transposase	ALW85_RS00980	
+ALW85_RS05900-MONOMER		lipoprotein B transmembrane	ALW85_RS05900	
+ALW85_RS00610-MONOMER		CRISPR-associated endonuclease Cas2	ALW85_RS00610	
+ALW85_RS09950-MONOMER		Grx4 family monothiol glutaredoxin	ALW85_RS09950	
+ALW85_RS07460-MONOMER		bifunctional hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase	ALW85_RS07460	
+ALW85_RS05905-MONOMER		leucine--tRNA ligase	ALW85_RS05905	
+ALW85_RS08535-MONOMER		HprK-related kinase A	ALW85_RS08535	
+ALW85_RS09955-MONOMER		peptide chain release factor N(5)-glutamine methyltransferase	ALW85_RS09955	
+ALW85_RS05910-MONOMER		tRNA preQ1(34) S-adenosylmethionine ribosyltransferase-isomerase QueA	ALW85_RS05910	
+ALW85_RS01130-MONOMER		Tol-Pal system beta propeller repeat protein TolB	ALW85_RS01130	
+ALW85_RS09960-MONOMER		peptide chain release factor 1	ALW85_RS09960	
+ALW85_RS07465-MONOMER		rubredoxin	ALW85_RS07465	
+ALW85_RS05915-MONOMER		tRNA guanosine(34) transglycosylase Tgt	ALW85_RS05915	
+ALW85_RS08540-MONOMER		HPr-rel-A system PqqD family peptide chaperone	ALW85_RS08540	
+ALW85_RS05060-MONOMER		16S rRNA (guanine(966)-N(2))-methyltransferase RsmD	ALW85_RS05060	
+ALW85_RS02685-MONOMER		recombination-associated protein RdgC	ALW85_RS02685	
+ALW85_RS01930-MONOMER		thiol:disulfide interchange protein DsbA/DsbL	ALW85_RS01930	
+ALW85_RS04765-MONOMER		PepSY domain-containing protein	ALW85_RS04765	
+ALW85_RS07470-MONOMER		lactoylglutathione lyase	ALW85_RS07470	
+ALW85_RS08545-MONOMER		hypothetical protein	ALW85_RS08545	
+ALW85_RS03125-MONOMER		CDP-6-deoxy-delta-3,4-glucoseen reductase	ALW85_RS03125	
+ALW85_RS03275-MONOMER		iron-sulfur cluster carrier protein ApbC	ALW85_RS03275	
+ALW85_RS02235-MONOMER		30S ribosomal protein S11	ALW85_RS02235	
+ALW85_RS03500-MONOMER		efflux RND transporter permease subunit	ALW85_RS03500	
+ALW85_RS02540-MONOMER		HigA family addiction module antidote protein	ALW85_RS02540	
+ALW85_RS07475-MONOMER		iron-sulfur cluster insertion protein ErpA	ALW85_RS07475	
+ALW85_RS03940-MONOMER		DUF2149 domain-containing protein	ALW85_RS03940	
+ALW85_RS08550-MONOMER		CusA/CzcA family heavy metal efflux RND transporter	ALW85_RS08550	
+ALW85_RS02885-MONOMER		TonB-dependent receptor	ALW85_RS02885	
+ALW85_RS00985-MONOMER		helix-turn-helix domain-containing protein	ALW85_RS00985	
+ALW85_RS03810-MONOMER		HAMP domain-containing histidine kinase	ALW85_RS03810	
+ALW85_RS07480-MONOMER		anhydro-N-acetylmuramic acid kinase	ALW85_RS07480	
+ALW85_RS08555-MONOMER		efflux RND transporter periplasmic adaptor subunit	ALW85_RS08555	
+ALW85_RS00020-MONOMER		YbaN family protein	ALW85_RS00020	
+ALW85_RS04590-MONOMER		cupin domain-containing protein	ALW85_RS04590	
+ALW85_RS00150-MONOMER		co-chaperone GroES	ALW85_RS00150	
+ALW85_RS07485-MONOMER		peptidoglycan DD-metalloendopeptidase family protein	ALW85_RS07485	
+ALW85_RS01295-MONOMER		hypothetical protein	ALW85_RS01295	
+ALW85_RS08560-MONOMER		TolC family protein	ALW85_RS08560	
+ALW85_RS04925-MONOMER		LPXTG cell wall anchor domain-containing protein	ALW85_RS04925	
+ALW85_RS02770-MONOMER		CBS domain-containing protein	ALW85_RS02770	
+ALW85_RS04770-MONOMER		30S ribosomal protein S12 methylthiotransferase RimO	ALW85_RS04770	
+ALW85_RS07490-MONOMER		tyrosine--tRNA ligase	ALW85_RS07490	
+ALW85_RS02100-MONOMER		decarboxylating 6-phosphogluconate dehydrogenase	ALW85_RS02100	
+ALW85_RS01420-MONOMER		IS481 family transposase	ALW85_RS01420	
+ALW85_RS08565-MONOMER		hypothetical protein	ALW85_RS08565	
+ALW85_RS05185-MONOMER		D-alanine--D-alanine ligase	ALW85_RS05185	
+ALW85_RS02240-MONOMER		30S ribosomal protein S4	ALW85_RS02240	
+ALW85_RS03505-MONOMER		hypothetical protein	ALW85_RS03505	
+ALW85_RS07495-MONOMER		transcriptional regulator NrdR	ALW85_RS07495	
+ALW85_RS02410-MONOMER		alpha/beta hydrolase	ALW85_RS02410	
+ALW85_RS08570-MONOMER		Maf family nucleotide pyrophosphatase	ALW85_RS08570	
+ALW85_RS02890-MONOMER		RNA polymerase sigma factor	ALW85_RS02890	
+ALW85_RS04015-MONOMER		DsbE family thiol:disulfide interchange protein	ALW85_RS04015	
+ALW85_RS03650-MONOMER		amidophosphoribosyltransferase	ALW85_RS03650	
+ALW85_RS00990-MONOMER		nucleotidyltransferase family protein	ALW85_RS00990	
+ALW85_RS00615-MONOMER		TIGR02584 family CRISPR-associated protein	ALW85_RS00615	
+ALW85_RS04460-MONOMER		NADPH-dependent assimilatory sulfite reductase hemoprotein subunit	ALW85_RS04460	
+ALW85_RS08575-MONOMER		DUF177 domain-containing protein	ALW85_RS08575	
+ALW85_RS00230-MONOMER		peptidylprolyl isomerase	ALW85_RS00230	
+ALW85_RS01135-MONOMER		peptidoglycan-associated lipoprotein Pal	ALW85_RS01135	
+ALW85_RS07500-MONOMER		serine hydroxymethyltransferase	ALW85_RS07500	
+ALW85_RS08580-MONOMER		50S ribosomal protein L32	ALW85_RS08580	
+ALW85_RS05065-MONOMER		insulinase family protein	ALW85_RS05065	
+ALW85_RS01935-MONOMER		hypothetical protein	ALW85_RS01935	
+ALW85_RS04775-MONOMER		PEP-CTERM sorting domain-containing protein	ALW85_RS04775	
+ALW85_RS08585-MONOMER		phosphate acyltransferase PlsX	ALW85_RS08585	
+ALW85_RS03130-MONOMER		SDR family oxidoreductase	ALW85_RS03130	
+ALW85_RS01505-MONOMER		sulfur carrier protein ThiS	ALW85_RS01505	
+ALW85_RS03280-MONOMER		methionine--tRNA ligase	ALW85_RS03280	
+ALW85_RS02545-MONOMER		type II toxin-antitoxin system RelE/ParE family toxin	ALW85_RS02545	
+ALW85_RS07505-MONOMER		CADD family putative folate metabolism protein	ALW85_RS07505	
+ALW85_RS02245-MONOMER		DNA-directed RNA polymerase subunit alpha	ALW85_RS02245	
+ALW85_RS08590-MONOMER		ketoacyl-ACP synthase III	ALW85_RS08590	
+ALW85_RS03510-MONOMER		exodeoxyribonuclease I	ALW85_RS03510	
+ALW85_RS02895-MONOMER		FecR domain-containing protein	ALW85_RS02895	
+ALW85_RS03815-MONOMER		response regulator transcription factor	ALW85_RS03815	
+ALW85_RS07515-MONOMER		5-methyltetrahydropteroyltriglutamate-- homocysteine S-methyltransferase	ALW85_RS07515	
+ALW85_RS00755-MONOMER		nitrosocyanin	ALW85_RS00755	
+ALW85_RS08595-MONOMER		ACP S-malonyltransferase	ALW85_RS08595	
+ALW85_RS00025-MONOMER		rRNA pseudouridine synthase	ALW85_RS00025	
+ALW85_RS04595-MONOMER		esterase	ALW85_RS04595	
+ALW85_RS00995-MONOMER		phosphotransferase	ALW85_RS00995	
+ALW85_RS07520-MONOMER		argininosuccinate synthase	ALW85_RS07520	
+ALW85_RS01300-MONOMER		type IV secretory system conjugative DNA transfer family protein	ALW85_RS01300	
+ALW85_RS08600-MONOMER		3-oxoacyl-ACP reductase FabG	ALW85_RS08600	
+ALW85_RS04930-MONOMER		hypothetical protein	ALW85_RS04930	
+ALW85_RS14195-MONOMER		hypothetical protein	ALW85_RS14195	
+ALW85_RS02415-MONOMER		DUF4139 domain-containing protein	ALW85_RS02415	
+ALW85_RS07525-MONOMER		ornithine carbamoyltransferase	ALW85_RS07525	
+ALW85_RS02900-MONOMER		TonB-dependent receptor	ALW85_RS02900	
+ALW85_RS03655-MONOMER		O-succinylhomoserine sulfhydrylase	ALW85_RS03655	
+ALW85_RS14130-MONOMER		hypothetical protein	ALW85_RS14130	
+ALW85_RS07530-MONOMER		aspartate aminotransferase family protein	ALW85_RS07530	
+ALW85_RS04465-MONOMER		assimilatory sulfite reductase (NADPH) flavoprotein subunit	ALW85_RS04465	
+ALW85_RS08605-MONOMER		acyl carrier protein	ALW85_RS08605	
+ALW85_RS01140-MONOMER		tol-pal system protein YbgF	ALW85_RS01140	
+ALW85_RS07535-MONOMER		YdbL family protein	ALW85_RS07535	
+ALW85_RS08610-MONOMER		beta-ketoacyl-ACP synthase II	ALW85_RS08610	
+ALW85_RS04780-MONOMER		BolA family transcriptional regulator	ALW85_RS04780	
+ALW85_RS05070-MONOMER		VOC family protein	ALW85_RS05070	
+ALW85_RS02690-MONOMER		DUF1292 domain-containing protein	ALW85_RS02690	
+ALW85_RS01940-MONOMER		bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ALW85_RS01940	
+ALW85_RS07540-MONOMER		hypothetical protein	ALW85_RS07540	
+ALW85_RS03135-MONOMER		type II secretion system F family protein	ALW85_RS03135	
+ALW85_RS03285-MONOMER		aminopeptidase N	ALW85_RS03285	
+ALW85_RS02250-MONOMER		50S ribosomal protein L17	ALW85_RS02250	
+ALW85_RS02550-MONOMER		ABC transporter ATP-binding protein	ALW85_RS02550	
+ALW85_RS07545-MONOMER		hypothetical protein	ALW85_RS07545	
+ALW85_RS03945-MONOMER		MotA/TolQ/ExbB proton channel family protein	ALW85_RS03945	
+ALW85_RS03515-MONOMER		M48 family metallopeptidase	ALW85_RS03515	
+ALW85_RS08615-MONOMER		endolytic transglycosylase MltG	ALW85_RS08615	
+ALW85_RS02905-MONOMER		PepSY domain-containing protein	ALW85_RS02905	
+ALW85_RS03820-MONOMER		transcriptional repressor	ALW85_RS03820	
+ALW85_RS07550-MONOMER		cysteine synthase CysM	ALW85_RS07550	
+ALW85_RS00760-MONOMER		nucleoside-diphosphate kinase	ALW85_RS00760	
+ALW85_RS00045-MONOMER		ferredoxin family protein	ALW85_RS00045	
+ALW85_RS04600-MONOMER		ATP-dependent DNA helicase	ALW85_RS04600	
+ALW85_RS00155-MONOMER		chaperonin GroEL	ALW85_RS00155	
+ALW85_RS01000-MONOMER		accessory factor UbiK family protein	ALW85_RS01000	
+ALW85_RS07555-MONOMER		PEP-CTERM system TPR-repeat protein PrsT	ALW85_RS07555	
+ALW85_RS04935-MONOMER		methane monooxygenase/ammonia monooxygenase subunit B	ALW85_RS04935	
+ALW85_RS01305-MONOMER		LysE family transporter	ALW85_RS01305	
+ALW85_RS08620-MONOMER		glycosyltransferase family 39 protein	ALW85_RS08620	
+ALW85_RS02775-MONOMER		CBS domain-containing protein	ALW85_RS02775	
+ALW85_RS07560-MONOMER		NifU family protein	ALW85_RS07560	
+ALW85_RS02105-MONOMER		glucose-6-phosphate dehydrogenase	ALW85_RS02105	
+ALW85_RS01425-MONOMER		hypothetical protein	ALW85_RS01425	
+ALW85_RS08625-MONOMER		ZIP family metal transporter	ALW85_RS08625	
+ALW85_RS05920-MONOMER		preprotein translocase subunit YajC	ALW85_RS05920	
+ALW85_RS05190-MONOMER		cell division protein FtsQ/DivIB	ALW85_RS05190	
+ALW85_RS02420-MONOMER		hypothetical protein	ALW85_RS02420	
+ALW85_RS09965-MONOMER		glutamyl-tRNA reductase	ALW85_RS09965	
+ALW85_RS07565-MONOMER		SUF system NifU family Fe-S cluster assembly protein	ALW85_RS07565	
+ALW85_RS05925-MONOMER		protein translocase subunit SecD	ALW85_RS05925	
+ALW85_RS04230-MONOMER		cytochrome bc complex cytochrome b subunit	ALW85_RS04230	
+ALW85_RS08630-MONOMER		peptidoglycan editing factor PgeF	ALW85_RS08630	
+ALW85_RS02910-MONOMER		hypothetical protein	ALW85_RS02910	
+ALW85_RS04020-MONOMER		cytochrome c-type biogenesis protein CcmH	ALW85_RS04020	
+ALW85_RS03660-MONOMER		threonine ammonia-lyase, biosynthetic	ALW85_RS03660	
+ALW85_RS05930-MONOMER		protein translocase subunit SecF	ALW85_RS05930	
+ALW85_RS00620-MONOMER		TIGR02221 family CRISPR-associated protein	ALW85_RS00620	
+ALW85_RS09970-MONOMER		octaprenyl diphosphate synthase	ALW85_RS09970	
+ALW85_RS01695-MONOMER		TonB-dependent siderophore receptor	ALW85_RS01695	
+ALW85_RS07570-MONOMER		cysteine desulfurase	ALW85_RS07570	
+ALW85_RS02570-MONOMER		glycosyl transferase	ALW85_RS02570	
+ALW85_RS04470-MONOMER		HTH-type transcriptional regulator CysB	ALW85_RS04470	
+ALW85_RS08635-MONOMER		aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme	ALW85_RS08635	
+ALW85_RS02945-MONOMER		FecR family protein	ALW85_RS02945	
+ALW85_RS05935-MONOMER		DUF971 domain-containing protein	ALW85_RS05935	
+ALW85_RS03840-MONOMER		ATP-binding cassette domain-containing protein	ALW85_RS03840	
+ALW85_RS09980-MONOMER		hypothetical protein	ALW85_RS09980	
+ALW85_RS00235-MONOMER		cysteine--tRNA ligase	ALW85_RS00235	
+ALW85_RS01145-MONOMER		7-carboxy-7-deazaguanine synthase QueE	ALW85_RS01145	
+ALW85_RS07575-MONOMER		Fe-S cluster assembly protein SufD	ALW85_RS07575	
+ALW85_RS08640-MONOMER		acyl carrier protein	ALW85_RS08640	
+ALW85_RS04785-MONOMER		LemA family protein	ALW85_RS04785	
+ALW85_RS05075-MONOMER		hypothetical protein	ALW85_RS05075	
+ALW85_RS05940-MONOMER		bifunctional demethylmenaquinone methyltransferase/2-methoxy-6-polyprenyl-1,4-benzoquinol methylase UbiE	ALW85_RS05940	
+ALW85_RS00065-MONOMER		single-stranded-DNA-specific exonuclease RecJ	ALW85_RS00065	
+ALW85_RS01950-MONOMER		hypothetical protein	ALW85_RS01950	
+ALW85_RS09985-MONOMER		hypothetical protein	ALW85_RS09985	
+ALW85_RS07580-MONOMER		Fe-S cluster assembly ATPase SufC	ALW85_RS07580	
+ALW85_RS05945-MONOMER		agmatinase	ALW85_RS05945	
+ALW85_RS08645-MONOMER		NAD(P)-dependent oxidoreductase	ALW85_RS08645	
+ALW85_RS01325-MONOMER		Fic family protein	ALW85_RS01325	
+ALW85_RS03140-MONOMER		A24 family peptidase	ALW85_RS03140	
+ALW85_RS01510-MONOMER		MEKHLA domain-containing protein	ALW85_RS01510	
+ALW85_RS05950-MONOMER		signal peptidase II	ALW85_RS05950	
+ALW85_RS03290-MONOMER		TonB-dependent receptor	ALW85_RS03290	
+ALW85_RS09990-MONOMER		nitric oxide reductase activation protein NorD	ALW85_RS09990	
+ALW85_RS02260-MONOMER		RnfH family protein	ALW85_RS02260	
+ALW85_RS05260-MONOMER		FAD-binding protein	ALW85_RS05260	
+ALW85_RS02555-MONOMER		methyltransferase	ALW85_RS02555	
+ALW85_RS07585-MONOMER		Fe-S cluster assembly protein SufB	ALW85_RS07585	
+ALW85_RS05955-MONOMER		isoleucine--tRNA ligase	ALW85_RS05955	
+ALW85_RS03520-MONOMER		glycolate oxidase subunit GlcF	ALW85_RS03520	
+ALW85_RS04235-MONOMER		cytochrome c1	ALW85_RS04235	
+ALW85_RS00435-MONOMER		4a-hydroxytetrahydrobiopterin dehydratase	ALW85_RS00435	
+ALW85_RS08650-MONOMER		fatty acyl-AMP ligase	ALW85_RS08650	
+ALW85_RS02915-MONOMER		type II toxin-antitoxin system mRNA interferase toxin, RelE/StbE family	ALW85_RS02915	
+ALW85_RS05960-MONOMER		bifunctional riboflavin kinase/FAD synthetase	ALW85_RS05960	
+ALW85_RS03825-MONOMER		TonB-dependent siderophore receptor	ALW85_RS03825	
+ALW85_RS09995-MONOMER		CbbQ/NirQ/NorQ/GpvN family protein	ALW85_RS09995	
+ALW85_RS01700-MONOMER		oxidative damage protection protein	ALW85_RS01700	
+ALW85_RS07590-MONOMER		iron-sulfur cluster assembly accessory protein	ALW85_RS07590	
+ALW85_RS05965-MONOMER		group III truncated hemoglobin	ALW85_RS05965	
+ALW85_RS00765-MONOMER		23S rRNA (adenine(2503)-C(2))-methyltransferase RlmN	ALW85_RS00765	
+ALW85_RS08655-MONOMER		L,D-transpeptidase family protein	ALW85_RS08655	
+ALW85_RS02950-MONOMER		TonB-dependent receptor	ALW85_RS02950	
+ALW85_RS00050-MONOMER		exosortase system-associated protein, TIGR04073 family	ALW85_RS00050	
+ALW85_RS04605-MONOMER		LPS-assembly protein LptD	ALW85_RS04605	
+ALW85_RS05970-MONOMER		ABC transporter substrate-binding protein	ALW85_RS05970	
+ALW85_RS01005-MONOMER		YifB family Mg chelatase-like AAA ATPase	ALW85_RS01005	
+ALW85_RS10000-MONOMER		ribulose bisphosphate carboxylase small subunit	ALW85_RS10000	
+ALW85_RS07595-MONOMER		Rrf2 family transcriptional regulator	ALW85_RS07595	
+ALW85_RS05975-MONOMER		ABC transporter permease	ALW85_RS05975	
+ALW85_RS04940-MONOMER		methane monooxygenase/ammonia monooxygenase subunit A	ALW85_RS04940	
+ALW85_RS01310-MONOMER		IS630 family transposase	ALW85_RS01310	
+ALW85_RS08660-MONOMER		transcription elongation factor GreA	ALW85_RS08660	
+ALW85_RS05980-MONOMER		diguanylate cyclase	ALW85_RS05980	
+ALW85_RS10005-MONOMER		form I ribulose bisphosphate carboxylase large subunit	ALW85_RS10005	
+ALW85_RS07600-MONOMER		FtsX-like permease family protein	ALW85_RS07600	
+ALW85_RS05985-MONOMER		DnaJ domain-containing protein	ALW85_RS05985	
+ALW85_RS08665-MONOMER		carbamoyl-phosphate synthase large subunit	ALW85_RS08665	
+ALW85_RS05990-MONOMER		MerR family transcriptional regulator	ALW85_RS05990	
+ALW85_RS05095-MONOMER		nitrate/sulfonate/bicarbonate ABC transporter ATP-binding protein	ALW85_RS05095	
+ALW85_RS02425-MONOMER		flagellar biosynthetic protein FliR	ALW85_RS02425	
+ALW85_RS10010-MONOMER		LysR family transcriptional regulator	ALW85_RS10010	
+ALW85_RS07605-MONOMER		ABC transporter ATP-binding protein	ALW85_RS07605	
+ALW85_RS05995-MONOMER		DUF2914 domain-containing protein	ALW85_RS05995	
+ALW85_RS04240-MONOMER		glutathione S-transferase N-terminal domain-containing protein	ALW85_RS04240	
+ALW85_RS00440-MONOMER		ribosome small subunit-dependent GTPase A	ALW85_RS00440	
+ALW85_RS08670-MONOMER		glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit	ALW85_RS08670	
+ALW85_RS10015-MONOMER		chemotaxis response regulator CheY	ALW85_RS10015	
+ALW85_RS02920-MONOMER		type II toxin-antitoxin system VapC family toxin	ALW85_RS02920	
+ALW85_RS06000-MONOMER		NUDIX hydrolase	ALW85_RS06000	
+ALW85_RS10020-MONOMER		protein phosphatase CheZ	ALW85_RS10020	
+ALW85_RS00625-MONOMER		CRISPR-associated protein Csx16	ALW85_RS00625	
+ALW85_RS01705-MONOMER		polyphosphate kinase 1	ALW85_RS01705	
+ALW85_RS07610-MONOMER		arylesterase	ALW85_RS07610	
+ALW85_RS06010-MONOMER		hypothetical protein	ALW85_RS06010	
+ALW85_RS02575-MONOMER		AIPR family protein	ALW85_RS02575	
+ALW85_RS04475-MONOMER		phosphoadenylyl-sulfate reductase	ALW85_RS04475	
+ALW85_RS08675-MONOMER		M3 family metallopeptidase	ALW85_RS08675	
+ALW85_RS10025-MONOMER		IS481 family transposase	ALW85_RS10025	
+ALW85_RS13515-MONOMER		IS5 family transposase	ALW85_RS13515	
+ALW85_RS06020-MONOMER		exodeoxyribonuclease VII small subunit	ALW85_RS06020	
+ALW85_RS10030-MONOMER		carbonic anhydrase	ALW85_RS10030	
+ALW85_RS03845-MONOMER		cytochrome c	ALW85_RS03845	
+ALW85_RS01150-MONOMER		7-cyano-7-deazaguanine synthase QueC	ALW85_RS01150	
+ALW85_RS07615-MONOMER		RluA family pseudouridine synthase	ALW85_RS07615	
+ALW85_RS06025-MONOMER		polyprenyl synthetase family protein	ALW85_RS06025	
+ALW85_RS08680-MONOMER		dihydroorotase	ALW85_RS08680	
+ALW85_RS10035-MONOMER		SulP family inorganic anion transporter	ALW85_RS10035	
+ALW85_RS04790-MONOMER		YgcG family protein	ALW85_RS04790	
+ALW85_RS05080-MONOMER		hypothetical protein	ALW85_RS05080	
+ALW85_RS06030-MONOMER		1-deoxy-D-xylulose-5-phosphate synthase	ALW85_RS06030	
+ALW85_RS00070-MONOMER		cytochrome P460 family protein	ALW85_RS00070	
+ALW85_RS02695-MONOMER		SCO family protein	ALW85_RS02695	
+ALW85_RS01955-MONOMER		FAD-dependent oxidoreductase	ALW85_RS01955	
+ALW85_RS10040-MONOMER		Smr/MutS family protein	ALW85_RS10040	
+ALW85_RS07625-MONOMER		Rne/Rng family ribonuclease	ALW85_RS07625	
+ALW85_RS06035-MONOMER		hypothetical protein	ALW85_RS06035	
+ALW85_RS08685-MONOMER		aspartate carbamoyltransferase catalytic subunit	ALW85_RS08685	
+ALW85_RS10045-MONOMER		thioredoxin-disulfide reductase	ALW85_RS10045	
+ALW85_RS01335-MONOMER		IS3 family transposase	ALW85_RS01335	
+ALW85_RS03145-MONOMER		dephospho-CoA kinase	ALW85_RS03145	
+ALW85_RS06040-MONOMER		GTP cyclohydrolase FolE2	ALW85_RS06040	
+ALW85_RS03295-MONOMER		cobaltochelatase subunit CobN	ALW85_RS03295	
+ALW85_RS10050-MONOMER		alanine--tRNA ligase	ALW85_RS10050	
+ALW85_RS02265-MONOMER		type II toxin-antitoxin system RatA family toxin	ALW85_RS02265	
+ALW85_RS02560-MONOMER		glycoside hydrolase family 99-like domain-containing protein	ALW85_RS02560	
+ALW85_RS07630-MONOMER		site-specific tyrosine recombinase XerD	ALW85_RS07630	
+ALW85_RS06045-MONOMER		TIGR00645 family protein	ALW85_RS06045	
+ALW85_RS04245-MONOMER		ClpXP protease specificity-enhancing factor	ALW85_RS04245	
+ALW85_RS03950-MONOMER		cobaltochelatase subunit CobN	ALW85_RS03950	
+ALW85_RS03525-MONOMER		glycolate oxidase subunit GlcE	ALW85_RS03525	
+ALW85_RS00445-MONOMER		FKBP-type peptidyl-prolyl cis-trans isomerase	ALW85_RS00445	
+ALW85_RS08690-MONOMER		bifunctional pyr operon transcriptional regulator/uracil phosphoribosyltransferase PyrR	ALW85_RS08690	
+ALW85_RS10055-MONOMER		recombination regulator RecX	ALW85_RS10055	
+ALW85_RS02925-MONOMER		RNA polymerase sigma factor	ALW85_RS02925	
+ALW85_RS06050-MONOMER		pteridine reductase	ALW85_RS06050	
+ALW85_RS03830-MONOMER		tRNA 2-selenouridine(34) synthase MnmH	ALW85_RS03830	
+ALW85_RS10060-MONOMER		recombinase RecA	ALW85_RS10060	
+ALW85_RS01710-MONOMER		fructose-bisphosphate aldolase class II	ALW85_RS01710	
+ALW85_RS06055-MONOMER		SAM-dependent methyltransferase	ALW85_RS06055	
+ALW85_RS04610-MONOMER		chaperone SurA	ALW85_RS04610	
+ALW85_RS00770-MONOMER		type IV pilus biogenesis/stability protein PilW	ALW85_RS00770	
+ALW85_RS08695-MONOMER		Holliday junction resolvase RuvX	ALW85_RS08695	
+ALW85_RS10065-MONOMER		adenylate kinase	ALW85_RS10065	
+ALW85_RS02965-MONOMER		IS481-like element ISNe2 family transposase	ALW85_RS02965	
+ALW85_RS00055-MONOMER		transcription-repair coupling factor	ALW85_RS00055	
+ALW85_RS06060-MONOMER		purine phosphorylase	ALW85_RS06060	
+ALW85_RS00160-MONOMER		SDR family oxidoreductase	ALW85_RS00160	
+ALW85_RS01010-MONOMER		replicative DNA helicase	ALW85_RS01010	
+ALW85_RS10070-MONOMER		6-phosphofructokinase	ALW85_RS10070	
+ALW85_RS07635-MONOMER		cytochrome c biogenesis protein CcsA	ALW85_RS07635	
+ALW85_RS06065-MONOMER		squalene--hopene cyclase	ALW85_RS06065	
+ALW85_RS04945-MONOMER		methane monooxygenase/ammonia monooxygenase subunit C	ALW85_RS04945	
+ALW85_RS14285-MONOMER		hypothetical protein	ALW85_RS14285	
+ALW85_RS10075-MONOMER		sodium-translocating pyrophosphatase	ALW85_RS10075	
+ALW85_RS06070-MONOMER		VacJ family lipoprotein	ALW85_RS06070	
+ALW85_RS02125-MONOMER		elongation factor Tu	ALW85_RS02125	
+ALW85_RS10085-MONOMER		DUF3750 domain-containing protein	ALW85_RS10085	
+ALW85_RS02780-MONOMER		ribosome assembly RNA-binding protein YhbY	ALW85_RS02780	
+ALW85_RS06075-MONOMER		NAD-dependent epimerase/dehydratase family protein	ALW85_RS06075	
+ALW85_RS01430-MONOMER		plasmid mobilization relaxosome protein MobC	ALW85_RS01430	
+ALW85_RS08700-MONOMER		YqgE/AlgH family protein	ALW85_RS08700	
+ALW85_RS10100-MONOMER		IS481-like element ISNe2 family transposase	ALW85_RS10100	
+ALW85_RS06080-MONOMER		MotA/TolQ/ExbB proton channel family protein	ALW85_RS06080	
+ALW85_RS05100-MONOMER		ABC transporter permease subunit	ALW85_RS05100	
+ALW85_RS05195-MONOMER		cell division protein FtsA	ALW85_RS05195	
+ALW85_RS02430-MONOMER		flagellar biosynthesis protein FliQ	ALW85_RS02430	
+ALW85_RS13700-MONOMER		tyrosine-type recombinase/integrase	ALW85_RS13700	
+ALW85_RS07640-MONOMER		signal recognition particle protein	ALW85_RS07640	
+ALW85_RS06085-MONOMER		exodeoxyribonuclease VII large subunit	ALW85_RS06085	
+ALW85_RS04260-MONOMER		IS481 family transposase	ALW85_RS04260	
+ALW85_RS00450-MONOMER		GGDEF domain-containing response regulator	ALW85_RS00450	
+ALW85_RS02930-MONOMER		FecR domain-containing protein	ALW85_RS02930	
+ALW85_RS04025-MONOMER		c-type cytochrome biogenesis protein CcmI	ALW85_RS04025	
+ALW85_RS03665-MONOMER		type II toxin-antitoxin system RelE/ParE family toxin	ALW85_RS03665	
+ALW85_RS06090-MONOMER		DUF423 domain-containing protein	ALW85_RS06090	
+ALW85_RS10105-MONOMER		phage integrase N-terminal SAM-like domain-containing protein	ALW85_RS10105	
+ALW85_RS00630-MONOMER		CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6	ALW85_RS00630	
+ALW85_RS01715-MONOMER		pyruvate kinase	ALW85_RS01715	
+ALW85_RS07645-MONOMER		DUF192 domain-containing protein	ALW85_RS07645	
+ALW85_RS06095-MONOMER		THUMP domain-containing protein	ALW85_RS06095	
+ALW85_RS02580-MONOMER		HigA family addiction module antidote protein	ALW85_RS02580	
+ALW85_RS04480-MONOMER		sulfate adenylyltransferase subunit CysD	ALW85_RS04480	
+ALW85_RS08705-MONOMER		2-polyprenyl-3-methyl-6-methoxy-1,4-benzoquinone monooxygenase	ALW85_RS08705	
+ALW85_RS10110-MONOMER		GrpB family protein	ALW85_RS10110	
+ALW85_RS02970-MONOMER		PepSY domain-containing protein	ALW85_RS02970	
+ALW85_RS06100-MONOMER		disulfide bond formation protein B	ALW85_RS06100	
+ALW85_RS10115-MONOMER		OsmC family protein	ALW85_RS10115	
+ALW85_RS03850-MONOMER		cytochrome c	ALW85_RS03850	
+ALW85_RS00240-MONOMER		class I SAM-dependent methyltransferase	ALW85_RS00240	
+ALW85_RS01155-MONOMER		dihydroneopterin aldolase	ALW85_RS01155	
+ALW85_RS07650-MONOMER		dUTP diphosphatase	ALW85_RS07650	
+ALW85_RS06105-MONOMER		peptidoglycan-binding protein	ALW85_RS06105	
+ALW85_RS10120-MONOMER		NAD(P)/FAD-dependent oxidoreductase	ALW85_RS10120	
+ALW85_RS04795-MONOMER		TPM domain-containing protein	ALW85_RS04795	
+ALW85_RS05085-MONOMER		type II toxin-antitoxin system PemK/MazF family toxin	ALW85_RS05085	
+ALW85_RS06110-MONOMER		RidA family protein	ALW85_RS06110	
+ALW85_RS00075-MONOMER		indole-3-glycerol phosphate synthase TrpC	ALW85_RS00075	
+ALW85_RS01960-MONOMER		glycerophosphoryl diester phosphodiesterase	ALW85_RS01960	
+ALW85_RS10125-MONOMER		TetR/AcrR family transcriptional regulator	ALW85_RS10125	
+ALW85_RS07655-MONOMER		bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate--cysteine ligase CoaBC	ALW85_RS07655	
+ALW85_RS06115-MONOMER		IS481 family transposase	ALW85_RS06115	
+ALW85_RS08710-MONOMER		(Fe-S)-binding protein	ALW85_RS08710	
+ALW85_RS10130-MONOMER		mechanosensitive ion channel	ALW85_RS10130	
+ALW85_RS01340-MONOMER		IS481 family transposase	ALW85_RS01340	
+ALW85_RS03150-MONOMER		cell division protein ZapD	ALW85_RS03150	
+ALW85_RS01515-MONOMER		type II toxin-antitoxin system VapC family toxin	ALW85_RS01515	
+ALW85_RS06120-MONOMER		hypothetical protein	ALW85_RS06120	
+ALW85_RS03300-MONOMER		cobaltochelatase subunit CobN	ALW85_RS03300	
+ALW85_RS10135-MONOMER		molecular chaperone DnaJ	ALW85_RS10135	
+ALW85_RS02270-MONOMER		SsrA-binding protein SmpB	ALW85_RS02270	
+ALW85_RS05265-MONOMER		heme o synthase	ALW85_RS05265	
+ALW85_RS02565-MONOMER		UDP-N-acetylglucosamine 2-epimerase (non-hydrolyzing)	ALW85_RS02565	
+ALW85_RS06130-MONOMER		type II toxin-antitoxin system PemK/MazF family toxin	ALW85_RS06130	
+ALW85_RS04270-MONOMER		TonB-dependent receptor	ALW85_RS04270	
+ALW85_RS03530-MONOMER		FAD-binding protein	ALW85_RS03530	
+ALW85_RS00455-MONOMER		EI24 domain-containing protein	ALW85_RS00455	
+ALW85_RS10140-MONOMER		molecular chaperone DnaK	ALW85_RS10140	
+ALW85_RS02935-MONOMER		TonB-dependent receptor	ALW85_RS02935	
+ALW85_RS06135-MONOMER		hypothetical protein	ALW85_RS06135	
+ALW85_RS03835-MONOMER		selenide, water dikinase SelD	ALW85_RS03835	
+ALW85_RS10145-MONOMER		nucleotide exchange factor GrpE	ALW85_RS10145	
+ALW85_RS01720-MONOMER		phosphoglycerate kinase	ALW85_RS01720	
+ALW85_RS06140-MONOMER		S8 family peptidase	ALW85_RS06140	
+ALW85_RS07660-MONOMER		DNA repair protein RadC	ALW85_RS07660	
+ALW85_RS04615-MONOMER		4-hydroxythreonine-4-phosphate dehydrogenase PdxA	ALW85_RS04615	
+ALW85_RS00775-MONOMER		helix-turn-helix domain-containing protein	ALW85_RS00775	
+ALW85_RS08715-MONOMER		30S ribosomal protein S16	ALW85_RS08715	
+ALW85_RS10150-MONOMER		adenylosuccinate lyase	ALW85_RS10150	
+ALW85_RS02975-MONOMER		multicopper oxidase domain-containing protein	ALW85_RS02975	
+ALW85_RS00060-MONOMER		MgtC/SapB family protein	ALW85_RS00060	
+ALW85_RS06145-MONOMER		1-acyl-sn-glycerol-3-phosphate acyltransferase	ALW85_RS06145	
+ALW85_RS01015-MONOMER		50S ribosomal protein L9	ALW85_RS01015	
+ALW85_RS10155-MONOMER		glutathione S-transferase	ALW85_RS10155	
+ALW85_RS14165-MONOMER		hypothetical protein	ALW85_RS14165	
+ALW85_RS01320-MONOMER		hypothetical protein	ALW85_RS01320	
+ALW85_RS08720-MONOMER		ribosome maturation factor RimM	ALW85_RS08720	
+ALW85_RS10160-MONOMER		RNA methyltransferase	ALW85_RS10160	
+ALW85_RS06150-MONOMER		D-glycero-beta-D-manno-heptose 1,7-bisphosphate 7-phosphatase	ALW85_RS06150	
+ALW85_RS10165-MONOMER		inositol monophosphatase	ALW85_RS10165	
+ALW85_RS07665-MONOMER		50S ribosomal protein L28	ALW85_RS07665	
+ALW85_RS08725-MONOMER		tRNA (guanosine(37)-N1)-methyltransferase TrmD	ALW85_RS08725	
+ALW85_RS10170-MONOMER		MlaD family protein	ALW85_RS10170	
+ALW85_RS06155-MONOMER		glycine--tRNA ligase subunit beta	ALW85_RS06155	
+ALW85_RS05105-MONOMER		TonB-dependent receptor	ALW85_RS05105	
+ALW85_RS02435-MONOMER		flagellar type III secretion system pore protein FliP	ALW85_RS02435	
+ALW85_RS10175-MONOMER		ABC-type transport auxiliary lipoprotein family protein	ALW85_RS10175	
+ALW85_RS06160-MONOMER		glycine--tRNA ligase subunit alpha	ALW85_RS06160	
+ALW85_RS04275-MONOMER		hypothetical protein	ALW85_RS04275	
+ALW85_RS00460-MONOMER		hypothetical protein	ALW85_RS00460	
+ALW85_RS08730-MONOMER		50S ribosomal protein L19	ALW85_RS08730	
+ALW85_RS14045-MONOMER		lipoprotein	ALW85_RS14045	
+ALW85_RS02940-MONOMER		sigma-70 family RNA polymerase sigma factor	ALW85_RS02940	
+ALW85_RS03670-MONOMER		type II toxin-antitoxin system Phd/YefM family antitoxin	ALW85_RS03670	
+ALW85_RS06165-MONOMER		apolipoprotein N-acyltransferase	ALW85_RS06165	
+ALW85_RS10180-MONOMER		diaminopimelate decarboxylase	ALW85_RS10180	
+ALW85_RS00635-MONOMER		AbrB/MazE/SpoVT family DNA-binding domain-containing protein	ALW85_RS00635	
+ALW85_RS01725-MONOMER		type I glyceraldehyde-3-phosphate dehydrogenase	ALW85_RS01725	
+ALW85_RS07670-MONOMER		50S ribosomal protein L33	ALW85_RS07670	
+ALW85_RS06170-MONOMER		DUF6164 family protein	ALW85_RS06170	
+ALW85_RS02585-MONOMER		type II toxin-antitoxin system RelE/ParE family toxin	ALW85_RS02585	
+ALW85_RS04485-MONOMER		sulfate adenylyltransferase subunit CysN	ALW85_RS04485	
+ALW85_RS08735-MONOMER		IS481 family transposase	ALW85_RS08735	
+ALW85_RS10185-MONOMER		phytoene/squalene synthase family protein	ALW85_RS10185	
+ALW85_RS02980-MONOMER		multicopper oxidase domain-containing protein	ALW85_RS02980	
+ALW85_RS06175-MONOMER		TonB-dependent siderophore receptor	ALW85_RS06175	
+ALW85_RS10190-MONOMER		orotidine-5'-phosphate decarboxylase	ALW85_RS10190	
+ALW85_RS03855-MONOMER		DUF1841 family protein	ALW85_RS03855	
+ALW85_RS01160-MONOMER		glycerol-3-phosphate 1-O-acyltransferase PlsY	ALW85_RS01160	
+ALW85_RS06180-MONOMER		FecR domain-containing protein	ALW85_RS06180	
+ALW85_RS13665-MONOMER		glycosyltransferase	ALW85_RS13665	
+ALW85_RS10195-MONOMER		LapA family protein	ALW85_RS10195	
+ALW85_RS04800-MONOMER		RNA polymerase sigma factor	ALW85_RS04800	
+ALW85_RS05090-MONOMER		AbrB/MazE/SpoVT family DNA-binding domain-containing protein	ALW85_RS05090	
+ALW85_RS06185-MONOMER		sigma-70 family RNA polymerase sigma factor	ALW85_RS06185	
+ALW85_RS00080-MONOMER		anthranilate phosphoribosyltransferase	ALW85_RS00080	
+ALW85_RS02700-MONOMER		hypothetical protein	ALW85_RS02700	
+ALW85_RS01965-MONOMER		hypothetical protein	ALW85_RS01965	
+ALW85_RS10200-MONOMER		integration host factor subunit beta	ALW85_RS10200	
+ALW85_RS07675-MONOMER		fatty acid desaturase	ALW85_RS07675	
+ALW85_RS06190-MONOMER		patatin-like phospholipase family protein	ALW85_RS06190	
+ALW85_RS14025-MONOMER		glycosyltransferase	ALW85_RS14025	
+ALW85_RS10205-MONOMER		30S ribosomal protein S1	ALW85_RS10205	
+ALW85_RS01345-MONOMER		hypothetical protein	ALW85_RS01345	
+ALW85_RS13525-MONOMER		DNA gyrase inhibitor YacG	ALW85_RS13525	
+ALW85_RS13590-MONOMER		patatin-like phospholipase family protein	ALW85_RS13590	
+ALW85_RS03305-MONOMER		cobaltochelatase subunit CobN	ALW85_RS03305	
+ALW85_RS10210-MONOMER		(d)CMP kinase	ALW85_RS10210	
+ALW85_RS02275-MONOMER		COX15/CtaA family protein	ALW85_RS02275	
+ALW85_RS06200-MONOMER		NnrS family protein	ALW85_RS06200	
+ALW85_RS08745-MONOMER		arsenate reductase family protein	ALW85_RS08745	
+ALW85_RS04280-MONOMER		FecR family protein	ALW85_RS04280	
+ALW85_RS03955-MONOMER		TonB-dependent receptor	ALW85_RS03955	
+ALW85_RS03535-MONOMER		2-hydroxy-3-oxopropionate reductase	ALW85_RS03535	
+ALW85_RS00465-MONOMER		glycine zipper family protein	ALW85_RS00465	
+ALW85_RS10215-MONOMER		3-phosphoshikimate 1-carboxyvinyltransferase	ALW85_RS10215	
+ALW85_RS04620-MONOMER		16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))- dimethyltransferase RsmA	ALW85_RS04620	
+ALW85_RS00785-MONOMER		histidine--tRNA ligase	ALW85_RS00785	
+ALW85_RS08750-MONOMER		invasion associated locus B family protein	ALW85_RS08750	
+ALW85_RS10225-MONOMER		hypothetical protein	ALW85_RS10225	
+ALW85_RS01730-MONOMER		transketolase	ALW85_RS01730	
+ALW85_RS06205-MONOMER		ATP-binding cassette domain-containing protein	ALW85_RS06205	
+ALW85_RS08755-MONOMER		DUF2024 family protein	ALW85_RS08755	
+ALW85_RS02130-MONOMER		30S ribosomal protein S10	ALW85_RS02130	
+ALW85_RS10230-MONOMER		DNA topoisomerase III	ALW85_RS10230	
+ALW85_RS02785-MONOMER		RlmE family RNA methyltransferase	ALW85_RS02785	
+ALW85_RS13520-MONOMER		bacterial transcriptional activator domain-containing protein	ALW85_RS13520	
+ALW85_RS08760-MONOMER		O-methyltransferase	ALW85_RS08760	
+ALW85_RS00170-MONOMER		trigger factor	ALW85_RS00170	
+ALW85_RS01020-MONOMER		30S ribosomal protein S18	ALW85_RS01020	
+ALW85_RS10235-MONOMER		DUF494 domain-containing protein	ALW85_RS10235	
+ALW85_RS06210-MONOMER		ABC transporter permease subunit	ALW85_RS06210	
+ALW85_RS08765-MONOMER		O-antigen ligase family protein	ALW85_RS08765	
+ALW85_RS04030-MONOMER		peroxiredoxin	ALW85_RS04030	
+ALW85_RS04950-MONOMER		threonylcarbamoyl-AMP synthase	ALW85_RS04950	
+ALW85_RS10240-MONOMER		DNA-processing protein DprA	ALW85_RS10240	
+ALW85_RS08775-MONOMER		hypothetical protein	ALW85_RS08775	
+ALW85_RS10245-MONOMER		LysM peptidoglycan-binding domain-containing protein	ALW85_RS10245	
+ALW85_RS00245-MONOMER		flagellar motor protein MotB	ALW85_RS00245	
+ALW85_RS06215-MONOMER		PhnD/SsuA/transferrin family substrate-binding protein	ALW85_RS06215	
+ALW85_RS07680-MONOMER		DNA polymerase I	ALW85_RS07680	
+ALW85_RS08780-MONOMER		3-deoxy-manno-octulosonate cytidylyltransferase	ALW85_RS08780	
+ALW85_RS01445-MONOMER		cytochrome c	ALW85_RS01445	
+ALW85_RS10250-MONOMER		peptide deformylase	ALW85_RS10250	
+ALW85_RS08785-MONOMER		2,4-dihydroxyhept-2-ene-1,7-dioic acid aldolase	ALW85_RS08785	
+ALW85_RS05110-MONOMER		FecR domain-containing protein	ALW85_RS05110	
+ALW85_RS01520-MONOMER		IS481-like element ISNe2 family transposase	ALW85_RS01520	
+ALW85_RS05200-MONOMER		cell division protein FtsZ	ALW85_RS05200	
+ALW85_RS02440-MONOMER		flagellar biosynthetic protein FliO	ALW85_RS02440	
+ALW85_RS03310-MONOMER		MotA/TolQ/ExbB proton channel family protein	ALW85_RS03310	
+ALW85_RS10255-MONOMER		methionyl-tRNA formyltransferase	ALW85_RS10255	
+ALW85_RS06220-MONOMER		hypothetical protein	ALW85_RS06220	
+ALW85_RS08790-MONOMER		phosphoglycerate dehydrogenase	ALW85_RS08790	
+ALW85_RS04285-MONOMER		sigma-70 family RNA polymerase sigma factor	ALW85_RS04285	
+ALW85_RS00470-MONOMER		thioredoxin family protein	ALW85_RS00470	
+ALW85_RS10260-MONOMER		16S rRNA (cytosine(967)-C(5))-methyltransferase RsmB	ALW85_RS10260	
+ALW85_RS04625-MONOMER		methylated-DNA--[protein]-cysteine S-methyltransferase	ALW85_RS04625	
+ALW85_RS03675-MONOMER		hypothetical protein	ALW85_RS03675	
+ALW85_RS00790-MONOMER		tetratricopeptide repeat protein	ALW85_RS00790	
+ALW85_RS08795-MONOMER		NAD(P)-dependent oxidoreductase	ALW85_RS08795	
+ALW85_RS10265-MONOMER		DUF4390 domain-containing protein	ALW85_RS10265	
+ALW85_RS00640-MONOMER		type III-A CRISPR-associated RAMP protein Csm5	ALW85_RS00640	
+ALW85_RS01740-MONOMER		adenosyl-hopene transferase HpnH	ALW85_RS01740	
+ALW85_RS06225-MONOMER		hypothetical protein	ALW85_RS06225	
+ALW85_RS08800-MONOMER		HAD hydrolase-like protein	ALW85_RS08800	
+ALW85_RS02590-MONOMER		Rpn family recombination-promoting nuclease/putative transposase	ALW85_RS02590	
+ALW85_RS04490-MONOMER		FAD-dependent oxidoreductase	ALW85_RS04490	
+ALW85_RS10270-MONOMER		HAMP domain-containing protein	ALW85_RS10270	
+ALW85_RS02985-MONOMER		EAL domain-containing response regulator	ALW85_RS02985	
+ALW85_RS08805-MONOMER		6-phosphogluconolactonase	ALW85_RS08805	
+ALW85_RS10275-MONOMER		sigma-54 dependent transcriptional regulator	ALW85_RS10275	
+ALW85_RS03860-MONOMER		dioxygenase	ALW85_RS03860	
+ALW85_RS01165-MONOMER		tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD	ALW85_RS01165	
+ALW85_RS06230-MONOMER		DUF3147 family protein	ALW85_RS06230	
+ALW85_RS10290-MONOMER		tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA	ALW85_RS10290	
+ALW85_RS04805-MONOMER		DUF3619 family protein	ALW85_RS04805	
+ALW85_RS06235-MONOMER		universal stress protein	ALW85_RS06235	
+ALW85_RS08810-MONOMER		DMT family protein	ALW85_RS08810	
+ALW85_RS00085-MONOMER		aminodeoxychorismate/anthranilate synthase component II	ALW85_RS00085	
+ALW85_RS01975-MONOMER		efflux RND transporter periplasmic adaptor subunit	ALW85_RS01975	
+ALW85_RS10295-MONOMER		twin transmembrane helix small protein	ALW85_RS10295	
+ALW85_RS07685-MONOMER		TIGR00730 family Rossman fold protein	ALW85_RS07685	
+ALW85_RS06240-MONOMER		hypothetical protein	ALW85_RS06240	
+ALW85_RS10300-MONOMER		DNA polymerase III subunit alpha	ALW85_RS10300	
+ALW85_RS01350-MONOMER		hypothetical protein	ALW85_RS01350	
+ALW85_RS03155-MONOMER		lysophospholipid transporter LplT	ALW85_RS03155	
+ALW85_RS06245-MONOMER		PD40 domain-containing protein	ALW85_RS06245	
+ALW85_RS08815-MONOMER		DUF4126 domain-containing protein	ALW85_RS08815	
+ALW85_RS03315-MONOMER		DUF2149 domain-containing protein	ALW85_RS03315	
+ALW85_RS10305-MONOMER		tRNA 5-hydroxyuridine modification protein YegQ	ALW85_RS10305	
+ALW85_RS02280-MONOMER		RDD family protein	ALW85_RS02280	
+ALW85_RS04290-MONOMER		hypothetical protein	ALW85_RS04290	
+ALW85_RS03540-MONOMER		glucose-1-phosphate thymidylyltransferase RfbA	ALW85_RS03540	
+ALW85_RS00475-MONOMER		RsmB/NOP family class I SAM-dependent RNA methyltransferase	ALW85_RS00475	
+ALW85_RS10310-MONOMER		shikimate kinase	ALW85_RS10310	
+ALW85_RS04630-MONOMER		hypothetical protein	ALW85_RS04630	
+ALW85_RS00795-MONOMER		outer membrane protein assembly factor BamB	ALW85_RS00795	
+ALW85_RS06250-MONOMER		hypothetical protein	ALW85_RS06250	
+ALW85_RS08820-MONOMER		glucokinase	ALW85_RS08820	
+ALW85_RS01745-MONOMER		glycosyltransferase	ALW85_RS01745	
+ALW85_RS08825-MONOMER		serine acetyltransferase	ALW85_RS08825	
+ALW85_RS02135-MONOMER		50S ribosomal protein L3	ALW85_RS02135	
+ALW85_RS10315-MONOMER		3-dehydroquinate synthase	ALW85_RS10315	
+ALW85_RS02790-MONOMER		ATP-dependent zinc metalloprotease FtsH	ALW85_RS02790	
+ALW85_RS02990-MONOMER		dihydrofolate reductase	ALW85_RS02990	
+ALW85_RS06255-MONOMER		TonB-dependent receptor	ALW85_RS06255	
+ALW85_RS08830-MONOMER		NnrS family protein	ALW85_RS08830	
+ALW85_RS01025-MONOMER		primosomal replication protein N	ALW85_RS01025	
+ALW85_RS10320-MONOMER		deoxyguanosinetriphosphate triphosphohydrolase	ALW85_RS10320	
+ALW85_RS08835-MONOMER		O-acetylhomoserine aminocarboxypropyltransferase/cysteine synthase	ALW85_RS08835	
+ALW85_RS04035-MONOMER		malate dehydrogenase	ALW85_RS04035	
+ALW85_RS04955-MONOMER		HAD family hydrolase	ALW85_RS04955	
+ALW85_RS06260-MONOMER		glutathione peroxidase	ALW85_RS06260	
+ALW85_RS08840-MONOMER		IS1595-like element ISNe7 family transposase	ALW85_RS08840	
+ALW85_RS10325-MONOMER		sel1 repeat family protein	ALW85_RS10325	
+ALW85_RS00250-MONOMER		flagellar motor stator protein MotA	ALW85_RS00250	
+ALW85_RS07690-MONOMER		DUF2782 domain-containing protein	ALW85_RS07690	
+ALW85_RS08845-MONOMER		hypothetical protein	ALW85_RS08845	
+ALW85_RS10330-MONOMER		PepSY domain-containing protein	ALW85_RS10330	
+ALW85_RS06265-MONOMER		carbonate dehydratase	ALW85_RS06265	
+ALW85_RS10335-MONOMER		hypothetical protein	ALW85_RS10335	
+ALW85_RS08850-MONOMER		EAL domain-containing protein	ALW85_RS08850	
+ALW85_RS05115-MONOMER		sigma-70 family RNA polymerase sigma factor	ALW85_RS05115	
+ALW85_RS01525-MONOMER		ribbon-helix-helix protein, CopG family	ALW85_RS01525	
+ALW85_RS02445-MONOMER		flagellar motor switch protein FliN	ALW85_RS02445	
+ALW85_RS03320-MONOMER		hypothetical protein	ALW85_RS03320	
+ALW85_RS14205-MONOMER		hypothetical protein	ALW85_RS14205	
+ALW85_RS05270-MONOMER		membrane protein	ALW85_RS05270	
+ALW85_RS08855-MONOMER		peptide-methionine (S)-S-oxide reductase MsrA	ALW85_RS08855	
+ALW85_RS10345-MONOMER		TonB-dependent receptor	ALW85_RS10345	
+ALW85_RS04295-MONOMER		NAD(P)-dependent alcohol dehydrogenase	ALW85_RS04295	
+ALW85_RS00480-MONOMER		DUF3108 domain-containing protein	ALW85_RS00480	
+ALW85_RS10350-MONOMER		TonB-dependent receptor	ALW85_RS10350	
+ALW85_RS04635-MONOMER		hypothetical protein	ALW85_RS04635	
+ALW85_RS03680-MONOMER		type II secretion system secretin GspD	ALW85_RS03680	
+ALW85_RS00800-MONOMER		ribosome biogenesis GTPase Der	ALW85_RS00800	
+ALW85_RS06270-MONOMER		type II toxin-antitoxin system Phd/YefM family antitoxin	ALW85_RS06270	
+ALW85_RS08860-MONOMER		PEP-CTERM sorting domain-containing protein	ALW85_RS08860	
+ALW85_RS12460-MONOMER		FAD:protein FMN transferase	ALW85_RS12460	
+ALW85_RS10355-MONOMER		FecR family protein	ALW85_RS10355	
+ALW85_RS00645-MONOMER		hypothetical protein	ALW85_RS00645	
+ALW85_RS01750-MONOMER		ABC transporter substrate-binding protein	ALW85_RS01750	
+ALW85_RS07695-MONOMER		homoserine kinase	ALW85_RS07695	
+ALW85_RS08865-MONOMER		DUF190 domain-containing protein	ALW85_RS08865	
+ALW85_RS12465-MONOMER		NADH:ubiquinone reductase (Na(+)-transporting) subunit F	ALW85_RS12465	
+ALW85_RS02595-MONOMER		helix-turn-helix domain-containing protein	ALW85_RS02595	
+ALW85_RS04495-MONOMER		Re/Si-specific NAD(P)(+) transhydrogenase subunit alpha	ALW85_RS04495	
+ALW85_RS10370-MONOMER		RNA polymerase sigma factor	ALW85_RS10370	
+ALW85_RS02995-MONOMER		thymidylate synthase	ALW85_RS02995	
+ALW85_RS06275-MONOMER		secretion protein HlyD	ALW85_RS06275	
+ALW85_RS08870-MONOMER		fluoride efflux transporter CrcB	ALW85_RS08870	
+ALW85_RS12470-MONOMER		NADH:ubiquinone reductase (Na(+)-transporting) subunit E	ALW85_RS12470	
+ALW85_RS03865-MONOMER		cytochrome c	ALW85_RS03865	
+ALW85_RS01170-MONOMER		30S ribosomal protein S21	ALW85_RS01170	
+ALW85_RS08875-MONOMER		DNA mismatch repair protein MutS	ALW85_RS08875	
+ALW85_RS12475-MONOMER		NADH:ubiquinone reductase (Na(+)-transporting) subunit D	ALW85_RS12475	
+ALW85_RS10380-MONOMER		hypothetical protein	ALW85_RS10380	
+ALW85_RS04810-MONOMER		ABC transporter ATP-binding protein/permease	ALW85_RS04810	
+ALW85_RS06280-MONOMER		ATP-binding cassette domain-containing protein	ALW85_RS06280	
+ALW85_RS08880-MONOMER		peptidylprolyl isomerase	ALW85_RS08880	
+ALW85_RS12480-MONOMER		Na(+)-translocating NADH-quinone reductase subunit C	ALW85_RS12480	
+ALW85_RS00090-MONOMER		HAMP domain-containing histidine kinase	ALW85_RS00090	
+ALW85_RS02705-MONOMER		recombination-associated protein RdgC	ALW85_RS02705	
+ALW85_RS01980-MONOMER		CusA/CzcA family heavy metal efflux RND transporter	ALW85_RS01980	
+ALW85_RS10385-MONOMER		IS3 family transposase	ALW85_RS10385	
+ALW85_RS07705-MONOMER		UvrD-helicase domain-containing protein	ALW85_RS07705	
+ALW85_RS12485-MONOMER		NADH:ubiquinone reductase (Na(+)-transporting) subunit B	ALW85_RS12485	
+ALW85_RS10395-MONOMER		PQQ-dependent sugar dehydrogenase	ALW85_RS10395	
+ALW85_RS01355-MONOMER		hypothetical protein	ALW85_RS01355	
+ALW85_RS03160-MONOMER		Na+/H+ antiporter NhaC	ALW85_RS03160	
+ALW85_RS06285-MONOMER		ABC transporter permease	ALW85_RS06285	
+ALW85_RS08885-MONOMER		ribonuclease HII	ALW85_RS08885	
+ALW85_RS12490-MONOMER		Na(+)-translocating NADH-quinone reductase subunit A	ALW85_RS12490	
+ALW85_RS03325-MONOMER		cob(I)yrinic acid a,c-diamide adenosyltransferase	ALW85_RS03325	
+ALW85_RS10400-MONOMER		type II toxin-antitoxin system PrlF family antitoxin	ALW85_RS10400	
+ALW85_RS02285-MONOMER		DNA polymerase III subunit gamma/tau	ALW85_RS02285	
+ALW85_RS07710-MONOMER		phosphoribulokinase	ALW85_RS07710	
+ALW85_RS12495-MONOMER		CBS domain-containing protein	ALW85_RS12495	
+ALW85_RS04300-MONOMER		RES family NAD+ phosphorylase	ALW85_RS04300	
+ALW85_RS03960-MONOMER		ribosome maturation factor RimP	ALW85_RS03960	
+ALW85_RS03545-MONOMER		dTDP-4-dehydrorhamnose 3,5-epimerase	ALW85_RS03545	
+ALW85_RS00485-MONOMER		phosphoribosylglycinamide formyltransferase	ALW85_RS00485	
+ALW85_RS10405-MONOMER		type II toxin-antitoxin system YhaV family toxin	ALW85_RS10405	
+ALW85_RS04640-MONOMER		DNA replication protein	ALW85_RS04640	
+ALW85_RS00810-MONOMER		IS3-like element ISNeu4 family transposase	ALW85_RS00810	
+ALW85_RS06290-MONOMER		ABC transporter permease	ALW85_RS06290	
+ALW85_RS08890-MONOMER		3-hydroxyacyl-ACP dehydratase FabZ	ALW85_RS08890	
+ALW85_RS12500-MONOMER		J domain-containing protein	ALW85_RS12500	
+ALW85_RS10410-MONOMER		NAD-dependent succinate-semialdehyde dehydrogenase	ALW85_RS10410	
+ALW85_RS01755-MONOMER		DNA gyrase subunit A	ALW85_RS01755	
+ALW85_RS07715-MONOMER		M48 family metallopeptidase	ALW85_RS07715	
+ALW85_RS12505-MONOMER		pyridoxal phosphate-dependent aminotransferase	ALW85_RS12505	
+ALW85_RS02140-MONOMER		50S ribosomal protein L4	ALW85_RS02140	
+ALW85_RS10415-MONOMER		hypothetical protein	ALW85_RS10415	
+ALW85_RS02795-MONOMER		dihydropteroate synthase	ALW85_RS02795	
+ALW85_RS03000-MONOMER		leucyl aminopeptidase family protein	ALW85_RS03000	
+ALW85_RS06300-MONOMER		carbohydrate kinase	ALW85_RS06300	
+ALW85_RS08895-MONOMER		OmpH family outer membrane protein	ALW85_RS08895	
+ALW85_RS12510-MONOMER		5-histidylcysteine sulfoxide synthase	ALW85_RS12510	
+ALW85_RS00175-MONOMER		ATP-dependent Clp endopeptidase proteolytic subunit ClpP	ALW85_RS00175	
+ALW85_RS01030-MONOMER		30S ribosomal protein S6	ALW85_RS01030	
+ALW85_RS14315-MONOMER		DUF2569 domain-containing protein	ALW85_RS14315	
+ALW85_RS07720-MONOMER		ferrochelatase	ALW85_RS07720	
+ALW85_RS04040-MONOMER		dihydrolipoyl dehydrogenase	ALW85_RS04040	
+ALW85_RS04960-MONOMER		peptidoglycan DD-metalloendopeptidase family protein	ALW85_RS04960	
+ALW85_RS06305-MONOMER		HAD-IIB family hydrolase	ALW85_RS06305	
+ALW85_RS08900-MONOMER		outer membrane protein assembly factor BamA	ALW85_RS08900	
+ALW85_RS12515-MONOMER		ATP-dependent chaperone ClpB	ALW85_RS12515	
+ALW85_RS10425-MONOMER		cytochrome c	ALW85_RS10425	
+ALW85_RS00255-MONOMER		nucleoside deaminase	ALW85_RS00255	
+ALW85_RS07725-MONOMER		heat-inducible transcriptional repressor HrcA	ALW85_RS07725	
+ALW85_RS12520-MONOMER		4-hydroxy-tetrahydrodipicolinate synthase	ALW85_RS12520	
+ALW85_RS01450-MONOMER		hypothetical protein	ALW85_RS01450	
+ALW85_RS10430-MONOMER		cbb3-type cytochrome c oxidase subunit I	ALW85_RS10430	
+ALW85_RS06310-MONOMER		sucrose synthase	ALW85_RS06310	
+ALW85_RS08905-MONOMER		RIP metalloprotease RseP	ALW85_RS08905	
+ALW85_RS05120-MONOMER		DNA-3-methyladenine glycosylase	ALW85_RS05120	
+ALW85_RS01535-MONOMER		FecR domain-containing protein	ALW85_RS01535	
+ALW85_RS05205-MONOMER		hypothetical protein	ALW85_RS05205	
+ALW85_RS02450-MONOMER		flagellar motor switch protein FliM	ALW85_RS02450	
+ALW85_RS03330-MONOMER		hypothetical protein	ALW85_RS03330	
+ALW85_RS10435-MONOMER		CbbQ/NirQ/NorQ/GpvN family protein	ALW85_RS10435	
+ALW85_RS05275-MONOMER		SURF1 family protein	ALW85_RS05275	
+ALW85_RS12525-MONOMER		outer membrane protein assembly factor BamC	ALW85_RS12525	
+ALW85_RS04305-MONOMER		DUF2384 domain-containing protein	ALW85_RS04305	
+ALW85_RS00490-MONOMER		phosphoribosylformylglycinamidine cyclo-ligase	ALW85_RS00490	
+ALW85_RS10440-MONOMER		VWA domain-containing protein	ALW85_RS10440	
+ALW85_RS04645-MONOMER		hypothetical protein	ALW85_RS04645	
+ALW85_RS03685-MONOMER		hypothetical protein	ALW85_RS03685	
+ALW85_RS00815-MONOMER		efflux RND transporter periplasmic adaptor subunit	ALW85_RS00815	
+ALW85_RS06315-MONOMER		SDR family oxidoreductase	ALW85_RS06315	
+ALW85_RS08910-MONOMER		1-deoxy-D-xylulose-5-phosphate reductoisomerase	ALW85_RS08910	
+ALW85_RS12530-MONOMER		hypothetical protein	ALW85_RS12530	
+ALW85_RS00650-MONOMER		type III-A CRISPR-associated RAMP protein Csm3	ALW85_RS00650	
+ALW85_RS01760-MONOMER		3-phosphoserine/phosphohydroxythreonine transaminase	ALW85_RS01760	
+ALW85_RS06320-MONOMER		copper-translocating P-type ATPase	ALW85_RS06320	
+ALW85_RS07730-MONOMER		NAD kinase	ALW85_RS07730	
+ALW85_RS08915-MONOMER		phosphatidate cytidylyltransferase	ALW85_RS08915	
+ALW85_RS12535-MONOMER		murein biosynthesis integral membrane protein MurJ	ALW85_RS12535	
+ALW85_RS02600-MONOMER		type II toxin-antitoxin system RelE/ParE family toxin	ALW85_RS02600	
+ALW85_RS04500-MONOMER		NAD(P) transhydrogenase subunit alpha	ALW85_RS04500	
+ALW85_RS10450-MONOMER		autotransporter outer membrane beta-barrel domain-containing protein	ALW85_RS10450	
+ALW85_RS03005-MONOMER		DUF4389 domain-containing protein	ALW85_RS03005	
+ALW85_RS06325-MONOMER		sigma-70 family RNA polymerase sigma factor	ALW85_RS06325	
+ALW85_RS08920-MONOMER		di-trans,poly-cis-decaprenylcistransferase	ALW85_RS08920	
+ALW85_RS12540-MONOMER		hypothetical protein	ALW85_RS12540	
+ALW85_RS10455-MONOMER		autotransporter outer membrane beta-barrel domain-containing protein	ALW85_RS10455	
+ALW85_RS03870-MONOMER		hypothetical protein	ALW85_RS03870	
+ALW85_RS01175-MONOMER		GatB/YqeY domain-containing protein	ALW85_RS01175	
+ALW85_RS06330-MONOMER		FecR domain-containing protein	ALW85_RS06330	
+ALW85_RS07735-MONOMER		DNA repair protein RecN	ALW85_RS07735	
+ALW85_RS08925-MONOMER		ribosome recycling factor	ALW85_RS08925	
+ALW85_RS12545-MONOMER		flagellar transcriptional regulator FlhC	ALW85_RS12545	
+ALW85_RS10460-MONOMER		autotransporter outer membrane beta-barrel domain-containing protein	ALW85_RS10460	
+ALW85_RS04815-MONOMER		DUF1854 domain-containing protein	ALW85_RS04815	
+ALW85_RS06335-MONOMER		DNA polymerase IV	ALW85_RS06335	
+ALW85_RS08930-MONOMER		UMP kinase	ALW85_RS08930	
+ALW85_RS12550-MONOMER		flagellar transcriptional regulator FlhD	ALW85_RS12550	
+ALW85_RS00095-MONOMER		hypothetical protein	ALW85_RS00095	
+ALW85_RS01985-MONOMER		ABC transporter ATP-binding protein/permease	ALW85_RS01985	
+ALW85_RS06340-MONOMER		TonB-dependent receptor plug domain-containing protein	ALW85_RS06340	
+ALW85_RS07740-MONOMER		polymer-forming cytoskeletal protein	ALW85_RS07740	
+ALW85_RS08935-MONOMER		translation elongation factor Ts	ALW85_RS08935	
+ALW85_RS12555-MONOMER		DNA internalization-related competence protein ComEC/Rec2	ALW85_RS12555	
+ALW85_RS10480-MONOMER		IS481-like element ISNe2 family transposase	ALW85_RS10480	
+ALW85_RS01360-MONOMER		recombinase family protein	ALW85_RS01360	
+ALW85_RS03165-MONOMER		hypothetical protein	ALW85_RS03165	
+ALW85_RS06360-MONOMER		Rpn family recombination-promoting nuclease/putative transposase	ALW85_RS06360	
+ALW85_RS08940-MONOMER		30S ribosomal protein S2	ALW85_RS08940	
+ALW85_RS13780-MONOMER		YbdD/YjiX family protein	ALW85_RS13780	
+ALW85_RS03335-MONOMER		TonB-dependent vitamin B12 receptor	ALW85_RS03335	
+ALW85_RS10495-MONOMER		putative O-glycosylation ligase, exosortase A system-associated	ALW85_RS10495	
+ALW85_RS02290-MONOMER		YbaB/EbfC family nucleoid-associated protein	ALW85_RS02290	
+ALW85_RS07745-MONOMER		hypothetical protein	ALW85_RS07745	
+ALW85_RS08945-MONOMER		fumarate/nitrate reduction transcriptional regulator Fnr	ALW85_RS08945	
+ALW85_RS12560-MONOMER		carbon starvation protein A	ALW85_RS12560	
+ALW85_RS04310-MONOMER		hypothetical protein	ALW85_RS04310	
+ALW85_RS03550-MONOMER		UDP-glucose 4-epimerase GalE	ALW85_RS03550	
+ALW85_RS00495-MONOMER		AI-2E family transporter	ALW85_RS00495	
+ALW85_RS10500-MONOMER		polysaccharide deacetylase family protein	ALW85_RS10500	
+ALW85_RS04650-MONOMER		phage coat protein	ALW85_RS04650	
+ALW85_RS00820-MONOMER		multidrug efflux RND transporter permease subunit	ALW85_RS00820	
+ALW85_RS06365-MONOMER		AbrB/MazE/SpoVT family DNA-binding domain-containing protein	ALW85_RS06365	
+ALW85_RS08950-MONOMER		c-type cytochrome	ALW85_RS08950	
+ALW85_RS12565-MONOMER		IS481-like element ISNe2 family transposase	ALW85_RS12565	
+ALW85_RS01765-MONOMER		3-phosphoglycerate dehydrogenase family protein	ALW85_RS01765	
+ALW85_RS07750-MONOMER		N-acetyl-gamma-glutamyl-phosphate reductase	ALW85_RS07750	
+ALW85_RS02145-MONOMER		50S ribosomal protein L23	ALW85_RS02145	
+ALW85_RS08955-MONOMER		TonB-dependent receptor	ALW85_RS08955	
+ALW85_RS10505-MONOMER		hypothetical protein	ALW85_RS10505	
+ALW85_RS02800-MONOMER		phosphoglucosamine mutase	ALW85_RS02800	
+ALW85_RS03010-MONOMER		DUF2490 domain-containing protein	ALW85_RS03010	
+ALW85_RS06370-MONOMER		hypothetical protein	ALW85_RS06370	
+ALW85_RS13785-MONOMER		IS5 family transposase	ALW85_RS13785	
+ALW85_RS01035-MONOMER		ATP synthase subunit I	ALW85_RS01035	
+ALW85_RS07755-MONOMER		30S ribosomal protein S9	ALW85_RS07755	
+ALW85_RS06375-MONOMER		DUF2807 domain-containing protein	ALW85_RS06375	
+ALW85_RS14155-MONOMER		hypothetical protein	ALW85_RS14155	
+ALW85_RS04965-MONOMER		protein-L-isoaspartate(D-aspartate) O-methyltransferase	ALW85_RS04965	
+ALW85_RS08960-MONOMER		transcriptional repressor	ALW85_RS08960	
+ALW85_RS06380-MONOMER		hypothetical protein	ALW85_RS06380	
+ALW85_RS12580-MONOMER		IS481 family transposase	ALW85_RS12580	
+ALW85_RS00260-MONOMER		aldolase	ALW85_RS00260	
+ALW85_RS07760-MONOMER		50S ribosomal protein L13	ALW85_RS07760	
+ALW85_RS06385-MONOMER		putative Na+/H+ antiporter	ALW85_RS06385	
+ALW85_RS08965-MONOMER		hypothetical protein	ALW85_RS08965	
+ALW85_RS10510-MONOMER		glycosyltransferase family 2 protein	ALW85_RS10510	
+ALW85_RS06390-MONOMER		peptide chain release factor 2	ALW85_RS06390	
+ALW85_RS12585-MONOMER		HAMP domain-containing histidine kinase	ALW85_RS12585	
+ALW85_RS05125-MONOMER		division/cell wall cluster transcriptional repressor MraZ	ALW85_RS05125	
+ALW85_RS01540-MONOMER		DUF4974 domain-containing protein	ALW85_RS01540	
+ALW85_RS02455-MONOMER		flagellar basal body-associated protein FliL	ALW85_RS02455	
+ALW85_RS03340-MONOMER		twin-arginine translocase subunit TatC	ALW85_RS03340	
+ALW85_RS05280-MONOMER		cytochrome c oxidase subunit 3	ALW85_RS05280	
+ALW85_RS07765-MONOMER		D-alanyl-D-alanine carboxypeptidase	ALW85_RS07765	
+ALW85_RS12590-MONOMER		5-oxoprolinase/urea amidolyase family protein	ALW85_RS12590	
+ALW85_RS04315-MONOMER		cytochrome P460 family protein	ALW85_RS04315	
+ALW85_RS00500-MONOMER		AAA family ATPase	ALW85_RS00500	
+ALW85_RS08970-MONOMER		NnrS family protein	ALW85_RS08970	
+ALW85_RS10515-MONOMER		glycosyltransferase family 2 protein	ALW85_RS10515	
+ALW85_RS04660-MONOMER		hypothetical protein	ALW85_RS04660	
+ALW85_RS03690-MONOMER		type II secretion system protein M	ALW85_RS03690	
+ALW85_RS00825-MONOMER		HlyD family efflux transporter periplasmic adaptor subunit	ALW85_RS00825	
+ALW85_RS06395-MONOMER		DUF1207 domain-containing protein	ALW85_RS06395	
+ALW85_RS12595-MONOMER		urea carboxylase-associated family protein	ALW85_RS12595	
+ALW85_RS00655-MONOMER		type III-A CRISPR-associated protein Csm2	ALW85_RS00655	
+ALW85_RS01770-MONOMER		prephenate dehydratase	ALW85_RS01770	
+ALW85_RS07770-MONOMER		D-amino acid aminotransferase	ALW85_RS07770	
+ALW85_RS06400-MONOMER		tellurite resistance TerB family protein	ALW85_RS06400	
+ALW85_RS12600-MONOMER		urea carboxylase-associated family protein	ALW85_RS12600	
+ALW85_RS02620-MONOMER		hypothetical protein	ALW85_RS02620	
+ALW85_RS04505-MONOMER		NAD(P)(+) transhydrogenase (Re/Si-specific) subunit beta	ALW85_RS04505	
+ALW85_RS08975-MONOMER		PHP domain-containing protein	ALW85_RS08975	
+ALW85_RS10520-MONOMER		CDP-glycerol glycerophosphotransferase family protein	ALW85_RS10520	
+ALW85_RS03015-MONOMER		CysB family HTH-type transcriptional regulator	ALW85_RS03015	
+ALW85_RS06405-MONOMER		catalase family protein	ALW85_RS06405	
+ALW85_RS12605-MONOMER		APC family permease	ALW85_RS12605	
+ALW85_RS03875-MONOMER		FAD-binding oxidoreductase	ALW85_RS03875	
+ALW85_RS01180-MONOMER		DNA primase	ALW85_RS01180	
+ALW85_RS07775-MONOMER		DUF493 domain-containing protein	ALW85_RS07775	
+ALW85_RS06410-MONOMER		peroxidase	ALW85_RS06410	
+ALW85_RS14240-MONOMER		hypothetical protein	ALW85_RS14240	
+ALW85_RS08980-MONOMER		threonylcarbamoyl-AMP synthase	ALW85_RS08980	
+ALW85_RS04820-MONOMER		type II toxin-antitoxin system PemK/MazF family toxin	ALW85_RS04820	
+ALW85_RS06415-MONOMER		hypothetical protein	ALW85_RS06415	
+ALW85_RS12610-MONOMER		urea carboxylase	ALW85_RS12610	
+ALW85_RS00100-MONOMER		sigma 54-interacting transcriptional regulator	ALW85_RS00100	
+ALW85_RS02710-MONOMER		hypothetical protein	ALW85_RS02710	
+ALW85_RS01995-MONOMER		PEP-CTERM system histidine kinase PrsK	ALW85_RS01995	
+ALW85_RS10525-MONOMER		glycosyltransferase family 4 protein	ALW85_RS10525	
+ALW85_RS07780-MONOMER		lipoyl(octanoyl) transferase LipB	ALW85_RS07780	
+ALW85_RS06420-MONOMER		hypothetical protein	ALW85_RS06420	
+ALW85_RS12615-MONOMER		transglycosylase SLT domain-containing protein	ALW85_RS12615	
+ALW85_RS08985-MONOMER		site-2 protease family protein	ALW85_RS08985	
+ALW85_RS01365-MONOMER		hypothetical protein	ALW85_RS01365	
+ALW85_RS03170-MONOMER		DUF1275 domain-containing protein	ALW85_RS03170	
+ALW85_RS06430-MONOMER		hypothetical protein	ALW85_RS06430	
+ALW85_RS12620-MONOMER		ribonucleotide-diphosphate reductase subunit beta	ALW85_RS12620	
+ALW85_RS03345-MONOMER		Sec-independent protein translocase protein TatB	ALW85_RS03345	
+ALW85_RS10530-MONOMER		lipopolysaccharide biosynthesis protein	ALW85_RS10530	
+ALW85_RS02295-MONOMER		pseudouridine synthase	ALW85_RS02295	
+ALW85_RS07785-MONOMER		lipoyl synthase	ALW85_RS07785	
+ALW85_RS06435-MONOMER		GMC family oxidoreductase N-terminal domain-containing protein	ALW85_RS06435	
+ALW85_RS12625-MONOMER		ribonucleoside-diphosphate reductase subunit alpha	ALW85_RS12625	
+ALW85_RS04320-MONOMER		ABC transporter permease	ALW85_RS04320	
+ALW85_RS03965-MONOMER		transcription termination factor NusA	ALW85_RS03965	
+ALW85_RS03555-MONOMER		formate/nitrite transporter family protein	ALW85_RS03555	
+ALW85_RS00505-MONOMER		universal stress protein	ALW85_RS00505	
+ALW85_RS08990-MONOMER		tryptophan--tRNA ligase	ALW85_RS08990	
+ALW85_RS04665-MONOMER		DUF2523 domain-containing protein	ALW85_RS04665	
+ALW85_RS00830-MONOMER		type I secretion system permease/ATPase	ALW85_RS00830	
+ALW85_RS06440-MONOMER		oxygenase	ALW85_RS06440	
+ALW85_RS12640-MONOMER		pyrimidine dimer DNA glycosylase/endonuclease V	ALW85_RS12640	
+ALW85_RS10565-MONOMER		IS481-like element ISNe2 family transposase	ALW85_RS10565	
+ALW85_RS01775-MONOMER		histidinol-phosphate transaminase	ALW85_RS01775	
+ALW85_RS12645-MONOMER		class I SAM-dependent methyltransferase	ALW85_RS12645	
+ALW85_RS02150-MONOMER		50S ribosomal protein L2	ALW85_RS02150	
+ALW85_RS08995-MONOMER		segregation/condensation protein A	ALW85_RS08995	
+ALW85_RS10570-MONOMER		1,4-alpha-glucan branching protein GlgB	ALW85_RS10570	
+ALW85_RS02805-MONOMER		PstS family phosphate ABC transporter substrate-binding protein	ALW85_RS02805	
+ALW85_RS03020-MONOMER		cysteine desulfurase	ALW85_RS03020	
+ALW85_RS06445-MONOMER		lipoxygenase	ALW85_RS06445	
+ALW85_RS12650-MONOMER		DUF393 domain-containing protein	ALW85_RS12650	
+ALW85_RS00180-MONOMER		ATP-dependent Clp protease ATP-binding subunit ClpX	ALW85_RS00180	
+ALW85_RS01040-MONOMER		F0F1 ATP synthase subunit A	ALW85_RS01040	
+ALW85_RS10575-MONOMER		glucose-1-phosphate adenylyltransferase	ALW85_RS10575	
+ALW85_RS07790-MONOMER		tRNA 2-thiocytidine(32) synthetase TtcA	ALW85_RS07790	
+ALW85_RS06450-MONOMER		cyclooxygenase	ALW85_RS06450	
+ALW85_RS12655-MONOMER		hypothetical protein	ALW85_RS12655	
+ALW85_RS04050-MONOMER		RNA methyltransferase	ALW85_RS04050	
+ALW85_RS04970-MONOMER		5'/3'-nucleotidase SurE	ALW85_RS04970	
+ALW85_RS09000-MONOMER		SMC-Scp complex subunit ScpB	ALW85_RS09000	
+ALW85_RS10580-MONOMER		glycoside hydrolase	ALW85_RS10580	
+ALW85_RS12660-MONOMER		type II toxin-antitoxin system VapC family toxin	ALW85_RS12660	
+ALW85_RS10585-MONOMER		DUF1926 domain-containing protein	ALW85_RS10585	
+ALW85_RS00265-MONOMER		response regulator	ALW85_RS00265	
+ALW85_RS06455-MONOMER		tyrosinase family protein	ALW85_RS06455	
+ALW85_RS12665-MONOMER		AbrB/MazE/SpoVT family DNA-binding domain-containing protein	ALW85_RS12665	
+ALW85_RS01455-MONOMER		type I methionyl aminopeptidase	ALW85_RS01455	
+ALW85_RS09005-MONOMER		NADP-dependent isocitrate dehydrogenase	ALW85_RS09005	
+ALW85_RS06460-MONOMER		hypothetical protein	ALW85_RS06460	
+ALW85_RS12670-MONOMER		type II toxin-antitoxin system Phd/YefM family antitoxin	ALW85_RS12670	
+ALW85_RS05130-MONOMER		16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH	ALW85_RS05130	
+ALW85_RS14140-MONOMER		hypothetical protein	ALW85_RS14140	
+ALW85_RS05210-MONOMER		phosphate ABC transporter permease subunit PstC	ALW85_RS05210	
+ALW85_RS02460-MONOMER		alpha-glucan family phosphorylase	ALW85_RS02460	
+ALW85_RS03350-MONOMER		Sec-independent protein translocase subunit TatA	ALW85_RS03350	
+ALW85_RS10590-MONOMER		glucosidase	ALW85_RS10590	
+ALW85_RS05285-MONOMER		DUF2970 domain-containing protein	ALW85_RS05285	
+ALW85_RS07795-MONOMER		cupredoxin family protein	ALW85_RS07795	
+ALW85_RS06465-MONOMER		hypothetical protein	ALW85_RS06465	
+ALW85_RS12675-MONOMER		hypothetical protein	ALW85_RS12675	
+ALW85_RS04325-MONOMER		ABC transporter permease	ALW85_RS04325	
+ALW85_RS14125-MONOMER		hypothetical protein	ALW85_RS14125	
+ALW85_RS09010-MONOMER		cold-shock protein	ALW85_RS09010	
+ALW85_RS10595-MONOMER		selenium metabolism membrane protein YedE/FdhT	ALW85_RS10595	
+ALW85_RS04670-MONOMER		hypothetical protein	ALW85_RS04670	
+ALW85_RS03695-MONOMER		IS3 family transposase	ALW85_RS03695	
+ALW85_RS00835-MONOMER		TolC family protein	ALW85_RS00835	
+ALW85_RS06470-MONOMER		hypothetical protein	ALW85_RS06470	
+ALW85_RS12680-MONOMER		PepSY domain-containing protein	ALW85_RS12680	
+ALW85_RS10600-MONOMER		sulfurtransferase-like selenium metabolism protein YedF	ALW85_RS10600	
+ALW85_RS00660-MONOMER		type III-A CRISPR-associated protein Cas10/Csm1	ALW85_RS00660	
+ALW85_RS01780-MONOMER		prephenate dehydrogenase/arogenate dehydrogenase family protein	ALW85_RS01780	
+ALW85_RS07800-MONOMER		DUF411 domain-containing protein	ALW85_RS07800	
+ALW85_RS14170-MONOMER		hypothetical protein	ALW85_RS14170	
+ALW85_RS12685-MONOMER		TonB-dependent receptor	ALW85_RS12685	
+ALW85_RS02630-MONOMER		AbrB/MazE/SpoVT family DNA-binding domain-containing protein	ALW85_RS02630	
+ALW85_RS04510-MONOMER		sel1 repeat family protein	ALW85_RS04510	
+ALW85_RS09015-MONOMER		ATP-dependent Clp protease adapter ClpS	ALW85_RS09015	
+ALW85_RS10605-MONOMER		efflux RND transporter permease subunit	ALW85_RS10605	
+ALW85_RS03025-MONOMER		hypothetical protein	ALW85_RS03025	
+ALW85_RS06485-MONOMER		lysine 2,3-aminomutase	ALW85_RS06485	
+ALW85_RS12690-MONOMER		FecR family protein	ALW85_RS12690	
+ALW85_RS10610-MONOMER		efflux RND transporter periplasmic adaptor subunit	ALW85_RS10610	
+ALW85_RS03880-MONOMER		NAD(P)-dependent alcohol dehydrogenase	ALW85_RS03880	
+ALW85_RS01185-MONOMER		RNA polymerase sigma factor RpoD	ALW85_RS01185	
+ALW85_RS07805-MONOMER		cytochrome c	ALW85_RS07805	
+ALW85_RS12695-MONOMER		sigma-70 family RNA polymerase sigma factor	ALW85_RS12695	
+ALW85_RS09020-MONOMER		ATP-dependent Clp protease ATP-binding subunit ClpA	ALW85_RS09020	
+ALW85_RS10615-MONOMER		heme peroxidase family protein	ALW85_RS10615	
+ALW85_RS04825-MONOMER		type II toxin-antitoxin system PrlF family antitoxin	ALW85_RS04825	
+ALW85_RS13605-MONOMER		transposase	ALW85_RS13605	
+ALW85_RS12705-MONOMER		EcsC family protein	ALW85_RS12705	
+ALW85_RS02005-MONOMER		serine protease	ALW85_RS02005	
+ALW85_RS10625-MONOMER		DEAD/DEAH box helicase	ALW85_RS10625	
+ALW85_RS07810-MONOMER		CHAD domain-containing protein	ALW85_RS07810	
+ALW85_RS06495-MONOMER		Hpt domain-containing protein	ALW85_RS06495	
+ALW85_RS12710-MONOMER		glucans biosynthesis protein MdoG	ALW85_RS12710	
+ALW85_RS09025-MONOMER		orotate phosphoribosyltransferase	ALW85_RS09025	
+ALW85_RS10630-MONOMER		hypothetical protein	ALW85_RS10630	
+ALW85_RS01370-MONOMER		hypothetical protein	ALW85_RS01370	
+ALW85_RS03175-MONOMER		class I SAM-dependent methyltransferase	ALW85_RS03175	
+ALW85_RS06500-MONOMER		methyl-accepting chemotaxis protein	ALW85_RS06500	
+ALW85_RS12715-MONOMER		glucans biosynthesis glucosyltransferase MdoH	ALW85_RS12715	
+ALW85_RS03355-MONOMER		histidine triad nucleotide-binding protein	ALW85_RS03355	
+ALW85_RS02300-MONOMER		50S ribosomal protein L3 N(5)-glutamine methyltransferase	ALW85_RS02300	
+ALW85_RS07815-MONOMER		AAA family ATPase	ALW85_RS07815	
+ALW85_RS06505-MONOMER		type II secretion system GspH family protein	ALW85_RS06505	
+ALW85_RS13795-MONOMER		CsbD family protein	ALW85_RS13795	
+ALW85_RS04330-MONOMER		ABC transporter ATP-binding protein	ALW85_RS04330	
+ALW85_RS03560-MONOMER		hypothetical protein	ALW85_RS03560	
+ALW85_RS00515-MONOMER		RecQ family ATP-dependent DNA helicase	ALW85_RS00515	
+ALW85_RS09030-MONOMER		ABC transporter substrate-binding protein	ALW85_RS09030	
+ALW85_RS10635-MONOMER		cytochrome c554	ALW85_RS10635	
+ALW85_RS04675-MONOMER		DUF3653 domain-containing protein	ALW85_RS04675	
+ALW85_RS00840-MONOMER		Ig-like domain=containing protein	ALW85_RS00840	
+ALW85_RS06510-MONOMER		prepilin-type N-terminal cleavage/methylation domain-containing protein	ALW85_RS06510	
+ALW85_RS12725-MONOMER		hypothetical protein	ALW85_RS12725	
+ALW85_RS10640-MONOMER		hydroxylamine oxidation protein HaoB	ALW85_RS10640	
+ALW85_RS01785-MONOMER		tyrosine recombinase XerC	ALW85_RS01785	
+ALW85_RS07820-MONOMER		CYTH domain-containing protein	ALW85_RS07820	
+ALW85_RS13610-MONOMER		prepilin-type N-terminal cleavage/methylation domain-containing protein	ALW85_RS13610	
+ALW85_RS12730-MONOMER		hypothetical protein	ALW85_RS12730	
+ALW85_RS13480-MONOMER		30S ribosomal protein S19	ALW85_RS13480	
+ALW85_RS09035-MONOMER		ABC transporter permease subunit	ALW85_RS09035	
+ALW85_RS10645-MONOMER		hydroxylamine oxidoreductase	ALW85_RS10645	
+ALW85_RS02810-MONOMER		siroheme synthase CysG	ALW85_RS02810	
+ALW85_RS03030-MONOMER		serine acetyltransferase	ALW85_RS03030	
+ALW85_RS12735-MONOMER		IS481 family transposase	ALW85_RS12735	
+ALW85_RS01045-MONOMER		F0F1 ATP synthase subunit C	ALW85_RS01045	
+ALW85_RS10650-MONOMER		DNA-directed RNA polymerase subunit beta'	ALW85_RS10650	
+ALW85_RS07830-MONOMER		DUF3460 family protein	ALW85_RS07830	
+ALW85_RS06515-MONOMER		type II secretion system major pseudopilin GspG	ALW85_RS06515	
+ALW85_RS12740-MONOMER		DUF3465 domain-containing protein	ALW85_RS12740	
+ALW85_RS04055-MONOMER		helix-hairpin-helix domain-containing protein	ALW85_RS04055	
+ALW85_RS13550-MONOMER		MerR family transcriptional regulator	ALW85_RS13550	
+ALW85_RS09040-MONOMER		ABC transporter ATP-binding protein	ALW85_RS09040	
+ALW85_RS10655-MONOMER		DNA-directed RNA polymerase subunit beta	ALW85_RS10655	
+ALW85_RS12745-MONOMER		DUF1311 domain-containing protein	ALW85_RS12745	
+ALW85_RS10660-MONOMER		50S ribosomal protein L7/L12	ALW85_RS10660	
+ALW85_RS00270-MONOMER		ADP-forming succinate--CoA ligase subunit beta	ALW85_RS00270	
+ALW85_RS07835-MONOMER		saccharopine dehydrogenase NADP-binding domain-containing protein	ALW85_RS07835	
+ALW85_RS06520-MONOMER		type II secretion system F family protein	ALW85_RS06520	
+ALW85_RS12750-MONOMER		IS481 family transposase	ALW85_RS12750	
+ALW85_RS09045-MONOMER		histidine kinase	ALW85_RS09045	
+ALW85_RS10665-MONOMER		50S ribosomal protein L10	ALW85_RS10665	
+ALW85_RS14245-MONOMER		hypothetical protein	ALW85_RS14245	
+ALW85_RS05135-MONOMER		cell division protein FtsL	ALW85_RS05135	
+ALW85_RS01545-MONOMER		type II toxin-antitoxin system YhaV family toxin	ALW85_RS01545	
+ALW85_RS14145-MONOMER		hypothetical protein	ALW85_RS14145	
+ALW85_RS03360-MONOMER		phosphoribosyl-ATP diphosphatase	ALW85_RS03360	
+ALW85_RS10670-MONOMER		50S ribosomal protein L1	ALW85_RS10670	
+ALW85_RS05290-MONOMER		cytochrome c oxidase assembly protein	ALW85_RS05290	
+ALW85_RS07840-MONOMER		SirB2 family protein	ALW85_RS07840	
+ALW85_RS06525-MONOMER		GspE/PulE family protein	ALW85_RS06525	
+ALW85_RS12755-MONOMER		hypothetical protein	ALW85_RS12755	
+ALW85_RS04335-MONOMER		efflux RND transporter periplasmic adaptor subunit	ALW85_RS04335	
+ALW85_RS00520-MONOMER		glutamine-hydrolyzing GMP synthase	ALW85_RS00520	
+ALW85_RS09055-MONOMER		IS982-like element ISNeu1 family transposase	ALW85_RS09055	
+ALW85_RS03705-MONOMER		hypothetical protein	ALW85_RS03705	
+ALW85_RS00845-MONOMER		IS481 family transposase	ALW85_RS00845	
+ALW85_RS12760-MONOMER		hypothetical protein	ALW85_RS12760	
+ALW85_RS10675-MONOMER		50S ribosomal protein L11	ALW85_RS10675	
+ALW85_RS00665-MONOMER		TonB-dependent receptor	ALW85_RS00665	
+ALW85_RS01790-MONOMER		DUF484 family protein	ALW85_RS01790	
+ALW85_RS07845-MONOMER		hypothetical protein	ALW85_RS07845	
+ALW85_RS06530-MONOMER		ribbon-helix-helix protein, CopG family	ALW85_RS06530	
+ALW85_RS13800-MONOMER		IS5-like element ISNeu3 family transposase	ALW85_RS13800	
+ALW85_RS02635-MONOMER		type II toxin-antitoxin system VapC family toxin	ALW85_RS02635	
+ALW85_RS02155-MONOMER		50S ribosomal protein L22	ALW85_RS02155	
+ALW85_RS04515-MONOMER		bacterioferritin	ALW85_RS04515	
+ALW85_RS09065-MONOMER		DNA mismatch repair endonuclease MutL	ALW85_RS09065	
+ALW85_RS10680-MONOMER		transcription termination/antitermination protein NusG	ALW85_RS10680	
+ALW85_RS03035-MONOMER		sulfate ABC transporter ATP-binding protein	ALW85_RS03035	
+ALW85_RS13805-MONOMER		hypothetical protein	ALW85_RS13805	
+ALW85_RS10685-MONOMER		preprotein translocase subunit SecE	ALW85_RS10685	
+ALW85_RS03885-MONOMER		TonB-dependent receptor	ALW85_RS03885	
+ALW85_RS01195-MONOMER		hypothetical protein	ALW85_RS01195	
+ALW85_RS07850-MONOMER		STAS/SEC14 domain-containing protein	ALW85_RS07850	
+ALW85_RS06535-MONOMER		hypothetical protein	ALW85_RS06535	
+ALW85_RS14090-MONOMER		hypothetical protein	ALW85_RS14090	
+ALW85_RS09070-MONOMER		ribose-5-phosphate isomerase RpiA	ALW85_RS09070	
+ALW85_RS10695-MONOMER		elongation factor Tu	ALW85_RS10695	
+ALW85_RS04830-MONOMER		cyanophycin synthetase	ALW85_RS04830	
+ALW85_RS12780-MONOMER		restriction endonuclease	ALW85_RS12780	
+ALW85_RS00105-MONOMER		ChaN family lipoprotein	ALW85_RS00105	
+ALW85_RS02715-MONOMER		amino acid permease	ALW85_RS02715	
+ALW85_RS02015-MONOMER		L-serine ammonia-lyase	ALW85_RS02015	
+ALW85_RS10700-MONOMER		elongation factor G	ALW85_RS10700	
+ALW85_RS07855-MONOMER		DMT family transporter	ALW85_RS07855	
+ALW85_RS14300-MONOMER		ParB N-terminal domain-containing protein	ALW85_RS14300	
+ALW85_RS12785-MONOMER		AbrB family transcriptional regulator	ALW85_RS12785	
+ALW85_RS09075-MONOMER		phosphate signaling complex protein PhoU	ALW85_RS09075	
+ALW85_RS10705-MONOMER		30S ribosomal protein S7	ALW85_RS10705	
+ALW85_RS13830-MONOMER		hypothetical protein	ALW85_RS13830	
+ALW85_RS03185-MONOMER		carbonic anhydrase family protein	ALW85_RS03185	
+ALW85_RS06545-MONOMER		DUF416 family protein	ALW85_RS06545	
+ALW85_RS12790-MONOMER		type II toxin-antitoxin system death-on-curing family toxin	ALW85_RS12790	
+ALW85_RS03365-MONOMER		phosphoribosyl-AMP cyclohydrolase	ALW85_RS03365	
+ALW85_RS10710-MONOMER		30S ribosomal protein S12	ALW85_RS10710	
+ALW85_RS02305-MONOMER		tRNA adenosine(34) deaminase TadA	ALW85_RS02305	
+ALW85_RS07860-MONOMER		aromatic ring-hydroxylating dioxygenase subunit alpha	ALW85_RS07860	
+ALW85_RS06555-MONOMER		IS3 family transposase	ALW85_RS06555	
+ALW85_RS12795-MONOMER		ABC transporter ATP-binding protein/permease	ALW85_RS12795	
+ALW85_RS04340-MONOMER		DUF2062 domain-containing protein	ALW85_RS04340	
+ALW85_RS03970-MONOMER		translation initiation factor IF-2	ALW85_RS03970	
+ALW85_RS03565-MONOMER		SCO family protein	ALW85_RS03565	
+ALW85_RS09080-MONOMER		exopolyphosphatase	ALW85_RS09080	
+ALW85_RS10715-MONOMER		L,D-transpeptidase	ALW85_RS10715	
+ALW85_RS04680-MONOMER		hypothetical protein	ALW85_RS04680	
+ALW85_RS00865-MONOMER		DUF2007 domain-containing protein	ALW85_RS00865	
+ALW85_RS06560-MONOMER		ATP-binding cassette domain-containing protein	ALW85_RS06560	
+ALW85_RS12800-MONOMER		single-stranded DNA-binding protein	ALW85_RS12800	
+ALW85_RS00525-MONOMER		IMP dehydrogenase	ALW85_RS00525	
+ALW85_RS06765-MONOMER		hypothetical protein	ALW85_RS06765	
+ALW85_RS10720-MONOMER		hypothetical protein	ALW85_RS10720	
+ALW85_RS01795-MONOMER		IS481-like element ISNe2 family transposase	ALW85_RS01795	
+ALW85_RS04370-MONOMER		Tn3 family transposase	ALW85_RS04370	
+ALW85_RS07865-MONOMER		hypothetical protein	ALW85_RS07865	
+ALW85_RS06565-MONOMER		DUF853 domain-containing protein	ALW85_RS06565	
+ALW85_RS12805-MONOMER		MFS transporter	ALW85_RS12805	
+ALW85_RS02160-MONOMER		30S ribosomal protein S3	ALW85_RS02160	
+ALW85_RS09085-MONOMER		type IV pilin protein	ALW85_RS09085	
+ALW85_RS10725-MONOMER		CopD family protein	ALW85_RS10725	
+ALW85_RS02815-MONOMER		sigma-70 family RNA polymerase sigma factor	ALW85_RS02815	
+ALW85_RS06570-MONOMER		IS481 family transposase	ALW85_RS06570	
+ALW85_RS12810-MONOMER		excinuclease ABC subunit UvrA	ALW85_RS12810	
+ALW85_RS00185-MONOMER		endopeptidase La	ALW85_RS00185	
+ALW85_RS01050-MONOMER		F0F1 ATP synthase subunit B	ALW85_RS01050	
+ALW85_RS06770-MONOMER		isoprenylcysteine carboxylmethyltransferase family protein	ALW85_RS06770	
+ALW85_RS07870-MONOMER		primosomal protein N'	ALW85_RS07870	
+ALW85_RS06575-MONOMER		glyoxalase/bleomycin resistance/dioxygenase family protein	ALW85_RS06575	
+ALW85_RS12815-MONOMER		glycerate kinase	ALW85_RS12815	
+ALW85_RS04060-MONOMER		alpha/beta fold hydrolase	ALW85_RS04060	
+ALW85_RS04980-MONOMER		integration host factor subunit alpha	ALW85_RS04980	
+ALW85_RS09090-MONOMER		type 4 fimbrial biogenesis protein PilY1	ALW85_RS09090	
+ALW85_RS10730-MONOMER		copper resistance protein CopC	ALW85_RS10730	
+ALW85_RS01835-MONOMER		adenosylmethionine decarboxylase	ALW85_RS01835	
+ALW85_RS06580-MONOMER		GNAT family N-acetyltransferase	ALW85_RS06580	
+ALW85_RS12820-MONOMER		porphobilinogen synthase	ALW85_RS12820	
+ALW85_RS10735-MONOMER		LPXTG cell wall anchor domain-containing protein	ALW85_RS10735	
+ALW85_RS00275-MONOMER		succinate--CoA ligase subunit alpha	ALW85_RS00275	
+ALW85_RS07875-MONOMER		universal stress protein	ALW85_RS07875	
+ALW85_RS06585-MONOMER		type II toxin-antitoxin system death-on-curing family toxin	ALW85_RS06585	
+ALW85_RS12825-MONOMER		ribosome biogenesis GTP-binding protein YihA/YsxC	ALW85_RS12825	
+ALW85_RS03040-MONOMER		sulfate ABC transporter permease subunit CysW	ALW85_RS03040	
+ALW85_RS01460-MONOMER		ribonuclease PH	ALW85_RS01460	
+ALW85_RS10740-MONOMER		hypothetical protein	ALW85_RS10740	
+ALW85_RS06590-MONOMER		AbrB family transcriptional regulator	ALW85_RS06590	
+ALW85_RS12830-MONOMER		type III pantothenate kinase	ALW85_RS12830	
+ALW85_RS01550-MONOMER		type II toxin-antitoxin system PrlF family antitoxin	ALW85_RS01550	
+ALW85_RS05215-MONOMER		phosphate ABC transporter permease PstA	ALW85_RS05215	
+ALW85_RS06775-MONOMER		Rpn family recombination-promoting nuclease/putative transposase	ALW85_RS06775	
+ALW85_RS02470-MONOMER		sulfite exporter TauE/SafE family protein	ALW85_RS02470	
+ALW85_RS03370-MONOMER		imidazole glycerol phosphate synthase subunit HisF	ALW85_RS03370	
+ALW85_RS10745-MONOMER		methane monooxygenase/ammonia monooxygenase subunit B	ALW85_RS10745	
+ALW85_RS05295-MONOMER		cytochrome c oxidase subunit I	ALW85_RS05295	
+ALW85_RS07880-MONOMER		membrane protein	ALW85_RS07880	
+ALW85_RS12835-MONOMER		biotin--[acetyl-CoA-carboxylase] ligase	ALW85_RS12835	
+ALW85_RS04345-MONOMER		DNA mismatch repair protein MutS	ALW85_RS04345	
+ALW85_RS09095-MONOMER		pilus assembly protein PilX	ALW85_RS09095	
+ALW85_RS10750-MONOMER		methane monooxygenase/ammonia monooxygenase subunit A	ALW85_RS10750	
+ALW85_RS03710-MONOMER		YraN family protein	ALW85_RS03710	
+ALW85_RS00870-MONOMER		ferritin-like domain-containing protein	ALW85_RS00870	
+ALW85_RS06600-MONOMER		type II toxin-antitoxin system HicB family antitoxin	ALW85_RS06600	
+ALW85_RS12840-MONOMER		metal-binding protein SmbP	ALW85_RS12840	
+ALW85_RS10755-MONOMER		methane monooxygenase/ammonia monooxygenase subunit C	ALW85_RS10755	
+ALW85_RS00670-MONOMER		TonB-dependent receptor plug domain-containing protein	ALW85_RS00670	
+ALW85_RS01810-MONOMER		sensor histidine kinase	ALW85_RS01810	
+ALW85_RS07885-MONOMER		Do family serine endopeptidase	ALW85_RS07885	
+ALW85_RS12845-MONOMER		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase	ALW85_RS12845	
+ALW85_RS02165-MONOMER		50S ribosomal protein L16	ALW85_RS02165	
+ALW85_RS13545-MONOMER		(2Fe-2S)-binding protein	ALW85_RS13545	
+ALW85_RS14210-MONOMER		hypothetical protein	ALW85_RS14210	
+ALW85_RS06605-MONOMER		DUF4136 domain-containing protein	ALW85_RS06605	
+ALW85_RS12850-MONOMER		succinyldiaminopimelate transaminase	ALW85_RS12850	
+ALW85_RS06780-MONOMER		VCBS repeat-containing protein	ALW85_RS06780	
+ALW85_RS13725-MONOMER		transposase	ALW85_RS13725	
+ALW85_RS01200-MONOMER		hypothetical protein	ALW85_RS01200	
+ALW85_RS07890-MONOMER		Nif3-like dinuclear metal center hexameric protein	ALW85_RS07890	
+ALW85_RS09100-MONOMER		PilW family protein	ALW85_RS09100	
+ALW85_RS12855-MONOMER		DMT family transporter	ALW85_RS12855	
+ALW85_RS10760-MONOMER		septal ring lytic transglycosylase RlpA family protein	ALW85_RS10760	
+ALW85_RS04835-MONOMER		cyanophycin synthetase	ALW85_RS04835	
+ALW85_RS06615-MONOMER		IS3 family transposase	ALW85_RS06615	
+ALW85_RS12860-MONOMER		peroxiredoxin	ALW85_RS12860	
+ALW85_RS02020-MONOMER		DMT family transporter	ALW85_RS02020	
+ALW85_RS10765-MONOMER		rod shape-determining protein RodA	ALW85_RS10765	
+ALW85_RS07895-MONOMER		murein transglycosylase A	ALW85_RS07895	
+ALW85_RS09105-MONOMER		type IV pilus modification protein PilV	ALW85_RS09105	
+ALW85_RS12865-MONOMER		CNP1-like family protein	ALW85_RS12865	
+ALW85_RS10770-MONOMER		penicillin-binding protein 2	ALW85_RS10770	
+ALW85_RS05140-MONOMER		penicillin-binding protein 2	ALW85_RS05140	
+ALW85_RS03190-MONOMER		glycine cleavage system aminomethyltransferase GcvT	ALW85_RS03190	
+ALW85_RS06620-MONOMER		serine protease	ALW85_RS06620	
+ALW85_RS12870-MONOMER		slipin family protein	ALW85_RS12870	
+ALW85_RS06785-MONOMER		HigA family addiction module antidote protein	ALW85_RS06785	
+ALW85_RS03375-MONOMER		1-(5-phosphoribosyl)-5-[(5- phosphoribosylamino)methylideneamino]imidazole-4- carboxamide isomerase	ALW85_RS03375	
+ALW85_RS02310-MONOMER		L,D-transpeptidase	ALW85_RS02310	
+ALW85_RS07900-MONOMER		DsbC family protein	ALW85_RS07900	
+ALW85_RS09110-MONOMER		GspH/FimT family pseudopilin	ALW85_RS09110	
+ALW85_RS12875-MONOMER		nodulation protein NfeD	ALW85_RS12875	
+ALW85_RS04350-MONOMER		3-deoxy-7-phosphoheptulonate synthase	ALW85_RS04350	
+ALW85_RS03570-MONOMER		cbb3-type cytochrome c oxidase subunit I	ALW85_RS03570	
+ALW85_RS10775-MONOMER		rod shape-determining protein MreD	ALW85_RS10775	
+ALW85_RS04690-MONOMER		VC1465 family Xer recombination activation factor	ALW85_RS04690	
+ALW85_RS00875-MONOMER		multidrug efflux RND transporter permease subunit	ALW85_RS00875	
+ALW85_RS06625-MONOMER		NAD(P)/FAD-dependent oxidoreductase	ALW85_RS06625	
+ALW85_RS12880-MONOMER		IS982-like element ISNeu1 family transposase	ALW85_RS12880	
+ALW85_RS00530-MONOMER		exosortase system-associated protein, TIGR04073 family	ALW85_RS00530	
+ALW85_RS06790-MONOMER		type II toxin-antitoxin system RelE/ParE family toxin	ALW85_RS06790	
+ALW85_RS10780-MONOMER		rod shape-determining protein MreC	ALW85_RS10780	
+ALW85_RS01815-MONOMER		response regulator	ALW85_RS01815	
+ALW85_RS07905-MONOMER		UbiH/UbiF family hydroxylase	ALW85_RS07905	
+ALW85_RS04375-MONOMER		recombinase family protein	ALW85_RS04375	
+ALW85_RS09120-MONOMER		Spy/CpxP family protein refolding chaperone	ALW85_RS09120	
+ALW85_RS12885-MONOMER		NUDIX domain-containing protein	ALW85_RS12885	
+ALW85_RS02170-MONOMER		50S ribosomal protein L29	ALW85_RS02170	
+ALW85_RS10790-MONOMER		rod shape-determining protein	ALW85_RS10790	
+ALW85_RS02820-MONOMER		FecR domain-containing protein	ALW85_RS02820	
+ALW85_RS06630-MONOMER		cytochrome c	ALW85_RS06630	
+ALW85_RS12890-MONOMER		39S ribosomal protein L45	ALW85_RS12890	
+ALW85_RS01055-MONOMER		F0F1 ATP synthase subunit delta	ALW85_RS01055	
+ALW85_RS06795-MONOMER		type II toxin-antitoxin system PemK/MazF family toxin	ALW85_RS06795	
+ALW85_RS10795-MONOMER		Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatC	ALW85_RS10795	
+ALW85_RS07910-MONOMER		hypothetical protein	ALW85_RS07910	
+ALW85_RS09125-MONOMER		NAD-dependent DNA ligase LigA	ALW85_RS09125	
+ALW85_RS12895-MONOMER		YicC family protein	ALW85_RS12895	
+ALW85_RS04065-MONOMER		amino-acid N-acetyltransferase	ALW85_RS04065	
+ALW85_RS04985-MONOMER		phenylalanine--tRNA ligase subunit beta	ALW85_RS04985	
+ALW85_RS02640-MONOMER		glycosyltransferase	ALW85_RS02640	
+ALW85_RS01840-MONOMER		hypothetical protein	ALW85_RS01840	
+ALW85_RS06635-MONOMER		hypothetical protein	ALW85_RS06635	
+ALW85_RS12900-MONOMER		ParB/RepB/Spo0J family partition protein	ALW85_RS12900	
+ALW85_RS06800-MONOMER		antitoxin MazE family protein	ALW85_RS06800	
+ALW85_RS10800-MONOMER		Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA	ALW85_RS10800	
+ALW85_RS00280-MONOMER		hypothetical protein	ALW85_RS00280	
+ALW85_RS07915-MONOMER		folate-binding protein YgfZ	ALW85_RS07915	
+ALW85_RS09130-MONOMER		S-methyl-5'-thioinosine phosphorylase	ALW85_RS09130	
+ALW85_RS12905-MONOMER		ParA family protein	ALW85_RS12905	
+ALW85_RS03045-MONOMER		sulfate ABC transporter permease subunit CysT	ALW85_RS03045	
+ALW85_RS06640-MONOMER		DoxX family protein	ALW85_RS06640	
+ALW85_RS01555-MONOMER		FTR1 family protein	ALW85_RS01555	
+ALW85_RS12910-MONOMER		16S rRNA (guanine(527)-N(7))-methyltransferase RsmG	ALW85_RS12910	
+ALW85_RS02475-MONOMER		transcription/translation regulatory transformer protein RfaH	ALW85_RS02475	
+ALW85_RS06805-MONOMER		pilin	ALW85_RS06805	
+ALW85_RS03380-MONOMER		imidazole glycerol phosphate synthase subunit HisH	ALW85_RS03380	
+ALW85_RS14150-MONOMER		hypothetical protein	ALW85_RS14150	
+ALW85_RS05300-MONOMER		cytochrome c oxidase subunit II	ALW85_RS05300	
+ALW85_RS10805-MONOMER		Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB	ALW85_RS10805	
+ALW85_RS07920-MONOMER		ankyrin repeat domain-containing protein	ALW85_RS07920	
+ALW85_RS09135-MONOMER		peptide deformylase	ALW85_RS09135	
+ALW85_RS06645-MONOMER		hypothetical protein	ALW85_RS06645	
+ALW85_RS12915-MONOMER		tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG	ALW85_RS12915	
+ALW85_RS04355-MONOMER		hotdog fold thioesterase	ALW85_RS04355	
+ALW85_RS13730-MONOMER		entry exclusion lipoprotein TrbK	ALW85_RS13730	
+ALW85_RS13915-MONOMER		hypothetical protein	ALW85_RS13915	
+ALW85_RS00880-MONOMER		efflux RND transporter periplasmic adaptor subunit	ALW85_RS00880	
+ALW85_RS06655-MONOMER		endopeptidase La	ALW85_RS06655	
+ALW85_RS12920-MONOMER		flagellar protein FlgN	ALW85_RS12920	
+ALW85_RS13630-MONOMER		DUF2335 domain-containing protein	ALW85_RS13630	
+ALW85_RS00675-MONOMER		STN domain-containing protein	ALW85_RS00675	
+ALW85_RS10810-MONOMER		Hsp20/alpha crystallin family protein	ALW85_RS10810	
+ALW85_RS01820-MONOMER		CusA/CzcA family heavy metal efflux RND transporter	ALW85_RS01820	
+ALW85_RS07925-MONOMER		TatD family hydrolase	ALW85_RS07925	
+ALW85_RS06660-MONOMER		hypothetical protein	ALW85_RS06660	
+ALW85_RS09140-MONOMER		protoporphyrinogen oxidase HemJ	ALW85_RS09140	
+ALW85_RS12925-MONOMER		flagellar biosynthesis anti-sigma factor FlgM	ALW85_RS12925	
+ALW85_RS02175-MONOMER		30S ribosomal protein S17	ALW85_RS02175	
+ALW85_RS04520-MONOMER		hypothetical protein	ALW85_RS04520	
+ALW85_RS10815-MONOMER		EAL domain-containing protein	ALW85_RS10815	
+ALW85_RS00110-MONOMER		phosphoribosylformylglycinamidine synthase	ALW85_RS00110	
+ALW85_RS06665-MONOMER		hypothetical protein	ALW85_RS06665	
+ALW85_RS12930-MONOMER		ABC transporter permease	ALW85_RS12930	
+ALW85_RS06810-MONOMER		type II toxin-antitoxin system HipA family toxin	ALW85_RS06810	
+ALW85_RS10820-MONOMER		FecR domain-containing protein	ALW85_RS10820	
+ALW85_RS01205-MONOMER		hypothetical protein	ALW85_RS01205	
+ALW85_RS07930-MONOMER		6-carboxytetrahydropterin synthase QueD	ALW85_RS07930	
+ALW85_RS06670-MONOMER		adenylosuccinate synthase	ALW85_RS06670	
+ALW85_RS09145-MONOMER		VanZ family protein	ALW85_RS09145	
+ALW85_RS12935-MONOMER		dipeptide ABC transporter ATP-binding protein	ALW85_RS12935	
+ALW85_RS04840-MONOMER		multicopper oxidase domain-containing protein	ALW85_RS04840	
+ALW85_RS06675-MONOMER		ATP phosphoribosyltransferase regulatory subunit	ALW85_RS06675	
+ALW85_RS02720-MONOMER		response regulator	ALW85_RS02720	
+ALW85_RS12940-MONOMER		peptide chain release factor 3	ALW85_RS12940	
+ALW85_RS02025-MONOMER		type I restriction endonuclease subunit R	ALW85_RS02025	
+ALW85_RS06815-MONOMER		helix-turn-helix transcriptional regulator	ALW85_RS06815	
+ALW85_RS10825-MONOMER		flagellar hook-length control protein FliK	ALW85_RS10825	
+ALW85_RS01375-MONOMER		antirestriction protein ArdA	ALW85_RS01375	
+ALW85_RS07935-MONOMER		radical SAM protein	ALW85_RS07935	
+ALW85_RS06680-MONOMER		DUF2065 domain-containing protein	ALW85_RS06680	
+ALW85_RS09155-MONOMER		DedA family protein	ALW85_RS09155	
+ALW85_RS12945-MONOMER		TonB-dependent receptor	ALW85_RS12945	
+ALW85_RS03195-MONOMER		glycine cleavage system protein GcvH	ALW85_RS03195	
+ALW85_RS10830-MONOMER		EscU/YscU/HrcU family type III secretion system export apparatus switch protein	ALW85_RS10830	
+ALW85_RS06685-MONOMER		protease modulator HflC	ALW85_RS06685	
+ALW85_RS12950-MONOMER		IS481-like element ISNe2 family transposase	ALW85_RS12950	
+ALW85_RS06825-MONOMER		cold-shock protein	ALW85_RS06825	
+ALW85_RS03385-MONOMER		imidazoleglycerol-phosphate dehydratase HisB	ALW85_RS03385	
+ALW85_RS10835-MONOMER		flagellar brake protein	ALW85_RS10835	
+ALW85_RS02315-MONOMER		NAD-dependent malic enzyme	ALW85_RS02315	
+ALW85_RS07940-MONOMER		transcriptional regulator	ALW85_RS07940	
+ALW85_RS06690-MONOMER		FtsH protease activity modulator HflK	ALW85_RS06690	
+ALW85_RS09160-MONOMER		MMPL family transporter	ALW85_RS09160	
+ALW85_RS03975-MONOMER		30S ribosome-binding factor RbfA	ALW85_RS03975	
+ALW85_RS12955-MONOMER		TonB-dependent receptor	ALW85_RS12955	
+ALW85_RS04360-MONOMER		ATP-dependent RNA helicase HrpA	ALW85_RS04360	
+ALW85_RS03575-MONOMER		cytochrome c oxidase subunit II	ALW85_RS03575	
+ALW85_RS10840-MONOMER		flagellar hook-basal body complex protein FliE	ALW85_RS10840	
+ALW85_RS04695-MONOMER		elongation factor P	ALW85_RS04695	
+ALW85_RS00885-MONOMER		efflux transporter outer membrane subunit	ALW85_RS00885	
+ALW85_RS06695-MONOMER		GTPase HflX	ALW85_RS06695	
+ALW85_RS12960-MONOMER		FecR domain-containing protein	ALW85_RS12960	
+ALW85_RS00535-MONOMER		HAD-IB family hydrolase	ALW85_RS00535	
+ALW85_RS14180-MONOMER		hypothetical protein	ALW85_RS14180	
+ALW85_RS10845-MONOMER		sigma-54 dependent transcriptional regulator	ALW85_RS10845	
+ALW85_RS01825-MONOMER		efflux RND transporter periplasmic adaptor subunit	ALW85_RS01825	
+ALW85_RS07950-MONOMER		recombinase family protein	ALW85_RS07950	
+ALW85_RS04380-MONOMER		DUF3330 domain-containing protein	ALW85_RS04380	
+ALW85_RS06700-MONOMER		RNA chaperone Hfq	ALW85_RS06700	
+ALW85_RS09165-MONOMER		IS481 family transposase	ALW85_RS09165	
+ALW85_RS12965-MONOMER		sigma-70 family RNA polymerase sigma factor	ALW85_RS12965	
+ALW85_RS10850-MONOMER		PAS domain-containing protein	ALW85_RS10850	
+ALW85_RS06705-MONOMER		phosphate regulon sensor histidine kinase PhoR	ALW85_RS06705	
+ALW85_RS00190-MONOMER		alanine--glyoxylate aminotransferase family protein	ALW85_RS00190	
+ALW85_RS12970-MONOMER		flagellar type III secretion system protein FlhB	ALW85_RS12970	
+ALW85_RS01060-MONOMER		F0F1 ATP synthase subunit alpha	ALW85_RS01060	
+ALW85_RS06840-MONOMER		response regulator transcription factor	ALW85_RS06840	
+ALW85_RS10855-MONOMER		flagellar M-ring protein FliF	ALW85_RS10855	
+ALW85_RS13640-MONOMER		IS5 family transposase	ALW85_RS13640	
+ALW85_RS06710-MONOMER		alpha/beta fold hydrolase	ALW85_RS06710	
+ALW85_RS09170-MONOMER		PD40 domain-containing protein	ALW85_RS09170	
+ALW85_RS12975-MONOMER		flagellar biosynthesis protein FlhA	ALW85_RS12975	
+ALW85_RS04070-MONOMER		16S rRNA (uracil(1498)-N(3))-methyltransferase	ALW85_RS04070	
+ALW85_RS04990-MONOMER		phenylalanine--tRNA ligase subunit alpha	ALW85_RS04990	
+ALW85_RS10860-MONOMER		flagellar motor switch protein FliG	ALW85_RS10860	
+ALW85_RS01850-MONOMER		ribonuclease R	ALW85_RS01850	
+ALW85_RS06715-MONOMER		glutamate 5-kinase	ALW85_RS06715	
+ALW85_RS12980-MONOMER		flagellar biosynthesis protein FlhF	ALW85_RS12980	
+ALW85_RS06845-MONOMER		HAMP domain-containing histidine kinase	ALW85_RS06845	
+ALW85_RS10865-MONOMER		flagellar assembly protein FliH	ALW85_RS10865	
+ALW85_RS00285-MONOMER		D-alanyl-D-alanine carboxypeptidase/D-alanyl-D-alanine-endopeptidase	ALW85_RS00285	
+ALW85_RS07960-MONOMER		IS481 family transposase	ALW85_RS07960	
+ALW85_RS06720-MONOMER		GTPase ObgE	ALW85_RS06720	
+ALW85_RS12985-MONOMER		AAA family ATPase	ALW85_RS12985	
+ALW85_RS09175-MONOMER		molecular chaperone HtpG	ALW85_RS09175	
+ALW85_RS01465-MONOMER		RdgB/HAM1 family non-canonical purine NTP pyrophosphatase	ALW85_RS01465	
+ALW85_RS03050-MONOMER		EAL domain-containing protein	ALW85_RS03050	
+ALW85_RS10870-MONOMER		flagellar protein export ATPase FliI	ALW85_RS10870	
+ALW85_RS06725-MONOMER		50S ribosomal protein L27	ALW85_RS06725	
+ALW85_RS05220-MONOMER		phosphate ABC transporter ATP-binding protein PstB	ALW85_RS05220	
+ALW85_RS12990-MONOMER		RNA polymerase sigma factor FliA	ALW85_RS12990	
+ALW85_RS02480-MONOMER		dTDP-glucose 4,6-dehydratase	ALW85_RS02480	
+ALW85_RS06850-MONOMER		cytochrome-c peroxidase	ALW85_RS06850	
+ALW85_RS03390-MONOMER		histidinol-phosphate transaminase	ALW85_RS03390	
+ALW85_RS10875-MONOMER		flagellar export protein FliJ	ALW85_RS10875	
+ALW85_RS05310-MONOMER		Bax inhibitor-1/YccA family protein	ALW85_RS05310	
+ALW85_RS07965-MONOMER		type II toxin-antitoxin system ParD family antitoxin	ALW85_RS07965	
+ALW85_RS06730-MONOMER		50S ribosomal protein L21	ALW85_RS06730	
+ALW85_RS09180-MONOMER		PQQ-dependent sugar dehydrogenase	ALW85_RS09180	
+ALW85_RS12995-MONOMER		MFS transporter	ALW85_RS12995	
+ALW85_RS04365-MONOMER		CRISPR-associated endonuclease Cas3''	ALW85_RS04365	
+ALW85_RS10880-MONOMER		flagellar hook-length control protein FliK	ALW85_RS10880	
+ALW85_RS03720-MONOMER		type II toxin-antitoxin system prevent-host-death family antitoxin	ALW85_RS03720	
+ALW85_RS04700-MONOMER		elongation factor P maturation arginine rhamnosyltransferase EarP	ALW85_RS04700	
+ALW85_RS06735-MONOMER		glutamate--cysteine ligase	ALW85_RS06735	
+ALW85_RS13000-MONOMER		TMEM165/GDT1 family protein	ALW85_RS13000	
+ALW85_RS06855-MONOMER		RNA pyrophosphohydrolase	ALW85_RS06855	
+ALW85_RS00680-MONOMER		FecR domain-containing protein	ALW85_RS00680	
+ALW85_RS10885-MONOMER		hypothetical protein	ALW85_RS10885	
+ALW85_RS01830-MONOMER		polyamine aminopropyltransferase	ALW85_RS01830	
+ALW85_RS07970-MONOMER		type II toxin-antitoxin system RelE/ParE family toxin	ALW85_RS07970	
+ALW85_RS06740-MONOMER		glutathione synthase	ALW85_RS06740	
+ALW85_RS09185-MONOMER		NADH-quinone oxidoreductase subunit NuoN	ALW85_RS09185	
+ALW85_RS13005-MONOMER		hypothetical protein	ALW85_RS13005	
+ALW85_RS02180-MONOMER		50S ribosomal protein L14	ALW85_RS02180	
+ALW85_RS04525-MONOMER		EAL domain-containing protein	ALW85_RS04525	
+ALW85_RS10890-MONOMER		DUF6088 family protein	ALW85_RS10890	
+ALW85_RS06745-MONOMER		Crp/Fnr family transcriptional regulator	ALW85_RS06745	
+ALW85_RS13010-MONOMER		restriction system-associated AAA family ATPase	ALW85_RS13010	
+ALW85_RS06860-MONOMER		proline--tRNA ligase	ALW85_RS06860	
+ALW85_RS10895-MONOMER		nucleotidyl transferase AbiEii/AbiGii toxin family protein	ALW85_RS10895	
+ALW85_RS01210-MONOMER		hypothetical protein	ALW85_RS01210	
+ALW85_RS07975-MONOMER		MliC family protein	ALW85_RS07975	
+ALW85_RS06750-MONOMER		hypothetical protein	ALW85_RS06750	
+ALW85_RS09190-MONOMER		NADH-quinone oxidoreductase subunit M	ALW85_RS09190	
+ALW85_RS13015-MONOMER		restriction endonuclease subunit S	ALW85_RS13015	
+ALW85_RS13735-MONOMER		tetratricopeptide repeat protein	ALW85_RS13735	
+ALW85_RS04845-MONOMER		cytochrome c	ALW85_RS04845	
+ALW85_RS06755-MONOMER		TonB-dependent receptor	ALW85_RS06755	
+ALW85_RS13020-MONOMER		type I restriction-modification system subunit M	ALW85_RS13020	
+ALW85_RS02825-MONOMER		TonB-dependent receptor	ALW85_RS02825	
+ALW85_RS02030-MONOMER		putative DNA binding domain-containing protein	ALW85_RS02030	
+ALW85_RS06865-MONOMER		lytic transglycosylase domain-containing protein	ALW85_RS06865	
+ALW85_RS10905-MONOMER		FkbM family methyltransferase	ALW85_RS10905	
+ALW85_RS07980-MONOMER		acetyl-CoA C-acyltransferase	ALW85_RS07980	
+ALW85_RS04075-MONOMER		thioredoxin family protein	ALW85_RS04075	
+ALW85_RS09195-MONOMER		NADH-quinone oxidoreductase subunit L	ALW85_RS09195	
+ALW85_RS13025-MONOMER		KilA-N domain-containing protein	ALW85_RS13025	
+ALW85_RS10910-MONOMER		SIR2 family protein	ALW85_RS10910	
+ALW85_RS05145-MONOMER		UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2, 6-diaminopimelate ligase	ALW85_RS05145	
+ALW85_RS03200-MONOMER		aminomethyl-transferring glycine dehydrogenase subunit GcvPA	ALW85_RS03200	
+ALW85_RS00290-MONOMER		hypothetical protein	ALW85_RS00290	
+ALW85_RS06760-MONOMER		adenylate/guanylate cyclase domain-containing protein	ALW85_RS06760	
+ALW85_RS13030-MONOMER		DEAD/DEAH box helicase family protein	ALW85_RS13030	
+ALW85_RS10915-MONOMER		ATP-binding protein	ALW85_RS10915	
+ALW85_RS06870-MONOMER		TlpA family protein disulfide reductase	ALW85_RS06870	
+ALW85_RS01560-MONOMER		ATP-dependent zinc protease	ALW85_RS01560	
+ALW85_RS13035-MONOMER		hypothetical protein	ALW85_RS13035	
+ALW85_RS05315-MONOMER		heavy metal translocating P-type ATPase	ALW85_RS05315	
+ALW85_RS02320-MONOMER		phosphoserine phosphatase SerB	ALW85_RS02320	
+ALW85_RS07985-MONOMER		3-hydroxyacyl-CoA dehydrogenase/enoyl-CoA hydratase family protein	ALW85_RS07985	
+ALW85_RS14215-MONOMER		hypothetical protein	ALW85_RS14215	
+ALW85_RS09200-MONOMER		NADH-quinone oxidoreductase subunit NuoK	ALW85_RS09200	
+ALW85_RS13040-MONOMER		sorbosone dehydrogenase family protein	ALW85_RS13040	
+ALW85_RS03580-MONOMER		3-isopropylmalate dehydratase large subunit	ALW85_RS03580	
+ALW85_RS14220-MONOMER		hypothetical protein	ALW85_RS14220	
+ALW85_RS14320-MONOMER		TonB-dependent receptor	ALW85_RS14320	
+ALW85_RS04705-MONOMER		2-hydroxyacid dehydrogenase	ALW85_RS04705	
+ALW85_RS10935-MONOMER		group II intron reverse transcriptase/maturase	ALW85_RS10935	
+ALW85_RS13045-MONOMER		TonB-dependent receptor	ALW85_RS13045	
+ALW85_RS00540-MONOMER		DnaA regulatory inactivator Hda	ALW85_RS00540	
+ALW85_RS10940-MONOMER		hypothetical protein	ALW85_RS10940	
+ALW85_RS06875-MONOMER		2-isopropylmalate synthase	ALW85_RS06875	
+ALW85_RS13050-MONOMER		IS982-like element ISNeu1 family transposase	ALW85_RS13050	
+ALW85_RS10945-MONOMER		TIR domain-containing protein	ALW85_RS10945	
+ALW85_RS07990-MONOMER		TlpA family protein disulfide reductase	ALW85_RS07990	
+ALW85_RS04385-MONOMER		broad-spectrum mercury transporter MerE	ALW85_RS04385	
+ALW85_RS09205-MONOMER		NADH-quinone oxidoreductase subunit J	ALW85_RS09205	
+ALW85_RS14250-MONOMER		hypothetical protein	ALW85_RS14250	
+ALW85_RS02185-MONOMER		50S ribosomal protein L24	ALW85_RS02185	
+ALW85_RS10950-MONOMER		hypothetical protein	ALW85_RS10950	
+ALW85_RS13060-MONOMER		Fic family protein	ALW85_RS13060	
+ALW85_RS13065-MONOMER		helix-turn-helix domain-containing protein	ALW85_RS13065	
+ALW85_RS01065-MONOMER		F0F1 ATP synthase subunit gamma	ALW85_RS01065	
+ALW85_RS10955-MONOMER		hypothetical protein	ALW85_RS10955	
+ALW85_RS06880-MONOMER		CDP-diacylglycerol--serine O-phosphatidyltransferase	ALW85_RS06880	
+ALW85_RS14255-MONOMER		hypothetical protein	ALW85_RS14255	
+ALW85_RS07995-MONOMER		glycoside hydrolase	ALW85_RS07995	
+ALW85_RS10960-MONOMER		BrnA antitoxin family protein	ALW85_RS10960	
+ALW85_RS09210-MONOMER		NADH-quinone oxidoreductase subunit NuoI	ALW85_RS09210	
+ALW85_RS13075-MONOMER		helix-turn-helix domain-containing protein	ALW85_RS13075	
+ALW85_RS04995-MONOMER		50S ribosomal protein L20	ALW85_RS04995	
+ALW85_RS13745-MONOMER		BrnT family toxin	ALW85_RS13745	
+ALW85_RS13080-MONOMER		heme-binding protein	ALW85_RS13080	
+ALW85_RS02645-MONOMER		SDR family oxidoreductase	ALW85_RS02645	
+ALW85_RS10965-MONOMER		CopG family transcriptional regulator	ALW85_RS10965	
+ALW85_RS01855-MONOMER		23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB	ALW85_RS01855	
+ALW85_RS14275-MONOMER		hypothetical protein	ALW85_RS14275	
+ALW85_RS02830-MONOMER		glycoside hydrolase	ALW85_RS02830	
+ALW85_RS06885-MONOMER		phosphatidylserine decarboxylase	ALW85_RS06885	
+ALW85_RS13085-MONOMER		alkene reductase	ALW85_RS13085	
+ALW85_RS10970-MONOMER		BrnT family toxin	ALW85_RS10970	
+ALW85_RS08000-MONOMER		TonB-dependent receptor	ALW85_RS08000	
+ALW85_RS04080-MONOMER		inositol monophosphatase family protein	ALW85_RS04080	
+ALW85_RS09215-MONOMER		NADH-quinone oxidoreductase subunit NuoH	ALW85_RS09215	
+ALW85_RS13090-MONOMER		helix-turn-helix domain-containing protein	ALW85_RS13090	
+ALW85_RS03055-MONOMER		EAL domain-containing protein	ALW85_RS03055	
+ALW85_RS13095-MONOMER		antibiotic biosynthesis monooxygenase	ALW85_RS13095	
+ALW85_RS00320-MONOMER		ABC transporter ATP-binding protein/permease	ALW85_RS00320	
+ALW85_RS10975-MONOMER		hypothetical protein	ALW85_RS10975	
+ALW85_RS13100-MONOMER		DCL family protein	ALW85_RS13100	
+ALW85_RS02485-MONOMER		DUF4160 domain-containing protein	ALW85_RS02485	
+ALW85_RS10985-MONOMER		DUF2384 domain-containing protein	ALW85_RS10985	
+ALW85_RS06890-MONOMER		ketol-acid reductoisomerase	ALW85_RS06890	
+ALW85_RS13105-MONOMER		WYL domain-containing protein	ALW85_RS13105	
+ALW85_RS03890-MONOMER		IS1595-like element ISNe7 family transposase	ALW85_RS03890	
+ALW85_RS05320-MONOMER		heavy-metal-associated domain-containing protein	ALW85_RS05320	
+ALW85_RS08005-MONOMER		TonB-dependent receptor	ALW85_RS08005	
+ALW85_RS10990-MONOMER		RES family NAD+ phosphorylase	ALW85_RS10990	
+ALW85_RS09220-MONOMER		NADH-quinone oxidoreductase subunit NuoG	ALW85_RS09220	
+ALW85_RS13110-MONOMER		IS3 family transposase	ALW85_RS13110	
+ALW85_RS10995-MONOMER		IS3 family transposase	ALW85_RS10995	
+ALW85_RS13120-MONOMER		nucleotidyltransferase	ALW85_RS13120	
+ALW85_RS03725-MONOMER		Txe/YoeB family addiction module toxin	ALW85_RS03725	
+ALW85_RS04710-MONOMER		hypothetical protein	ALW85_RS04710	
+ALW85_RS11005-MONOMER		addiction module protein	ALW85_RS11005	
+ALW85_RS13125-MONOMER		patatin-like phospholipase family protein	ALW85_RS13125	
+ALW85_RS06895-MONOMER		acetolactate synthase small subunit	ALW85_RS06895	
+ALW85_RS00685-MONOMER		sigma-70 family RNA polymerase sigma factor	ALW85_RS00685	
+ALW85_RS13130-MONOMER		WYL domain-containing protein	ALW85_RS13130	
+ALW85_RS08010-MONOMER		M18 family aminopeptidase	ALW85_RS08010	
+ALW85_RS11010-MONOMER		Fic family protein	ALW85_RS11010	
+ALW85_RS09225-MONOMER		NADH-quinone oxidoreductase subunit NuoF	ALW85_RS09225	
+ALW85_RS13135-MONOMER		RecQ family ATP-dependent DNA helicase	ALW85_RS13135	
+ALW85_RS02190-MONOMER		50S ribosomal protein L5	ALW85_RS02190	
+ALW85_RS04530-MONOMER		phosphoribosylaminoimidazolesuccinocarboxamide synthase	ALW85_RS04530	
+ALW85_RS11015-MONOMER		type II toxin-antitoxin system Phd/YefM family antitoxin	ALW85_RS11015	
+ALW85_RS13140-MONOMER		DNA-processing protein DprA	ALW85_RS13140	
+ALW85_RS00115-MONOMER		bifunctional ADP-dependent NAD(P)H-hydrate dehydratase/NAD(P)H-hydrate epimerase	ALW85_RS00115	
+ALW85_RS11020-MONOMER		type II toxin-antitoxin system VapC family toxin	ALW85_RS11020	
+ALW85_RS13145-MONOMER		type I restriction-modification system subunit M	ALW85_RS13145	
+ALW85_RS11030-MONOMER		type II toxin-antitoxin system VapC family toxin	ALW85_RS11030	
+ALW85_RS06900-MONOMER		acetolactate synthase 3 catalytic subunit	ALW85_RS06900	
+ALW85_RS14325-MONOMER		hypothetical protein	ALW85_RS14325	
+ALW85_RS01215-MONOMER		hypothetical protein	ALW85_RS01215	
+ALW85_RS08020-MONOMER		nucleotidyltransferase family protein	ALW85_RS08020	
+ALW85_RS11035-MONOMER		type II toxin-antitoxin system RelE/ParE family toxin	ALW85_RS11035	
+ALW85_RS09230-MONOMER		NADH-quinone oxidoreductase subunit NuoE	ALW85_RS09230	
+ALW85_RS13150-MONOMER		GIY-YIG nuclease family protein	ALW85_RS13150	
+ALW85_RS11040-MONOMER		type II toxin-antitoxin system Phd/YefM family antitoxin	ALW85_RS11040	
+ALW85_RS13155-MONOMER		type I restriction-modification system subunit M	ALW85_RS13155	
+ALW85_RS04850-MONOMER		c-type cytochrome	ALW85_RS04850	
+ALW85_RS11055-MONOMER		Fic family protein	ALW85_RS11055	
+ALW85_RS13160-MONOMER		putative DNA binding domain-containing protein	ALW85_RS13160	
+ALW85_RS02725-MONOMER		HAMP domain-containing protein	ALW85_RS02725	
+ALW85_RS13895-MONOMER		hypothetical protein	ALW85_RS13895	
+ALW85_RS11060-MONOMER		phosphoribosyltransferase	ALW85_RS11060	
+ALW85_RS02035-MONOMER		restriction endonuclease subunit S	ALW85_RS02035	
+ALW85_RS06905-MONOMER		metalloprotease TldD	ALW85_RS06905	
+ALW85_RS13165-MONOMER		restriction endonuclease subunit S	ALW85_RS13165	
+ALW85_RS01380-MONOMER		type II toxin-antitoxin system RelE/ParE family toxin	ALW85_RS01380	
+ALW85_RS08025-MONOMER		TonB-dependent receptor	ALW85_RS08025	
+ALW85_RS11065-MONOMER		ATP-binding protein	ALW85_RS11065	
+ALW85_RS09235-MONOMER		NADH-quinone oxidoreductase subunit D	ALW85_RS09235	
+ALW85_RS13170-MONOMER		type I restriction endonuclease subunit R	ALW85_RS13170	
+ALW85_RS11070-MONOMER		carboxylating nicotinate-nucleotide diphosphorylase	ALW85_RS11070	
+ALW85_RS13175-MONOMER		AAA family ATPase	ALW85_RS13175	
+ALW85_RS03205-MONOMER		aminomethyl-transferring glycine dehydrogenase subunit GcvPB	ALW85_RS03205	
+ALW85_RS00325-MONOMER		septation protein A	ALW85_RS00325	
+ALW85_RS11075-MONOMER		FMN-binding glutamate synthase family protein	ALW85_RS11075	
+ALW85_RS13180-MONOMER		5-methylcytosine-specific restriction endonuclease system specificity protein McrC	ALW85_RS13180	
+ALW85_RS11085-MONOMER		TonB-dependent siderophore receptor	ALW85_RS11085	
+ALW85_RS06910-MONOMER		carbon-nitrogen hydrolase family protein	ALW85_RS06910	
+ALW85_RS01565-MONOMER		inactive transglutaminase family protein	ALW85_RS01565	
+ALW85_RS13185-MONOMER		DUF4917 family protein	ALW85_RS13185	
+ALW85_RS05325-MONOMER		acetyl-CoA carboxylase carboxyltransferase subunit alpha	ALW85_RS05325	
+ALW85_RS02325-MONOMER		GGDEF domain-containing protein	ALW85_RS02325	
+ALW85_RS08030-MONOMER		glycoside hydrolase	ALW85_RS08030	
+ALW85_RS11090-MONOMER		Fe2+-dependent dioxygenase	ALW85_RS11090	
+ALW85_RS09240-MONOMER		NADH-quinone oxidoreductase subunit C	ALW85_RS09240	
+ALW85_RS03980-MONOMER		tRNA pseudouridine(55) synthase TruB	ALW85_RS03980	
+ALW85_RS13190-MONOMER		hypothetical protein	ALW85_RS13190	
+ALW85_RS03585-MONOMER		entericidin A/B family lipoprotein	ALW85_RS03585	
+ALW85_RS11095-MONOMER		alpha-hydroxy-acid oxidizing protein	ALW85_RS11095	
+ALW85_RS13195-MONOMER		glycoside hydrolase family protein	ALW85_RS13195	
+ALW85_RS04715-MONOMER		M20/M25/M40 family metallo-hydrolase	ALW85_RS04715	
+ALW85_RS11100-MONOMER		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase	ALW85_RS11100	
+ALW85_RS13200-MONOMER		IS3 family transposase	ALW85_RS13200	
+ALW85_RS00545-MONOMER		GNAT family N-acetyltransferase	ALW85_RS00545	
+ALW85_RS11110-MONOMER		nucleoside diphosphate kinase regulator	ALW85_RS11110	
+ALW85_RS06920-MONOMER		TIGR02099 family protein	ALW85_RS06920	
+ALW85_RS13210-MONOMER		hypothetical protein	ALW85_RS13210	
+ALW85_RS11115-MONOMER		phosphate regulon transcriptional regulator PhoB	ALW85_RS11115	
+ALW85_RS08035-MONOMER		DUF2325 domain-containing protein	ALW85_RS08035	
+ALW85_RS04390-MONOMER		mercury resistance co-regulator MerD	ALW85_RS04390	
+ALW85_RS09245-MONOMER		NADH-quinone oxidoreductase subunit B	ALW85_RS09245	
+ALW85_RS13215-MONOMER		lysozyme	ALW85_RS13215	
+ALW85_RS13485-MONOMER		30S ribosomal protein S14	ALW85_RS13485	
+ALW85_RS11130-MONOMER		aspartate kinase	ALW85_RS11130	
+ALW85_RS13220-MONOMER		hypothetical protein	ALW85_RS13220	
+ALW85_RS11135-MONOMER		peptidoglycan-binding protein	ALW85_RS11135	
+ALW85_RS00195-MONOMER		ATP-binding protein	ALW85_RS00195	
+ALW85_RS13225-MONOMER		IS481-like element ISNe2 family transposase	ALW85_RS13225	
+ALW85_RS01070-MONOMER		F0F1 ATP synthase subunit beta	ALW85_RS01070	
+ALW85_RS11140-MONOMER		acetate/propionate family kinase	ALW85_RS11140	
+ALW85_RS13985-MONOMER		hypothetical protein	ALW85_RS13985	
+ALW85_RS13230-MONOMER		helix-turn-helix domain-containing protein	ALW85_RS13230	
+ALW85_RS08040-MONOMER		hypothetical protein	ALW85_RS08040	
+ALW85_RS11145-MONOMER		phosphoketolase family protein	ALW85_RS11145	
+ALW85_RS13235-MONOMER		ImmA/IrrE family metallo-endopeptidase	ALW85_RS13235	
+ALW85_RS05000-MONOMER		50S ribosomal protein L35	ALW85_RS05000	
+ALW85_RS11150-MONOMER		transaldolase	ALW85_RS11150	
+ALW85_RS11155-MONOMER		hypothetical protein	ALW85_RS11155	
+ALW85_RS01860-MONOMER		biopolymer transporter ExbD	ALW85_RS01860	
+ALW85_RS13240-MONOMER		hypothetical protein	ALW85_RS13240	
+ALW85_RS02835-MONOMER		PepSY domain-containing protein	ALW85_RS02835	
+ALW85_RS13245-MONOMER		hypothetical protein	ALW85_RS13245	
+ALW85_RS11160-MONOMER		methylamine utilization protein MauG	ALW85_RS11160	
+ALW85_RS13250-MONOMER		DUF2924 domain-containing protein	ALW85_RS13250	
+ALW85_RS08045-MONOMER		TonB-dependent hemoglobin/transferrin/lactoferrin family receptor	ALW85_RS08045	
+ALW85_RS04085-MONOMER		multicopper oxidase domain-containing protein	ALW85_RS04085	
+ALW85_RS03060-MONOMER		DUF2325 domain-containing protein	ALW85_RS03060	
+ALW85_RS09250-MONOMER		NADH-quinone oxidoreductase subunit A	ALW85_RS09250	
+ALW85_RS01470-MONOMER		radical SAM family heme chaperone HemW	ALW85_RS01470	
+ALW85_RS00330-MONOMER		A/G-specific adenine glycosylase	ALW85_RS00330	
+ALW85_RS13255-MONOMER		recombinase family protein	ALW85_RS13255	
+ALW85_RS05330-MONOMER		tRNA lysidine(34) synthetase TilS	ALW85_RS05330	
+ALW85_RS11165-MONOMER		RNA polymerase sigma factor	ALW85_RS11165	
+ALW85_RS05225-MONOMER		aconitate hydratase AcnA	ALW85_RS05225	
+ALW85_RS13260-MONOMER		hypothetical protein	ALW85_RS13260	
+ALW85_RS02490-MONOMER		DUF2442 domain-containing protein	ALW85_RS02490	
+ALW85_RS11170-MONOMER		FecR family protein	ALW85_RS11170	
+ALW85_RS06925-MONOMER		bifunctional [glutamate--ammonia ligase]-adenylyl-L-tyrosine phosphorylase/[glutamate--ammonia-ligase] adenylyltransferase	ALW85_RS06925	
+ALW85_RS01570-MONOMER		alpha-L-glutamate ligase-like protein	ALW85_RS01570	
+ALW85_RS13265-MONOMER		hypothetical protein	ALW85_RS13265	
+ALW85_RS08050-MONOMER		hemin uptake protein HemP	ALW85_RS08050	
+ALW85_RS13270-MONOMER		hypothetical protein	ALW85_RS13270	
+ALW85_RS11175-MONOMER		TonB-dependent receptor	ALW85_RS11175	
+ALW85_RS13275-MONOMER		TIGR04255 family protein	ALW85_RS13275	
+ALW85_RS03730-MONOMER		IS481 family transposase	ALW85_RS03730	
+ALW85_RS04720-MONOMER		PD40 domain-containing protein	ALW85_RS04720	
+ALW85_RS13280-MONOMER		HAD-IA family hydrolase	ALW85_RS13280	
+ALW85_RS11180-MONOMER		dicarboxylate/amino acid:cation symporter	ALW85_RS11180	
+ALW85_RS06930-MONOMER		fatty acid cis/trans isomerase	ALW85_RS06930	
+ALW85_RS00690-MONOMER		BON domain-containing protein	ALW85_RS00690	
+ALW85_RS13285-MONOMER		bifunctional 3-demethylubiquinone 3-O-methyltransferase/2-octaprenyl-6-hydroxy phenol methylase	ALW85_RS13285	
+ALW85_RS08055-MONOMER		DUF2325 domain-containing protein	ALW85_RS08055	
+ALW85_RS09260-MONOMER		preprotein translocase subunit SecG	ALW85_RS09260	
+ALW85_RS13290-MONOMER		OmpA family protein	ALW85_RS13290	
+ALW85_RS00335-MONOMER		5-formyltetrahydrofolate cyclo-ligase	ALW85_RS00335	
+ALW85_RS02195-MONOMER		30S ribosomal protein S8	ALW85_RS02195	
+ALW85_RS04535-MONOMER		5-(carboxyamino)imidazole ribonucleotide synthase	ALW85_RS04535	
+ALW85_RS11185-MONOMER		hypothetical protein	ALW85_RS11185	
+ALW85_RS13295-MONOMER		ABC transporter ATP-binding protein	ALW85_RS13295	
+ALW85_RS05335-MONOMER		dTDP-4-dehydrorhamnose reductase	ALW85_RS05335	
+ALW85_RS13300-MONOMER		ABC transporter permease subunit	ALW85_RS13300	
+ALW85_RS11190-MONOMER		30S ribosomal protein S4	ALW85_RS11190	
+ALW85_RS06935-MONOMER		gamma-glutamyltransferase family protein	ALW85_RS06935	
+ALW85_RS13305-MONOMER		GldG family protein	ALW85_RS13305	
+ALW85_RS01225-MONOMER		DUF3987 domain-containing protein	ALW85_RS01225	
+ALW85_RS08060-MONOMER		multicopper oxidase domain-containing protein	ALW85_RS08060	
+ALW85_RS13310-MONOMER		bifunctional DNA-formamidopyrimidine glycosylase/DNA-(apurinic or apyrimidinic site) lyase	ALW85_RS13310	
+ALW85_RS13315-MONOMER		DsbA family protein	ALW85_RS13315	
+ALW85_RS04855-MONOMER		multicopper oxidase domain-containing protein	ALW85_RS04855	
+ALW85_RS13320-MONOMER		translational GTPase TypA	ALW85_RS13320	
+ALW85_RS11195-MONOMER		pirin family protein	ALW85_RS11195	
+ALW85_RS02040-MONOMER		type I restriction-modification system subunit M	ALW85_RS02040	
+ALW85_RS06955-MONOMER		LTA synthase family protein	ALW85_RS06955	
+ALW85_RS13325-MONOMER		riboflavin synthase	ALW85_RS13325	
+ALW85_RS08065-MONOMER		LysR family transcriptional regulator	ALW85_RS08065	
+ALW85_RS04090-MONOMER		alginate export family protein	ALW85_RS04090	
+ALW85_RS09265-MONOMER		triose-phosphate isomerase	ALW85_RS09265	
+ALW85_RS13330-MONOMER		bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II	ALW85_RS13330	
+ALW85_RS00340-MONOMER		UbiX family flavin prenyltransferase	ALW85_RS00340	
+ALW85_RS13335-MONOMER		6,7-dimethyl-8-ribityllumazine synthase	ALW85_RS13335	
+ALW85_RS05150-MONOMER		UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D- alanine ligase	ALW85_RS05150	
+ALW85_RS03210-MONOMER		carbohydrate kinase family protein	ALW85_RS03210	
+ALW85_RS05340-MONOMER		S49 family peptidase	ALW85_RS05340	
+ALW85_RS13340-MONOMER		transcription antitermination factor NusB	ALW85_RS13340	
+ALW85_RS11200-MONOMER		DUF3617 domain-containing protein	ALW85_RS11200	
+ALW85_RS01575-MONOMER		phosphate acetyltransferase	ALW85_RS01575	
+ALW85_RS13345-MONOMER		thiamine-phosphate kinase	ALW85_RS13345	
+ALW85_RS02330-MONOMER		leucyl aminopeptidase	ALW85_RS02330	
+ALW85_RS13350-MONOMER		phosphatidylglycerophosphatase A	ALW85_RS13350	
+ALW85_RS03590-MONOMER		3-isopropylmalate dehydratase small subunit	ALW85_RS03590	
+ALW85_RS04725-MONOMER		cytochrome c	ALW85_RS04725	
+ALW85_RS13355-MONOMER		nicotinamide-nucleotide amidohydrolase family protein	ALW85_RS13355	
+ALW85_RS00550-MONOMER		MHS family MFS transporter	ALW85_RS00550	
+ALW85_RS11205-MONOMER		hypothetical protein	ALW85_RS11205	
+ALW85_RS06960-MONOMER		SDR family NAD(P)-dependent oxidoreductase	ALW85_RS06960	
+ALW85_RS13360-MONOMER		hypothetical protein	ALW85_RS13360	
+ALW85_RS08070-MONOMER		pirin family protein	ALW85_RS08070	
+ALW85_RS04395-MONOMER		mercury(II) reductase	ALW85_RS04395	
+ALW85_RS09275-MONOMER		2,3-diphosphoglycerate-dependent phosphoglycerate mutase	ALW85_RS09275	
+ALW85_RS13365-MONOMER		porin	ALW85_RS13365	
+ALW85_RS00345-MONOMER		HPr(Ser) kinase/phosphatase	ALW85_RS00345	
+ALW85_RS02200-MONOMER		50S ribosomal protein L6	ALW85_RS02200	
+ALW85_RS11210-MONOMER		Xaa-Pro aminopeptidase	ALW85_RS11210	
+ALW85_RS13370-MONOMER		DNA helicase RecQ	ALW85_RS13370	
+ALW85_RS05345-MONOMER		OmpA family protein	ALW85_RS05345	
+ALW85_RS13375-MONOMER		RNA-binding S4 domain-containing protein	ALW85_RS13375	
+ALW85_RS01075-MONOMER		F0F1 ATP synthase subunit epsilon	ALW85_RS01075	
+ALW85_RS11215-MONOMER		ribulose-phosphate 3-epimerase	ALW85_RS11215	
+ALW85_RS13380-MONOMER		sulfite exporter TauE/SafE family protein	ALW85_RS13380	
+ALW85_RS08075-MONOMER		DoxX family protein	ALW85_RS08075	
+ALW85_RS09280-MONOMER		peptidoglycan DD-metalloendopeptidase family protein	ALW85_RS09280	
+ALW85_RS13385-MONOMER		TIGR01244 family phosphatase	ALW85_RS13385	
+ALW85_RS05005-MONOMER		translation initiation factor IF-3	ALW85_RS05005	
+ALW85_RS11220-MONOMER		phosphoglycolate phosphatase	ALW85_RS11220	
+ALW85_RS13390-MONOMER		metalloregulator ArsR/SmtB family transcription factor	ALW85_RS13390	
+ALW85_RS02650-MONOMER		sugar transferase	ALW85_RS02650	
+ALW85_RS01865-MONOMER		MotA/TolQ/ExbB proton channel family protein	ALW85_RS01865	
+ALW85_RS13395-MONOMER		YeeE/YedE family protein	ALW85_RS13395	
+ALW85_RS09285-MONOMER		S41 family peptidase	ALW85_RS09285	
+ALW85_RS11225-MONOMER		anthranilate synthase component I	ALW85_RS11225	
+ALW85_RS06965-MONOMER		glycosyltransferase family 2 protein	ALW85_RS06965	
+ALW85_RS13400-MONOMER		YeeE/YedE family protein	ALW85_RS13400	
+ALW85_RS08080-MONOMER		hypothetical protein	ALW85_RS08080	
+ALW85_RS04095-MONOMER		hypothetical protein	ALW85_RS04095	
+ALW85_RS13405-MONOMER		MBL fold metallo-hydrolase	ALW85_RS13405	
+ALW85_RS03065-MONOMER		sulfate ABC transporter substrate-binding protein	ALW85_RS03065	
+ALW85_RS00350-MONOMER		PTS sugar transporter subunit IIA	ALW85_RS00350	
+ALW85_RS09290-MONOMER		HesA/MoeB/ThiF family protein	ALW85_RS09290	
+ALW85_RS11230-MONOMER		DUF2231 domain-containing protein	ALW85_RS11230	
+ALW85_RS13410-MONOMER		DUF882 domain-containing protein	ALW85_RS13410	
+ALW85_RS05350-MONOMER		SH3 domain-containing protein	ALW85_RS05350	
+ALW85_RS13415-MONOMER		L,D-transpeptidase family protein	ALW85_RS13415	
+ALW85_RS02495-MONOMER		ABC transporter permease	ALW85_RS02495	
+ALW85_RS09295-MONOMER		ATP-binding cassette domain-containing protein	ALW85_RS09295	
+ALW85_RS11235-MONOMER		hypothetical protein	ALW85_RS11235	
+ALW85_RS01580-MONOMER		hypothetical protein	ALW85_RS01580	
+ALW85_RS03895-MONOMER		RES domain-containing protein	ALW85_RS03895	
+ALW85_RS09300-MONOMER		low molecular weight phosphotyrosine protein phosphatase	ALW85_RS09300	
+ALW85_RS11240-MONOMER		methanogen output domain 1-containing protein	ALW85_RS11240	
+ALW85_RS03745-MONOMER		cold shock and DUF1294 domain-containing protein	ALW85_RS03745	
+ALW85_RS09305-MONOMER		oligosaccharide flippase family protein	ALW85_RS09305	
+ALW85_RS11245-MONOMER		porin	ALW85_RS11245	
+ALW85_RS06970-MONOMER		glycosyltransferase	ALW85_RS06970	
+ALW85_RS13440-MONOMER		DUF1328 domain-containing protein	ALW85_RS13440	
+ALW85_RS08085-MONOMER		acyl-CoA dehydrogenase	ALW85_RS08085	
+ALW85_RS11250-MONOMER		IS3 family transposase	ALW85_RS11250	
+ALW85_RS00355-MONOMER		ribosome-associated translation inhibitor RaiA	ALW85_RS00355	
+ALW85_RS09310-MONOMER		oligosaccharide flippase family protein	ALW85_RS09310	
+ALW85_RS04540-MONOMER		5-(carboxyamino)imidazole ribonucleotide mutase	ALW85_RS04540	
+ALW85_RS11260-MONOMER		dihydrolipoyl dehydrogenase	ALW85_RS11260	
+ALW85_RS00120-MONOMER		CreA family protein	ALW85_RS00120	
+ALW85_RS05355-MONOMER		alpha/beta fold hydrolase	ALW85_RS05355	
+ALW85_RS11265-MONOMER		glutamate-5-semialdehyde dehydrogenase	ALW85_RS11265	
+ALW85_RS09315-MONOMER		hypothetical protein	ALW85_RS09315	
+ALW85_RS11270-MONOMER		tetratricopeptide repeat protein	ALW85_RS11270	
+ALW85_RS06975-MONOMER		glycosyltransferase family 4 protein	ALW85_RS06975	
+ALW85_RS01230-MONOMER		toprim domain-containing protein	ALW85_RS01230	
+ALW85_RS08090-MONOMER		long-chain fatty acid--CoA ligase	ALW85_RS08090	
+ALW85_RS11280-MONOMER		hydrolase 1, exosortase A system-associated	ALW85_RS11280	
+ALW85_RS13675-MONOMER		IS5-like element ISNeu3 family transposase	ALW85_RS13675	
+ALW85_RS11285-MONOMER		hydrolase 2, exosortase A system-associated	ALW85_RS11285	
+ALW85_RS04860-MONOMER		Rrf2 family transcriptional regulator	ALW85_RS04860	
+ALW85_RS11290-MONOMER		acyl carrier protein	ALW85_RS11290	
+ALW85_RS02730-MONOMER		DsbC family protein	ALW85_RS02730	
+ALW85_RS11295-MONOMER		tetraacyldisaccharide 4'-kinase	ALW85_RS11295	
+ALW85_RS09330-MONOMER		hypothetical protein	ALW85_RS09330	
+ALW85_RS02045-MONOMER		tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE	ALW85_RS02045	
+ALW85_RS06980-MONOMER		polysaccharide deacetylase	ALW85_RS06980	
+ALW85_RS01385-MONOMER		type II toxin-antitoxin system ParD family antitoxin	ALW85_RS01385	
+ALW85_RS11300-MONOMER		TonB-dependent receptor	ALW85_RS11300	
+ALW85_RS08095-MONOMER		hypothetical protein	ALW85_RS08095	
+ALW85_RS04100-MONOMER		excinuclease ABC subunit UvrB	ALW85_RS04100	
+ALW85_RS00360-MONOMER		RNA polymerase factor sigma-54	ALW85_RS00360	
+ALW85_RS09335-MONOMER		hypothetical protein	ALW85_RS09335	
+ALW85_RS11305-MONOMER		UvrD-helicase domain-containing protein	ALW85_RS11305	
+ALW85_RS03215-MONOMER		1-acyl-sn-glycerol-3-phosphate acyltransferase	ALW85_RS03215	
+ALW85_RS05360-MONOMER		universal stress protein	ALW85_RS05360	
+ALW85_RS11310-MONOMER		dTDP-4-amino-4,6-dideoxygalactose transaminase	ALW85_RS11310	
+ALW85_RS11315-MONOMER		YfhO family protein	ALW85_RS11315	
+ALW85_RS09340-MONOMER		ATP-grasp domain-containing protein	ALW85_RS09340	
+ALW85_RS06985-MONOMER		H-NS histone family protein	ALW85_RS06985	
+ALW85_RS01585-MONOMER		metal-dependent hydrolase	ALW85_RS01585	
+ALW85_RS02335-MONOMER		DNA polymerase III subunit chi	ALW85_RS02335	
+ALW85_RS13645-MONOMER		hypothetical protein	ALW85_RS13645	
+ALW85_RS11325-MONOMER		class I SAM-dependent methyltransferase	ALW85_RS11325	
+ALW85_RS03985-MONOMER		cytochrome c biogenesis heme-transporting ATPase CcmA	ALW85_RS03985	
+ALW85_RS03595-MONOMER		3-isopropylmalate dehydrogenase	ALW85_RS03595	
+ALW85_RS11330-MONOMER		GtrA family protein	ALW85_RS11330	
+ALW85_RS11335-MONOMER		formyl transferase N-terminus	ALW85_RS11335	
+ALW85_RS00555-MONOMER		2-hydroxyacid dehydrogenase	ALW85_RS00555	
+ALW85_RS09345-MONOMER		GNAT family N-acetyltransferase	ALW85_RS09345	
+ALW85_RS11340-MONOMER		class I SAM-dependent methyltransferase	ALW85_RS11340	
+ALW85_RS06990-MONOMER		hypothetical protein	ALW85_RS06990	
+ALW85_RS11345-MONOMER		glycosyltransferase family 2 protein	ALW85_RS11345	
+ALW85_RS13650-MONOMER		IS5 family transposase	ALW85_RS13650	
+ALW85_RS04400-MONOMER		organomercurial transporter MerC	ALW85_RS04400	
+ALW85_RS00365-MONOMER		LPS export ABC transporter ATP-binding protein	ALW85_RS00365	
+ALW85_RS09350-MONOMER		hypothetical protein	ALW85_RS09350	
+ALW85_RS11350-MONOMER		type II toxin-antitoxin system VapC family toxin	ALW85_RS11350	
+ALW85_RS05365-MONOMER		Fe(3+) ABC transporter substrate-binding protein	ALW85_RS05365	
+ALW85_RS00200-MONOMER		TolC family outer membrane protein	ALW85_RS00200	
+ALW85_RS01080-MONOMER		bifunctional UDP-N-acetylglucosamine diphosphorylase/glucosamine-1-phosphate N-acetyltransferase GlmU	ALW85_RS01080	
+ALW85_RS09355-MONOMER		amidotransferase 1, exosortase A system-associated	ALW85_RS09355	
+ALW85_RS11355-MONOMER		DUF2281 domain-containing protein	ALW85_RS11355	
+ALW85_RS06995-MONOMER		hypothetical protein	ALW85_RS06995	
+ALW85_RS14005-MONOMER		hypothetical protein	ALW85_RS14005	
+ALW85_RS11360-MONOMER		WbqC family protein	ALW85_RS11360	
+ALW85_RS05010-MONOMER		threonine--tRNA ligase	ALW85_RS05010	
+ALW85_RS09360-MONOMER		TIGR03088 family PEP-CTERM/XrtA system glycosyltransferase	ALW85_RS09360	
+ALW85_RS11365-MONOMER		hypothetical protein	ALW85_RS11365	
+ALW85_RS01870-MONOMER		energy transducer TonB	ALW85_RS01870	
+ALW85_RS09365-MONOMER		exosortase A	ALW85_RS09365	
+ALW85_RS11370-MONOMER		PD-(D/E)XK nuclease family protein	ALW85_RS11370	
+ALW85_RS07000-MONOMER		glycosyl transferase	ALW85_RS07000	
+ALW85_RS11375-MONOMER		hypothetical protein	ALW85_RS11375	
+ALW85_RS08115-MONOMER		hypothetical protein	ALW85_RS08115	
+ALW85_RS04105-MONOMER		pyridoxal phosphate-dependent aminotransferase	ALW85_RS04105	
+ALW85_RS03070-MONOMER		alginate export family protein	ALW85_RS03070	
+ALW85_RS01475-MONOMER		copper resistance system multicopper oxidase	ALW85_RS01475	
+ALW85_RS00370-MONOMER		lipopolysaccharide transport periplasmic protein LptA	ALW85_RS00370	
+ALW85_RS09370-MONOMER		TIGR03087 family PEP-CTERM/XrtA system glycosyltransferase	ALW85_RS09370	
+ALW85_RS11380-MONOMER		DNA polymerase III subunit delta'	ALW85_RS11380	
+ALW85_RS05370-MONOMER		iron ABC transporter permease	ALW85_RS05370	
+ALW85_RS11385-MONOMER		dTMP kinase	ALW85_RS11385	
+ALW85_RS05230-MONOMER		D-hexose-6-phosphate mutarotase	ALW85_RS05230	
+ALW85_RS02500-MONOMER		hypothetical protein	ALW85_RS02500	
+ALW85_RS09375-MONOMER		FemAB family PEP-CTERM system-associated protein	ALW85_RS09375	
+ALW85_RS07005-MONOMER		nucleotide sugar dehydrogenase	ALW85_RS07005	
+ALW85_RS01590-MONOMER		TetR/AcrR family transcriptional regulator	ALW85_RS01590	
+ALW85_RS11390-MONOMER		1,6-anhydro-N-acetylmuramyl-L-alanine amidase AmpD	ALW85_RS11390	
+ALW85_RS08120-MONOMER		hypothetical protein	ALW85_RS08120	
+ALW85_RS09380-MONOMER		DUF3473 domain-containing protein	ALW85_RS09380	
+ALW85_RS11395-MONOMER		PTS sugar transporter subunit IIA	ALW85_RS11395	
+ALW85_RS03750-MONOMER		hypothetical protein	ALW85_RS03750	
+ALW85_RS11400-MONOMER		HPr family phosphocarrier protein	ALW85_RS11400	
+ALW85_RS09385-MONOMER		XrtA-associated ATPase	ALW85_RS09385	
+ALW85_RS07010-MONOMER		dTDP-4-dehydrorhamnose 3,5-epimerase family protein	ALW85_RS07010	
+ALW85_RS00700-MONOMER		BON domain-containing protein	ALW85_RS00700	
+ALW85_RS08125-MONOMER		IS630 transposase-related protein	ALW85_RS08125	
+ALW85_RS11405-MONOMER		phosphoenolpyruvate--protein phosphotransferase	ALW85_RS11405	
+ALW85_RS00375-MONOMER		LPS export ABC transporter periplasmic protein LptC	ALW85_RS00375	
+ALW85_RS09390-MONOMER		TIGR03016 family PEP-CTERM system-associated outer membrane protein	ALW85_RS09390	
+ALW85_RS04545-MONOMER		biopolymer transporter ExbD	ALW85_RS04545	
+ALW85_RS11410-MONOMER		homoserine O-acetyltransferase	ALW85_RS11410	
+ALW85_RS05375-MONOMER		ABC transporter ATP-binding protein	ALW85_RS05375	
+ALW85_RS11415-MONOMER		methionine biosynthesis protein MetW	ALW85_RS11415	
+ALW85_RS14185-MONOMER		hypothetical protein	ALW85_RS14185	
+ALW85_RS01235-MONOMER		hypothetical protein	ALW85_RS01235	
+ALW85_RS08130-MONOMER		transposase	ALW85_RS08130	
+ALW85_RS14280-MONOMER		hypothetical protein	ALW85_RS14280	
+ALW85_RS09395-MONOMER		XrtA-associated tyrosine autokinase	ALW85_RS09395	
+ALW85_RS04865-MONOMER		translocation/assembly module TamB domain-containing protein	ALW85_RS04865	
+ALW85_RS11425-MONOMER		integron integrase	ALW85_RS11425	
+ALW85_RS02050-MONOMER		membrane protein insertase YidC	ALW85_RS02050	
+ALW85_RS07020-MONOMER		Txe/YoeB family addiction module toxin	ALW85_RS07020	
+ALW85_RS11430-MONOMER		DUF6232 family protein	ALW85_RS11430	
+ALW85_RS08135-MONOMER		hypothetical protein	ALW85_RS08135	
+ALW85_RS14160-MONOMER		hypothetical protein	ALW85_RS14160	
+ALW85_RS00380-MONOMER		quinolinate synthase NadA	ALW85_RS00380	
+ALW85_RS09400-MONOMER		chain-length determining protein	ALW85_RS09400	
+ALW85_RS11435-MONOMER		group II intron reverse transcriptase/maturase	ALW85_RS11435	
+ALW85_RS05155-MONOMER		phospho-N-acetylmuramoyl-pentapeptide- transferase	ALW85_RS05155	
+ALW85_RS03220-MONOMER		symmetrical bis(5'-nucleosyl)-tetraphosphatase	ALW85_RS03220	
+ALW85_RS05380-MONOMER		heavy metal-binding domain-containing protein	ALW85_RS05380	
+ALW85_RS14230-MONOMER		hypothetical protein	ALW85_RS14230	
+ALW85_RS07025-MONOMER		type II toxin-antitoxin system Phd/YefM family antitoxin	ALW85_RS07025	
+ALW85_RS01595-MONOMER		flagellar basal body P-ring formation protein FlgA	ALW85_RS01595	
+ALW85_RS02340-MONOMER		hypothetical protein	ALW85_RS02340	
+ALW85_RS08140-MONOMER		DNA-deoxyinosine glycosylase	ALW85_RS08140	
+ALW85_RS11445-MONOMER		MFS transporter	ALW85_RS11445	
+ALW85_RS03600-MONOMER		aspartate-semialdehyde dehydrogenase	ALW85_RS03600	
+ALW85_RS09405-MONOMER		polysaccharide export protein	ALW85_RS09405	
+ALW85_RS11450-MONOMER		exodeoxyribonuclease III	ALW85_RS11450	
+ALW85_RS00560-MONOMER		c-type cytochrome	ALW85_RS00560	
+ALW85_RS11455-MONOMER		hypothetical protein	ALW85_RS11455	
+ALW85_RS07035-MONOMER		type II toxin-antitoxin system VapC family toxin	ALW85_RS07035	
+ALW85_RS08145-MONOMER		hypothetical protein	ALW85_RS08145	
+ALW85_RS04405-MONOMER		mercury resistance system periplasmic binding protein MerP	ALW85_RS04405	
+ALW85_RS11460-MONOMER		DUF615 domain-containing protein	ALW85_RS11460	
+ALW85_RS00385-MONOMER		endonuclease/exonuclease/phosphatase family protein	ALW85_RS00385	
+ALW85_RS09410-MONOMER		energy-dependent translational throttle protein EttA	ALW85_RS09410	
+ALW85_RS05385-MONOMER		lytic murein transglycosylase B	ALW85_RS05385	
+ALW85_RS11465-MONOMER		metalloprotease PmbA	ALW85_RS11465	
+ALW85_RS01085-MONOMER		glutamine--fructose-6-phosphate transaminase (isomerizing)	ALW85_RS01085	
+ALW85_RS07040-MONOMER		AbrB/MazE/SpoVT family DNA-binding domain-containing protein	ALW85_RS07040	
+ALW85_RS11470-MONOMER		DMT family transporter	ALW85_RS11470	
+ALW85_RS08150-MONOMER		type II toxin-antitoxin system prevent-host-death family antitoxin	ALW85_RS08150	
+ALW85_RS05015-MONOMER		tetraheme cytochrome c-type	ALW85_RS05015	
+ALW85_RS09415-MONOMER		DEAD/DEAH box helicase	ALW85_RS09415	
+ALW85_RS11475-MONOMER		RNA-binding transcriptional accessory protein	ALW85_RS11475	
+ALW85_RS02655-MONOMER		polysaccharide biosynthesis protein	ALW85_RS02655	
+ALW85_RS01880-MONOMER		Maf family nucleotide pyrophosphatase	ALW85_RS01880	
+ALW85_RS11480-MONOMER		multidrug efflux SMR transporter	ALW85_RS11480	
+ALW85_RS07050-MONOMER		IS481 family transposase	ALW85_RS07050	
+ALW85_RS11485-MONOMER		NAD(P)-binding domain-containing protein	ALW85_RS11485	
+ALW85_RS08155-MONOMER		type II toxin-antitoxin system RelE/ParE family toxin	ALW85_RS08155	
+ALW85_RS04120-MONOMER		hypothetical protein	ALW85_RS04120	
+ALW85_RS03075-MONOMER		RNA polymerase sigma factor RpoH	ALW85_RS03075	
+ALW85_RS00390-MONOMER		cardiolipin synthase ClsB	ALW85_RS00390	
+ALW85_RS09420-MONOMER		DNA repair protein RadA	ALW85_RS09420	
+ALW85_RS13755-MONOMER		IS5-like element ISNeu3 family transposase	ALW85_RS13755	
+ALW85_RS05390-MONOMER		thioredoxin TrxA	ALW85_RS05390	
+ALW85_RS14235-MONOMER		hypothetical protein	ALW85_RS14235	
+ALW85_RS07055-MONOMER		Txe/YoeB family addiction module toxin	ALW85_RS07055	
+ALW85_RS01600-MONOMER		flagellar basal body rod protein FlgB	ALW85_RS01600	
+ALW85_RS03900-MONOMER		hypothetical protein	ALW85_RS03900	
+ALW85_RS08160-MONOMER		adenine nucleotide alpha hydrolase	ALW85_RS08160	
+ALW85_RS11505-MONOMER		carbon-nitrogen hydrolase family protein	ALW85_RS11505	
+ALW85_RS00395-MONOMER		polynucleotide adenylyltransferase PcnB	ALW85_RS00395	
+ALW85_RS09430-MONOMER		CoA ester lyase	ALW85_RS09430	
+ALW85_RS03755-MONOMER		YraN family protein	ALW85_RS03755	
+ALW85_RS09435-MONOMER		malate--CoA ligase subunit beta	ALW85_RS09435	
+ALW85_RS07060-MONOMER		type II toxin-antitoxin system Phd/YefM family antitoxin	ALW85_RS07060	
+ALW85_RS00705-MONOMER		PAS domain S-box protein	ALW85_RS00705	
+ALW85_RS11510-MONOMER		AraC family transcriptional regulator	ALW85_RS11510	
+ALW85_RS08165-MONOMER		hypothetical protein	ALW85_RS08165	
+ALW85_RS09440-MONOMER		succinate--CoA ligase subunit alpha	ALW85_RS09440	
+ALW85_RS04550-MONOMER		superoxide dismutase	ALW85_RS04550	
+ALW85_RS11515-MONOMER		SDR family oxidoreductase	ALW85_RS11515	
+ALW85_RS00125-MONOMER		alanine dehydrogenase	ALW85_RS00125	
+ALW85_RS05395-MONOMER		transcription termination factor Rho	ALW85_RS05395	
+ALW85_RS11520-MONOMER		SurA N-terminal domain-containing protein	ALW85_RS11520	
+ALW85_RS09450-MONOMER		YfbM family protein	ALW85_RS09450	
+ALW85_RS07065-MONOMER		hypothetical protein	ALW85_RS07065	
+ALW85_RS01240-MONOMER		integrase family protein	ALW85_RS01240	
+ALW85_RS08170-MONOMER		phospholipase D-like domain-containing protein	ALW85_RS08170	
+ALW85_RS11535-MONOMER		HU family DNA-binding protein	ALW85_RS11535	
+ALW85_RS00400-MONOMER		2-amino-4-hydroxy-6- hydroxymethyldihydropteridine diphosphokinase	ALW85_RS00400	
+ALW85_RS11540-MONOMER		NAD(P)-dependent glycerol-3-phosphate dehydrogenase	ALW85_RS11540	

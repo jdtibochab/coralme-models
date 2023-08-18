@@ -1,0 +1,10 @@
+,value
+bam,{'enzymes': ['YPO0494-MONOMER']}
+lol,"{'enzymes': ['YPO1377-MONOMER', 'YPO2015-MONOMER']}"
+sec,"{'enzymes': ['YPO0067-MONOMER', 'YPO0564-MONOMER']}"
+secA,{'enzymes': ['YPO0564-MONOMER']}
+srp,{'enzymes': ['CPLX_dummy']}
+srp_yidC,{'enzymes': ['YPO4102-MONOMER']}
+tat,{'enzymes': ['YPO3778-MONOMER']}
+tat_alt,{'enzymes': ['CPLX_dummy']}
+yidC,{'enzymes': ['YPO4102-MONOMER']}

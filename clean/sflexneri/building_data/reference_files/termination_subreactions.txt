@@ -1,0 +1,10 @@
+subreaction	enzymes
+DnaK_dependent_folding	S0014-MONOMER,S0015-MONOMER_mod_zn2(4),S2851-MONOMER
+GroEL_dependent_folding	S4564-MONOMER,S4563-MONOMER
+N_terminal_methionine_cleavage	S0161-MONOMER_mod_fe2(2)
+PrfA_mono_mediated_termination	S1298-MONOMER
+PrfB_mono_mediated_termination	S3076-MONOMER
+generic_RF_mediated_termination	generic_RF
+peptide_chain_release	S4678-MONOMER
+peptide_deformylase_processing	S3543-MONOMER_mod_fe2(1)
+ribosome_recycler	S0165-MONOMER

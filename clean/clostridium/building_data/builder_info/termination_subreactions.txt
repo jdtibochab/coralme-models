@@ -1,0 +1,10 @@
+,value
+DnaK_dependent_folding,"{'enzymes': ['CLJU_RS03925-MONOMER', 'CLJU_RS03930-MONOMER_mod_zn2(4)', 'CLJU_RS03920-MONOMER']}"
+GroEL_dependent_folding,"{'enzymes': ['CLJU_RS18310-MONOMER', 'CLJU_RS18315-MONOMER']}"
+N_terminal_methionine_cleavage,{'enzymes': ['CLJU_RS17620-MONOMER_mod_fe2(2)']}
+PrfA_mono_mediated_termination,{'enzymes': ['CLJU_RS01105-MONOMER']}
+PrfB_mono_mediated_termination,{'enzymes': ['CLJU_RS01290-MONOMER']}
+generic_RF_mediated_termination,{'enzymes': ['generic_RF']}
+peptide_chain_release,{'enzymes': ['CLJU_RS18855-MONOMER']}
+peptide_deformylase_processing,{'enzymes': ['CLJU_RS06165-MONOMER_mod_fe2(1)']}
+ribosome_recycler,{'enzymes': ['CLJU_RS06405-MONOMER']}

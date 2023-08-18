@@ -1,0 +1,4 @@
+codon	enzyme
+UAG	HP_RS00395-MONOMER
+UGA	HP_RS00835-MONOMER
+UAA	generic_RF

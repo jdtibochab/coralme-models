@@ -1,0 +1,5 @@
+,value
+Transcription_normal_rho_dependent,{'enzymes': ['generic_Transcription_normal_rho_dependent']}
+Transcription_normal_rho_independent,{'enzymes': ['generic_Transcription_normal_rho_independent']}
+Transcription_stable_rho_dependent,{'enzymes': ['generic_Transcription_stable_rho_dependent']}
+Transcription_stable_rho_independent,{'enzymes': ['generic_Transcription_stable_rho_independent']}

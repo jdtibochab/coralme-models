@@ -1,0 +1,4 @@
+type	enzymes
+monocistronic	RNase_P,generic_RNase
+polycistronic_wout_rRNA	RNase_P,generic_RNase
+rRNA_containing	RnmV_mono,RNase_P,generic_RNase

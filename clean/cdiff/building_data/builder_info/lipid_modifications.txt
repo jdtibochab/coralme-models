@@ -1,0 +1,3 @@
+,value
+other_lipids,[]
+pg_pe_160,"['G12WB-2810-MONOMER', 'G12WB-2754-MONOMER']"

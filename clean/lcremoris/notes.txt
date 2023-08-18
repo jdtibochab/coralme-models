@@ -1,0 +1,1 @@
+BioCyc entry of Lactococcus lactis cremoris MG1363 (https://biocyc.org/) contains gene IDs that are not compatible with model and genome IDs (http://bigg.ucsd.edu/genomes/ncbi_accession:NC_009004.1). Thus, minimal files are created.

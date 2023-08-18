@@ -1,0 +1,10 @@
+,value
+DnaK_dependent_folding,"{'enzymes': ['SYNPCC7942_2468-MONOMER', 'SYNPCC7942_2074-MONOMER_mod_zn2(4)', 'SYNPCC7942_2072-MONOMER']}"
+GroEL_dependent_folding,"{'enzymes': ['CPLX490-3654', 'CPLX490-3632']}"
+N_terminal_methionine_cleavage,{'enzymes': ['SYNPCC7942_2446-MONOMER_mod_fe2(2)']}
+PrfA_mono_mediated_termination,{'enzymes': ['SYNPCC7942_2203-MONOMER']}
+PrfB_mono_mediated_termination,{'enzymes': ['SYNPCC7942_0404-MONOMER']}
+generic_RF_mediated_termination,{'enzymes': ['generic_RF']}
+peptide_chain_release,{'enzymes': ['SYNPCC7942_2365-MONOMER']}
+peptide_deformylase_processing,{'enzymes': ['SYNPCC7942_1340-MONOMER_mod_fe2(1)']}
+ribosome_recycler,{'enzymes': ['SYNPCC7942_0507-MONOMER']}

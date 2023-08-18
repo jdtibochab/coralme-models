@@ -1,0 +1,5 @@
+,value
+RNA_degradosome,"{'enzymes': ['HP_RS00760-MONOMER_mod_mg2(4)', 'HP_RS05995-MONOMER']}"
+monocistronic,{'enzymes': ['generic_RNase']}
+polycistronic_wout_rRNA,"{'enzymes': ['generic_RNase', 'HP_RS03265-MONOMER']}"
+rRNA_containing,"{'enzymes': ['generic_RNase', 'HP_RS03265-MONOMER_mod_mg2(2)']}"

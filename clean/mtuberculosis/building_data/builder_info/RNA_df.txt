@@ -1,0 +1,195 @@
+(All-tRNAs rRNAs Misc-RNAs),Common-Name,Gene
+charged-G185E-7969-tRNA,charged tRNA-Pro,
+charged-G185E-7458-tRNA,charged tRNA-Met,
+charged-G185E-5912-tRNA,charged tRNA-Pro,
+G185E-7247-tRNA,tRNA-Glu,G185E-7247
+charged-G185E-6695-tRNA,charged tRNA-Pro,
+G185E-4983-tRNA,tRNA-Glu,G185E-4983
+charged-G185E-7247-tRNA,charged tRNA-Glu,
+charged-G185E-7248-tRNA,charged tRNA-Gln,
+charged-G185E-4983-tRNA,charged tRNA-Glu,
+charged-G185E-5177-tRNA,charged tRNA-Gln,
+G185E-5177-tRNA,tRNA-Gln,G185E-5177
+G185E-7248-tRNA,tRNA-Gln,G185E-7248
+charged-G185E-8072-tRNA,charged tRNA-Ser,
+charged-G185E-8011-tRNA,charged tRNA-Ser,
+charged-G185E-8042-tRNA,charged tRNA-Ser,
+charged-G185E-8066-tRNA,charged tRNA-Ser,
+charged-G185E-6890-tRNA,charged tRNA-Gly,
+charged-G185E-4441-tRNA,charged tRNA-Gly,
+charged-G185E-6696-tRNA,charged tRNA-Gly,
+G185E-8042-tRNA,tRNA-Ser,G185E-8042
+G185E-8066-tRNA,tRNA-Ser,G185E-8066
+G185E-8072-tRNA,tRNA-Ser,G185E-8072
+G185E-8011-tRNA,tRNA-Ser,G185E-8011
+charged-G185E-4700-tRNA,charged tRNA-Tyr,
+charged-G185E-8065-tRNA,charged tRNA-Arg,
+charged-G185E-5074-tRNA,charged tRNA-Arg,
+charged-G185E-5465-tRNA,charged tRNA-Arg,
+charged-G185E-6721-tRNA,charged tRNA-Arg,
+G185E-6891-tRNA,tRNA-Cys,G185E-6891
+G185E-4903-tRNA,tRNA-Thr,G185E-4903
+G185E-7923-tRNA,tRNA-Thr,G185E-7923
+charged-G185E-4985-tRNA,charged tRNA-Phe,
+G185E-4774-tRNA,tRNA-Thr,G185E-4774
+G185E-6756-tRNA,tRNA-Lys,G185E-6756
+charged-G185E-7329-tRNA,charged tRNA-Ala,
+G185E-4982-tRNA,tRNA-Lys,G185E-4982
+charged-G185E-4120-tRNA,charged tRNA-Ala,
+charged-G185E-5154-tRNA,charged tRNA-Ala,
+G185E-5492-rRNA,Ribosomal RNA 23S,G185E-5492
+G185E-7329-tRNA,tRNA-Ala,G185E-7329
+G185E-5493-rRNA,Ribosomal RNA 5S,G185E-5493
+G185E-4120-tRNA,tRNA-Ala,G185E-4120
+G185E-5491-rRNA,Ribosomal RNA 16S,G185E-5491
+G185E-5154-tRNA,tRNA-Ala,G185E-5154
+charged-G185E-4780-tRNA,charged tRNA-Trp,
+charged-G185E-4984-tRNA,charged tRNA-Asp,
+charged-G185E-4982-tRNA,charged tRNA-Lys,
+charged-G185E-6566-tRNA,charged tRNA-Asn,
+charged-G185E-6756-tRNA,charged tRNA-Lys,
+charged-G185E-6891-tRNA,charged tRNA-Cys,
+G185E-5465-tRNA,tRNA-Arg,G185E-5465
+G185E-6721-tRNA,tRNA-Arg,G185E-6721
+charged-G185E-6748-tRNA,charged tRNA-His,
+G185E-8065-tRNA,tRNA-Arg,G185E-8065
+G185E-5074-tRNA,tRNA-Arg,G185E-5074
+G185E-6438-RNA,Ribonuclease P RNA,G185E-6438
+G185E-4775-tRNA,tRNA-Met,G185E-4775
+G185E-4974-RNA,Putative small regulatory RNA,G185E-4974
+G185E-6531-tRNA,tRNA-Met,G185E-6531
+G185E-6696-tRNA,tRNA-Gly,G185E-6696
+G185E-7458-tRNA,tRNA-Met,G185E-7458
+G185E-6087-RNA,Putative small regulatory RNA,G185E-6087
+G185E-6890-tRNA,tRNA-Gly,G185E-6890
+G185E-4365-RNA,Putative small regulatory RNA,G185E-4365
+G185E-4441-tRNA,tRNA-Gly,G185E-4441
+G185E-8010-RNA,Possible 4.5S RNA in signal recognition particle (small cytoplasmic RNA) (SC-RNA),G185E-8010
+G185E-4984-tRNA,tRNA-Asp,G185E-4984
+G185E-5880-RNA,Putative small regulatory RNA,G185E-5880
+G185E-7932-RNA,Fragment of putative small regulatory RNA,G185E-7932
+G185E-5490-RNA,Putative small regulatory RNA,G185E-5490
+G185E-6748-tRNA,tRNA-His,G185E-6748
+G185E-6804-RNA,Fragment of putative small regulatory RNA,G185E-6804
+G185E-5366-RNA,Fragment of putative small regulatory RNA,G185E-5366
+G185E-6459-RNA,Putative small regulatory RNA,G185E-6459
+charged-G185E-6889-tRNA,charged tRNA-Val,
+G185E-5212-RNA,Fragment of putative small regulatory RNA,G185E-5212
+charged-G185E-4119-tRNA,charged tRNA-Ile,
+G185E-6252-RNA,Putative small regulatory RNA,G185E-6252
+charged-G185E-5527-tRNA,charged tRNA-Leu,
+G185E-4614-RNA,Fragment of putative small regulatory RNA,G185E-4614
+charged-G185E-5814-tRNA,charged tRNA-Leu,
+G185E-8139-RNA,Fragment of putative small regulatory RNA,G185E-8139
+charged-G185E-4134-tRNA,charged tRNA-Leu,
+G185E-5920-RNA,Putative small regulatory RNA,G185E-5920
+charged-G185E-6348-tRNA,charged tRNA-Leu,
+G185E-7942-RNA,Putative small regulatory RNA,G185E-7942
+charged-G185E-5217-tRNA,charged tRNA-Leu,
+G185E-5544-RNA,Putative small regulatory RNA,G185E-5544
+G185E-4780-tRNA,tRNA-Trp,G185E-4780
+G185E-7362-RNA,10Sa RNA,G185E-7362
+charged-G185E-6892-tRNA,charged tRNA-Val,
+G185E-5392-RNA,Fragment of putative small regulatory RNA,G185E-5392
+charged-G185E-6452-tRNA,charged tRNA-Val,
+G185E-6622-RNA,Putative small regulatory RNA,G185E-6622
+G185E-5257-RNA,Putative small regulatory RNA,G185E-5257
+G185E-6385-RNA,Fragment of putative small regulatory RNA,G185E-6385
+G185E-4746-RNA,Putative small regulatory RNA,G185E-4746
+G185E-8141-RNA,Putative small regulatory RNA,G185E-8141
+G185E-5928-RNA,Putative small regulatory RNA,G185E-5928
+G185E-7944-RNA,Putative small regulatory RNA,G185E-7944
+G185E-5557-RNA,Putative small regulatory RNA,G185E-5557
+G185E-5814-tRNA,tRNA-Leu,G185E-5814
+G185E-4119-tRNA,tRNA-Ile,G185E-4119
+G185E-4134-tRNA,tRNA-Leu,G185E-4134
+G185E-7875-RNA,Fragment of putative small regulatory RNA,G185E-7875
+G185E-6348-tRNA,tRNA-Leu,G185E-6348
+G185E-5436-RNA,Putative small regulatory RNA,G185E-5436
+G185E-5217-tRNA,tRNA-Leu,G185E-5217
+G185E-6801-RNA,Fragment of putative small regulatory RNA,G185E-6801
+G185E-5527-tRNA,tRNA-Leu,G185E-5527
+G185E-5325-RNA,Putative small regulatory RNA,G185E-5325
+G185E-4985-tRNA,tRNA-Phe,G185E-4985
+G185E-6892-tRNA,tRNA-Val,G185E-6892
+G185E-6452-tRNA,tRNA-Val,G185E-6452
+G185E-6889-tRNA,tRNA-Val,G185E-6889
+G185E-7969-tRNA,tRNA-Pro,G185E-7969
+G185E-5912-tRNA,tRNA-Pro,G185E-5912
+G185E-6695-tRNA,tRNA-Pro,G185E-6695
+G185E-6566-tRNA,tRNA-Asn,G185E-6566
+G185E-4700-tRNA,tRNA-Tyr,G185E-4700
+charged-G185E-4903-tRNA,charged tRNA-Thr,
+charged-G185E-7923-tRNA,charged tRNA-Thr,
+charged-G185E-4774-tRNA,charged tRNA-Thr,
+charged-G185E-4775-tRNA,charged tRNA-Met,
+charged-G185E-6531-tRNA,charged tRNA-Met,
+Rvnt01-tRNA,tRNA-Ile,Rvnt01
+Rvnt02-tRNA,tRNA-Ala,Rvnt02
+Rvnt03-tRNA,tRNA-Leu,Rvnt03
+RVnc0008-ncRNA,Putative small regulatory RNA,RVnc0008
+Rvnt04-tRNA,tRNA-Gly,Rvnt04
+Rvnt05-tRNA,tRNA-Tyr,Rvnt05
+RVnc0005-ncRNA,Putative small regulatory RNA,RVnc0005
+Rvnt06-tRNA,tRNA-Thr,Rvnt06
+Rvnt07-tRNA,tRNA-Met,Rvnt07
+Rvnt08-tRNA,tRNA-Trp,Rvnt08
+Rvnt09-tRNA,tRNA-Thr,Rvnt09
+RVnc0002-ncRNA,Putative small regulatory RNA,RVnc0002
+Rvnt10-tRNA,tRNA-Lys,Rvnt10
+Rvnt11-tRNA,tRNA-Glu,Rvnt11
+Rvnt12-tRNA,tRNA-Asp,Rvnt12
+Rvnt13-tRNA,tRNA-Phe,Rvnt13
+Rvnt14-tRNA,tRNA-Arg,Rvnt14
+Rvnt15-tRNA,tRNA-Ala,Rvnt15
+Rvnt16-tRNA,tRNA-Gln,Rvnt16
+Rvnt17-tRNA,tRNA-Leu,Rvnt17
+RVnc0034-ncRNA,Putative small regulatory RNA,RVnc0034
+RVnc0012-ncRNA,Putative small regulatory RNA,RVnc0012
+RVnc0013-ncRNA,Putative small regulatory RNA,RVnc0013
+Rvnt18-tRNA,tRNA-Arg,Rvnt18
+RVnc0021-ncRNA,Putative small regulatory RNA,RVnc0021
+Rvnr02-rRNA,23S ribosomal RNA,Rvnr02
+Rvnr03-rRNA,5S ribosomal RNA,Rvnr03
+Rvnt19-tRNA,tRNA-Leu,Rvnt19
+RVnc0015-ncRNA,Putative small regulatory RNA,RVnc0015
+RVnc0035-ncRNA,Putative small regulatory RNA,RVnc0035
+Rvnt20-tRNA,tRNA-Leu,Rvnt20
+RVnc0010-ncRNA,Putative small regulatory RNA,RVnc0010
+Rvnt21-tRNA,tRNA-Pro,Rvnt21
+RVnc0047-ncRNA,Putative small regulatory RNA,RVnc0047
+RVnc0036-ncRNA,Putative small regulatory RNA,RVnc0036
+RVnc0001-ncRNA,Putative small regulatory RNA,RVnc0001
+RVnc0003-ncRNA,Putative small regulatory RNA,RVnc0003
+Rvnt22-tRNA,tRNA-Leu,Rvnt22
+Rvns01-misc_RNA,Ribonuclease P RNA,Rvns01
+Rvnt23-tRNA,tRNA-Val,Rvnt23
+RVnc0018-ncRNA,Putative small regulatory RNA,RVnc0018
+Rvnt24-tRNA,tRNA-Met,Rvnt24
+Rvnt25-tRNA,tRNA-Asn,Rvnt25
+RVnc0024-ncRNA,Putative small regulatory RNA,RVnc0024
+Rvnt26-tRNA,tRNA-Pro,Rvnt26
+Rvnt27-tRNA,tRNA-Gly,Rvnt27
+Rvnt28-tRNA,tRNA-Arg,Rvnt28
+Rvnt29-tRNA,tRNA-His,Rvnt29
+Rvnt30-tRNA,tRNA-Lys,Rvnt30
+Rvnt31-tRNA,tRNA-Val,Rvnt31
+Rvnt32-tRNA,tRNA-Gly,Rvnt32
+Rvnt33-tRNA,tRNA-Cys,Rvnt33
+Rvnt34-tRNA,tRNA-Val,Rvnt34
+Rvnt35-tRNA,tRNA-Glu,Rvnt35
+Rvnt36-tRNA,tRNA-Gln,Rvnt36
+Rvnt37-tRNA,tRNA-Ala,Rvnt37
+RVnc0046-misc_RNA,10Sa RNA,RVnc0046
+Rvnt38-tRNA,tRNA-Met,Rvnt38
+Rvnt39-tRNA,tRNA-Thr,Rvnt39
+RVnc0004-ncRNA,Putative small regulatory RNA,RVnc0004
+RVnc0036a-ncRNA,Putative small regulatory RNA,RVnc0036a
+Rvnt40-tRNA,tRNA-Pro,Rvnt40
+RVnc0006-ncRNA,Possible 4.5S RNA in signal recognition particle (small cytoplasmic RNA) (SC-RNA),RVnc0006
+Rvnt41-tRNA,tRNA-Ser,Rvnt41
+Rvnt42-tRNA,tRNA-Ser,Rvnt42
+Rvnt43-tRNA,tRNA-Arg,Rvnt43
+Rvnt44-tRNA,tRNA-Ser,Rvnt44
+Rvnt45-tRNA,tRNA-Ser,Rvnt45
+RVnc0040-ncRNA,Putative small regulatory RNA,RVnc0040

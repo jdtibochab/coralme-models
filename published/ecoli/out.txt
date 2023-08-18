@@ -1,0 +1,16 @@
+Traceback (most recent call last):
+  File "/home/jt/work/me-models-repo/published/./build.py", line 16, in <module>
+    config = anyconfig.load('{:s}/input.json'.format(org))
+  File "/home/jt/venvs/coralme/lib/python3.10/site-packages/anyconfig-0.13.0-py3.10.egg/anyconfig/api/_load.py", line 297, in load
+    return single_load(iois[0], ac_parser=ac_parser, ac_dict=ac_dict,
+  File "/home/jt/venvs/coralme/lib/python3.10/site-packages/anyconfig-0.13.0-py3.10.egg/anyconfig/api/_load.py", line 146, in single_load
+    cnf = _single_load(ioi, ac_parser=ac_parser, ac_template=ac_template,
+  File "/home/jt/venvs/coralme/lib/python3.10/site-packages/anyconfig-0.13.0-py3.10.egg/anyconfig/api/_load.py", line 87, in _single_load
+    return psr.load(ioi, **options)
+  File "/home/jt/venvs/coralme/lib/python3.10/site-packages/anyconfig-0.13.0-py3.10.egg/anyconfig/backend/base/loaders.py", line 195, in load
+    cnf = self.load_from_path(ioi.path, container, **options)
+  File "/home/jt/venvs/coralme/lib/python3.10/site-packages/anyconfig-0.13.0-py3.10.egg/anyconfig/backend/base/loaders.py", line 275, in load_from_path
+    with self.ropen(filepath) as inp:
+  File "/home/jt/venvs/coralme/lib/python3.10/site-packages/anyconfig-0.13.0-py3.10.egg/anyconfig/backend/base/loaders.py", line 68, in ropen
+    return open(  # pylint: disable=consider-using-with
+FileNotFoundError: [Errno 2] No such file or directory: '/home/jt/work/me-models-repo/published/ecoli/input.json'

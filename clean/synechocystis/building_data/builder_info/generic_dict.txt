@@ -1,0 +1,11 @@
+,value
+generic_16Sm4Cm1402,"{'enzymes': ['SGL_RS06635-MONOMER', 'SGL_RS09835-MONOMER']}"
+generic_16s_rRNAs,"{'enzymes': ['RNA_SGL_RS13310', 'RNA_SGL_RS17250']}"
+generic_23s_rRNAs,"{'enzymes': ['RNA_SGL_RS13300', 'RNA_SGL_RS17260']}"
+generic_5s_rRNAs,"{'enzymes': ['RNA_SGL_RS13295', 'RNA_SGL_RS17265']}"
+generic_Dus,"{'enzymes': ['SGL_RS03475-MONOMER', 'SGL_RS14330-MONOMER']}"
+generic_LYSINEaaRS,{'enzymes': ['SGL_RS06545-MONOMER_mod_mg2(6)']}
+generic_RF,"{'enzymes': ['SGL_RS18110-MONOMER', 'SGL_RS12270-MONOMER']}"
+generic_RNase,"{'enzymes': ['SGL_RS13815-MONOMER_mod_zn2(2)', 'SGL_RS13240-MONOMER_mod_mg2(5)']}"
+generic_Tuf,{'enzymes': ['SGL_RS10925-MONOMER']}
+generic_fes_transfers_complex,{'enzymes': ['SGL_RS02730-MONOMER']}

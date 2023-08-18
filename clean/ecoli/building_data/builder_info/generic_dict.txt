@@ -1,0 +1,11 @@
+,value
+generic_16Sm4Cm1402,"{'enzymes': ['EG11085-MONOMER', 'G7641-MONOMER']}"
+generic_16s_rRNAs,"{'enzymes': ['RNA_b0201', 'RNA_b2591', 'RNA_b3278', 'RNA_b3756', 'RNA_b3851', 'RNA_b3968', 'RNA_b4007']}"
+generic_23s_rRNAs,"{'enzymes': ['RNA_b0204', 'RNA_b2589', 'RNA_b3275', 'RNA_b3758', 'RNA_b3854', 'RNA_b3970', 'RNA_b4009']}"
+generic_5s_rRNAs,"{'enzymes': ['RNA_b0205', 'RNA_b2588', 'RNA_b3272', 'RNA_b3274', 'RNA_b3759', 'RNA_b3855', 'RNA_b3971', 'RNA_b4010']}"
+generic_Dus,"{'enzymes': ['EG11932-MONOMER', 'EG11311-MONOMER', 'EG12022-MONOMER']}"
+generic_LYSINEaaRS,"{'enzymes': ['LYSS-MONOMER', 'LYSU-MONOMER_mod_mg2(6)']}"
+generic_RF,"{'enzymes': ['PrfA_mono', 'PrfB_mono']}"
+generic_RNase,"{'enzymes': ['EG11547-MONOMER_mod_mg2(4)', 'G7175-MONOMER_mod_zn2(2)', 'EG10858-MONOMER_mod_mg2(5)', 'EG11620-MONOMER_mod_mg2(1)', 'EG10863-MONOMER_mod_mg2(1)']}"
+generic_Tuf,"{'enzymes': ['EG11036-MONOMER', 'EG11037-MONOMER']}"
+generic_fes_transfers_complex,"{'enzymes': ['EG12332-MONOMER', 'EG11378-MONOMER', 'EG12132-MONOMER']}"

@@ -1,0 +1,3 @@
+,value
+FusA_mono_elongation,{'enzymes': ['ABAYE_RS14670-MONOMER']}
+Tuf_gtp_regeneration,{'enzymes': ['ABAYE_RS06215-MONOMER']}

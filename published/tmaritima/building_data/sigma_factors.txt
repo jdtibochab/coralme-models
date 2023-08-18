@@ -1,0 +1,5 @@
+sigma,complex,genes,name
+TM0534-MONOMER,RNAP_TM0534MONOMER,TM0534(),sigma-70 family RNA polymerase sigma factor
+TM0902-MONOMER,RNAP_TM0902MONOMER,TM0902(),FliA/WhiG family RNA polymerase sigma factor
+TM1451-MONOMER,RNAP_TM1451MONOMER,TM1451(),RNA polymerase sigma factor RpoD
+TM1598-MONOMER,RNAP_TM1598MONOMER,TM1598(),sigma-70 family RNA polymerase sigma factor

@@ -1,0 +1,2 @@
+sigma,complex,genes,name
+JCVISYN3A_0407-MONOMER,RNAP_JCVISYN3A0407MONOMER,JCVISYN3A_0407(),RNA polymerase subunit sigma

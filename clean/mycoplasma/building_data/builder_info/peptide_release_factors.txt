@@ -1,0 +1,4 @@
+,value
+UAA,{'enzyme': 'generic_RF'}
+UAG,{'enzyme': 'JCVISYN3A_0141-MONOMER'}
+UGA,{'enzyme': 'CPLX_dummy'}

@@ -1,0 +1,62 @@
+,name,genes,source
+CLJU_RS20190-MONOMER,50S ribosomal protein L22,CLJU_c40990(1),BioCyc
+CLJU_RS20265-MONOMER,50S ribosomal protein L10,CLJU_c41140(1),BioCyc
+CLJU_RS20045-MONOMER,30S ribosomal protein S9,CLJU_c40700(1),BioCyc
+CLJU_RS20120-MONOMER,50S ribosomal protein L15,CLJU_c40850(1),BioCyc
+CLJU_RS20195-MONOMER,30S ribosomal protein S19,CLJU_c41000(1),BioCyc
+CLJU_RS06320-MONOMER,30S ribosomal protein S16,CLJU_c12890(1),BioCyc
+CLJU_RS20050-MONOMER,50S ribosomal protein L13,CLJU_c40710(1),BioCyc
+CLJU_RS20125-MONOMER,50S ribosomal protein L30,CLJU_c40860(1),BioCyc
+CLJU_RS06450-MONOMER,50S ribosomal protein L7ae-like protein,CLJU_c13140(),BioCyc
+CLJU_RS12135-MONOMER,TetM/TetW/TetO/TetS family tetracycline resistance ribosomal protection protein,CLJU_c24640(),BioCyc
+CLJU_RS20200-MONOMER,50S ribosomal protein L2,CLJU_c41010(1),BioCyc
+CLJU_RS20270-MONOMER,50S ribosomal protein L1,CLJU_c41150(1),BioCyc
+CLJU_RS20130-MONOMER,30S ribosomal protein S5,CLJU_c40870(1),BioCyc
+CLJU_RS20205-MONOMER,50S ribosomal protein L23,CLJU_c41020(1),BioCyc
+CLJU_RS21170-MONOMER,50S ribosomal protein L34,CLJU_c42970(),BioCyc
+CLJU_RS20135-MONOMER,50S ribosomal protein L18,CLJU_c40880(1),BioCyc
+CLJU_RS03635-MONOMER,50S ribosomal protein L27,CLJU_c07380(1),BioCyc
+CLJU_RS20210-MONOMER,50S ribosomal protein L4,CLJU_c41030(1),BioCyc
+CLJU_RS20275-MONOMER,50S ribosomal protein L11,CLJU_c41160(1),BioCyc
+CLJU_RS14080-MONOMER,30S ribosomal protein S1,CLJU_c28540(1),BioCyc
+CLJU_RS20140-MONOMER,50S ribosomal protein L6,CLJU_c40890(1),BioCyc
+CLJU_RS06340-MONOMER,50S ribosomal protein L19,CLJU_c12930(1),BioCyc
+CLJU_RS20215-MONOMER,50S ribosomal protein L3,CLJU_c41040(1),BioCyc
+CLJU_RS20145-MONOMER,30S ribosomal protein S8,CLJU_c40900(1),BioCyc
+CLJU_RS20220-MONOMER,30S ribosomal protein S10,CLJU_c41050(1),BioCyc
+CLJU_RS20075-MONOMER,50S ribosomal protein L17,CLJU_c40760(1),BioCyc
+CLJU_RS20150-MONOMER,type Z 30S ribosomal protein S14,CLJU_c40910(1),BioCyc
+CLJU_RS03625-MONOMER,50S ribosomal protein L21,CLJU_c07360(1),BioCyc
+CLJU_RS06215-MONOMER,50S ribosomal protein L28,CLJU_c12670(),BioCyc
+CLJU_RS06390-MONOMER,30S ribosomal protein S2,CLJU_c13020(1),BioCyc
+CLJU_RS20290-MONOMER,50S ribosomal protein L33,CLJU_c41190(),BioCyc
+CLJU_RS20155-MONOMER,50S ribosomal protein L5,CLJU_c40920(1),BioCyc
+CLJU_RS03935-MONOMER,50S ribosomal protein L11 methyltransferase,CLJU_c08000(),BioCyc
+CLJU_RS06480-MONOMER,30S ribosomal protein S15,CLJU_c13200(1),BioCyc
+CLJU_RS10465-MONOMER,bifunctional 4-hydroxy-3-methylbut-2-enyl diphosphate reductase/30S ribosomal protein S1,CLJU_c21320(),BioCyc
+CLJU_RS20085-MONOMER,30S ribosomal protein S4,CLJU_c40780(1),BioCyc
+CLJU_RS20160-MONOMER,50S ribosomal protein L24,CLJU_c40930(1),BioCyc
+CLJU_RS03885-MONOMER,30S ribosomal protein S20,CLJU_c07900(1),BioCyc
+CLJU_RS01090-MONOMER,50S ribosomal protein L31,CLJU_c02230(1),BioCyc
+CLJU_RS20235-MONOMER,30S ribosomal protein S7,CLJU_c41080(1),BioCyc
+CLJU_RS18815-MONOMER,ribosomal protein S18-alanine N-acetyltransferase,CLJU_c38200(),BioCyc
+CLJU_RS20090-MONOMER,30S ribosomal protein S11,CLJU_c40790(1),BioCyc
+CLJU_RS20165-MONOMER,50S ribosomal protein L14,CLJU_c40940(1),BioCyc
+CLJU_RS09325-MONOMER,ABC-F type ribosomal protection protein,CLJU_c19020(),BioCyc
+CLJU_RS20240-MONOMER,30S ribosomal protein S12,CLJU_c41090(1),BioCyc
+CLJU_RS03955-MONOMER,30S ribosomal protein S21,CLJU_c08040(1),BioCyc
+CLJU_RS06275-MONOMER,50S ribosomal protein L32,CLJU_c12800(),BioCyc
+CLJU_RS20095-MONOMER,30S ribosomal protein S13,CLJU_c40800(1),BioCyc
+CLJU_RS20170-MONOMER,30S ribosomal protein S17,CLJU_c40950(1),BioCyc
+CLJU_RS21050-MONOMER,50S ribosomal protein L9,CLJU_c42730(1),BioCyc
+CLJU_RS20100-MONOMER,50S ribosomal protein L36,CLJU_c40810(),BioCyc
+CLJU_RS20175-MONOMER,50S ribosomal protein L29,CLJU_c40960(),BioCyc
+CLJU_RS21070-MONOMER,30S ribosomal protein S18,CLJU_c42770(1),BioCyc
+CLJU_RS20180-MONOMER,50S ribosomal protein L16,CLJU_c40970(1),BioCyc
+CLJU_RS21080-MONOMER,30S ribosomal protein S6,CLJU_c42790(1),BioCyc
+CLJU_RS16980-MONOMER,50S ribosomal protein L20,CLJU_c34440(1),BioCyc
+CLJU_RS06510-MONOMER,30S ribosomal protein S12 methylthiotransferase RimO,CLJU_c13260(),BioCyc
+CLJU_RS16985-MONOMER,50S ribosomal protein L35,CLJU_c34450(1),BioCyc
+CLJU_RS20185-MONOMER,30S ribosomal protein S3,CLJU_c40980(1),BioCyc
+CLJU_RS03850-MONOMER,50S ribosomal protein L7/L12,CLJU_c07830(),BioCyc
+CLJU_RS20260-MONOMER,50S ribosomal protein L7/L12,CLJU_c41130(2),BioCyc

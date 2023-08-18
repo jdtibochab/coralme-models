@@ -1,0 +1,16 @@
+{
+  "m-model-path": "./vcholerae/inputs/m_model.json",
+  "genbank-path": "./vcholerae/inputs/genome.gb",
+  "biocyc.genes": "./vcholerae/inputs/genes.txt",
+  "biocyc.prots": "./vcholerae/inputs/proteins.txt",
+  "biocyc.TUs": "./vcholerae/inputs/TUs.txt",
+  "biocyc.RNAs": "./vcholerae/inputs/RNAs.txt",
+  "biocyc.seqs": "./vcholerae/inputs/sequences.fasta",
+  "df_gene_cplxs_mods_rxns": "./vcholerae/building_data/automated-org-with-refs.xlsx",
+  "df_TranscriptionalUnits": "",
+  "out_directory": "./vcholerae/",
+  "log_directory": "./vcholerae/",
+  "run_bbh_blast": true,
+  "dev_reference": true,
+  "include_pseudo_genes": true
+}

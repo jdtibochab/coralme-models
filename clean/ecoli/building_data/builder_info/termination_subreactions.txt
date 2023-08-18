@@ -1,0 +1,10 @@
+,value
+DnaK_dependent_folding,"{'enzymes': ['EG10241-MONOMER', 'EG10240-MONOMER_mod_zn2(4)', 'EG10416-MONOMER']}"
+GroEL_dependent_folding,"{'enzymes': ['EG10599-MONOMER', 'EG10600-MONOMER']}"
+N_terminal_methionine_cleavage,{'enzymes': ['EG10570-MONOMER_mod_fe2(2)']}
+PrfA_mono_mediated_termination,{'enzymes': ['EG10761-MONOMER']}
+PrfB_mono_mediated_termination,{'enzymes': ['EG10762-MONOMER']}
+generic_RF_mediated_termination,{'enzymes': ['generic_RF']}
+peptide_chain_release,{'enzymes': ['EG12114-MONOMER']}
+peptide_deformylase_processing,{'enzymes': ['EG11440-MONOMER_mod_fe2(1)']}
+ribosome_recycler,{'enzymes': ['EG10335-MONOMER']}

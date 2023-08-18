@@ -1,0 +1,25 @@
+reaction_id,name,gene_reaction_rule,reaction,notes
+#EX_dad__5_e,,,dad__5_e --> 
+D-LACt2,CLJU_c21610,,h_c + lac__D_c --> h_e + lac__D_e
+D-LACt2,CLJU_c21610,,h_e + lac__D_e --> h_c + lac__D_c
+#EX_glyclt_e,,,glyclt_e --> 
+#EX_thr__L_e,,,thr__L_e --> 
+#EX_pnto__R_e,,,pnto__R_e --> 
+BTDt-RR,,,btd__RR_e --> btd__RR_c
+TYRt2r,,CLJU_c24250,h_c + tyr__L_c --> h_e + tyr__L_e
+#DM_succ(c),,,succ_c --> 
+BTDD-RRx,CLJU_c23220,,btd__RR_c + nadp_c --> actn__R_c + h_c + nadph_c
+EX_dpm_c,,,dpm_c <=> 
+#growth_atp_maintenance,,,46.666 atp_c + 46.666 h2o_c --> 46.666 adp_c + 46.666 h_c + 46.666 pi_c
+EX_glc__D_e,,,glc__D_e --> 
+BTDt-RR,,,btd__RR_c --> btd__RR_e
+EX_lipoate_e,,,lipoate_e <=> 
+BTDD-RRx,,CLJU_c23220,actn__R_c + h_c + nadph_c --> btd__RR_c + nadp_c
+EX_preq1_e,,,preq1_e <=> 
+TYRt2r,,CLJU_c24250,h_e + tyr__L_e --> h_c + tyr__L_c
+#EX_4fe2o2s_c,,,4fe2o2s_c <=> 
+
+
+# To allow dad__5_c to leave
+5DOAN,5'-deoxyadenosine nuclosidase,CLJU_c10700,dad__5_c + h2o_c --> 5drib_c + ade_c,
+DM_5DRIB,Sink needed to allow 5'-deoxyribose to leave system,,5drib_c -->,

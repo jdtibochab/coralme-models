@@ -1,0 +1,5 @@
+,value
+RNA_degradosome,"{'enzymes': ['ENOLASE-MONOMER_mod_mg2(4)', 'EG10743-MONOMER', 'EG10859-MONOMER_mod_zn2(2)', 'EG10844-MONOMER', 'G7842-MONOMER_mod_mg2(2)']}"
+monocistronic,"{'enzymes': ['EG10859-MONOMER_mod_zn2(2)', 'generic_RNase']}"
+polycistronic_wout_rRNA,"{'enzymes': ['EG10859-MONOMER_mod_zn2(2)', 'generic_RNase', 'EG10857-MONOMER', 'EG11299-MONOMER', 'EG11547-MONOMER_mod_mg2(4)']}"
+rRNA_containing,"{'enzymes': ['EG10859-MONOMER_mod_zn2(2)', 'generic_RNase', 'EG10857-MONOMER_mod_mg2(2)', 'EG11299-MONOMER', 'EG11547-MONOMER_mod_mg2(4)']}"

@@ -1,0 +1,10 @@
+pathway	enzyme
+sec	SGL_RS14240-MONOMER
+tat	CPLX_dummy
+tat_alt	CPLX_dummy
+bam	CPLX_dummy
+lol	CPLX_dummy
+yidC	SGL_RS10510-MONOMER
+secA	SGL_RS14240-MONOMER
+srp_yidC	SGL_RS10510-MONOMER
+srp	SGL_RS09210-MONOMER

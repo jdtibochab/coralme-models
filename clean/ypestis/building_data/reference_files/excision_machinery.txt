@@ -1,0 +1,4 @@
+type	enzymes
+monocistronic	YPO1590-MONOMER_mod_zn2(2),generic_RNase
+polycistronic_wout_rRNA	YPO1590-MONOMER_mod_zn2(2),generic_RNase,YPO2718-MONOMER,YPO3669-MONOMER,YPO2382-MONOMER_mod_mg2(4)
+rRNA_containing	YPO1590-MONOMER_mod_zn2(2),generic_RNase,YPO2718-MONOMER_mod_mg2(2),YPO3669-MONOMER,YPO2382-MONOMER_mod_mg2(4)

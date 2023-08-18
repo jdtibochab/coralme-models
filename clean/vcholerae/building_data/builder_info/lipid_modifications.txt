@@ -1,0 +1,3 @@
+,value
+other_lipids,['VC_0958-MONOMER']
+pg_pe_160,"['VC_0674-MONOMER', 'VC_0683-MONOMER']"

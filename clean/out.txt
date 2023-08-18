@@ -1,0 +1,289 @@
+==> ./ecoli/out.txt <==
+             Processed: 51/54, Gaps: 1. The ME-model is feasible if TS_cosh_c is closed.
+             Processed: 52/54, Gaps: 2. The ME-model is not feasible if TS_dpm_c is closed.
+             Processed: 53/54, Gaps: 2. The ME-model is feasible if TS_23bpg_c is closed.
+             Processed: 54/54, Gaps: 2. The ME-model is feasible if TS_hemed_c is closed.
+~ Troubleshooter added the following sinks:
+TS_dpm_c
+TS_4fe4s_c
+~ Final step. Fully optimizing with precision 1e-6 and save solution into the ME-model...
+  Gapfilled ME-model is feasible with growth rate 0.745150 (M-model: 0.982372).
+ME-model was saved in the ./ecoli/ directory as MEModel-step3-ecoli-TS.pkl
+
+==> ./pputida/out.txt <==
+             Processed: 44/46, Gaps: 1. The ME-model is feasible if TS_lipoyl_c is closed.
+             Processed: 45/46, Gaps: 2. The ME-model is not feasible if TS_dad__5_c is closed.
+             Processed: 46/46, Gaps: 3. The ME-model is not feasible if TS_hemed_c is closed.
+~ Troubleshooter added the following sinks:
+TS_dad__5_c
+TS_hemed_c
+TS_4fe4s_c
+~ Final step. Fully optimizing with precision 1e-6 and save solution into the ME-model...
+  Gapfilled ME-model is feasible with growth rate 0.421874 (M-model: 0.586118).
+ME-model was saved in the ./pputida/ directory as MEModel-step3-pputida-TS.pkl
+
+==> ./out.txt <==
+
+==> ./cdiff/out.txt <==
+~ Troubleshooter added the following sinks:
+TS_cbl1_c
+TS_accoa_c
+TS_pydx5p_c
+TS_mn2_c
+TS_pan4p_c
+TS_4fe4s_c
+~ Final step. Fully optimizing with precision 1e-6 and save solution into the ME-model...
+  Gapfilled ME-model is feasible with growth rate 1.235400 (M-model: 0.000000).
+ME-model was saved in the ./cdiff/ directory as MEModel-step3-cdiff-TS.pkl
+
+==> ./synechocystis/out.txt <==
+TS_3pg_c
+TS_fgam_c
+TS_glu__L_c
+~ Final step. Fully optimizing with precision 1e-6 and save solution into the ME-model...
+  Gapfilled ME-model is feasible with growth rate 0.005859 (M-model: 0.054772).
+ME-model was saved in the ./synechocystis/ directory as MEModel-step3-synechocystis-TS.pkl
+/home/jt/UCSD/coralme/coralme/builder/main.py:30: UserWarning: This pandas version does not allow for correct warning handling. Pandas >=1.5.1 is suggested.
+  warnings.warn("This pandas version does not allow for correct warning handling. Pandas >=1.5.1 is suggested.")
+/home/jt/UCSD/coralme/coralme/builder/preprocess_inputs.py:15: UserWarning: This pandas version does not allow for correct warning handling. Pandas >=1.5.1 is suggested.
+  warnings.warn("This pandas version does not allow for correct warning handling. Pandas >=1.5.1 is suggested.")
+
+==> ./rhizo/out.txt <==
+             Processed: 33/36, Gaps: 2. The ME-model is feasible if TS_dpm_c is closed.
+             Processed: 34/36, Gaps: 2. The ME-model is feasible if TS_pe181_p is closed.
+             Processed: 35/36, Gaps: 2. The ME-model is feasible if TS_hemed_c is closed.
+             Processed: 36/36, Gaps: 2. The ME-model is feasible if TS_cs_c is closed.
+~ Troubleshooter added the following sinks:
+TS_4fe4s_c
+TS_cbl1_c
+~ Final step. Fully optimizing with precision 1e-6 and save solution into the ME-model...
+  Gapfilled ME-model is feasible with growth rate 0.336535 (M-model: 0.470770).
+ME-model was saved in the ./rhizo/ directory as MEModel-step3-rhizo-TS.pkl
+
+==> ./sflexneri/out.txt <==
+             Processed: 41/45, Gaps: 1. The ME-model is feasible if TS_pg120_p is closed.
+             Processed: 42/45, Gaps: 1. The ME-model is feasible if TS_dpm_c is closed.
+             Processed: 43/45, Gaps: 1. The ME-model is feasible if TS_cs_c is closed.
+             Processed: 44/45, Gaps: 1. The ME-model is feasible if TS_coo_c is closed.
+             Processed: 45/45, Gaps: 1. The ME-model is feasible if TS_pqq_c is closed.
+~ Troubleshooter added the following sinks:
+TS_4fe4s_c
+~ Final step. Fully optimizing with precision 1e-6 and save solution into the ME-model...
+  Gapfilled ME-model is feasible with growth rate 0.788776 (M-model: 0.857077).
+ME-model was saved in the ./sflexneri/ directory as MEModel-step3-sflexneri-TS.pkl
+
+==> ./abaumannii/out.txt <==
+             Processed: 22/22, Gaps: 5. The ME-model is feasible if TS_cobalt2_c is closed.
+~ Troubleshooter added the following sinks:
+TS_zn2_c
+TS_mg2_c
+TS_k_c
+TS_4fe4s_c
+TS_fe2_c
+~ Final step. Fully optimizing with precision 1e-6 and save solution into the ME-model...
+  Gapfilled ME-model is feasible with growth rate 0.487351 (M-model: 1.313591).
+ME-model was saved in the ./abaumannii/ directory as MEModel-step3-abaumannii-TS.pkl
+
+==> ./llactis/out.txt <==
+             Processed: 18/18, Gaps: 5. The ME-model is feasible if TS_ni2_c is closed.
+~ Troubleshooter added the following sinks:
+TS_pydx5p_c
+TS_k_c
+TS_mg2_c
+TS_cobalt2_c
+TS_4fe4s_c
+~ Final step. Fully optimizing with precision 1e-6 and save solution into the ME-model...
+  Gapfilled ME-model is feasible with growth rate 0.045651 (M-model: 0.042635).
+ME-model was saved in the ./llactis/ directory as MEModel-step3-llactis-TS.pkl
+
+==> ./bacteroides/out.txt <==
+             Processed: 35/39, Gaps: 1. The ME-model is feasible if TS_peai15_c is closed.
+             Processed: 36/39, Gaps: 1. The ME-model is feasible if TS_pgai17_c is closed.
+             Processed: 37/39, Gaps: 1. The ME-model is feasible if TS_cs_c is closed.
+             Processed: 38/39, Gaps: 1. The ME-model is feasible if TS_pe181_c is closed.
+             Processed: 39/39, Gaps: 1. The ME-model is feasible if TS_pei17_c is closed.
+~ Troubleshooter added the following sinks:
+TS_4fe4s_c
+~ Final step. Fully optimizing with precision 1e-6 and save solution into the ME-model...
+  Gapfilled ME-model is feasible with growth rate 0.353404 (M-model: 0.528091).
+ME-model was saved in the ./bacteroides/ directory as MEModel-step3-bacteroides-TS.pkl
+
+==> ./staph/out.txt <==
+             Processed: 221/224, Gaps: 2. The ME-model is feasible if TS_hemed_c is closed.
+             Processed: 222/224, Gaps: 2. The ME-model is feasible if TS_cu_c is closed.
+             Processed: 223/224, Gaps: 2. The ME-model is feasible if TS_adocbl_c is closed.
+             Processed: 224/224, Gaps: 2. The ME-model is feasible if TS_cd2_c is closed.
+~ Troubleshooter added the following sinks:
+TS_met__L_c
+TS_asn__L_c
+~ Final step. Fully optimizing with precision 1e-6 and save solution into the ME-model...
+  Gapfilled ME-model is feasible with growth rate 0.811473 (M-model: 1.360225).
+ME-model was saved in the ./staph/ directory as MEModel-step3-staph-TS.pkl
+
+==> ./nitrosomonas/out.txt <==
+             Processed: 31/34, Gaps: 1. The ME-model is feasible if TS_hemed_c is closed.
+             Processed: 32/34, Gaps: 2. The ME-model is not feasible if TS_dpm_c is closed.
+             Processed: 33/34, Gaps: 2. The ME-model is feasible if TS_23bpg_c is closed.
+             Processed: 34/34, Gaps: 2. The ME-model is feasible if TS_ni2_c is closed.
+~ Troubleshooter added the following sinks:
+TS_dpm_c
+TS_4fe4s_c
+~ Final step. Fully optimizing with precision 1e-6 and save solution into the ME-model...
+  Gapfilled ME-model is feasible with growth rate 0.102392 (M-model: 0.100000).
+ME-model was saved in the ./nitrosomonas/ directory as MEModel-step3-nitrosomonas-TS.pkl
+
+==> ./vcholerae/out.txt <==
+             Processed: 30/34, Gaps: 1. The ME-model is feasible if TS_pydx5p_c is closed.
+             Processed: 31/34, Gaps: 1. The ME-model is feasible if TS_lys__L_c is closed.
+             Processed: 32/34, Gaps: 1. The ME-model is feasible if TS_tl_c is closed.
+             Processed: 33/34, Gaps: 1. The ME-model is feasible if TS_dpm_c is closed.
+             Processed: 34/34, Gaps: 1. The ME-model is feasible if TS_coo_c is closed.
+~ Troubleshooter added the following sinks:
+TS_4fe4s_c
+~ Final step. Fully optimizing with precision 1e-6 and save solution into the ME-model...
+  Gapfilled ME-model is feasible with growth rate 0.676916 (M-model: 1.074741).
+ME-model was saved in the ./vcholerae/ directory as MEModel-step3-vcholerae-TS.pkl
+
+==> ./liberibacter/out.txt <==
+TS_k_c
+TS_hco3_c
+TS_orot_p
+~ Final step. Fully optimizing with precision 1e-6 and save solution into the ME-model...
+  Gapfilled ME-model is feasible with growth rate 0.025231 (M-model: 0.011279).
+ME-model was saved in the ./liberibacter/ directory as MEModel-step3-liberibacter-TS.pkl
+/home/jt/UCSD/coralme/coralme/builder/main.py:30: UserWarning: This pandas version does not allow for correct warning handling. Pandas >=1.5.1 is suggested.
+  warnings.warn("This pandas version does not allow for correct warning handling. Pandas >=1.5.1 is suggested.")
+/home/jt/UCSD/coralme/coralme/builder/preprocess_inputs.py:15: UserWarning: This pandas version does not allow for correct warning handling. Pandas >=1.5.1 is suggested.
+  warnings.warn("This pandas version does not allow for correct warning handling. Pandas >=1.5.1 is suggested.")
+
+==> ./mtuberculosis/out.txt <==
+             Processed: 28/28, Gaps: 5. The ME-model is feasible if TS_dpm_c is closed.
+~ Troubleshooter added the following sinks:
+TS_zn2_c
+TS_cobalt2_c
+TS_mn2_c
+TS_k_c
+TS_4fe4s_c
+~ Final step. Fully optimizing with precision 1e-6 and save solution into the ME-model...
+  Gapfilled ME-model is feasible with growth rate 0.050684 (M-model: 0.058174).
+ME-model was saved in the ./mtuberculosis/ directory as MEModel-step3-mtuberculosis-TS.pkl
+
+==> ./clostridium/out.txt <==
+             Processed: 20/23, Gaps: 1. The ME-model is feasible if TS_mn2_c is closed.
+             Processed: 21/23, Gaps: 1. The ME-model is feasible if TS_fmnh2_c is closed.
+             Processed: 22/23, Gaps: 1. The ME-model is feasible if TS_pan4p_c is closed.
+             Processed: 23/23, Gaps: 2. The ME-model is not feasible if TS_dpm_c is closed.
+~ Troubleshooter added the following sinks:
+TS_dpm_c
+TS_4fe4s_c
+~ Final step. Fully optimizing with precision 1e-6 and save solution into the ME-model...
+  Gapfilled ME-model is feasible with growth rate 0.229481 (M-model: 0.198481).
+ME-model was saved in the ./clostridium/ directory as MEModel-step3-clostridium-TS.pkl
+
+==> ./geobacter/out.txt <==
+          Adding sink reactions for 5 metabolites...
+            Sink reactions shortlisted to 3 metabolites.
+             Processed: 1/3, Gaps: 0. The ME-model is feasible if TS_tl_c is closed.
+             Processed: 2/3, Gaps: 0. The ME-model is feasible if TS_fmnh2_c is closed.
+             Processed: 3/3, Gaps: 1. The ME-model is not feasible if TS_dpm_c is closed.
+~ Troubleshooter added the following sinks:
+TS_dpm_c
+~ Final step. Fully optimizing with precision 1e-6 and save solution into the ME-model...
+  Gapfilled ME-model is feasible with growth rate 0.048348 (M-model: 0.047322).
+ME-model was saved in the ./geobacter/ directory as MEModel-step3-geobacter-TS.pkl
+
+==> ./hpylori/out.txt <==
+TS_pydx5p_c
+TS_cobalt2_c
+TS_zn2_c
+TS_thmpp_c
+TS_4fe4s_c
+TS_fmn_c
+TS_fe3_c
+~ Final step. Fully optimizing with precision 1e-6 and save solution into the ME-model...
+  Gapfilled ME-model is feasible with growth rate 0.579251 (M-model: 0.692813).
+ME-model was saved in the ./hpylori/ directory as MEModel-step3-hpylori-TS.pkl
+
+==> ./synechococcus/out.txt <==
+TS_3php_c
+TS_5aizc_c
+TS_ppbng_c
+~ Final step. Fully optimizing with precision 1e-6 and save solution into the ME-model...
+  Gapfilled ME-model is feasible with growth rate 0.005859 (M-model: 0.053902).
+ME-model was saved in the ./synechococcus/ directory as MEModel-step3-synechococcus-TS.pkl
+/home/jt/UCSD/coralme/coralme/builder/main.py:30: UserWarning: This pandas version does not allow for correct warning handling. Pandas >=1.5.1 is suggested.
+  warnings.warn("This pandas version does not allow for correct warning handling. Pandas >=1.5.1 is suggested.")
+/home/jt/UCSD/coralme/coralme/builder/preprocess_inputs.py:15: UserWarning: This pandas version does not allow for correct warning handling. Pandas >=1.5.1 is suggested.
+  warnings.warn("This pandas version does not allow for correct warning handling. Pandas >=1.5.1 is suggested.")
+
+==> ./arthro/out.txt <==
+             Processed: 31/34, Gaps: 2. The ME-model is feasible if TS_cbl1_c is closed.
+             Processed: 32/34, Gaps: 2. The ME-model is feasible if TS_hemed_c is closed.
+             Processed: 33/34, Gaps: 2. The ME-model is feasible if TS_peptido_BS_c is closed.
+             Processed: 34/34, Gaps: 2. The ME-model is feasible if TS_m12dg_BS_c is closed.
+~ Troubleshooter added the following sinks:
+TS_4fe4s_c
+TS_thmpp_c
+~ Final step. Fully optimizing with precision 1e-6 and save solution into the ME-model...
+  Gapfilled ME-model is feasible with growth rate 0.327456 (M-model: 0.403932).
+ME-model was saved in the ./arthro/ directory as MEModel-step3-arthro-TS.pkl
+
+==> ./bacillus/out.txt <==
+TS_4fe4s_c
+TS_thmpp_c
+TS_cobalt2_c
+TS_zn2_c
+TS_pydx5p_c
+TS_fe2_c
+TS_mn2_c
+~ Final step. Fully optimizing with precision 1e-6 and save solution into the ME-model...
+  Gapfilled ME-model is feasible with growth rate 0.098727 (M-model: 0.117966).
+ME-model was saved in the ./bacillus/ directory as MEModel-step3-bacillus-TS.pkl
+
+==> ./tmaritima/out.txt <==
+             Processed: 48/48, Gaps: 5. The ME-model is not feasible if TS_fe2_c is closed.
+~ Troubleshooter added the following sinks:
+TS_cobalt2_c
+TS_mn2_c
+TS_fe2_c
+TS_4fe4s_c
+TS_asn__L_c
+~ Final step. Fully optimizing with precision 1e-6 and save solution into the ME-model...
+  Gapfilled ME-model is feasible with growth rate 0.169529 (M-model: 0.228407).
+ME-model was saved in the ./tmaritima/ directory as MEModel-step3-tmaritima-TS.pkl
+
+==> ./senterica/out.txt <==
+~ Troubleshooter added the following sinks:
+TS_pheme_c
+TS_4fe4s_c
+TS_generic_tRNA_GAG_glu__L_c
+TS_generic_tRNA_GAA_glu__L_c
+TS_generic_tRNA_GAU_asp__L_c
+TS_generic_tRNA_GAC_asp__L_c
+~ Final step. Fully optimizing with precision 1e-6 and save solution into the ME-model...
+  Gapfilled ME-model is feasible with growth rate 2.147123 (M-model: 0.477834).
+ME-model was saved in the ./senterica/ directory as MEModel-step3-senterica-TS.pkl
+
+==> ./mycoplasma/out.txt <==
+TS_clpn_c
+TS_pi_c
+TS_biomass_c
+TS_ACP_R_c
+TS_protein_c
+TS_cdpdag_c
+TS_fdp_c
+~ Final step. Fully optimizing with precision 1e-6 and save solution into the ME-model...
+  Gapfilled ME-model is feasible with growth rate 0.793750 (M-model: 0.369622).
+ME-model was saved in the ./mycoplasma/ directory as MEModel-step3-mycoplasma-TS.pkl
+
+==> ./ypestis/out.txt <==
+             Processed: 102/103, Gaps: 4. The ME-model is feasible if TS_hemed_c is closed.
+             Processed: 103/103, Gaps: 4. The ME-model is feasible if TS_dpm_c is closed.
+~ Troubleshooter added the following sinks:
+TS_cobalt2_c
+TS_4fe4s_c
+TS_zn2_c
+TS_dhptd_c
+~ Final step. Fully optimizing with precision 1e-6 and save solution into the ME-model...
+  Gapfilled ME-model is feasible with growth rate 0.316643 (M-model: 0.283558).
+ME-model was saved in the ./ypestis/ directory as MEModel-step3-ypestis-TS.pkl

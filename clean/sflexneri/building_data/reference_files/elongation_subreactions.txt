@@ -1,0 +1,3 @@
+subreaction	enzymes
+FusA_mono_elongation	S4404-MONOMER
+Tuf_gtp_regeneration	S0163-MONOMER

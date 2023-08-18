@@ -1,0 +1,7 @@
+,value
+RbfA_mono_assembly_factor_phase1,{'enzyme': 'RbfA_mono'}
+RbgA_mono_assembly_factor_phase1,{'enzyme': 'RbgA_mono'}
+Ribosome_30S_acetylation_1,{'enzyme': 'RimI_mono'}
+Ribosome_30S_acetylation_2,{'enzyme': 'RimJ_mono'}
+RimM_mono_assembly_factor_phase1,{'enzyme': 'RimM_mono'}
+gtp_bound_30S_assembly_factor_phase1,{'enzyme': 'CLJU_RS03990-MONOMER'}

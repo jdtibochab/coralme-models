@@ -1,0 +1,16 @@
+{
+  "m-model-path": "./mycoplasma/inputs/m_model.json",
+  "genbank-path": "./mycoplasma/inputs/genome.gb",
+  "biocyc.genes": "",
+  "biocyc.prots": "",
+  "biocyc.TUs": "",
+  "biocyc.RNAs": "",
+  "biocyc.seqs": "",
+  "df_gene_cplxs_mods_rxns": "./mycoplasma/building_data/automated-org-with-refs.xlsx",
+  "df_TranscriptionalUnits": "",
+  "out_directory": "./mycoplasma/",
+  "log_directory": "./mycoplasma/",
+  "run_bbh_blast": true,
+  "dev_reference": true,
+  "include_pseudo_genes": true
+}

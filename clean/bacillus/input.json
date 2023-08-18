@@ -1,0 +1,17 @@
+{
+  "m-model-path": "./bacillus/inputs/m_model.json",
+  "genbank-path": "./bacillus/inputs/genome.gb",
+  "biocyc.genes": "./bacillus/inputs/genes.txt",
+  "biocyc.prots": "./bacillus/inputs/proteins.txt",
+  "biocyc.TUs": "./bacillus/inputs/TUs.txt",
+  "biocyc.RNAs": "./bacillus/inputs/RNAs.txt",
+  "biocyc.seqs": "./bacillus/inputs/sequences.fasta",
+  "df_gene_cplxs_mods_rxns": "./bacillus/building_data/automated-org-with-refs.xlsx",
+  "df_TranscriptionalUnits": "",
+  "out_directory": "./bacillus/",
+  "log_directory": "./bacillus/",
+  "run_bbh_blast": true,
+  "dev_reference": true,
+  "include_pseudo_genes": true,
+  "locus_tag" : "old_locus_tag"
+}

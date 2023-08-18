@@ -1,0 +1,46 @@
+,value
+CLJU_RS01120-MONOMER,"['t6A_at_37', 'm6t6A_at_37']"
+CLJU_RS01985-MONOMER,"['m2G_at_2445', 'm7G_at_2069']"
+CLJU_RS02345-MONOMER_mod_4fe4s(1),['s2C_at_32']
+CLJU_RS04315-MONOMER_mod_4fe4s(1),['m5U_at_1939']
+CLJU_RS10420-MONOMER_mod_mg2(2),['i6A_at_37']
+CLJU_RS13995-MONOMER,['s4U_at_8']
+CLJU_RS20450-MONOMER,"['D_at_16', 'D_at_17', 'D_at_20', 'D_at_20A', 'D_at_21']"
+CLJU_RS20470-MONOMER,['k2C_at_34']
+CLJU_c01470_mono,['m6A_at_A37']
+DusII_mono_mod_fad(1),['D_at_1211']
+DusI_mono_mod_fad(1),['D_at_1211']
+GidB_mono,['m7G_at_527']
+MiaA_mono_mod_mg2(1),['ms2i6A_at_A37']
+MiaB_mono_mod_4fe4s(2),['ms2i6A_at_A37']
+MnmA_mono,['s2U_at_U34']
+MnmEG_cplx_mod_fad(2)_mod_k(2),"['cmnm5_at_U34', 'cmnm5s2_at_s2U34']"
+MtaB_mono_mod_4fe4s(2),['ms2t6A_at_A37']
+QueA_mono,['Q_at_G34']
+RNase_P,"['3_prime_cleaved_CAA_at_0', '5_prime_cleaved_at_0']"
+RNase_Z_mod_zn2(2),['3_prime_cleaved_at_0']
+RlmB_mono,['Gm_at_2251']
+RlmH_mono,['m3Y_at_1915']
+RlmN_mono_mod_4fe4s(1),['m2A_at_2503']
+RluB_mono,['Y_at_2605']
+RluC_mono,"['Y_at_955', 'Y_at_2504', 'Y_at_2580']"
+RluD_mono,"['Y_at_1911', 'Y_at_1917', 'm3Y_at_1915']"
+RsmA_mono,"['m62A_at_1518', 'm62A_at_1519']"
+RsmB_mono,"['m5C_at_967', 'm5C_at_1409']"
+RsmD_mono,['m2G_at_966']
+RsmE_mono,['m3U_at_1498']
+RsmH_mono,"['Cm_at_1195', 'm4Cm_at_1402']"
+RsmI_mono,['m4Cm_at_1402']
+RsuA_mono,['Y_at_516']
+TadA_dim_mod_zn2(2),['I_at_A34']
+Tgt_hex_mod_zn2(6),['Q_at_G34']
+TrmB_dim_mod_k(1),['m7G_at_G46']
+TrmL_dim,['Cm_at_C34']
+TruA_dim,['Y_at_U39']
+TruB_mono,['Y_at_U55']
+TsaEBD_CPLX_mod_fe2(1),['ms2t6A_at_A37']
+generic_Cca,['CAA_cap_at_0']
+generic_IscS,['s2U_at_U34']
+generic_QueG,['Q_at_G34']
+generic_TrmD,['m1G_at_G37']
+generic_TsaC,['ms2t6A_at_A37']

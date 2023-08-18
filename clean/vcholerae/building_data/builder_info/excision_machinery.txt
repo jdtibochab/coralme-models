@@ -1,0 +1,5 @@
+,value
+RNA_degradosome,"{'enzymes': ['VC_2447-MONOMER_mod_mg2(4)', 'VC_0647-MONOMER', 'VC_2030-MONOMER_mod_zn2(2)', 'VC_0305-MONOMER', 'VC_0341-MONOMER_mod_mg2(2)']}"
+monocistronic,"{'enzymes': ['VC_2030-MONOMER_mod_zn2(2)', 'generic_RNase']}"
+polycistronic_wout_rRNA,"{'enzymes': ['VC_2030-MONOMER_mod_zn2(2)', 'generic_RNase', 'VC_2461-MONOMER', 'VC_0419-MONOMER', 'VC_1006-MONOMER_mod_mg2(4)']}"
+rRNA_containing,"{'enzymes': ['VC_2030-MONOMER_mod_zn2(2)', 'generic_RNase', 'VC_2461-MONOMER_mod_mg2(2)', 'VC_0419-MONOMER', 'VC_1006-MONOMER_mod_mg2(4)']}"

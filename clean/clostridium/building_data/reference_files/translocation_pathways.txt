@@ -1,0 +1,10 @@
+pathway	enzyme
+sec	CLJU_RS01285-MONOMER
+tat	CPLX_dummy
+tat_alt	CPLX_dummy
+bam	CPLX_dummy
+lol	CPLX_dummy
+yidC	CLJU_RS21155-MONOMER
+secA	CLJU_RS01285-MONOMER
+srp_yidC	CLJU_RS21155-MONOMER
+srp	CLJU_RS06305-MONOMER

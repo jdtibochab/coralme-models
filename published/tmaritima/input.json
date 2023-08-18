@@ -1,0 +1,16 @@
+{
+  "m-model-path": "./tmaritima/inputs/m_model.json",
+  "genbank-path": "./tmaritima/inputs/genome.gb",
+  "df_gene_cplxs_mods_rxns": "./tmaritima/building_data/automated-org-with-refs.xlsx",
+  "df_TranscriptionalUnits": "",
+  "df_matrix_stoichiometry": "./tmaritima/building_data/reaction_matrix.txt",
+  "df_matrix_subrxn_stoich": "./tmaritima/inputs/subreaction_matrix.txt",
+  "df_metadata_orphan_rxns": "./tmaritima/building_data/orphan_and_spont_reactions.txt",
+  "df_metadata_metabolites": "./tmaritima/inputs/me_metabolites.txt",
+  "out_directory": "./tmaritima/",
+  "log_directory": "./tmaritima/",
+  "run_bbh_blast": true,
+  "dev_reference": true,
+  "include_pseudo_genes": true,
+  "locus_tag" : "old_locus_tag"
+}

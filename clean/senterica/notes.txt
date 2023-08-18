@@ -1,0 +1,1 @@
+S. enterica is missing tRNA-Glu in the annotation, requires manual curation.

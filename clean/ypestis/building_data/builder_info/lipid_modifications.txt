@@ -1,0 +1,3 @@
+,value
+other_lipids,['YPO2616-MONOMER']
+pg_pe_160,"['YPO0784-MONOMER', 'YPO0476-MONOMER']"

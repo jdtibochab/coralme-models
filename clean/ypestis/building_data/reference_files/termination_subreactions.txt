@@ -1,0 +1,10 @@
+subreaction	enzymes
+DnaK_dependent_folding	YPO0468-MONOMER,YPO0469-MONOMER_mod_zn2(4),YPO1107-MONOMER
+GroEL_dependent_folding	YPO0351-MONOMER,YPO0350-MONOMER
+N_terminal_methionine_cleavage	YPO1043-MONOMER_mod_fe2(2)
+PrfA_mono_mediated_termination	YPO2017-MONOMER
+PrfB_mono_mediated_termination	YPO0889-MONOMER
+generic_RF_mediated_termination	generic_RF
+peptide_chain_release	YPO0430-MONOMER
+peptide_deformylase_processing	YPO0242-MONOMER_mod_fe2(1)
+ribosome_recycler	YPO1047-MONOMER

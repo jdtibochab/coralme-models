@@ -1,0 +1,4 @@
+,value
+RbfA_mono_assembly_factor_phase1,{'enzyme': 'CPLX_dummy'}
+RimM_mono_assembly_factor_phase1,{'enzyme': 'G12WB-1389-MONOMER'}
+gtp_bound_30S_assembly_factor_phase1,{'enzyme': 'G12WB-2590-MONOMER'}

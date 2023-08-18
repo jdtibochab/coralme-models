@@ -1,0 +1,733 @@
+complex	name	genes	source
+CPLX-1	Cytosine deaminase	CLJU_c19230(1)	iJL965-ME
+CPLX-2	murein D,D-carboxypeptidase (murein5px4p) (periplasm)	CLJU_c11270(1)	iJL965-ME
+CPLX-3	murein D,D-carboxypeptidase (murein5px4p) (periplasm)	CLJU_c14360(1)	iJL965-ME
+CPLX-4	dimethylallyltranstransferase	CLJU_c11150(1)	iJL965-ME
+CPLX-5	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase	CLJU_c41450(1)	iJL965-ME
+CPLX-6	glucose-6-phosphate isomerase	CLJU_c37130(1)	iJL965-ME
+CPLX-7	3-deoxy-D-arabino-heptulosonate 7-phosphate synthetase	CLJU_c14780(1)	iJL965-ME
+CPLX-8	chorismate mutase	CLJU_c29180(1)	iJL965-ME
+CPLX-9	dihydropteroate synthase	CLJU_c06340(1)	iJL965-ME
+CPLX-10	manganese transport in via proton symport	CLJU_c34340(1)	iJL965-ME
+CPLX-11	manganese transport in via proton symport	CLJU_c35850(1)	iJL965-ME
+CPLX-12	manganese transport in via proton symport	CLJU_c42390(1)	iJL965-ME
+CPLX-13	manganese transport in via proton symport	CLJU_c16000(1)	iJL965-ME
+CPLX-14	uroporphyrinogen-III synthase	CLJU_c31970(1)	iJL965-ME
+CPLX-15		CLJU_c09090(1) AND CLJU_c09100(1) AND CLJU_c09110(1)	iJL965-ME
+CPLX-16	Octaprenyl pyrophosphate synthase	CLJU_c40310(1)	iJL965-ME
+CPLX-17	thiamine-phosphate diphosphorylase	CLJU_c13440(1)	iJL965-ME
+CPLX-18		CLJU_c33060(1)	iJL965-ME
+CPLX-19	glutamyl-tRNA reductase	CLJU_c04480(2)	iJL965-ME
+GluS_mono		CLJU_c13390(1)	iJL965-ME
+CPLX-21	fatty-acid--CoA ligase (hexadecanoate)	CLJU_c39390(1)	iJL965-ME
+CPLX-22	beta-ketoacyl-ACP synthase (2)	CLJU_c42190(2)	iJL965-ME
+CPLX-23	3-oxoacyl-[acyl-carrier-protein] synthase (n-C16:1)	CLJU_c42150(1)	iJL965-ME
+CPLX-24	precorrin-8X methylmutase	CLJU_c31930(1)	iJL965-ME
+CPLX-25	Nicotinate-nucleotide dimethylbenzimidazole phosphoribosyltransferase	CLJU_c31940(1)	iJL965-ME
+CPLX-26	tetrahydrodipicolinate succinylase	CLJU_c34610(1)	iJL965-ME
+CPLX-27		CLJU_c28640(1) AND CLJU_c28650(1) AND CLJU_c28660(1) AND CLJU_c28670(1)	iJL965-ME
+Hyp_CPLX		CLJU_c23060(1) AND CLJU_c23070(1) AND CLJU_c23080(1) AND CLJU_c23090(1)	iJL965-ME
+CPLX-28		CLJU_c33270(1)	iJL965-ME
+Etf3_CPLX		CLJU_c39400(1) AND CLJU_c39410(1) AND CLJU_c39420(1)	iJL965-ME
+CPLX-30	phosphopantothenate-cysteine ligase	CLJU_c12540(1)	iJL965-ME
+CPLX-31		CLJU_c20430(1) AND CLJU_c38920(1)	iJL965-ME
+CPLX-32		CLJU_c20430(1) AND CLJU_c20420(1)	iJL965-ME
+CPLX-33		CLJU_c20430(1) AND CLJU_c23420(1)	iJL965-ME
+CPLX-34	precorrin-3B C17-methyltransferase	CLJU_c31860(1)	iJL965-ME
+CPLX-35	Nucleoside triphosphate pyrophosphorylase (ctp)	CLJU_c41680(1)	iJL965-ME
+CPLX-36	allantoin transport in via proton symport	CLJU_c15350(1)	iJL965-ME
+CPLX-37	allantoin transport in via proton symport	CLJU_c15320(1)	iJL965-ME
+CPLX-38	glycerol-3-phosphate acyltransferase (C18:0)	CLJU_c12810(2)	iJL965-ME
+CPLX-39		CLJU_c05550(1)	iJL965-ME
+CPLX-40		CLJU_c05320(1)	iJL965-ME
+CPLX-41	purine-nucleoside phosphorylase (Deoxyadenosine)	CLJU_c20750(1)	iJL965-ME
+CPLX-42	precorrin-2 C20-methyltransferase	CLJU_c31890(1)	iJL965-ME
+CPLX-43	3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C18:1)	CLJU_c42130(1)	iJL965-ME
+CPLX-44	L-lysine reversible transport via proton symport	CLJU_c21810(1)	iJL965-ME
+CPLX-45	L-lysine reversible transport via proton symport	CLJU_c24360(1)	iJL965-ME
+CPLX-46		CLJU_c22090(1)	iJL965-ME
+CPLX-47	spermidine transport via ABC system	CLJU_c21730(1) AND CLJU_c21740(1) AND CLJU_c21750(1) AND CLJU_c21760(2)	iJL965-ME
+CPLX-48	GTP diphosphokinase	CLJU_c33710(1)	iJL965-ME
+CPLX-49	Imidazole-glycerol-3-phosphate synthase	CLJU_c11700(1) AND CLJU_c11730(1)	iJL965-ME
+CPLX-50	3-oxoacyl-[acyl-carrier-protein] reductase (n-C14:1)	CLJU_c34940(1)	iJL965-ME
+CPLX-51	3-oxoacyl-[acyl-carrier-protein] reductase (n-C14:1)	CLJU_c42160(1)	iJL965-ME
+CPLX-52	Threonine Aldolase	CLJU_c26170(1)	iJL965-ME
+CPLX-53	Alpha-N-arabinofuranosidase	CLJU_c01240(1)	iJL965-ME
+CPLX-54	malate dehydrogenase	CLJU_c05920(1)	iJL965-ME
+CPLX-55	UDP-N-acetyl-D-glucosamine 2-epimerase (Hydrolysis)	CLJU_c02350(1)	iJL965-ME
+CPLX-56	UDP-N-acetyl-D-glucosamine 2-epimerase (Hydrolysis)	CLJU_c34070(1)	iJL965-ME
+CPLX-57	Phosphatidylserine syntase (n-C12:0)	CLJU_c02910(1)	iJL965-ME
+CPLX-58	UDP-N-acetylglucosamine-N-acetylmuramyl-(pentapeptide)pyrophosphoryl-undecaprenol N-acetylglucosamine transferase	CLJU_c02160(1)	iJL965-ME
+CPLX-59	UDP-N-acetylglucosamine-N-acetylmuramyl-(pentapeptide)pyrophosphoryl-undecaprenol N-acetylglucosamine transferase	CLJU_c09330(1)	iJL965-ME
+CPLX-60		CLJU_c20430(2) AND CLJU_c20420(2)	iJL965-ME
+CPLX-61		CLJU_c20430(2) AND CLJU_c23420(2)	iJL965-ME
+CPLX-62		CLJU_c20430(2) AND CLJU_c38920(2)	iJL965-ME
+CPLX-63	deoxyribose-phosphate aldolase	CLJU_c18130(1)	iJL965-ME
+CPLX-64	hydroxymethylpyrimidine kinase (ATP)	CLJU_c33040(1)	iJL965-ME
+CPLX-65		CLJU_c08740(1)	iJL965-ME
+CPLX-66	isoleucine transaminase	CLJU_c09370(1)	iJL965-ME
+CPLX-67	dihydroxyacetone kinase	CLJU_c24220(1)	iJL965-ME
+CPLX-68	enoyl-[acyl-carrier-protein] reductase (NADH) (n-C10:0)	CLJU_c42180(1)	iJL965-ME
+CPLX-69	uridine kinase (ATP:Uridine)	CLJU_c02840(1)	iJL965-ME
+CPLX-70	pyrimidine-nucleoside phosphorylase (cytosine)	CLJU_c18160(1)	iJL965-ME
+CPLX-71	sulfate transport via ABC system	CLJU_c38570(1)	iJL965-ME
+CPLX-72	4-aminobutyrate transaminase	CLJU_c20470(1)	iJL965-ME
+CPLX-73	Potassium ABC transporter	CLJU_c39540(1) AND CLJU_c39550(1) AND CLJU_c39560(1)	iJL965-ME
+CPLX-74	phosphogluconate dehydrogenase	CLJU_c11590(1)	iJL965-ME
+CPLX-75		CLJU_c21420(1)	iJL965-ME
+CPLX-76	murein polymerizing transglycosylase 2 (three linked units)	CLJU_c33940(1)	iJL965-ME
+CPLX-77	molybdate transport via ABC system	CLJU_c22150(1) AND CLJU_c22160(1) AND CLJU_c22170(1)	iJL965-ME
+CPLX-78	molybdate transport via ABC system	CLJU_c38080(1) AND CLJU_c38090(1) AND CLJU_c38100(1)	iJL965-ME
+CPLX-79	molybdate transport via ABC system	CLJU_c17230(1) AND CLJU_c17240(1) AND CLJU_c17250(1)	iJL965-ME
+CPLX-80	molybdate transport via ABC system	CLJU_c04890(1) AND CLJU_c26020(1)	iJL965-ME
+CPLX-81	molybdate transport via ABC system	CLJU_c04890(1) AND CLJU_c22150(1) AND CLJU_c22160(1) AND CLJU_c22170(1)	iJL965-ME
+CPLX-82		CLJU_c37220(1)	iJL965-ME
+CPLX-83		CLJU_c17270(1) AND CLJU_c17280(1)	iJL965-ME
+CPLX-84		CLJU_c20290(1)	iJL965-ME
+CPLX-85	glycine transport in via proton symport	CLJU_c08330(1)	iJL965-ME
+CPLX-86	glycine transport in via proton symport	CLJU_c17900(1)	iJL965-ME
+CPLX-87	D-gluconate transport via proton symport, reversible	CLJU_c11600(1)	iJL965-ME
+CPLX-88	D-gluconate transport via proton symport, reversible	CLJU_c28160(1)	iJL965-ME
+CPLX-89	D-gluconate transport via proton symport, reversible	CLJU_c00620(1)	iJL965-ME
+CPLX-90		CLJU_c31980(1)	iJL965-ME
+FolE_CPLX		CLJU_c06350(10)	iJL965-ME
+CPLX-92	porphobilinogen synthase	CLJU_c31960(8)	iJL965-ME
+CPLX-93	shikimate dehydrogenase	CLJU_c28750(1)	iJL965-ME
+CPLX-94	shikimate dehydrogenase	CLJU_c29120(1)	iJL965-ME
+CPLX-95	pyrroline-5-carboxylate reductase	CLJU_c37380(1)	iJL965-ME
+CPLX-96	aspartate kinase	CLJU_c32890(1)	iJL965-ME
+CPLX-97	aspartate kinase	CLJU_c38320(1)	iJL965-ME
+CPLX-98	L-aspartase	CLJU_c04170(1)	iJL965-ME
+CPLX-99	L-aspartase	CLJU_c42370(1)	iJL965-ME
+CPLX-100	Phosphate acetyltransferase	CLJU_c12770(1)	iJL965-ME
+CPLX-101	precorrin-6A reductase	CLJU_c31840(1)	iJL965-ME
+CPLX-102		CLJU_c09060(1) AND CLJU_c09070(1)	iJL965-ME
+CPLX-103	Aspartate racemase	CLJU_c29440(1)	iJL965-ME
+CPLX-104	carbamoyl-phosphate synthase (glutamine-hydrolysing)	CLJU_c25210(1) AND CLJU_c25220(1)	iJL965-ME
+CPLX-105	carbamoyl-phosphate synthase (glutamine-hydrolysing)	CLJU_c04400(1) AND CLJU_c04410(1)	iJL965-ME
+CPLX-106		CLJU_c11880(1)	iJL965-ME
+CPLX-107	alcohol dehydrogenase (butanol)	CLJU_c16520(1)	iJL965-ME
+CPLX-108	alcohol dehydrogenase (butanol)	CLJU_c16510(1)	iJL965-ME
+CPLX-109	D-ribose transport via ABC system	CLJU_c01260(1) AND CLJU_c01270(2) AND CLJU_c01280(1)	iJL965-ME
+CPLX-110	precorrin-5 C1-methyltransferase	CLJU_c31870(1) AND CLJU_c31920(1)	iJL965-ME
+CPLX-111	dihydrodipicolinate synthase	CLJU_c34560(4)	iJL965-ME
+CPLX-112	dihydrodipicolinate synthase	CLJU_c04300(4)	iJL965-ME
+CPLX-113	undecaprenyl-diphosphatase (periplasm)	CLJU_c15920(1)	iJL965-ME
+CPLX-114	undecaprenyl-diphosphatase (periplasm)	CLJU_c06220(1)	iJL965-ME
+CPLX-115		CLJU_c16120(2) AND CLJU_c16130(2)	iJL965-ME
+CPLX-116		CLJU_c20410(1)	iJL965-ME
+CPLX-117	adenine phosphoribosyltransferase	CLJU_c33720(2)	iJL965-ME
+CPLX-118	2-dehydro-3-deoxy-phosphogluconate aldolase	CLJU_c11630(1)	iJL965-ME
+CPLX-119	2-dehydro-3-deoxy-phosphogluconate aldolase	CLJU_c13610(1)	iJL965-ME
+CPLX-120	Tetrahydrofolate:L-glutamate gamma-ligase (ADP-forming)	CLJU_c34680(1)	iJL965-ME
+CPLX-121	acetolactate decarboxylase	CLJU_c08380(1)	iJL965-ME
+CPLX-122		CLJU_c03180(1)	iJL965-ME
+CPLX-123	fructose-1-phosphate kinase	CLJU_c20600(1)	iJL965-ME
+CPLX-124	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	CLJU_c41280(1)	iJL965-ME
+CPLX-125		CLJU_c04900(2) AND CLJU_c04940(1) AND CLJU_c23520(1)	iJL965-ME
+CPLX-126		CLJU_c04900(2) AND CLJU_c23510(1) AND CLJU_c23520(1)	iJL965-ME
+CPLX-127		CLJU_c04940(1) AND CLJU_c23520(1) AND CLJU_c23530(2)	iJL965-ME
+CPLX-128		CLJU_c23510(1) AND CLJU_c23520(1) AND CLJU_c23530(2)	iJL965-ME
+CPLX-129		CLJU_c04900(2) AND CLJU_c04930(1) AND CLJU_c04940(1)	iJL965-ME
+CPLX-130		CLJU_c04900(2) AND CLJU_c04930(1) AND CLJU_c23510(1)	iJL965-ME
+CPLX-131		CLJU_c04930(1) AND CLJU_c04940(1) AND CLJU_c23530(2)	iJL965-ME
+CPLX-132		CLJU_c04930(1) AND CLJU_c23510(1) AND CLJU_c23530(2)	iJL965-ME
+CPLX-133	Pyridoxal-5-phosphate synthase	CLJU_c39580(1) AND CLJU_c39590(1)	iJL965-ME
+CPLX-134		CLJU_c41770(1)	iJL965-ME
+CPLX-135	2-dehydropantoate 2-reductase	CLJU_c17690(1)	iJL965-ME
+CPLX-136	D-xylose transport via ABC system	CLJU_c32270(1)	iJL965-ME
+CPLX-137	folate reductase	CLJU_c24490(1)	iJL965-ME
+CPLX-138		CLJU_c06640(1)	iJL965-ME
+CPLX-139	arginine decarboxylase	CLJU_c01380(1)	iJL965-ME
+CPLX-140	arginine decarboxylase	CLJU_c34220(1)	iJL965-ME
+CPLX-141	spermidine synthase	CLJU_c28200(2)	iJL965-ME
+CPLX-142	phosphate transport via ABC system	CLJU_c12420(2)	iJL965-ME
+CPLX-143	precorrin-4 C11-methyltransferase	CLJU_c31880(1)	iJL965-ME
+CPLX-144	hexokinase (D-glucose:ATP)	CLJU_c20810(1)	iJL965-ME
+CPLX-145	diacylglycerol kinase (n-C18:1)	CLJU_c08090(1)	iJL965-ME
+CPLX-146	1-tetradecanoyl-sn-glycerol 3-phosphate O-acyltransferase (n-C14:0)	CLJU_c39280(1)	iJL965-ME
+CPLX-147	1-tetradecanoyl-sn-glycerol 3-phosphate O-acyltransferase (n-C14:0)	CLJU_c06600(1)	iJL965-ME
+CPLX-148	Pyruvate,phosphate dikinase.	CLJU_c08140(1)	iJL965-ME
+CPLX-149		CLJU_c24880(1)	iJL965-ME
+CPLX-150		CLJU_c39950(1)	iJL965-ME
+CPLX-151	UMP kinase	CLJU_c13040(6)	iJL965-ME
+CPLX-152	prephenate dehydratase	CLJU_c29130(1)	iJL965-ME
+CPLX-153	prephenate dehydratase	CLJU_c25500(1)	iJL965-ME
+CPLX-154	cardiolipin synthase (n-C16:1)	CLJU_c29040(1)	iJL965-ME
+CPLX-155	cardiolipin synthase (n-C16:1)	CLJU_c08890(1)	iJL965-ME
+CPLX-156	adenylate kinase	CLJU_c40830(1)	iJL965-ME
+CPLX-157	phosphoglycerate kinase	CLJU_c39140(1)	iJL965-ME
+CPLX-158	ADPribose diphosphatase	CLJU_c11240(1)	iJL965-ME
+CPLX-159		CLJU_c08560(1)	iJL965-ME
+FabH_dim	Acetyl-CoA ACP transacylase	CLJU_c42190(2)	iJL965-ME
+CPLX-161	D-lactate dehydrogenase	CLJU_c32190(1)	iJL965-ME
+CPLX-162	D-fructose transport via PEP:Pyr PTS	CLJU_c20590(1)	iJL965-ME
+CPLX-163	D-fructose transport via PEP:Pyr PTS	CLJU_c26050(1) AND CLJU_c26060(1)	iJL965-ME
+CPLX-164	homocitrate synthase	CLJU_c04980(1)	iJL965-ME
+CPLX-165	sirohydrochlorin cobaltochelatase	CLJU_c31850(1)	iJL965-ME
+CPLX-166	uracil transport in via proton symport	CLJU_c10730(1)	iJL965-ME
+CPLX-167	uracil transport in via proton symport	CLJU_c23580(1)	iJL965-ME
+CPLX-168	ornithine carbamoyltransferase	CLJU_c28010(1)	iJL965-ME
+CPLX-169	ornithine carbamoyltransferase	CLJU_c09280(1)	iJL965-ME
+CPLX-170	ornithine carbamoyltransferase	CLJU_c25230(1)	iJL965-ME
+CPLX-171	ornithine carbamoyltransferase	CLJU_c42560(3)	iJL965-ME
+CPLX-172		CLJU_c35690(1) AND CLJU_c35700(2)	iJL965-ME
+CPLX-173	formate-tetrahydrofolate ligase	CLJU_c37650(1)	iJL965-ME
+CPLX-174	nitrite transport in via proton symport, reversible	CLJU_c23740(1)	iJL965-ME
+HisGZ_CPLX	ATP phosphoribosyltransferase	CLJU_c11670(1) AND CLJU_c11660(1)	iJL965-ME
+CPLX-176	L-tryptophan reversible transport via proton symport	CLJU_c29000(1)	iJL965-ME
+CPLX-177	S-adenosylmethione:2-demthylmenaquinole methyltransferase (menaquinone 8)	CLJU_c40300(1)	iJL965-ME
+CPLX-178	GMP synthase	CLJU_c37170(2)	iJL965-ME
+CPLX-179	UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimelate synthetase	CLJU_c10570(1)	iJL965-ME
+CPLX-180	acetate kinase	CLJU_c12780(2)	iJL965-ME
+CPLX-181	phosphoribosyl-AMP cyclohydrolase	CLJU_c11740(1)	iJL965-ME
+CPLX-182		CLJU_c23480(2)	iJL965-ME
+CPLX-183	isocitrate dehydrogenase (NAD)	CLJU_c06630(1)	iJL965-ME
+CPLX-184		CLJU_c24370(1)	iJL965-ME
+CPLX-185		CLJU_c39310(1)	iJL965-ME
+CPLX-186		CLJU_c10140(1)	iJL965-ME
+CPLX-187	Glycine betaine transport via proton symport, reversible	CLJU_c27340(1)	iJL965-ME
+CPLX-188	Glycine betaine transport via proton symport, reversible	CLJU_c27820(1)	iJL965-ME
+CPLX-189		CLJU_c27260(1)	iJL965-ME
+CPLX-190		CLJU_c07730(1)	iJL965-ME
+CPLX-191	adenosylcobinamide-phosphate synthase	CLJU_c32010(1)	iJL965-ME
+CPLX-192	Carbamate kinase	CLJU_c28000(1)	iJL965-ME
+CPLX-193	Carbamate kinase	CLJU_c42550(1)	iJL965-ME
+CPLX-194	Carbamate kinase	CLJU_c09300(1)	iJL965-ME
+CPLX-195	Carbamate kinase	CLJU_c15300(1)	iJL965-ME
+CPLX-196	Carbamate kinase	CLJU_c23570(1)	iJL965-ME
+CPLX-197	Carbamate kinase	CLJU_c23800(1)	iJL965-ME
+CPLX-198		CLJU_c01200(1)	iJL965-ME
+CPLX-199	Na+/Proline-L symporter	CLJU_c20530(1)	iJL965-ME
+CPLX-200	D-mannose transport via PEP:Pyr PTS	CLJU_c02950(1)	iJL965-ME
+CPLX-201	dihydrodipicolinate reductase (NADPH)	CLJU_c18050(4)	iJL965-ME
+CPLX-202	dihydrodipicolinate reductase (NADPH)	CLJU_c34550(4)	iJL965-ME
+CPLX-203	phosphoribosylaminoimidazole synthase	CLJU_c08570(1)	iJL965-ME
+CPLX-204	D-xylose transport in via proton symport	CLJU_c18280(1)	iJL965-ME
+CPLX-205	phosphoribosylaminoimidazolecarboxamide formyltransferase	CLJU_c08590(1)	iJL965-ME
+CPLX-206	phosphoribosylaminoimidazolecarboxamide formyltransferase	CLJU_c22210(1)	iJL965-ME
+CPLX-207		CLJU_c37180(4)	iJL965-ME
+CPLX-208	phosphate reversible transport via symport	CLJU_c12450(1)	iJL965-ME
+CPLX-209		CLJU_c13340(1)	iJL965-ME
+CPLX-210		CLJU_c04650(1)	iJL965-ME
+CPLX-211	hypoxanthine phosphoribosyltransferase (Hypoxanthine)	CLJU_c33920(1)	iJL965-ME
+CPLX-212	hypoxanthine phosphoribosyltransferase (Hypoxanthine)	CLJU_c41540(1)	iJL965-ME
+CPLX-213	triose-phosphate isomerase	CLJU_c39130(2)	iJL965-ME
+CPLX-214	Maltotriose transport via ABC system	CLJU_c16880(1)	iJL965-ME
+CPLX-215	aconitase (half-reaction B, Isocitrate hydro-lyase)	CLJU_c06620(1)	iJL965-ME
+CPLX-216	aconitase (half-reaction B, Isocitrate hydro-lyase)	CLJU_c30460(1)	iJL965-ME
+CPLX-217	L-arabinose transport via proton symport	CLJU_c01250(1)	iJL965-ME
+CPLX-218	phosphoribosylformylglycinamidine synthase	CLJU_c11540(1)	iJL965-ME
+CPLX-219		CLJU_c38310(2)	iJL965-ME
+CPLX-220	3-phosphoshikimate 1-carboxyvinyltransferase	CLJU_c29150(1)	iJL965-ME
+CPLX-221	pyruvate kinase	CLJU_c03260(1)	iJL965-ME
+CPLX-222	L-leucine reversible transport via proton symport	CLJU_c17740(1)	iJL965-ME
+GlcA_mono	GLYCTt	CLJU_c21610(1)	iJL965-ME
+CPLX-224	aspartate carbamoyltransferase	CLJU_c35720(1) AND CLJU_c35730(1)	iJL965-ME
+CPLX-225	lacaldehyde reductase (S-propane-1,2-diol forming)	CLJU_c35930(1)	iJL965-ME
+CPLX-226	xanthine dehydrogenase	CLJU_c23590(1) AND CLJU_c23600(1) AND CLJU_c23610(1)	iJL965-ME
+CPLX-227	xanthine dehydrogenase	CLJU_c23890(1) AND CLJU_c23900(1) AND CLJU_c23910(1)	iJL965-ME
+CPLX-228	xanthine dehydrogenase	CLJU_c29920(1) AND CLJU_c29930(1) AND CLJU_c29940(1)	iJL965-ME
+CPLX-229	cytidylate kinase (CMP)	CLJU_c21330(1)	iJL965-ME
+CPLX-230	formate transport in via proton symport	CLJU_c37490(1)	iJL965-ME
+CPLX-231		CLJU_c11160(2)	iJL965-ME
+CPLX-232	Phosphatidylglycerol synthase (n-C14:0)	CLJU_c13270(1)	iJL965-ME
+CPLX-233	fumarase	CLJU_c40590(1) AND CLJU_c40600(1)	iJL965-ME
+CPLX-234	adenosylcobyric acid synthase (glutamine-hydrolysing)	CLJU_c32020(1)	iJL965-ME
+CPLX-235	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino)imidazole-4-carboxamide isomerase	CLJU_c11710(1)	iJL965-ME
+CPLX-236	diaminopimelate epimerase	CLJU_c10760(1)	iJL965-ME
+CPLX-237	succinyl-diaminopimelate desuccinylase	CLJU_c17390(1)	iJL965-ME
+CPLX-238	ketol-acid reductoisomerase (2-Acetolactate)	CLJU_c20400(1)	iJL965-ME
+CPLX-239	ketol-acid reductoisomerase (2-Acetolactate)	CLJU_c20390(1)	iJL965-ME
+CPLX-240	ketol-acid reductoisomerase (2-Acetolactate)	CLJU_c15310(1)	iJL965-ME
+CPLX-241	FMN adenylyltransferase	CLJU_c13190(1)	iJL965-ME
+CPLX-242		CLJU_c24860(1)	iJL965-ME
+CPLX-243	L-threonine deaminase	CLJU_c15090(1)	iJL965-ME
+CPLX-244	precorrin-6Y C5,15-methyltransferase (decarboxylating)	CLJU_c31900(1) AND CLJU_c31910(1)	iJL965-ME
+CPLX-245		CLJU_c39110(1)	iJL965-ME
+CPLX-246	thiamine kinase	CLJU_c01390(1)	iJL965-ME
+CPLX-247	taurine transport via ABC system	CLJU_c26510(1) AND CLJU_c26520(1) AND CLJU_c26530(1)	iJL965-ME
+CPLX-248		CLJU_c03000(1)	iJL965-ME
+CPLX-249	CDP-diacylglycerol synthetase (n-C14:0)	CLJU_c13170(1)	iJL965-ME
+CPLX-250		CLJU_c24150(1) AND CLJU_c24160(1) AND CLJU_c24170(1) AND CLJU_c37600(1)	iJL965-ME
+CPLX-251		CLJU_c24150(1) AND CLJU_c24160(1) AND CLJU_c37540(1) AND CLJU_c37600(1)	iJL965-ME
+CPLX-252		CLJU_c04490(2)	iJL965-ME
+CPLX-253	sirohydrochlorin ferrochelatase	CLJU_c31990(1)	iJL965-ME
+CPLX-254	1,4-dihydroxy-2-naphthoate octaprenyltransferase	CLJU_c40280(1)	iJL965-ME
+CPLX-255	NAPRTase	CLJU_c13430(1)	iJL965-ME
+CPLX-256		CLJU_c22800(1) AND CLJU_c22820(1)	iJL965-ME
+CPLX-257	riboflavin transport in via proton symport	CLJU_c02690(1)	iJL965-ME
+CPLX-258	phosphoribosylaminoimidazole carboxylase	CLJU_c08540(1)	iJL965-ME
+CPLX-259		CLJU_c42350(2)	iJL965-ME
+CPLX-260		CLJU_c35680(2)	iJL965-ME
+CPLX-261_Etf1_CPLX		CLJU_c37610(1) AND CLJU_c37620(1) AND CLJU_c13890(1) AND CLJU_c13880(1)	iJL965-ME
+CPLX-261_Etf2_CPLX		CLJU_c37610(1) AND CLJU_c37620(1) AND CLJU_c20340(1) AND CLJU_c20330(1)	iJL965-ME
+CPLX-261_Etf3_CPLX		CLJU_c37610(1) AND CLJU_c37620(1) AND CLJU_c39400(1) AND CLJU_c39410(1)	iJL965-ME
+CPLX-262	phosphoserine phosphatase (L-serine)	CLJU_c09360(1)	iJL965-ME
+CPLX-263	phosphoserine phosphatase (L-serine)	CLJU_c21640(1)	iJL965-ME
+CPLX-264	glutamate-5-semialdehyde dehydrogenase	CLJU_c06000(1)	iJL965-ME
+CPLX-265	indole-3-glycerol-phosphate synthase	CLJU_c16100(1)	iJL965-ME
+ValS_mono		CLJU_c34690(1)	iJL965-ME
+CPLX-267	L-ribulokinase (L-ribulose)	CLJU_c01220(1)	iJL965-ME
+CPLX-268		CLJU_c21290(1)	iJL965-ME
+Ser_RS_dim		CLJU_c00170(2)	iJL965-ME
+CPLX-270	rhamnulokinase	CLJU_c42610(1)	iJL965-ME
+CPLX-272	dTDP-4-dehydrorhamnose 3,5-epimerase	CLJU_c05350(1)	iJL965-ME
+CPLX-273	dTDP-4-dehydrorhamnose 3,5-epimerase	CLJU_c05580(1)	iJL965-ME
+RibBA_mono		CLJU_c22070(1)	iJL965-ME
+CPLX-275	histidinol-phosphatase	CLJU_c11810(1)	iJL965-ME
+CPLX-276	mannose-6-phosphate isomerase	CLJU_c39450(1)	iJL965-ME
+CPLX-277		CLJU_c24380(1)	iJL965-ME
+CPLX-279	imidazoleglycerol-phosphate dehydratase	CLJU_c11690(1)	iJL965-ME
+CPLX-280		CLJU_c24150(1) AND CLJU_c24160(1) AND CLJU_c24170(1) AND CLJU_c24180(1) AND CLJU_c37600(1)	iJL965-ME
+CPLX-281		CLJU_c24150(1) AND CLJU_c24160(1) AND CLJU_c24180(1) AND CLJU_c37540(1) AND CLJU_c37600(1)	iJL965-ME
+CPLX-282		CLJU_c11680(1)	iJL965-ME
+CPLX-283		CLJU_c42600(1)	iJL965-ME
+CPLX-284		CLJU_c18240(4)	iJL965-ME
+CPLX-285	arabinose reductase	CLJU_c17820(1)	iJL965-ME
+CPLX-286	glycerol transport via channel	CLJU_c15570(1)	iJL965-ME
+CPLX-287	glycerol transport via channel	CLJU_c11890(1)	iJL965-ME
+CPLX-288		CLJU_c40440(1)	iJL965-ME
+CPLX-289	4-Hydroxy-L-threonine synthase	CLJU_c40360(1)	iJL965-ME
+CPLX-290	4-Hydroxy-L-threonine synthase	CLJU_c33180(1)	iJL965-ME
+CPLX-291	D-galactose transport via ABC system	CLJU_c08950(1)	iJL965-ME
+CPLX-292	L-serine deaminase	CLJU_c33250(1) AND CLJU_c33260(1)	iJL965-ME
+CPLX-293		CLJU_c08600(1)	iJL965-ME
+CPLX-294	Adenosyl cobinamide kinase	CLJU_c35520(1)	iJL965-ME
+CPLX-295	D-galacturonate transport via proton symport, reversible	CLJU_c03870(1)	iJL965-ME
+CPLX-296	1-deoxy-D-xylulose reductoisomerase	CLJU_c13080(1)	iJL965-ME
+CPLX-297	Cobinamide adenyltransferase	CLJU_c31820(1)	iJL965-ME
+CPLX-298	sodium proton antiporter (H:NA is 2)	CLJU_c08880(1) AND CLJU_c08970(1)	iJL965-ME
+CPLX-299	sodium proton antiporter (H:NA is 2)	CLJU_c08970(1) AND CLJU_c40350(1)	iJL965-ME
+NADH-DHI-CPLX_FdhA_mono		CLJU_c07030(1) AND CLJU_c07040(1) AND CLJU_c07050(1) AND CLJU_c07060(1) AND CLJU_c07070(1) AND CLJU_c07080(1) AND CLJU_c20040(1)	iJL965-ME
+NADH-DHI-CPLX_FdhAII_mono		CLJU_c07030(1) AND CLJU_c07040(1) AND CLJU_c07050(1) AND CLJU_c07060(1) AND CLJU_c07070(1) AND CLJU_c07080(1) AND CLJU_c06990(1)	iJL965-ME
+NADH-DHI-CPLX_FdhAIII_mono		CLJU_c07030(1) AND CLJU_c07040(1) AND CLJU_c07050(1) AND CLJU_c07060(1) AND CLJU_c07070(1) AND CLJU_c07080(1) AND CLJU_c08930(1)	iJL965-ME
+NADH-DHI-II-CPLX_FdhA_mono		CLJU_c14700(1) AND CLJU_c14710(1) AND CLJU_c14720(1) AND CLJU_c07060(1) AND CLJU_c07070(1) AND CLJU_c07080(1) AND CLJU_c20040(1)	iJL965-ME
+NADH-DHI-II-CPLX_FdhAII_mono		CLJU_c14700(1) AND CLJU_c14710(1) AND CLJU_c14720(1) AND CLJU_c07060(1) AND CLJU_c07070(1) AND CLJU_c07080(1) AND CLJU_c06990(1)	iJL965-ME
+NADH-DHI-II-CPLX_FdhAIII_mono		CLJU_c14700(1) AND CLJU_c14710(1) AND CLJU_c14720(1) AND CLJU_c07060(1) AND CLJU_c07070(1) AND CLJU_c07080(1) AND CLJU_c08930(1)	iJL965-ME
+NADH-DHI-CPLX		CLJU_c07030(1) AND CLJU_c07040(1) AND CLJU_c07050(1) AND CLJU_c07060(1) AND CLJU_c07070(1) AND CLJU_c07080(1)	iJL965-ME
+NADH-DHI-II-CPLX		CLJU_c14700(1) AND CLJU_c14710(1) AND CLJU_c14720(1) AND CLJU_c07060(1) AND CLJU_c07070(1) AND CLJU_c07080(1)	iJL965-ME
+CPLX-302	deoxycytidine deaminase	CLJU_c18120(1)	iJL965-ME
+CPLX-303	zinc transport via ABC system	CLJU_c22200(1) AND CLJU_c31790(1) AND CLJU_c31800(1)	iJL965-ME
+CPLX-304	zinc transport via ABC system	CLJU_c04010(1) AND CLJU_c31790(1) AND CLJU_c31800(1)	iJL965-ME
+CPLX-305	zinc transport via ABC system	CLJU_c31790(1) AND CLJU_c31800(1) AND CLJU_c38160(1)	iJL965-ME
+CPLX-306	zinc transport via ABC system	CLJU_c31790(1) AND CLJU_c31800(1) AND CLJU_c37880(1)	iJL965-ME
+CPLX-307	ribulose 5-phosphate 3-epimerase	CLJU_c12640(1)	iJL965-ME
+CPLX-308	L-glutamate transport in via proton symport	CLJU_c20790(1)	iJL965-ME
+FadD_mono	Malonyl-CoA-ACP transacylase	CLJU_c42170(1)	iJL965-ME
+CPLX-310	N-Formyl-L-glutamate amidohydrolase	CLJU_c24450(1)	iJL965-ME
+CPLX-311	glycerol-3-phosphate dehydrogenase (NADP)	CLJU_c12480(1)	iJL965-ME
+CPLX-312	sulfate transport in via proton symport	CLJU_c06120(1)	iJL965-ME
+CPLX-313	sulfate transport in via proton symport	CLJU_c21180(1)	iJL965-ME
+CPLX-314		CLJU_c03250(4)	iJL965-ME
+CPLX-315		CLJU_c25790(4)	iJL965-ME
+CPLX-316	methylglyoxal synthase	CLJU_c07300(1)	iJL965-ME
+CPLX-317		CLJU_c14280(2)	iJL965-ME
+CPLX-318		CLJU_c42590(1)	iJL965-ME
+CPLX-319	glycerate kinase	CLJU_c28110(1)	iJL965-ME
+CPLX-320	glycerate kinase	CLJU_c38380(1)	iJL965-ME
+CPLX-321	anthranilate synthase	CLJU_c16070(1) AND CLJU_c16080(1)	iJL965-ME
+CPLX-322	mannose-1-phosphate guanylyltransferase (GDP)	CLJU_c05540(1)	iJL965-ME
+CPLX-323	mannose-1-phosphate guanylyltransferase (GDP)	CLJU_c05310(1)	iJL965-ME
+CPLX-324	mannose-1-phosphate guanylyltransferase (GDP)	CLJU_c01930(1)	iJL965-ME
+CPLX-325	Citrate lyase	CLJU_c25320(1) AND CLJU_c25340(1) AND CLJU_c30480(1)	iJL965-ME
+CPLX-326	Citrate lyase	CLJU_c25340(1) AND CLJU_c30480(1) AND CLJU_c40560(1)	iJL965-ME
+CPLX-327	Citrate lyase	CLJU_c25340(1) AND CLJU_c30470(1) AND CLJU_c30480(1)	iJL965-ME
+CPLX-328	Citrate lyase	CLJU_c25320(1) AND CLJU_c25330(1) AND CLJU_c25340(1)	iJL965-ME
+CPLX-329	Citrate lyase	CLJU_c25330(1) AND CLJU_c25340(1) AND CLJU_c40560(1)	iJL965-ME
+CPLX-330	Citrate lyase	CLJU_c25330(1) AND CLJU_c25340(1) AND CLJU_c30470(1)	iJL965-ME
+CPLX-331	Citrate lyase	CLJU_c25320(1) AND CLJU_c25340(1) AND CLJU_c40570(1)	iJL965-ME
+CPLX-332	Citrate lyase	CLJU_c25340(1) AND CLJU_c40560(1) AND CLJU_c40570(1)	iJL965-ME
+CPLX-333	Citrate lyase	CLJU_c25340(1) AND CLJU_c30470(1) AND CLJU_c40570(1)	iJL965-ME
+CPLX-334	Citrate lyase	CLJU_c25320(1) AND CLJU_c30480(1) AND CLJU_c40580(1)	iJL965-ME
+CPLX-335	Citrate lyase	CLJU_c30480(1) AND CLJU_c40560(1) AND CLJU_c40580(1)	iJL965-ME
+CPLX-336	Citrate lyase	CLJU_c30470(1) AND CLJU_c30480(1) AND CLJU_c40580(1)	iJL965-ME
+CPLX-337	Citrate lyase	CLJU_c25320(1) AND CLJU_c25330(1) AND CLJU_c40580(1)	iJL965-ME
+CPLX-338	Citrate lyase	CLJU_c25330(1) AND CLJU_c40560(1) AND CLJU_c40580(1)	iJL965-ME
+CPLX-339	Citrate lyase	CLJU_c25330(1) AND CLJU_c30470(1) AND CLJU_c40580(1)	iJL965-ME
+CPLX-340	Citrate lyase	CLJU_c25320(1) AND CLJU_c40570(1) AND CLJU_c40580(1)	iJL965-ME
+CPLX-341	Citrate lyase	CLJU_c40560(1) AND CLJU_c40570(1) AND CLJU_c40580(1)	iJL965-ME
+CPLX-342	Citrate lyase	CLJU_c30470(1) AND CLJU_c40570(1) AND CLJU_c40580(1)	iJL965-ME
+CPLX-343	Citrate lyase	CLJU_c25320(1) AND CLJU_c30480(1) AND CLJU_c30490(1)	iJL965-ME
+CPLX-344	Citrate lyase	CLJU_c30480(1) AND CLJU_c30490(1) AND CLJU_c40560(1)	iJL965-ME
+CPLX-345	Citrate lyase	CLJU_c30470(1) AND CLJU_c30480(1) AND CLJU_c30490(1)	iJL965-ME
+CPLX-346	Citrate lyase	CLJU_c25320(1) AND CLJU_c25330(1) AND CLJU_c30490(1)	iJL965-ME
+CPLX-347	Citrate lyase	CLJU_c25330(1) AND CLJU_c30490(1) AND CLJU_c40560(1)	iJL965-ME
+CPLX-348	Citrate lyase	CLJU_c25330(1) AND CLJU_c30470(1) AND CLJU_c30490(1)	iJL965-ME
+CPLX-349	Citrate lyase	CLJU_c25320(1) AND CLJU_c30490(1) AND CLJU_c40570(1)	iJL965-ME
+CPLX-350	Citrate lyase	CLJU_c30490(1) AND CLJU_c40560(1) AND CLJU_c40570(1)	iJL965-ME
+CPLX-351	Citrate lyase	CLJU_c30470(1) AND CLJU_c30490(1) AND CLJU_c40570(1)	iJL965-ME
+CPLX-352		CLJU_c42100(2) AND CLJU_c42110(1) AND CLJU_c42120(1) AND CLJU_c42140(1)	iJL965-ME
+CPLX-353		CLJU_c13100(1)	iJL965-ME
+CPLX-354		CLJU_c11500(2)	iJL965-ME
+CPLX-355	UDPgalactopyranose mutase	CLJU_c33530(1)	iJL965-ME
+CPLX-356	dTDP-4-dehydrorhamnose reductase	CLJU_c05340(1)	iJL965-ME
+CPLX-357	dTDP-4-dehydrorhamnose reductase	CLJU_c05570(1)	iJL965-ME
+CPLX-358	biotin-[acetyl-CoA-carboxylase] ligase	CLJU_c26660(1)	iJL965-ME
+CPLX-359		CLJU_c39500(2)	iJL965-ME
+CPLX-360		CLJU_c09080(2)	iJL965-ME
+CPLX-361		CLJU_c13060(2)	iJL965-ME
+CPLX-362	Undecaprenyl diphosphate synthase	CLJU_c35470(1)	iJL965-ME
+CPLX-363		CLJU_c00710(1)	iJL965-ME
+CPLX-364	homoserine kinase	CLJU_c07160(1)	iJL965-ME
+CPLX-365		CLJU_c21320(1)	iJL965-ME
+CPLX-366		CLJU_c20030(1) AND CLJU_c20040(1)	iJL965-ME
+CPLX-367		CLJU_c06990(1)	iJL965-ME
+CPLX-368		CLJU_c08930(1)	iJL965-ME
+CPLX-369		CLJU_c21510(2)	iJL965-ME
+CPLX-370	riboflavin synthase	CLJU_c22060(1)	iJL965-ME
+CPLX-371	methenyltetrahydrofolate cyclohydrolase	CLJU_c37630(2)	iJL965-ME
+CPLX-372		CLJU_c11720(2)	iJL965-ME
+CPLX-373	GAPDy	CLJU_c39150(1)	iJL965-ME
+CPLX-374	GAPDy	CLJU_c13400(1)	iJL965-ME
+CPLX-375		CLJU_c24430(1)	iJL965-ME
+CPLX-376		CLJU_c23710(1) AND CLJU_c23720(1) AND CLJU_c23730(1)	iJL965-ME
+CPLX-377	asparagine synthase (glutamine-hydrolysing)	CLJU_c17710(1)	iJL965-ME
+CPLX-378	asparagine synthase (glutamine-hydrolysing)	CLJU_c26720(1)	iJL965-ME
+CPLX-379	phosphoribosyl-ATP pyrophosphatase	CLJU_c11750(1)	iJL965-ME
+CPLX-380		CLJU_c29390(1)	iJL965-ME
+Asr2_CPLX		CLJU_c25470(1) AND CLJU_c25480(1)	iJL965-ME
+CPLX-382	3-dehydroquinate synthase	CLJU_c29160(1)	iJL965-ME
+CPLX-383	ornithine transacetylase	CLJU_c21530(2)	iJL965-ME
+CPLX-384	N-acetylmuramoyl-L-alanine amidase	CLJU_c04820(1)	iJL965-ME
+CPLX-385	N-acetylmuramoyl-L-alanine amidase	CLJU_c31080(1)	iJL965-ME
+CPLX-386	N-acetylmuramoyl-L-alanine amidase	CLJU_c01880(1)	iJL965-ME
+CPLX-387	N-acetylmuramoyl-L-alanine amidase	CLJU_c40480(1)	iJL965-ME
+CPLX-388	tartronate semialdehyde reductase	CLJU_c28090(1)	iJL965-ME
+CPLX-389	3-dehydroquinate dehydratase	CLJU_c28760(2)	iJL965-ME
+CPLX-390	acetylglutamate kinase	CLJU_c21520(1)	iJL965-ME
+CPLX-391	histidase	CLJU_c21460(1)	iJL965-ME
+CPLX-392	histidase	CLJU_c32840(1)	iJL965-ME
+CPLX-393	Sedoheptulose 1,7-bisphosphate D-glyceraldehyde-3-phosphate-lyase	CLJU_c00660(1)	iJL965-ME
+CPLX-394	guanylate kinase (GMP:ATP)	CLJU_c12520(1)	iJL965-ME
+CPLX-395	fructose-bisphosphate aldolase	CLJU_c02810(1)	iJL965-ME
+CPLX-396	iron (II) transport via ABC system	CLJU_c21650(1) AND CLJU_c21660(1)	iJL965-ME
+CPLX-397	iron (II) transport via ABC system	CLJU_c13960(1) AND CLJU_c13980(1)	iJL965-ME
+CPLX-398		CLJU_c37390(1)	iJL965-ME
+CPLX-399	prephenate dehydrogenase	CLJU_c29170(1)	iJL965-ME
+CPLX-400	orotidine-5'-phosphate decarboxylase	CLJU_c35710(1)	iJL965-ME
+CPLX-401	dihydrouracil dehydrogenase (NADP)	CLJU_c35870(1)	iJL965-ME
+CPLX-402	Cob(II)yrinate a,c-diamide synthase (glutamine-hydrolysing)	CLJU_c31950(1)	iJL965-ME
+CPLX-403	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	CLJU_c01570(3)	iJL965-ME
+CPLX-404	adenylosuccinate lyase	CLJU_c13370(1)	iJL965-ME
+CPLX-405		CLJU_c07460(1)	iJL965-ME
+CPLX-406		CLJU_c27720(1)	iJL965-ME
+CPLX-407		CLJU_c16090(2)	iJL965-ME
+CPLX-408		CLJU_c11180(1)	iJL965-ME
+CPLX-409		CLJU_c41520(2)	iJL965-ME
+CPLX-410	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	CLJU_c02460(1)	iJL965-ME
+CPLX-411	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	CLJU_c41980(1)	iJL965-ME
+CPLX-412	guanine deaminase	CLJU_c23960(1)	iJL965-ME
+CODH_AC_SYN		CLJU_c37550(1) AND CLJU_c37570(1) AND CLJU_c37580(1) AND CLJU_c37670(1) AND CLJU_c37590(1) AND CLJU_c37660(1)	iJL965-ME
+CPLX-414	nicotinate-nucleotide diphosphorylase (carboxylating)	CLJU_c24410(1)	iJL965-ME
+CPLX-415	nicotinate-nucleotide diphosphorylase (carboxylating)	CLJU_c38070(1)	iJL965-ME
+CPLX-416	thiaminase	CLJU_c25410(1)	iJL965-ME
+CPLX-417	argininosuccinate lyase	CLJU_c06710(1)	iJL965-ME
+CPLX-418	CTP synthase (NH3)	CLJU_c02200(4)	iJL965-ME
+CPLX-419	phosphoglycerate dehydrogenase	CLJU_c32780(1)	iJL965-ME
+CPLX-420	phosphoglycerate dehydrogenase	CLJU_c00970(1)	iJL965-ME
+CPLX-421	phosphoglycerate dehydrogenase	CLJU_c03860(1)	iJL965-ME
+CPLX-422	phosphoglycerate dehydrogenase	CLJU_c11580(1)	iJL965-ME
+CPLX-423	phosphoglycerate dehydrogenase	CLJU_c11620(1)	iJL965-ME
+CPLX-424	phosphoglycerate dehydrogenase	CLJU_c30610(1)	iJL965-ME
+CPLX-425	transaldolase	CLJU_c25960(1)	iJL965-ME
+CPLX-426	transaldolase	CLJU_c39640(1)	iJL965-ME
+CPLX-427	phosphoribosylglycinamide formyltransferase	CLJU_c08580(1)	iJL965-ME
+CPLX-428	UDP-N-acetylmuramoyl-L-alanine synthetase	CLJU_c41810(1)	iJL965-ME
+CPLX-429	argininosuccinate synthase	CLJU_c06700(4)	iJL965-ME
+CPLX-430	UTP-glucose-1-phosphate uridylyltransferase	CLJU_c34190(1)	iJL965-ME
+CPLX-431	UTP-glucose-1-phosphate uridylyltransferase	CLJU_c04510(1)	iJL965-ME
+CPLX-432	homoserine O-succinyltransferase	CLJU_c24330(1)	iJL965-ME
+CPLX-433		CLJU_c41780(3)	iJL965-ME
+CPLX-434	citrate synthase	CLJU_c06610(1)	iJL965-ME
+CPLX-435	UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine synthetase	CLJU_c10580(1)	iJL965-ME
+CPLX-436	L-aspartate oxidase	CLJU_c24420(1)	iJL965-ME
+CPLX-437	ammonia reversible transport	CLJU_c42660(1) AND CLJU_c42670(1)	iJL965-ME
+CPLX-438	ammonia reversible transport	CLJU_c04040(1)	iJL965-ME
+CPLX-439		CLJU_c20210(1)	iJL965-ME
+CPLX-440		CLJU_c20110(1)	iJL965-ME
+CPLX-441	gluconokinase	CLJU_c11610(1)	iJL965-ME
+CPLX-442		CLJU_c37290(2)	iJL965-ME
+CPLX-443	ribonucleoside-triphosphate reductase (CTP)	CLJU_c01840(1)	iJL965-ME
+Rnf_CPLX		CLJU_c11360(1) AND CLJU_c11370(1) AND CLJU_c11380(1) AND CLJU_c11390(1) AND CLJU_c11400(1) AND CLJU_c11410(1)	iJL965-ME
+CPLX-445		CLJU_c10470(1)	iJL965-ME
+CPLX-446	glucose-1-phosphate thymidylyltransferase	CLJU_c05330(1)	iJL965-ME
+CPLX-447	glucose-1-phosphate thymidylyltransferase	CLJU_c05560(1)	iJL965-ME
+Met_RS_dim		CLJU_c01730(2)	iJL965-ME
+CPLX-449	cytosine transport in via proton symport	CLJU_c27940(1)	iJL965-ME
+CPLX-450	cytosine transport in via proton symport	CLJU_c19220(1)	iJL965-ME
+CPLX-451		CLJU_c18150(1)	iJL965-ME
+CPLX-452	uracil phosphoribosyltransferase	CLJU_c02320(1)	iJL965-ME
+CPLX-453	uracil phosphoribosyltransferase	CLJU_c10740(2)	iJL965-ME
+CPLX-454	Glycerophosphodiester phosphodiesterase (Glycerophosphocholine)	CLJU_c21800(1)	iJL965-ME
+HemN_mono		CLJU_c07950(1)	iJL965-ME
+CPLX-456	2-isopropylmalate synthase	CLJU_c09050(4)	iJL965-ME
+GalE_mono	UDPglucose 4-epimerase	CLJU_c21710(1)	iJL965-ME
+CPLX-458	tryptophan synthase (indoleglycerol phosphate)	CLJU_c16130(2)	iJL965-ME
+CPLX-459		CLJU_c28280(1)	iJL965-ME
+CPLX-460	D-alanine-D-alanine ligase (reversible)	CLJU_c32110(1)	iJL965-ME
+CPLX-461	D-galactonate transport via proton symport, reversible	CLJU_c13620(1)	iJL965-ME
+Nfn_CPLX		CLJU_c37240(1)	iJL965-ME
+CPLX-463		CLJU_c09340(1)	iJL965-ME
+CPLX-464		CLJU_c29340(1)	iJL965-ME
+CPLX-465	methylthioadenosine nucleosidase	CLJU_c10700(1)	iJL965-ME
+CPLX-466	phosphoserine transaminase	CLJU_c00960(1)	iJL965-ME
+CPLX-467	glutamine synthetase	CLJU_c41950(1)	iJL965-ME
+CPLX-468	glucarate dehydratase	CLJU_c28170(1)	iJL965-ME
+CPLX-469	glucarate dehydratase	CLJU_c28130(1)	iJL965-ME
+CPLX-470		CLJU_c15340(1)	iJL965-ME
+CPLX-471		CLJU_c15330(4)	iJL965-ME
+CPLX-472	ribose-5-phosphate isomerase	CLJU_c02310(1)	iJL965-ME
+CPLX-473	galactarate dehydratase	CLJU_c28100(1)	iJL965-ME
+CPLX-474	pantetheine-phosphate adenylyltransferase	CLJU_c12720(6)	iJL965-ME
+CPLX-475	dihydroneopterin aldolase	CLJU_c06370(1)	iJL965-ME
+CPLX-476	Biotin uptake	CLJU_c24470(1)	iJL965-ME
+CPLX-477	NAD synthase (nh3)	CLJU_c06920(1)	iJL965-ME
+CPLX-478	transketolase	CLJU_c03050(1) AND CLJU_c03060(1)	iJL965-ME
+CPLX-479	transketolase	CLJU_c25820(1) AND CLJU_c25830(1)	iJL965-ME
+CPLX-480	murein crosslinking transpeptidase 1A:(A2pm->D-ala) (periplasm)	CLJU_c07250(1)	iJL965-ME
+CPLX-481		CLJU_c27810(1)	iJL965-ME
+CPLX-482	thioredoxin reductase (NADPH)	CLJU_c40490(1)	iJL965-ME
+CPLX-483	imidazolonepropionase	CLJU_c21470(1)	iJL965-ME
+CPLX-484	ribonucleoside-diphosphate reductase (CDP)	CLJU_c06840(1)	iJL965-ME
+CPLX-485	phosphoribosylanthranilate isomerase	CLJU_c16110(1)	iJL965-ME
+CPLX-486	methionine synthase	CLJU_c06650(1)	iJL965-ME
+LeuS_mono		CLJU_c02750(1)	iJL965-ME
+CPLX-488	serine O-acetyltransferase	CLJU_c39300(1)	iJL965-ME
+CPLX-489	glutamate racemase	CLJU_c41940(1)	iJL965-ME
+CPLX-490		CLJU_c21930(1)	iJL965-ME
+CPLX-491		CLJU_c02330(1)	iJL965-ME
+CPLX-492	Arginine Deiminase	CLJU_c09270(1)	iJL965-ME
+CPLX-493		CLJU_c39120(1)	iJL965-ME
+CPLX-494	acetaldehyde dehydrogenase (acetylating)	CLJU_c11960(1)	iJL965-ME
+CPLX-495		CLJU_c26570(1)	iJL965-ME
+CPLX-496	L-ribulose-phosphate 4-epimerase	CLJU_c01210(1)	iJL965-ME
+CPLX-497	glutamate 5-kinase	CLJU_c05990(1)	iJL965-ME
+CPLX-498		CLJU_c29110(1)	iJL965-ME
+CPLX-499	L-arabinose transport via ABC system	CLJU_c01980(1)	iJL965-ME
+CPLX-500	xylulokinase	CLJU_c11570(1)	iJL965-ME
+CPLX-501	xylulokinase	CLJU_c18250(1)	iJL965-ME
+CPLX-502	phospho-N-acetylmuramoyl-pentapeptide-transferase (meso-2,6-diaminopimelate)	CLJU_c10590(1)	iJL965-ME
+CPLX-503		CLJU_c29140(4)	iJL965-ME
+CPLX-504	Adenosylcobalamin 5'-phosphate synthase	CLJU_c35530(1)	iJL965-ME
+CPLX-505	N-acetyl-g-glutamyl-phosphate reductase	CLJU_c21540(1)	iJL965-ME
+CPLX-506		CLJU_c32120(1)	iJL965-ME
+CPLX-507		CLJU_c40390(1)	iJL965-ME
+CPLX-508		CLJU_c12010(1)	iJL965-ME
+CPLX-509	malic enzyme (NAD)	CLJU_c30500(1)	iJL965-ME
+CPLX-510	malic enzyme (NAD)	CLJU_c25360(1)	iJL965-ME
+CPLX-511	2-Oxobutanoate formate lyase	CLJU_c11830(1) AND CLJU_c11840(1)	iJL965-ME
+CPLX-512	2-Oxobutanoate formate lyase	CLJU_c25970(1) AND CLJU_c25980(1)	iJL965-ME
+CPLX-513	2-Oxobutanoate formate lyase	CLJU_c39820(1) AND CLJU_c39830(1)	iJL965-ME
+CPLX-514	malic enzyme (NADP)	CLJU_c04160(1)	iJL965-ME
+CPLX-515	malic enzyme (NADP)	CLJU_c38460(1)	iJL965-ME
+CPLX-516	glutamate dehydrogenase (NADP)	CLJU_c02660(1)	iJL965-ME
+CPLX-517	L-rhamnose transport via proton symport	CLJU_c42580(1)	iJL965-ME
+CPLX-518		CLJU_c23940(1)	iJL965-ME
+CPLX-519		CLJU_c26120(1)	iJL965-ME
+CPLX-520		CLJU_c29900(1)	iJL965-ME
+CPLX-521	xanthine phosphoribosyltransferase	CLJU_c15120(2)	iJL965-ME
+CPLX-522	methenyltetrahydrofolate cyclohydrolase	CLJU_c37640(1)	iJL965-ME
+CPLX-523		CLJU_c16120(2)	iJL965-ME
+CPLX-524		CLJU_c29050(1)	iJL965-ME
+CPLX-525	ATP synthase (four protons for one ATP)	CLJU_c02360(1) AND CLJU_c02370(1) AND CLJU_c02380(1) AND CLJU_c02390(2) AND CLJU_c02400(1) AND CLJU_c02410(3) AND CLJU_c02420(1) AND CLJU_c02430(3) AND CLJU_c02440(1)	iJL965-ME
+CPLX-526	PBP substrate translocator	CLJU_c10620(1)	iJL965-ME
+CPLX-527	threonine-phosphate decarboxylase	CLJU_c32000(1)	iJL965-ME
+CPLX-528		CLJU_c35060(1)	iJL965-ME
+CPLX-529		CLJU_c33050(1)	iJL965-ME
+CPLX-530	cystathionine b-lyase	CLJU_c27610(1)	iJL965-ME
+CPLX-531		CLJU_c21480(1)	iJL965-ME
+CPLX-532	nicotinamidase	CLJU_c23150(1)	iJL965-ME
+CPLX-533	tartronate semialdehyde reductase	CLJU_c00680(1)	iJL965-ME
+CPLX-534	aspartate-semialdehyde dehydrogenase	CLJU_c34570(2)	iJL965-ME
+CPLX-535	xanthine transport in via proton symport	CLJU_c23850(1)	iJL965-ME
+CPLX-536	xanthine transport in via proton symport	CLJU_c15130(1)	iJL965-ME
+CPLX-537	nicotinate-nucleotide adenylyltransferase	CLJU_c07400(1)	iJL965-ME
+CPLX-538	alpha-ribazole 5-phosphate phosphatase	CLJU_c35540(1)	iJL965-ME
+CPLX-539		CLJU_c23220(1)	iJL965-ME
+CPLX-540		CLJU_c21310(2)	iJL965-ME
+CPLX-541	phosphoribosylaminoimidazolesuccinocarboxamide synthase	CLJU_c08550(1)	iJL965-ME
+CPLX-542	glutamate synthase (NADPH)	CLJU_c17370(1) AND CLJU_c17380(1)	iJL965-ME
+CPLX-543	L-arganine reversible transport via proton symport	CLJU_c04750(1) AND CLJU_c04760(1)	iJL965-ME
+CPLX-544	L-arganine reversible transport via proton symport	CLJU_c21450(1)	iJL965-ME
+CPLX-545	L-arganine reversible transport via proton symport	CLJU_c28050(1)	iJL965-ME
+CPLX-546	UDPglucose 6-dehydrogenase	CLJU_c34100(1)	iJL965-ME
+Asr1_CPLX		CLJU_c23750(1) AND CLJU_c23760(1) AND CLJU_c23770(1)	iJL965-ME
+CPLX-548	glycine cleavage complex	CLJU_c24180(1)	iJL965-ME
+CPLX-549	superoxide dismutase	CLJU_c29780(1)	iJL965-ME
+CPLX-550	4-aminobenzoate synthase	CLJU_c36000(1)	iJL965-ME
+CPLX-551	magnesium transport in/out via permease (no H+)	CLJU_c09130(1)	iJL965-ME
+CPLX-552	magnesium transport in/out via permease (no H+)	CLJU_c02970(1)	iJL965-ME
+CPLX-553	magnesium transport in/out via permease (no H+)	CLJU_c15990(1)	iJL965-ME
+CPLX-554	magnesium transport in/out via permease (no H+)	CLJU_c21890(1)	iJL965-ME
+CPLX-555	dephospho-CoA kinase	CLJU_c33600(1)	iJL965-ME
+CPLX-556	homoserine dehydrogenase (NADPH)	CLJU_c10090(1)	iJL965-ME
+CPLX-557	homoserine dehydrogenase (NADPH)	CLJU_c07150(1)	iJL965-ME
+CPLX-558	methionine adenosyltransferase	CLJU_c23550(1)	iJL965-ME
+CPLX-559		CLJU_c02580(4)	iJL965-ME
+CPLX-560	4-amino-4-deoxychorismate synthase	CLJU_c36010(1) AND CLJU_c36020(1)	iJL965-ME
+IleS_mono		CLJU_c01890(1)	iJL965-ME
+CPLX-562		CLJU_c06210(1)	iJL965-ME
+CPLX-563	glutamine-fructose-6-phosphate transaminase	CLJU_c40420(2)	iJL965-ME
+CPLX-564	4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase	CLJU_c02110(1)	iJL965-ME
+CysS_mono		CLJU_c20850(1)	iJL965-ME
+CysSII_mono		CLJU_c41270(1)	iJL965-ME
+Trp_RS_dim		CLJU_c38290(2)	iJL965-ME
+Lys_RS_dim		CLJU_c41480(2)	iJL965-ME
+AlaS_mono		CLJU_c12150(1)	iJL965-ME
+Gly_RS_dim		CLJU_c41460(2)	iJL965-ME
+Tyr_RS_dim		CLJU_c34300(2)	iJL965-ME
+TyrII_RS_dim		CLJU_c38210(2)	iJL965-ME
+Thr_RS_dim		CLJU_c34470(2)	iJL965-ME
+Asp_RS_dim		CLJU_c33660(2)	iJL965-ME
+Pro_RS_dim		CLJU_c38360(2)	iJL965-ME
+Asn_RS_dim		CLJU_c42030(2)	iJL965-ME
+AsnII_RS_dim		CLJU_c06740(2)	iJL965-ME
+Phe_RS_tetra		CLJU_c34410(2) AND CLJU_c34420(2)	iJL965-ME
+ArgS_mono		CLJU_c21700(1)	iJL965-ME
+GlnS_mono		CLJU_c26740(1)	iJL965-ME
+His_RS_dim		CLJU_c33670(2)	iJL965-ME
+MiaA_mono		CLJU_c21220(1)	iJL965-ME
+MiaB_mono		CLJU_c21250(1)	iJL965-ME
+TadA_dim		CLJU_c00760(2)	iJL965-ME
+CLJU_c01470_mono		CLJU_c01470(1)	iJL965-ME
+CLJU_c11280_mono		CLJU_c11280(1)	iJL965-ME
+CLJU_c01520_mono		CLJU_c01520(1)	iJL965-ME
+MtaB_mono		CLJU_c08020(1)	iJL965-ME
+TsaC_mono		CLJU_c02290(1)	iJL965-ME
+TsaCII_mono		CLJU_c26950(1)	iJL965-ME
+TsaEBD_CPLX		CLJU_c37400(1) AND CLJU_c38180(1) AND CLJU_c38190(1)	iJL965-ME
+TrmD_dim		CLJU_c12920(2)	iJL965-ME
+TruB_mono		CLJU_c13180(1)	iJL965-ME
+MnmA_mono		CLJU_c23380(1)	iJL965-ME
+TrmB_dim		CLJU_c29660(2)	iJL965-ME
+Tgt_hex		CLJU_c33800(6)	iJL965-ME
+QueG_mono		CLJU_c32750(1)	iJL965-ME
+QueGII_mono		CLJU_c26330(1)	iJL965-ME
+QueA_mono		CLJU_c33810(1)	iJL965-ME
+TrmDII_dim		CLJU_c35670(2)	iJL965-ME
+TrmL_dim		CLJU_c39190(2)	iJL965-ME
+TruA_dim		CLJU_c40720(2)	iJL965-ME
+DnaJ_dim		CLJU_c07990(2)	iJL965-ME
+DnaJII_dim		CLJU_c02780(2)	iJL965-ME
+PrsA_mono		CLJU_c01180(1)	iJL965-ME
+PrsAII_mono		CLJU_c41710(1)	iJL965-ME
+RsuA_mono		CLJU_c37000(1)	iJL965-ME
+GidB_mono		CLJU_c42900(1)	iJL965-ME
+RsmD_mono		CLJU_c12710(1)	iJL965-ME
+RsmB_mono		CLJU_c12590(1)	iJL965-ME
+DusI_mono		CLJU_c38790(1)	iJL965-ME
+DusII_mono		CLJU_c41510(1)	iJL965-ME
+RsmH_mono		CLJU_c10540(1)	iJL965-ME
+RsmI_mono		CLJU_c01480(1)	iJL965-ME
+RsmE_mono		CLJU_c08010(1)	iJL965-ME
+RsmA_mono		CLJU_c01770(1)	iJL965-ME
+RluC_mono		CLJU_c17350(1)	iJL965-ME
+RluD_mono		CLJU_c10720(1)	iJL965-ME
+RlmH_dim		CLJU_c17400(2)	iJL965-ME
+RlmB_mono		CLJU_c41250(1)	iJL965-ME
+RlmN_mono		CLJU_c12600(1)	iJL965-ME
+RluB_mono		CLJU_c21360(1)	iJL965-ME
+RimJ_mono		CLJU_c00990(1)	iJL965-ME
+RnmV_mono		CLJU_c01760(1)	iJL965-ME
+PrmC_mono		CLJU_c02250(1)	iJL965-ME
+PrfA_mono		CLJU_c02260(1)	iJL965-ME
+PrfB_mono		CLJU_c02640(1)	iJL965-ME
+PrfC_mono		CLJU_c38280(1)	iJL965-ME
+Era_mono		CLJU_c08100(1)	iJL965-ME
+Def_mono		CLJU_c12560(1)	iJL965-ME
+DefII_mono		CLJU_c13640(1)	iJL965-ME
+DefIII_mono		CLJU_c16270(1)	iJL965-ME
+DefIV_mono		CLJU_c17840(1)	iJL965-ME
+DefV_mono		CLJU_c21960(1)	iJL965-ME
+SecA_mono		CLJU_c02630(1)	iJL965-ME
+Sec_cplx		CLJU_c33740(1) AND CLJU_c33750(1) AND CLJU_c39100(1) AND CLJU_c40840(1) AND CLJU_c41180(1)	iJL965-ME
+FtsY_mono		CLJU_c12860(1)	iJL965-ME
+SRP_cplx		CLJU_c12880(1) AND CLJU_c41670(1)	iJL965-ME
+RimM_mono		CLJU_c12910(1)	iJL965-ME
+RbgA_mono		CLJU_c12950(1)	iJL965-ME
+Tsf_mono		CLJU_c13030(1)	iJL965-ME
+Frr_mono		CLJU_c13050(1)	
+InfB_mono		CLJU_c13150(1)	iJL965-ME
+RbfA_mono		CLJU_c13160(1)	iJL965-ME
+InfC_mono		CLJU_c20760(1)	iJL965-ME
+InfCII_mono		CLJU_c34460(1)	iJL965-ME
+Map_mono		CLJU_c35780(1)	iJL965-ME
+RimI_mono		CLJU_c38200(1)	iJL965-ME
+InfA_mono		CLJU_c40820(1)	iJL965-ME
+Tuf_mono		CLJU_c41060(1)	iJL965-ME
+TufII_mono		CLJU_c41200(1)	iJL965-ME
+FusA_mono		CLJU_c41070(1)	iJL965-ME
+MnmEG_cplx		CLJU_c42910(2) AND CLJU_c42920(2)	iJL965-ME
+Pps_dim	PPS	CLJU_c14340(2)	iJL965-ME
+PpsII_dim	PPS	CLJU_c38600(2)	iJL965-ME
+GreA_mono		CLJU_c26390(1)	iJL965-ME
+GreAII_mono		CLJU_c35450(1)	iJL965-ME
+GreAIII_mono		CLJU_c41490(1)	iJL965-ME
+Tig_mono		CLJU_c35650(1)	iJL965-ME
+Frr_mono		CLJU_c13050(1)	
+RNase_Z		CLJU_c26640(2)	iJL965-ME
+RNase_P		CLJU_c42960(1)	iJL965-ME
+RpoD_mono		CLJU_c08220(1)	iJL965-ME
+Hpr_dim	GLYCLTDx	CLJU_c11620(2)	iJL965-ME
+CLJU_c21640_mono	PGLYCP	CLJU_c21640(1)	iJL965-ME
+LplA_mono	LIPATPT	CLJU_c09210(1)	iJL965-ME
+LplAII_mono	LIPATPT	CLJU_c33220(1)	iJL965-ME
+MoaA_mono_MoaC_mono		CLJU_c33380(1) AND CLJU_c25050(1)	iJL965-ME
+MobA_mono		CLJU_c21410(1)	iJL965-ME
+MoeA_dim		CLJU_c07000(2)	iJL965-ME
+MoeAII_dim		CLJU_c17110(2)	iJL965-ME
+MoeAIII_dim		CLJU_c20170(2)	iJL965-ME
+MoeAIV_dim		CLJU_c20180(2)	iJL965-ME
+CLJU_c17950_mono	MPTAT	CLJU_c17950(1)	iJL965-ME
+NfrA_dim		CLJU_c26350(2)	iJL965-ME
+ACP_c	3-oxoacyl-[acyl-carrier-protein] synthase (n-C16:1)	CLJU_c12820(1)	iJL965-ME
+TrxA_mono		CLJU_c40500(1)	iJL965-ME
+TrxAII_mono		CLJU_c27800(1)	iJL965-ME
+TrxAIII_mono		CLJU_c27320(1)	iJL965-ME
+NifU_dim		CLJU_c12120(2)	iJL965-ME
+IscS_dim		CLJU_c12110(2)	iJL965-ME
+SufBC_CPLX		CLJU_c26900(1) AND CLJU_c26910(1)	iJL965-ME
+SufBCII_CPLX		CLJU_c37930(1) AND CLJU_c37940(1)	iJL965-ME
+IscSII_dim		CLJU_c23390(1)	iJL965-ME
+ErpA_dim		CLJU_c28340(2)	iJL965-ME
+ECF_CPLX_QueT	CCGt	CLJU_c40730(1) AND CLJU_c40740(1) AND CLJU_c40750(1) AND CLJU_c18230(1)	iJL965-ME
+Transcription_normal_rho_independent_I		CLJU_c41720(1) AND CLJU_c13120(1) AND CLJU_c41170(1) AND CLJU_c26390(1) AND CLJU_c12530(1)	iJL965-ME
+Transcription_normal_rho_independent_II		CLJU_c41720(1) AND CLJU_c13120(1) AND CLJU_c41170(1) AND CLJU_c35450(1) AND CLJU_c12530(1)	iJL965-ME
+Transcription_normal_rho_independent_III		CLJU_c41720(1) AND CLJU_c13120(1) AND CLJU_c41170(1) AND CLJU_c41490(1) AND CLJU_c12530(1)	iJL965-ME
+Transcription_normal_rho_dependent_I		CLJU_c41720(1) AND CLJU_c13120(1) AND CLJU_c41170(1) AND CLJU_c26390(1) AND CLJU_c12530(1) AND CLJU_c02220(6)	iJL965-ME
+Transcription_normal_rho_dependent_II		CLJU_c41720(1) AND CLJU_c13120(1) AND CLJU_c41170(1) AND CLJU_c35450(1) AND CLJU_c12530(1) AND CLJU_c02220(6)	iJL965-ME
+Transcription_normal_rho_dependent_III		CLJU_c41720(1) AND CLJU_c13120(1) AND CLJU_c41170(1) AND CLJU_c41490(1) AND CLJU_c12530(1) AND CLJU_c02220(6)	iJL965-ME
+Transcription_stable_rho_independent_I		CLJU_c41720(1) AND CLJU_c13120(1) AND CLJU_c41170(1) AND CLJU_c26390(1) AND CLJU_c12530(1) AND CLJU_c41050(1) AND CLJU_c40780(1) AND CLJU_c41040(1) AND CLJU_c41030(1) AND CLJU_c40710(1) AND CLJU_c11120(1)	iJL965-ME
+Transcription_stable_rho_independent_II		CLJU_c41720(1) AND CLJU_c13120(1) AND CLJU_c41170(1) AND CLJU_c35450(1) AND CLJU_c12530(1) AND CLJU_c41050(1) AND CLJU_c40780(1) AND CLJU_c41040(1) AND CLJU_c41030(1) AND CLJU_c40710(1) AND CLJU_c11120(1)	iJL965-ME
+Transcription_stable_rho_independent_III		CLJU_c41720(1) AND CLJU_c13120(1) AND CLJU_c41170(1) AND CLJU_c41490(1) AND CLJU_c12530(1) AND CLJU_c41050(1) AND CLJU_c40780(1) AND CLJU_c41040(1) AND CLJU_c41030(1) AND CLJU_c40710(1) AND CLJU_c11120(1)	iJL965-ME
+Transcription_stable_rho_dependent_I		CLJU_c41720(1) AND CLJU_c13120(1) AND CLJU_c41170(1) AND CLJU_c26390(1) AND CLJU_c12530(1) AND CLJU_c41050(1) AND CLJU_c40780(1) AND CLJU_c41040(1) AND CLJU_c41030(1) AND CLJU_c40710(1) AND CLJU_c11120(1) AND CLJU_c02220(6)	iJL965-ME
+Transcription_stable_rho_dependent_II		CLJU_c41720(1) AND CLJU_c13120(1) AND CLJU_c41170(1) AND CLJU_c35450(1) AND CLJU_c12530(1) AND CLJU_c41050(1) AND CLJU_c40780(1) AND CLJU_c41040(1) AND CLJU_c41030(1) AND CLJU_c40710(1) AND CLJU_c11120(1) AND CLJU_c02220(6)	iJL965-ME
+Transcription_stable_rho_dependent_III		CLJU_c41720(1) AND CLJU_c13120(1) AND CLJU_c41170(1) AND CLJU_c41490(1) AND CLJU_c12530(1) AND CLJU_c41050(1) AND CLJU_c40780(1) AND CLJU_c41040(1) AND CLJU_c41030(1) AND CLJU_c40710(1) AND CLJU_c11120(1) AND CLJU_c02220(6)	iJL965-ME
+YgeX_dim		CLJU_c23860(2)	iJL965-ME
+CysK_mono		CLJU_c08270(1)	iJL965-ME
+CLJU_c18870_mono	THRt2	CLJU_c18870(1)	iJL965-ME
+ThiN_mono	TMDPK	CLJU_c12650(1)	iJL965-ME
+Ca2_ATP	calcium transport via ABC system	CLJU_c06890(1)	iJL965-ME
+Ca2_ATPII	calcium transport via ABC system	CLJU_c07870(1)	iJL965-ME
+Ca2_ATPIII	calcium transport via ABC system	CLJU_c10480(1)	iJL965-ME
+NiAB_CPLX	nickel transport via ABC system	CLJU_c22600(2) AND CLJU_c22540(1)	iJL965-ME
+NiMNQ_CbiO_CPLX	nickel transport via ABC system	CLJU_c32040(1) AND CLJU_c33200(1) AND CLJU_c32030(1)	iJL965-ME
+CbiMOQ_CPLX	Cobalt transport via ABC system	CLJU_c32030(1) AND CLJU_c22230(1) AND CLJU_c28600(1)	iJL965-ME
+PanF_mono	PNTOt	CLJU_c32870(1)	iJL965-ME
+PDX5PO_CPLX		CLJU_c37110(1)	iJL965-ME
+CopA_mono	Copper transport via ABC system	CLJU_c24900(1)	iJL965-ME
+ZupT_mono	ZN2t	CLJU_c02280(1)	iJL965-ME
+GLCt_mono	D-glucose transport in via proton symport	CLJU_c23180(1)	iJL965-ME
+Gln_CPLX	L-glutamine transport via ABC system	CLJU_c06680(1) AND CLJU_c06690(1)	iJL965-ME
+MetNIQ_CPLX	METabc	CLJU_c06280(1) AND CLJU_c06290(1) AND CLJU_c06300(1)	iJL965-ME
+PduX_mono	LTHRK	CLJU_c31830(1)	iJL965-ME
+Fdx		CLJU_c00930(1)	iJL965-ME
+FdxII		CLJU_c01440(1)	iJL965-ME
+FdxIII		CLJU_c01820(1)	iJL965-ME
+FdxIV		CLJU_c17980(1)	iJL965-ME
+Mop_mono		CLJU_c24050(1)	iJL965-ME
+MopII_mono		CLJU_c24130(1)	iJL965-ME
+CLJU_c24250_mono	L-tryptophan reversible transport via proton symport	CLJU_c24250(1)	iJL965-ME
+AcsCD_CPLX		CLJU_c37370(1) AND CLJU_c37580(1)	iJL965-ME
+CPLX-271	Methyltetrahydrofolate:corrinoid/iron-sulfur protein methyltransferase (MeTr)	CLJU_c37560(1)	iJL965-ME

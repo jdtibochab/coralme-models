@@ -1,0 +1,3 @@
+subreaction	enzymes
+FusA_mono_elongation	ABAYE_RS14670-MONOMER
+Tuf_gtp_regeneration	ABAYE_RS06215-MONOMER

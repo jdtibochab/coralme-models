@@ -1,0 +1,10 @@
+pathway	enzyme
+sec	TM1578-MONOMER
+tat	CPLX_dummy
+tat_alt	CPLX_dummy
+bam	CPLX_dummy
+lol	CPLX_dummy
+yidC	TM1461-MONOMER
+secA	TM1578-MONOMER
+srp_yidC	TM1461-MONOMER
+srp	TM0570-MONOMER

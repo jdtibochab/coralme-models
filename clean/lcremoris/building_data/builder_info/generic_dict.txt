@@ -1,0 +1,11 @@
+,value
+generic_16Sm4Cm1402,"{'enzymes': ['LLMG_RS08455-MONOMER', 'LLMG_RS02145-MONOMER']}"
+generic_16s_rRNAs,"{'enzymes': ['RNA_LLMG_RS02645', 'RNA_LLMG_RS10890', 'RNA_LLMG_RS12185', 'RNA_LLMG_RS12390', 'RNA_LLMG_RS12830', 'RNA_LLMG_RS12960']}"
+generic_23s_rRNAs,"{'enzymes': ['RNA_LLMG_RS02655', 'RNA_LLMG_RS10880', 'RNA_LLMG_RS12175', 'RNA_LLMG_RS12380', 'RNA_LLMG_RS12820', 'RNA_LLMG_RS12950']}"
+generic_5s_rRNAs,"{'enzymes': ['RNA_LLMG_RS00130', 'RNA_LLMG_RS02660', 'RNA_LLMG_RS10875', 'RNA_LLMG_RS12170', 'RNA_LLMG_RS12375', 'RNA_LLMG_RS12815', 'RNA_LLMG_RS12945']}"
+generic_Dus,{'enzymes': ['LLMG_RS11090-MONOMER']}
+generic_LYSINEaaRS,{'enzymes': ['LLMG_RS01995-MONOMER']}
+generic_RF,"{'enzymes': ['LLMG_RS02900-MONOMER', 'LLMG_RS07780-MONOMER']}"
+generic_RNase,{'enzymes': ['LLMG_RS03145-MONOMER_mod_zn2(2)']}
+generic_Tuf,{'enzymes': ['LLMG_RS10245-MONOMER']}
+generic_fes_transfers_complex,{'enzymes': ['CPLX_dummy']}

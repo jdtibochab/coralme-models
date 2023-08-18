@@ -1,0 +1,12 @@
+,value
+generic_16Sm4Cm1402,"{'enzymes': ['TM0872-MONOMER', 'TM0709-MONOMER']}"
+generic_16s_rRNAs,"{'enzymes': ['RNA_TM_r01', 'RNA_TM_r01']}"
+generic_23s_rRNAs,"{'enzymes': ['RNA_TM_r02', 'RNA_TM_r02']}"
+generic_5s_rRNAs,"{'enzymes': ['RNA_TM_r03', 'RNA_TM_r03']}"
+generic_Dus,{'enzymes': ['TM0096-MONOMER']}
+generic_LYSINEaaRS,{'enzymes': ['TM1705-MONOMER_mod_mg2(6)']}
+generic_RF,"{'enzymes': ['TM1363-MONOMER', 'TM1579-MONOMER']}"
+generic_RNase,{'enzymes': ['TM0864-MONOMER_mod_zn2(2)']}
+generic_Tuf,{'enzymes': ['TM1502-MONOMER']}
+generic_fes_transfers_complex,{'enzymes': ['SufBCD']}
+generic_glu_ligase,"{'enzymes': ['TM1875-MONOMER', 'TM1351-MONOMER']}"

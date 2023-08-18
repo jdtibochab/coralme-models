@@ -1,0 +1,53 @@
+(All-tRNAs RNAs Misc-RNAs rRNAs),Common-Name,Gene
+TM_t01-tRNA,tRNA-Pro,TM_t01
+TM_r01-rRNA,16S ribosomal RNA,TM_r01
+TM_t02-tRNA,tRNA-Ile,TM_t02
+TM_t03-tRNA,tRNA-Ala,TM_t03
+TM_r02-rRNA,23S ribosomal RNA,TM_r02
+TM_r03-rRNA,5S ribosomal RNA,TM_r03
+TM_t04-tRNA,tRNA-Ala,TM_t04
+TM_t05-tRNA,tRNA-Arg,TM_t05
+TM_t06-tRNA,tRNA-His,TM_t06
+TM_t07-tRNA,tRNA-Arg,TM_t07
+TM_t08-tRNA,tRNA-Gly,TM_t08
+TM_t09-tRNA,tRNA-Ser,TM_t09
+TM_t10-tRNA,tRNA-Arg,TM_t10
+TM_t11-tRNA,tRNA-Thr,TM_t11
+TM_t12-tRNA,tRNA-Gln,TM_t12
+TM_t13-tRNA,tRNA-Met,TM_t13
+TM_t14-tRNA,tRNA-Met,TM_t14
+TM_t15-tRNA,tRNA-Thr,TM_t15
+TM_t16-tRNA,tRNA-Tyr,TM_t16
+TM_t17-tRNA,tRNA-Trp,TM_t17
+TM_t18-tRNA,tRNA-Ser,TM_t18
+TM_t19-tRNA,tRNA-Gly,TM_t19
+TM_t20-tRNA,tRNA-Leu,TM_t20
+TM_t21-tRNA,tRNA-Lys,TM_t21
+TM_RS02595-tmRNA,transfer-messenger RNA,TM_RS02595
+TM_t22-tRNA,tRNA-Thr,TM_t22
+TM_RS03730-ncRNA,RNase P RNA component class A,TM_RS03730
+TM_t23-tRNA,tRNA-Gln,TM_t23
+TM_t24-tRNA,tRNA-Leu,TM_t24
+TM_t25-tRNA,tRNA-Ser,TM_t25
+TM_t26-tRNA,tRNA-Leu,TM_t26
+TM_RS05645-ncRNA,signal recognition particle sRNA large type,TM_RS05645
+TM_t27-tRNA,tRNA-Asn,TM_t27
+TM_t28-tRNA,tRNA-Pro,TM_t28
+TM_t29-tRNA,tRNA-Met,TM_t29
+TM_t30-tRNA,tRNA-Gly,TM_t30
+TM_t31-tRNA,tRNA-Leu,TM_t31
+TM_t32-tRNA,tRNA-Cys,TM_t32
+TM_t33-tRNA,tRNA-Val,TM_t33
+TM_t34-tRNA,tRNA-Leu,TM_t34
+TM_t35-tRNA,tRNA-Val,TM_t35
+TM_t36-tRNA,tRNA-Arg,TM_t36
+TM_t37-tRNA,tRNA-Val,TM_t37
+TM_t38-tRNA,tRNA-Phe,TM_t38
+TM_t39-tRNA,tRNA-Ala,TM_t39
+TM_t40-tRNA,tRNA-Arg,TM_t40
+TM_t41-tRNA,tRNA-Lys,TM_t41
+TM_t42-tRNA,tRNA-Glu,TM_t42
+TM_t43-tRNA,tRNA-Pro,TM_t43
+TM_t44-tRNA,tRNA-Asp,TM_t44
+TM_t45-tRNA,tRNA-Ser,TM_t45
+TM_t46-tRNA,tRNA-Glu,TM_t46

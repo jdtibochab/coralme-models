@@ -1,0 +1,4 @@
+type	enzymes
+monocistronic	generic_RNase
+polycistronic_wout_rRNA	generic_RNase,SYNPCC7942_1645-MONOMER,SYNPCC7942_0878-MONOMER
+rRNA_containing	generic_RNase,SYNPCC7942_1645-MONOMER_mod_mg2(2),SYNPCC7942_0878-MONOMER

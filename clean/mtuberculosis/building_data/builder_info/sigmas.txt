@@ -1,0 +1,14 @@
+sigma,complex,genes,name
+G185E-5391-MONOMER,RNAP_G185E5391MONOMER,Rv1221(),alternative RNA polymerase sigma factor
+G185E-5358-MONOMER,RNAP_G185E5358MONOMER,Rv1189(),possible alternative RNA polymerase sigma factor
+G185E-4300-MONOMER,RNAP_G185E4300MONOMER,Rv0182c(),probable alternative RNA polymerase sigma factor
+G185E-7604-MONOMER,RNAP_G185E7604MONOMER,Rv3328c(),probable alternative RNA polymerase sigma factor (fragment)
+G185E-4570-MONOMER,RNAP_G185E4570MONOMER,Rv0445c(),alternative RNA polymerase sigma factor
+G185E-4880-MONOMER,RNAP_G185E4880MONOMER,Rv0735(),probable alternative RNA polymerase sigma factor
+G185E-7691-MONOMER,RNAP_G185E7691MONOMER,Rv3414c(),probable alternative RNA polymerase sigma-D factor
+G185E-6274-MONOMER,RNAP_G185E6274MONOMER,Rv2069(),"RNA polymerase sigma factor, ECF subfamily,"
+G185E-7495-MONOMER,RNAP_G185E7495MONOMER,Rv3223c(),alternative RNA polymerase sigma-E factor (sigma-24)
+G185E-8209-MONOMER,RNAP_G185E8209MONOMER,Rv3911(),possible alternative RNA polymerase sigma factor SigM
+G185E-6951-MONOMER,RNAP_G185E6951MONOMER,Rv2703(),RNA polymerase sigma factor
+G185E-7560-MONOMER,RNAP_G185E7560MONOMER,Rv3286c(),alternative RNA polymerase sigma factor
+G185E-6958-MONOMER,RNAP_G185E6958MONOMER,Rv2710(),RNA polymerase sigma factor

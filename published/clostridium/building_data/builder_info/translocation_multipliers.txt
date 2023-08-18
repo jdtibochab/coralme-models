@@ -1,0 +1,2 @@
+,value
+YidC_mono,{'CLJU_c02440': 2.0}

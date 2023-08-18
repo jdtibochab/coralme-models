@@ -1,0 +1,3 @@
+,value
+RNAP_B488RS05700MONOMER,"{'sigma_factor': 'B488_RS05700-MONOMER', 'polymerase': 'CPLX27KH-14_mod_zn2(1)_mod_mg2(2)'}"
+RNAP_B488RS06505MONOMER,"{'sigma_factor': 'B488_RS06505-MONOMER', 'polymerase': 'CPLX27KH-14_mod_zn2(1)_mod_mg2(2)'}"

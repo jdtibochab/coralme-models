@@ -1,0 +1,10 @@
+,value
+bam,{'enzymes': ['CPLX_dummy']}
+lol,{'enzymes': ['CPLX_dummy']}
+sec,{'enzymes': ['LLMG_RS00660-MONOMER']}
+secA,{'enzymes': ['LLMG_RS00660-MONOMER']}
+srp,{'enzymes': ['LLMG_RS08765-MONOMER']}
+srp_yidC,{'enzymes': ['LLMG_RS00775-MONOMER']}
+tat,{'enzymes': ['CPLX_dummy']}
+tat_alt,{'enzymes': ['CPLX_dummy']}
+yidC,{'enzymes': ['LLMG_RS00775-MONOMER']}

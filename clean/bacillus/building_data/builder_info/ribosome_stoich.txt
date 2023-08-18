@@ -1,0 +1,4 @@
+,value
+30_S_assembly,{'stoich': {'generic_16s_rRNAs': 1}}
+50_S_assembly,"{'stoich': {'generic_23s_rRNAs': 1, 'generic_5s_rRNAs': 1, 'BSU28230-MONOMER': 1, 'BSU00590-MONOMER': 1}}"
+assemble_ribosome_subunits,{'stoich': {'gtp_c': 1}}

@@ -1,0 +1,3 @@
+lipid_mod	enzymes
+other_lipids	TM0573-MONOMER
+pg_pe_160	TM0158-MONOMER

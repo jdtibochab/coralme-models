@@ -1,0 +1,3 @@
+lipid_mod	enzymes
+other_lipids	B488_RS00795-MONOMER
+pg_pe_160	B488_RS06050-MONOMER,B488_13060-MONOMER

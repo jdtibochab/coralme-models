@@ -1,0 +1,10 @@
+,value
+bam,{'enzymes': ['G1G01-440-MONOMER']}
+lol,"{'enzymes': ['G1G01-4270-MONOMER', 'G1G01-799-MONOMER']}"
+sec,"{'enzymes': ['G1G01-5397-MONOMER', 'G1G01-1433-MONOMER']}"
+secA,{'enzymes': ['G1G01-1433-MONOMER']}
+srp,{'enzymes': ['G1G01-5455-MONOMER']}
+srp_yidC,{'enzymes': ['G1G01-6-MONOMER']}
+tat,{'enzymes': ['G1G01-1114-MONOMER']}
+tat_alt,{'enzymes': ['CPLX_dummy']}
+yidC,{'enzymes': ['G1G01-6-MONOMER']}

@@ -1,0 +1,16 @@
+{
+  "m-model-path": "./ecoli/inputs/m_model.json",
+  "genbank-path": "./ecoli/inputs/genome.gb",
+  "biocyc.genes": "./ecoli/inputs/genes.txt",
+  "biocyc.prots": "./ecoli/inputs/proteins.txt",
+  "biocyc.TUs": "./ecoli/inputs/TUs.txt",
+  "biocyc.RNAs": "./ecoli/inputs/RNAs.txt",
+  "biocyc.seqs": "./ecoli/inputs/sequences.fasta",
+  "df_gene_cplxs_mods_rxns": "./ecoli/building_data/automated-org-with-refs.xlsx",
+  "df_TranscriptionalUnits": "",
+  "out_directory": "./ecoli/",
+  "log_directory": "./ecoli/",
+  "run_bbh_blast": true,
+  "dev_reference": true,
+  "include_pseudo_genes": true
+}

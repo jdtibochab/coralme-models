@@ -1,0 +1,5 @@
+,value
+RNA_degradosome,"{'enzymes': ['G185E-5182-MONOMER_mod_mg2(4)', 'G185E-7032-MONOMER', 'G185E-6747-MONOMER_mod_mg2(2)']}"
+monocistronic,{'enzymes': ['generic_RNase']}
+polycistronic_wout_rRNA,"{'enzymes': ['generic_RNase', 'G185E-7178-MONOMER', 'G185E-6676-MONOMER']}"
+rRNA_containing,"{'enzymes': ['generic_RNase', 'G185E-7178-MONOMER_mod_mg2(2)', 'G185E-6676-MONOMER']}"

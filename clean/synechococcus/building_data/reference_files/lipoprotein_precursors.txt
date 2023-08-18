@@ -1,0 +1,2 @@
+name,gene
+MltA,SYNPCC7942_RS02000

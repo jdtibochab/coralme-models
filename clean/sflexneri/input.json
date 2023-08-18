@@ -1,0 +1,11 @@
+{
+  "m-model-path": "./sflexneri/inputs/m_model.json",
+  "genbank-path": "./sflexneri/inputs/genome.gb",
+  "df_gene_cplxs_mods_rxns": "./sflexneri/building_data/automated-org-with-refs.xlsx",
+  "df_TranscriptionalUnits": "",
+  "out_directory": "./sflexneri/",
+  "log_directory": "./sflexneri/",
+  "run_bbh_blast": true,
+  "dev_reference": true,
+  "include_pseudo_genes": true
+}

@@ -1,0 +1,5 @@
+,value
+RNAP_USA300HOURS02810MONOMER,"{'sigma_factor': 'USA300HOU_RS02810-MONOMER', 'polymerase': 'CPLX2KSB-27_mod_zn2(1)_mod_mg2(2)'}"
+RNAP_USA300HOURS08330MONOMER,"{'sigma_factor': 'USA300HOU_RS08330-MONOMER', 'polymerase': 'CPLX2KSB-27_mod_zn2(1)_mod_mg2(2)'}"
+RNAP_USA300HOURS09435MONOMER,"{'sigma_factor': 'USA300HOU_RS09435-MONOMER', 'polymerase': 'CPLX2KSB-27_mod_zn2(1)_mod_mg2(2)'}"
+RNAP_USA300HOURS11145MONOMER,"{'sigma_factor': 'USA300HOU_RS11145-MONOMER', 'polymerase': 'CPLX2KSB-27_mod_zn2(1)_mod_mg2(2)'}"

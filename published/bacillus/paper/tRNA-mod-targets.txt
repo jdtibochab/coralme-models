@@ -1,0 +1,23 @@
+# From paper https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7408541/
+mod	target
+m1A	Cys22 GCA,Gln22 UUG,Glu22 UUC,Leu22 CAA,Leu22 UAA,Leu22 GAG,Tyr22 GUA,Ser22 GGA,Ser22 GCT,Ser22 UGA,Tyr22 GUA
+m1G	Pro37 UGG,Leu37 CAG
+m2A	Glu37 UUC
+ms2i6A	Leu37 UAA
+ms2t6A	Ser37 UGA
+Cm	"Leu34 CAA	"
+Gm	Phe34 GAA
+Um	Lys34 UUU,Gln34 UUG
+s4U	Leu8 UAA,Gln8 UUG,Tyr8 GUA
+cmnm5Um	Leu34 UAA
+cmnm5s2U	Gln34 UUG
+mo5U	Leu34 UAG
+mnm5s2U	Glu34 UUC,Gln34 UUC
+mnm5U	Gln34 UUG
+ct6A	Leu37 UAA,Ile37 GAU,Thr37 UGU
+D	Asp21 GUC,Ile21 GUC,Ile21 CAU
+I	Arg34 ACG
+ac4C	Met34 CAU
+m6A	Met37 CAU
+t6A	Ile37 GAU,Thr37 UGU
+Q	His34 GUG,Asp34 GUC

@@ -1,0 +1,11 @@
+pathway	enzyme
+sec	B488_RS06710-MONOMER
+sec	B488_RS01640-MONOMER
+tat	CPLX_dummy
+tat_alt	CPLX_dummy
+bam	CPLX_dummy
+lol	CPLX_dummy
+yidC	B488_RS06430-MONOMER
+secA	B488_RS01640-MONOMER
+srp_yidC	B488_RS06430-MONOMER
+srp	B488_12660-MONOMER

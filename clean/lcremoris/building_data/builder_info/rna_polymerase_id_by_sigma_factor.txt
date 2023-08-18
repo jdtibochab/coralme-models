@@ -1,0 +1,4 @@
+,value
+RNAP_LLMGRS02740MONOMER,"{'sigma_factor': 'LLMG_RS02740-MONOMER', 'polymerase': 'RNAP-CPLX_mod_zn2(1)_mod_mg2(2)'}"
+RNAP_LLMGRS12190MONOMER,"{'sigma_factor': 'LLMG_RS12190-MONOMER', 'polymerase': 'RNAP-CPLX_mod_zn2(1)_mod_mg2(2)'}"
+RNAP_LLMGRS12280MONOMER,"{'sigma_factor': 'LLMG_RS12280-MONOMER', 'polymerase': 'RNAP-CPLX_mod_zn2(1)_mod_mg2(2)'}"

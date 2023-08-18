@@ -1,0 +1,4 @@
+,value
+UAA,{'enzyme': 'generic_RF'}
+UAG,{'enzyme': 'PrfA_mono_mod_methyl(1)'}
+UGA,{'enzyme': 'PrfB_mono_mod_methyl(1)'}

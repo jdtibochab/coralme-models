@@ -1,0 +1,4 @@
+,value
+RbfA_mono_assembly_factor_phase1,{'enzyme': 'CPLX_dummy'}
+RimM_mono_assembly_factor_phase1,{'enzyme': 'CPLX_dummy'}
+gtp_bound_30S_assembly_factor_phase1,{'enzyme': 'HP_RS02550-MONOMER'}

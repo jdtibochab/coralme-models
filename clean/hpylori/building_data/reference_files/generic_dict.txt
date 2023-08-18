@@ -1,0 +1,13 @@
+generic_component	enzymes
+generic_16Sm4Cm1402	HP_RS03450-MONOMER,HP_RS02720-MONOMER
+generic_16s_rRNAs	RNA_HP_r04,RNA_HP_r07,RNA_HPr07,RNA_HPr04
+generic_23s_rRNAs	RNA_HP_r01,RNA_HP_r06,RNA_HPr01,RNA_HPr06
+generic_5s_rRNAs	RNA_HP_r02,RNA_HP_r05,RNA_HPr05,RNA_HPr02
+generic_Dus	HP_RS03540-MONOMER
+generic_LYSINEaaRS	HP_RS00890-MONOMER
+generic_RF	HP_RS00395-MONOMER,HP_RS00835-MONOMER
+generic_RNase	CPLX_dummy
+generic_Tuf	HP_RS05930-MONOMER
+generic_fes_transfers_complex	CPLX_dummy
+generic_glu_ligase	HP_RS02355-MONOMER,HP_RS03170-MONOMER
+generic_val_ligase	HP_RS00085-MONOMER,HP_RS05665-MONOMER

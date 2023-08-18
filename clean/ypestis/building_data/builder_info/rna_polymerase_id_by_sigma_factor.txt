@@ -1,0 +1,8 @@
+,value
+RNAP_YPO0643MONOMER,"{'sigma_factor': 'YPO0643-MONOMER', 'polymerase': 'RNAP-CPLX_mod_zn2(1)_mod_mg2(2)'}"
+RNAP_YPO0745MONOMER,"{'sigma_factor': 'YPO0745-MONOMER', 'polymerase': 'RNAP-CPLX_mod_zn2(1)_mod_mg2(2)'}"
+RNAP_YPO1843MONOMER,"{'sigma_factor': 'YPO1843-MONOMER', 'polymerase': 'RNAP-CPLX_mod_zn2(1)_mod_mg2(2)'}"
+RNAP_YPO2711MONOMER,"{'sigma_factor': 'YPO2711-MONOMER', 'polymerase': 'RNAP-CPLX_mod_zn2(1)_mod_mg2(2)'}"
+RNAP_YPO3355MONOMER,"{'sigma_factor': 'YPO3355-MONOMER', 'polymerase': 'RNAP-CPLX_mod_zn2(1)_mod_mg2(2)'}"
+RNAP_YPO3582MONOMER,"{'sigma_factor': 'YPO3582-MONOMER', 'polymerase': 'RNAP-CPLX_mod_zn2(1)_mod_mg2(2)'}"
+RNAP_YPO3811MONOMER,"{'sigma_factor': 'YPO3811-MONOMER', 'polymerase': 'RNAP-CPLX_mod_zn2(1)_mod_mg2(2)'}"

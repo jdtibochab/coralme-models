@@ -1,0 +1,13 @@
+,value
+generic_16Sm4Cm1402,"{'enzymes': ['HP_RS03450-MONOMER', 'HP_RS02720-MONOMER']}"
+generic_16s_rRNAs,"{'enzymes': ['RNA_HP_r04', 'RNA_HP_r07', 'RNA_HPr07', 'RNA_HPr04']}"
+generic_23s_rRNAs,"{'enzymes': ['RNA_HP_r01', 'RNA_HP_r06', 'RNA_HPr01', 'RNA_HPr06']}"
+generic_5s_rRNAs,"{'enzymes': ['RNA_HP_r02', 'RNA_HP_r05', 'RNA_HPr05', 'RNA_HPr02']}"
+generic_Dus,{'enzymes': ['HP_RS03540-MONOMER']}
+generic_LYSINEaaRS,{'enzymes': ['HP_RS00890-MONOMER']}
+generic_RF,"{'enzymes': ['HP_RS00395-MONOMER', 'HP_RS00835-MONOMER']}"
+generic_RNase,{'enzymes': ['CPLX_dummy']}
+generic_Tuf,{'enzymes': ['HP_RS05930-MONOMER']}
+generic_fes_transfers_complex,{'enzymes': ['CPLX_dummy']}
+generic_glu_ligase,"{'enzymes': ['HP_RS02355-MONOMER', 'HP_RS03170-MONOMER']}"
+generic_val_ligase,"{'enzymes': ['HP_RS00085-MONOMER', 'HP_RS05665-MONOMER']}"

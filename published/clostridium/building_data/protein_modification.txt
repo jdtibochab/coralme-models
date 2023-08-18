@@ -1,0 +1,225 @@
+Modified_enzyme	Core_enzyme	Modifications	Source
+CODH_AC_SYN_mod_4fe4s(1)_mod_ni2(1)	CODH_AC_SYN	4fe4s(1) AND ni2(1)	iJL965
+CPLX-15_mod_4fe4s(1)_mod_ni2(1)	CPLX-15	4fe4s(1) AND ni2(1)	iJL965
+CPLX-27_mod_2fe2s(1)_mod_ni2(1)	CPLX-27	2fe2s(1) AND ni2(1)	iJL965
+
+PrfA_mono_mod_methyl(1)	PrfA_mono	methyl(1)	iJL965
+PrfB_mono_mod_methyl(1)	PrfB_mono	methyl(1)	iJL965
+
+CPLX-18_mod_mg2(1)	CPLX-18	mg2(1)	iJL965
+Hyp_CPLX_mod_zn2(1)	Hyp_CPLX	zn2(1)	iJL965
+CPLX-28_mod_pydx5p(1)	CPLX-28	pydx5p(1)	iJL965
+Etf3_CPLX_mod_fad(1)	Etf3_CPLX	fad(1)	iJL965
+CPLX-30_mod_fmn(1)	CPLX-30	fmn(1)	iJL965
+CPLX-31_mod_mg2(1)_mod_thmpp(1)	CPLX-31	mg2(1) AND thmpp(1)	iJL965
+CPLX-32_mod_mg2(1)_mod_thmpp(1)	CPLX-32	mg2(1) AND thmpp(1)	iJL965
+CPLX-33_mod_mg2(1)_mod_thmpp(1)	CPLX-33	mg2(1) AND thmpp(1)	iJL965
+CPLX-39_mod_nad(1)	CPLX-39	nad(1)	iJL965
+CPLX-40_mod_nad(1)	CPLX-40	nad(1)	iJL965
+CPLX-46_mod_zn2(1)	CPLX-46	zn2(1)	iJL965
+CPLX-60_mod_mg2(2)_mod_thmpp(2)	CPLX-60	mg2(2) AND thmpp(2)	iJL965
+CPLX-61_mod_mg2(2)_mod_thmpp(2)	CPLX-61	mg2(2) AND thmpp(2)	iJL965
+CPLX-62_mod_mg2(2)_mod_thmpp(2)	CPLX-62	mg2(2) AND thmpp(2)	iJL965
+CPLX-65_mod_pydx5p(1)	CPLX-65	pydx5p(1)	iJL965
+CPLX-66_mod_pydx5p(1)	CPLX-66	pydx5p(1)	iJL965
+CPLX-75_mod_mn2(2)	CPLX-75	mn2(2)	iJL965
+CPLX-82_mod_4fe4s(1)	CPLX-82	4fe4s(1)	iJL965
+CPLX-83_mod_4fe4s(1)	CPLX-83	4fe4s(1)	iJL965
+CPLX-84_mod_4fe4s(1)	CPLX-84	4fe4s(1)	iJL965
+CPLX-90_mod_dpm(1)	CPLX-90	dpm(1)	iJL965
+FolE_CPLX_mod_zn2(1)	FolE_CPLX	zn2(1)	iJL965
+CPLX-102_mod_4fe4s(1)	CPLX-102	4fe4s(1)	iJL965
+CPLX-106_mod_ca2(1)	CPLX-106	ca2(1)	iJL965
+CPLX-107_mod_fe2(1)	CPLX-107	fe2(1)	iJL965
+CPLX-108_mod_fe2(1)	CPLX-108	fe2(1)	iJL965
+CPLX-115_mod_pydx5p(1)	CPLX-115	pydx5p(1)	iJL965
+CPLX-116_mod_4fe4s(1)	CPLX-116	4fe4s(1)	iJL965
+CPLX-122_mod_fad(1)	CPLX-122	fad(1)	iJL965
+CPLX-125_mod_4fe4s(1)	CPLX-125	4fe4s(1)	iJL965
+CPLX-126_mod_4fe4s(1)	CPLX-126	4fe4s(1)	iJL965
+CPLX-127_mod_4fe4s(1)	CPLX-127	4fe4s(1)	iJL965
+CPLX-128_mod_4fe4s(1)	CPLX-128	4fe4s(1)	iJL965
+CPLX-129_mod_4fe4s(1)	CPLX-129	4fe4s(1)	iJL965
+CPLX-130_mod_4fe4s(1)	CPLX-130	4fe4s(1)	iJL965
+CPLX-131_mod_4fe4s(1)	CPLX-131	4fe4s(1)	iJL965
+CPLX-132_mod_4fe4s(1)	CPLX-132	4fe4s(1)	iJL965
+CPLX-134_mod_mg2(1)	CPLX-134	mg2(1)	iJL965
+CPLX-138_mod_pydx5p(1)	CPLX-138	pydx5p(1)	iJL965
+CPLX-149_mod_fe2(1)	CPLX-149	fe2(1)	iJL965
+CPLX-150_mod_fe2(1)	CPLX-150	fe2(1)	iJL965
+CPLX-159_mod_4fe4s(1)_mod_mg2(1)	CPLX-159	4fe4s(1) AND mg2(1)	iJL965
+CPLX-172_mod_fmn(1)_mod_2fe2s(2)_mod_fad(2)	CPLX-172	fmn(1) AND 2fe2s(2) AND fad(2)	iJL965
+CPLX-182_mod_fe2(2)	CPLX-182	fe2(2)	iJL965
+CPLX-184_mod_pydx5p(1)	CPLX-184	pydx5p(1)	iJL965
+CPLX-185_mod_pydx5p(1)	CPLX-185	pydx5p(1)	iJL965
+CPLX-186_mod_mg2(1)	CPLX-186	mg2(1)	iJL965
+CPLX-189_mod_4fe4s(1)_mod_4fe2o2s(1)	CPLX-189	4fe4s(1) AND 4fe2o2s(1)	iJL965
+CPLX-190_mod_4fe4s(1)_mod_4fe2o2s(1)	CPLX-190	4fe4s(1) AND 4fe2o2s(1)	iJL965
+CPLX-198_mod_mn2(1)	CPLX-198	mn2(1)	iJL965
+CPLX-207_mod_k(1)	CPLX-207	k(1)	iJL965
+CPLX-209_mod_pydx5p(1)	CPLX-209	pydx5p(1)	iJL965
+CPLX-210_mod_pydx5p(1)	CPLX-210	pydx5p(1)	iJL965
+CPLX-219_mod_pydx5p(1)	CPLX-219	pydx5p(1)	iJL965
+CPLX-231_mod_thmpp(1)	CPLX-231	thmpp(1)	iJL965
+CPLX-242_mod_zn2(1)	CPLX-242	zn2(1)	iJL965
+CPLX-245_mod_mg2(1)	CPLX-245	mg2(1)	iJL965
+CPLX-248_mod_mg2(1)	CPLX-248	mg2(1)	iJL965
+CPLX-250_mod_pydx5p(1)_mod_fad(1)_mod_lipo(1)	CPLX-250	pydx5p(1) AND fad(1) AND lipo(1)	iJL965
+CPLX-251_mod_pydx5p(1)_mod_fad(1)_mod_lipo(1)	CPLX-251	pydx5p(1) AND fad(1) AND lipo(1)	iJL965
+CPLX-252_mod_pydx5p(1)	CPLX-252	pydx5p(1)	iJL965
+CPLX-256_mod_fad(1)_mod_2fe2s(1)	CPLX-256	fad(1) AND 2fe2s(1)	iJL965
+CPLX-259_mod_mg2(2)	CPLX-259	mg2(2)	iJL965
+CPLX-260_mod_mg2(1)	CPLX-260	mg2(1)	iJL965
+CPLX-261_Etf1_CPLX_mod_fmn(1)_mod_fad(1)	CPLX-261_Etf1_CPLX	fmn(1) AND fad(1)	iJL965
+CPLX-261_Etf2_CPLX_mod_fmn(1)_mod_fad(1)	CPLX-261_Etf2_CPLX	fmn(1) AND fad(1)	iJL965
+CPLX-261_Etf3_CPLX_mod_fmn(1)_mod_fad(1)	CPLX-261_Etf3_CPLX	fmn(1) AND fad(1)	iJL965
+CPLX-268_mod_pydx5p(1)	CPLX-268	pydx5p(1)	iJL965
+RibBA_mono_mod_zn2(1)	RibBA_mono	zn2(1)	iJL965
+CPLX-277_mod_pydx5p(1)	CPLX-277	pydx5p(1)	iJL965
+CPLX-280_mod_pydx5p(1)_mod_fad(1)_mod_lipo(1)	CPLX-280	pydx5p(1) AND fad(1) AND lipo(1)	iJL965
+CPLX-281_mod_pydx5p(1)_mod_fad(1)_mod_lipo(1)	CPLX-281	pydx5p(1) AND fad(1) AND lipo(1)	iJL965
+CPLX-282_mod_zn2(1)	CPLX-282	zn2(1)	iJL965
+CPLX-283_mod_mn2(1)	CPLX-283	mn2(1)	iJL965
+CPLX-284_mod_mn2(2)	CPLX-284	mn2(2)	iJL965
+CPLX-288_mod_mg2(1)	CPLX-288	mg2(1)	iJL965
+CPLX-293_mod_mg2(1)	CPLX-293	mg2(1)	iJL965
+NADH-DHI-CPLX_FdhA_mono_mod_fmn(1)_mod_2fe2s(1)_mod_4fe4s(1)_mod_bmocogdp(1)	NADH-DHI-CPLX_FdhA_mono	fmn(1) AND 2fe2s(1) AND 4fe4s(1) AND bmocogdp(1)	iJL965
+NADH-DHI-CPLX_FdhAII_mono_mod_fmn(1)_mod_2fe2s(1)_mod_4fe4s(1)_mod_bmocogdp(1)	NADH-DHI-CPLX_FdhAII_mono	fmn(1) AND 2fe2s(1) AND 4fe4s(1) AND bmocogdp(1)	iJL965
+NADH-DHI-CPLX_FdhAIII_mono_mod_fmn(1)_mod_2fe2s(1)_mod_4fe4s(1)_mod_bmocogdp(1)	NADH-DHI-CPLX_FdhAIII_mono	fmn(1) AND 2fe2s(1) AND 4fe4s(1) AND bmocogdp(1)	iJL965
+NADH-DHI-II-CPLX_FdhA_mono_mod_fmn(1)_mod_2fe2s(1)_mod_4fe4s(1)_mod_bmocogdp(1)	NADH-DHI-II-CPLX_FdhA_mono	fmn(1) AND 2fe2s(1) AND 4fe4s(1) AND bmocogdp(1)	iJL965
+NADH-DHI-II-CPLX_FdhAII_mono_mod_fmn(1)_mod_2fe2s(1)_mod_4fe4s(1)_mod_bmocogdp(1)	NADH-DHI-II-CPLX_FdhA_mono	fmn(1) AND 2fe2s(1) AND 4fe4s(1) AND bmocogdp(1)	iJL965
+NADH-DHI-II-CPLX_FdhAIII_mono_mod_fmn(1)_mod_2fe2s(1)_mod_4fe4s(1)_mod_bmocogdp(1)	NADH-DHI-II-CPLX_FdhA_mono	fmn(1) AND 2fe2s(1) AND 4fe4s(1) AND bmocogdp(1)	iJL965
+NADH-DHI-CPLX_mod_fmn(1)_mod_2fe2s(1)_mod_4fe4s(1)	NADH-DHI-CPLX	fmn(1) AND 2fe2s(1) AND 4fe4s(1)	iJL965
+NADH-DHI-II-CPLX_mod_fmn(1)_mod_2fe2s(1)_mod_4fe4s(1)	NADH-DHI-II-CPLX	fmn(1) AND 2fe2s(1) AND 4fe4s(1)	iJL965
+CPLX-314_mod_mg2(1)	CPLX-314	mg2(1)	iJL965
+CPLX-315_mod_mg2(1)	CPLX-315	mg2(1)	iJL965
+CPLX-317_mod_pydx5p(1)	CPLX-317	pydx5p(1)	iJL965
+CPLX-318_mod_zn2(1)	CPLX-318	zn2(1)	iJL965
+CPLX-352_mod_zn2(1)	CPLX-352	zn2(1)	iJL965
+CPLX-353_mod_4fe4s(1)	CPLX-353	4fe4s(1)	iJL965
+CPLX-354_mod_pydx5p(1)	CPLX-354	pydx5p(1)	iJL965
+CPLX-359_mod_mg2(1)	CPLX-359	mg2(1)	iJL965
+CPLX-360_mod_mg2(1)	CPLX-360	mg2(1)	iJL965
+CPLX-361_mod_mg2(1)	CPLX-361	mg2(1)	iJL965
+CPLX-363_mod_pyr(1)	CPLX-363	pyr(1)	iJL965
+CPLX-365_mod_3fe4s(1)	CPLX-365	3fe4s(1)	iJL965
+CPLX-366_mod_4fe4s(1)_mod_bmocogdp(1)	CPLX-366	4fe4s(1) AND bmocogdp(1)	iJL965
+CPLX-367_mod_4fe4s(1)_mod_bmocogdp(1)	CPLX-367	4fe4s(1) AND bmocogdp(1)	iJL965
+CPLX-368_mod_4fe4s(1)_mod_bmocogdp(1)	CPLX-368	4fe4s(1) AND bmocogdp(1)	iJL965
+CPLX-369_mod_pydx5p(1)	CPLX-369	pydx5p(1)	iJL965
+CPLX-372_mod_pydx5p(1)	CPLX-372	pydx5p(1)	iJL965
+CPLX-375_mod_4fe4s(1)	CPLX-375	4fe4s(1)	iJL965
+CPLX-376_mod_bmocogdp(1)	CPLX-376	bmocogdp(1)	iJL965
+CPLX-380_mod_pydx5p(1)	CPLX-380	pydx5p(1)	iJL965
+Asr2_CPLX_mod_fad(1)_mod_2fe2s(1)	Asr2_CPLX	fad(1) AND 2fe2s(1)	iJL965
+CPLX-398_mod_btn(1)	CPLX-398	btn(1)	iJL965
+CPLX-405_mod_mg2(1)	CPLX-405	mg2(1)	iJL965
+CPLX-406_mod_mg2(1)	CPLX-406	mg2(1)	iJL965
+CPLX-407_mod_mg2(4)	CPLX-407	mg2(4)	iJL965
+CPLX-408_mod_mg2(1)	CPLX-408	mg2(1)	iJL965
+CPLX-409_mod_nh4(1)	CPLX-409	nh4(1)	iJL965
+#CODH_AC_SYN_mod_4fe4s(2)_mod_ni2(3)	CODH_AC_SYN	4fe4s(2) AND ni2(3)	iJL965
+CODH_AC_SYN_mod_4fe4s(1)_mod_ni2(1)	CODH_AC_SYN	4fe4s(1) AND ni2(1)	iJL965
+CPLX-433_mod_mg2(1)	CPLX-433	mg2(1)	iJL965
+CPLX-439_mod_2fe2s(1)	CPLX-439	2fe2s(1)	iJL965
+CPLX-440_mod_2fe2s(1)	CPLX-440	2fe2s(1)	iJL965
+CPLX-442_mod_zn2(2)	CPLX-442	zn2(2)	iJL965
+Rnf_CPLX_mod_fmn(1)_mod_4fe4s(2)	Rnf_CPLX	fmn(1) AND 4fe4s(2)	iJL965
+CPLX-445_mod_mn2(1)	CPLX-445	mn2(1)	iJL965
+CPLX-451_mod_mn2(1)	CPLX-451	mn2(1)	iJL965
+HemN_mono_mod_2fe2s(1)	HemN_mono	2fe2s(1)	iJL965
+CPLX-459_mod_zn2(1)	CPLX-459	zn2(1)	iJL965
+Nfn_CPLX_mod_fad(1)_mod_2fe2s(1)	Nfn_CPLX	fad(1) AND 2fe2s(1)	iJL965
+CPLX-463_mod_4fe4s(3)	CPLX-463	4fe4s(3)	iJL965
+CPLX-464_mod_4fe4s(3)	CPLX-464	4fe4s(3)	iJL965
+CPLX-470_mod_zn2(1)	CPLX-470	zn2(1)	iJL965
+CPLX-471_mod_zn2(8)	CPLX-471	zn2(8)	iJL965
+CPLX-481_mod_fad(1)	CPLX-481	fad(1)	iJL965
+CPLX-490_mod_mn2(2)	CPLX-490	mn2(2)	iJL965
+CPLX-491_mod_zn2(1)	CPLX-491	zn2(1)	iJL965
+CPLX-493_mod_mn2(2)	CPLX-493	mn2(2)	iJL965
+CPLX-495_mod_zn2(1)	CPLX-495	zn2(1)	iJL965
+CPLX-498_mod_mg2(1)	CPLX-498	mg2(1)	iJL965
+CPLX-503_mod_fmnh2(1)	CPLX-503	fmnh2(1)	iJL965
+CPLX-506_mod_pydx5p(1)	CPLX-506	pydx5p(1)	iJL965
+CPLX-507_mod_pydx5p(1)	CPLX-507	pydx5p(1)	iJL965
+CPLX-508_mod_pydx5p(1)	CPLX-508	pydx5p(1)	iJL965
+CPLX-511_mod_4fe4s(1)	CPLX-511	4fe4s(1)	iJL965
+CPLX-512_mod_4fe4s(1)	CPLX-512	4fe4s(1)	iJL965
+CPLX-513_mod_4fe4s(1)	CPLX-513	4fe4s(1)	iJL965
+CPLX-518_mod_mn2(1)	CPLX-518	mn2(1)	iJL965
+CPLX-519_mod_mn2(1)	CPLX-519	mn2(1)	iJL965
+CPLX-520_mod_mn2(1)	CPLX-520	mn2(1)	iJL965
+CPLX-523_mod_pydx5p(1)	CPLX-523	pydx5p(1)	iJL965
+CPLX-524_mod_mn2(1)	CPLX-524	mn2(1)	iJL965
+CPLX-528_mod_mg2(1)	CPLX-528	mg2(1)	iJL965
+CPLX-529_mod_mg2(1)	CPLX-529	mg2(1)	iJL965
+CPLX-531_mod_nad(1)	CPLX-531	nad(1)	iJL965
+CPLX-539_mod_zn2(1)	CPLX-539	zn2(1)	iJL965
+CPLX-540_mod_pyr(1)	CPLX-540	pyr(1)	iJL965
+Asr1_CPLX_mod_4fe4s(1)	Asr1_CPLX	4fe4s(1)	iJL965
+CPLX-559_mod_mg2(2)_mod_k(1)	CPLX-559	mg2(2) AND k(1)	iJL965
+IleS_mono_mod_zn2(1)	IleS_mono	zn2(1)	iJL965
+CPLX-562_mod_mn2(1)	CPLX-562	mn2(1)	iJL965
+CysS_mono_mod_zn2(1)	CysS_mono	zn2(1)	iJL965
+CysSII_mono_mod_zn2(1)	CysSII_mono	zn2(1)	iJL965
+Lys_RS_dim_mod_mg2(6)	Lys_RS_dim	mg2(6)	iJL965
+AlaS_mono_mod_zn2(1)	AlaS_mono	zn2(1)	iJL965
+Thr_RS_dim_mod_zn2(2)	Thr_RS_dim	zn2(2)	iJL965
+Phe_RS_tetra_mod_mg2(2)	Phe_RS_tetra	mg2(2)	iJL965
+Met_RS_dim_mod_zn2(2)	Met_RS_dim	zn2(2)	iJL965
+MiaA_mono_mod_mg2(1)	MiaA_mono	mg2(1)	iJL965
+MiaB_mono_mod_4fe4s(2)	MiaB_mono	4fe4s(2)	iJL965
+TadA_dim_mod_zn2(2)	TadA_dim	zn2(2)	iJL965
+MtaB_mono_mod_4fe4s(2)	MtaB_mono	4fe4s(2)	iJL965
+TsaEBD_CPLX_mod_fe2(1)	TsaEBD_CPLX	fe2(1)	iJL965
+TrmB_dim_mod_k(1)	TrmB_dim	k(1)	iJL965
+Tgt_hex_mod_zn2(6)	Tgt_hex	zn2(6)	iJL965
+QueG_mono_mod_4fe4s(2)_mod_adocbl(1)	QueG_mono	4fe4s(2) AND adocbl(1)	iJL965
+QueGII_mono_mod_4fe4s(2)_mod_adocbl(1)	QueGII_mono	4fe4s(2) AND adocbl(1)	iJL965
+CLJU_c01520_mono_mod_mg2(1)	CLJU_c01520_mono	mg2(1)	iJL965
+CLJU_c11280_mono_mod_mg2(1)	CLJU_c11280_mono	mg2(1)	iJL965
+DnaJ_dim_mod_zn2(4)	DnaJ_dim	zn2(4)	iJL965
+DnaJII_dim_mod_zn2(4)	DnaJII_dim	zn2(4)	iJL965
+RnmV_mono_mod_mg2(1)	RnmV_mono	mg2(1)	iJL965
+DusI_mono_mod_fad(1)	DusI_mono	fad(1)	iJL965
+DusII_mono_mod_fad(1)	DusII_mono	fad(1)	iJL965
+RlmN_mono_mod_4fe4s(1)	RlmN_mono	4fe4s(1)	iJL965
+Def_mono_mod_fe2(1)	Def_mono	fe2(1)	iJL965
+DefII_mono_mod_fe2(1)	DefII_mono	fe2(1)	iJL965
+DefIII_mono_mod_fe2(1)	DefIII_mono	fe2(1)	iJL965
+DefIV_mono_mod_fe2(1)	DefIV_mono	fe2(1)	iJL965
+DefV_mono_mod_fe2(1)	DefV_mono	fe2(1)	iJL965
+Map_mono_mod_fe2(2)	Map_mono	fe2(2)	iJL965
+MnmEG_cplx_mod_fad(2)_mod_k(2)	MnmEG_cplx	fad(2) AND k(2)	iJL965
+IscS_dim_mod_pydx5p(2)	IscS_dim	pydx5p(2)	iJL965
+IscSII_dim_mod_pydx5p(2)	IscSII_dim	pydx5p(2)	iJL965
+RNase_Z_mod_zn2(2)	RNase_Z	zn2(2)	iJL965
+MoaA_mono_MoaC_mono_mod_4fe4s(2)_mod_amet(1)	MoaA_mono_MoaC_mono	4fe4s(2) AND amet(1)	iJL965
+MobA_mono_mod_mg2(1)	MobA_mono	mg2(1)	iJL965
+MoeA_dim_mod_mg2(2)	MoeA_dim	mg2(2)	iJL965
+MoeAII_dim_mod_mg2(2)	MoeAII_dim	mg2(2)	iJL965
+MoeAIII_dim_mod_mg2(2)	MoeAIII_dim	mg2(2)	iJL965
+MoeAIV_dim_mod_mg2(2)	MoeAIV_dim	mg2(2)	iJL965
+NfrA_dim_mod_fmn(2)	NfrA_dim	fmn(2)	iJL965
+Transcription_normal_rho_independent_I_mod_mg2(1)	Transcription_normal_rho_independent_I	mg2(1)	iJL965
+Transcription_normal_rho_independent_II_mod_mg2(1)	Transcription_normal_rho_independent_II	mg2(1)	iJL965
+Transcription_normal_rho_independent_III_mod_mg2(1)	Transcription_normal_rho_independent_III	mg2(1)	iJL965
+Transcription_normal_rho_dependent_I_mod_mg2(1)	Transcription_normal_rho_dependent_I	mg2(1)	iJL965
+Transcription_normal_rho_dependent_II_mod_mg2(1)	Transcription_normal_rho_dependent_II	mg2(1)	iJL965
+Transcription_normal_rho_dependent_III_mod_mg2(1)	Transcription_normal_rho_dependent_III	mg2(1)	iJL965
+Transcription_stable_rho_independent_I_mod_mg2(1)	Transcription_stable_rho_independent_I	mg2(1)	iJL965
+Transcription_stable_rho_independent_II_mod_mg2(1)	Transcription_stable_rho_independent_II	mg2(1)	iJL965
+Transcription_stable_rho_independent_III_mod_mg2(1)	Transcription_stable_rho_independent_III	mg2(1)	iJL965
+Transcription_stable_rho_dependent_I_mod_mg2(1)	Transcription_stable_rho_dependent_I	mg2(1)	iJL965
+Transcription_stable_rho_dependent_II_mod_mg2(1)	Transcription_stable_rho_dependent_II	mg2(1)	iJL965
+Transcription_stable_rho_dependent_III_mod_mg2(1)	Transcription_stable_rho_dependent_III	mg2(1)	iJL965
+YgeX_dim_mod_pydx5p(1)	YgeX_dim	pydx5p(1)	iJL965
+CysK_mono_mod_pydx5p(1)	CysK_mono	pydx5p(1)	iJL965
+PDX5PO_CPLX_mod_fmn(1)	PDX5PO_CPLX	fmn(1)	iJL965
+Fdx_mod_2fe2s(1)	Fdx	2fe2s(1)	iJL965
+FdxII_mod_2fe2s(1)	FdxII	2fe2s(1)	iJL965
+FdxIII_mod_2fe2s(1)	FdxIII	2fe2s(1)	iJL965
+FdxIV_mod_4fe4s(1)	FdxIV	4fe4s(1)	iJL965
+Mop_mono_mod_2fe2s(1)	Mop_mono	2fe2s(1)	iJL965
+MopII_mono_mod_2fe2s(1)	MopII_mono	2fe2s(1)	iJL965

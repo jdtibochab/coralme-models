@@ -1,0 +1,8 @@
+,value
+RNAP_FecImono,"{'sigma_factor': 'FecI_mono', 'polymerase': 'hRNAP_mod_zn2(1)_mod_mg2(2)'}"
+RNAP_FliAmono,"{'sigma_factor': 'FliA_mono', 'polymerase': 'hRNAP_mod_zn2(1)_mod_mg2(2)'}"
+RNAP_RpoDmono,"{'sigma_factor': 'RpoD_mono', 'polymerase': 'hRNAP_mod_zn2(1)_mod_mg2(2)'}"
+RNAP_RpoEmono,"{'sigma_factor': 'RpoE_mono', 'polymerase': 'hRNAP_mod_zn2(1)_mod_mg2(2)'}"
+RNAP_RpoHmono,"{'sigma_factor': 'RpoH_mono', 'polymerase': 'hRNAP_mod_zn2(1)_mod_mg2(2)'}"
+RNAP_RpoNmono,"{'sigma_factor': 'RpoN_mono', 'polymerase': 'hRNAP_mod_zn2(1)_mod_mg2(2)'}"
+RNAP_RpoSmono,"{'sigma_factor': 'RpoS_mono', 'polymerase': 'hRNAP_mod_zn2(1)_mod_mg2(2)'}"

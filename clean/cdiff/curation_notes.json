@@ -1,0 +1,630 @@
+{
+    "org.check_m_model": [
+        {
+            "msg": "Metabolites starting with the prefix RNA were removed.",
+            "triggered_by": [
+                "RNA_c"
+            ],
+            "importance": "high",
+            "to_do": "Check whether the model needs the removed metabolites, and change their name. RNA as a prefix is used for TranscribedGene objects."
+        },
+        {
+            "msg": "Some metabolites are missing their formula",
+            "triggered_by": [
+                "hacp_c",
+                "fes_c",
+                "CLP_c",
+                "LIPID_c",
+                "RNA_c",
+                "malacp_c",
+                "aacp_c",
+                "unsc_c",
+                "DNA_c",
+                "elecacceptoxi_c",
+                "teichoic_c",
+                "elecacceptred_c",
+                "CELLWALL_c",
+                "fesm_c",
+                "ssc_c",
+                "PROTEIN_c",
+                "biomass_c",
+                "dtet12radecg3p_c",
+                "di12octdecg3p_c",
+                "mglucsyldpalmgl_c",
+                "mglucsyldmygl_c",
+                "mglucsyldstgl_c",
+                "dgludpalmgl_c",
+                "dgludmygl_c",
+                "digludstgl_c",
+                "dgdi12hexdec_c",
+                "SOLPOOL_c",
+                "dgdi12tetdec_c",
+                "dgdi12octdec_c",
+                "cdpdhexdecglc_c",
+                "cdpdtetdecglc_c",
+                "cdpoctdecglc_c",
+                "pgpdihexdec_c",
+                "pgpditetdec_c",
+                "pgpdioctdec_c",
+                "phosglcdihexdec_c",
+                "phosglcditetdec_c",
+                "phosglcdioctdec_c",
+                "palmphgl_c",
+                "myrphgl_c",
+                "strphglc_c",
+                "palmcdlpn_c",
+                "mycdlpn_c",
+                "strcdlpn_c",
+                "pmf_c",
+                "dgslnt_c",
+                "selprotein_c",
+                "dodec2enacp_c",
+                "thexdecenoylacp_c",
+                "but2encoa_c",
+                "thex2encoa_c",
+                "toct2encoa_c",
+                "dec22encoa_c",
+                "dodec22encoa_c",
+                "ttetdec2enoylcoa_c",
+                "thexdecenoylcoa_c",
+                "tet1decg3p_c",
+                "oct1decg3p_c",
+                "dhex12decg3p_c"
+            ],
+            "importance": "critical",
+            "to_do": "Correct the formulas of the listed metabolites. Some metabolite formulas are critical for the completion of this pipeline. If homology is ON, this pipeline will try to fill in the formulas from the reference."
+        },
+        {
+            "msg": "Some metabolites have a problematic formula. If these metabolites are used in protein modifications, or other subreactions, it will cause an error.",
+            "triggered_by": [
+                "alpro_c",
+                "trdox_c",
+                "fdxrd_c",
+                "lpro_c",
+                "trdrd_c",
+                "dhlpro_c",
+                "fdxo_2_2_c",
+                "butacp_c",
+                "gpgl_c",
+                "hexacp_c",
+                "octacp_c",
+                "decacp_c",
+                "dodecacp_c",
+                "myrstacp_c",
+                "sracp_c",
+                "h3bacp_c",
+                "h3hacp_c",
+                "h3octacp_c",
+                "h3decacp_c",
+                "d3odecacp_c",
+                "m3yristacp_c",
+                "p3almacp_c",
+                "sectrna_c",
+                "sectrnasec_c",
+                "o3hacp_c",
+                "ox3xooctacp_c",
+                "o3xodecacp_c",
+                "o3xododecacp_c",
+                "oxo3myristacp_c",
+                "o3xopalmacp_c",
+                "trnasecys_c",
+                "sertrna_sec_c",
+                "trnapro_c",
+                "b2eacp_c",
+                "t2eacp_c",
+                "protrna_c",
+                "trnagln_c",
+                "toct2enacp_c",
+                "dec22enacp_c",
+                "glntrna_c",
+                "trnacys_c",
+                "ttetdec2enoylacp_c",
+                "cystrna_c",
+                "trnathr_c",
+                "thrtrna_c",
+                "trnaala_c",
+                "alatrna_c",
+                "trnatyr_c",
+                "tyrtrna_c",
+                "trnaasn_c",
+                "asntrna_c",
+                "acacp_c",
+                "trnagly_c",
+                "glytrna_c",
+                "acacacp_c",
+                "fdxo_42_c",
+                "leutrna_c",
+                "trnaleu_c",
+                "cfesp_c",
+                "fmettrna_c",
+                "fdxr_42_c",
+                "mettrna_c",
+                "mecfsp_c",
+                "trnatrp_c",
+                "trptrna_c",
+                "asptrna_c",
+                "trnaasp_c",
+                "valtrna_c",
+                "trnaval_c",
+                "trnamet_c",
+                "trnaser_c",
+                "sertrna_c",
+                "phetrna_c",
+                "trnaphe_c"
+            ],
+            "importance": "critical",
+            "to_do": "Correct the formulas of the listed metabolites. Some metabolite formulas are critical for the completion of this pipeline. If homology is ON, this pipeline will try to fill in the formulas from the reference."
+        },
+        {
+            "msg": "Some reactions are missing their subsystem",
+            "triggered_by": [
+                "SERTRS2",
+                "PROTRS",
+                "GLNTRS",
+                "CYSTRS",
+                "THRTRS",
+                "ALATRS",
+                "TYRTRS",
+                "ASNTRS",
+                "GLYTRS",
+                "LEUTRS",
+                "FMETTRS",
+                "TRPTRS",
+                "ASPTRS",
+                "VALTRS",
+                "METTRS",
+                "SERTRS",
+                "PHETRS",
+                "GLCS1",
+                "GLCP",
+                "P5CR",
+                "SERAT",
+                "SPODM",
+                "ADD",
+                "Cuabc",
+                "GLBRAN2",
+                "PAPPT3",
+                "UDPGD",
+                "ACM6PH",
+                "CYTOM",
+                "FE3abc",
+                "BGLA1",
+                "METSR_S1",
+                "MALTATr",
+                "ACGApts",
+                "CELBpts",
+                "CODH_ACS",
+                "CYSS",
+                "MOBDabc",
+                "MTHFR5",
+                "26DPAi",
+                "ACTNabc",
+                "ASPR",
+                "ANHMK",
+                "MOGDS",
+                "CHTBSH",
+                "LEUTA",
+                "GAMpts",
+                "ACGALpts_1",
+                "ACGAL6PI",
+                "SALCpts",
+                "S6PG",
+                "2HXMPt6",
+                "ARBTpts",
+                "AB6PGH",
+                "HQNt6"
+            ],
+            "importance": "high",
+            "to_do": "Make sure the subsystems of these reactions are correct"
+        },
+        {
+            "msg": "Some metabolites have no reactions associated",
+            "triggered_by": [
+                "prpnte_c"
+            ],
+            "importance": "critical",
+            "to_do": "Make sure these metabolites are removed or connected properly"
+        }
+    ],
+    "org.read_gene_dictionary": [
+        {
+            "msg": "Some genes are missing Accession-1 IDs in genes.txt",
+            "triggered_by": [
+                "G12WB-4608",
+                "G12WB-4612",
+                "G12WB-4609",
+                "G12WB-4610",
+                "G12WB-4611"
+            ],
+            "importance": "medium",
+            "to_do": "Complete Accession-1 IDs in genes.txt if those genes are important."
+        }
+    ],
+    "org.generate_complexes_df": [
+        {
+            "msg": "Some proteins have no genes in proteins.txt",
+            "triggered_by": [
+                "EG50003-MONOMER",
+                "OCTANOYL-ACP"
+            ],
+            "importance": "medium",
+            "to_do": "Fill genes in proteins.txt"
+        }
+    ],
+    "org.sync_files": [
+        {
+            "msg": "The types of some genes (e.g. CDS, RNA...) could not be identified. Is Product or Gene Name missing?",
+            "triggered_by": [
+                "G12WB-4608",
+                "G12WB-4608",
+                "CD630_19260",
+                "CD630_19260",
+                "CD630_01800",
+                "CD630_01800",
+                "CD630_23020",
+                "CD630_23020",
+                "CD630_06060",
+                "CD630_06060",
+                "CD630_01570",
+                "CD630_01570",
+                "CD630_18200",
+                "CD630_18200",
+                "CD630_07650",
+                "CD630_07650",
+                "CD630_06071",
+                "CD630_06071",
+                "CD630_36740",
+                "CD630_36740",
+                "CD630_22180",
+                "CD630_22180",
+                "CD630_08570",
+                "CD630_08570"
+            ],
+            "importance": "medium",
+            "to_do": "Manually fill the products (with types) of these genes in genes.txt"
+        }
+    ],
+    "org.check_for_duplicates": [
+        {
+            "msg": "Some datasets contain duplicate indices or Accession IDs.",
+            "triggered_by": [
+                {
+                    "Accession-1": [
+                        "CD630_13110"
+                    ]
+                }
+            ],
+            "importance": "critical",
+            "to_do": "Remove or fix duplicates. If duplicates are in Accession-1, they are processed as different possibilities to get the same enzyme, so they are added as generic complexes. Check!"
+        }
+    ],
+    "org.get_rpod": [
+        {
+            "msg": "G12WB-110-MONOMER was identified as RpoD. If this is not true, define RpoD!",
+            "importance": "high",
+            "to_do": "Check whether you need to correct RpoD by running me_builder.org.rpod = correct_rpod"
+        }
+    ],
+    "org.get_rna_polymerase": [
+        {
+            "msg": "CPLX12WB-1 was identified as RNA polymerase",
+            "importance": "high",
+            "to_do": "Check whether you need to correct RNAP by running me_builder.org.get_rna_polymerase(force_RNAP_as=correct_RNAP)"
+        }
+    ],
+    "org.get_TU_df": [
+        {
+            "msg": "Some genes appear in TUs.txt but not in genes.txt",
+            "triggered_by": [
+                "G12WB-4213"
+            ],
+            "importance": "medium",
+            "to_do": "If those genes are supposed to be in the model, fill them in genes.txt"
+        }
+    ],
+    "org.update_ribosome_stoich": [
+        {
+            "msg": "Some ribosomal proteins do not contain subunit information (30S, 50S) so they could not be mapped.",
+            "triggered_by": [
+                "G12WB-1444-MONOMER"
+            ],
+            "importance": "high",
+            "to_do": "Classify them in ribosomal_proteins.txt"
+        }
+    ],
+    "org.purge_genes_in_model": [
+        {
+            "msg": "Some genes in M-model were not found in genes.txt or genome.gb. These genes will be skipped in reconstruction.",
+            "triggered_by": [
+                "CD630_0174",
+                "CD630_28720_P",
+                "CD630_23220_P",
+                "CD630_270801",
+                "CD630_011301",
+                "CD630_0769",
+                "CD630_2179",
+                "CD630_358801",
+                "CD630_358802",
+                "CD07280",
+                "CD630_0176",
+                "CD630_0175",
+                "CD630_038902",
+                "CD630_038903",
+                "CD630_038901"
+            ],
+            "importance": "high",
+            "to_do": "Confirm the gene is correct in the m_model. If so, add it to genes.txt"
+        }
+    ],
+    "prepare_model": [
+        {
+            "msg": "M-model cannot grow",
+            "importance": "critical",
+            "to_do": "Check that the model you provided works"
+        },
+        {
+            "msg": "NGAM could not be identified in M-model, setting a standard value of 1.",
+            "importance": "high",
+            "to_do": "Manually define NGAM with me_builder.org.NGAM = NGAM_value. Check if a reaction with identifier NGAM or ATPM has a zero or negative lower bound."
+        }
+    ],
+    "org.get_complex_homology": [
+        {
+            "msg": "Some complexes were partial hits in the BLAST",
+            "triggered_by": [
+                {
+                    "complex": "G12WB-2585-MONOMER",
+                    "reference_complex": "Gly_RS_tetra"
+                },
+                {
+                    "complex": "G12WB-2818-MONOMER",
+                    "reference_complex": "CPLX-157"
+                },
+                {
+                    "complex": "CPLX12WB-22",
+                    "reference_complex": "FUMARASE-B"
+                },
+                {
+                    "complex": "G12WB-1105-MONOMER",
+                    "reference_complex": "3-ISOPROPYLMALISOM-CPLX"
+                },
+                {
+                    "complex": "G12WB-2568-MONOMER",
+                    "reference_complex": "CPLX-169"
+                },
+                {
+                    "complex": "G12WB-1692-MONOMER",
+                    "reference_complex": "GLUTAMIDOTRANS-CPLX"
+                },
+                {
+                    "complex": "G12WB-1627-MONOMER",
+                    "reference_complex": "METNIQ-METHIONINE-ABC-CPLX"
+                },
+                {
+                    "complex": "G12WB-810-MONOMER",
+                    "reference_complex": "Phe_RS_tetra"
+                },
+                {
+                    "complex": "G12WB-2914-MONOMER",
+                    "reference_complex": "CPLX-163"
+                },
+                {
+                    "complex": "G12WB-2914-MONOMER",
+                    "reference_complex": "CPLX-164"
+                },
+                {
+                    "complex": "G12WB-2914-MONOMER",
+                    "reference_complex": "CPLX-165"
+                },
+                {
+                    "complex": "G12WB-2914-MONOMER",
+                    "reference_complex": "CPLX-153"
+                },
+                {
+                    "complex": "G12WB-2914-MONOMER",
+                    "reference_complex": "CPLX-154"
+                },
+                {
+                    "complex": "G12WB-2914-MONOMER",
+                    "reference_complex": "CPLX-166"
+                },
+                {
+                    "complex": "G12WB-1798-MONOMER",
+                    "reference_complex": "GCVMULTI-CPLX"
+                },
+                {
+                    "complex": "G12WB-1205-MONOMER",
+                    "reference_complex": "EG11829-MONOMER_EG11828-MONOMER"
+                },
+                {
+                    "complex": "G12WB-3160-MONOMER",
+                    "reference_complex": "RIBONUCLEOSIDE-DIP-REDUCTII-CPLX"
+                },
+                {
+                    "complex": "G12WB-2079-MONOMER",
+                    "reference_complex": "ACETYL-COA-CARBOXYLMULTI-CPLX"
+                },
+                {
+                    "complex": "G12WB-3868-MONOMER",
+                    "reference_complex": "MnmEG_cplx"
+                },
+                {
+                    "complex": "G12WB-2940-MONOMER",
+                    "reference_complex": "CPLX0-7717_G6561-MONOMER"
+                },
+                {
+                    "complex": "G12WB-3450-MONOMER",
+                    "reference_complex": "EG11910-MONOMER_dimer_EG11911-MONOMER"
+                },
+                {
+                    "complex": "G12WB-3776-MONOMER",
+                    "reference_complex": "CARBPSYN-CPLX"
+                },
+                {
+                    "complex": "G12WB-1730-MONOMER",
+                    "reference_complex": "ATPASE-1-CPLX_no_MONOMER0-12"
+                },
+                {
+                    "complex": "G12WB-1140-MONOMER",
+                    "reference_complex": "ABC-24-CPLX"
+                },
+                {
+                    "complex": "G12WB-120-MONOMER",
+                    "reference_complex": "hRNAP"
+                },
+                {
+                    "complex": "G12WB-3430-MONOMER",
+                    "reference_complex": "ABC-27-CPLX"
+                },
+                {
+                    "complex": "G12WB-3590-MONOMER",
+                    "reference_complex": "ABC-34-CPLX"
+                },
+                {
+                    "complex": "G12WB-2828-MONOMER",
+                    "reference_complex": "ACETOACETYL-COA-TRANSFER-CPLX"
+                },
+                {
+                    "complex": "G12WB-1582-MONOMER",
+                    "reference_complex": "PABASYN-CPLX"
+                },
+                {
+                    "complex": "G12WB-1856-MONOMER",
+                    "reference_complex": "EG11595-MONOMER_EG11666-MONOMER"
+                },
+                {
+                    "complex": "G12WB-2057-MONOMER",
+                    "reference_complex": "ETHAMLY-CPLX"
+                },
+                {
+                    "complex": "CPLX_AHSERL-0",
+                    "reference_complex": "O-SUCCHOMOSERLYASE-CPLX"
+                },
+                {
+                    "complex": "CPLX_AHSERL-0",
+                    "reference_complex": "ACSERLYB-CPLX"
+                },
+                {
+                    "complex": "CPLX_RBFSb-0",
+                    "reference_complex": "LUMAZINESYN-CPLX"
+                },
+                {
+                    "complex": "CPLX_RBFSb-0",
+                    "reference_complex": "CPLX0-3952"
+                },
+                {
+                    "complex": "CPLX_BMOC-0",
+                    "reference_complex": "CPLX0-252"
+                },
+                {
+                    "complex": "CPLX_BMOC-0",
+                    "reference_complex": "3-OXOACYL-ACP-SYNTHII-CPLX"
+                },
+                {
+                    "complex": "CPLX_GLNTRS-0",
+                    "reference_complex": "GltX_mono"
+                },
+                {
+                    "complex": "CPLX_GLNTRS-0",
+                    "reference_complex": "GlnS_mono"
+                },
+                {
+                    "complex": "CPLX_S6PG-0",
+                    "reference_complex": "EG10144-MONOMER"
+                },
+                {
+                    "complex": "CPLX_S6PG-0",
+                    "reference_complex": "G495-MONOMER"
+                }
+            ],
+            "importance": "medium",
+            "to_do": "Curate these manually in protein_corrections.txt"
+        }
+    ],
+    "update_me_mets": [
+        {
+            "msg": "Some metabolites in me_metabolites.txt are not in m_model, so they were skipped.",
+            "triggered_by": [
+                "sufbcd_2fe2s_c",
+                "sufbcd_2fe2s2_c",
+                "sufbcd_4fe4s_c",
+                "iscu_2fe2s_c",
+                "iscu_2fe2s2_c",
+                "iscu_4fe4s_c"
+            ],
+            "importance": "medium",
+            "to_do": "Confirm these metabolites are correctly defined in me_metabolites.txt"
+        }
+    ],
+    "update_ribosome_subreactions_from_homology": [
+        {
+            "msg": "Some enzymes defined in me_builder.org.ribosome_subreactions are different from the ones inferred from homology",
+            "triggered_by": [
+                {
+                    "subreaction": "gtp_bound_30S_assembly_factor_phase1",
+                    "defined_complex": "",
+                    "inferred_complex": "G12WB-2590-MONOMER"
+                },
+                {
+                    "subreaction": "RimM_mono_assembly_factor_phase1",
+                    "defined_complex": "",
+                    "inferred_complex": "G12WB-1389-MONOMER"
+                }
+            ],
+            "importance": "medium",
+            "to_do": "Confirm whether the definitions or homology calls are correct in me_builder.org.ribosome_subreactions. Curate the inputs in ribosome_subreactions.txt accordingly."
+        }
+    ],
+    "check": [
+        {
+            "msg": "Some metabolites in me_metabolites.txt need curation",
+            "triggered_by": [
+                "sectrnasec_c",
+                "sertrna_sec_c",
+                "LI_c",
+                "sufbcd_c",
+                "sufse_c",
+                "sufsesh_c",
+                "dsbard_p",
+                "dsbaox_p",
+                "dsbcrd_p",
+                "dsbcox_p",
+                "dsbdrd_c",
+                "dsbdox_c",
+                "dsbgrd_p",
+                "dsbgox_p",
+                "lpp_p",
+                "alpp_p",
+                "moadamp_c",
+                "moadcoo_c",
+                "moadcosh_c",
+                "3hcpalm9eACP_c",
+                "3ocpalm9eACP_c",
+                "flxr_c",
+                "fldrd_c",
+                "flxso_c",
+                "fldox_c",
+                "grxrd_c",
+                "grxox_c",
+                "iscssh_c"
+            ],
+            "importance": "medium",
+            "to_do": "Map or remove these metabolites in me_metabolites.txt"
+        }
+    ],
+    "troubleshoot": [
+        {
+            "msg": "Some metabolites are necessary for growth",
+            "triggered_by": [
+                "TS_4fe4s_c",
+                "TS_mn2_c",
+                "TS_accoa_c",
+                "TS_pan4p_c",
+                "TS_pydx5p_c",
+                "TS_cbl1_c"
+            ],
+            "importance": "critical",
+            "to_do": "Fix the gaps by adding reactions or solving other warnings. If some items are from the E-matrix, fix these first!"
+        }
+    ]
+}

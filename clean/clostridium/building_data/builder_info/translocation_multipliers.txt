@@ -1,0 +1,2 @@
+,value
+CLJU_RS21155-MONOMER,{'CLJU_c02440': 2.0}

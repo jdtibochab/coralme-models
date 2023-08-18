@@ -1,0 +1,4 @@
+complex_id,name,genes,mod,replace
+CLJU_RS15760-MONOMER,,,hmbil(1),
+YidC_mono,,CLJU_c42940(1),,
+Hyp_CPLX,,,zn2(1) AND ni2(1),

@@ -1,0 +1,4 @@
+codon	enzyme
+UAG	JCVISYN3A_0141-MONOMER
+UGA	CPLX_dummy
+UAA	generic_RF

@@ -1,0 +1,10 @@
+pathway	enzyme
+sec	G185E-7514-MONOMER
+tat	CPLX_dummy
+tat_alt	CPLX_dummy
+bam	CPLX_dummy
+lol	CPLX_dummy
+yidC	G185E-8219-MONOMER
+secA	G185E-7514-MONOMER
+srp_yidC	G185E-8219-MONOMER
+srp	G185E-7173-MONOMER

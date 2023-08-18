@@ -1,0 +1,3 @@
+lipid_mod	enzymes
+other_lipids	EG10168-MONOMER
+pg_pe_160	EG12128-MONOMER,EG10548-MONOMER

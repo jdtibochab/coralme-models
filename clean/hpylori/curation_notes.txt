@@ -1,0 +1,427 @@
+
+#################### critical@org.check_m_model ####################
+********** Some metabolites have a problematic formula. If these metabolites are used in protein modifications, or other subreactions, it will cause an error.
+The following items triggered the warning:
+ACP_c
+acACP_c
+myrsACP_c
+actACP_c
+malACP_c
+palmACP_c
+ocdcaACP_c
+octeACP_c
+c190cACP_c
+fdxox_c
+fdxrd_c
+kdolipid4_HP_c
+trdox_c
+trdrd_c
+glutrna_c
+trnaglu_c
+3hpalmACP_c
+3hoctaACP_c
+lipidX_HP_c
+lipidA_HP_c
+u2ga_HP_c
+
+**********Solution:
+Correct the formulas of the listed metabolites. Some metabolite formulas are critical for the completion of this pipeline. If homology is ON, this pipeline will try to fill in the formulas from the reference.
+
+
+
+
+#################### medium@org.read_gene_dictionary ####################
+********** Some genes are missing Accession-1 IDs in genes.txt
+The following items triggered the warning:
+G2DNV-43
+G2DNV-14
+G2DNV-15
+G2DNV-13
+
+**********Solution:
+Complete Accession-1 IDs in genes.txt if those genes are important.
+
+
+
+
+#################### medium@org.generate_complexes_df ####################
+********** Some proteins have no genes in proteins.txt
+The following items triggered the warning:
+ACP-MONOMER
+EG50003-MONOMER
+
+**********Solution:
+Fill genes in proteins.txt
+
+
+
+
+#################### critical@org.prune_genbank ####################
+********** Some features contain a sequence that is not divisible by 3.
+The following items triggered the warning:
+
+{"locus_tag": ["HP_RS00215"], "old_locus_tag": ["HP0039m", "HP_0040"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_014534167.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["TrbG/VirB9 family P-type conjugative transfer protein"], "location": "[38474:39453](+)"}
+
+{"locus_tag": ["HP_RS00220"], "old_locus_tag": ["HP0041"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_001045855.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["DNA type IV secretion system protein ComB10"], "location": "[39445:40581](+)"}
+
+{"locus_tag": ["HP_RS00265"], "old_locus_tag": ["HP0052", "HP_0052"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_000961290.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["HNH endonuclease"], "location": "[51093:52315](-)"}
+
+{"locus_tag": ["HP_RS00550"], "old_locus_tag": ["HP0108", "HP_0108"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_000848409.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["hypothetical protein"], "location": "[115530:116113](+)"}
+
+{"locus_tag": ["HP_RS00705"], "old_locus_tag": ["HP0143", "HP_0143"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_000595577.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["DASS family sodium-coupled anion symporter"], "location": "[154713:156164](-)"}
+
+{"locus_tag": ["HP_RS00990"], "old_locus_tag": ["HP0203", "HP_0203"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_017179729.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["hypothetical protein"], "location": "[207931:208233](+)"}
+
+{"locus_tag": ["HP_RS01020"], "old_locus_tag": ["HP0208", "HP_0208"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_001156395.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["glycosyltransferase family 8 protein"], "location": "[213392:214591](-)"}
+
+{"gene": ["hopG"], "locus_tag": ["HP_RS01250"], "old_locus_tag": ["HP0254", "HP_0254"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_010882503.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["Hop family outer membrane protein HopG"], "location": "[263194:264609](+)"}
+
+{"locus_tag": ["HP_RS01290"], "old_locus_tag": ["HP0262", "HP_0262"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_001905596.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["hypothetical protein"], "location": "[271110:271705](+)"}
+
+{"locus_tag": ["HP_RS01655"], "old_locus_tag": ["HP0336", "HP_0336"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_000840165.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["sel1 repeat family protein"], "location": "[349105:349652](+)"}
+
+{"locus_tag": ["HP_RS01685"], "old_locus_tag": ["HP0343"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_000488071.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["hypothetical protein"], "location": "[351987:352774](+)"}
+
+{"locus_tag": ["HP_RS01815"], "old_locus_tag": ["HP0369", "HP_0369"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_001193886.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["SAM-dependent methyltransferase"], "location": "[377321:378165](-)"}
+
+{"locus_tag": ["HP_RS02130"], "old_locus_tag": ["HP0428", "HP_0428"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_001162392.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["VWA domain-containing protein"], "location": "[449067:449707](+)"}
+
+{"locus_tag": ["HP_RS02135"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_000691352.1"], "note": ["frameshifted; internal stop; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["hypothetical protein"], "location": "[449801:450123](+)"}
+
+{"locus_tag": ["HP_RS02155"], "old_locus_tag": ["HP0434"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_000948031.1"], "note": ["frameshifted; incomplete; partial in the middle of a contig; missing C-terminus; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["AAA family ATPase"], "location": "[452158:>454230](+)"}
+
+{"locus_tag": ["HP_RS02200"], "old_locus_tag": ["HP0445"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_017282925.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["hypothetical protein"], "location": "[463844:464139](-)"}
+
+{"locus_tag": ["HP_RS07935"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_000016328.1"], "note": ["frameshifted; incomplete; partial in the middle of a contig; missing C-terminus; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["restriction endonuclease"], "location": "[468171:>468407](+)"}
+
+{"locus_tag": ["HP_RS02245"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_001140566.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["integrase"], "location": "[474043:474830](+)"}
+
+{"locus_tag": ["HP_RS02260"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_015085630.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["TrbC/VirB2 family protein"], "location": "[475530:475814](+)"}
+
+{"locus_tag": ["HP_RS02290"], "old_locus_tag": ["HP0463", "HP_0463"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_001916868.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["SAM-dependent DNA methyltransferase"], "location": "[481151:482782](-)"}
+
+{"locus_tag": ["HP_RS02380"], "old_locus_tag": ["HP0481", "HP_0481"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_001981311.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["DNA adenine methylase"], "location": "[504442:505371](+)"}
+
+{"locus_tag": ["HP_RS02490"], "old_locus_tag": ["HP0505"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_000052625.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["R.Pab1 family restriction endonuclease"], "location": "[531032:531787](+)"}
+
+{"locus_tag": ["HP_RS07870"], "old_locus_tag": ["HP_0521"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_000615993.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["cag pathogenicity island protein"], "location": "[547782:548141](+)"}
+
+{"locus_tag": ["HP_RS03005"], "old_locus_tag": ["HP0609"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_000222335.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["vacuolating cytotoxin domain-containing protein"], "location": "[647256:656818](+)"}
+
+{"locus_tag": ["HP_RS03135"], "old_locus_tag": ["HP0636", "HP_0636"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_001223763.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["hypothetical protein"], "location": "[683622:684017](-)"}
+
+{"locus_tag": ["HP_RS03290"], "old_locus_tag": ["HP0669"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_001953694.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["DEAD/DEAH box helicase"], "location": "[715088:719860](+)"}
+
+{"locus_tag": ["HP_RS03310"], "old_locus_tag": ["HP0673", "HP_0673"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_015056055.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["hypothetical protein"], "location": "[723552:725491](+)"}
+
+{"locus_tag": ["HP_RS03330"], "old_locus_tag": ["HP0679", "HP_0679"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_000895596.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["Gfo/Idh/MocA family oxidoreductase"], "location": "[728038:728987](-)"}
+
+{"gene": ["fliP"], "locus_tag": ["HP_RS03355"], "old_locus_tag": ["HP0684"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_001210302.1"], "note": ["The bacterial flagellar biogenesis protein FliP forms a type III secretion system (T3SS)-type pore required for flagellar assembly.; frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["flagellar type III secretion system pore protein FliP"], "location": "[734055:734803](+)"}
+
+{"locus_tag": ["HP_RS03370"], "old_locus_tag": ["HP0688"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_000882713.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["3'-5' exonuclease"], "location": "[739465:740277](+)"}
+
+{"locus_tag": ["HP_RS03475"], "old_locus_tag": ["HP0713"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_001106979.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["Fic family protein"], "location": "[767373:768077](+)"}
+
+{"locus_tag": ["HP_RS03505"], "old_locus_tag": ["HP0719"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_001232179.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["DUF1104 domain-containing protein"], "location": "[773176:773597](+)"}
+
+{"locus_tag": ["HP_RS03565"], "old_locus_tag": ["HP_0733"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_000790535.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["50S ribosome-binding GTPase"], "location": "[787386:789257](-)"}
+
+{"gene": ["rny"], "locus_tag": ["HP_RS03705"], "old_locus_tag": ["HP0760", "HP_0760"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_001953981.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["ribonuclease Y"], "location": "[814053:815567](-)"}
+
+{"locus_tag": ["HP_RS03930"], "old_locus_tag": ["HP0807", "HP_0807"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_001014866.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["TonB-dependent receptor family protein"], "location": "[860979:863357](-)"}
+
+{"locus_tag": ["HP_RS04085"], "old_locus_tag": ["HP0836"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_001236579.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["LPP20 family lipoprotein"], "location": "[888476:889081](+)"}
+
+{"locus_tag": ["HP_RS04130"], "old_locus_tag": ["HP0846", "HP_0846"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_002207687.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["type I restriction endonuclease subunit R"], "location": "[896842:899835](-)"}
+
+{"locus_tag": ["HP_RS04135"], "old_locus_tag": ["HP0848", "HP_0848"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_001033119.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["restriction endonuclease subunit S"], "location": "[899836:901125](-)"}
+
+{"locus_tag": ["HP_RS07925"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_001879636.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["type I restriction endonuclease"], "location": "[902664:902857](-)"}
+
+{"locus_tag": ["HP_RS04250"], "old_locus_tag": ["HP0871", "HP_0871"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_001943711.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["CDP-diacylglycerol diphosphatase"], "location": "[922780:923670](-)"}
+
+{"locus_tag": ["HP_RS04285"], "old_locus_tag": ["HP0879", "HP_0879"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_001938774.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["NYN domain-containing protein"], "location": "[930390:931123](+)"}
+
+{"locus_tag": ["HP_RS04295"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_017179887.1"], "note": ["frameshifted; incomplete; partial in the middle of a contig; missing N-terminus; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["hypothetical protein"], "location": "[932212:>932445](-)"}
+
+{"locus_tag": ["HP_RS04410"], "old_locus_tag": ["HP0903m", "HP_0903"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_000404850.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["acetate kinase"], "location": "[953460:954661](-)"}
+
+{"locus_tag": ["HP_RS04415"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_015427995.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["phosphotransacetylase"], "location": "[954678:955217](-)"}
+
+{"locus_tag": ["HP_RS04420"], "old_locus_tag": ["HP_0905"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_001875406.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["phosphate acetyltransferase"], "location": "[955260:956225](-)"}
+
+{"locus_tag": ["HP_RS04470"], "old_locus_tag": ["HP0915", "HP_0915"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_000998502.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["TonB-dependent receptor"], "location": "[971027:973465](-)"}
+
+{"locus_tag": ["HP_RS04540"], "old_locus_tag": ["HP0931", "HP_0931"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_000041803.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["hypothetical protein"], "location": "[993512:994171](+)"}
+
+{"locus_tag": ["HP_RS04560"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_001880022.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["outer membrane beta-barrel protein"], "location": "[996130:996369](+)"}
+
+{"locus_tag": ["HP_RS07945"], "old_locus_tag": ["HP_0938"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_001917297.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["DUF262 domain-containing protein"], "location": "[999152:999544](-)"}
+
+{"locus_tag": ["HP_RS04720"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_000993630.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["dynamin-like GTPase family protein"], "location": "[1022248:1024581](-)"}
+
+{"locus_tag": ["HP_RS04815"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_001106463.1"], "note": ["frameshifted; incomplete; partial in the middle of a contig; missing C-terminus; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["DNA adenine methylase"], "location": "[1046763:>1046893](+)"}
+
+{"locus_tag": ["HP_RS04870"], "old_locus_tag": ["HP_0992"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_001892436.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["hypothetical protein"], "location": "[1054260:1054615](-)"}
+
+{"locus_tag": ["HP_RS04925"], "old_locus_tag": ["HP1003"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_001162756.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["relaxase/mobilization nuclease domain-containing protein"], "location": "[1064964:1066874](-)"}
+
+{"locus_tag": ["HP_RS04935"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_000921938.1"], "note": ["frameshifted; internal stop; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["YafQ family addiction module toxin"], "location": "[1067462:1067745](+)"}
+
+{"locus_tag": ["HP_RS04945"], "old_locus_tag": ["HP1007", "HP_1007"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_000867435.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["transposase"], "location": "[1068601:1069929](-)"}
+
+{"locus_tag": ["HP_RS04955"], "old_locus_tag": ["HP1009", "HP_1009"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_000749463.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["tyrosine-type recombinase/integrase"], "location": "[1070507:1071303](-)"}
+
+{"locus_tag": ["HP_RS05005"], "old_locus_tag": ["HP1018", "HP_1019"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_001936943.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["DegQ family serine endoprotease"], "location": "[1081436:1082868](+)"}
+
+{"locus_tag": ["HP_RS05540"], "old_locus_tag": ["HP1127", "HP_1127"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_000045062.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["TonB C-terminal domain-containing protein"], "location": "[1192012:1192838](-)"}
+
+{"locus_tag": ["HP_RS05630"], "old_locus_tag": ["HP1145"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_000415853.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["NYN domain-containing protein"], "location": "[1209830:1210618](-)"}
+
+{"locus_tag": ["HP_RS06005"], "old_locus_tag": ["HP1215", "HP_1216"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_000640999.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["LPS-assembly protein LptD"], "location": "[1291325:1293586](-)"}
+
+{"locus_tag": ["HP_RS06210"], "old_locus_tag": ["HP1259", "HP_1259"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_003017056.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["NAD-dependent deacylase"], "location": "[1333020:1333711](+)"}
+
+{"locus_tag": ["HP_RS07965"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_017284303.1"], "note": ["frameshifted; incomplete; partial in the middle of a contig; missing N-terminus; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["type II restriction endonuclease"], "location": "[1358834:>1358946](-)"}
+
+{"locus_tag": ["HP_RS06900"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_001895920.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["DUF262 domain-containing protein"], "location": "[1456777:1458467](-)"}
+
+{"locus_tag": ["HP_RS06940"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_000051953.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["hypothetical protein"], "location": "[1470554:1470952](+)"}
+
+{"locus_tag": ["HP_RS07055"], "old_locus_tag": ["HP1425", "HP_1426"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_001925935.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["outer membrane beta-barrel protein"], "location": "[1495811:1496638](-)"}
+
+{"locus_tag": ["HP_RS07120"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_000368674.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["hypothetical protein"], "location": "[1510187:1510638](+)"}
+
+{"locus_tag": ["HP_RS07425"], "old_locus_tag": ["HP1499", "HP_1499"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_000536035.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["restriction endonuclease"], "location": "[1571851:1572768](+)"}
+
+{"locus_tag": ["HP_RS07515"], "old_locus_tag": ["HP1519"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_001939873.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["hypothetical protein"], "location": "[1594907:1597062](-)"}
+
+{"locus_tag": ["HP_RS07525"], "old_locus_tag": ["HP1522", "HP_1522"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_001179842.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["site-specific DNA-methyltransferase"], "location": "[1600101:1602038](-)"}
+
+{"gene": ["flgB"], "locus_tag": ["HP_RS07715"], "old_locus_tag": ["HP1559", "HP_1559"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_001053157.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["flagellar basal body rod protein FlgB"], "location": "[1640953:1641411](-)"}
+
+{"locus_tag": ["HP_RS07850"], "old_locus_tag": ["HP_1587"], "inference": ["COORDINATES: similar to AA sequence:RefSeq:WP_001893937.1"], "note": ["frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."], "pseudo": [""], "codon_start": ["1"], "transl_table": ["11"], "product": ["ubiquinol-cytochrome C chaperone"], "location": "[1664721:1665191](-)"}
+
+**********Solution:
+Check whether any of these genes are translated in your final ME-model. If so, fix the positions of the gene in genome_modified.gb
+
+
+
+
+#################### medium@org.update_genbank_from_files ####################
+********** Could not add some genes in genes.txt to genbank.gb since they lack position information
+The following items triggered the warning:
+G2DNV-14
+G2DNV-15
+G2DNV-13
+
+**********Solution:
+Fill in position information in genes.txt
+
+
+
+
+#################### critical@org.get_rpod ####################
+********** RpoD randomly assigned to HP_RS03480-MONOMER
+
+**********Solution:
+genome.gb does not have a valid annotation for RpoD. A random identified sigma factor in me_builder.org.sigmas was set as RpoD so that the builder can continue running. Set the correct RpoD by running me_builder.org.rpod = correct_rpod
+
+
+
+
+#################### high@org.get_rna_polymerase ####################
+********** CPLX2DNV-976 was identified as RNA polymerase
+
+**********Solution:
+Check whether you need to correct RNAP by running me_builder.org.get_rna_polymerase(force_RNAP_as=correct_RNAP)
+
+
+
+
+#################### high@org.get_trna_synthetase ####################
+********** No tRNA ligases were found for some amino acids. Assigned CPLX_dummy.
+The following items triggered the warning:
+asn__L_c
+gln__L_c
+thr__L_c
+
+**********Solution:
+Check whether your organism should have a ligase for these amino acids, or if you need to add a reaction to get it (e.g. tRNA amidotransferases)
+
+
+
+
+#################### high@org.purge_genes_in_model ####################
+********** Some genes in M-model were not found in genes.txt or genome.gb. These genes will be skipped in reconstruction.
+The following items triggered the warning:
+HP0093
+
+**********Solution:
+Confirm the gene is correct in the m_model. If so, add it to genes.txt
+
+
+
+
+#################### high@prepare_model ####################
+********** NGAM could not be identified in M-model, setting a standard value of 1.
+
+**********Solution:
+Manually define NGAM with me_builder.org.NGAM = NGAM_value. Check if a reaction with identifier NGAM or ATPM has a zero or negative lower bound.
+
+
+
+
+#################### medium@org.get_complex_homology ####################
+********** Some complexes were partial hits in the BLAST
+The following items triggered the warning:
+
+{"complex": "HP_RS03120-MONOMER", "reference_complex": "FORMHYDROGI-CPLX"}
+
+{"complex": "HP_RS03885-MONOMER", "reference_complex": "EG11595-MONOMER_EG11666-MONOMER"}
+
+{"complex": "HP_RS06105-MONOMER", "reference_complex": "CARBPSYN-CPLX"}
+
+{"complex": "HP_RS01490-MONOMER", "reference_complex": "ABC-8-CPLX"}
+
+{"complex": "HP_RS03335-MONOMER", "reference_complex": "RIBONUCLEOSIDE-DIP-REDUCTI-CPLX"}
+
+{"complex": "HP_RS07190-MONOMER", "reference_complex": "MnmEG_cplx"}
+
+{"complex": "HP_RS02745-MONOMER", "reference_complex": "ACETYL-COA-CARBOXYLMULTI-CPLX"}
+
+{"complex": "HP_RS04755-MONOMER", "reference_complex": "Gly_RS_tetra"}
+
+{"complex": "HP_RS06305-MONOMER", "reference_complex": "TRYPSYN"}
+
+{"complex": "HP_RS04315-MONOMER", "reference_complex": "CPLX0-3951_G6561-MONOMER"}
+
+{"complex": "HP_RS07800-MONOMER", "reference_complex": "METNIQ-METHIONINE-ABC-CPLX"}
+
+{"complex": "HP_RS06325-MONOMER", "reference_complex": "ANTHRANSYN-CPLX"}
+
+{"complex": "HP_RS01980-MONOMER", "reference_complex": "Phe_RS_tetra"}
+
+{"complex": "HP_RS03380-MONOMER", "reference_complex": "ACETOACETYL-COA-TRANSFER-CPLX"}
+
+{"complex": "CPLX2DNV-967", "reference_complex": "MnmG_dim"}
+
+{"complex": "CPLX_CPPPGO-0", "reference_complex": "HEMN-MONOMER"}
+
+{"complex": "CPLX_DHORTS-0", "reference_complex": "DIHYDROOROT-CPLX"}
+
+{"complex": "CPLX_DHORTS-0", "reference_complex": "CPLX-64"}
+
+{"complex": "CPLX_C140SN-0", "reference_complex": "FABZ-CPLX"}
+
+{"complex": "CPLX_C140SN-0", "reference_complex": "3-OXOACYL-ACP-REDUCT-MONOMER"}
+
+{"complex": "CPLX_C140SN-0", "reference_complex": "3-OXOACYL-ACP-SYNTHII-CPLX"}
+
+{"complex": "CPLX_C140SN-0", "reference_complex": "ENOYL-ACP-REDUCT-NADH-MONOMER"}
+
+{"complex": "CPLX_RBFSa-0", "reference_complex": "LUMAZINESYN-CPLX"}
+
+{"complex": "CPLX_RBFSa-0", "reference_complex": "CPLX0-3952"}
+
+**********Solution:
+Curate these manually in protein_corrections.txt
+
+
+
+
+#################### medium@update_me_mets ####################
+********** Some metabolites in me_metabolites.txt are not in m_model, so they were skipped.
+The following items triggered the warning:
+sufbcd_2fe2s_c
+sufbcd_2fe2s2_c
+sufbcd_4fe4s_c
+iscu_2fe2s_c
+iscu_2fe2s2_c
+iscu_4fe4s_c
+
+**********Solution:
+Confirm these metabolites are correctly defined in me_metabolites.txt
+
+
+
+
+#################### medium@update_ribosome_subreactions_from_homology ####################
+********** Some enzymes defined in me_builder.org.ribosome_subreactions are different from the ones inferred from homology
+The following items triggered the warning:
+
+{"subreaction": "gtp_bound_30S_assembly_factor_phase1", "defined_complex": "", "inferred_complex": "HP_RS02550-MONOMER"}
+
+**********Solution:
+Confirm whether the definitions or homology calls are correct in me_builder.org.ribosome_subreactions. Curate the inputs in ribosome_subreactions.txt accordingly.
+
+
+
+
+#################### medium@update_peptide_release_factors_from_homology ####################
+********** Some enzymes defined in me_builder.org.peptide_release_factors are different from the ones inferred from homology
+The following items triggered the warning:
+
+{"subreaction": "UAG", "defined_complex": "", "inferred_complex": "HP_RS00395-MONOMER"}
+
+{"subreaction": "UGA", "defined_complex": "", "inferred_complex": "HP_RS00835-MONOMER"}
+
+**********Solution:
+Confirm whether the definitions or homology calls are correct in me_builder.org.peptide_release_factors. Curate the inputs in peptide_release_factors.txt accordingly.
+
+
+
+
+#################### medium@check ####################
+********** Some metabolites in me_metabolites.txt need curation
+The following items triggered the warning:
+c190cACP_c
+LI_c
+sufbcd_c
+sufse_c
+sufsesh_c
+dsbard_p
+dsbaox_p
+dsbcrd_p
+dsbcox_p
+dsbdrd_c
+dsbdox_c
+dsbgrd_p
+dsbgox_p
+lpp_p
+alpp_p
+moadamp_c
+moadcoo_c
+moadcosh_c
+3hcpalm9eACP_c
+3ocpalm9eACP_c
+grxrd_c
+grxox_c
+iscssh_c
+
+**********Solution:
+Map or remove these metabolites in me_metabolites.txt
+
+
+
+
+#################### critical@troubleshoot ####################
+********** Some metabolites are necessary for growth
+The following items triggered the warning:
+TS_thmpp_c
+TS_4fe4s_c
+TS_fe3_c
+TS_fad_c
+TS_mn2_c
+TS_k_c
+TS_zn2_c
+TS_cobalt2_c
+TS_mg2_c
+TS_pydx5p_c
+TS_hemed_c
+
+**********Solution:
+Fix the gaps by adding reactions or solving other warnings. If some items are from the E-matrix, fix these first!
+
+
+

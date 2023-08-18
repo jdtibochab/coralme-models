@@ -1,0 +1,89 @@
+
+cu_c	cu_c	Copper(+1)	Cu	Cytoplasm	MOD
+cd2_c	cd2_c	Cadmium(+2)	Cd	Cytoplasm	MOD
+btn_c	btn_c	Biotin	C10H16N2O3S	Cytoplasm	MOD
+lipoate_c	lipoate_c	Lipoate	C8H14O2S2	Cytoplasm	MOD
+lipoyl_c	lipoyl_c	Lipoate	C8H14O2S2	Cytoplasm	MOD
+tl_c	tl_c	thallium ion	Tl	Cytoplasm	REPLACE
+cs_c	cs_c	cesium ion	Cs	Cytoplasm	MOD
+cs_p	cs_p	cesium ion	Cs	Periplasm	MOD
+cs_e	cs_e	cesium ion	Cs	Extracellular	MOD
+li_c	li_c	lithium ion	Li	Cytoplasm	REPLACE
+23bpg_c	23bpg_c	2,3-Bisphospho-D-glycerate	C3H8O10P2	Cytoplasm	MOD
+
+dpm_c	dpm_c	Dipyrromethane	C20H28N4O8	Cytoplasm	MOD
+hemed_c	hemed_c	heme D	C34H32N4O6Fe	Cytoplasm	MOD
+kdo2lipid4L_c	kdo2lipid4L_c	KDO(2)-lipid IV(A) with laurate	C96H170N2O38P2	Cytoplasm	MOD
+kdo2lipid4p_c	kdo2lipid4p_c	KDO(2)-lipid IV(A) with palmitoleoyl	C100H176N2O38P2	Cytoplasm	MOD
+pqq_c	pqq_c	pyrroloquinoline quinone	C14H3N2O8	Cytoplasm	MOD
+pqq_e	pqq_c	pyrroloquinoline quinone	C14H3N2O8	Extracellular	MOD
+
+sufbcd_c	CPLX0-1341	SufBC2D Fe-S cluster scaffold complex		Cytoplasm	MOD
+sufbcd__2fe2s_c	CPLX0-1341_mod_2fe2s(1)	SufBC2D Fe-S cluster scaffold complex		Cytoplasm	MOD
+sufbcd__2fe2s2_c	CPLX0-1341_mod_2fe2s(2)	SufBC2D Fe-S cluster scaffold complex		Cytoplasm	MOD
+sufbcd__4fe4s_c	CPLX0-1341_mod_4fe4s(1)	SufBC2D Fe-S cluster scaffold complex		Cytoplasm	MOD
+
+FeCO_c	FeCO_c	[NiFe]-dehydrogenase cofactor precursor	FeCO	Cytoplasm	MOD
+NiFeCOCN2_c	NiFe_cofactor_c	[NiFe]-dehydrogenase cofactor	NiFeCOC2N2	Cytoplasm	MOD
+
+Oxidized	Oxidized	Oxidized state in electron carrier			MOD
+Reduced	Reduced	Reduced state in electron carrier	H2		MOD
+2fe2s	2fe2s	[2Fe-2S] cluster	Fe2S2	Cytoplasm	MOD
+4fe4s	4fe4s	[4Fe-4S] cluster	Fe4S4	Cytoplasm	MOD
+3fe4s	3fe4s	[3Fe-4S] cluster	Fe3S4	Cytoplasm	MOD
+2fe1s	2fe1s	[2Fe-1S] cluster	Fe2S1	Cytoplasm	MOD
+SH	SH	Sulfur in a [enzyme]-S-sulfanylcysteine	S	Cytoplasm	MOD
+
+samdhl	samdhl	S8-aminomethyldihydrolipoyl	C9H20NO2S2	Cytoplasm	MOD
+dhl	dhl	Dihydrolipoyl	C8H16O2S2	Cytoplasm	MOD
+
+#dsbdox_c
+#dsbdrd_c
+#iscs_c
+#iscssh_c
+#iscu_c
+#sufbcd_c
+#sufbcd__2fe2s_c
+#sufbcd__2fe2s2_c
+#sufbcd__4fe4s_c
+#sufse_c
+#sufsesh_c
+#alpp_p
+#dsbaox_p
+#dsbard_p
+#dsbcox_p
+#dsbcrd_p
+#dsbgox_p
+#dsbgrd_p
+#lpp_p
+
+#hemed_c
+
+#coo_c
+#cosh_c
+#glycyl_c
+
+#fdox_c	Fd_mod_4fe4s(1)_mod_Oxidized(2)	An oxidized 2[4Fe-4S] ferredoxin		Cytoplasm	MOD
+#fdred_c	Fd_mod_4fe4s(1)	A reduced 2[4Fe-4S] ferredoxin		Cytoplasm	MOD
+#fdxo_2_2_c	Fd_mod_2fe2s(1)_mod_Oxidized(1)	An oxidized [2Fe-2S] ferredoxin		Cytoplasm	MOD
+#fdxrd_c	Fd_mod_2fe2s(1)	A reduced [2Fe-2S] ferredoxin		Cytoplasm	MOD
+
+trdox_c	OX-THIOREDOXIN-MONOMER	oxidized thioredoxin		Cytoplasm	MOD
+trdrd_c	RED-THIOREDOXIN-MONOMER	thioredoxin 1 (Reduced)		Cytoplasm	MOD
+grxox_c	CPLX0-7817_mod_Oxidized(1)	A glutaredoxin-glutathione disulfide		Cytoplasm	MOD
+grxrd_c	CPLX0-7817	glutaredoxin 4		Cytoplasm	MOD
+flxso_c	FLAVODOXIN2-MONOMER	flavodoxin 2		Cytoplasm	MOD
+flxr_c	FLAVODOXIN2-MONOMER_mod_Oxidized(1)	oxidized flavodoxin 2		Cytoplasm	MOD
+
+#pcox_l	PC_mod_cu2(1)	Plastocyanin(Cu+2)		Thylakoid Lumen	MOD
+#pcrd_l	PC_mod_cu2(1)_mod_Reduced(1)	Plastocyanin(Cu+1)		Thylakoid Lumen	MOD
+#pcox_p	PC_mod_cu2(1)	Plastocyanin(Cu+2)		Periplasm	MOD
+#pcrd_p	PC_mod_cu2(1)_mod_Reduced(1)	Plastocyanin(Cu+1)		Periplasm	MOD
+#focytc6_l	cytc6_mod_fe2(1)	Ferrocytochrome c6		Thylakoid Lumen	MOD
+#ficytc6_l	cytc6_mod_fe2(1)_mod_Oxidized(1)	Ferricytochrome c6		Thylakoid Lumen	MOD
+#focytc6_p	cytc6_mod_fe2(1)	Ferrocytochrome c6		Plasma Membrane	MOD
+#ficytc6_p	cytc6_mod_fe2(1)_mod_Oxidized(1)	Ferricytochrome c6		Plasma Membrane	MOD
+
+#lprot_c	GCVMULTI-CPLX_mod_lipoyl(1)	[Lipoyl-carrier protein]-N6-(lipoyl)lysine		Cytoplasm	MOD
+#samprot_c	GCVMULTI-CPLX_mod_samdhl(1)	[Protein]-S8-aminomethyldihydrolipoyllysine		Cytoplasm	MOD
+#dhlprot_c	GCVMULTI-CPLX_mod_dhl(1)	[Lipoyl-carrier protein]-N6-[(R)-dihydrolipoyl]-L-lysine		Cytoplasm	MOD

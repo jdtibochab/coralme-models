@@ -1,0 +1,5 @@
+,value
+RNA_degradosome,"{'enzymes': ['CLJU_RS19255-MONOMER_mod_mg2(4)', 'CLJU_RS06485-MONOMER']}"
+monocistronic,"{'enzymes': ['RNase_P', 'generic_RNase']}"
+polycistronic_wout_rRNA,"{'enzymes': ['RNase_P', 'generic_RNase']}"
+rRNA_containing,"{'enzymes': ['RnmV_mono', 'RNase_P', 'generic_RNase']}"

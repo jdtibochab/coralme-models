@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "org",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "ypestis//blast_files_and_results//org.faa",
+  "number-of-letters": 1235422,
+  "number-of-sequences": 3760,
+  "last-updated": "2023-02-09T20:38:00",
+  "number-of-volumes": 1,
+  "bytes-total": 1633301,
+  "bytes-to-cache": 1269383,
+  "files": [
+    "org.pdb",
+    "org.phr",
+    "org.pin",
+    "org.pot",
+    "org.psq",
+    "org.ptf",
+    "org.pto"
+  ]
+}

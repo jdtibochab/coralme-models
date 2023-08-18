@@ -1,0 +1,3 @@
+,value
+other_lipids,[]
+pg_pe_160,"['LLMG_RS03030-MONOMER', 'LLMG_RS07675-MONOMER']"

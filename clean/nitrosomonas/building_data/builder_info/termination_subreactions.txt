@@ -1,0 +1,10 @@
+,value
+DnaK_dependent_folding,"{'enzymes': ['ALW85_RS10140-MONOMER', 'ALW85_RS10135-MONOMER_mod_zn2(4)', 'ALW85_RS10145-MONOMER']}"
+GroEL_dependent_folding,"{'enzymes': ['ALW85_RS00155-MONOMER', 'ALW85_RS00150-MONOMER']}"
+N_terminal_methionine_cleavage,{'enzymes': ['ALW85_RS01455-MONOMER_mod_fe2(2)']}
+PrfA_mono_mediated_termination,{'enzymes': ['ALW85_RS09960-MONOMER']}
+PrfB_mono_mediated_termination,{'enzymes': ['ALW85_RS06390-MONOMER']}
+generic_RF_mediated_termination,{'enzymes': ['generic_RF']}
+peptide_chain_release,{'enzymes': ['ALW85_RS12940-MONOMER']}
+peptide_deformylase_processing,{'enzymes': ['ALW85_RS10250-MONOMER_mod_fe2(1)']}
+ribosome_recycler,{'enzymes': ['ALW85_RS08925-MONOMER']}

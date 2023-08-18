@@ -1,0 +1,1601 @@
+{
+    "org.check_m_model": [
+        {
+            "msg": "Some metabolites have a problematic formula. If these metabolites are used in protein modifications, or other subreactions, it will cause an error.",
+            "triggered_by": [
+                "3haACP_c",
+                "3hcddec5eACP_c",
+                "3hcmrs7eACP_c",
+                "3hcpalm9eACP_c",
+                "3hcvac11eACP_c",
+                "3hddecACP_c",
+                "3hdecACP_c",
+                "3hhexACP_c",
+                "3hmrsACP_c",
+                "3hoctACP_c",
+                "3hoctaACP_c",
+                "3hpalmACP_c",
+                "3ocddec5eACP_c",
+                "3ocmrs7eACP_c",
+                "3ocpalm9eACP_c",
+                "3ocvac11eACP_c",
+                "3oddecACP_c",
+                "3odecACP_c",
+                "3ohexACP_c",
+                "3omrsACP_c",
+                "3ooctACP_c",
+                "3ooctdACP_c",
+                "3opalmACP_c",
+                "ACP_c",
+                "acACP_c",
+                "actACP_c",
+                "alpro_c",
+                "but2eACP_c",
+                "butACP_c",
+                "cddec5eACP_c",
+                "cdec3eACP_c",
+                "dcaACP_c",
+                "ddcaACP_c",
+                "dhlpro_c",
+                "fdxo_42_c",
+                "fdxr_42_c",
+                "glutrna_c",
+                "hdeACP_c",
+                "hexACP_c",
+                "iletrna_c",
+                "leutrna_c",
+                "lpro_c",
+                "malACP_c",
+                "mettrna_c",
+                "myrsACP_c",
+                "ocACP_c",
+                "ocdcaACP_c",
+                "octeACP_c",
+                "palmACP_c",
+                "phetrna_c",
+                "sertrna_c",
+                "t3c11vaceACP_c",
+                "t3c5ddeceACP_c",
+                "t3c7mrseACP_c",
+                "t3c9palmeACP_c",
+                "tddec2eACP_c",
+                "tdeACP_c",
+                "tdec2eACP_c",
+                "thex2eACP_c",
+                "tmrs2eACP_c",
+                "toct2eACP_c",
+                "toctd2eACP_c",
+                "tpalm2eACP_c",
+                "trdox_c",
+                "trdrd_c",
+                "trnaglu_c",
+                "trnaile_c",
+                "trnaleu_c",
+                "trnamet_c",
+                "trnaphe_c",
+                "trnaser_c",
+                "trnaval_c",
+                "valtrna_c",
+                "pimACP_c",
+                "dsbdrd_c",
+                "dsbdox_c",
+                "gmeACP_c",
+                "egmeACP_c",
+                "pmeACP_c",
+                "epmeACP_c",
+                "grxrd_c",
+                "grxox_c",
+                "iscu_2fe2s_c",
+                "iscu_c",
+                "iscu_4fe4s_c",
+                "moadamp_c",
+                "moadcoo_c",
+                "hgmeACP_c",
+                "ogmeACP_c",
+                "hpmeACP_c",
+                "opmeACP_c",
+                "sufbcd_2fe2s_c",
+                "sufsesh_c",
+                "sufse_c",
+                "sufbcd_c",
+                "sufbcd_2fe2s2_c",
+                "sufbcd_4fe4s_c",
+                "iscssh_c",
+                "iscs_c",
+                "apoACP_c",
+                "trnaala_c",
+                "alatrna_c",
+                "asptrna_c",
+                "trnaasp_c",
+                "trnacys_c",
+                "cystrna_c",
+                "fmettrna_c",
+                "trnagln_c",
+                "glntrna_c",
+                "trnagly_c",
+                "glytrna_c",
+                "histrna_c",
+                "trnahis_c",
+                "trnalys_c",
+                "lystrna_c",
+                "protrna_c",
+                "trnapro_c",
+                "trnasecys_c",
+                "sertrna_sec_c",
+                "trnathr_c",
+                "thrtrna_c"
+            ],
+            "importance": "critical",
+            "to_do": "Correct the formulas of the listed metabolites. Some metabolite formulas are critical for the completion of this pipeline. If homology is ON, this pipeline will try to fill in the formulas from the reference."
+        },
+        {
+            "msg": "Some reactions are missing their subsystem",
+            "triggered_by": [
+                "4HTHRS",
+                "BTDD_RR",
+                "CYTK1",
+                "CYTK2",
+                "DTMPK",
+                "FACOAL140",
+                "FBA3",
+                "GHMT2r",
+                "GK2",
+                "GTPCII",
+                "LDH_D",
+                "PPA",
+                "PPAKr",
+                "PTA2",
+                "RNDR4",
+                "RNTR1",
+                "RNTR2",
+                "RNTR3",
+                "TMDS",
+                "NADS1",
+                "UREAtex",
+                "UREAtpp",
+                "AMAOTr"
+            ],
+            "importance": "high",
+            "to_do": "Make sure the subsystems of these reactions are correct"
+        }
+    ],
+    "org.prune_genbank": [
+        {
+            "msg": "Some features contain a sequence that is not divisible by 3.",
+            "triggered_by": [
+                {
+                    "gene": [
+                        "ispG"
+                    ],
+                    "locus_tag": [
+                        "ALW85_RS00780"
+                    ],
+                    "old_locus_tag": [
+                        "RK28_RS00785"
+                    ],
+                    "gene_synonym": [
+                        "gcpE"
+                    ],
+                    "inference": [
+                        "COORDINATES: protein motif:HMM:NF016438.2"
+                    ],
+                    "GO_function": [
+                        "GO:0046429 - 4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase activity [Evidence IEA]"
+                    ],
+                    "GO_process": [
+                        "GO:0044237 - cellular metabolic process [Evidence IEA]"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "flavodoxin-dependent (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase"
+                    ],
+                    "location": "[173006:174160](+)"
+                },
+                {
+                    "locus_tag": [
+                        "ALW85_RS14330"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_076611727.1"
+                    ],
+                    "note": [
+                        "frameshifted; internal stop; incomplete; partial in the middle of a contig; missing N-terminus and C-terminus; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "IS5/IS1182 family transposase"
+                    ],
+                    "location": "[<180127:>180338](+)"
+                },
+                {
+                    "locus_tag": [
+                        "ALW85_RS00850"
+                    ],
+                    "old_locus_tag": [
+                        "NE0163",
+                        "RK28_RS00855"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_076611295.1"
+                    ],
+                    "GO_process": [
+                        "GO:0006313 - transposition, DNA-mediated [Evidence IEA]"
+                    ],
+                    "note": [
+                        "frameshifted; incomplete; partial in the middle of a contig; missing C-terminus; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "transposase"
+                    ],
+                    "location": "[<200801:201205](-)"
+                },
+                {
+                    "locus_tag": [
+                        "ALW85_RS13840"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_003158684.1"
+                    ],
+                    "note": [
+                        "frameshifted; internal stop; incomplete; partial in the middle of a contig; missing N-terminus and C-terminus; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "TraI domain-containing protein"
+                    ],
+                    "location": "[<318242:>318366](+)"
+                },
+                {
+                    "locus_tag": [
+                        "ALW85_RS13860"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_086558164.1"
+                    ],
+                    "GO_function": [
+                        "GO:0004803 - transposase activity [Evidence IEA]"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "IS5 family transposase"
+                    ],
+                    "location": "[380951:381726](-)"
+                },
+                {
+                    "gene": [
+                        "rng"
+                    ],
+                    "locus_tag": [
+                        "ALW85_RS01875"
+                    ],
+                    "old_locus_tag": [
+                        "NE0355",
+                        "RK28_RS01875"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_011312949.1"
+                    ],
+                    "GO_function": [
+                        "GO:0004540 - ribonuclease activity [Evidence IEA]"
+                    ],
+                    "GO_process": [
+                        "GO:0006396 - RNA processing [Evidence IEA]"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "ribonuclease G"
+                    ],
+                    "location": "[397627:399080](-)"
+                },
+                {
+                    "locus_tag": [
+                        "ALW85_RS13510"
+                    ],
+                    "old_locus_tag": [
+                        "NE0519"
+                    ],
+                    "inference": [
+                        "COORDINATES: protein motif:HMM:NF033580.1"
+                    ],
+                    "GO_function": [
+                        "GO:0004803 - transposase activity [Evidence IEA]"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "IS5 family transposase"
+                    ],
+                    "location": "[556780:557529](+)"
+                },
+                {
+                    "locus_tag": [
+                        "ALW85_RS13515"
+                    ],
+                    "old_locus_tag": [
+                        "NE0561"
+                    ],
+                    "inference": [
+                        "COORDINATES: protein motif:HMM:NF033580.1"
+                    ],
+                    "GO_function": [
+                        "GO:0004803 - transposase activity [Evidence IEA]"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "IS5 family transposase"
+                    ],
+                    "location": "[607647:608396](+)"
+                },
+                {
+                    "locus_tag": [
+                        "ALW85_RS03475"
+                    ],
+                    "old_locus_tag": [
+                        "NE0662",
+                        "RK28_RS03465"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_011112293.1"
+                    ],
+                    "GO_function": [
+                        "GO:0004803 - transposase activity [Evidence IEA]"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "IS982 family transposase"
+                    ],
+                    "location": "[719008:719885](+)"
+                },
+                {
+                    "locus_tag": [
+                        "ALW85_RS03730"
+                    ],
+                    "old_locus_tag": [
+                        "NE0714",
+                        "RK28_RS03720"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_007635327.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "IS481-like element ISNe2 family transposase"
+                    ],
+                    "location": "[771265:772217](+)"
+                },
+                {
+                    "locus_tag": [
+                        "ALW85_RS04895"
+                    ],
+                    "old_locus_tag": [
+                        "NE0935",
+                        "RK28_RS04885"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_011112884.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "IS481-like element ISNe2 family transposase"
+                    ],
+                    "location": "[1021049:1022083](-)"
+                },
+                {
+                    "locus_tag": [
+                        "ALW85_RS13585"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_011112293.1"
+                    ],
+                    "GO_function": [
+                        "GO:0004803 - transposase activity [Evidence IEA]"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "IS982 family transposase"
+                    ],
+                    "location": "[1230528:1231409](-)"
+                },
+                {
+                    "locus_tag": [
+                        "ALW85_RS07030"
+                    ],
+                    "old_locus_tag": [
+                        "NE1347",
+                        "RK28_RS07025"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_011110809.1"
+                    ],
+                    "GO_function": [
+                        "GO:0004803 - transposase activity [Evidence IEA]"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "IS481 family transposase"
+                    ],
+                    "location": "[1474935:1475978](+)"
+                },
+                {
+                    "locus_tag": [
+                        "ALW85_RS07155"
+                    ],
+                    "old_locus_tag": [
+                        "NE1366",
+                        "RK28_RS07150"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_011110809.1"
+                    ],
+                    "GO_function": [
+                        "GO:0004803 - transposase activity [Evidence IEA]"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "IS481 family transposase"
+                    ],
+                    "location": "[1488438:1489481](+)"
+                },
+                {
+                    "gene": [
+                        "galU"
+                    ],
+                    "locus_tag": [
+                        "ALW85_RS07240"
+                    ],
+                    "old_locus_tag": [
+                        "NE1382",
+                        "RK28_RS07235"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_004174127.1"
+                    ],
+                    "GO_function": [
+                        "GO:0003983 - UTP:glucose-1-phosphate uridylyltransferase activity [Evidence IEA]"
+                    ],
+                    "GO_process": [
+                        "GO:0009225 - nucleotide-sugar metabolic process [Evidence IEA]"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "UTP--glucose-1-phosphate uridylyltransferase GalU"
+                    ],
+                    "location": "[1503152:1504044](-)"
+                },
+                {
+                    "locus_tag": [
+                        "ALW85_RS14445"
+                    ],
+                    "old_locus_tag": [
+                        "NE1534"
+                    ],
+                    "inference": [
+                        "COORDINATES: protein motif:HMM:NF014043.2"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "DUF86 domain-containing protein"
+                    ],
+                    "location": "[1669150:1669353](-)"
+                },
+                {
+                    "locus_tag": [
+                        "ALW85_RS14010"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_076611301.1"
+                    ],
+                    "note": [
+                        "frameshifted; incomplete; partial in the middle of a contig; missing C-terminus; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "IS3 family transposase"
+                    ],
+                    "location": "[1711794:>1711957](+)"
+                },
+                {
+                    "locus_tag": [
+                        "ALW85_RS08280"
+                    ],
+                    "old_locus_tag": [
+                        "RK28_RS08275"
+                    ],
+                    "inference": [
+                        "COORDINATES: protein motif:HMM:NF027117.2"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "type II toxin-antitoxin system RelE/ParE family toxin"
+                    ],
+                    "location": "[1716936:1717123](-)"
+                },
+                {
+                    "locus_tag": [
+                        "ALW85_RS09305"
+                    ],
+                    "old_locus_tag": [
+                        "NE1786",
+                        "RK28_RS09300"
+                    ],
+                    "inference": [
+                        "COORDINATES: protein motif:HMM:NF014051.2"
+                    ],
+                    "note": [
+                        "frameshifted; internal stop; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "oligosaccharide flippase family protein"
+                    ],
+                    "location": "[1930685:1931530](-)"
+                },
+                {
+                    "locus_tag": [
+                        "ALW85_RS13675"
+                    ],
+                    "old_locus_tag": [
+                        "NE1789"
+                    ],
+                    "inference": [
+                        "COORDINATES: protein motif:HMM:NF033580.1"
+                    ],
+                    "GO_function": [
+                        "GO:0004803 - transposase activity [Evidence IEA]"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "IS5 family transposase"
+                    ],
+                    "location": "[1931963:1932712](+)"
+                },
+                {
+                    "locus_tag": [
+                        "ALW85_RS14040"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_086558226.1"
+                    ],
+                    "GO_function": [
+                        "GO:0004803 - transposase activity [Evidence IEA]"
+                    ],
+                    "note": [
+                        "programmed frameshift; internal stop; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "IS5 family transposase"
+                    ],
+                    "location": "[2094041:2094817](+)"
+                },
+                {
+                    "locus_tag": [
+                        "ALW85_RS13700"
+                    ],
+                    "old_locus_tag": [
+                        "NE1941"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_019882109.1"
+                    ],
+                    "GO_process": [
+                        "GO:0015074 - DNA integration [Evidence IEA]"
+                    ],
+                    "note": [
+                        "frameshifted; incomplete; partial in the middle of a contig; missing N-terminus; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "tyrosine-type recombinase/integrase"
+                    ],
+                    "location": "[2095921:>2096169](-)"
+                },
+                {
+                    "locus_tag": [
+                        "ALW85_RS14520"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_076611861.1"
+                    ],
+                    "note": [
+                        "frameshifted; internal stop; incomplete; partial in the middle of a contig; missing N-terminus; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "transposase"
+                    ],
+                    "location": "[2168549:>2168995](-)"
+                },
+                {
+                    "locus_tag": [
+                        "ALW85_RS10445"
+                    ],
+                    "old_locus_tag": [
+                        "RK28_RS10440"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_015257952.1"
+                    ],
+                    "GO_function": [
+                        "GO:0004803 - transposase activity [Evidence IEA]"
+                    ],
+                    "note": [
+                        "frameshifted; incomplete; partial in the middle of a contig; missing N-terminus and C-terminus; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "IS1595 family transposase"
+                    ],
+                    "location": "[<2169081:>2169451](-)"
+                },
+                {
+                    "locus_tag": [
+                        "ALW85_RS14525"
+                    ],
+                    "inference": [
+                        "COORDINATES: protein motif:HMM:TIGR01414.1"
+                    ],
+                    "GO_component": [
+                        "GO:0045203 - integral component of cell outer membrane [Evidence IEA]"
+                    ],
+                    "GO_function": [
+                        "GO:0015474 - autotransporter activity [Evidence IEA]"
+                    ],
+                    "GO_process": [
+                        "GO:0046819 - protein secretion by the type V secretion system [Evidence IEA]"
+                    ],
+                    "note": [
+                        "frameshifted; internal stop; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "autotransporter outer membrane beta-barrel domain-containing protein"
+                    ],
+                    "location": "[2169626:2170699](-)"
+                },
+                {
+                    "locus_tag": [
+                        "ALW85_RS10490"
+                    ],
+                    "old_locus_tag": [
+                        "NE2015",
+                        "RK28_RS10485"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_020165883.1"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "phenylacetate--CoA ligase family protein"
+                    ],
+                    "location": "[2176093:2177304](+)"
+                },
+                {
+                    "locus_tag": [
+                        "ALW85_RS13720"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_012673146.1"
+                    ],
+                    "note": [
+                        "frameshifted; internal stop; incomplete; partial in the middle of a contig; missing C-terminus; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "IS481 family transposase"
+                    ],
+                    "location": "[2188425:>2188858](+)"
+                },
+                {
+                    "locus_tag": [
+                        "ALW85_RS14535"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_012673146.1"
+                    ],
+                    "note": [
+                        "frameshifted; internal stop; incomplete; partial in the middle of a contig; missing N-terminus and C-terminus; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "IS481 family transposase"
+                    ],
+                    "location": "[<2189862:>2190040](+)"
+                },
+                {
+                    "locus_tag": [
+                        "ALW85_RS10925"
+                    ],
+                    "old_locus_tag": [
+                        "RK28_RS10905"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_076611932.1"
+                    ],
+                    "GO_function": [
+                        "GO:0004803 - transposase activity [Evidence IEA]"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "IS3 family transposase"
+                    ],
+                    "location": "[2283634:2284862](+)"
+                },
+                {
+                    "locus_tag": [
+                        "ALW85_RS13740"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_076611301.1"
+                    ],
+                    "GO_process": [
+                        "GO:0015074 - DNA integration [Evidence IEA]"
+                    ],
+                    "note": [
+                        "frameshifted; internal stop; incomplete; partial in the middle of a contig; missing N-terminus; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "DDE-type integrase/transposase/recombinase"
+                    ],
+                    "location": "[<2289233:2289694](+)"
+                },
+                {
+                    "locus_tag": [
+                        "ALW85_RS11050"
+                    ],
+                    "old_locus_tag": [
+                        "RK28_RS11030"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_005795202.1"
+                    ],
+                    "note": [
+                        "frameshifted; incomplete; partial in the middle of a contig; missing C-terminus; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "RES family NAD+ phosphorylase"
+                    ],
+                    "location": "[2298720:>2299120](+)"
+                },
+                {
+                    "locus_tag": [
+                        "ALW85_RS14560"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_076611301.1"
+                    ],
+                    "note": [
+                        "frameshifted; incomplete; partial in the middle of a contig; missing N-terminus; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "hypothetical protein"
+                    ],
+                    "location": "[2376091:>2376293](-)"
+                },
+                {
+                    "locus_tag": [
+                        "ALW85_RS13755"
+                    ],
+                    "old_locus_tag": [
+                        "NE2201"
+                    ],
+                    "inference": [
+                        "COORDINATES: protein motif:HMM:NF033580.1"
+                    ],
+                    "GO_function": [
+                        "GO:0004803 - transposase activity [Evidence IEA]"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "IS5 family transposase"
+                    ],
+                    "location": "[2390792:2391541](+)"
+                },
+                {
+                    "locus_tag": [
+                        "ALW85_RS13765"
+                    ],
+                    "old_locus_tag": [
+                        "NE2274"
+                    ],
+                    "inference": [
+                        "COORDINATES: protein motif:HMM:NF033580.1"
+                    ],
+                    "GO_function": [
+                        "GO:0004803 - transposase activity [Evidence IEA]"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "IS5 family transposase"
+                    ],
+                    "location": "[2463294:2464043](+)"
+                },
+                {
+                    "locus_tag": [
+                        "ALW85_RS13785"
+                    ],
+                    "old_locus_tag": [
+                        "NE2413"
+                    ],
+                    "inference": [
+                        "COORDINATES: protein motif:HMM:NF033580.1"
+                    ],
+                    "GO_function": [
+                        "GO:0004803 - transposase activity [Evidence IEA]"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "IS5 family transposase"
+                    ],
+                    "location": "[2625691:2626401](+)"
+                },
+                {
+                    "locus_tag": [
+                        "ALW85_RS14575"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_011380473.1"
+                    ],
+                    "note": [
+                        "frameshifted; incomplete; partial in the middle of a contig; missing N-terminus and C-terminus; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "biotin synthase BioB"
+                    ],
+                    "location": "[<2628329:>2628463](-)"
+                },
+                {
+                    "locus_tag": [
+                        "ALW85_RS12630"
+                    ],
+                    "old_locus_tag": [
+                        "NE2424",
+                        "RK28_RS12610"
+                    ],
+                    "inference": [
+                        "COORDINATES: protein motif:HMM:NF012711.2"
+                    ],
+                    "GO_function": [
+                        "GO:0016746 - acyltransferase activity [Evidence IEA]"
+                    ],
+                    "note": [
+                        "frameshifted; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "acyl-[ACP]--phospholipid O-acyltransferase"
+                    ],
+                    "location": "[2644243:2647677](+)"
+                },
+                {
+                    "locus_tag": [
+                        "ALW85_RS14605"
+                    ],
+                    "inference": [
+                        "COORDINATES: similar to AA sequence:RefSeq:WP_086558029.1"
+                    ],
+                    "note": [
+                        "frameshifted; incomplete; partial in the middle of a contig; missing N-terminus; Derived by automated computational analysis using gene prediction method: Protein Homology."
+                    ],
+                    "pseudo": [
+                        ""
+                    ],
+                    "codon_start": [
+                        "1"
+                    ],
+                    "transl_table": [
+                        "11"
+                    ],
+                    "product": [
+                        "IS21 family transposase"
+                    ],
+                    "location": "[2742960:>2743126](-)"
+                }
+            ],
+            "importance": "critical",
+            "to_do": "Check whether any of these genes are translated in your final ME-model. If so, fix the positions of the gene in genome_modified.gb"
+        }
+    ],
+    "org.get_rpod": [
+        {
+            "msg": "ALW85_RS01185-MONOMER was identified as RpoD. If this is not true, define RpoD!",
+            "importance": "high",
+            "to_do": "Check whether you need to correct RpoD by running me_builder.org.rpod = correct_rpod"
+        }
+    ],
+    "org.get_rna_polymerase": [
+        {
+            "msg": "RNAP was identified with subunits ALW85_RS11785, ALW85_RS02245, ALW85_RS10650, ALW85_RS10655",
+            "importance": "medium",
+            "to_do": "Check whether the correct proteins were called as subunits of RNAP. If not find correct RNAP complex and run me_builder.org.get_rna_polymerase(force_RNAP_as=correct_RNAP)"
+        }
+    ],
+    "org.update_ribosome_stoich": [
+        {
+            "msg": "Some ribosomal proteins do not contain subunit information (30S, 50S) so they could not be mapped.",
+            "triggered_by": [
+                "ALW85_RS07325-MONOMER",
+                "ALW85_RS12890-MONOMER"
+            ],
+            "importance": "high",
+            "to_do": "Classify them in ribosomal_proteins.txt"
+        }
+    ],
+    "org.get_trna_synthetase": [
+        {
+            "msg": "No tRNA ligases were found for some amino acids. Assigned CPLX_dummy.",
+            "triggered_by": [
+                "asn__L_c",
+                "gln__L_c"
+            ],
+            "importance": "high",
+            "to_do": "Check whether your organism should have a ligase for these amino acids, or if you need to add a reaction to get it (e.g. tRNA amidotransferases)"
+        }
+    ],
+    "org.purge_genes_in_model": [
+        {
+            "msg": "Some genes in M-model were not found in genes.txt or genome.gb. These genes will be skipped in reconstruction.",
+            "triggered_by": [
+                "s0001",
+                "ALW85_RS074509",
+                "ALW85_RS07015"
+            ],
+            "importance": "high",
+            "to_do": "Confirm the gene is correct in the m_model. If so, add it to genes.txt"
+        }
+    ],
+    "org.get_complex_homology": [
+        {
+            "msg": "Some complexes were partial hits in the BLAST",
+            "triggered_by": [
+                {
+                    "complex": "ALW85_RS03620-MONOMER",
+                    "reference_complex": "TRYPSYN"
+                },
+                {
+                    "complex": "ALW85_RS01900-MONOMER",
+                    "reference_complex": "PYRUVATEDEH-CPLX"
+                },
+                {
+                    "complex": "ALW85_RS03415-MONOMER",
+                    "reference_complex": "ACETYL-COA-CARBOXYLMULTI-CPLX"
+                },
+                {
+                    "complex": "ALW85_RS12085-MONOMER",
+                    "reference_complex": "CPLX0-7717_G6561-MONOMER"
+                },
+                {
+                    "complex": "ALW85_RS12375-MONOMER",
+                    "reference_complex": "2OXOGLUTARATEDEH-CPLX"
+                },
+                {
+                    "complex": "ALW85_RS02675-MONOMER",
+                    "reference_complex": "BamAD-CPLX"
+                },
+                {
+                    "complex": "ALW85_RS02220-MONOMER",
+                    "reference_complex": "Sec-CPLX"
+                },
+                {
+                    "complex": "ALW85_RS02220-MONOMER",
+                    "reference_complex": "SecYE-CPLX"
+                },
+                {
+                    "complex": "ALW85_RS04460-MONOMER",
+                    "reference_complex": "SULFITE-REDUCT-CPLX"
+                },
+                {
+                    "complex": "ALW85_RS02245-MONOMER",
+                    "reference_complex": "hRNAP"
+                },
+                {
+                    "complex": "ALW85_RS07575-MONOMER",
+                    "reference_complex": "CPLX0-1341"
+                },
+                {
+                    "complex": "ALW85_RS03520-MONOMER",
+                    "reference_complex": "CPLX0-7458"
+                },
+                {
+                    "complex": "ALW85_RS08665-MONOMER",
+                    "reference_complex": "CARBPSYN-CPLX"
+                },
+                {
+                    "complex": "ALW85_RS04480-MONOMER",
+                    "reference_complex": "CPLX0-7428"
+                },
+                {
+                    "complex": "ALW85_RS06155-MONOMER",
+                    "reference_complex": "Gly_RS_tetra"
+                },
+                {
+                    "complex": "ALW85_RS00080-MONOMER",
+                    "reference_complex": "ANTHRANSYN-CPLX"
+                },
+                {
+                    "complex": "ALW85_RS04495-MONOMER",
+                    "reference_complex": "PYRNUTRANSHYDROGEN-CPLX"
+                },
+                {
+                    "complex": "ALW85_RS03340-MONOMER",
+                    "reference_complex": "TatBC_octa"
+                },
+                {
+                    "complex": "ALW85_RS12620-MONOMER",
+                    "reference_complex": "RIBONUCLEOSIDE-DIP-REDUCTI-CPLX"
+                },
+                {
+                    "complex": "ALW85_RS03035-MONOMER",
+                    "reference_complex": "ABC-70-CPLX"
+                },
+                {
+                    "complex": "ALW85_RS00275-MONOMER",
+                    "reference_complex": "SUCCCOASYN"
+                },
+                {
+                    "complex": "ALW85_RS03370-MONOMER",
+                    "reference_complex": "GLUTAMIDOTRANS-CPLX"
+                },
+                {
+                    "complex": "ALW85_RS03190-MONOMER",
+                    "reference_complex": "GCVMULTI-CPLX"
+                },
+                {
+                    "complex": "ALW85_RS04985-MONOMER",
+                    "reference_complex": "Phe_RS_tetra"
+                },
+                {
+                    "complex": "ALW85_RS12915-MONOMER",
+                    "reference_complex": "MnmEG_cplx"
+                },
+                {
+                    "complex": "ALW85_RS09185-MONOMER",
+                    "reference_complex": "NADH-DHI-CPLX"
+                },
+                {
+                    "complex": "ALW85_RS03580-MONOMER",
+                    "reference_complex": "3-ISOPROPYLMALISOM-CPLX"
+                },
+                {
+                    "complex": "ALW85_RS06895-MONOMER",
+                    "reference_complex": "ACETOLACTSYNIII-CPLX"
+                },
+                {
+                    "complex": "ALW85_RS13285-MONOMER",
+                    "reference_complex": "UBIX-MONOMER_DHHB-METHYLTRANSFER-MONOMER"
+                },
+                {
+                    "complex": "RNAP-CPLX",
+                    "reference_complex": "RpoZ_mono"
+                },
+                {
+                    "complex": "CPLX_DHORTS-0",
+                    "reference_complex": "DIHYDROOROT-CPLX"
+                },
+                {
+                    "complex": "CPLX_DHORTS-0",
+                    "reference_complex": "CPLX-64"
+                },
+                {
+                    "complex": "CPLX_DSBDR-0",
+                    "reference_complex": "DSBD-MONOMER"
+                },
+                {
+                    "complex": "CPLX_DSBDR-0",
+                    "reference_complex": "RED-THIOREDOXIN-MONOMER"
+                },
+                {
+                    "complex": "CPLX_I2FE2ST-0",
+                    "reference_complex": "IscA_tetra"
+                },
+                {
+                    "complex": "CPLX_I2FE2ST-0",
+                    "reference_complex": "IscU"
+                },
+                {
+                    "complex": "CPLX_METSOXR1-0",
+                    "reference_complex": "EG11433-MONOMER"
+                },
+                {
+                    "complex": "CPLX_NADHPO-0",
+                    "reference_complex": "THIOREDOXIN-REDUCT-NADPH-CPLX"
+                },
+                {
+                    "complex": "CPLX_PAPSR-0",
+                    "reference_complex": "PAPSSULFOTRANS-CPLX"
+                },
+                {
+                    "complex": "CPLX_PAPSR2-0",
+                    "reference_complex": "GRXC-MONOMER"
+                },
+                {
+                    "complex": "CPLX_PDX5PS-0",
+                    "reference_complex": "CPLX0-321"
+                },
+                {
+                    "complex": "CPLX_PDX5PS-0",
+                    "reference_complex": "CPLX0-7847"
+                },
+                {
+                    "complex": "CPLX_RNDR1b-1",
+                    "reference_complex": "CPLX0-7817"
+                },
+                {
+                    "complex": "CPLX_THIORDXi-0",
+                    "reference_complex": "EG10108-MONOMER"
+                },
+                {
+                    "complex": "CPLX_THIORDXi-0",
+                    "reference_complex": "BTUE-MONOMER"
+                },
+                {
+                    "complex": "CPLX_PMDPHT-0",
+                    "reference_complex": "CPLX0-3952"
+                },
+                {
+                    "complex": "CPLX_PMDPHT-0",
+                    "reference_complex": "LUMAZINESYN-CPLX"
+                },
+                {
+                    "complex": "CPLX_MANptspp-0",
+                    "reference_complex": "PTSI-MONOMER"
+                }
+            ],
+            "importance": "medium",
+            "to_do": "Curate these manually in protein_corrections.txt"
+        }
+    ],
+    "update_me_mets": [
+        {
+            "msg": "Some metabolites in me_metabolites.txt are not in m_model, so they were skipped.",
+            "triggered_by": [
+                "iscu_2fe2s2_c"
+            ],
+            "importance": "medium",
+            "to_do": "Confirm these metabolites are correctly defined in me_metabolites.txt"
+        },
+        {
+            "msg": "Some metabolites in me_metabolites.txt were found in reference m_model after replacing __ with _",
+            "triggered_by": [
+                "sufbcd_2fe2s_c",
+                "sufbcd_2fe2s2_c",
+                "sufbcd_4fe4s_c",
+                "iscu_2fe2s_c",
+                "iscu_4fe4s_c"
+            ],
+            "importance": "medium",
+            "to_do": "Confirm these metabolites are correctly defined in me_metabolites.txt"
+        }
+    ],
+    "update_ribosome_subreactions_from_homology": [
+        {
+            "msg": "Some enzymes defined in me_builder.org.ribosome_subreactions are different from the ones inferred from homology",
+            "triggered_by": [
+                {
+                    "subreaction": "gtp_bound_30S_assembly_factor_phase1",
+                    "defined_complex": "",
+                    "inferred_complex": "ALW85_RS12115-MONOMER"
+                },
+                {
+                    "subreaction": "RbfA_mono_assembly_factor_phase1",
+                    "defined_complex": "",
+                    "inferred_complex": "ALW85_RS03975-MONOMER"
+                },
+                {
+                    "subreaction": "RimM_mono_assembly_factor_phase1",
+                    "defined_complex": "",
+                    "inferred_complex": "ALW85_RS08720-MONOMER"
+                }
+            ],
+            "importance": "medium",
+            "to_do": "Confirm whether the definitions or homology calls are correct in me_builder.org.ribosome_subreactions. Curate the inputs in ribosome_subreactions.txt accordingly."
+        }
+    ],
+    "check": [
+        {
+            "msg": "Some metabolites in me_metabolites.txt need curation",
+            "triggered_by": [
+                "sertrna_sec_c",
+                "LI_c",
+                "sufbcd_2fe2s_c",
+                "sufbcd_2fe2s2_c",
+                "sufbcd_4fe4s_c",
+                "sufse_c",
+                "sufsesh_c",
+                "dsbard_p",
+                "dsbaox_p",
+                "dsbgrd_p",
+                "dsbgox_p",
+                "lpp_p",
+                "alpp_p",
+                "moadamp_c",
+                "moadcoo_c",
+                "moadcosh_c",
+                "3hcpalm9eACP_c",
+                "3ocpalm9eACP_c",
+                "flxr_c",
+                "fldrd_c",
+                "flxso_c",
+                "fldox_c",
+                "grxrd_c",
+                "grxox_c",
+                "iscssh_c",
+                "iscu_2fe2s_c",
+                "iscu_4fe4s_c"
+            ],
+            "importance": "medium",
+            "to_do": "Map or remove these metabolites in me_metabolites.txt"
+        }
+    ],
+    "troubleshoot": [
+        {
+            "msg": "Some metabolites are necessary for growth",
+            "triggered_by": [
+                "TS_4fe4s_c",
+                "TS_dpm_c"
+            ],
+            "importance": "critical",
+            "to_do": "Fix the gaps by adding reactions or solving other warnings. If some items are from the E-matrix, fix these first!"
+        }
+    ]
+}

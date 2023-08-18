@@ -1,0 +1,2 @@
+,value
+rna_degradosome,"{'enzymes': ['USA300HOU_RS04205-MONOMER_mod_mg2(4)', 'USA300HOU_RS06420-MONOMER']}"

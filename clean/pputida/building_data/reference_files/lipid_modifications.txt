@@ -1,0 +1,3 @@
+lipid_mod	enzymes
+other_lipids	G1G01-5127-MONOMER
+pg_pe_160	G1G01-5487-MONOMER,G1G01-661-MONOMER

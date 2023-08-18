@@ -1,0 +1,5 @@
+,value
+RNA_degradosome,"{'enzymes': ['ABAYE_RS08670-MONOMER_mod_mg2(4)', 'ABAYE_RS16975-MONOMER', 'ABAYE_RS16775-MONOMER_mod_zn2(2)', 'ABAYE_RS06530-MONOMER', 'ABAYE_RS16190-MONOMER_mod_mg2(2)']}"
+monocistronic,"{'enzymes': ['ABAYE_RS16775-MONOMER_mod_zn2(2)', 'generic_RNase']}"
+polycistronic_wout_rRNA,"{'enzymes': ['ABAYE_RS16775-MONOMER_mod_zn2(2)', 'generic_RNase', 'ABAYE_RS05215-MONOMER', 'ABAYE_RS04080-MONOMER', 'ABAYE_RS13250-MONOMER_mod_mg2(4)']}"
+rRNA_containing,"{'enzymes': ['ABAYE_RS16775-MONOMER_mod_zn2(2)', 'generic_RNase', 'ABAYE_RS05215-MONOMER_mod_mg2(2)', 'ABAYE_RS04080-MONOMER', 'ABAYE_RS13250-MONOMER_mod_mg2(4)']}"

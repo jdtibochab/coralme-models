@@ -1,0 +1,4 @@
+type	enzymes
+monocistronic	generic_RNase
+polycistronic_wout_rRNA	generic_RNase,TM1102-MONOMER,TM1606-MONOMER
+rRNA_containing	generic_RNase,TM1102-MONOMER_mod_mg2(2),TM1606-MONOMER

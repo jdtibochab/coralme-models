@@ -1,0 +1,3 @@
+lipid_mod	enzymes
+other_lipids	S0647-MONOMER
+pg_pe_160	S3036-MONOMER,S0026-MONOMER

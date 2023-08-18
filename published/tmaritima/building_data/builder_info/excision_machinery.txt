@@ -1,0 +1,5 @@
+,value
+RNA_degradosome,"{'enzymes': ['TM0877-MONOMER_mod_mg2(4)', 'TM1345-MONOMER']}"
+monocistronic,{'enzymes': ['generic_RNase']}
+polycistronic_wout_rRNA,{'enzymes': ['generic_RNase']}
+rRNA_containing,{'enzymes': ['generic_RNase']}

@@ -1,0 +1,72 @@
+,value
+Alanine and Aspartate Metabolism,central_CE
+Alternate Carbon Metabolism,secondary
+Aminosugar Metabolism,intermediate
+Arabinose Metabolism,intermediate
+Biomass and maintenance functions,intermediate
+Biotin Biosynthesis,intermediate
+Butanoate Metabolism,intermediate
+Carbohydrate Metabolism,central_CE
+Cellulose Metabolism,intermediate
+Chorismate Biosynthesis,intermediate
+Citric Acid Cycle,central_CE
+Cysteine Metabolism,central_AFN
+Energy Metabolism,central_CE
+Entner-Doudoroff pathway,central_CE
+Extracellular exchange,intermediate
+Fatty Acid Synthesis,central_CE
+Folate Metabolism,intermediate
+Fructose Metabolism,central_CE
+Galactose metabolism,intermediate
+Glucan Metabolism,central_CE
+Glucuronate Metabolism,intermediate
+Glutamate Metabolism,central_CE
+Glutamate and glutamin metabolism,central_AFN
+Glycerophospholipid Metabolism,intermediate
+Glycine and Serine Metabolism,central_AFN
+Glycogen Metabolism,central_CE
+Glycogene synthesis,intermediate
+Glycolipid Synthesis,intermediate
+Glycolysis/Gluconeogenesis,central_CE
+Histidine Biosynthesis,central_AFN
+Inositol Metabolism,intermediate
+Intracellular demand,secondary
+Intracellular source/sink,intermediate
+Laminarine Metabolism,intermediate
+Lipid Biosynthesis,intermediate
+Lysine Biosynthesis,central_AFN
+Maltose Metabolism,intermediate
+Mannan Metabolism,intermediate
+Mannitol Metabolism,intermediate
+Methionine Metabolism,central_AFN
+NAD Metabolism,intermediate
+Others,other
+Pantothenate and CoA Biosynthesis,intermediate
+Pantothenate and CoA Metabolism,intermediate
+Pentose Phosphate Pathway,intermediate
+Pentose and Glucuronate Interconversions,intermediate
+Peptidoglycan Biosynthesis,intermediate
+Phenylalanine Tyrosine Tryptophan Biosynthesis,central_AFN
+Proline Biosynthesis,central_AFN
+Purine Biosynthesis,secondary
+Purine Metabolism,secondary
+Pyrimidine Biosynthesis,central_AFN
+Pyrimidine Metabolism,central_AFN
+Pyruvate Met,central_CE
+Raffinose Metabolism,intermediate
+Rhamnose Metabolism,intermediate
+Riboflavin Metabolism,intermediate
+Ribose Metabolism,intermediate
+Serine Metabolism,central_AFN
+Spermidine Biosynthesis,intermediate
+Starch Metabolism,intermediate
+Sucrose Metabolism,intermediate
+Terpenoid biosynthesis,intermediate
+Thiamine Biosynthesis,central_AFN
+Threonine Metabolism,central_AFN
+Transport,intermediate
+Trehalose Metabolism,intermediate
+"Valine, Leucine, and Isoleucine Metabolism",central_AFN
+Vitamin B6 Metabolism,intermediate
+Xylan Metabolism,intermediate
+tRNA Metabolism,central_AFN

@@ -1,0 +1,10 @@
+,value
+RNAP_SGLRS06480MONOMER,"{'sigma_factor': 'SGL_RS06480-MONOMER', 'polymerase': 'CPLX220H-12_mod_zn2(1)_mod_mg2(2)'}"
+RNAP_SGLRS07740MONOMER,"{'sigma_factor': 'SGL_RS07740-MONOMER', 'polymerase': 'CPLX220H-12_mod_zn2(1)_mod_mg2(2)'}"
+RNAP_SGLRS07975MONOMER,"{'sigma_factor': 'SGL_RS07975-MONOMER', 'polymerase': 'CPLX220H-12_mod_zn2(1)_mod_mg2(2)'}"
+RNAP_SGLRS08165MONOMER,"{'sigma_factor': 'SGL_RS08165-MONOMER', 'polymerase': 'CPLX220H-12_mod_zn2(1)_mod_mg2(2)'}"
+RNAP_SGLRS12540MONOMER,"{'sigma_factor': 'SGL_RS12540-MONOMER', 'polymerase': 'CPLX220H-12_mod_zn2(1)_mod_mg2(2)'}"
+RNAP_SGLRS14165MONOMER,"{'sigma_factor': 'SGL_RS14165-MONOMER', 'polymerase': 'CPLX220H-12_mod_zn2(1)_mod_mg2(2)'}"
+RNAP_SGLRS14610MONOMER,"{'sigma_factor': 'SGL_RS14610-MONOMER', 'polymerase': 'CPLX220H-12_mod_zn2(1)_mod_mg2(2)'}"
+RNAP_SGLRS17245MONOMER,"{'sigma_factor': 'SGL_RS17245-MONOMER', 'polymerase': 'CPLX220H-12_mod_zn2(1)_mod_mg2(2)'}"
+RNAP_SGLRS17440MONOMER,"{'sigma_factor': 'SGL_RS17440-MONOMER', 'polymerase': 'CPLX220H-12_mod_zn2(1)_mod_mg2(2)'}"

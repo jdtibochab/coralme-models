@@ -1,0 +1,120 @@
+complex,name,genes,source
+FY484_RS01705-MONOMER,50S ribosomal protein L1,rplA(),BioCyc
+FY484_RS12895-MONOMER,50S ribosomal protein L22,rplV(),BioCyc
+FY484_RS12815-MONOMER,50S ribosomal protein L36,rpmJ(),BioCyc
+FY484_RS10560-MONOMER,50S ribosomal protein L3 N(5)-glutamine methyltransferase,prmB(),BioCyc
+FY484_RS12880-MONOMER,50S ribosomal protein L29,rpmC(),BioCyc
+FY484_RS12800-MONOMER,30S ribosomal protein S4,rpsD(),BioCyc
+FY484_RS02310-MONOMER,50S ribosomal protein L27,rpmA(),BioCyc
+FY484_RS01955-MONOMER,30S ribosomal protein S18,rpsR(),BioCyc
+FY484_RS03575-MONOMER,30S ribosomal protein S20,rpsT(),BioCyc
+FY484_RS12865-MONOMER,50S ribosomal protein L24,rplX(),BioCyc
+FY484_RS02770-MONOMER,30S ribosomal protein S21,rpsU(),BioCyc
+FY484_RS15185-MONOMER,50S ribosomal protein L35,rpmI(),BioCyc
+FY484_RS12850-MONOMER,30S ribosomal protein S8,rpsH(),BioCyc
+FY484_RS01165-MONOMER,50S ribosomal protein L33,rpmG(),BioCyc
+FY484_RS03045-MONOMER,50S ribosomal protein L13,rplM(),BioCyc
+FY484_RS04520-MONOMER,type B 50S ribosomal protein L31,VC_0878(),BioCyc
+FY484_RS00035-MONOMER,50S ribosomal protein L34,rpmH(),BioCyc
+FY484_RS12915-MONOMER,50S ribosomal protein L4,rplD(),BioCyc
+FY484_RS12835-MONOMER,30S ribosomal protein S5,rpsE(),BioCyc
+FY484_RS08245-MONOMER,50S ribosomal protein L25,rplY(),BioCyc
+FY484_RS01710-MONOMER,50S ribosomal protein L10,rplJ(),BioCyc
+FY484_RS12900-MONOMER,30S ribosomal protein S19,rpsS(),BioCyc
+FY484_RS06620-MONOMER,ribosomal protein S5-alanine N-acetyltransferase,rimJ(),BioCyc
+FY484_RS12885-MONOMER,50S ribosomal protein L16,rplP(),BioCyc
+FY484_RS12805-MONOMER,30S ribosomal protein S11,rpsK(),BioCyc
+FY484_RS01960-MONOMER,50S ribosomal protein L9,rplI(),BioCyc
+FY484_RS12870-MONOMER,50S ribosomal protein L14,rplN(),BioCyc
+FY484_RS03420-MONOMER,30S ribosomal protein S15,rpsO(),BioCyc
+FY484_RS12790-MONOMER,50S ribosomal protein L17,rplQ(),BioCyc
+FY484_RS01945-MONOMER,30S ribosomal protein S6,rpsF(),BioCyc
+FY484_RS15190-MONOMER,50S ribosomal protein L20,rplT(),BioCyc
+FY484_RS12855-MONOMER,30S ribosomal protein S14,rpsN(),BioCyc
+FY484_RS03050-MONOMER,30S ribosomal protein S9,rpsI(),BioCyc
+FY484_RS04525-MONOMER,type B 50S ribosomal protein L36,rpmJ(),BioCyc
+FY484_RS12920-MONOMER,50S ribosomal protein L3,rplC(),BioCyc
+FY484_RS12840-MONOMER,50S ribosomal protein L18,rplR(),BioCyc
+FY484_RS01915-MONOMER,30S ribosomal protein S12,rpsL(),BioCyc
+FY484_RS13315-MONOMER,50S ribosomal protein L31,rpmE(),BioCyc
+FY484_RS11295-MONOMER,30S ribosomal protein S2,rpsB(),BioCyc
+FY484_RS01715-MONOMER,50S ribosomal protein L7/L12,rplL(),BioCyc
+FY484_RS12905-MONOMER,50S ribosomal protein L2,rplB(),BioCyc
+FY484_RS12825-MONOMER,50S ribosomal protein L15,rplO(),BioCyc
+FY484_RS03020-MONOMER,50S ribosomal protein L19,rplS(),BioCyc
+FY484_RS01700-MONOMER,50S ribosomal protein L11,rplK(),BioCyc
+FY484_RS09575-MONOMER,30S ribosomal protein S1,rpsA(),BioCyc
+FY484_RS12890-MONOMER,30S ribosomal protein S3,rpsC(),BioCyc
+FY484_RS12810-MONOMER,30S ribosomal protein S13,rpsM(),BioCyc
+FY484_RS03005-MONOMER,30S ribosomal protein S16,rpsP(),BioCyc
+FY484_RS13040-MONOMER,30S ribosomal protein S12 methylthiotransferase RimO,rimO(),BioCyc
+FY484_RS12875-MONOMER,30S ribosomal protein S17,rpsQ(),BioCyc
+FY484_RS10105-MONOMER,50S ribosomal protein L32,rpmF(),BioCyc
+FY484_RS02305-MONOMER,50S ribosomal protein L21,rplU(),BioCyc
+FY484_RS12860-MONOMER,50S ribosomal protein L5,rplE(),BioCyc
+FY484_RS11395-MONOMER,30S ribosomal protein S6--L-glutamate ligase,rimK(),BioCyc
+FY484_RS01520-MONOMER,50S ribosomal protein L11 methyltransferase,prmA(),BioCyc
+FY484_RS12925-MONOMER,30S ribosomal protein S10,rpsJ(),BioCyc
+FY484_RS03475-MONOMER,ribosomal protein S18-alanine N-acetyltransferase,rimI(),BioCyc
+FY484_RS12845-MONOMER,50S ribosomal protein L6,rplF(),BioCyc
+FY484_RS01160-MONOMER,50S ribosomal protein L28,rpmB(),BioCyc
+FY484_RS01920-MONOMER,30S ribosomal protein S7,rpsG(),BioCyc
+FY484_RS12910-MONOMER,50S ribosomal protein L23,rplW(),BioCyc
+FY484_RS12830-MONOMER,50S ribosomal protein L30,rpmD(),BioCyc
+VC_0007-MONOMER,ribosomal protein L34,VC_0007(),GenBank
+VC_0218-MONOMER,ribosomal protein L28,VC_0218(),GenBank
+VC_0219-MONOMER,ribosomal protein L33,VC_0219(),GenBank
+VC_0293-MONOMER,ribosomal protein L11 methyltransferase,VC_0293(),GenBank
+VC_0324-MONOMER,ribosomal protein L11,VC_0324(),GenBank
+VC_0325-MONOMER,ribosomal protein L1,VC_0325(),GenBank
+VC_0326-MONOMER,ribosomal protein L10,VC_0326(),GenBank
+VC_0327-MONOMER,ribosomal protein L7/L12,VC_0327(),GenBank
+VC_0359-MONOMER,ribosomal protein S12,VC_0359(),GenBank
+VC_0360-MONOMER,ribosomal protein S7,VC_0360(),GenBank
+VC_0366-MONOMER,ribosomal protein S6,VC_0366(),GenBank
+VC_0368-MONOMER,ribosomal protein S18,VC_0368(),GenBank
+VC_0369-MONOMER,ribosomal protein L9,VC_0369(),GenBank
+VC_0435-MONOMER,ribosomal protein L21,VC_0435(),GenBank
+VC_0436-MONOMER,ribosomal protein L27,VC_0436(),GenBank
+VC_0520-MONOMER,ribosomal protein S21,VC_0520(),GenBank
+VC_0561-MONOMER,ribosomal protein S16,VC_0561(),GenBank
+VC_0564-MONOMER,ribosomal protein L19,VC_0564(),GenBank
+VC_0570-MONOMER,ribosomal protein L13,VC_0570(),GenBank
+VC_0571-MONOMER,ribosomal protein S9,VC_0571(),GenBank
+VC_0646-MONOMER,ribosomal protein S15,VC_0646(),GenBank
+VC_0679-MONOMER,ribosomal protein S20,VC_0679(),GenBank
+VC_0879-MONOMER,"ribosomal protein L36, putative",VC_0879(),GenBank
+VC_1640-MONOMER,ribosomal protein L25,VC_1640(),GenBank
+VC_1915-MONOMER,ribosomal protein S1,VC_1915(),GenBank
+VC_2025-MONOMER,ribosomal protein L32,VC_2025(),GenBank
+VC_2260-MONOMER,ribosomal protein S2,VC_2260(),GenBank
+VC_2281-MONOMER,ribosomal protein S6 modification protein,VC_2281(),GenBank
+VC_2570-MONOMER,ribosomal protein L17,VC_2570(),GenBank
+VC_2572-MONOMER,ribosomal protein S4,VC_2572(),GenBank
+VC_2573-MONOMER,ribosomal protein S11,VC_2573(),GenBank
+VC_2574-MONOMER,ribosomal protein S13,VC_2574(),GenBank
+VC_2575-MONOMER,ribosomal protein L36,VC_2575(),GenBank
+VC_2577-MONOMER,ribosomal protein L15,VC_2577(),GenBank
+VC_2578-MONOMER,ribosomal protein L30,VC_2578(),GenBank
+VC_2579-MONOMER,ribosomal protein S5,VC_2579(),GenBank
+VC_2580-MONOMER,ribosomal protein L18,VC_2580(),GenBank
+VC_2581-MONOMER,ribosomal protein L6,VC_2581(),GenBank
+VC_2582-MONOMER,ribosomal protein S8,VC_2582(),GenBank
+VC_2583-MONOMER,ribosomal protein S14,VC_2583(),GenBank
+VC_2584-MONOMER,ribosomal protein L5,VC_2584(),GenBank
+VC_2585-MONOMER,ribosomal protein L24,VC_2585(),GenBank
+VC_2586-MONOMER,ribosomal protein L14,VC_2586(),GenBank
+VC_2587-MONOMER,ribosomal protein S17,VC_2587(),GenBank
+VC_2588-MONOMER,ribosomal protein L29,VC_2588(),GenBank
+VC_2589-MONOMER,ribosomal protein L16,VC_2589(),GenBank
+VC_2590-MONOMER,ribosomal protein S3,VC_2590(),GenBank
+VC_2591-MONOMER,ribosomal protein L22,VC_2591(),GenBank
+VC_2592-MONOMER,ribosomal protein S19,VC_2592(),GenBank
+VC_2593-MONOMER,ribosomal protein L2,VC_2593(),GenBank
+VC_2594-MONOMER,ribosomal protein L23,VC_2594(),GenBank
+VC_2595-MONOMER,ribosomal protein L4,VC_2595(),GenBank
+VC_2596-MONOMER,ribosomal protein L3,VC_2596(),GenBank
+VC_2597-MONOMER,ribosomal protein S10,VC_2597(),GenBank
+VC_2679-MONOMER,ribosomal protein L31,VC_2679(),GenBank
+VC_A0289-MONOMER,ribosomal protein L35,VC_A0289(),GenBank
+VC_A0290-MONOMER,ribosomal protein L20,VC_A0290(),GenBank

@@ -1,0 +1,11 @@
+,value
+generic_16Sm4Cm1402,"{'enzymes': ['ALW85_RS05130-MONOMER', 'ALW85_RS03765-MONOMER']}"
+generic_16s_rRNAs,{'enzymes': ['RNA_ALW85_RS00295']}
+generic_23s_rRNAs,{'enzymes': ['RNA_ALW85_RS00310']}
+generic_5s_rRNAs,{'enzymes': ['RNA_ALW85_RS00315']}
+generic_Dus,{'enzymes': ['ALW85_RS04570-MONOMER']}
+generic_LYSINEaaRS,{'enzymes': ['ALW85_RS12280-MONOMER_mod_mg2(6)']}
+generic_RF,"{'enzymes': ['ALW85_RS09960-MONOMER', 'ALW85_RS06390-MONOMER']}"
+generic_RNase,{'enzymes': ['ALW85_RS01460-MONOMER_mod_mg2(1)']}
+generic_Tuf,{'enzymes': ['ALW85_RS10695-MONOMER']}
+generic_fes_transfers_complex,"{'enzymes': ['ALW85_RS07475-MONOMER', 'ALW85_RS07590-MONOMER']}"

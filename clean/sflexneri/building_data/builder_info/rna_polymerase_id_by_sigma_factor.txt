@@ -1,0 +1,5 @@
+,value
+RNAP_S2808MONOMER,"{'sigma_factor': 'S2808-MONOMER', 'polymerase': 'RNAP-CPLX_mod_zn2(1)_mod_mg2(2)'}"
+RNAP_S3313MONOMER,"{'sigma_factor': 'S3313-MONOMER', 'polymerase': 'RNAP-CPLX_mod_zn2(1)_mod_mg2(2)'}"
+RNAP_S3460MONOMER,"{'sigma_factor': 'S3460-MONOMER', 'polymerase': 'RNAP-CPLX_mod_zn2(1)_mod_mg2(2)'}"
+RNAP_S4284MONOMER,"{'sigma_factor': 'S4284-MONOMER', 'polymerase': 'RNAP-CPLX_mod_zn2(1)_mod_mg2(2)'}"

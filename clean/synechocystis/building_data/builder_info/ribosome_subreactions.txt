@@ -1,0 +1,4 @@
+,value
+RbfA_mono_assembly_factor_phase1,{'enzyme': 'SGL_RS13145-MONOMER'}
+RimM_mono_assembly_factor_phase1,{'enzyme': 'SGL_RS09820-MONOMER'}
+gtp_bound_30S_assembly_factor_phase1,{'enzyme': 'SGL_RS12545-MONOMER'}

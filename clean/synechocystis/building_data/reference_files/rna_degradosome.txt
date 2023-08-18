@@ -1,0 +1,4 @@
+rna_degradosome
+SGL_RS17675-MONOMER_mod_mg2(4)
+SGL_RS02295-MONOMER
+SGL_RS02280-MONOMER_mod_zn2(2)

@@ -1,0 +1,2 @@
+,value
+rna_degradosome,"{'enzymes': ['VC_2447-MONOMER_mod_mg2(4)', 'VC_0647-MONOMER', 'VC_2030-MONOMER_mod_zn2(2)', 'VC_0305-MONOMER', 'VC_0341-MONOMER_mod_mg2(2)']}"

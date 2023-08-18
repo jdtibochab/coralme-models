@@ -1,0 +1,4 @@
+type	enzymes
+monocistronic	generic_RNase
+polycistronic_wout_rRNA	generic_RNase,HP_RS03265-MONOMER
+rRNA_containing	generic_RNase,HP_RS03265-MONOMER_mod_mg2(2)

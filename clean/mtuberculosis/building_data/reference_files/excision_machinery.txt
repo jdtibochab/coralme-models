@@ -1,0 +1,4 @@
+type	enzymes
+monocistronic	generic_RNase
+polycistronic_wout_rRNA	generic_RNase,G185E-7178-MONOMER,G185E-6676-MONOMER
+rRNA_containing	generic_RNase,G185E-7178-MONOMER_mod_mg2(2),G185E-6676-MONOMER

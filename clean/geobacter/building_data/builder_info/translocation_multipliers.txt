@@ -1,0 +1,2 @@
+,value
+GMET_RS17865-MONOMER,{'Gmet_3405': 2.0}

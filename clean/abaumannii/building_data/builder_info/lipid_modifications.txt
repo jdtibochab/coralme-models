@@ -1,0 +1,3 @@
+,value
+other_lipids,['ABAYE_RS16915-MONOMER']
+pg_pe_160,"['ABAYE_RS16470-MONOMER', 'ABAYE_RS19100-MONOMER']"

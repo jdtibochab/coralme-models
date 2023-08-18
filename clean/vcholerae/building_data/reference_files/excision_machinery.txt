@@ -1,0 +1,4 @@
+type	enzymes
+monocistronic	VC_2030-MONOMER_mod_zn2(2),generic_RNase
+polycistronic_wout_rRNA	VC_2030-MONOMER_mod_zn2(2),generic_RNase,VC_2461-MONOMER,VC_0419-MONOMER,VC_1006-MONOMER_mod_mg2(4)
+rRNA_containing	VC_2030-MONOMER_mod_zn2(2),generic_RNase,VC_2461-MONOMER_mod_mg2(2),VC_0419-MONOMER,VC_1006-MONOMER_mod_mg2(4)

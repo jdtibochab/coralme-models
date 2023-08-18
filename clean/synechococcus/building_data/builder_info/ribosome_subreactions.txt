@@ -1,0 +1,4 @@
+,value
+RbfA_mono_assembly_factor_phase1,{'enzyme': 'SYNPCC7942_0355-MONOMER'}
+RimM_mono_assembly_factor_phase1,{'enzyme': 'SYNPCC7942_2259-MONOMER'}
+gtp_bound_30S_assembly_factor_phase1,{'enzyme': 'SYNPCC7942_0160-MONOMER'}

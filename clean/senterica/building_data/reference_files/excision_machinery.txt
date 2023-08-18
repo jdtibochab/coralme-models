@@ -1,0 +1,4 @@
+type	enzymes
+monocistronic	STM1185-MONOMER_mod_zn2(2),generic_RNase
+polycistronic_wout_rRNA	STM1185-MONOMER_mod_zn2(2),generic_RNase,STM2581-MONOMER,STM3370-MONOMER,STM1434-MONOMER_mod_mg2(4)
+rRNA_containing	STM1185-MONOMER_mod_zn2(2),generic_RNase,STM2581-MONOMER_mod_mg2(2),STM3370-MONOMER,STM1434-MONOMER_mod_mg2(4)

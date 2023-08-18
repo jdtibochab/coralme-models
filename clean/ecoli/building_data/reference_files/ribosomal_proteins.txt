@@ -1,0 +1,3 @@
+subunit	proteins
+30S	generic_16s_rRNAs,RpsP_mono,RpsF_mono,RpsI_mono,RpsJ_mono,RpsD_mono,RpsN_mono,RpsK_mono,RpsL_mono,RpsR_mono,RpsS_mono,RpsB_mono,RpsO_mono,RpsT_mono,RpsU_mono,RpsG_mono,RpsA_mono,RpsH_mono,RpsM_mono,RpsC_mono,RpsE_mono,RpsQ_mono,Sra_mono
+50S	generic_23s_rRNAs,generic_5s_rRNAs,Tig_mono,RplY_mono,RpmB_mono,RplQ_mono,RplS_mono,RpmJ_mono,RplT_mono,RpmD_mono,RplI_mono,RpmE_mono,RpmH_mono,RpmG_mono,RplE_mono,RplB_mono,RplW_mono,RplR_mono,RplX_mono,RplA_mono,RplK_mono,RplO_mono,RplC_mono,RpmA_mono,RplM_mono,RplU_mono,RplD_mono,rpL7/12,RpmC_mono,RplJ_mono,RplV_mono,RplN_mono,RpmF_mono,RpmI_mono,RplF_mono,RplP_mono

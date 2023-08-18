@@ -1,0 +1,3 @@
+subreaction	enzymes
+FusA_mono_elongation	G185E-4827-MONOMER
+Tuf_gtp_regeneration	G185E-7141-MONOMER

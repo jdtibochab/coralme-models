@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "org",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "vcholerae//blast_files_and_results//org.faa",
+  "number-of-letters": 1162229,
+  "number-of-sequences": 3828,
+  "last-updated": "2023-02-08T20:14:00",
+  "number-of-volumes": 1,
+  "bytes-total": 1567678,
+  "bytes-to-cache": 1196802,
+  "files": [
+    "org.pdb",
+    "org.phr",
+    "org.pin",
+    "org.pot",
+    "org.psq",
+    "org.ptf",
+    "org.pto"
+  ]
+}

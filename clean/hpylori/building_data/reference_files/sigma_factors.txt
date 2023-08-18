@@ -1,0 +1,4 @@
+sigma,complex,genes,name
+HP_RS03480-MONOMER,RNAP_HPRS03480MONOMER,HP0714(),RNA polymerase factor &sigma;<sup>54</sup>
+HP_RS05070-MONOMER,RNAP_HPRS05070MONOMER,HP1032(),RNA polymerase factor &sigma;<sup>28</sup>
+HP_RS00445-MONOMER,RNAP_HPRS00445MONOMER,HP0088(),RNA polymerase factor &sigma;<sup>80</sup>

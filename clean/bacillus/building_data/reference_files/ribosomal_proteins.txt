@@ -1,0 +1,3 @@
+subunit	proteins
+30S	generic_16s_rRNAs
+50S	generic_23s_rRNAs,generic_5s_rRNAs,BSU28230-MONOMER,BSU00590-MONOMER

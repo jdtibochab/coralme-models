@@ -1,0 +1,16 @@
+{
+  "m-model-path": "./pputida/inputs/m_model.json",
+  "genbank-path": "./pputida/inputs/genome.gb",
+  "biocyc.genes": "./pputida/inputs/genes.txt",
+  "biocyc.prots": "./pputida/inputs/proteins.txt",
+  "biocyc.TUs": "./pputida/inputs/TUs.txt",
+  "biocyc.RNAs": "./pputida/inputs/RNAs.txt",
+  "biocyc.seqs": "./pputida/inputs/sequences.fasta",
+  "df_gene_cplxs_mods_rxns": "./pputida/building_data/automated-org-with-refs.xlsx",
+  "df_TranscriptionalUnits": "",
+  "out_directory": "./pputida/",
+  "log_directory": "./pputida/",
+  "run_bbh_blast": true,
+  "dev_reference": true,
+  "include_pseudo_genes": true
+}

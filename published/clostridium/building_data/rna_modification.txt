@@ -1,0 +1,47 @@
+modification	positions	type	enzymes	source
+Y	955,2504,2580	23S	RluC_mono	
+Y	1911,1917	23S	RluD_mono	
+m3Y	1915	23S	RlmH_mono AND RluD_mono	
+Gm	2251	23S	RlmB_mono	
+m2A	2503	23S	RlmN_mono_mod_4fe4s(1)	
+Y	2605	23S	RluB_mono	
+Y	516	16S	RsuA_mono	
+m7G	527	16S	GidB_mono	
+m2G	966	16S	RsmD_mono	
+m5C	967	16S	RsmB_mono	
+Cm	1195	16S	RsmH_mono	
+D	1211	16S	DusI_mono_mod_fad(1)	
+D	1211	16S	DusII_mono_mod_fad(1)	
+m4Cm	1402	16S	RsmI_mono	
+m4Cm	1402	16S	RsmH_mono	
+m5C	1409	16S	RsmB_mono	
+m3U	1498	16S	RsmE_mono	
+m62A	1518	16S	RsmA_mono	
+m62A	1519	16S	RsmA_mono	
+ms2i6A	A37	tRNA	MiaA_mono_mod_mg2(1) AND MiaB_mono_mod_4fe4s(2)	
+I	A34	tRNA	TadA_dim_mod_zn2(2)	
+m6A	A37	tRNA	CLJU_c01470_mono	
+ms2t6A	A37	tRNA	TsaEBD_CPLX_mod_fe2(1) AND MtaB_mono_mod_4fe4s(2) AND generic_TsaC	
+m1G	G37	tRNA	generic_TrmD	
+Y	U55	tRNA	TruB_mono	
+s2U	U34	tRNA	MnmA_mono AND generic_IscS	
+m7G	G46	tRNA	TrmB_dim_mod_k(1)	
+Q	G34	tRNA	Tgt_hex_mod_zn2(6) AND QueA_mono AND generic_QueG	
+Cm	C34	tRNA	TrmL_dim	
+Y	U39	tRNA	TruA_dim	
+cmnm5	U34	tRNA	MnmEG_cplx_mod_fad(2)_mod_k(2)	
+cmnm5s2	s2U34	tRNA	MnmEG_cplx_mod_fad(2)_mod_k(2)	
+CAA_cap	0	tRNA	generic_Cca	
+3_prime_cleaved	0	tRNA	RNase_Z_mod_zn2(2)	
+3_prime_cleaved_CAA	0	tRNA	RNase_P	
+5_prime_cleaved	0	tRNA	RNase_P	
+D	16,17,20,20A,21	tRNA	CLJU_RS20450-MONOMER	Homology
+t6A	37	tRNA	CLJU_RS01120-MONOMER	Homology
+m6t6A	37	tRNA	CLJU_RS01120-MONOMER	Homology
+s4U	8	tRNA	CLJU_RS13995-MONOMER	Homology
+i6A	37	tRNA	CLJU_RS10420-MONOMER_mod_mg2(2)	Homology
+s2C	32	tRNA	CLJU_RS02345-MONOMER_mod_4fe4s(1)	Homology
+k2C	34	tRNA	CLJU_RS20470-MONOMER	Homology
+m5U	1939	23S	CLJU_RS04315-MONOMER_mod_4fe4s(1)	Homology
+m2G	2445	23S	CLJU_RS01985-MONOMER	Homology
+m7G	2069	23S	CLJU_RS01985-MONOMER	Homology

@@ -1,0 +1,21 @@
+{
+  "m-model-path": "./clostridium/inputs/m_model.json",
+  "genbank-path": "./clostridium/inputs/genome.gb",
+  "biocyc.genes": "./clostridium/inputs/genes.txt",
+  "biocyc.prots": "./clostridium/inputs/proteins.txt",
+  "biocyc.TUs": "./clostridium/inputs/TUs.txt",
+  "biocyc.RNAs": "./clostridium/inputs/RNAs.txt",
+  "biocyc.seqs": "./clostridium/inputs/sequences.fasta",
+  "df_gene_cplxs_mods_rxns": "./clostridium/building_data/automated-org-with-refs.xlsx",
+  "df_TranscriptionalUnits": "",
+  "df_matrix_stoichiometry": "./clostridium/building_data/reaction_matrix.txt",
+  "df_matrix_subrxn_stoich": "./clostridium/inputs/subreaction_matrix.txt",
+  "df_metadata_orphan_rxns": "./clostridium/building_data/orphan_and_spont_reactions.txt",
+  "df_metadata_metabolites": "./clostridium/inputs/me_metabolites.txt",
+  "out_directory": "./clostridium/",
+  "log_directory": "./clostridium/",
+  "run_bbh_blast": true,
+  "dev_reference": true,
+  "include_pseudo_genes": true,
+  "locus_tag" : "old_locus_tag"
+}

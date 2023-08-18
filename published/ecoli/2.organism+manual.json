@@ -1,0 +1,63 @@
+{
+	"growth_key" : "mu",
+	"gam" : 34.98,
+	"ngam" : 1.0,
+
+	"complex_cofactors" : {
+		"fes_chaperones" : { "CPLX0-1762" : "G6712-MONOMER" },
+		"bmocogdp_chaperones" : {
+			"TMAOREDUCTI-CPLX": "EG12195-MONOMER",
+			"DIMESULFREDUCT-CPLX": "G6849-MONOMER",
+			"NITRATREDUCTA-CPLX": "NARJ-MONOMER",
+			"NITRATREDUCTZ-CPLX": "NARW-MONOMER",
+			"NAP-CPLX": "NAPD-MONOMER",
+			"NAPAB-CPLX_NAPC-MONOMER": "NAPD-MONOMER"
+			},
+
+		"citx_subreactions" : { "mod_2tpr3dpcoa_c" : [ "citx_transfer_to_citd" ] },
+		"biotin_subreactions" : { "mod_btn_c" : [ "biotin_ligase" ] },
+		"glycyl_subreactions" : { "mod_glycyl_c" : [ "gre_activation" ] },
+		"acps_subreactions" : { "mod_pan4p_c" : [ "acpP_activation" ] },
+
+		"lipoate_subreactions" : { "mod_lipoyl_c" : [ "lipoyl_denovo_corrected", "lipoyl_scavenging" ] },
+
+		"FeFe/NiFe" : { "mod_FeFe_cofactor_c" : [ "" ], "mod_NiFe_cofactor_c" : [ "CPLX0-250_FORMATEDEHYDROGH-MONOMER" ] }
+		},
+
+	"START_tRNA" : ["b2814", "b2815", "b2816", "b3171"],
+
+	"lipoprotein_precursors" : {},
+	"lipid_modifications" : [ "pg120_p", "pg141_p", "pg140_p", "pg181_p", "pg161_p", "pg160_p", "pg180_p" ],
+
+	"flux_of_biomass_constituents" : {
+		"10fthf_c" : -0.000223,
+		"2ohph_c" : -0.000223,
+		"coa_c" : -0.000576,
+		"glycogen_c" : -0.14185219494685478,
+		"mlthf_c" : -0.000223,
+		"nad_c" : -0.001831,
+		"nadp_c" : -0.000447,
+		"ribflv_c" : -0.000223,
+		"thf_c" : -0.000223,
+		"udcpdp_c" : -5.5e-05
+		},
+
+	"flux_of_lipid_constituents" : {
+		"pe161_p" : -0.02106,
+		"pe160_p" : -0.045946,
+		"pe160_c" : -0.017868,
+		"pe161_c" : -0.054154,
+		"kdo2lipid4_e" : -0.01945
+		},
+
+	"braun's_lipoproteins" : [ "EG10544-MONOMER" ],
+	"braun's_lpp_flux" : -0.003597,
+	"braun's_murein_flux" : -0.013894,
+
+	"gr_data_doublings_per_hour" : [0, 0.6, 1.0, 1.5, 2.0, 2.5],
+	"percent_dna_data" : [0.0592, 0.0512, 0.0330, 0.0252, 0.0222, 0.0208],
+
+	"defer_to_rxn_matrix" : [
+		"NHFRBO", "ACPS11"
+	]
+}

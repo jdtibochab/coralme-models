@@ -1,0 +1,10 @@
+subreaction	enzymes
+DnaK_dependent_folding	VC_0855-MONOMER,VC_0856-MONOMER_mod_zn2(4),VC_0854-MONOMER
+GroEL_dependent_folding	VC_2664-MONOMER,VC_2665-MONOMER
+N_terminal_methionine_cleavage	VC_2261-MONOMER_mod_fe2(2)
+PrfA_mono_mediated_termination	VC_2179-MONOMER
+PrfB_mono_mediated_termination	CPLX_dummy
+generic_RF_mediated_termination	generic_RF
+peptide_chain_release	VC_0659-MONOMER
+peptide_deformylase_processing	VC_0046-MONOMER_mod_fe2(1)
+ribosome_recycler	VC_2257-MONOMER

@@ -1,0 +1,37 @@
+	machine	metabolites
+m2G_at_1207	RsmC_mono	amet_c:-1,ahcys_c:1,h_c:1
+m2G_at_1516		amet_c:-1,ahcys_c:1,h_c:1
+m2G_at_966	RsmD_mono	amet_c:-1,ahcys_c:1,h_c:1
+m3U_at_1498	YggJ_dim	amet_c:-1,ahcys_c:1,h_c:1
+m4Cm_at_1402	generic_16Sm4Cm1402	amet_c:-2,ahcys_c:2,h_c:2
+m5C_at_1407	RsmF_mono	amet_c:-1,ahcys_c:1,h_c:1
+m5C_at_967	RsmB_mono	amet_c:-1,ahcys_c:1,h_c:1
+m62A_at_1518	KsgA_mono	amet_c:-2,ahcys_c:2,h_c:2
+m62A_at_1519	KsgA_mono	amet_c:-2,ahcys_c:2,h_c:2
+m7G_at_527	RsmG_mono	amet_c:-1,ahcys_c:1,h_c:1
+Y_at_516	RsuA_mono	
+Cm_at_2498	RlmM_mono	amet_c:-1,ahcys_c:1,h_c:1
+D_at_2449		h_c:-1,nadh_c:-1,nad_c:1
+Gm_at_2251	RlmB_dim	amet_c:-1,ahcys_c:1,h_c:1
+m1G_at_745	RrmA_dim_mod_zn2(2)	amet_c:-1,ahcys_c:1,h_c:1
+m2A_at_2503	RlmN_mono_mod_4fe4s(1)	amet_c:-1,ahcys_c:1,h_c:1
+m2G_at_1835	RlmG_mono	amet_c:-1,ahcys_c:1,h_c:1
+m2G_at_2445	RlmL_dim	amet_c:-1,ahcys_c:1,h_c:1
+m5C_at_1962	RlmI_dim	amet_c:-1,ahcys_c:1,h_c:1
+m5U_at_1939	RumA_mono_mod_4fe4s(1)	amet_c:-1,ahcys_c:1,h_c:1
+m5U_at_747	RumB_mono_mod_4fe4s(1)	amet_c:-1,ahcys_c:1,h_c:1
+m6A_at_1618	RlmF_mono	amet_c:-1,ahcys_c:1,h_c:1
+m6A_at_2030		amet_c:-1,ahcys_c:1,h_c:1
+m7G_at_2069		amet_c:-1,ahcys_c:1,h_c:1
+Um_at_2552	RrmJ_mono	amet_c:-1,ahcys_c:1,h_c:1
+Y_at_1911	RluD_mono_mod_mg2(1)	
+Y_at_1915	RluD_mono_mod_mg2(1)	
+m3Y_at_1915	RlmH_dim	amet_c:-1,ahcys_c:1,h_c:1
+Y_at_1917	RluD_mono_mod_mg2(1)	
+Y_at_2457	YmfC_mono	
+Y_at_2504	RluC_mono	
+Y_at_2580	RluC_mono	
+Y_at_2604	YjbC_mono	
+Y_at_2605	RluB_mono	
+Y_at_746	RluA_mono	
+Y_at_955	RluC_mono	

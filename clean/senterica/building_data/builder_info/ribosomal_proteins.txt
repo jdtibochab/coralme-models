@@ -1,0 +1,69 @@
+complex,name,genes,source
+STM3433-MONOMER,50S ribosomal protein L16,STM3433(),BioCyc
+STM3417-MONOMER,30S ribosomal protein S11,STM3417(),BioCyc
+STM3438-MONOMER,50S ribosomal protein L23,STM3438(),BioCyc
+STM3422-MONOMER,50S ribosomal protein L30,STM3422(),BioCyc
+STM0043-MONOMER,30S ribosomal protein S20,STM0043(),BioCyc
+STM3727-MONOMER,50S ribosomal protein L33,STM3727(),BioCyc
+STM3304-MONOMER,50S ribosomal protein L21,STM3304(),BioCyc
+STM0216-MONOMER,30S ribosomal protein S2,STM0216(),BioCyc
+STM1167-MONOMER,ribosomal protein S5 alanine N-acetyltransferase,STM1167(),BioCyc
+STM2676-MONOMER,30S ribosomal protein S16,STM2676(),BioCyc
+STM3435-MONOMER,50S ribosomal protein L22,STM3435(),BioCyc
+STM3419-MONOMER,50S ribosomal protein L36,STM3419(),BioCyc
+STM4149-MONOMER,50S ribosomal protein L11,STM4149(),BioCyc
+STM0469-MONOMER,50S ribosomal protein L31,STM0469(),BioCyc
+STM2385-MONOMER,ribosomal protein L3 N(5)-glutamine methyltransferase,STM2385(),BioCyc
+STM4096-MONOMER,50S ribosomal protein L31,STM4096(),BioCyc
+STM3430-MONOMER,50S ribosomal protein L14,STM3430(),BioCyc
+STM3414-MONOMER,50S ribosomal protein L17,STM3414(),BioCyc
+STM4152-MONOMER,50S ribosomal protein L7/L12,STM4152(),BioCyc
+STM3344-MONOMER,30S ribosomal protein S9,STM3344(),BioCyc
+STM1229-MONOMER,50S ribosomal protein L16 arginine hydroxylase,STM1229(),BioCyc
+STM4393-MONOMER,30S ribosomal protein S18,STM4393(),BioCyc
+STM3448-MONOMER,30S ribosomal protein S12,STM3448(),BioCyc
+STM2673-MONOMER,50S ribosomal protein L19,STM2673(),BioCyc
+STM3432-MONOMER,50S ribosomal protein L29,STM3432(),BioCyc
+STM3416-MONOMER,30S ribosomal protein S4,STM3416(),BioCyc
+STM3427-MONOMER,30S ribosomal protein S14,STM3427(),BioCyc
+STM3429-MONOMER,50S ribosomal protein L24,STM3429(),BioCyc
+STM4151-MONOMER,50S ribosomal protein L10,STM4151(),BioCyc
+STM0981-MONOMER,30S ribosomal protein S1,STM0981(),BioCyc
+STM1336-MONOMER,50S ribosomal protein L20,STM1336(),BioCyc
+STM1191-MONOMER,50S ribosomal protein L32,STM1191(),BioCyc
+STM3426-MONOMER,30S ribosomal protein S8,STM3426(),BioCyc
+STM3440-MONOMER,50S ribosomal protein L3,STM3440(),BioCyc
+STM2665-MONOMER,ribosomal subunit interface protein,STM2665(),BioCyc
+STM3424-MONOMER,50S ribosomal protein L18,STM3424(),BioCyc
+STM3437-MONOMER,50S ribosomal protein L2,STM3437(),BioCyc
+STM3421-MONOMER,50S ribosomal protein L15,STM3421(),BioCyc
+STM3383-MONOMER,ribosomal protein L11 methyltransferase,STM3383(),BioCyc
+STM0875-MONOMER,ribosomal protein S6 modification protein,STM0875(),BioCyc
+STM3303-MONOMER,50S ribosomal protein L27,STM3303(),BioCyc
+STM3839-MONOMER,50S ribosomal protein L34,STM3839(),BioCyc
+STM3439-MONOMER,50S ribosomal protein L4,STM3439(),BioCyc
+STM3423-MONOMER,30S ribosomal protein S5,STM3423(),BioCyc
+STM3434-MONOMER,30S ribosomal protein S3,STM3434(),BioCyc
+STM3418-MONOMER,30S ribosomal protein S13,STM3418(),BioCyc
+STM3728-MONOMER,50S ribosomal protein L28,STM3728(),BioCyc
+STM3321-MONOMER,ribosomal subunit interface protein,STM3321(),BioCyc
+STM0975-MONOMER,ribosomal protein S12 methylthiotransferase accessory factor,STM0975(),BioCyc
+STM3447-MONOMER,30S ribosomal protein S7,STM3447(),BioCyc
+STM3431-MONOMER,30S ribosomal protein S17,STM3431(),BioCyc
+STM2224-MONOMER,50S ribosomal protein L25,STM2224(),BioCyc
+STM3345-MONOMER,50S ribosomal protein L13,STM3345(),BioCyc
+STM1967-MONOMER,putative 50S ribosomal protein,STM1967(),BioCyc
+STM4394-MONOMER,50S ribosomal protein L9,STM4394(),BioCyc
+STM3209-MONOMER,30S ribosomal protein S21,STM3209(),BioCyc
+STM3436-MONOMER,30S ribosomal protein S19,STM3436(),BioCyc
+STM0470-MONOMER,50S ribosomal protein L36,STM0470(),BioCyc
+STM3428-MONOMER,50S ribosomal protein L5,STM3428(),BioCyc
+STM4150-MONOMER,50S ribosomal protein L1,STM4150(),BioCyc
+STM1335-MONOMER,50S ribosomal protein L35,STM1335(),BioCyc
+STM4391-MONOMER,30S ribosomal protein S6,STM4391(),BioCyc
+STM3283-MONOMER,30S ribosomal protein S15,STM3283(),BioCyc
+STM1190-MONOMER,Large ribosomal RNA subunit accumulation protein,STM1190(),BioCyc
+STM3441-MONOMER,30S ribosomal protein S10,STM3441(),BioCyc
+STM3425-MONOMER,50S ribosomal protein L6,STM3425(),BioCyc
+STM0852-MONOMER,ribosomal protein S12 methylthiotransferase,STM0852(),BioCyc
+STM1611-MONOMER,ribosomal protein L7/L12-serine acetyltransferase,STM1611(),BioCyc

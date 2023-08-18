@@ -1,0 +1,3 @@
+	enzymes	stoich
+FusA_mono_elongation	FusA_mono	gtp_c:-1,h2o_c:-1,h_c:1,pi_c:1,gdp_c:1
+Tuf_gtp_regeneration	Tsf_mono	

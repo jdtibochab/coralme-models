@@ -1,0 +1,17 @@
+{
+  "m-model-path": "./synechocystis/inputs/m_model.json",
+  "genbank-path": "./synechocystis/inputs/genome.gb",
+  "biocyc.genes": "./synechocystis/inputs/genes.txt",
+  "biocyc.prots": "./synechocystis/inputs/proteins.txt",
+  "biocyc.TUs": "./synechocystis/inputs/TUs.txt",
+  "biocyc.RNAs": "./synechocystis/inputs/RNAs.txt",
+  "biocyc.seqs": "./synechocystis/inputs/sequences.fasta",
+  "df_gene_cplxs_mods_rxns": "./synechocystis/building_data/automated-org-with-refs.xlsx",
+  "df_TranscriptionalUnits": "",
+  "out_directory": "./synechocystis/",
+  "log_directory": "./synechocystis/",
+  "run_bbh_blast": true,
+  "dev_reference": true,
+  "include_pseudo_genes": true,
+  "feasibility_mu": 0.005
+}

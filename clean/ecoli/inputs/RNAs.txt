@@ -1,0 +1,316 @@
+(Misc-RNAs RNAs rRNAs All-tRNAs)	Common-Name	Gene
+RYBA-RNA	small RNA RybA	G0-8881
+SPF-RNA	small regulatory RNA Spot 42	EG30098
+RRFC-RRNA	5S ribosomal RNA	EG30072
+RNA0-409	e14 prophage; small regulatory RNA C0293	G0-8897
+RRFG-RRNA	5S ribosomal RNA	EG30075
+RNA0-404	small RNA SroA	G0-9381
+RNA0-334	small regulatory RNA antitoxin SymR	G0-10610
+RRFD-RRNA	5S ribosomal RNA	EG30073
+MICF-RNA	small regulatory RNA MicF	EG30063
+RRFA-RRNA	5S ribosomal RNA	EG30070
+RNA0-281	small RNA IstR-2	G0-10201
+RYFA-RNA	small regulatory RNA RyfA	G0-8879
+RRFH-RRNA	5S ribosomal RNA	EG30076
+RNA0-400	small regulatory RNA PspH	G0-16700
+RRFE-RRNA	5S ribosomal RNA	EG30074
+RNA0-426	Rac prophage; small RNA KilS	G0-17108
+RNA0-330	small regulatory RNA OhsC	G0-10598
+GCVB-RNA	small regulatory RNA GcvB	G0-8867
+RNA0-396	naRNA4	G0-16697
+RYEB-RNA	small regulatory RNA SdsR	G0-8883
+RNA0-389	small regulatory RNA CpxQ	G0-16649
+RNA0-128	small RNA SroH	G0-9388
+RNA0-282	small regulatory RNA IstR-1	G0-10201
+CSRC-RNA	small regulatory RNA CsrC	G0-8874
+RNA0-423	small RNA AceK-int	G0-17105
+TKE1-RNA	small regulatory RNA GlmY	G0-8910
+RPRA-RNA	small regulatory RNA RprA	G0-8863
+RNA0-393	naRNA1	G0-16694
+RNA0-385	Rac prophage; small regulatory RNA antitoxin RalA	G0-16600
+RNA0-163	putative antisense regulatory RNA RdlC	G0-9608
+FFS-RNA	signal recognition particle 4.5S RNA	EG30027
+6S-RNA	6S RNA	EG30099
+SRAH-RNA	small regulatory RNA ArcZ	G0-8871
+RNA0-420	small RNA FliX	G0-17102
+RNA0-413	small regulatory RNA FtsO	G0-17085
+RNA0-361	small regulatory RNA SdsN	G0-10699
+RNA0-379	small RNA AgrA	G0-10751
+RNA0-124	small regulatory RNA SroC	G0-9383
+SRAD-RNA	small regulatory RNA MicA	G0-8866
+SRAB-RNA	small RNA SraB	G0-8862
+RNA0-410	small regulatory RNA MalH	G0-17082
+RNA0-348	small regulatory RNA MgrR	G0-10671
+RNA0-414	putative small regulatory RNA TimR	G0-17086
+OXYS-RNA	small regulatory RNA OxyS	EG31116
+RYGB-RNA	small regulatory RNA OmrB	G0-8882
+RNA0-368	small RNA	G0-10706
+RNA0-403	small regulatory RNA SdhX	G0-17009
+charged-gltV-tRNA	L-glutamyl-tRNA<SUP>gltV</SUP>	
+RNA0-331	small regulatory RNA RyfD	G0-10600
+charged-gltW-tRNA	L-glutamyl-tRNA<SUP>gltW</SUP>	
+RYEA-RNA	small antisense RNA RyeA	G0-8865
+IS061-RNA	small regulatory RNA McaS	G0-8899
+charged-gltT-tRNA	L-glutamyl-tRNA<SUP>gltT</SUP>	
+charged-gltU-tRNA	L-glutamyl-tRNA<SUP>gltU</SUP>	
+RNA0-405	small RNA OrzP	G0-17076
+charged-aspV-tRNA	L-aspartyl-tRNA<SUP>aspV</SUP>	
+charged-aspT-tRNA	L-aspartyl-tRNA<SUP>aspT</SUP>	
+RNA0-333	small RNA RyjB	G0-10609
+charged-aspU-tRNA	L-aspartyl-tRNA<SUP>aspU</SUP>	
+RNA0-427	small RNA XylZ	G0-17109
+RNA0-397	naRNA5	G0-16698
+RNA0-161	putative antisense regulatory RNA RdlA	G0-9603
+RNA0-424	small RNA AllZ	G0-17106
+RNA0-394	naRNA2	G0-16695
+IS102-RNA	CP4-44 prophage; small RNA IsrC	G0-8905
+RNA0-421	small RNA MotR	G0-17103
+RNA0-387	small RNA RyeG	G0-16635
+SRAL-RNA	small RNA RyjA	G0-8875
+RNA0-416	putative small regulatory RNA NarS	G0-17088
+RNA0-372	small RNA EsrE	G0-10737
+RYEC-RNA	small RNA SibA	G0-8884
+RNA0-407	small RNA RaiZ	G0-17078
+RNA0-357	small RNA SokX	G0-10695
+RNPB-RNA	RNase P catalytic RNA component	EG30069
+RNA0-398	naRNA6	G0-16699
+RNA0-164	small RNA RttR	G0-9609
+SSRA-RNA	tmRNA	EG30100
+CHARGED-FMETW-TRNA	N-formyl-L-methionyl-tRNA<SUP>metW</SUP>	
+CHARGED-FMETY-TRNA	N-formyl-L-methionyl-tRNA<SUP>metY</SUP>	
+CHARGED-FMETZ-TRNA	N-formyl-L-methionyl-tRNA<SUP>metZ</SUP>	
+CHARGED-FMETV-TRNA	N-formyl-L-methionyl-tRNA<SUP>metV</SUP>	
+D-TYROSYL-TRNATYR	D-tyrosyl-tRNA<sup>Tyr</sup>	
+TRNA	tRNA	
+TRNA-GUANINE	tRNA guanine	
+TRNA-QUEUINE	tRNA queuine	
+asnT-tRNA	tRNA-Asn(GUU)	EG30020
+asnU-tRNA	tRNA-Asn(GUU)	EG30021
+asnV-tRNA	tRNA-Asn(GUU)	EG30022
+RNA0-304	tRNA-Asn(GUU)	G7069
+aspT-tRNA	tRNA-Asp(GUC)	EG30023
+aspU-tRNA	tRNA-Asp(GUC)	EG30024
+aspV-tRNA	tRNA-Asp(GUC)	EG30025
+glnW-tRNA	tRNA-Gln(UUG)	EG30030
+lysidine-tRNA-ileX	lysidine-modified tRNA<sup>ileX</sup>	
+glnX-tRNA	tRNA-Gln(CUG)	EG30031
+glnU-tRNA	tRNA-Gln(UUG)	EG30028
+glnV-tRNA	tRNA-Gln(CUG)	EG30029
+gltU-tRNA	tRNA-Glu(UUC)	EG30033
+gltV-tRNA	tRNA-Glu(UUC)	EG30034
+gltW-tRNA	tRNA-Glu(UUC)	EG30035
+gltT-tRNA	tRNA-Glu(UUC)	EG30032
+metW-tRNA	tRNA-initiator Met(CAU)	EG31117
+metY-tRNA	tRNA-initiator Met(CAU)	EG30061
+metZ-tRNA	tRNA-initiator Met(CAU)	EG30062
+thrV-tRNA	tRNA-Thr(GGU)	EG30103
+RNA0-306	tRNA-initiator Met(CAU)	EG30060
+thrW-tRNA	tRNA-Thr(CGU)	EG30104
+metU-tRNA	tRNA-Met(CAU)	EG30059
+thrT-tRNA	tRNA-Thr(GGU)	EG30101
+metT-tRNA	tRNA-Met(CAU)	EG30058
+thrU-tRNA	tRNA-Thr(UGU)	EG30102
+proM-tRNA	tRNA-Pro(UGG)	EG30068
+proK-tRNA	tRNA-Pro(CGG)	EG30066
+proL-tRNA	tRNA-Pro(GGG)	EG30067
+charged-glnV-tRNA	L-glutaminyl-tRNA<SUP>glnV</SUP>	
+lysW-tRNA	tRNA-Lys(UUU)	EG30057
+charged-glnW-tRNA	L-glutaminyl-tRNA<SUP>glnW</SUP>	
+RNA0-303	tRNA-Lys(UUU)	G6392
+charged-glnX-tRNA	L-glutaminyl-tRNA<SUP>glnX</SUP>	
+lysT-tRNA	tRNA-Lys(UUU)	EG30055
+charged-glnU-tRNA	L-glutaminyl-tRNA<SUP>glnU</SUP>	
+RNA0-301	tRNA-Lys(UUU)	G6390
+charged-trpT-tRNA	L-tryptophanyl-tRNA<SUP>trpT</SUP>	
+lysV-tRNA	tRNA-Lys(UUU)	EG30056
+charged-argY-tRNA	L-arginyl-tRNA<SUP>argY</SUP>	
+RNA0-302	tRNA-Lys(UUU)	G6391
+charged-argV-tRNA	L-arginyl-tRNA<SUP>argV</SUP>	
+hisR-tRNA	tRNA-His(GUG)	EG30042
+charged-argZ-tRNA	L-arginyl-tRNA<SUP>argZ</SUP>	
+charged-argW-tRNA	L-arginyl-tRNA<SUP>argW</SUP>	
+charged-argQ-tRNA	L-arginyl-tRNA<SUP>argQ</SUP>	
+charged-argX-tRNA	L-arginyl-tRNA<SUP>argX</SUP>	
+charged-argU-tRNA	L-arginyl-tRNA<SUP>argU</SUP>	
+charged-pheV-tRNA	L-phenylalanyl-tRNA<SUP>pheV</SUP>	
+selC-tRNA	tRNA-Sec(UCA)	EG30092
+charged-pheU-tRNA	L-phenylalanyl-tRNA<SUP>pheU</SUP>	
+cysT-tRNA	tRNA-Cys(GCA)	G7991
+RNA0-323	L-methionyl-tRNA<sup>metZ</sup>	
+trpT-tRNA	tRNA-Trp(CCA)	EG30105
+RNA0-319	L-methionyl-tRNA<sup>metW</sup>	
+alaU-tRNA	tRNA-Ala(UGC)	EG30009
+RNA0-321	L-methionyl-tRNA<sup>metV</sup>	
+alaV-tRNA	tRNA-Ala(UGC)	EG30010
+RRLG-RRNA	23S ribosomal RNA	EG30082
+RNA0-322	L-methionyl-tRNA<sup>metY</sup>	
+alaW-tRNA	tRNA-Ala(GGC)	EG30011
+RRLC-RRNA	23S ribosomal RNA	EG30079
+charged-leuX-tRNA	L-leucyl-tRNA<SUP>leuX</SUP>	
+alaT-tRNA	tRNA-Ala(UGC)	EG30008
+RRLH-RRNA	23S ribosomal RNA	EG30083
+charged-leuU-tRNA	L-leucyl-tRNA<SUP>leuU</SUP>	
+alaX-tRNA	tRNA-Ala(GGC)	EG30012
+RRLD-RRNA	23S ribosomal RNA	EG30080
+charged-leuP-tRNA	L-leucyl-tRNA<SUP>leuP</SUP>	
+RRLA-RRNA	23S ribosomal RNA	EG30077
+charged-leuZ-tRNA	L-leucyl-tRNA<SUP>leuZ</SUP>	
+RRLE-RRNA	23S ribosomal RNA	EG30081
+charged-leuV-tRNA	L-leucyl-tRNA<SUP>leuV</SUP>	
+RNA0-305	tRNA-Ile(CAU)	G7387
+RRLB-RRNA	23S ribosomal RNA	EG30078
+charged-leuQ-tRNA	L-leucyl-tRNA<SUP>leuQ</SUP>	
+ileX-tRNA	tRNA-Ile(CAU)	EG30046
+charged-leuW-tRNA	L-leucyl-tRNA<SUP>leuW</SUP>	
+ileT-tRNA	tRNA-Ile(GAU)	EG30043
+charged-leuT-tRNA	L-leucyl-tRNA<SUP>leuT</SUP>	
+ileU-tRNA	tRNA-Ile(GAU)	EG30044
+charged-glyW-tRNA	glycyl-tRNA<SUP>glyW</SUP>	
+ileV-tRNA	tRNA-Ile(GAU)	EG30045
+charged-glyT-tRNA	glycyl-tRNA<SUP>glyT</SUP>	
+charged-glyX-tRNA	glycyl-tRNA<SUP>glyX</SUP>	
+charged-glyU-tRNA	glycyl-tRNA<SUP>glyU</SUP>	
+charged-glyY-tRNA	glycyl-tRNA<SUP>glyY</SUP>	
+argX-tRNA	tRNA-Arg(CCG)	EG30017
+charged-glyV-tRNA	glycyl-tRNA<SUP>glyV</SUP>	
+argU-tRNA	tRNA-Arg(UCU)	EG30014
+charged-tyrU-tRNA	L-tyrosyl-tRNA<SUP>tyrU</SUP>	
+argY-tRNA	tRNA-Arg(ACG)	EG30018
+charged-tyrV-tRNA	L-tyrosyl-tRNA<SUP>tyrV</SUP>	
+argV-tRNA	tRNA-Arg(ACG)	EG30015
+charged-tyrT-tRNA	L-tyrosyl-tRNA<SUP>tyrT</SUP>	
+argZ-tRNA	tRNA-Arg(ACG)	EG30019
+charged-asnV-tRNA	L-asparaginyl-tRNA<SUP>asnV</SUP>	
+argW-tRNA	tRNA-Arg(CCU)	EG30016
+RNA0-310	L-asparaginyl-tRNA<SUP>asnW</SUP>	
+argQ-tRNA	tRNA-Arg(ACG)	EG30013
+charged-asnT-tRNA	L-asparaginyl-tRNA<SUP>asnT</SUP>	
+serX-tRNA	tRNA-Ser(GGA)	EG30097
+charged-asnU-tRNA	L-asparaginyl-tRNA<SUP>asnU</SUP>	
+serU-tRNA	tRNA-Ser(CGA)	EG30094
+charged-serT-tRNA	L-seryl-tRNA<SUP>serT</SUP>	
+serV-tRNA	tRNA-Ser(GCU)	EG30095
+charged-serX-tRNA	L-seryl-tRNA<SUP>serX</SUP>	
+serW-tRNA	tRNA-Ser(GGA)	EG30096
+charged-serU-tRNA	L-seryl-tRNA<SUP>serU</SUP>	
+serT-tRNA	tRNA-Ser(UGA)	EG30093
+charged-serV-tRNA	L-seryl-tRNA<SUP>serV</SUP>	
+pheU-tRNA	tRNA-Phe(GAA)	EG30064
+charged-serW-tRNA	L-seryl-tRNA<SUP>serW</SUP>	
+pheV-tRNA	tRNA-Phe(GAA)	EG30065
+charged-proM-tRNA	L-prolyl-tRNA<SUP>proM</SUP>	
+leuV-tRNA	tRNA-Leu(CAG)	EG30051
+charged-proK-tRNA	L-prolyl-tRNA<SUP>proK</SUP>	
+leuQ-tRNA	tRNA-Leu(CAG)	EG30048
+charged-proL-tRNA	L-prolyl-tRNA<SUP>proL</SUP>	
+leuW-tRNA	tRNA-Leu(UAG)	EG30052
+charged-selC-tRNA	L-seryl-tRNA<SUP>sec</SUP>	
+leuT-tRNA	tRNA-Leu(CAG)	EG30049
+charged-lysV-tRNA	L-lysyl-tRNA<SUP>lysV</SUP>	
+leuX-tRNA	tRNA-Leu(CAA)	EG30053
+RNA0-313	L-lysyl-tRNA<SUP>lysZ</SUP>	
+leuU-tRNA	tRNA-Leu(GAG)	EG30050
+charged-lysW-tRNA	L-lysyl-tRNA<SUP>lysW</SUP>	
+leuP-tRNA	tRNA-Leu(CAG)	EG30047
+RNA0-314	L-lysyl-tRNA<SUP>lysQ</SUP>	
+leuZ-tRNA	tRNA-Leu(UAA)	EG30054
+charged-lysT-tRNA	L-lysyl-tRNA<SUP>lysT</SUP>	
+glyW-tRNA	tRNA-Gly(GCC)	EG30039
+RNA0-312	L-lysyl-tRNA<SUP>lysY</SUP>	
+glyT-tRNA	tRNA-Gly(UCC)	EG30036
+RYED-RNA	small RNA SibB	G0-8885
+glyX-tRNA	tRNA-Gly(GCC)	EG30040
+RNA0-390	small regulatory RNA RirA	G0-16662
+glyU-tRNA	tRNA-Gly(CCC)	EG30037
+RNA0-327	small regulatory RNA RseX	G0-10574
+glyY-tRNA	tRNA-Gly(GCC)	EG30041
+DICF-RNA	Qin prophage; small regulatory RNA DicF	EG31115
+charged-hisR-tRNA	L-histidyl-tRNA<SUP>hisR</SUP>	
+glyV-tRNA	tRNA-Gly(GCC)	EG30038
+TKE8-RNA	small regulatory RNA MicC	G0-8901
+charged-valU-tRNA	L-valyl-tRNA<SUP>valU</SUP>	
+valV-tRNA	tRNA-Val(GAC)	EG30111
+RYBB-RNA	small regulatory RNA RybB	G0-8880
+charged-valY-tRNA	L-valyl-tRNA<SUP>valY</SUP>	
+RNA0-300	tRNA-Val(UAC)	G6389
+RNA0-386	small regulatory RNA MicL-S	G0-16601
+charged-valV-tRNA	L-valyl-tRNA<SUP>valV</SUP>	
+valW-tRNA	tRNA-Val(GAC)	EG30112
+RNA0-165	putative small regulatory RNA antitoxin SokB	G0-9611
+RNA0-311	L-valyl-tRNA<SUP>valZ</SUP>	
+valT-tRNA	tRNA-Val(UAC)	EG30109
+C0730-RNA	small RNA SibD	G0-8913
+charged-valW-tRNA	L-valyl-tRNA<SUP>valW</SUP>	
+valX-tRNA	tRNA-Val(UAC)	EG30113
+SRAI-RNA	small regulatory RNA RyhB	G0-8872
+charged-valT-tRNA	L-valyl-tRNA<SUP>valT</SUP>	
+valU-tRNA	tRNA-Val(UAC)	EG30110
+RNA0-417	small regulatory RNA ZbiJ	G0-17089
+charged-valX-tRNA	L-valyl-tRNA<SUP>valX</SUP>	
+valY-tRNA	tRNA-Val(UAC)	EG30114
+RNA0-363	small regulatory RNA Och5	G0-10701
+charged-cysT-tRNA	L-cysteinyl-tRNA<SUP>cysT</SUP>	
+RNA0-141	small regulatory RNA antitoxin SokC	G0-9581
+charged-thrV-tRNA	L-threonyl-tRNA<SUP>thrV</SUP>	
+SRAE-RNA	small regulatory RNA OmrA	G0-8868
+charged-thrW-tRNA	L-threonyl-tRNA<SUP>thrW</SUP>	
+RNA0-411	small regulatory RNA ChiZ	G0-17083
+charged-thrT-tRNA	L-threonyl-tRNA<SUP>thrT</SUP>	
+RNA0-425	small RNA BhsB	G0-17107
+RNA0-349	small regulatory RNA FnrS	G0-10677
+charged-thrU-tRNA	L-threonyl-tRNA<SUP>thrU</SUP>	
+RRSC-RRNA	16S ribosomal RNA	EG30086
+RDLD-RNA	antisense regulatory RNA RdlD	G0-9042
+charged-alaW-tRNA	L-alanyl-tRNA<SUP>alaW</SUP>	
+RNA0-395	naRNA3	G0-16696
+RRSH-RRNA	16S ribosomal RNA	EG30090
+RYGC-RNA	small regulatory RNA antitoxin SibC	G0-8886
+charged-alaT-tRNA	L-alanyl-tRNA<SUP>alaT</SUP>	EG30008
+RRSD-RRNA	16S ribosomal RNA	EG30087
+RNA0-406	small regulatory RNA RbsZ	G0-17077
+charged-alaX-tRNA	L-alanyl-tRNA<SUP>alaX</SUP>	
+RNA0-126	small RNA SroE	G0-9385
+RRSA-RRNA	16S ribosomal RNA	EG30084
+RNA0-332	small RNA SibE	G0-10602
+charged-alaU-tRNA	L-alanyl-tRNA<SUP>alaU</SUP>	
+RRSE-RRNA	16S ribosomal RNA	EG30088
+IS183-RNA	small regulatory RNA GadY	G0-8914
+charged-alaV-tRNA	L-alanyl-tRNA<SUP>alaV</SUP>	
+RRSB-RRNA	16S ribosomal RNA	EG30085
+RNA0-422	small RNA UhpU	G0-17104
+RYEE-RNA	small regulatory RNA CyaR	G0-8878
+RRSG-RRNA	16S ribosomal RNA	EG30089
+RNA0-392	small regulatory RNA GadF	G0-16680
+RNA0-391	small RNA SokE	G0-16677
+RNA0-328	small regulatory RNA RydC	G0-10592
+DSRA-RNA	small regulatory RNA DsrA	G7047
+charged-metT-tRNA	L-methionyl-tRNA<SUP>metT</SUP>	
+T44-RNA	putative small RNA T44	G0-8895
+RYDB-RNA	small regulatory RNA RydB	G0-8876
+charged-metU-tRNA	L-methionyl-tRNA<SUP>metU</SUP>	
+RNA0-388	small regulatory RNA 3'ETS<sup><i>leuZ</i></sup>	G0-16636
+RNA0-419	small RNA FlgO	G0-17101
+RNA0-241	small regulatory RNA SgrS	G0-9941
+tyrV-tRNA	tRNA-Tyr(GUA)	EG30108
+CSRB-RNA	small regulatory RNA CsrB	G0-8785
+tyrT-tRNA	tRNA-Tyr(GUA)	EG30106
+RNA0-378	small noncoding RNA involved in nucleoid organization	G0-10738
+SRAJ-RNA	small regulatory RNA GlmZ	G0-8873
+charged-ileV-tRNA	L-isoleucyl-tRNA<SUP>ileV</SUP>	
+tyrU-tRNA	tRNA-Tyr(GUA)	EG30107
+RNA0-418	small regulatory RNA AspX	G0-17100
+RNA0-309	L-isoleucyl-tRNA<SUP>ileY</SUP>	
+SRAA-RNA	small RNA SraA	G0-8861
+RNA0-380	small regulatory RNA AgrB	G0-10752
+charged-ileX-tRNA	L-isoleucyl-tRNA<SUP>ileX</SUP>	
+RNA0-162	putative antisense regulatory RNA RdlB	G0-9606
+charged-ileT-tRNA	L-isoleucyl-tRNA<SUP>ileT</SUP>	
+RNA0-408	small RNA IpeX	G0-17079
+SRAG-RNA	small regulatory RNA SraG	G0-8870
+charged-ileU-tRNA	L-isoleucyl-tRNA<SUP>ileU</SUP>	
+RNA0-412	small regulatory RNA IspZ	G0-17084
+RNA0-358	CP4-6 prophage; small RNA EyeA	G0-10696
+RNA0-351	small regulatory RNA ArrS	G0-10694
+RRFB-RRNA	5S ribosomal RNA	EG30071
+RNA0-123	small regulatory RNA ChiX	G0-9382
+RRFF-RRNA	5S ribosomal RNA	EG30091
