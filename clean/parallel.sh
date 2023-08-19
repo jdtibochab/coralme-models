@@ -27,7 +27,7 @@ run_with_lock(){
     )&
 }
 
-N=15
+N=4
 open_sem $N
 for org in $( find . -maxdepth 1 -type d -not -name "." -not -name ".ipynb*" -not -name "__pycache__" ); do
     run_with_lock task $1 $2 $3 $4 $org
