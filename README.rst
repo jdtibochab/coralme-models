@@ -11,7 +11,6 @@ Reconstructing ME-models from Notebooks
 1. Go to the desired directory, clean/ or published/.
 2. Open Supplementary Notebook and follow instructions.
 
-**Example**: `Supplementary Notebook`_  for *B. subtilis*
 
 Reconstructing ME-models from command line
 ------------------------------------------
@@ -47,4 +46,3 @@ In a python environment with a loaded model, run ``model.optimize()``
 
 .. refs
 .. _coralME: https://github.com/jdtibochab/coralme
-.. _Supplementary Notebook: https://github.com/jdtibochab/published/Supplementary Notebook - Reconstruct B. subtilis uME-model.ipynb
