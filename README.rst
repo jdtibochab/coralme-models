@@ -18,6 +18,7 @@ Reconstructing ME-models from command line
 2. run ``bash build.sh 0 1 1 1 ORGANISM_NAME``.
 
 ORGANISM_NAME must exist in directory. The four numbers are binary flags to run (if 1) / not run (if 0):
+
 1. BLASTp
 2. Data synchronization and complementation and OSM generation
 3. ME-model reconstruction
