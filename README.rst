@@ -25,7 +25,7 @@ Reconstructing all ME-models in directory (parallelized)
 
 Loading provided ME-models from JSON files
 ------------------------------------------
-In order to inspect, read, and manipulate JSON ME-model files, first uncompress the compressed .json.gz files.
+In order to inspect, read, and manipulate JSON ME-model files, first extract the compressed .json.gz files.
 1. run ``gzip -d ORGANISM_MEMODEL_FILE.json.gz``
 2. In a python environment, run ``model = coralme.io.json.load_json_me_model("PATH_TO_MEMODEL_FILE.json")``
 
