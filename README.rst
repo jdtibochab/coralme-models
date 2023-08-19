@@ -39,5 +39,9 @@ Loading ME-models from the provided JSON files
 1. run ``gzip -d ORGANISM_MEMODEL_FILE.json.gz`` to extract the JSON file.
 2. In a python environment, run ``model = coralme.io.json.load_json_me_model("PATH_TO_MEMODEL_FILE.json")``
 
+Solving
+-------
+In a python environment with a loaded model, run ``model.optimize()``
+
 .. refs
 .. _coralME: https://github.com/jdtibochab/coralme
