@@ -6,8 +6,8 @@ Automatically reconstructed ME-models (dME-models) are available in clean/, and 
 
 Code to reproduce Figures of our manuscript and to reconstruct ME-models are provided here as python scripts and Jupyter notebooks.
 
-Reconstructing ME-models from Notebooks
----------------------------------------
+Reconstructing ME-models from Jupyter Notebooks
+-----------------------------------------------
 1. Go to the desired directory, clean/ or published/.
 2. Open Supplementary Notebook and follow instructions.
 
@@ -17,7 +17,13 @@ Reconstructing ME-models from command line
 1. Go to the desired directory, e.g. ``cd clean/`` or ``cd published/``
 2. run ``bash build.sh 0 1 1 1 ORGANISM_NAME``.
 
-ORGANISM_NAME must exist in directory. The four numbers are binary flags to run (if 1) / not run (if 0): (1) BLASTp, (2) Data synchronization and complementation, (3) ME-model reconstruction and OSM generation, (4) ME-model troubleshooting. Since we provide here BLASTp results, the first number can be set to 0. Setting it to 1 will run a BLASTp with 4 CPU cores and overwrite files in blast_files_and_results under each organisms directory.
+ORGANISM_NAME must exist in directory. The four numbers are binary flags to run (if 1) / not run (if 0):
+1. BLASTp
+2. Data synchronization and complementation and OSM generation
+3. ME-model reconstruction
+4. ME-model troubleshooting.
+
+Since we provide here BLASTp results, the first number can be set to 0. Setting it to 1 will run a BLASTp with 4 CPU cores and overwrite files in blast_files_and_results under each organisms directory.
 
 **Important**: ME-models are saved as Pickle files.
 
