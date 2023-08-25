@@ -1,0 +1,45 @@
+,value
+ME-Model-ID,cljungdahlii
+amino_acid_trna_synthetase,"{'ala__L_c': 'CLJU_RS05960-MONOMER', 'arg__L_c': 'CLJU_RS10650-MONOMER', 'asn__L_c': 'generic_Asn_RS_dim', 'asp__L_c': 'CLJU_RS16590-MONOMER', 'cys__L_c': 'generic_CysS_mono', 'gln__L_c': 'CPLX_dummy', 'glu__L_c': 'CLJU_RS06575-MONOMER', 'gly_c': 'CLJU_RS20425-MONOMER', 'his__L_c': 'CLJU_RS16595-MONOMER', 'ile__L_c': 'CLJU_RS00920-MONOMER', 'leu__L_c': 'CLJU_RS01345-MONOMER', 'lys__L_c': 'CLJU_RS20435-MONOMER', 'met__L_c': 'CLJU_RS00840-MONOMER', 'phe__L_c': 'CPLX271D-6', 'pro__L_c': 'CLJU_RS18895-MONOMER', 'ser__L_c': 'CLJU_RS00085-MONOMER', 'thr__L_c': 'CLJU_RS16995-MONOMER', 'trp__L_c': 'CLJU_RS18860-MONOMER', 'tyr__L_c': 'generic_tyr_ligase', 'val__L_c': 'CLJU_RS17105-MONOMER'}"
+biocyc.RNAs,./cljungdahlii/inputs/RNAs.txt
+biocyc.TUs,./cljungdahlii/inputs/TUs.txt
+biocyc.genes,./cljungdahlii/inputs/genes.txt
+biocyc.prots,./cljungdahlii/inputs/proteins.txt
+biocyc.seqs,./cljungdahlii/inputs/sequences.fasta
+braun's_lipoprotein,[]
+braun's_lipoproteins,[]
+braun's_lpp_flux,-0.0
+braun's_murein_flux,-0.0
+complex_cofactors,"{'fes_transfers': ['ErpA_dim'], 'biotin_subreactions': {'mod_btn_c': ['biotin_ligase']}, 'lipoate_subreactions': {'mod_lipoyl_c': ['lipoyl_denovo', 'lipoyl_scavenging']}, 'fes_chaperones': {}, 'bmocogdp_chaperones': {}, 'FeFe/NiFe': {'mod_FeFe_cofactor_c': '', 'mod_NiFe_cofactor_c': ''}}"
+defer_to_rxn_matrix,"['Cl_biomass_DSM_WT_46p666M1', 'FMETTRS', 'ATPM']"
+dev_reference,False
+df_TranscriptionalUnits,cljungdahlii//building_data/TUs_from_biocyc.txt
+df_gene_cplxs_mods_rxns,./cljungdahlii/building_data/automated-org-with-refs.xlsx
+df_matrix_stoichiometry,./cljungdahlii/building_data/reaction_matrix.txt
+df_matrix_subrxn_stoich,./cljungdahlii/inputs/subreaction_matrix.txt
+df_metadata_metabolites,./cljungdahlii/inputs/me_metabolites.txt
+df_metadata_orphan_rxns,./cljungdahlii/building_data/orphan_and_spont_reactions.txt
+flux_of_biomass_constituents,"{'10fthf_c': -0.000223, '5mthf_c': -0.000223, 'accoa_c': -0.000279, 'adocbl_c': -0.000223, 'amet_c': -0.000223, 'btn_c': -2e-06, 'chor_c': -0.000223, 'coa_c': -0.000167, 'fad_c': -0.000223, 'malcoa_c': -3.1e-05, 'mlthf_c': -0.000223, 'mobd_c': -7e-06, 'murein4p4p_e': -0.006457, 'murein4px4p_e': -0.006538, 'murein4px4px4p_e': -0.000807, 'nad_c': -0.001787, 'nadh_c': -4.5e-05, 'nadp_c': -0.000112, 'nadph_c': -0.000335, 'pydx5p_c': -0.000223, 'ribflv_c': -0.000223, 'thf_c': -0.000223, 'thmpp_c': -0.000223, 'udcpdp_c': -5.5e-05}"
+flux_of_lipid_constituents,"{'clpn140_c': -0.002669, 'clpn160_c': -0.008057, 'clpn161_c': -0.011798, 'clpn181_c': -0.000471, 'pe140_c': -0.040045, 'pe160_c': -0.120861, 'pe161_c': -0.176979, 'pe181_c': -0.00707, 'pg140_c': -0.00961, 'pg160_c': -0.029005, 'pg161_c': -0.042474, 'pg181_c': -0.001696, 'teca_CL_c': -0.015433}"
+gam,46.666
+genbank-path,cljungdahlii//building_data/genome_modified.gb
+gr_data_doublings_per_hour,"[0, 0.6, 1.0, 1.5, 2.0, 2.5]"
+growth_key,mu1
+include_pseudo_genes,True
+lipid_modifications,[]
+lipoprotein_precursors,{'MetQ': 'CLJU_c32100'}
+locus_tag,old_locus_tag
+log_directory,cljungdahlii/
+m-model-path,cljungdahlii//building_data/m_model_modified.json
+model_id,cljungdahlii
+ngam,0.45
+other_lipids,['']
+out_directory,cljungdahlii/
+peptide_release_factors,"{'UAG': 'PrfA_mono_mod_methyl(1)', 'UGA': 'PrfB_mono_mod_methyl(1)', 'UAA': 'generic_RF'}"
+percent_dna_data,"[0.0592, 0.0512, 0.033, 0.0252, 0.0222, 0.0208]"
+pg_pe_160,"['CLJU_RS04135-MONOMER', 'CLJU_RS05260-MONOMER']"
+rna_polymerases,"{'RNAP_CLJURS15950MONOMER': {'sigma_factor': 'CLJU_RS15950-MONOMER', 'polymerase': 'RNAP-CPLX_mod_zn2(1)_mod_mg2(2)'}, 'RNAP_CLJURS02050MONOMER': {'sigma_factor': 'CLJU_RS02050-MONOMER', 'polymerase': 'RNAP-CPLX_mod_zn2(1)_mod_mg2(2)'}, 'RNAP_CLJURS05110MONOMER': {'sigma_factor': 'CLJU_RS05110-MONOMER', 'polymerase': 'RNAP-CPLX_mod_zn2(1)_mod_mg2(2)'}, 'RNAP_CLJURS16035MONOMER': {'sigma_factor': 'CLJU_RS16035-MONOMER', 'polymerase': 'RNAP-CPLX_mod_zn2(1)_mod_mg2(2)'}, 'RNAP_CLJURS03350MONOMER': {'sigma_factor': 'CLJU_RS03350-MONOMER', 'polymerase': 'RNAP-CPLX_mod_zn2(1)_mod_mg2(2)'}, 'RNAP_CLJURS04050MONOMER': {'sigma_factor': 'CLJU_RS04050-MONOMER', 'polymerase': 'RNAP-CPLX_mod_zn2(1)_mod_mg2(2)'}, 'RNAP_CLJURS01630MONOMER': {'sigma_factor': 'CLJU_RS01630-MONOMER', 'polymerase': 'RNAP-CPLX_mod_zn2(1)_mod_mg2(2)'}, 'RNAP_CLJURS06665MONOMER': {'sigma_factor': 'CLJU_RS06665-MONOMER', 'polymerase': 'RNAP-CPLX_mod_zn2(1)_mod_mg2(2)'}, 'RNAP_CLJURS12765MONOMER': {'sigma_factor': 'CLJU_RS12765-MONOMER', 'polymerase': 'RNAP-CPLX_mod_zn2(1)_mod_mg2(2)'}, 'RNAP_CLJURS16735MONOMER': {'sigma_factor': 'CLJU_RS16735-MONOMER', 'polymerase': 'RNAP-CPLX_mod_zn2(1)_mod_mg2(2)'}, 'RNAP_CLJURS12070MONOMER': {'sigma_factor': 'CLJU_RS12070-MONOMER', 'polymerase': 'RNAP-CPLX_mod_zn2(1)_mod_mg2(2)'}, 'RNAP_CLJURS07695MONOMER': {'sigma_factor': 'CLJU_RS07695-MONOMER', 'polymerase': 'RNAP-CPLX_mod_zn2(1)_mod_mg2(2)'}, 'RNAP_CLJURS06015MONOMER': {'sigma_factor': 'CLJU_RS06015-MONOMER', 'polymerase': 'RNAP-CPLX_mod_zn2(1)_mod_mg2(2)'}, 'RNAP_CLJURS19285MONOMER': {'sigma_factor': 'CLJU_RS19285-MONOMER', 'polymerase': 'RNAP-CPLX_mod_zn2(1)_mod_mg2(2)'}, 'RNAP_CLJURS20310MONOMER': {'sigma_factor': 'CLJU_RS20310-MONOMER', 'polymerase': 'RNAP-CPLX_mod_zn2(1)_mod_mg2(2)'}, 'RNAP_CLJURS16875MONOMER': {'sigma_factor': 'CLJU_RS16875-MONOMER', 'polymerase': 'RNAP-CPLX_mod_zn2(1)_mod_mg2(2)'}, 'RNAP_CLJURS06045MONOMER': {'sigma_factor': 'CLJU_RS06045-MONOMER', 'polymerase': 'RNAP-CPLX_mod_zn2(1)_mod_mg2(2)'}, 'RNAP_CLJURS06050MONOMER': {'sigma_factor': 'CLJU_RS06050-MONOMER', 'polymerase': 'RNAP-CPLX_mod_zn2(1)_mod_mg2(2)'}, 'RNAP_CLJURS07935MONOMER': {'sigma_factor': 'CLJU_RS07935-MONOMER', 'polymerase': 'RNAP-CPLX_mod_zn2(1)_mod_mg2(2)'}, 'RNAP_CLJURS02545MONOMER': {'sigma_factor': 'CLJU_RS02545-MONOMER', 'polymerase': 'RNAP-CPLX_mod_zn2(1)_mod_mg2(2)'}, 'RNAP_CLJURS02550MONOMER': {'sigma_factor': 'CLJU_RS02550-MONOMER', 'polymerase': 'RNAP-CPLX_mod_zn2(1)_mod_mg2(2)'}, 'RNAP_CLJURS13055MONOMER': {'sigma_factor': 'CLJU_RS13055-MONOMER', 'polymerase': 'RNAP-CPLX_mod_zn2(1)_mod_mg2(2)'}, 'RNAP_CLJURS14740MONOMER': {'sigma_factor': 'CLJU_RS14740-MONOMER', 'polymerase': 'RNAP-CPLX_mod_zn2(1)_mod_mg2(2)'}, 'RNAP_CLJURS18020MONOMER': {'sigma_factor': 'CLJU_RS18020-MONOMER', 'polymerase': 'RNAP-CPLX_mod_zn2(1)_mod_mg2(2)'}, 'RNAP_CLJURS13580MONOMER': {'sigma_factor': 'CLJU_RS13580-MONOMER', 'polymerase': 'RNAP-CPLX_mod_zn2(1)_mod_mg2(2)'}}"
+run_bbh_blast,False
+selenocysteine_enzymes,"['CLJU_RS13680-MONOMER_mod_pydx5p(1)', 'CLJU_RS13675-MONOMER']"
+translocation_multipliers,{'YidC_mono': {'CLJU_c02440': 2.0}}
+unmodeled_protein_fraction,0.36

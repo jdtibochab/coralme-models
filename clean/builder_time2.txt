@@ -1,7 +1,7 @@
 ==> ./synechocystis/MEBuilder-synechocystis.log <==
 2023-08-14 14:02:14,166 File processing done...
 
-==> ./mycoplasma/MEBuilder-mycoplasma.log <==
+==> ./mmycoides/MEBuilder-mmycoides.log <==
 2023-08-14 14:01:31,491 File processing done...
 
 ==> ./senterica/MEBuilder-senterica.log <==
@@ -19,7 +19,7 @@
 ==> ./vcholerae/MEBuilder-vcholerae.log <==
 2023-08-14 14:03:11,109 File processing done...
 
-==> ./cdiff/MEBuilder-cdiff.log <==
+==> ./cdifficile/MEBuilder-cdifficile.log <==
 2023-08-14 14:02:20,750 File processing done...
 
 ==> ./lcremoris/MEBuilder-lcremoris.log <==
@@ -31,7 +31,7 @@
 ==> ./tmaritima/MEBuilder-tmaritima.log <==
 2023-08-14 14:01:41,084 File processing done...
 
-==> ./staph/MEBuilder-staph.log <==
+==> ./saureus/MEBuilder-saureus.log <==
 2023-08-14 14:01:52,195 File processing done...
 
 ==> ./pputida/MEBuilder-pputida.log <==
@@ -46,20 +46,20 @@
 ==> ./hpylori/MEBuilder-hpylori.log <==
 2023-08-14 14:06:12,315 File processing done...
 
-==> ./synechococcus/MEBuilder-synechococcus.log <==
+==> ./selongatus/MEBuilder-selongatus.log <==
 2023-08-14 14:15:20,414 File processing done...
 
-==> ./liberibacter/MEBuilder-liberibacter.log <==
+==> ./lcrescens/MEBuilder-lcrescens.log <==
 2023-08-14 14:17:28,929 File processing done...
 
 ==> ./geobacter/MEBuilder-geobacter.log <==
 2023-08-14 14:24:34,834 File processing done...
 
-==> ./clostridium/MEBuilder-clostridium.log <==
+==> ./cljungdahlii/MEBuilder-cljungdahlii.log <==
 2023-08-14 14:27:08,537 File processing done...
 
-==> ./nitrosomonas/MEBuilder-nitrosomonas.log <==
+==> ./neuropaea/MEBuilder-neuropaea.log <==
 2023-08-14 14:38:32,766 File processing done...
 
-==> ./bacillus/MEBuilder-bacillus.log <==
+==> ./bsubtilis/MEBuilder-bsubtilis.log <==
 2023-08-14 14:41:39,768 File processing done...

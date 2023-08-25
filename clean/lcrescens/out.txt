@@ -1,0 +1,657 @@
+{'m-model-path': './lcrescens/inputs/m_model.json', 'genbank-path': './lcrescens/inputs/genome.gb', 'biocyc.genes': './lcrescens/inputs/genes.txt', 'biocyc.prots': './lcrescens/inputs/proteins.txt', 'biocyc.TUs': './lcrescens/inputs/TUs.txt', 'biocyc.RNAs': './lcrescens/inputs/RNAs.txt', 'biocyc.seqs': './lcrescens/inputs/sequences.fasta', 'df_gene_cplxs_mods_rxns': './lcrescens/building_data/automated-org-with-refs.xlsx', 'df_TranscriptionalUnits': '', 'out_directory': './lcrescens/', 'log_directory': './lcrescens/', 'run_bbh_blast': True, 'dev_reference': True, 'include_pseudo_genes': True, 'feasibility_mu': 0.01}
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-08-16
+Initiating file processing...
+~ Processing files for lcrescens...
+Checking M-model metabolites...                                            : 0.0%|          |     0/  887 [00:00<?]Checking M-model metabolites...                                            : 100.0%|██████████|   887/  887 [00:00<00:00]
+Checking M-model genes...                                                  : 0.0%|          |     0/  373 [00:00<?]Checking M-model genes...                                                  : 100.0%|██████████|   373/  373 [00:00<00:00]
+Checking M-model reactions...                                              : 0.0%|          |     0/  892 [00:00<?]Checking M-model reactions...                                              : 100.0%|██████████|   892/  892 [00:00<00:00]
+Generating complexes dataframe from optional proteins file...              : 0.0%|          |     0/ 1259 [00:00<?]Generating complexes dataframe from optional proteins file...              : 100.0%|██████████|  1259/ 1259 [00:00<00:00]
+Syncing optional genes file...                                             : 0.0%|          |     0/ 1359 [00:00<?]Syncing optional genes file...                                             : 100.0%|██████████|  1359/ 1359 [00:00<00:00]
+Looking for duplicates within datasets...                                  : 0.0%|          |     0/    5 [00:00<?]Looking for duplicates within datasets...                                  : 100.0%|██████████|     5/    5 [00:00<00:00]
+Gathering ID occurrences across datasets...                                : 0.0%|          |     0/ 3679 [00:00<?]Gathering ID occurrences across datasets...                                : 100.0%|██████████|  3679/ 3679 [00:00<00:00]
+Solving duplicates across datasets...                                      : 0.0%|          |     0/    0 [00:00<?]Solving duplicates across datasets...                                      : 0.0%|          |     0/    0 [00:00<?]
+Pruning GenBank...                                                         : 0.0%|          |     0/    1 [00:00<?]Pruning GenBank...                                                         : 100.0%|██████████|     1/    1 [00:00<00:00]Pruning GenBank...                                                         : 100.0%|██████████|     1/    1 [00:00<00:00]
+Updating Genbank file with optional files...                               : 0.0%|          |     0/ 1359 [00:00<?]Updating Genbank file with optional files...                               : 100.0%|██████████|  1359/ 1359 [00:00<00:00]
+Syncing optional files with genbank contigs...                             : 0.0%|          |     0/  102 [00:00<?]Syncing optional files with genbank contigs...                             : 1.0%|          |     1/  102 [00:00<01:31]Syncing optional files with genbank contigs...                             : 100.0%|██████████|   102/  102 [00:00<00:00]
+Modifying metabolic reactions with manual curation...                      : 0.0%|          |     0/    0 [00:00<?]Modifying metabolic reactions with manual curation...                      : 0.0%|          |     0/    0 [00:00<?]
+Adding manual curation of complexes...                                     : 0.0%|          |     0/    0 [00:00<?]Adding manual curation of complexes...                                     : 0.0%|          |     0/    0 [00:00<?]
+Getting sigma factors...                                                   : 0.0%|          |     0/    2 [00:00<?]Getting sigma factors...                                                   : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting generics from Genbank contigs...                                   : 0.0%|          |     0/  102 [00:00<?]Getting generics from Genbank contigs...                                   : 100.0%|██████████|   102/  102 [00:00<00:00]
+Processing optional TUs file...                                            : 0.0%|          |     0/  936 [00:00<?]Processing optional TUs file...                                            : 100.0%|██████████|   936/  936 [00:00<00:00]
+Getting TU-gene associations from optional TUs file...                     : 0.0%|          |     0/  936 [00:00<?]Getting TU-gene associations from optional TUs file...                     : 100.0%|██████████|   936/  936 [00:00<00:00]
+Gathering ribosome stoichiometry...                                        : 0.0%|          |     0/   56 [00:00<?]Gathering ribosome stoichiometry...                                        : 100.0%|██████████|    56/   56 [00:00<00:00]
+Adding protein location...                                                 : 0.0%|          |     0/ 1499 [00:00<?]Adding protein location...                                                 : 100.0%|██████████|  1499/ 1499 [00:00<00:00]
+Purging M-model genes...                                                   : 0.0%|          |     0/  373 [00:00<?]Purging M-model genes...                                                   : 100.0%|██████████|   373/  373 [00:00<00:00]
+Getting enzyme-reaction associations...                                    : 0.0%|          |     0/  892 [00:00<?]Getting enzyme-reaction associations...                                    : 7.0%|▋         |    62/  892 [00:00<00:01]Getting enzyme-reaction associations...                                    : 14.7%|█▍        |   131/  892 [00:00<00:01]Getting enzyme-reaction associations...                                    : 35.4%|███▌      |   316/  892 [00:00<00:00]Getting enzyme-reaction associations...                                    : 48.8%|████▉     |   435/  892 [00:00<00:00]Getting enzyme-reaction associations...                                    : 60.3%|██████    |   538/  892 [00:00<00:00]Getting enzyme-reaction associations...                                    : 71.3%|███████▏  |   636/  892 [00:00<00:00]Getting enzyme-reaction associations...                                    : 83.3%|████████▎ |   743/  892 [00:00<00:00]Getting enzyme-reaction associations...                                    : 94.5%|█████████▍|   843/  892 [00:00<00:00]Getting enzyme-reaction associations...                                    : 100.0%|██████████|   892/  892 [00:00<00:00]
+Reading lcrescens done...
+Gathering M-model compartments...                                          : 0.0%|          |     0/    3 [00:00<?]Gathering M-model compartments...                                          : 100.0%|██████████|     3/    3 [00:00<00:00]
+Fixing compartments in M-model metabolites...                              : 0.0%|          |     0/  887 [00:00<?]Fixing compartments in M-model metabolites...                              : 100.0%|██████████|   887/  887 [00:00<00:00]
+Fixing missing names in M-model reactions...                               : 0.0%|          |     0/  892 [00:00<?]Fixing missing names in M-model reactions...                               : 100.0%|██████████|   892/  892 [00:00<00:00]
+~ Processing files for iJL1678b...
+Checking M-model metabolites...                                            : 0.0%|          |     0/ 1660 [00:00<?]Checking M-model metabolites...                                            : 100.0%|██████████|  1660/ 1660 [00:00<00:00]
+Checking M-model genes...                                                  : 0.0%|          |     0/ 1271 [00:00<?]Checking M-model genes...                                                  : 100.0%|██████████|  1271/ 1271 [00:00<00:00]
+Checking M-model reactions...                                              : 0.0%|          |     0/ 2377 [00:00<?]Checking M-model reactions...                                              : 100.0%|██████████|  2377/ 2377 [00:00<00:00]
+Looking for duplicates within datasets...                                  : 0.0%|          |     0/    5 [00:00<?]Looking for duplicates within datasets...                                  : 100.0%|██████████|     5/    5 [00:00<00:00]
+Gathering ID occurrences across datasets...                                : 0.0%|          |     0/ 5145 [00:00<?]Gathering ID occurrences across datasets...                                : 100.0%|██████████|  5145/ 5145 [00:00<00:00]
+Solving duplicates across datasets...                                      : 0.0%|          |     0/    0 [00:00<?]Solving duplicates across datasets...                                      : 0.0%|          |     0/    0 [00:00<?]
+Getting sigma factors...                                                   : 0.0%|          |     0/    7 [00:00<?]Getting sigma factors...                                                   : 100.0%|██████████|     7/    7 [00:00<00:00]
+Getting TU-gene associations from optional TUs file...                     : 0.0%|          |     0/  936 [00:00<?]Getting TU-gene associations from optional TUs file...                     : 100.0%|██████████|   936/  936 [00:00<00:00]
+Adding protein location...                                                 : 0.0%|          |     0/ 1304 [00:00<?]Adding protein location...                                                 : 100.0%|██████████|  1304/ 1304 [00:00<00:00]
+Purging M-model genes...                                                   : 0.0%|          |     0/ 1271 [00:00<?]Purging M-model genes...                                                   : 100.0%|██████████|  1271/ 1271 [00:00<00:00]
+Reading iJL1678b done...
+Updating translocation machinery from homology...                          : 0.0%|          |     0/    9 [00:00<?]Updating translocation machinery from homology...                          : 100.0%|██████████|     9/    9 [00:00<00:00]
+Updating protein location from homology...                                 : 0.0%|          |     0/  514 [00:00<?]Updating protein location from homology...                                 : 80.0%|███████▉  |   411/  514 [00:00<00:00]Updating protein location from homology...                                 : 100.0%|██████████|   514/  514 [00:00<00:00]
+Updating translocation multipliers from homology...                        : 0.0%|          |     0/    3 [00:00<?]Updating translocation multipliers from homology...                        : 100.0%|██████████|     3/    3 [00:00<00:00]
+Updating lipoprotein precursors from homology...                           : 0.0%|          |     0/   14 [00:00<?]Updating lipoprotein precursors from homology...                           : 100.0%|██████████|    14/   14 [00:00<00:00]
+Updating cleaved-methionine proteins from homology...                      : 0.0%|          |     0/  343 [00:00<?]Updating cleaved-methionine proteins from homology...                      : 100.0%|██████████|   343/  343 [00:00<00:00]
+Mapping M-metabolites to E-metabolites...                                  : 0.0%|          |     0/  147 [00:00<?]Mapping M-metabolites to E-metabolites...                                  : 100.0%|██████████|   147/  147 [00:00<00:00]
+Updating generics from homology...                                         : 0.0%|          |     0/   10 [00:00<?]Updating generics from homology...                                         : 100.0%|██████████|    10/   10 [00:00<00:00]
+Updating folding from homology...                                          : 0.0%|          |     0/    2 [00:00<?]Updating folding from homology...                                          : 100.0%|██████████|     2/    2 [00:00<00:00]
+Updating ribosome subreaction machinery from homology...                   : 0.0%|          |     0/    3 [00:00<?]Updating ribosome subreaction machinery from homology...                   : 100.0%|██████████|     3/    3 [00:00<00:00]
+Updating tRNA synthetases from homology...                                 : 0.0%|          |     0/   20 [00:00<?]Updating tRNA synthetases from homology...                                 : 100.0%|██████████|    20/   20 [00:00<00:00]
+Updating peptide release factors from homology...                          : 0.0%|          |     0/    3 [00:00<?]Updating peptide release factors from homology...                          : 100.0%|██████████|     3/    3 [00:00<00:00]
+Updating transcription subreactions machinery from homology...             : 0.0%|          |     0/    4 [00:00<?]Updating transcription subreactions machinery from homology...             : 100.0%|██████████|     4/    4 [00:00<00:00]
+Updating translation initiation subreactions from homology...              : 0.0%|          |     0/    4 [00:00<?]Updating translation initiation subreactions from homology...              : 100.0%|██████████|     4/    4 [00:00<00:00]
+Updating translation elongation subreactions from homology...              : 0.0%|          |     0/    2 [00:00<?]Updating translation elongation subreactions from homology...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Updating translation termination subreactions from homology...             : 0.0%|          |     0/    9 [00:00<?]Updating translation termination subreactions from homology...             : 100.0%|██████████|     9/    9 [00:00<00:00]
+Updating special tRNA subreactions from homology...                        : 0.0%|          |     0/    1 [00:00<?]Updating special tRNA subreactions from homology...                        : 100.0%|██████████|     1/    1 [00:00<00:00]
+Updating RNA degradosome composition from homology...                      : 0.0%|          |     0/    1 [00:00<?]Updating RNA degradosome composition from homology...                      : 100.0%|██████████|     1/    1 [00:00<00:00]
+Updating excision machinery from homology...                               : 0.0%|          |     0/    3 [00:00<?]Updating excision machinery from homology...                               : 100.0%|██████████|     3/    3 [00:00<00:00]
+Updating tRNA subreactions from homology...                                : 0.0%|          |     0/    6 [00:00<?]Updating tRNA subreactions from homology...                                : 100.0%|██████████|     6/    6 [00:00<00:00]
+Updating lipid modification machinery from homology...                     : 0.0%|          |     0/    2 [00:00<?]Updating lipid modification machinery from homology...                     : 100.0%|██████████|     2/    2 [00:00<00:00]
+Fixing M-model metabolites with homology...                                : 0.0%|          |     0/  887 [00:00<?]Fixing M-model metabolites with homology...                                : 100.0%|██████████|   887/  887 [00:00<00:00]
+Updating enzyme reaction association...                                    : 0.0%|          |     0/  612 [00:00<?]Updating enzyme reaction association...                                    : 100.0%|██████████|   612/  612 [00:00<00:00]
+Getting tRNA to codon dictionary from CP003789.1                           : 0.0%|          |     0/ 1435 [00:00<?]Getting tRNA to codon dictionary from CP003789.1                           : 18.9%|█▉        |   271/ 1435 [00:00<00:00]Getting tRNA to codon dictionary from CP003789.1                           : 39.7%|███▉      |   570/ 1435 [00:00<00:00]Getting tRNA to codon dictionary from CP003789.1                           : 60.8%|██████    |   873/ 1435 [00:00<00:00]Getting tRNA to codon dictionary from CP003789.1                           : 83.8%|████████▍ |  1202/ 1435 [00:00<00:00]Getting tRNA to codon dictionary from CP003789.1                           : 100.0%|██████████|  1435/ 1435 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS02270                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS02270                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS03135                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS03135                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS06980                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS06980                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS00170                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS00170                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS03830                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS03830                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS03140                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS03140                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS01810                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS01810                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS02280                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS02280                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS07110                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS07110                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS02290                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS02290                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS04325                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS04325                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS07105                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS07105                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS05595                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS05595                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS07070                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS07070                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS06790                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS06790                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS05980                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS05980                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS03470                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS03470                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS01535                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS01535                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS07045                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS07045                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS01095                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS01095                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS02330                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS02330                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS06960                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS06960                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS06405                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS06405                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS07035                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS07035                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS01120                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS01120                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS06800                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS06800                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS01460                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS01460                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS01140                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS01140                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS00965                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS00965                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS05995                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS05995                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS02360                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS02360                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS01850                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS01850                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS02365                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS02365                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS01065                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS01065                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS02370                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS02370                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS07030                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS07030                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS07040                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS07040                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS02520                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS02520                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS03495                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS03495                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS07020                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS07020                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS06290                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS06290                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS02830                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS02830                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS05755                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS05755                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS05330                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS05330                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS04265                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS04265                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS05055                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS05055                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS06355                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS06355                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS06825                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS06825                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS03255                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS03255                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS07050                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS07050                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS05070                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS05070                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS03385                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS03385                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS03270                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS03270                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS01015                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS01015                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS02415                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS02415                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS07005                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS07005                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS04415                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS04415                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS03780                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS03780                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS03670                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS03670                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS06840                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS06840                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS07015                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS07015                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS02420                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS02420                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS00335                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS00335                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS03285                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS03285                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS06165                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS06165                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS03050                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS03050                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS06045                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS06045                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS01305                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS01305                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS01910                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS01910                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS06970                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS06970                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS02430                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS02430                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS05400                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS05400                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS04270                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS04270                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS03685                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS03685                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS07090                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS07090                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS06270                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS06270                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS06755                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS06755                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS07080                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS07080                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS07085                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS07085                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS03070                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS03070                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS03075                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS03075                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS05530                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS05530                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS04875                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS04875                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS05680                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS05680                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS01340                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS01340                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS03805                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS03805                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS07115                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS07115                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS04345                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS04345                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS02890                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS02890                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS01785                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS01785                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS07120                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS07120                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS07010                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS07010                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS06955                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS06955                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS00430                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS00430                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS00920                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS00920                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS06920                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS06920                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS03820                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS03820                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS03120                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS03120                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS06925                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS06925                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS02260                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS02260                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Getting tRNA to codon dictionary from B488_RS06085                         : 0.0%|          |     0/    2 [00:00<?]Getting tRNA to codon dictionary from B488_RS06085                         : 100.0%|██████████|     2/    2 [00:00<00:00]
+Checking defined translocation pathways...                                 : 0.0%|          |     0/    9 [00:00<?]Checking defined translocation pathways...                                 : 100.0%|██████████|     9/    9 [00:00<00:00]
+Getting reaction Keffs...                                                  : 0.0%|          |     0/  612 [00:00<?]Getting reaction Keffs...                                                  : 100.0%|██████████|   612/  612 [00:00<00:00]
+File processing done...
+Initiating ME-model reconstruction...
+Adding biomass constraint(s) into the ME-model...                          : 0.0%|          |     0/   11 [00:00<?]Adding biomass constraint(s) into the ME-model...                          : 100.0%|██████████|    11/   11 [00:00<00:00]
+Read LP format model from file /tmp/tmpnmy4_uea.lp
+Reading time = 0.00 seconds
+: 887 rows, 1784 columns, 7394 nonzeros
+Adding Metabolites from M-model into the ME-model...                       : 0.0%|          |     0/  892 [00:00<?]Adding Metabolites from M-model into the ME-model...                       : 100.0%|██████████|   892/  892 [00:00<00:00]
+Adding Reactions from M-model into the ME-model...                         : 0.0%|          |     0/  889 [00:00<?]Adding Reactions from M-model into the ME-model...                         : 100.0%|██████████|   889/  889 [00:00<00:00]
+Adding Transcriptional Units into the ME-model...                          : 0.0%|          |     0/  936 [00:00<?]Adding Transcriptional Units into the ME-model...                          : 4.7%|▍         |    44/  936 [00:00<00:02]Adding Transcriptional Units into the ME-model...                          : 9.4%|▉         |    88/  936 [00:00<00:02]Adding Transcriptional Units into the ME-model...                          : 14.7%|█▍        |   138/  936 [00:00<00:01]Adding Transcriptional Units into the ME-model...                          : 19.6%|█▉        |   183/  936 [00:00<00:01]Adding Transcriptional Units into the ME-model...                          : 24.5%|██▍       |   229/  936 [00:00<00:01]Adding Transcriptional Units into the ME-model...                          : 30.0%|███       |   281/  936 [00:00<00:01]Adding Transcriptional Units into the ME-model...                          : 35.0%|███▌      |   328/  936 [00:00<00:01]Adding Transcriptional Units into the ME-model...                          : 39.7%|███▉      |   372/  936 [00:00<00:01]Adding Transcriptional Units into the ME-model...                          : 44.9%|████▍     |   420/  936 [00:00<00:01]Adding Transcriptional Units into the ME-model...                          : 49.8%|████▉     |   466/  936 [00:01<00:01]Adding Transcriptional Units into the ME-model...                          : 54.6%|█████▍    |   511/  936 [00:01<00:00]Adding Transcriptional Units into the ME-model...                          : 60.4%|██████    |   565/  936 [00:01<00:00]Adding Transcriptional Units into the ME-model...                          : 66.2%|██████▌   |   620/  936 [00:01<00:00]Adding Transcriptional Units into the ME-model...                          : 71.5%|███████▏  |   669/  936 [00:01<00:00]Adding Transcriptional Units into the ME-model...                          : 76.5%|███████▋  |   716/  936 [00:01<00:00]Adding Transcriptional Units into the ME-model...                          : 81.5%|████████▏ |   763/  936 [00:01<00:00]Adding Transcriptional Units into the ME-model...                          : 87.2%|████████▋ |   816/  936 [00:01<00:00]Adding Transcriptional Units into the ME-model...                          : 92.3%|█████████▏|   864/  936 [00:01<00:00]Adding Transcriptional Units into the ME-model...                          : 97.3%|█████████▋|   911/  936 [00:02<00:00]Adding Transcriptional Units into the ME-model...                          : 100.0%|██████████|   936/  936 [00:02<00:00]
+Adding features from contig CP003789.1 into the ME-model...                : 0.0%|          |     0/ 1435 [00:00<?]Adding features from contig CP003789.1 into the ME-model...                : 6.0%|▌         |    86/ 1435 [00:00<00:03]Adding features from contig CP003789.1 into the ME-model...                : 13.9%|█▍        |   199/ 1435 [00:00<00:01]Adding features from contig CP003789.1 into the ME-model...                : 22.2%|██▏       |   318/ 1435 [00:00<00:01]Adding features from contig CP003789.1 into the ME-model...                : 30.1%|███       |   432/ 1435 [00:00<00:01]Adding features from contig CP003789.1 into the ME-model...                : 38.3%|███▊      |   549/ 1435 [00:00<00:00]Adding features from contig CP003789.1 into the ME-model...                : 45.9%|████▌     |   659/ 1435 [00:00<00:00]Adding features from contig CP003789.1 into the ME-model...                : 53.6%|█████▎    |   769/ 1435 [00:00<00:00]Adding features from contig CP003789.1 into the ME-model...                : 61.1%|██████    |   877/ 1435 [00:00<00:00]Adding features from contig CP003789.1 into the ME-model...                : 68.6%|██████▊   |   985/ 1435 [00:01<00:00]Adding features from contig CP003789.1 into the ME-model...                : 76.2%|███████▌  |  1093/ 1435 [00:01<00:00]Adding features from contig CP003789.1 into the ME-model...                : 83.6%|████████▎ |  1200/ 1435 [00:01<00:00]Adding features from contig CP003789.1 into the ME-model...                : 90.9%|█████████ |  1305/ 1435 [00:01<00:00]Adding features from contig CP003789.1 into the ME-model...                : 98.2%|█████████▊|  1409/ 1435 [00:01<00:00]Adding features from contig CP003789.1 into the ME-model...                : 100.0%|██████████|  1435/ 1435 [00:01<00:00]
+Adding features from contig B488_RS02270 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS02270 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS03135 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS03135 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS06980 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS06980 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS00170 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS00170 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS03830 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS03830 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS03140 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS03140 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS01810 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS01810 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS02280 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS02280 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS07110 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS07110 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS02290 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS02290 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS04325 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS04325 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS07105 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS07105 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS05595 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS05595 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS07070 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS07070 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS06790 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS06790 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS05980 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS05980 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS03470 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS03470 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS01535 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS01535 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS07045 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS07045 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS01095 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS01095 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS02330 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS02330 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS06960 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS06960 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS06405 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS06405 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS07035 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS07035 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS01120 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS01120 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS06800 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS06800 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS01460 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS01460 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS01140 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS01140 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS00965 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS00965 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS05995 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS05995 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS02360 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS02360 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS01850 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS01850 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS02365 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS02365 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS01065 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS01065 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS02370 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS02370 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS07030 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS07030 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS07040 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS07040 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS02520 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS02520 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS03495 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS03495 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS07020 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS07020 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS06290 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS06290 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS02830 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS02830 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS05755 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS05755 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS05330 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS05330 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS04265 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS04265 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS05055 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS05055 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS06355 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS06355 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS06825 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS06825 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS03255 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS03255 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS07050 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS07050 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS05070 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS05070 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS03385 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS03385 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS03270 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS03270 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS01015 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS01015 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS02415 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS02415 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS07005 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS07005 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS04415 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS04415 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS03780 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS03780 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS03670 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS03670 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS06840 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS06840 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS07015 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS07015 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS02420 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS02420 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS00335 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS00335 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS03285 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS03285 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS06165 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS06165 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS03050 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS03050 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS06045 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS06045 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS01305 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS01305 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS01910 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS01910 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS06970 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS06970 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS02430 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS02430 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS05400 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS05400 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS04270 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS04270 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS03685 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS03685 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS07090 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS07090 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS06270 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS06270 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS06755 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS06755 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS07080 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS07080 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS07085 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS07085 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS03070 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS03070 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS03075 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS03075 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS05530 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS05530 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS04875 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS04875 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS05680 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS05680 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS01340 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS01340 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS03805 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS03805 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS07115 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS07115 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS04345 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS04345 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS02890 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS02890 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS01785 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS01785 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS07120 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS07120 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS07010 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS07010 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS06955 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS06955 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS00430 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS00430 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS00920 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS00920 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS06920 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS06920 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS03820 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS03820 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS03120 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS03120 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS06925 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS06925 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS02260 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS02260 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Adding features from contig B488_RS06085 into the ME-model...              : 0.0%|          |     0/    2 [00:00<?]Adding features from contig B488_RS06085 into the ME-model...              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Updating all TranslationReaction and TranscriptionReaction...              : 0.0%|          |     0/ 2887 [00:00<?]Updating all TranslationReaction and TranscriptionReaction...              : 8.2%|▊         |   237/ 2887 [00:00<00:01]Updating all TranslationReaction and TranscriptionReaction...              : 16.3%|█▋        |   472/ 2887 [00:00<00:01]Updating all TranslationReaction and TranscriptionReaction...              : 23.0%|██▎       |   664/ 2887 [00:00<00:01]Updating all TranslationReaction and TranscriptionReaction...              : 29.0%|██▉       |   836/ 2887 [00:00<00:01]Updating all TranslationReaction and TranscriptionReaction...              : 34.6%|███▍      |  1000/ 2887 [00:00<00:01]Updating all TranslationReaction and TranscriptionReaction...              : 39.8%|███▉      |  1149/ 2887 [00:00<00:01]Updating all TranslationReaction and TranscriptionReaction...              : 44.8%|████▍     |  1294/ 2887 [00:00<00:01]Updating all TranslationReaction and TranscriptionReaction...              : 49.5%|████▉     |  1429/ 2887 [00:00<00:01]Updating all TranslationReaction and TranscriptionReaction...              : 54.1%|█████▍    |  1562/ 2887 [00:01<00:01]Updating all TranslationReaction and TranscriptionReaction...              : 58.8%|█████▉    |  1697/ 2887 [00:01<00:00]Updating all TranslationReaction and TranscriptionReaction...              : 63.4%|██████▎   |  1830/ 2887 [00:01<00:00]Updating all TranslationReaction and TranscriptionReaction...              : 68.0%|██████▊   |  1963/ 2887 [00:01<00:00]Updating all TranslationReaction and TranscriptionReaction...              : 72.9%|███████▎  |  2104/ 2887 [00:01<00:00]Updating all TranslationReaction and TranscriptionReaction...              : 77.6%|███████▊  |  2239/ 2887 [00:01<00:00]Updating all TranslationReaction and TranscriptionReaction...              : 82.1%|████████▏ |  2370/ 2887 [00:01<00:00]Updating all TranslationReaction and TranscriptionReaction...              : 86.6%|████████▋ |  2501/ 2887 [00:01<00:00]Updating all TranslationReaction and TranscriptionReaction...              : 91.1%|█████████ |  2631/ 2887 [00:01<00:00]Updating all TranslationReaction and TranscriptionReaction...              : 100.0%|██████████|  2887/ 2887 [00:01<00:00]
+Removing SubReactions from ComplexData...                                  : 0.0%|          |     0/ 1773 [00:00<?]Removing SubReactions from ComplexData...                                  : 100.0%|██████████|  1773/ 1773 [00:00<00:00]
+Adding ComplexFormation into the ME-model...                               : 0.0%|          |     0/ 1773 [00:00<?]Adding ComplexFormation into the ME-model...                               : 100.0%|██████████|  1773/ 1773 [00:00<00:00]
+Adding Generic(s) into the ME-model...                                     : 0.0%|          |     0/    9 [00:00<?]Adding Generic(s) into the ME-model...                                     : 100.0%|██████████|     9/    9 [00:00<00:00]
+Processing StoichiometricData in ME-model...                               : 0.0%|          |     0/  773 [00:00<?]Processing StoichiometricData in ME-model...                               : 92.0%|█████████▏|   711/  773 [00:00<00:00]Processing StoichiometricData in ME-model...                               : 100.0%|██████████|   773/  773 [00:00<00:00]
+ME-model was saved in the ./lcrescens/ directory as MEModel-step1-lcrescens.pkl
+Adding tRNA synthetase(s) information into the ME-model...                 : 0.0%|          |     0/  172 [00:00<?]Adding tRNA synthetase(s) information into the ME-model...                 : 100.0%|██████████|   172/  172 [00:00<00:00]
+Adding tRNA modification SubReactions...                                   : 0.0%|          |     0/    0 [00:00<?]Adding tRNA modification SubReactions...                                   : 0.0%|          |     0/    0 [00:00<?]
+Associating tRNA modification enzyme(s) to tRNA(s)...                      : 0.0%|          |     0/    0 [00:00<?]Associating tRNA modification enzyme(s) to tRNA(s)...                      : 0.0%|          |     0/    0 [00:00<?]
+Adding SubReactions into TranslationReactions...                           : 0.0%|          |     0/ 1477 [00:00<?]Adding SubReactions into TranslationReactions...                           : 22.3%|██▏       |   330/ 1477 [00:00<00:00]Adding SubReactions into TranslationReactions...                           : 46.0%|████▌     |   679/ 1477 [00:00<00:00]Adding SubReactions into TranslationReactions...                           : 69.1%|██████▉   |  1020/ 1477 [00:00<00:00]Adding SubReactions into TranslationReactions...                           : 92.4%|█████████▏|  1365/ 1477 [00:00<00:00]Adding SubReactions into TranslationReactions...                           : 100.0%|██████████|  1477/ 1477 [00:00<00:00]
+Adding RNA Polymerase(s) into the ME-model...                              : 0.0%|          |     0/    2 [00:00<?]Adding RNA Polymerase(s) into the ME-model...                              : 100.0%|██████████|     2/    2 [00:00<00:00]
+Associating a RNA Polymerase to each Transcriptional Unit...               : 0.0%|          |     0/  936 [00:00<?]Associating a RNA Polymerase to each Transcriptional Unit...               : 100.0%|██████████|   936/  936 [00:00<00:00]
+Processing ComplexData in ME-model...                                      : 0.0%|          |     0/  214 [00:00<?]Processing ComplexData in ME-model...                                      : 100.0%|██████████|   214/  214 [00:00<00:00]
+Adding ComplexFormation into the ME-model...                               : 0.0%|          |     0/ 1783 [00:00<?]Adding ComplexFormation into the ME-model...                               : 100.0%|██████████|  1783/ 1783 [00:00<00:00]
+Adding SubReactions into TranslationReactions...                           : 0.0%|          |     0/ 1477 [00:00<?]Adding SubReactions into TranslationReactions...                           : 21.4%|██▏       |   316/ 1477 [00:00<00:00]Adding SubReactions into TranslationReactions...                           : 43.9%|████▍     |   649/ 1477 [00:00<00:00]Adding SubReactions into TranslationReactions...                           : 66.4%|██████▋   |   980/ 1477 [00:00<00:00]Adding SubReactions into TranslationReactions...                           : 88.6%|████████▊ |  1308/ 1477 [00:00<00:00]Adding SubReactions into TranslationReactions...                           : 100.0%|██████████|  1477/ 1477 [00:00<00:00]
+Adding Transcription SubReactions...                                       : 0.0%|          |     0/ 1111 [00:00<?]Adding Transcription SubReactions...                                       : 100.0%|██████████|  1111/ 1111 [00:00<00:00]
+Processing StoichiometricData in SubReactionData...                        : 0.0%|          |     0/  140 [00:00<?]Processing StoichiometricData in SubReactionData...                        : 100.0%|██████████|   140/  140 [00:00<00:00]
+Adding reaction subsystems from M-model into the ME-model...               : 0.0%|          |     0/  889 [00:00<?]Adding reaction subsystems from M-model into the ME-model...               : 100.0%|██████████|   889/  889 [00:00<00:00]
+Processing StoichiometricData in ME-model...                               : 0.0%|          |     0/  773 [00:00<?]Processing StoichiometricData in ME-model...                               : 100.0%|██████████|   773/  773 [00:00<00:00]
+Updating ME-model Reactions...                                             : 0.0%|          |     0/ 6995 [00:00<?]Updating ME-model Reactions...                                             : 1.0%|          |    68/ 6995 [00:00<00:10]Updating ME-model Reactions...                                             : 1.9%|▏         |   134/ 6995 [00:00<00:12]Updating ME-model Reactions...                                             : 2.8%|▎         |   198/ 6995 [00:00<00:11]Updating ME-model Reactions...                                             : 3.7%|▎         |   258/ 6995 [00:00<00:11]Updating ME-model Reactions...                                             : 4.5%|▍         |   316/ 6995 [00:00<00:12]Updating ME-model Reactions...                                             : 5.3%|▌         |   371/ 6995 [00:00<00:12]Updating ME-model Reactions...                                             : 6.3%|▋         |   441/ 6995 [00:00<00:11]Updating ME-model Reactions...                                             : 7.1%|▋         |   498/ 6995 [00:00<00:12]Updating ME-model Reactions...                                             : 7.9%|▊         |   552/ 6995 [00:01<00:12]Updating ME-model Reactions...                                             : 8.6%|▊         |   604/ 6995 [00:01<00:12]Updating ME-model Reactions...                                             : 9.6%|▉         |   671/ 6995 [00:01<00:11]Updating ME-model Reactions...                                             : 10.4%|█         |   726/ 6995 [00:01<00:11]Updating ME-model Reactions...                                             : 11.2%|█         |   781/ 6995 [00:01<00:12]Updating ME-model Reactions...                                             : 12.0%|█▏        |   842/ 6995 [00:01<00:11]Updating ME-model Reactions...                                             : 12.8%|█▎        |   897/ 6995 [00:01<00:11]Updating ME-model Reactions...                                             : 13.6%|█▎        |   950/ 6995 [00:01<00:12]Updating ME-model Reactions...                                             : 14.3%|█▍        |  1000/ 6995 [00:02<00:29]Updating ME-model Reactions...                                             : 14.8%|█▍        |  1038/ 6995 [00:02<00:38]Updating ME-model Reactions...                                             : 15.3%|█▌        |  1067/ 6995 [00:03<00:44]Updating ME-model Reactions...                                             : 15.6%|█▌        |  1090/ 6995 [00:03<00:50]Updating ME-model Reactions...                                             : 15.9%|█▌        |  1109/ 6995 [00:03<00:54]Updating ME-model Reactions...                                             : 16.1%|█▌        |  1125/ 6995 [00:04<01:11]Updating ME-model Reactions...                                             : 16.3%|█▋        |  1137/ 6995 [00:04<01:12]Updating ME-model Reactions...                                             : 16.4%|█▋        |  1148/ 6995 [00:04<01:11]Updating ME-model Reactions...                                             : 16.6%|█▋        |  1158/ 6995 [00:04<01:09]Updating ME-model Reactions...                                             : 16.7%|█▋        |  1168/ 6995 [00:04<01:08]Updating ME-model Reactions...                                             : 16.8%|█▋        |  1178/ 6995 [00:04<01:07]Updating ME-model Reactions...                                             : 17.0%|█▋        |  1188/ 6995 [00:04<01:05]Updating ME-model Reactions...                                             : 17.1%|█▋        |  1198/ 6995 [00:04<01:03]Updating ME-model Reactions...                                             : 17.3%|█▋        |  1208/ 6995 [00:05<01:07]Updating ME-model Reactions...                                             : 17.4%|█▋        |  1217/ 6995 [00:05<01:06]Updating ME-model Reactions...                                             : 17.5%|█▊        |  1226/ 6995 [00:05<01:08]Updating ME-model Reactions...                                             : 17.7%|█▊        |  1235/ 6995 [00:05<01:08]Updating ME-model Reactions...                                             : 17.8%|█▊        |  1244/ 6995 [00:05<01:09]Updating ME-model Reactions...                                             : 17.9%|█▊        |  1253/ 6995 [00:05<01:11]Updating ME-model Reactions...                                             : 18.1%|█▊        |  1267/ 6995 [00:05<01:00]Updating ME-model Reactions...                                             : 18.3%|█▊        |  1277/ 6995 [00:05<01:01]Updating ME-model Reactions...                                             : 18.4%|█▊        |  1290/ 6995 [00:05<00:55]Updating ME-model Reactions...                                             : 18.6%|█▊        |  1301/ 6995 [00:06<01:01]Updating ME-model Reactions...                                             : 18.7%|█▊        |  1311/ 6995 [00:06<01:06]Updating ME-model Reactions...                                             : 18.9%|█▉        |  1322/ 6995 [00:06<01:02]Updating ME-model Reactions...                                             : 19.0%|█▉        |  1332/ 6995 [00:06<01:03]Updating ME-model Reactions...                                             : 19.2%|█▉        |  1342/ 6995 [00:06<01:07]Updating ME-model Reactions...                                             : 19.3%|█▉        |  1352/ 6995 [00:06<01:05]Updating ME-model Reactions...                                             : 19.5%|█▉        |  1362/ 6995 [00:06<01:03]Updating ME-model Reactions...                                             : 19.6%|█▉        |  1372/ 6995 [00:06<01:05]Updating ME-model Reactions...                                             : 19.8%|█▉        |  1385/ 6995 [00:07<00:59]Updating ME-model Reactions...                                             : 19.9%|█▉        |  1395/ 6995 [00:07<01:00]Updating ME-model Reactions...                                             : 20.1%|██        |  1405/ 6995 [00:07<01:00]Updating ME-model Reactions...                                             : 20.2%|██        |  1415/ 6995 [00:07<00:59]Updating ME-model Reactions...                                             : 20.4%|██        |  1425/ 6995 [00:07<00:59]Updating ME-model Reactions...                                             : 20.5%|██        |  1435/ 6995 [00:07<01:01]Updating ME-model Reactions...                                             : 20.7%|██        |  1446/ 6995 [00:07<00:59]Updating ME-model Reactions...                                             : 20.8%|██        |  1456/ 6995 [00:07<01:02]Updating ME-model Reactions...                                             : 21.0%|██        |  1468/ 6995 [00:07<00:58]Updating ME-model Reactions...                                             : 21.2%|██        |  1483/ 6995 [00:08<00:51]Updating ME-model Reactions...                                             : 21.4%|██▏       |  1497/ 6995 [00:08<00:49]Updating ME-model Reactions...                                             : 21.6%|██▏       |  1509/ 6995 [00:08<00:49]Updating ME-model Reactions...                                             : 21.8%|██▏       |  1523/ 6995 [00:08<00:47]Updating ME-model Reactions...                                             : 21.9%|██▏       |  1535/ 6995 [00:08<00:53]Updating ME-model Reactions...                                             : 22.1%|██▏       |  1546/ 6995 [00:08<00:58]Updating ME-model Reactions...                                             : 22.2%|██▏       |  1556/ 6995 [00:08<00:59]Updating ME-model Reactions...                                             : 22.4%|██▏       |  1566/ 6995 [00:08<01:03]Updating ME-model Reactions...                                             : 22.5%|██▎       |  1577/ 6995 [00:09<01:00]Updating ME-model Reactions...                                             : 22.7%|██▎       |  1587/ 6995 [00:09<01:05]Updating ME-model Reactions...                                             : 22.8%|██▎       |  1596/ 6995 [00:09<01:08]Updating ME-model Reactions...                                             : 22.9%|██▎       |  1605/ 6995 [00:09<01:08]Updating ME-model Reactions...                                             : 23.1%|██▎       |  1614/ 6995 [00:09<01:06]Updating ME-model Reactions...                                             : 23.2%|██▎       |  1623/ 6995 [00:09<01:08]Updating ME-model Reactions...                                             : 23.3%|██▎       |  1633/ 6995 [00:09<01:04]Updating ME-model Reactions...                                             : 23.5%|██▎       |  1642/ 6995 [00:09<01:06]Updating ME-model Reactions...                                             : 23.6%|██▎       |  1654/ 6995 [00:10<00:59]Updating ME-model Reactions...                                             : 23.8%|██▍       |  1666/ 6995 [00:10<00:55]Updating ME-model Reactions...                                             : 24.0%|██▍       |  1676/ 6995 [00:10<00:57]Updating ME-model Reactions...                                             : 24.1%|██▍       |  1686/ 6995 [00:10<00:58]Updating ME-model Reactions...                                             : 24.2%|██▍       |  1696/ 6995 [00:10<00:59]Updating ME-model Reactions...                                             : 24.4%|██▍       |  1705/ 6995 [00:10<00:59]Updating ME-model Reactions...                                             : 24.6%|██▍       |  1719/ 6995 [00:10<00:53]Updating ME-model Reactions...                                             : 24.7%|██▍       |  1729/ 6995 [00:10<00:55]Updating ME-model Reactions...                                             : 24.9%|██▍       |  1739/ 6995 [00:10<00:58]Updating ME-model Reactions...                                             : 25.0%|██▌       |  1749/ 6995 [00:11<00:59]Updating ME-model Reactions...                                             : 25.1%|██▌       |  1758/ 6995 [00:11<01:03]Updating ME-model Reactions...                                             : 25.3%|██▌       |  1769/ 6995 [00:11<00:59]Updating ME-model Reactions...                                             : 25.4%|██▌       |  1778/ 6995 [00:11<01:00]Updating ME-model Reactions...                                             : 25.5%|██▌       |  1787/ 6995 [00:11<01:03]Updating ME-model Reactions...                                             : 25.7%|██▌       |  1796/ 6995 [00:11<01:04]Updating ME-model Reactions...                                             : 25.8%|██▌       |  1805/ 6995 [00:11<01:02]Updating ME-model Reactions...                                             : 26.0%|██▌       |  1819/ 6995 [00:11<00:52]Updating ME-model Reactions...                                             : 26.2%|██▌       |  1830/ 6995 [00:12<00:58]Updating ME-model Reactions...                                             : 26.3%|██▋       |  1843/ 6995 [00:12<00:52]Updating ME-model Reactions...                                             : 26.5%|██▋       |  1854/ 6995 [00:12<00:52]Updating ME-model Reactions...                                             : 26.7%|██▋       |  1867/ 6995 [00:12<00:47]Updating ME-model Reactions...                                             : 26.8%|██▋       |  1878/ 6995 [00:12<00:50]Updating ME-model Reactions...                                             : 27.0%|██▋       |  1889/ 6995 [00:12<00:57]Updating ME-model Reactions...                                             : 27.1%|██▋       |  1899/ 6995 [00:12<00:57]Updating ME-model Reactions...                                             : 27.3%|██▋       |  1909/ 6995 [00:12<01:02]Updating ME-model Reactions...                                             : 27.4%|██▋       |  1919/ 6995 [00:12<01:00]Updating ME-model Reactions...                                             : 27.6%|██▊       |  1931/ 6995 [00:13<00:54]Updating ME-model Reactions...                                             : 27.8%|██▊       |  1942/ 6995 [00:13<00:53]Updating ME-model Reactions...                                             : 27.9%|██▊       |  1952/ 6995 [00:13<00:56]Updating ME-model Reactions...                                             : 28.0%|██▊       |  1962/ 6995 [00:13<00:55]Updating ME-model Reactions...                                             : 28.2%|██▊       |  1972/ 6995 [00:13<00:54]Updating ME-model Reactions...                                             : 28.4%|██▊       |  1987/ 6995 [00:13<00:47]Updating ME-model Reactions...                                             : 28.6%|██▊       |  1998/ 6995 [00:13<00:50]Updating ME-model Reactions...                                             : 28.7%|██▊       |  2009/ 6995 [00:13<00:53]Updating ME-model Reactions...                                             : 28.9%|██▉       |  2019/ 6995 [00:14<00:55]Updating ME-model Reactions...                                             : 29.0%|██▉       |  2029/ 6995 [00:14<00:55]Updating ME-model Reactions...                                             : 29.1%|██▉       |  2039/ 6995 [00:14<00:58]Updating ME-model Reactions...                                             : 29.3%|██▉       |  2048/ 6995 [00:14<01:01]Updating ME-model Reactions...                                             : 29.4%|██▉       |  2057/ 6995 [00:14<00:59]Updating ME-model Reactions...                                             : 29.5%|██▉       |  2066/ 6995 [00:14<01:01]Updating ME-model Reactions...                                             : 29.7%|██▉       |  2075/ 6995 [00:14<01:02]Updating ME-model Reactions...                                             : 29.8%|██▉       |  2083/ 6995 [00:14<01:04]Updating ME-model Reactions...                                             : 29.9%|██▉       |  2093/ 6995 [00:14<01:01]Updating ME-model Reactions...                                             : 30.1%|███       |  2102/ 6995 [00:15<01:00]Updating ME-model Reactions...                                             : 30.2%|███       |  2111/ 6995 [00:15<01:01]Updating ME-model Reactions...                                             : 30.3%|███       |  2120/ 6995 [00:15<01:00]Updating ME-model Reactions...                                             : 30.5%|███       |  2130/ 6995 [00:15<00:56]Updating ME-model Reactions...                                             : 30.6%|███       |  2139/ 6995 [00:15<00:58]Updating ME-model Reactions...                                             : 30.7%|███       |  2148/ 6995 [00:15<01:01]Updating ME-model Reactions...                                             : 30.8%|███       |  2156/ 6995 [00:15<01:03]Updating ME-model Reactions...                                             : 30.9%|███       |  2164/ 6995 [00:15<01:03]Updating ME-model Reactions...                                             : 31.1%|███       |  2173/ 6995 [00:15<01:00]Updating ME-model Reactions...                                             : 31.2%|███       |  2182/ 6995 [00:16<00:58]Updating ME-model Reactions...                                             : 31.3%|███▏      |  2191/ 6995 [00:16<00:58]Updating ME-model Reactions...                                             : 31.5%|███▏      |  2200/ 6995 [00:16<00:59]Updating ME-model Reactions...                                             : 31.6%|███▏      |  2209/ 6995 [00:16<00:58]Updating ME-model Reactions...                                             : 31.7%|███▏      |  2218/ 6995 [00:16<01:00]Updating ME-model Reactions...                                             : 31.8%|███▏      |  2227/ 6995 [00:16<00:59]Updating ME-model Reactions...                                             : 32.0%|███▏      |  2237/ 6995 [00:16<00:56]Updating ME-model Reactions...                                             : 32.1%|███▏      |  2248/ 6995 [00:16<00:53]Updating ME-model Reactions...                                             : 32.3%|███▏      |  2259/ 6995 [00:16<00:52]Updating ME-model Reactions...                                             : 32.4%|███▏      |  2269/ 6995 [00:17<00:54]Updating ME-model Reactions...                                             : 32.6%|███▎      |  2281/ 6995 [00:17<00:51]Updating ME-model Reactions...                                             : 32.8%|███▎      |  2291/ 6995 [00:17<00:52]Updating ME-model Reactions...                                             : 32.9%|███▎      |  2300/ 6995 [00:17<00:52]Updating ME-model Reactions...                                             : 33.0%|███▎      |  2309/ 6995 [00:17<00:56]Updating ME-model Reactions...                                             : 33.1%|███▎      |  2318/ 6995 [00:17<00:57]Updating ME-model Reactions...                                             : 33.3%|███▎      |  2327/ 6995 [00:17<00:56]Updating ME-model Reactions...                                             : 33.4%|███▎      |  2336/ 6995 [00:17<00:56]Updating ME-model Reactions...                                             : 33.5%|███▎      |  2346/ 6995 [00:18<00:53]Updating ME-model Reactions...                                             : 33.7%|███▎      |  2357/ 6995 [00:18<00:50]Updating ME-model Reactions...                                             : 33.9%|███▍      |  2369/ 6995 [00:18<00:47]Updating ME-model Reactions...                                             : 34.0%|███▍      |  2379/ 6995 [00:18<00:50]Updating ME-model Reactions...                                             : 34.2%|███▍      |  2389/ 6995 [00:18<00:49]Updating ME-model Reactions...                                             : 34.3%|███▍      |  2399/ 6995 [00:18<00:53]Updating ME-model Reactions...                                             : 34.5%|███▍      |  2413/ 6995 [00:18<00:45]Updating ME-model Reactions...                                             : 34.7%|███▍      |  2424/ 6995 [00:18<00:49]Updating ME-model Reactions...                                             : 34.8%|███▍      |  2434/ 6995 [00:18<00:51]Updating ME-model Reactions...                                             : 34.9%|███▍      |  2444/ 6995 [00:19<00:51]Updating ME-model Reactions...                                             : 35.1%|███▌      |  2453/ 6995 [00:19<00:53]Updating ME-model Reactions...                                             : 35.2%|███▌      |  2462/ 6995 [00:19<00:52]Updating ME-model Reactions...                                             : 35.3%|███▌      |  2471/ 6995 [00:19<00:52]Updating ME-model Reactions...                                             : 35.5%|███▌      |  2480/ 6995 [00:19<00:55]Updating ME-model Reactions...                                             : 35.6%|███▌      |  2489/ 6995 [00:19<00:56]Updating ME-model Reactions...                                             : 35.7%|███▌      |  2498/ 6995 [00:19<00:56]Updating ME-model Reactions...                                             : 35.9%|███▌      |  2508/ 6995 [00:19<00:54]Updating ME-model Reactions...                                             : 36.0%|███▌      |  2517/ 6995 [00:19<00:53]Updating ME-model Reactions...                                             : 36.1%|███▌      |  2526/ 6995 [00:20<00:53]Updating ME-model Reactions...                                             : 36.2%|███▌      |  2535/ 6995 [00:20<00:54]Updating ME-model Reactions...                                             : 36.4%|███▋      |  2544/ 6995 [00:20<00:55]Updating ME-model Reactions...                                             : 36.5%|███▋      |  2553/ 6995 [00:20<00:54]Updating ME-model Reactions...                                             : 36.6%|███▋      |  2562/ 6995 [00:20<00:53]Updating ME-model Reactions...                                             : 36.8%|███▋      |  2571/ 6995 [00:20<00:52]Updating ME-model Reactions...                                             : 36.9%|███▋      |  2581/ 6995 [00:20<00:51]Updating ME-model Reactions...                                             : 37.0%|███▋      |  2590/ 6995 [00:20<00:52]Updating ME-model Reactions...                                             : 37.2%|███▋      |  2600/ 6995 [00:20<00:49]Updating ME-model Reactions...                                             : 77.2%|███████▋  |  5403/ 6995 [00:21<00:00]Updating ME-model Reactions...                                             : 100.0%|██████████|  6995/ 6995 [00:21<00:00]
+Updating all FormationReactions...                                         : 0.0%|          |     0/ 1783 [00:00<?]Updating all FormationReactions...                                         : 100.0%|██████████|  1783/ 1783 [00:00<00:00]
+Recalculation of the elemental contribution in SubReactions...             : 0.0%|          |     0/  252 [00:00<?]Recalculation of the elemental contribution in SubReactions...             : 100.0%|██████████|   252/  252 [00:00<00:00]
+Updating all FormationReactions...                                         : 0.0%|          |     0/ 1783 [00:00<?]Updating all FormationReactions...                                         : 100.0%|██████████|  1783/ 1783 [00:00<00:00]
+Updating FormationReactions involving a lipoyl prosthetic group...         : 0.0%|          |     0/    5 [00:00<?]Updating FormationReactions involving a lipoyl prosthetic group...         : 100.0%|██████████|     5/    5 [00:00<00:00]
+Updating FormationReactions involving a glycyl radical...                  : 0.0%|          |     0/    0 [00:00<?]Updating FormationReactions involving a glycyl radical...                  : 0.0%|          |     0/    0 [00:00<?]
+Estimating effective turnover rates for reactions using the SASA method... : 0.0%|          |     0/ 2360 [00:00<?]Estimating effective turnover rates for reactions using the SASA method... : 41.3%|████▏     |   975/ 2360 [00:00<00:00]Estimating effective turnover rates for reactions using the SASA method... : 100.0%|██████████|  2360/ 2360 [00:00<00:00]
+Mapping effective turnover rates from user input...                        : 0.0%|          |     0/    0 [00:00<?]Mapping effective turnover rates from user input...                        : 0.0%|          |     0/    0 [00:00<?]
+Setting the effective turnover rates using user input...                   : 0.0%|          |     0/ 2036 [00:00<?]Setting the effective turnover rates using user input...                   : 44.5%|████▍     |   906/ 2036 [00:00<00:00]Setting the effective turnover rates using user input...                   : 100.0%|██████████|  2036/ 2036 [00:00<00:00]
+Pruning unnecessary ComplexData reactions...                               : 0.0%|          |     0/ 1783 [00:00<?]Pruning unnecessary ComplexData reactions...                               : 8.5%|▊         |   152/ 1783 [00:00<00:01]Pruning unnecessary ComplexData reactions...                               : 19.8%|█▉        |   353/ 1783 [00:00<00:00]Pruning unnecessary ComplexData reactions...                               : 30.2%|███       |   538/ 1783 [00:00<00:00]Pruning unnecessary ComplexData reactions...                               : 42.2%|████▏     |   753/ 1783 [00:00<00:00]Pruning unnecessary ComplexData reactions...                               : 53.7%|█████▎    |   958/ 1783 [00:00<00:00]Pruning unnecessary ComplexData reactions...                               : 66.1%|██████▌   |  1179/ 1783 [00:00<00:00]Pruning unnecessary ComplexData reactions...                               : 80.0%|████████  |  1427/ 1783 [00:00<00:00]Pruning unnecessary ComplexData reactions...                               : 100.0%|██████████|  1783/ 1783 [00:00<00:00]
+Pruning unnecessary FoldedProtein reactions...                             : 0.0%|          |     0/    0 [00:00<?]Pruning unnecessary FoldedProtein reactions...                             : 0.0%|          |     0/    0 [00:00<?]
+Pruning unnecessary ProcessedProtein reactions...                          : 0.0%|          |     0/ 1549 [00:00<?]Pruning unnecessary ProcessedProtein reactions...                          : 100.0%|██████████|  1549/ 1549 [00:00<00:00]
+Pruning unnecessary TranslatedGene reactions...                            : 0.0%|          |     0/ 1518 [00:00<?]Pruning unnecessary TranslatedGene reactions...                            : 13.7%|█▎        |   208/ 1518 [00:00<00:00]Pruning unnecessary TranslatedGene reactions...                            : 29.0%|██▉       |   440/ 1518 [00:00<00:00]Pruning unnecessary TranslatedGene reactions...                            : 43.6%|████▎     |   662/ 1518 [00:00<00:00]Pruning unnecessary TranslatedGene reactions...                            : 57.8%|█████▊    |   878/ 1518 [00:00<00:00]Pruning unnecessary TranslatedGene reactions...                            : 74.3%|███████▍  |  1128/ 1518 [00:00<00:00]Pruning unnecessary TranslatedGene reactions...                            : 90.9%|█████████ |  1380/ 1518 [00:00<00:00]Pruning unnecessary TranslatedGene reactions...                            : 100.0%|██████████|  1518/ 1518 [00:00<00:00]
+Pruning unnecessary TranscribedGene reactions...                           : 0.0%|          |     0/ 1533 [00:00<?]Pruning unnecessary TranscribedGene reactions...                           : 22.6%|██▎       |   346/ 1533 [00:00<00:00]Pruning unnecessary TranscribedGene reactions...                           : 46.0%|████▌     |   705/ 1533 [00:00<00:00]Pruning unnecessary TranscribedGene reactions...                           : 71.8%|███████▏  |  1101/ 1533 [00:00<00:00]Pruning unnecessary TranscribedGene reactions...                           : 98.4%|█████████▊|  1509/ 1533 [00:00<00:00]Pruning unnecessary TranscribedGene reactions...                           : 100.0%|██████████|  1533/ 1533 [00:00<00:00]
+Pruning unnecessary Transcriptional Units...                               : 0.0%|          |     0/ 1110 [00:00<?]Pruning unnecessary Transcriptional Units...                               : 9.6%|▉         |   107/ 1110 [00:00<00:00]Pruning unnecessary Transcriptional Units...                               : 20.3%|██        |   225/ 1110 [00:00<00:00]Pruning unnecessary Transcriptional Units...                               : 29.5%|██▉       |   328/ 1110 [00:00<00:00]Pruning unnecessary Transcriptional Units...                               : 41.7%|████▏     |   463/ 1110 [00:00<00:00]Pruning unnecessary Transcriptional Units...                               : 51.4%|█████▏    |   571/ 1110 [00:00<00:00]Pruning unnecessary Transcriptional Units...                               : 61.4%|██████▏   |   682/ 1110 [00:00<00:00]Pruning unnecessary Transcriptional Units...                               : 70.7%|███████   |   785/ 1110 [00:00<00:00]Pruning unnecessary Transcriptional Units...                               : 79.3%|███████▉  |   880/ 1110 [00:00<00:00]Pruning unnecessary Transcriptional Units...                               : 97.8%|█████████▊|  1086/ 1110 [00:01<00:00]Pruning unnecessary Transcriptional Units...                               : 100.0%|██████████|  1110/ 1110 [00:01<00:00]
+Pruning unnecessary ComplexData reactions...                               : 0.0%|          |     0/  530 [00:00<?]Pruning unnecessary ComplexData reactions...                               : 100.0%|██████████|   530/  530 [00:00<00:00]
+Pruning unnecessary FoldedProtein reactions...                             : 0.0%|          |     0/    0 [00:00<?]Pruning unnecessary FoldedProtein reactions...                             : 0.0%|          |     0/    0 [00:00<?]
+Pruning unnecessary ProcessedProtein reactions...                          : 0.0%|          |     0/  502 [00:00<?]Pruning unnecessary ProcessedProtein reactions...                          : 100.0%|██████████|   502/  502 [00:00<00:00]
+Pruning unnecessary TranslatedGene reactions...                            : 0.0%|          |     0/  502 [00:00<?]Pruning unnecessary TranslatedGene reactions...                            : 100.0%|██████████|   502/  502 [00:00<00:00]
+Pruning unnecessary TranscribedGene reactions...                           : 0.0%|          |     0/  511 [00:00<?]Pruning unnecessary TranscribedGene reactions...                           : 100.0%|██████████|   511/  511 [00:00<00:00]
+Pruning unnecessary Transcriptional Units...                               : 0.0%|          |     0/  364 [00:00<?]Pruning unnecessary Transcriptional Units...                               : 11.8%|█▏        |    43/  364 [00:00<00:00]Pruning unnecessary Transcriptional Units...                               : 24.2%|██▍       |    88/  364 [00:00<00:00]Pruning unnecessary Transcriptional Units...                               : 36.3%|███▋      |   132/  364 [00:00<00:00]Pruning unnecessary Transcriptional Units...                               : 47.8%|████▊     |   174/  364 [00:00<00:00]Pruning unnecessary Transcriptional Units...                               : 61.8%|██████▏   |   225/  364 [00:00<00:00]Pruning unnecessary Transcriptional Units...                               : 75.5%|███████▌  |   275/  364 [00:00<00:00]Pruning unnecessary Transcriptional Units...                               : 87.9%|████████▊ |   320/  364 [00:00<00:00]Pruning unnecessary Transcriptional Units...                               : 100.0%|██████████|   364/  364 [00:00<00:00]
+Pruning unnecessary ComplexData reactions...                               : 0.0%|          |     0/  529 [00:00<?]Pruning unnecessary ComplexData reactions...                               : 100.0%|██████████|   529/  529 [00:00<00:00]
+Pruning unnecessary FoldedProtein reactions...                             : 0.0%|          |     0/    0 [00:00<?]Pruning unnecessary FoldedProtein reactions...                             : 0.0%|          |     0/    0 [00:00<?]
+Pruning unnecessary ProcessedProtein reactions...                          : 0.0%|          |     0/  501 [00:00<?]Pruning unnecessary ProcessedProtein reactions...                          : 100.0%|██████████|   501/  501 [00:00<00:00]
+Pruning unnecessary TranslatedGene reactions...                            : 0.0%|          |     0/  501 [00:00<?]Pruning unnecessary TranslatedGene reactions...                            : 100.0%|██████████|   501/  501 [00:00<00:00]
+Pruning unnecessary TranscribedGene reactions...                           : 0.0%|          |     0/  510 [00:00<?]Pruning unnecessary TranscribedGene reactions...                           : 100.0%|██████████|   510/  510 [00:00<00:00]
+Pruning unnecessary Transcriptional Units...                               : 0.0%|          |     0/  363 [00:00<?]Pruning unnecessary Transcriptional Units...                               : 10.7%|█         |    39/  363 [00:00<00:00]Pruning unnecessary Transcriptional Units...                               : 24.2%|██▍       |    88/  363 [00:00<00:00]Pruning unnecessary Transcriptional Units...                               : 36.4%|███▋      |   132/  363 [00:00<00:00]Pruning unnecessary Transcriptional Units...                               : 48.2%|████▊     |   175/  363 [00:00<00:00]Pruning unnecessary Transcriptional Units...                               : 62.3%|██████▏   |   226/  363 [00:00<00:00]Pruning unnecessary Transcriptional Units...                               : 75.5%|███████▌  |   274/  363 [00:00<00:00]Pruning unnecessary Transcriptional Units...                               : 87.9%|████████▊ |   319/  363 [00:00<00:00]Pruning unnecessary Transcriptional Units...                               : 100.0%|██████████|   363/  363 [00:00<00:00]
+ME-model was saved in the ./lcrescens/ directory as MEModel-step2-lcrescens.pkl
+ME-model reconstruction is done.
+Number of metabolites in the ME-model is 2527 (+184.89%, from 887)
+Number of reactions in the ME-model is 4596 (+415.25%, from 892)
+Number of genes in the ME-model is 508 (+36.19%, from 373)
+~ Troubleshooting started...
+  Checking if the ME-model can simulate growth without gapfilling reactions...
+  Original ME-model is not feasible with a tested growth rate of 0.010000 1/h
+  Step 1. Gapfill reactions to provide components of type 'ME-Deadends' using brute force.
+          Finding gaps in the ME-model...
+          Finding gaps from the M-model only...
+          14 metabolites were identified as deadends.
+            ca2_c: Missing metabolite in the M-model.
+            cd2_c: Missing metabolite in the M-model.
+            cs_c: Missing metabolite in the M-model.
+            cu2_c: Missing metabolite in the M-model.
+            dad__5_c: Missing metabolite in the M-model.
+            dpm_c: Missing metabolite in the M-model.
+            fe3_c: Missing metabolite in the M-model.
+            hemed_c: Missing metabolite in the M-model.
+            lipoate_c: Missing metabolite in the M-model.
+            lipoyl_c: Missing metabolite in the M-model.
+            mg2_c: Missing metabolite in the M-model.
+            mn2_c: Missing metabolite in the M-model.
+            tl_c: Missing metabolite in the M-model.
+            zn2_c: Missing metabolite in the M-model.
+          Adding sink reactions for 14 metabolites...
+  Step 2. Gapfill reactions to provide components of type 'Cofactors' using brute force.
+          Adding sink reactions for 39 metabolites...
+  Step 3. Gapfill reactions to provide components of type 'All-Deadends' using brute force.
+          Finding gaps in the ME-model...
+          182 metabolites were identified as deadends.
+            14glucan_c: 1,4-alpha-D-glucan
+            14glucan_p: 1,4-alpha-D-glucan
+            2ahhmd_c: 2 Amino 4 hydroxy 6 hydroxymethyl 7 8 dihydropteridine diphosphate C7H8N5O8P2
+            2dhglcn_c: 2-Dehydro-D-gluconate
+            2mahmp_c: 2-Methyl-4-amino-5-hydroxymethylpyrimidine diphosphate
+            2mbcoa_c: 2-Methylbutanoyl-CoA
+            2mcit_c: 2-Methylcitrate
+            2ombzl_c: 2-Octaprenyl-6-methoxy-1,4-benzoquinol
+            2ommbl_c: 2-Octaprenyl-3-methyl-6-methoxy- 1,4-benzoquinol
+            2oxoadp_c: 2 Oxoadipate C6H6O5
+            34dhbald_c: 3,4-dihydroxybenzaldehyde
+            34dhbz_c: 3,4-Dihydroxybenzoate
+            3sala_c: 3-Sulfino-L-alanine
+            4ahmmp_c: 4-Amino-5-hydroxymethyl-2-methylpyrimidine
+            4cml_c: 4-Carboxymuconolactone
+            4gudbutn_c: 4 Guanidinobutanoate C5H11N3O2
+            4hba_c: 4-Hydroxy-benzyl alcohol
+            4hbald_c: 4-Hydroxybenzaldehyde
+            4hbz_c: 4-Hydroxybenzoate
+            4hthr_c: 4-Hydroxy-L-threonine
+            4mpetz_c: 4-Methyl-5-(2-phosphoethyl)-thiazole
+            4pasp_c: 4-Phospho-L-aspartate
+            5apentam_c: 5-Aminopentanamide
+            5fthf_c: 5-Formyltetrahydrofolate
+            5prdmbz_c: N1-(5-Phospho-alpha-D-ribosyl)-5,6-dimethylbenzimidazole
+            6hmhpt_c: 6-hydroxymethyl dihydropterin
+            C100mclPHA_c: C10:0-Medium-chain length Polyhydroxyalkanoate.
+            C120mclPHA_c: C12:0-Medium-chain length Polyhydroxyalkanoate.
+            C121mclPHA_c: C12:1-Medium-chain length Polyhydroxyalkanoate.
+            C140mclPHA_c: C14:0-Medium-chain length Polyhydroxyalkanoate.
+            C141mclPHA_c: C14:1-Medium-chain length Polyhydroxyalkanoate.
+            C60mclPHA_c: C6:0-Medium-chain length Polyhydroxyalkanoate
+            C80mclPHA_c: C8:0-Medium-chain length Polyhydroxyalkanoate.
+            CCbuttc_c: Cis,cis-Butadiene-1,2,4-tricarboxylate
+            L2aadp6sa_c: L 2 Aminoadipate 6 semialdehyde C6H11NO3
+            L2aadp_c: L 2 Aminoadipate C6H10NO4
+            LalaDgluMdapDala_c: L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate-D-alanine
+            LalaDgluMdap_c: L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate
+            Nmtrp_c: N-Methyltryptophan
+            aacald_c: Aminoacetaldehyde
+            acolipa_p: 4-Amino-4-deoxy-L-arabinose modified core oligosaccharide lipid A
+            adn_c: Adenosine
+            alaala_p: D-Alanyl-D-alanine
+            anhgm3p_p: N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tripeptide
+            anhgm4p_p: N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tetrapeptide
+            anhgm_p: N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramic acid
+            ascb6p_c: L-ascorbate-6-phosphate
+            ascb__L_p: L-Ascorbate
+            athr__L_c: L-Allo-threonine
+            betald_c: Betaine aldehyde
+            butso3_c: Butanesulfonate
+            butso3_p: Butanesulfonate
+            cdg_c: 7-deaza-7-carboxyguanine
+            cgly_c: Cys Gly C5H10N2O3S
+            cgly_p: Cys Gly C5H10N2O3S
+            ch4s_c: Methanethiol CH4S
+            chol_c: Choline C5H14NO
+            ckdo_c: CMP-3-deoxy-D-manno-octulosonate
+            cm_p: Chloramphenicol
+            colipa_p: Core oligosaccharide lipid A
+            colipap_p: Core oligosaccharide lipid A diphosphate
+            conialdh_c: Coniferyl aldehyde
+            cpe160_c: Cyclopropane phosphatidylethanolamine (dihexadec-9,10-cyclo-anoyl, n-C16:0 cyclo)
+            cpe180_c: Cyclopropane phosphatidylethanolamine (dioctadec-11,12-cyclo-anoyl, n-C18:0 cyclo)
+            cpg160_c: Cyclopropane phosphatidylglycerol (dihexadec-9,10-cyclo-anoyl, n-C16:0 cyclo)
+            cpg180_c: Cyclopropane phosphatidylglycerol (dioctadec-11,12-cyclo-anoyl, n-C18:0 cyclo)
+            cph4_c: 6-carboxy-5,6,7,8-tetrahydropterin
+            cpppg1_c: Coproporphyrinogen I
+            cytcc_c: Cytochrome c
+            dmbzid_c: 5,6-Dimethylbenzimidazole
+            doxrbcn_p: Doxorubicin
+            dtbt_c: Dethiobiotin
+            dtdp4d6dm_c: DTDP-4-dehydro-6-deoxy-L-mannose
+            eca4colipa_p: (enterobacterial common antigen)x4 core oligosaccharide lipid A
+            enlipa_p: Phosphoethanolamine KDO(2)-lipid (A)
+            ethso3_c: Ethanesulfonate
+            f1p_c: D-Fructose 1-phosphate
+            ficytc_c: Ferricytochrome c C42H52FeN8O6S2
+            focytc_c: Ferrocytochrome c C42H53FeN8O6S2
+            fusa_p: Fusidic acid
+            gdbtal_c: 4-Guanidinobutanal
+            gln__L_p: L-Glutamine
+            glu5sa_c: L-Glutamate 5-semialdehyde
+            glucys_c: Gamma-L-Glutamyl-L-cysteine
+            glutcoa_c: Glutaryl-CoA mitochondria
+            glutrna_gln_c: L-Glutamyl-tRNA(Gln)
+            glyb_c: Glycine betaine
+            glyc2p_c: Glycerol 2-phosphate
+            glyc_c: Glycerol
+            gthrd_p: Reduced glutathione
+            gua_c: Guanine
+            hmgcoa_c: Hydroxymethylglutaryl CoA C27H39N7O20P3S
+            ibcoa_c: Isobutyryl-CoA
+            indole_p: Indole
+            inost_c: Myo-Inositol
+            isetac_c: Isethionic acid
+            kdo2lipid4_p: KDO(2)-lipid IV(A)
+            kdo8p_c: 3-Deoxy-D-manno-octulosonate 8-phosphate
+            kdo_c: 3-Deoxy-D-manno-2-octulosonate
+            lipa_cold_p: Cold adapted KDO(2)-lipid (A)
+            lipa_p: KDO(2)-lipid (A)
+            lipopb_c: Lipoate (protein bound)
+            lys__L_p: L-Lysine
+            mal__D_c: D-Malate
+            mal__D_p: D-Malate
+            malcoame_c: Malonyl-CoA methyl ester
+            malt_c: Maltose C12H22O11
+            malt_p: Maltose C12H22O11
+            malthx_c: Maltohexaose
+            malthx_p: Maltohexaose
+            maltpt_c: Maltopentaose
+            maltpt_p: Maltopentaose
+            malttr_c: Maltotriose C18H32O16
+            malttr_p: Maltotriose C18H32O16
+            maltttr_c: Maltotetraose
+            maltttr_p: Maltotetraose
+            mclPHA_c: Medium-chain length Polyhydroxyalkanoate (Total)
+            mclPHAg_c: Medium-chain length Polyhydroxyalkanoate growing.
+            met__D_c: D-Methionine
+            met__D_p: D-Methionine
+            metsox_R__L_c: L-methionine-R-sulfoxide
+            metsox_S__L_c: L-Methionine Sulfoxide
+            mi1p__D_c: 1D-myo-Inositol 1-phosphate
+            mincyc_p: Minocycline
+            mmtsa_c: (S)-Methylmalonate semialdehyde
+            mso3_c: Methanesulfonate
+            nadhx__R_c: (R)-NADHX
+            nadhx__S_c: Adenosine 5'-(3-{5-[(2S)-5-carbamoyl-2-hydroxy-3,4-dihydropyridin-1-yl]-5-deoxy-?-D-ribofuranosyl} dihydrogen diphosphate)
+            nadphx__R_c: (R)-NADPHX
+            nadphx__S_c: (S)-NADPHX
+            ncam_c: Nicotinamide
+            novbcn_p: Novobiocin
+            o16a4colipa_p: (O16 antigen)x4 core oligosaccharide lipid A
+            o2s_c: Superoxide anion
+            octapb_c: Octanoate (protein bound)
+            octdp_c: All-trans-Octaprenyl diphosphate
+            orot_p: Orotate C5H3N2O4
+            pap_c: Adenosine 3',5'-bisphosphate
+            paps_c: 3'-Phosphoadenylyl sulfate
+            pentso3_c: Pentanesulfonate
+            pg120_c: Phosphatidylglycerol (didodecanoyl, n-C12:0)
+            pg160_c: Phosphatidylglycerol (dihexadecanoyl, n-C16:0)
+            pg180_c: Phosphatidylglycerol (dioctadecanoyl, n-C18:0)
+            pgp120_p: Phosphatidylglycerophosphate (didodecanoyl, n-C12:0)
+            pgp160_p: Phosphatidylglycerophosphate (dihexadecanoyl, n-C16:0)
+            pgp161_p: Phosphatidylglycerophosphate (dihexadec-9-enoyl, n-C16:1)
+            pgp180_p: Phosphatidylglycerophosphate (dioctadecanoyl, n-C18:0)
+            pgp181_p: Phosphatidylglycerophosphate (dioctadec-11-enoyl, n-C18:1)
+            phpyr_c: Phenylpyruvate
+            phthr_c: O-Phospho-4-hydroxy-L-threonine
+            pppi_c: Inorganic triphosphate
+            pqq_c: Pyrroloquinoline-quinone
+            pqqh2_c: Reduced pyrroloquinoline-quinone
+            preq0_c: 7-cyano-7-carbaguanine
+            progly_c: L-Prolinylglycine
+            progly_p: L-Prolinylglycine
+            pser__L_c: O-Phospho-L-serine
+            ptal_c: Pentanal
+            ptrc_c: Putrescine
+            pyam5p_c: Pyridoxamine 5'-phosphate
+            rfamp_p: Rifampin
+            s_c: Sulfur
+            sarcs_c: Sarcosine C3H7NO2
+            scys__L_c: S-Sulfo-L-cysteine
+            seasmet_c: Se-Adenosylselenomethionine
+            selmeth_c: Selenomethionine
+            sertrna_sec_c: L-Seryl-tRNA(Sec)
+            sheme_c: Siroheme C42H36FeN4O16
+            so2_c: Sulfur dioxide
+            so3_c: Sulfite
+            spmd_c: Spermidine
+            sucglu_c: N2-Succinyl-L-glutamate
+            sucorn_c: N2-Succinyl-L-ornithine
+            sulfac_c: Sulfoacetate
+            sulfac_p: Sulfoacetate
+            taur_c: Taurine C2H7NO3S
+            ttrcyc_p: Tetracycline
+            u3hga_c: UDP-3-O-(3-hydroxytetradecanoyl)-D-glucosamine
+            uaagmda_c: Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-ala-D-glu-meso-2,6-diaminopimeloyl-D-ala-D-ala
+            uaccg_c: UDP-N-acetyl-3-O-(1-carboxyvinyl)-D-glucosamine
+            uamr_c: UDP-N-acetylmuramate
+            uppg1_c: Uroporphyrinogen I
+          Adding sink reactions for 221 metabolites...
+            Sink reactions shortlisted to 103 metabolites.
+             Processed:   1/103, Gaps: 0. The ME-model is feasible if TS_athr__L_c is closed.
+             Processed:   2/103, Gaps: 0. The ME-model is feasible if TS_5apentam_c is closed.
+             Processed:   3/103, Gaps: 0. The ME-model is feasible if TS_6hmhpt_c is closed.
+             Processed:   4/103, Gaps: 0. The ME-model is feasible if TS_mclPHAg_c is closed.
+             Processed:   5/103, Gaps: 0. The ME-model is feasible if TS_nadphx__R_c is closed.
+             Processed:   6/103, Gaps: 0. The ME-model is feasible if TS_4pasp_c is closed.
+             Processed:   7/103, Gaps: 0. The ME-model is feasible if TS_glyc_c is closed.
+             Processed:   8/103, Gaps: 1. The ME-model is not feasible if TS_orot_p is closed.
+             Processed:   9/103, Gaps: 1. The ME-model is feasible if TS_ficytc_c is closed.
+             Processed:  10/103, Gaps: 1. The ME-model is feasible if TS_5fthf_c is closed.
+             Processed:  11/103, Gaps: 1. The ME-model is feasible if TS_cph4_c is closed.
+             Processed:  12/103, Gaps: 1. The ME-model is feasible if TS_pqq_c is closed.
+             Processed:  13/103, Gaps: 1. The ME-model is feasible if TS_pser__L_c is closed.
+             Processed:  14/103, Gaps: 1. The ME-model is feasible if TS_phpyr_c is closed.
+             Processed:  15/103, Gaps: 1. The ME-model is feasible if TS_cpppg1_c is closed.
+             Processed:  16/103, Gaps: 1. The ME-model is feasible if TS_uaagmda_c is closed.
+             Processed:  17/103, Gaps: 1. The ME-model is feasible if TS_betald_c is closed.
+             Processed:  18/103, Gaps: 1. The ME-model is feasible if TS_C121mclPHA_c is closed.
+             Processed:  19/103, Gaps: 1. The ME-model is feasible if TS_glyc2p_c is closed.
+             Processed:  20/103, Gaps: 1. The ME-model is feasible if TS_uaccg_c is closed.
+             Processed:  21/103, Gaps: 1. The ME-model is feasible if TS_cdg_c is closed.
+             Processed:  22/103, Gaps: 1. The ME-model is feasible if TS_C80mclPHA_c is closed.
+             Processed:  23/103, Gaps: 1. The ME-model is feasible if TS_pap_c is closed.
+             Processed:  24/103, Gaps: 1. The ME-model is feasible if TS_4hthr_c is closed.
+             Processed:  25/103, Gaps: 1. The ME-model is feasible if TS_4cml_c is closed.
+             Processed:  26/103, Gaps: 1. The ME-model is feasible if TS_ibcoa_c is closed.
+             Processed:  27/103, Gaps: 1. The ME-model is feasible if TS_cpe160_c is closed.
+             Processed:  28/103, Gaps: 1. The ME-model is feasible if TS_ascb__L_p is closed.
+             Processed:  29/103, Gaps: 1. The ME-model is feasible if TS_o2s_c is closed.
+             Processed:  30/103, Gaps: 1. The ME-model is feasible if TS_phthr_c is closed.
+             Processed:  31/103, Gaps: 1. The ME-model is feasible if TS_C100mclPHA_c is closed.
+             Processed:  32/103, Gaps: 1. The ME-model is feasible if TS_pppi_c is closed.
+             Processed:  33/103, Gaps: 1. The ME-model is feasible if TS_C120mclPHA_c is closed.
+             Processed:  34/103, Gaps: 1. The ME-model is feasible if TS_pyam5p_c is closed.
+             Processed:  35/103, Gaps: 1. The ME-model is feasible if TS_mclPHA_c is closed.
+             Processed:  36/103, Gaps: 1. The ME-model is feasible if TS_gln__L_p is closed.
+             Processed:  37/103, Gaps: 1. The ME-model is feasible if TS_focytc_c is closed.
+             Processed:  38/103, Gaps: 1. The ME-model is feasible if TS_C140mclPHA_c is closed.
+             Processed:  39/103, Gaps: 1. The ME-model is feasible if TS_u3hga_c is closed.
+             Processed:  40/103, Gaps: 1. The ME-model is feasible if TS_so3_c is closed.
+             Processed:  41/103, Gaps: 1. The ME-model is feasible if TS_L2aadp_c is closed.
+             Processed:  42/103, Gaps: 1. The ME-model is feasible if TS_ckdo_c is closed.
+             Processed:  43/103, Gaps: 1. The ME-model is feasible if TS_uppg1_c is closed.
+             Processed:  44/103, Gaps: 1. The ME-model is feasible if TS_paps_c is closed.
+             Processed:  45/103, Gaps: 1. The ME-model is feasible if TS_glyb_c is closed.
+             Processed:  46/103, Gaps: 1. The ME-model is feasible if TS_malthx_c is closed.
+             Processed:  47/103, Gaps: 1. The ME-model is feasible if TS_sarcs_c is closed.
+             Processed:  48/103, Gaps: 1. The ME-model is feasible if TS_metsox_S__L_c is closed.
+             Processed:  49/103, Gaps: 1. The ME-model is feasible if TS_adn_c is closed.
+             Processed:  50/103, Gaps: 1. The ME-model is feasible if TS_4ahmmp_c is closed.
+             Processed:  51/103, Gaps: 1. The ME-model is feasible if TS_CCbuttc_c is closed.
+             Processed:  52/103, Gaps: 1. The ME-model is feasible if TS_so2_c is closed.
+             Processed:  53/103, Gaps: 1. The ME-model is feasible if TS_kdo8p_c is closed.
+             Processed:  54/103, Gaps: 1. The ME-model is feasible if TS_pqqh2_c is closed.
+             Processed:  55/103, Gaps: 1. The ME-model is feasible if TS_2ahhmd_c is closed.
+             Processed:  56/103, Gaps: 1. The ME-model is feasible if TS_ncam_c is closed.
+             Processed:  57/103, Gaps: 1. The ME-model is feasible if TS_ptal_c is closed.
+             Processed:  58/103, Gaps: 1. The ME-model is feasible if TS_sucglu_c is closed.
+             Processed:  59/103, Gaps: 1. The ME-model is feasible if TS_preq0_c is closed.
+             Processed:  60/103, Gaps: 1. The ME-model is feasible if TS_C141mclPHA_c is closed.
+             Processed:  61/103, Gaps: 1. The ME-model is feasible if TS_2mahmp_c is closed.
+             Processed:  62/103, Gaps: 1. The ME-model is feasible if TS_nadhx__R_c is closed.
+             Processed:  63/103, Gaps: 1. The ME-model is feasible if TS_kdo_c is closed.
+             Processed:  64/103, Gaps: 1. The ME-model is feasible if TS_malthx_p is closed.
+             Processed:  65/103, Gaps: 1. The ME-model is feasible if TS_lys__L_p is closed.
+             Processed:  66/103, Gaps: 1. The ME-model is feasible if TS_ascb6p_c is closed.
+             Processed:  67/103, Gaps: 1. The ME-model is feasible if TS_dtdp4d6dm_c is closed.
+             Processed:  68/103, Gaps: 1. The ME-model is feasible if TS_cytcc_c is closed.
+             Processed:  69/103, Gaps: 1. The ME-model is feasible if TS_L2aadp6sa_c is closed.
+             Processed:  70/103, Gaps: 1. The ME-model is feasible if TS_gua_c is closed.
+             Processed:  71/103, Gaps: 1. The ME-model is feasible if TS_3sala_c is closed.
+             Processed:  72/103, Gaps: 1. The ME-model is feasible if TS_C60mclPHA_c is closed.
+             Processed:  73/103, Gaps: 1. The ME-model is feasible if TS_octdp_c is closed.
+             Processed:  74/103, Gaps: 1. The ME-model is feasible if TS_aacald_c is closed.
+             Processed:  75/103, Gaps: 1. The ME-model is feasible if TS_accoa_c is closed.
+             Processed:  76/103, Gaps: 1. The ME-model is feasible if TS_hemeO_c is closed.
+             Processed:  77/103, Gaps: 1. The ME-model is feasible if TS_ni2_c is closed.
+             Processed:  78/103, Gaps: 1. The ME-model is feasible if TS_pi_c is closed.
+             Processed:  79/103, Gaps: 1. The ME-model is feasible if TS_pheme_c is closed.
+             Processed:  80/103, Gaps: 1. The ME-model is feasible if TS_btn_c is closed.
+             Processed:  81/103, Gaps: 2. The ME-model is not feasible if TS_k_c is closed.
+             Processed:  82/103, Gaps: 2. The ME-model is feasible if TS_fe2_c is closed.
+             Processed:  83/103, Gaps: 2. The ME-model is feasible if TS_pan4p_c is closed.
+             Processed:  84/103, Gaps: 2. The ME-model is feasible if TS_fadh2_c is closed.
+             Processed:  85/103, Gaps: 2. The ME-model is feasible if TS_fad_c is closed.
+             Processed:  86/103, Gaps: 2. The ME-model is feasible if TS_nh4_c is closed.
+             Processed:  87/103, Gaps: 2. The ME-model is feasible if TS_cobalt2_c is closed.
+             Processed:  88/103, Gaps: 2. The ME-model is feasible if TS_na1_c is closed.
+             Processed:  89/103, Gaps: 2. The ME-model is feasible if TS_fmn_c is closed.
+             Processed:  90/103, Gaps: 2. The ME-model is feasible if TS_2fe2s_c is closed.
+             Processed:  91/103, Gaps: 3. The ME-model is not feasible if TS_pydx5p_c is closed.
+             Processed:  92/103, Gaps: 3. The ME-model is feasible if TS_4fe4s_c is closed.
+             Processed:  93/103, Gaps: 4. The ME-model is not feasible if TS_hco3_c is closed.
+             Processed:  94/103, Gaps: 4. The ME-model is feasible if TS_nad_c is closed.
+             Processed:  95/103, Gaps: 5. The ME-model is not feasible if TS_dpm_c is closed.
+             Processed:  96/103, Gaps: 5. The ME-model is feasible if TS_lipoyl_c is closed.
+             Processed:  97/103, Gaps: 5. The ME-model is feasible if TS_fe3_c is closed.
+             Processed:  98/103, Gaps: 6. The ME-model is not feasible if TS_hemed_c is closed.
+             Processed:  99/103, Gaps: 7. The ME-model is not feasible if TS_mg2_c is closed.
+             Processed: 100/103, Gaps: 7. The ME-model is feasible if TS_tl_c is closed.
+             Processed: 101/103, Gaps: 8. The ME-model is not feasible if TS_mn2_c is closed.
+             Processed: 102/103, Gaps: 9. The ME-model is not feasible if TS_zn2_c is closed.
+             Processed: 103/103, Gaps: 9. The ME-model is feasible if TS_cu2_c is closed.
+~ Troubleshooter added the following sinks:
+TS_dpm_c
+TS_hemed_c
+TS_mg2_c
+TS_mn2_c
+TS_zn2_c
+TS_k_c
+TS_pydx5p_c
+TS_hco3_c
+TS_orot_p
+~ Final step. Fully optimizing with precision 1e-6 and save solution into the ME-model...
+  Gapfilled ME-model is feasible with growth rate 0.025909 (M-model: 0.011279).
+ME-model was saved in the ./lcrescens/ directory as MEModel-step3-lcrescens-TS.pkl

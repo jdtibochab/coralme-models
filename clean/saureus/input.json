@@ -1,0 +1,16 @@
+{
+  "m-model-path": "./saureus/inputs/m_model.json",
+  "genbank-path": "./saureus/inputs/genome.gb",
+  "biocyc.genes": "./saureus/inputs/genes.txt",
+  "biocyc.prots": "./saureus/inputs/proteins.txt",
+  "biocyc.TUs": "./saureus/inputs/TUs.txt",
+  "biocyc.RNAs": "./saureus/inputs/RNAs.txt",
+  "biocyc.seqs": "./saureus/inputs/sequences.fasta",
+  "df_gene_cplxs_mods_rxns": "./saureus/building_data/automated-org-with-refs.xlsx",
+  "df_TranscriptionalUnits": "",
+  "out_directory": "./saureus/",
+  "log_directory": "./saureus/",
+  "run_bbh_blast": true,
+  "dev_reference": true,
+  "include_pseudo_genes": true
+}

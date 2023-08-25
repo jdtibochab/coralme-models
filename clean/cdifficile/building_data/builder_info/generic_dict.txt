@@ -1,0 +1,15 @@
+,value
+generic_16Sm4Cm1402,"{'enzymes': ['G12WB-2809-MONOMER', 'G12WB-3727-MONOMER']}"
+generic_16s_rRNAs,"{'enzymes': ['RNA_CD630_r0010', 'RNA_CD630_r0040', 'RNA_CD630_r0070', 'RNA_CD630_r0100', 'RNA_CD630_r0130', 'RNA_CD630_r0160', 'RNA_CD630_r0190', 'RNA_CD630_r0220', 'RNA_CD630_r0260', 'RNA_CD630_r0290', 'RNA_CD630_r0320']}"
+generic_23s_rRNAs,"{'enzymes': ['RNA_CD630_r0020', 'RNA_CD630_r0050', 'RNA_CD630_r0080', 'RNA_CD630_r0110', 'RNA_CD630_r0140', 'RNA_CD630_r0170', 'RNA_CD630_r0200', 'RNA_CD630_r0230', 'RNA_CD630_r0250', 'RNA_CD630_r0280', 'RNA_CD630_r0310']}"
+generic_5s_rRNAs,"{'enzymes': ['RNA_CD630_r0030', 'RNA_CD630_r0060', 'RNA_CD630_r0090', 'RNA_CD630_r0120', 'RNA_CD630_r0150', 'RNA_CD630_r0180', 'RNA_CD630_r0210', 'RNA_CD630_r0240', 'RNA_CD630_r0270', 'RNA_CD630_r0300']}"
+generic_CD630_13110,"{'enzymes': ['G12WB-4398-MONOMER', 'G12WB-4400-MONOMER']}"
+generic_Dus,{'enzymes': ['G12WB-3740-MONOMER']}
+generic_LYSINEaaRS,{'enzymes': ['G12WB-3738-MONOMER']}
+generic_RF,"{'enzymes': ['G12WB-3664-MONOMER', 'G12WB-248-MONOMER']}"
+generic_RNase,"{'enzymes': ['G12WB-2694-MONOMER_mod_zn2(2)', 'G12WB-3475-MONOMER_mod_mg2(1)']}"
+generic_Tuf,{'enzymes': ['G12WB-125-MONOMER']}
+generic_ala_ligase,"{'enzymes': ['G12WB-2320-MONOMER', 'G12WB-1416-MONOMER']}"
+generic_fes_transfers_complex,{'enzymes': ['CPLX_dummy']}
+generic_pro_ligase,"{'enzymes': ['G12WB-102-MONOMER', 'G12WB-101-MONOMER']}"
+generic_ser_ligase,"{'enzymes': ['G12WB-3000-MONOMER', 'G12WB-18-MONOMER']}"
