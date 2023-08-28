@@ -35,10 +35,7 @@ Reconstructing all ME-models in directory (parallelized)
 
 Loading ME-models from Pickle files
 -----------------------------------
-In a python environment:
-::
-
-  model = coralme.io.pickle.load_pickle_me_model("/PATH/TO/ORGANISM_MEMODEL_FILE.pkl")
+In a python environment, run ``model = coralme.io.pickle.load_pickle_me_model("/PATH/TO/ORGANISM_MEMODEL_FILE.pkl")``
 
 Loading ME-models from the provided JSON files
 ----------------------------------------------
