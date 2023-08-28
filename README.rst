@@ -20,7 +20,7 @@ Reconstructing ME-models from command line
 ORGANISM_NAME must exist in directory. The four numbers are binary flags to run (if 1) / not run (if 0):
 
 1. BLASTp
-2. Data synchronization and complementation and OSM generation
+2. Data synchronization, complementation and OSM generation
 3. ME-model reconstruction
 4. ME-model troubleshooting.
 
@@ -38,9 +38,7 @@ Loading ME-models from Pickle files
 In a python environment:
 ::
 
-  import pickle
-  with open(filename, "rb") as f:
-    model = pickle.load(f)
+  model = coralme.io.pickle.load_pickle_me_model("/PATH/TO/ORGANISM_MEMODEL_FILE.pkl")
 
 Loading ME-models from the provided JSON files
 ----------------------------------------------
