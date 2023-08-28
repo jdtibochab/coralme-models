@@ -1,0 +1,18 @@
+name	description	is_reversible	is_spontaneous	subsystems
+CODH_Fe_loading		false	true
+CODH_Ni_loading		false	true
+Hyp_Ni_loading		false	true
+DPM		false	true
+ICYSDS1		false	true
+NifU_dim_Fe_loading		false	true
+NifU_dim_mod_fe2(1)_Fe_loading		false	true
+NifU_dim_mod_2fe2s(1)_Fe_loading		false	true
+I4FE4SR1		false	true
+4Fe4S_to_ErpA_by_NifU_dim		false	true
+2Fe2S_to_ErpA_by_NifU		false	true
+
+S_transfer_to_NifU_dim_mod_fe2(2)		false	false
+S_transfer_to_NifU_dim_mod_2Fe1S(1)		false	false
+S_transfer_to_NifU_dim_mod_2Fe2S(1)_mod_fe2(2)		false	false
+S_transfer_to_NifU_dim_mod_2Fe2S(1)_mod_2Fe1S(1)		false	false
+

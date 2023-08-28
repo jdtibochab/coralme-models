@@ -23,12 +23,12 @@ lipid_modifications: []
 unmodeled_protein_fraction: 0.36
 flux_of_biomass_constituents:
   5mthf_c: -0.05
-  accoa_c: -5e-05
-  coa_c: -6e-06
-  fad_c: -1e-05
+  accoa_c: -5.0e-05
+  coa_c: -6.0e-06
+  fad_c: -1.0e-05
   glycogen_c: -0.154
   nad_c: -0.00215
-  nadh_c: -5e-05
+  nadh_c: -5.0e-05
   nadp_c: -0.00013
   nadph_c: -0.0004
   pa160_c: -0.001398
@@ -36,7 +36,7 @@ flux_of_biomass_constituents:
   pgp160_c: -0.001398
   ptrc_c: -0.035
   spmd_c: -0.007
-  succoa_c: -3e-06
+  succoa_c: -3.0e-06
   udcpdp_c: -0.001398
 flux_of_lipid_constituents:
   TM_GL1_c: -0.003495
@@ -68,9 +68,9 @@ m-model-path: tmaritima//building_data/m_model_modified.json
 genbank-path: tmaritima//building_data/genome_modified.gb
 df_gene_cplxs_mods_rxns: ./tmaritima/building_data/automated-org-with-refs.xlsx
 df_TranscriptionalUnits: tmaritima//building_data/TUs_from_biocyc.txt
-df_matrix_stoichiometry: ./tmaritima/building_data/reaction_matrix.txt
+df_matrix_stoichiometry: ./tmaritima/inputs/reaction_matrix.txt
 df_matrix_subrxn_stoich: ./tmaritima/inputs/subreaction_matrix.txt
-df_metadata_orphan_rxns: ./tmaritima/building_data/orphan_and_spont_reactions.txt
+df_metadata_orphan_rxns: ./tmaritima/inputs/orphan_and_spont_reactions.txt
 df_metadata_metabolites: ./tmaritima/inputs/me_metabolites.txt
 out_directory: tmaritima/
 log_directory: tmaritima/

@@ -87,10 +87,10 @@ biocyc.TUs: ./cljungdahlii/inputs/TUs.txt
 biocyc.RNAs: ./cljungdahlii/inputs/RNAs.txt
 biocyc.seqs: ./cljungdahlii/inputs/sequences.fasta
 df_gene_cplxs_mods_rxns: ./cljungdahlii/building_data/automated-org-with-refs.xlsx
-df_TranscriptionalUnits: cljungdahlii//building_data/TUs_from_biocyc.txt
-df_matrix_stoichiometry: ./cljungdahlii/building_data/reaction_matrix.txt
+df_TranscriptionalUnits: ./cljungdahlii/inputs/TUs_from_biocyc.txt
+df_matrix_stoichiometry: ./cljungdahlii/inputs/reaction_matrix.txt
 df_matrix_subrxn_stoich: ./cljungdahlii/inputs/subreaction_matrix.txt
-df_metadata_orphan_rxns: ./cljungdahlii/building_data/orphan_and_spont_reactions.txt
+df_metadata_orphan_rxns: ./cljungdahlii/inputs/orphan_and_spont_reactions.txt
 df_metadata_metabolites: ./cljungdahlii/inputs/me_metabolites.txt
 out_directory: cljungdahlii/
 log_directory: cljungdahlii/

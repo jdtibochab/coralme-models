@@ -15,10 +15,10 @@ defer_to_rxn_matrix,"['ETOHt3', 'FMETTRS', 'ATPM']"
 dev_reference,False
 df_TranscriptionalUnits,./bsubtilis/inputs/TUs_from_biocyc.txt
 df_gene_cplxs_mods_rxns,./bsubtilis/building_data/automated-org-with-refs.xlsx
-df_matrix_stoichiometry,./bsubtilis/building_data/reaction_matrix.txt
+df_matrix_stoichiometry,./bsubtilis/inputs/reaction_matrix.txt
 df_matrix_subrxn_stoich,./bsubtilis/inputs/subreaction_matrix.txt
 df_metadata_metabolites,./bsubtilis/inputs/me_metabolites.txt
-df_metadata_orphan_rxns,./bsubtilis/building_data/orphan_and_spont_reactions.txt
+df_metadata_orphan_rxns,./bsubtilis/inputs/orphan_and_spont_reactions.txt
 flux_of_biomass_constituents,"{'10fthf_c': -0.000367, 'mql7_c': -0.000266, 'nad_c': -0.016164, 'nadp_c': -0.000934, 'nadph_c': -0.000216, 'ppi_c': -0.000918, 'peptido_BS_c': -0.101817}"
 flux_of_lipid_constituents,"{'cdlp_BS_c': -5e-06, 'd12dg_BS_c': -0.00011, 'gtca1_45_BS_c': -0.003624, 'gtca2_45_BS_c': -0.002347, 'gtca3_45_BS_c': -0.001819, 'lipo1_24_BS_c': -7e-06, 'lipo2_24_BS_c': -6e-06, 'lipo3_24_BS_c': -1.8e-05, 'lipo4_24_BS_c': -1.5e-05, 'lysylpgly_BS_c': -2.2e-05, 'm12dg_BS_c': -8.6e-05, 't12dg_BS_c': -6.6e-05, 'tcam_BS_c': -0.003112, 'pgly_BS_c': -0.000176, 'psetha_BS_c': -0.00056}"
 gam,25
