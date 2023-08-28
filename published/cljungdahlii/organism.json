@@ -3,7 +3,7 @@
 	"growth_key" : "mu1",
 
 	"complex_cofactors" : {
-		"fes_transfers" : { "erpA" : "", "iscA" : "", "sufA" : "" },
+		"fes_transfers" : ["ErpA_dim"],
 		"biotin_subreactions" : { "mod_btn_c" : [ "biotin_ligase" ] },
 		"lipoate_subreactions" : { "mod_lipoyl_c" : [ "lipoyl_denovo", "lipoyl_scavenging" ] },
 		"fes_chaperones" : {},
