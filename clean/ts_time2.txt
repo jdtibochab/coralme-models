@@ -49,8 +49,8 @@
 ==> ./lcrescens/METroubleshooter-lcrescens.log <==
 2023-08-14 14:57:30,800 ME-model was saved in the ./lcrescens/ directory as MEModel-step3-lcrescens-TS.pkl
 
-==> ./geobacter/METroubleshooter-geobacter.log <==
-2023-08-14 14:38:07,303 ME-model was saved in the ./geobacter/ directory as MEModel-step3-geobacter-TS.pkl
+==> ./gmetallireducens/METroubleshooter-gmetallireducens.log <==
+2023-08-14 14:38:07,303 ME-model was saved in the ./gmetallireducens/ directory as MEModel-step3-gmetallireducens-TS.pkl
 
 ==> ./cljungdahlii/METroubleshooter-cljungdahlii.log <==
 2023-08-14 14:40:25,252 ME-model was saved in the ./cljungdahlii/ directory as MEModel-step3-cljungdahlii-TS.pkl

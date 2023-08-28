@@ -49,7 +49,7 @@
 ==> ./lcrescens/METroubleshooter-lcrescens.log <==
 2023-08-14 14:18:20,597 ~ Troubleshooting started...
 
-==> ./geobacter/METroubleshooter-geobacter.log <==
+==> ./gmetallireducens/METroubleshooter-gmetallireducens.log <==
 2023-08-14 14:27:10,086 ~ Troubleshooting started...
 
 ==> ./cljungdahlii/METroubleshooter-cljungdahlii.log <==

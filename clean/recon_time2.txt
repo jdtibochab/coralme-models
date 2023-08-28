@@ -49,7 +49,7 @@
 ==> ./lcrescens/MEReconstruction-lcrescens.log <==
 2023-08-14 14:18:20,297 Number of genes in the ME-model is 508 (+36.19%, from 373)
 
-==> ./geobacter/MEReconstruction-geobacter.log <==
+==> ./gmetallireducens/MEReconstruction-gmetallireducens.log <==
 2023-08-14 14:27:09,432 Number of genes in the ME-model is 1164 (+17.93%, from 987)
 
 ==> ./cljungdahlii/MEReconstruction-cljungdahlii.log <==

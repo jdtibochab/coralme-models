@@ -1,2 +1,0 @@
-,value
-rna_degradosome,"{'enzymes': ['GMET_RS11955-MONOMER_mod_mg2(4)', 'GMET_RS08000-MONOMER', 'GMET_RS12785-MONOMER_mod_zn2(2)', 'GMET_RS15220-MONOMER']}"

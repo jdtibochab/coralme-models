@@ -1,3 +1,0 @@
-,value
-other_lipids,['GMET_RS11930-MONOMER']
-pg_pe_160,"['GMET_RS06180-MONOMER', 'GMET_RS01755-MONOMER']"

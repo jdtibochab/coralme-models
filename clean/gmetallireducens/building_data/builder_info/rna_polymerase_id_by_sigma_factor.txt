@@ -1,0 +1,8 @@
+,value
+RNAP_GMETRS01970MONOMER,"{'sigma_factor': 'GMET_RS01970-MONOMER', 'polymerase': 'CPLX2LZ9-38_mod_zn2(1)_mod_mg2(2)'}"
+RNAP_GMETRS02145MONOMER,"{'sigma_factor': 'GMET_RS02145-MONOMER', 'polymerase': 'CPLX2LZ9-38_mod_zn2(1)_mod_mg2(2)'}"
+RNAP_GMETRS06460MONOMER,"{'sigma_factor': 'GMET_RS06460-MONOMER', 'polymerase': 'CPLX2LZ9-38_mod_zn2(1)_mod_mg2(2)'}"
+RNAP_GMETRS07165MONOMER,"{'sigma_factor': 'GMET_RS07165-MONOMER', 'polymerase': 'CPLX2LZ9-38_mod_zn2(1)_mod_mg2(2)'}"
+RNAP_GMETRS13110MONOMER,"{'sigma_factor': 'GMET_RS13110-MONOMER', 'polymerase': 'CPLX2LZ9-38_mod_zn2(1)_mod_mg2(2)'}"
+RNAP_GMETRS13990MONOMER,"{'sigma_factor': 'GMET_RS13990-MONOMER', 'polymerase': 'CPLX2LZ9-38_mod_zn2(1)_mod_mg2(2)'}"
+RNAP_GMETRS14300MONOMER,"{'sigma_factor': 'GMET_RS14300-MONOMER', 'polymerase': 'CPLX2LZ9-38_mod_zn2(1)_mod_mg2(2)'}"

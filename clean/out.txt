@@ -180,7 +180,7 @@ TS_4fe4s_c
   Gapfilled ME-model is feasible with growth rate 0.229481 (M-model: 0.198481).
 ME-model was saved in the ./cljungdahlii/ directory as MEModel-step3-cljungdahlii-TS.pkl
 
-==> ./geobacter/out.txt <==
+==> ./gmetallireducens/out.txt <==
           Adding sink reactions for 5 metabolites...
             Sink reactions shortlisted to 3 metabolites.
              Processed: 1/3, Gaps: 0. The ME-model is feasible if TS_tl_c is closed.
@@ -190,7 +190,7 @@ ME-model was saved in the ./cljungdahlii/ directory as MEModel-step3-cljungdahli
 TS_dpm_c
 ~ Final step. Fully optimizing with precision 1e-6 and save solution into the ME-model...
   Gapfilled ME-model is feasible with growth rate 0.048348 (M-model: 0.047322).
-ME-model was saved in the ./geobacter/ directory as MEModel-step3-geobacter-TS.pkl
+ME-model was saved in the ./gmetallireducens/ directory as MEModel-step3-gmetallireducens-TS.pkl
 
 ==> ./hpylori/out.txt <==
 TS_pydx5p_c

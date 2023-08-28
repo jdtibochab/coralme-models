@@ -52,7 +52,7 @@
 ==> ./lcrescens/MEBuilder-lcrescens.log <==
 2023-08-14 14:17:28,929 File processing done...
 
-==> ./geobacter/MEBuilder-geobacter.log <==
+==> ./gmetallireducens/MEBuilder-gmetallireducens.log <==
 2023-08-14 14:24:34,834 File processing done...
 
 ==> ./cljungdahlii/MEBuilder-cljungdahlii.log <==

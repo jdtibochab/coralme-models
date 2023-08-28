@@ -49,7 +49,7 @@
 ==> ./lcrescens/MEReconstruction-lcrescens.log <==
 2023-08-14 14:17:28,999 Initiating ME-model reconstruction...
 
-==> ./geobacter/MEReconstruction-geobacter.log <==
+==> ./gmetallireducens/MEReconstruction-gmetallireducens.log <==
 2023-08-14 14:24:34,952 Initiating ME-model reconstruction...
 
 ==> ./cljungdahlii/MEReconstruction-cljungdahlii.log <==

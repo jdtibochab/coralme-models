@@ -1,5 +1,0 @@
-subreaction	enzymes
-Translation_gtp_initiation_factor_InfB	GMET_RS07975-MONOMER
-Translation_initiation_factor_InfA	GMET_RS09250-MONOMER
-Translation_initiation_factor_InfC	GMET_RS07115-MONOMER
-fmet_addition_at_START	GMET_RS07975-MONOMER,GMET_RS16735-MONOMER_mod_mg2(1)_mod_k(1)

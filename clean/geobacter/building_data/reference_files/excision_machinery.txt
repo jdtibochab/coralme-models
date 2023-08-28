@@ -1,4 +1,0 @@
-type	enzymes
-monocistronic	GMET_RS12785-MONOMER_mod_zn2(2),generic_RNase
-polycistronic_wout_rRNA	GMET_RS12785-MONOMER_mod_zn2(2),generic_RNase,GMET_RS11680-MONOMER,GMET_RS15995-MONOMER
-rRNA_containing	GMET_RS12785-MONOMER_mod_zn2(2),generic_RNase,GMET_RS11680-MONOMER_mod_mg2(2),GMET_RS15995-MONOMER

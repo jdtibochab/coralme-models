@@ -1,5 +1,0 @@
-,value
-AcrE,Gmet_0809
-BamD,Gmet_3014
-CusC,Gmet_0811
-MltC,Gmet_3262

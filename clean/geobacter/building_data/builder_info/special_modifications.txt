@@ -1,7 +1,0 @@
-,value
-bmocogdp_chaperones,{'enzymes': ['CPLX_dummy']}
-fes_chaperones,{'enzymes': ['CPLX_dummy']}
-fes_transfer,{'enzymes': ['CPLX_dummy']}
-generic_2fe2s_transfer_complex,{'enzymes': ['CPLX_dummy']}
-generic_4fe4s_transfer_complex,{'enzymes': ['CPLX_dummy']}
-lipoate_modifications,{'enzymes': ['CPLX_dummy']}

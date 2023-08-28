@@ -1,0 +1,16 @@
+{
+  "m-model-path": "./gmetallireducens/inputs/m_model.json",
+  "genbank-path": "./gmetallireducens/inputs/genome.gb",
+  "biocyc.genes": "./gmetallireducens/inputs/genes.txt",
+  "biocyc.prots": "./gmetallireducens/inputs/proteins.txt",
+  "biocyc.TUs": "./gmetallireducens/inputs/TUs.txt",
+  "biocyc.RNAs": "./gmetallireducens/inputs/RNAs.txt",
+  "biocyc.seqs": "./gmetallireducens/inputs/sequences.fasta",
+  "df_gene_cplxs_mods_rxns": "./gmetallireducens/building_data/automated-org-with-refs.xlsx",
+  "df_TranscriptionalUnits": "",
+  "out_directory": "./gmetallireducens/",
+  "log_directory": "./gmetallireducens/",
+  "run_bbh_blast": true,
+  "dev_reference": true,
+  "include_pseudo_genes": true
+}
