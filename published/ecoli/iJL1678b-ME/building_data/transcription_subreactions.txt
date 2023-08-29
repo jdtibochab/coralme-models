@@ -1,5 +1,0 @@
-	enzymes	stoich
-Transcription_normal_rho_independent	Mfd_mono_mod_mg2(1),NusA_mono,NusG_mono,GreA_mono,GreB_mono,RpoZ_mono_mod_mg2(1)	
-Transcription_normal_rho_dependent	Mfd_mono_mod_mg2(1),NusA_mono,NusG_mono,GreA_mono,GreB_mono,RpoZ_mono_mod_mg2(1),Rho_hexa_mod_mg2(3)	atp_c:-3,h2o_c:-3,adp_c:3,pi_c:3,h_c:3
-Transcription_stable_rho_independent	Mfd_mono_mod_mg2(1),NusA_mono,NusG_mono,GreA_mono,GreB_mono,RpoZ_mono_mod_mg2(1),RpsJ_mono,RpsD_mono,RplC_mono,RplD_mono,RplM_mono,NusB_mono	
-Transcription_stable_rho_dependent	Mfd_mono_mod_mg2(1),NusA_mono,NusG_mono,GreA_mono,GreB_mono,RpoZ_mono_mod_mg2(1),Rho_hexa_mod_mg2(3),RpsJ_mono,RpsD_mono,RplC_mono,RplD_mono,RplM_mono,NusB_mono	atp_c:-3,h2o_c:-3,adp_c:3,pi_c:3,h_c:3
