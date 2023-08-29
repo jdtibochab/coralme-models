@@ -34,6 +34,11 @@ complex_cofactors:
     - ''
     mod_NiFe_cofactor_c:
     - CPLX0-250_FORMATEDEHYDROGH-MONOMER
+START_tRNA:
+- b2814
+- b2815
+- b2816
+- b3171
 lipoprotein_precursors:
   AcrA: b0463
   AcrE: b3265

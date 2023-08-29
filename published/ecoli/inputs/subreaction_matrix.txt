@@ -191,7 +191,7 @@ mnm5U	h_c	+3.0
 mnm5U	amet_c	-1.0
 mnm5U	ahcys_c	+1.0
 
-# mnm5s2U (5-[(methylamino)methyl]-2-thiouridine: mnm5U + sulfuration: it needs a carrier and a reducer)
+# mnm5s2U (5-[(methylamino)methyl]-2-thiouridine: mnm5U + sulfurylation: it needs a carrier and a reducer)
 mnm5s2U	h2o_c	-1.0
 mnm5s2U	gly_c	-1.0
 mnm5s2U	mlthf_c	-1.0
@@ -211,7 +211,7 @@ mnm5s2U	IscS_mod_pydx5p(2)	+1.0
 mnm5s2U	RED-THIOREDOXIN-MONOMER	-1.0
 mnm5s2U	RED-THIOREDOXIN-MONOMER_mod_Oxidized(1)	+1.0
 
-# ms2i6A (sulfuration: it needs a carrier and a reducer)
+# ms2i6A (sulfurylation: it needs a carrier and a reducer)
 # per PMID 23543739, grxD is involved in repairing miaB 4fe4s prosthetic group after accepting electron
 ms2i6A	dmpp_c	-1.0
 ms2i6A	ppi_c	+1.0
@@ -226,7 +226,7 @@ ms2i6A	IscS_mod_pydx5p(2)	+1.0
 ms2i6A	CPLX0-7817	-1.0
 ms2i6A	CPLX0-7817_mod_Oxidized(1)	+1.0
 
-# s4U, s2C (sulfuration: it needs a carrier ThiI)
+# s4U, s2C (sulfurylation: it needs a carrier ThiI)
 # per PMID 24914049, the 4fe4s prosthetic group in YdaO helps donate sulfur, and an additional ferredoxin is not required
 # per PMID 10753862, mechanism does not require thioredoxin or other reducing equivalent
 s4U,s2C	atp_c	-1.0
