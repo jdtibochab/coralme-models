@@ -1,5 +1,0 @@
-subreaction	enzymes	stoich	element_contribution
-Translation_initiation_factor_InfA			
-Translation_initiation_factor_InfC			
-Translation_gtp_initiation_factor_InfB		gtp_c:-1,h2o_c:-1,h_c:1,pi_c:1,gdp_c:1	
-fmet_addition_at_START		10fthf_c:-1,thf_c:1,generic_tRNA_START_met__L_c:-1	C:1,O:1

@@ -1,0 +1,7 @@
+modification	enzymes
+bmocogdp_chaperones	EG12195-MONOMER,G6849-MONOMER,NARJ-MONOMER,NARW-MONOMER,NAPD-MONOMER,NAPD-MONOMER
+fes_chaperones	G6712-MONOMER
+fes_transfer	CPLX0-7617,IscA_tetra,CPLX0-7824
+generic_2fe2s_transfer_complex	CPLX0-7617_mod_2fe2s(1),CPLX0-7824_mod_2fe2s(1),IscA_tetra_mod_2fe2s(1)
+generic_4fe4s_transfer_complex	CPLX0-7617_mod_4fe4s(1),CPLX0-7824_mod_4fe4s(1),IscA_tetra_mod_4fe4s(1)
+lipoate_modifications	EG11796-MONOMER
