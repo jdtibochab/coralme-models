@@ -1,0 +1,169 @@
+id	me_id	name	formula	compartment	type
+# Correct these metabolites with new formulas
+	tl	thallium ion	Tl		CORRECTION
+	cs	cesium ion	Cs		CORRECTION
+	hemed	heme D	C34H32N4O6Fe		CORRECTION
+	pqq	pyrroloquinoline quinone	C14H3N2O8		CORRECTION
+
+# Modifications in other proteins. These formulas are needed to recalculate correctly the formulas of the complexes.
+	tl	thallium ion	Tl		COFACTOR
+	cs	cesium ion	Cs		COFACTOR
+	pqq	pyrroloquinoline quinone	C14H3N2O8		COFACTOR
+	lipoyl	Lipoyl moiety	C8H11OS2		COFACTOR
+	dpm	Dipyrromethane	C20H20N2O8		COFACTOR
+	cn	coordinated cyanide	CN		COFACTOR
+	FeCO	coordinated iron and carbon dioxide	FeCO		COFACTOR
+	FeCO[CN]2	coordinated iron, carbon monoxide, and cyanide	FeCOC2N2		COFACTOR
+	NiFe_cofactor	[NiFe]-dehydrogenase cofactor	NiFeCOC2N2		COFACTOR
+	23bpg	2,3-Bisphospho-D-glycerate	C3H3O10P2	Cytoplasm	COFACTOR
+
+	acetyl	Acetyl	C2H2O		COFACTOR
+	hemed	heme D	C34H32N4O6Fe		COFACTOR
+	SH	Sulfur in an [enzyme]-S-sulfanylcysteine	S		COFACTOR
+	3fe4s	[3Fe-4S] cluster	Fe3S4		COFACTOR
+	2fe1s	[2Fe-1S] cluster	Fe2S1		COFACTOR
+
+	coo	coordinated carbon dioxide	CO2		COFACTOR
+	amp	Adenosine 5'-monophosphate	C10H12N5O6P		COFACTOR
+
+# Modifications in the acyl-carrier protein. These formulas are needed to recalculate correctly the formulas of the ACP complexes.
+	pan4p	Pantetheine 4'-phosphate (-H2O)	C11H20N2O6PS		COFACTOR
+	3ha	(R)-3-Hydroxybutanoyl	C4H6O2		COFACTOR
+#	3hbut	(R)-3-Hydroxybutanoyl	C4H6O2		COFACTOR
+	3hcddec5e	(R)-3-hydroxy-cis-dodec-5-enoyl	C12H20O2		COFACTOR
+	3hcmrs7e	(R)-3-hydroxy-cis-myristol-7-eoyl	C14H24O2		COFACTOR
+	3hcpalm9e	(R)-3-hydroxy-cis-palm-9-eoyl	C16H28O2		COFACTOR
+	3hcvac11e	(R)-3-hydroxy-cis-vacc-11-enoyl	C18H32O2		COFACTOR
+	3hddec	(R)-3-Hydroxydodecanoyl	C12H22O2		COFACTOR
+	3hdec	(R)-3-Hydroxydecanoyl	C10H18O2		COFACTOR
+	3hhex	(R)-3-Hydroxyhexanoyl	C6H10O2		COFACTOR
+	3hmrs	(R)-3-Hydroxytetradecanoyl	C14H26O2		COFACTOR
+	3hoct	(R)-3-Hydroxyoctanoyl	C8H14O2		COFACTOR
+	3hocta	(R)-3-Hydroxyoctadecanoyl	C18H34O2		COFACTOR
+	3hpalm	(R)-3-hydroxypalmitoyl	C16H30O2		COFACTOR
+	3ocddec5e	3-oxo-cis-dodec-5-enoyl	C12H18O2		COFACTOR
+	3ocmrs7e	3-oxo-cis-myristol-7-eoyl	C14H22O2		COFACTOR
+	3ocpalm9e	3-oxo-cis-palm-9-eoyl	C16H26O2		COFACTOR
+	3ocvac11e	3-oxo-cis-vacc-11-enoyl	C18H30O2		COFACTOR
+	3oddec	3-Oxododecanoyl	C12H20O2		COFACTOR
+	3odec	3-Oxodecanoyl	C10H16O2		COFACTOR
+	3ohex	3-Oxohexanoyl	C6H8O2		COFACTOR
+	3omrs	3-Oxotetradecanoyl	C14H24O2		COFACTOR
+	3ooct	3-Oxooctanoyl	C8H12O2		COFACTOR
+	3ooctd	3-Oxooctadecanoyl	C18H32O2		COFACTOR
+	3opalm	3-Oxohexadecanoyl	C16H28O2		COFACTOR
+	ac	Acetyl	C2H2O		COFACTOR
+	act	Acetoacetyl	C4H4O2		COFACTOR
+	but2e	But-2-enoyl	C4H4O		COFACTOR
+	but	Butyryl	C4H6O		COFACTOR
+	cddec5e	Cis-dodec-5-enoyl	C12H20O		COFACTOR
+	cdec3e	Cis-dec-3-enoyl	C10H16O		COFACTOR
+	dca	Decanoyl	C10H18O		COFACTOR
+	ddca	Dodecanoyl	C12H22O		COFACTOR
+	egme	Enoylglutaryl methyl ester	C6H6O3		COFACTOR
+	epme	Enoylpimeloyl methyl ester	C8H10O3		COFACTOR
+	gme	Glutaryl methyl ester	C6H8O3		COFACTOR
+	hde	Cis-hexadec-9-enoyl	C16H28O		COFACTOR
+#	hdece	(9Z)-Hexadec-9-enoyl	C16H28O		COFACTOR
+	hex	Hexanoyl	C6H10O		COFACTOR
+	hgme	3-Hydroxyglutaryl methyl ester	C6H8O4		COFACTOR
+	hpme	3-Hydroxypimeloyl methyl ester	C8H12O4		COFACTOR
+	mal	Malonyl	C3H2O3		COFACTOR
+	myrs	Myristoyl	C14H26O		COFACTOR
+	oc	Octanoyl	C8H14O		COFACTOR
+	octa	Octanoyl	C8H14O		COFACTOR
+	ocdca	Octadecanoyl	C18H34O		COFACTOR
+	octe	11Z-octadecenoyl	C18H32O		COFACTOR
+#	octe_6_9_12_15_	6Z,9Z,12Z,15Z-octadecatetraenoyl	C18H26O		COFACTOR
+#	octe_6_9_12_	6Z-9Z,12Z-octadecatrienoyl	C18H28O		COFACTOR
+#	octe_9_12_15_	9Z,12Z,15Z-octadecatrienoyl	C18H28O		COFACTOR
+#	octe_9_12_	9Z,12Z-octadecadienoyl	C18H30O		COFACTOR
+#	octe_9_	9Z-octadecenoyl	C18H32O		COFACTOR
+	ogme	3-Oxo-glutaryl methyl ester	C6H6O4		COFACTOR
+	opme	3-Oxo-pimeloyl methyl ester	C8H10O4		COFACTOR
+	palm	Hexadecanoyl	C16H30O		COFACTOR
+	pim	Pimeloyl	C7H10O3		COFACTOR
+	pme	Pimeloyl methyl ester	C8H12O3		COFACTOR
+	t3c11vace	Trans-3-cis-11-vacceoyl	C18H30O		COFACTOR
+	t3c5ddece	Trans-3-cis-5-dodecenoyl	C12H18O		COFACTOR
+	t3c7mrse	Trans-3-cis-7-myristoleoyl	C14H22O		COFACTOR
+	t3c9palme	Trans-3-cis-9-palmitoleoyl	C16H26O		COFACTOR
+	tddec2e	Trans-Dodec-2-enoyl	C12H20O		COFACTOR
+	tde	Cis-tetradec-7-enoyl	C14H24O		COFACTOR
+	tdec2e	Trans-Dec-2-enoyl	C10H16O		COFACTOR
+	thex2e	Trans-Hex-2-enoyl	C6H8O		COFACTOR
+	tmrs2e	Trans-Tetradec-2-enoyl	C14H24O		COFACTOR
+	toct2e	Trans-Oct-2-enoyl	C8H12O		COFACTOR
+	toctd2e	Trans-octadec-2-enoyl	C18H32O		COFACTOR
+	tpalm2e	Trans-Hexadec-2-enoyl	C16H28O		COFACTOR
+
+# These metabolites were already replaced (See the reaction_matrix.txt file)
+3haACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_3ha(1)	(R)-3-Hydroxybutanoyl-[acyl-carrier protein]		Cytoplasm	REPLACE
+#3hbutACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_3hbut(1)	(R)-3-Hydroxybutanoyl-[acyl-carrier protein]		Cytoplasm	REPLACE
+3hcddec5eACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_3hcddec5e(1)	(R)-3-hydroxy-cis-dodec-5-enoyl-[acyl-carrier protein]		Cytoplasm	REPLACE
+3hcmrs7eACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_3hcmrs7e(1)	(R)-3-hydroxy-cis-myristol-7-eoyl-[acyl-carrier protein]		Cytoplasm	REPLACE
+3hcpalm9eACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_3hcpalm9e(1)	(R)-3-hydroxy-cis-palm-9-eoyl-[acyl-carrier protein]		Cytoplasm	REPLACE
+3hcvac11eACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_3hcvac11e(1)	(R)-3-hydroxy-cis-vacc-11-enoyl-[acyl-carrier protein]		Cytoplasm	REPLACE
+3hddecACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_3hddec(1)	(R)-3-Hydroxydodecanoyl-[acyl-carrier protein]		Cytoplasm	REPLACE
+3hdecACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_3hdec(1)	(R)-3-Hydroxydecanoyl-[acyl-carrier protein]		Cytoplasm	REPLACE
+3hhexACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_3hhex(1)	(R)-3-Hydroxyhexanoyl-[acyl-carrier protein]		Cytoplasm	REPLACE
+3hmrsACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_3hmrs(1)	(R)-3-Hydroxytetradecanoyl-[acyl-carrier protein]		Cytoplasm	REPLACE
+3hoctACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_3hoct(1)	(R)-3-Hydroxyoctanoyl-[acyl-carrier protein]		Cytoplasm	REPLACE
+3hoctaACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_3hocta(1)	(R)-3-Hydroxyoctadecanoyl-[acyl-carrier protein]		Cytoplasm	REPLACE
+3hpalmACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_3hpalm(1)	(R)-3-hydroxypalmitoyl-[acyl-carrier protein]		Cytoplasm	REPLACE
+3ocddec5eACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_3ocddec5e(1)	3-oxo-cis-dodec-5-enoyl-[acyl-carrier protein]		Cytoplasm	REPLACE
+3ocmrs7eACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_3ocmrs7e(1)	3-oxo-cis-myristol-7-eoyl-[acyl-carrier protein]		Cytoplasm	REPLACE
+3ocpalm9eACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_3ocpalm9e(1)	3-oxo-cis-palm-9-eoyl-[acyl-carrier protein]		Cytoplasm	REPLACE
+3ocvac11eACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_3ocvac11e(1)	3-oxo-cis-vacc-11-enoyl-[acyl-carrier protein]		Cytoplasm	REPLACE
+3oddecACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_3oddec(1)	3-Oxododecanoyl-[acyl-carrier protein]		Cytoplasm	REPLACE
+3odecACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_3odec(1)	3-Oxodecanoyl-[acyl-carrier protein]		Cytoplasm	REPLACE
+3ohexACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_3ohex(1)	3-Oxohexanoyl-[acyl-carrier protein]		Cytoplasm	REPLACE
+3omrsACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_3omrs(1)	3-Oxotetradecanoyl-[acyl-carrier protein]		Cytoplasm	REPLACE
+3ooctACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_3ooct(1)	3-Oxooctanoyl-[acyl-carrier protein]		Cytoplasm	REPLACE
+3ooctdACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_3ooctd(1)	3-Oxooctadecanoyl-[acyl-carrier protein]		Cytoplasm	REPLACE
+3opalmACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_3opalm(1)	3-Oxohexadecanoyl-[acyl-carrier protein]		Cytoplasm	REPLACE
+apoACP_c	EG50003-MONOMER	Acyl carrier protein		Cytoplasm	REPLACE
+ACP_c	EG50003-MONOMER_mod_pan4p(1)	Holo acyl carrier protein		Cytoplasm	REPLACE
+acACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_ac(1)	Acetyl-[acyl-carrier protein]		Cytoplasm	REPLACE
+actACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_act(1)	Acetoacetyl-[acyl-carrier protein]		Cytoplasm	REPLACE
+but2eACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_but2e(1)	But-2-enoyl-[acyl-carrier protein]		Cytoplasm	REPLACE
+butACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_but(1)	Butyryl-[acyl-carrier protein]		Cytoplasm	REPLACE
+cddec5eACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_cddec5e(1)	Cis-dodec-5-enoyl-[acyl-carrier protein]		Cytoplasm	REPLACE
+cdec3eACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_cdec3e(1)	Cis-dec-3-enoyl-[acyl-carrier protein]		Cytoplasm	REPLACE
+dcaACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_dca(1)	Decanoyl-[acyl-carrier protein]		Cytoplasm	REPLACE
+ddcaACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_ddca(1)	Dodecanoyl-[acyl-carrier protein]		Cytoplasm	REPLACE
+egmeACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_egme(1)	Enoylglutaryl-[acyl-carrier protein] methyl ester		Cytoplasm	REPLACE
+epmeACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_epme(1)	Enoylpimeloyl-[acyl-carrier protein] methyl ester		Cytoplasm	REPLACE
+gmeACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_gme(1)	Glutaryl-[acyl-carrier protein] methyl ester		Cytoplasm	REPLACE
+hdeACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_hde(1)	Cis-hexadec-9-enoyl-[acyl-carrier protein]		Cytoplasm	REPLACE
+#hdeceACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_hdece(1)	(9Z)-Hexadec-9-enoyl-[acyl-carrier protein]		Cytoplasm	REPLACE
+hexACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_hex(1)	Hexanoyl-[acyl-carrier protein]		Cytoplasm	REPLACE
+hgmeACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_hgme(1)	3-Hydroxyglutaryl-[acyl-carrier protein] methyl ester		Cytoplasm	REPLACE
+hpmeACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_hpme(1)	3-Hydroxypimeloyl-[acyl-carrier protein] methyl ester		Cytoplasm	REPLACE
+malACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_mal(1)	Malonyl-[acyl-carrier protein]		Cytoplasm	REPLACE
+myrsACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_myrs(1)	Myristoyl-[acyl-carrier protein]		Cytoplasm	REPLACE
+ocACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_oc(1)	Octanoyl-[acyl-carrier protein]		Cytoplasm	REPLACE
+ocdcaACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_ocdca(1)	Octadecanoyl-[acyl-carrier protein]		Cytoplasm	REPLACE
+octeACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_octe(1)	11Z-octadecenoyl-[acyl-carrier protein]		Cytoplasm	REPLACE
+#octe_6_9_12_15_ACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_octe_6_9_12_15_(1)	6Z,9Z,12Z,15Z-octadecatetraenoyl-[acyl-carrier protein]		Cytoplasm	REPLACE
+#octe_6_9_12_ACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_octe_6_9_12_(1)	6Z-9Z,12Z-octadecatrienoyl-[acyl-carrier protein]		Cytoplasm	REPLACE
+#octe_9_12_15_ACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_octe_9_12_15_(1)	9Z,12Z,15Z-octadecatrienoyl-[acyl-carrier protein]		Cytoplasm	REPLACE
+#octe_9_12_ACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_octe_9_12_(1)	9Z,12Z-octadecadienoyl-[acyl-carrier protein]		Cytoplasm	REPLACE
+#octe_9_ACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_octe_9_(1)	9Z-octadecenoyl-[acyl-carrier protein]		Cytoplasm	REPLACE
+ogmeACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_ogme(1)	3-Oxo-glutaryl-[acyl-carrier protein] methyl ester		Cytoplasm	REPLACE
+opmeACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_opme(1)	3-Oxo-pimeloyl-[acyl-carrier protein] methyl ester		Cytoplasm	REPLACE
+palmACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_palm(1)	Hexadecanoyl-[acyl-carrier protein]		Cytoplasm	REPLACE
+pimACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_pim(1)	Pimeloyl-[acyl-carrier protein]		Cytoplasm	REPLACE
+pmeACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_pme(1)	Pimeloyl-[acyl-carrier protein] methyl ester		Cytoplasm	REPLACE
+t3c11vaceACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_t3c11vace(1)	Trans-3-cis-11-vacceoyl-[acyl-carrier protein]		Cytoplasm	REPLACE
+t3c5ddeceACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_t3c5ddece(1)	Trans-3-cis-5-dodecenoyl-[acyl-carrier protein]		Cytoplasm	REPLACE
+t3c7mrseACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_t3c7mrse(1)	Trans-3-cis-7-myristoleoyl-[acyl-carrier protein]		Cytoplasm	REPLACE
+t3c9palmeACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_t3c9palme(1)	Trans-3-cis-9-palmitoleoyl-[acyl-carrier protein]		Cytoplasm	REPLACE
+tddec2eACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_tddec2e(1)	Trans-Dodec-2-enoyl-[acyl-carrier protein]		Cytoplasm	REPLACE
+tdeACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_tde(1)	Cis-tetradec-7-enoyl-[acyl-carrier protein]		Cytoplasm	REPLACE
+tdec2eACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_tdec2e(1)	Trans-Dec-2-enoyl-[acyl-carrier protein]		Cytoplasm	REPLACE
+thex2eACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_thex2e(1)	Trans-Hex-2-enoyl-[acyl-carrier protein]		Cytoplasm	REPLACE
+tmrs2eACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_tmrs2e(1)	Trans-Tetradec-2-enoyl-[acyl-carrier protein]		Cytoplasm	REPLACE
+toct2eACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_toct2e(1)	Trans-Oct-2-enoyl-[acyl-carrier protein]		Cytoplasm	REPLACE
+toctd2eACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_toctd2e(1)	Trans-octadec-2-enoyl-[acyl-carrier protein]		Cytoplasm	REPLACE
+tpalm2eACP_c	EG50003-MONOMER_mod_pan4p(1)_mod_tpalm2e(1)	Trans-Hexadec-2-enoyl-[acyl-carrier protein]		Cytoplasm	REPLACE

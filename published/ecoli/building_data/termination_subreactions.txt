@@ -1,0 +1,10 @@
+subreaction	enzymes
+PrfA_mono_mediated_termination	PrfA_mono
+PrfB_mono_mediated_termination	PrfB_mono
+generic_RF_mediated_termination	generic_RF
+N_terminal_methionine_cleavage	Map_mono_mod_fe2(2)
+peptide_deformylase_processing	Def_mono_mod_fe2(1)
+peptide_chain_release	PrfC_mono
+ribosome_recycler	Rrf_mono
+GroEL_dependent_folding	GroL_14,cisGroES_hepta,transGroES_hepta
+DnaK_dependent_folding	DnaK_mono,DnaJ_dim_mod_zn2(4),GrpE_dim

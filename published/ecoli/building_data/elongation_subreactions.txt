@@ -1,0 +1,3 @@
+	enzymes	stoich
+FusA_mono_elongation	FusA_mono
+Tuf_gtp_regeneration	Tsf_mono

@@ -1,0 +1,23 @@
+{
+  "m-model-path" : "./ecoli/inputs/m_model.json",
+  "genbank-path" : "./ecoli/inputs/genome.gb",
+  "biocyc.genes": "./ecoli/inputs/genes.txt",
+  "biocyc.prots": "./ecoli/inputs/proteins.txt",
+  "biocyc.TUs": "./ecoli/inputs/TUs.txt",
+  "biocyc.RNAs": "./ecoli/inputs/RNAs.txt",
+  "biocyc.seqs": "./ecoli/inputs/sequences.fasta",
+  "df_gene_cplxs_mods_rxns" : "./ecoli/building_data/automated-org-with-refs.xlsx",
+  "df_TranscriptionalUnits" : "./ecoli/inputs/TUs_from_biocyc.txt",
+  "df_matrix_stoichiometry" : "./ecoli/inputs/reaction_matrix.txt",
+  "df_matrix_subrxn_stoich" : "./ecoli/inputs/subreaction_matrix.txt",
+  "df_metadata_orphan_rxns" : "./ecoli/inputs/orphan_and_spont_reactions.txt",
+  "df_metadata_metabolites" : "./ecoli/inputs/me_metabolites.txt",
+  "df_reaction_keff_consts" : "./ecoli/inputs/keffs.txt",
+  "out_directory" : "./ecoli/",
+  "log_directory" : "./ecoli/",
+  "run_bbh_blast" : false,
+  "dev_reference" : false,
+  "include_pseudo_genes" : false,
+  "add_lipoproteins" : true,
+  "locus_tag" : "locus_tag"
+}

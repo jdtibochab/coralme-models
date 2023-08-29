@@ -1,0 +1,15 @@
+name,gene
+AcrA,b0463
+AcrE,b3265
+BamB,b2512
+BamC,b2477
+BamD,b2595
+BamE,b2617
+CusC,b0572
+EG10544-MONOMER,b1677
+EmtA,b1193
+LolB,b1209
+MetQ,b0197
+MltA,b2813
+MltB,b2701
+MltC,b2963
