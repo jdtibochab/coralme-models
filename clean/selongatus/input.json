@@ -1,0 +1,17 @@
+{
+  "m-model-path": "./selongatus/inputs/m_model.json",
+  "genbank-path": "./selongatus/inputs/genome.gb",
+  "biocyc.genes": "./selongatus/inputs/genes.txt",
+  "biocyc.prots": "./selongatus/inputs/proteins.txt",
+  "biocyc.TUs": "./selongatus/inputs/TUs.txt",
+  "biocyc.RNAs": "./selongatus/inputs/RNAs.txt",
+  "biocyc.seqs": "./selongatus/inputs/sequences.fasta",
+  "df_gene_cplxs_mods_rxns": "./selongatus/building_data/automated-org-with-refs.xlsx",
+  "df_TranscriptionalUnits": "",
+  "out_directory": "./selongatus/",
+  "log_directory": "./selongatus/",
+  "run_bbh_blast": true,
+  "dev_reference": true,
+  "include_pseudo_genes": true,
+  "feasibility_mu": 0.01
+}

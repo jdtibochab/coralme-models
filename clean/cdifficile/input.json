@@ -1,0 +1,16 @@
+{
+  "m-model-path": "./cdifficile/inputs/m_model.json",
+  "genbank-path": "./cdifficile/inputs/genome.gb",
+  "biocyc.genes": "./cdifficile/inputs/genes.txt",
+  "biocyc.prots": "./cdifficile/inputs/proteins.txt",
+  "biocyc.TUs": "./cdifficile/inputs/TUs.txt",
+  "biocyc.RNAs": "./cdifficile/inputs/RNAs.txt",
+  "biocyc.seqs": "./cdifficile/inputs/sequences.fasta",
+  "df_gene_cplxs_mods_rxns": "./cdifficile/building_data/automated-org-with-refs.xlsx",
+  "df_TranscriptionalUnits": "",
+  "out_directory": "./cdifficile/",
+  "log_directory": "./cdifficile/",
+  "run_bbh_blast": true,
+  "dev_reference": true,
+  "include_pseudo_genes": true
+}

@@ -1,7 +1,7 @@
 ==> ./synechocystis/MEReconstruction-synechocystis.log <==
 2023-08-14 14:02:14,259 Initiating ME-model reconstruction...
 
-==> ./mycoplasma/MEReconstruction-mycoplasma.log <==
+==> ./mmycoides/MEReconstruction-mmycoides.log <==
 2023-08-14 14:01:31,550 Initiating ME-model reconstruction...
 
 ==> ./senterica/MEReconstruction-senterica.log <==
@@ -19,7 +19,7 @@
 ==> ./vcholerae/MEReconstruction-vcholerae.log <==
 2023-08-14 14:03:11,418 Initiating ME-model reconstruction...
 
-==> ./cdiff/MEReconstruction-cdiff.log <==
+==> ./cdifficile/MEReconstruction-cdifficile.log <==
 2023-08-14 14:02:20,850 Initiating ME-model reconstruction...
 
 ==> ./lcremoris/MEReconstruction-lcremoris.log <==
@@ -28,7 +28,7 @@
 ==> ./tmaritima/MEReconstruction-tmaritima.log <==
 2023-08-14 14:01:41,165 Initiating ME-model reconstruction...
 
-==> ./staph/MEReconstruction-staph.log <==
+==> ./saureus/MEReconstruction-saureus.log <==
 2023-08-14 14:01:52,267 Initiating ME-model reconstruction...
 
 ==> ./pputida/MEReconstruction-pputida.log <==
@@ -43,20 +43,20 @@
 ==> ./hpylori/MEReconstruction-hpylori.log <==
 2023-08-14 14:06:12,392 Initiating ME-model reconstruction...
 
-==> ./synechococcus/MEReconstruction-synechococcus.log <==
+==> ./selongatus/MEReconstruction-selongatus.log <==
 2023-08-17 11:55:19,720 Initiating ME-model reconstruction...
 
-==> ./liberibacter/MEReconstruction-liberibacter.log <==
+==> ./lcrescens/MEReconstruction-lcrescens.log <==
 2023-08-14 14:17:28,999 Initiating ME-model reconstruction...
 
-==> ./geobacter/MEReconstruction-geobacter.log <==
+==> ./gmetallireducens/MEReconstruction-gmetallireducens.log <==
 2023-08-14 14:24:34,952 Initiating ME-model reconstruction...
 
-==> ./clostridium/MEReconstruction-clostridium.log <==
+==> ./cljungdahlii/MEReconstruction-cljungdahlii.log <==
 2023-08-14 14:27:08,691 Initiating ME-model reconstruction...
 
-==> ./nitrosomonas/MEReconstruction-nitrosomonas.log <==
+==> ./neuropaea/MEReconstruction-neuropaea.log <==
 2023-08-14 14:38:32,826 Initiating ME-model reconstruction...
 
-==> ./bacillus/MEReconstruction-bacillus.log <==
+==> ./bsubtilis/MEReconstruction-bsubtilis.log <==
 2023-08-14 14:41:39,907 Initiating ME-model reconstruction...

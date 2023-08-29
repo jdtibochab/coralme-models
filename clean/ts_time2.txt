@@ -1,8 +1,8 @@
 ==> ./synechocystis/METroubleshooter-synechocystis.log <==
 2023-08-14 15:25:04,152 ME-model was saved in the ./synechocystis/ directory as MEModel-step3-synechocystis-TS.pkl
 
-==> ./mycoplasma/METroubleshooter-mycoplasma.log <==
-2023-08-14 14:05:52,539 ME-model was saved in the ./mycoplasma/ directory as MEModel-step3-mycoplasma-TS.pkl
+==> ./mmycoides/METroubleshooter-mmycoides.log <==
+2023-08-14 14:05:52,539 ME-model was saved in the ./mmycoides/ directory as MEModel-step3-mmycoides-TS.pkl
 
 ==> ./senterica/METroubleshooter-senterica.log <==
 2023-08-17 16:30:34,804              Processed: 243/290, Gaps: 7. The ME-model is feasible if TS_seramp_c is closed.
@@ -19,8 +19,8 @@
 ==> ./vcholerae/METroubleshooter-vcholerae.log <==
 2023-08-14 15:25:03,476 ME-model was saved in the ./vcholerae/ directory as MEModel-step3-vcholerae-TS.pkl
 
-==> ./cdiff/METroubleshooter-cdiff.log <==
-2023-08-14 14:39:47,037 ME-model was saved in the ./cdiff/ directory as MEModel-step3-cdiff-TS.pkl
+==> ./cdifficile/METroubleshooter-cdifficile.log <==
+2023-08-14 14:39:47,037 ME-model was saved in the ./cdifficile/ directory as MEModel-step3-cdifficile-TS.pkl
 
 ==> ./lcremoris/METroubleshooter-lcremoris.log <==
 2023-08-17 15:26:40,756 ME-model was saved in the ./lcremoris/ directory as MEModel-step3-lcremoris-TS.pkl
@@ -28,8 +28,8 @@
 ==> ./tmaritima/METroubleshooter-tmaritima.log <==
 2023-08-14 14:23:36,656 ME-model was saved in the ./tmaritima/ directory as MEModel-step3-tmaritima-TS.pkl
 
-==> ./staph/METroubleshooter-staph.log <==
-2023-08-14 16:26:32,612 ME-model was saved in the ./staph/ directory as MEModel-step3-staph-TS.pkl
+==> ./saureus/METroubleshooter-saureus.log <==
+2023-08-14 16:26:32,612 ME-model was saved in the ./saureus/ directory as MEModel-step3-saureus-TS.pkl
 
 ==> ./pputida/METroubleshooter-pputida.log <==
 2023-08-14 16:58:05,063 ME-model was saved in the ./pputida/ directory as MEModel-step3-pputida-TS.pkl
@@ -43,20 +43,20 @@
 ==> ./hpylori/METroubleshooter-hpylori.log <==
 2023-08-14 14:17:09,030 ME-model was saved in the ./hpylori/ directory as MEModel-step3-hpylori-TS.pkl
 
-==> ./synechococcus/METroubleshooter-synechococcus.log <==
-2023-08-17 12:57:13,325 ME-model was saved in the ./synechococcus/ directory as MEModel-step3-synechococcus-TS.pkl
+==> ./selongatus/METroubleshooter-selongatus.log <==
+2023-08-17 12:57:13,325 ME-model was saved in the ./selongatus/ directory as MEModel-step3-selongatus-TS.pkl
 
-==> ./liberibacter/METroubleshooter-liberibacter.log <==
-2023-08-14 14:57:30,800 ME-model was saved in the ./liberibacter/ directory as MEModel-step3-liberibacter-TS.pkl
+==> ./lcrescens/METroubleshooter-lcrescens.log <==
+2023-08-14 14:57:30,800 ME-model was saved in the ./lcrescens/ directory as MEModel-step3-lcrescens-TS.pkl
 
-==> ./geobacter/METroubleshooter-geobacter.log <==
-2023-08-14 14:38:07,303 ME-model was saved in the ./geobacter/ directory as MEModel-step3-geobacter-TS.pkl
+==> ./gmetallireducens/METroubleshooter-gmetallireducens.log <==
+2023-08-14 14:38:07,303 ME-model was saved in the ./gmetallireducens/ directory as MEModel-step3-gmetallireducens-TS.pkl
 
-==> ./clostridium/METroubleshooter-clostridium.log <==
-2023-08-14 14:40:25,252 ME-model was saved in the ./clostridium/ directory as MEModel-step3-clostridium-TS.pkl
+==> ./cljungdahlii/METroubleshooter-cljungdahlii.log <==
+2023-08-14 14:40:25,252 ME-model was saved in the ./cljungdahlii/ directory as MEModel-step3-cljungdahlii-TS.pkl
 
-==> ./nitrosomonas/METroubleshooter-nitrosomonas.log <==
-2023-08-14 15:10:51,968 ME-model was saved in the ./nitrosomonas/ directory as MEModel-step3-nitrosomonas-TS.pkl
+==> ./neuropaea/METroubleshooter-neuropaea.log <==
+2023-08-14 15:10:51,968 ME-model was saved in the ./neuropaea/ directory as MEModel-step3-neuropaea-TS.pkl
 
-==> ./bacillus/METroubleshooter-bacillus.log <==
-2023-08-14 15:17:06,647 ME-model was saved in the ./bacillus/ directory as MEModel-step3-bacillus-TS.pkl
+==> ./bsubtilis/METroubleshooter-bsubtilis.log <==
+2023-08-14 15:17:06,647 ME-model was saved in the ./bsubtilis/ directory as MEModel-step3-bsubtilis-TS.pkl

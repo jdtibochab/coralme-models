@@ -1,0 +1,21 @@
+{
+  "m-model-path": "./cljungdahlii/inputs/m_model.json",
+  "genbank-path": "./cljungdahlii/inputs/genome.gb",
+  "biocyc.genes": "./cljungdahlii/inputs/genes.txt",
+  "biocyc.prots": "./cljungdahlii/inputs/proteins.txt",
+  "biocyc.TUs": "./cljungdahlii/inputs/TUs.txt",
+  "biocyc.RNAs": "./cljungdahlii/inputs/RNAs.txt",
+  "biocyc.seqs": "./cljungdahlii/inputs/sequences.fasta",
+  "df_gene_cplxs_mods_rxns": "./cljungdahlii/building_data/automated-org-with-refs.xlsx",
+  "df_TranscriptionalUnits": "./cljungdahlii/inputs/TUs_from_biocyc.txt",
+  "df_matrix_stoichiometry": "./cljungdahlii/inputs/reaction_matrix.txt",
+  "df_matrix_subrxn_stoich": "./cljungdahlii/inputs/subreaction_matrix.txt",
+  "df_metadata_orphan_rxns": "./cljungdahlii/inputs/orphan_and_spont_reactions.txt",
+  "df_metadata_metabolites": "./cljungdahlii/inputs/me_metabolites.txt",
+  "out_directory": "./cljungdahlii/",
+  "log_directory": "./cljungdahlii/",
+  "run_bbh_blast": true,
+  "dev_reference": true,
+  "include_pseudo_genes": true,
+  "locus_tag" : "old_locus_tag"
+}

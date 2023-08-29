@@ -1,0 +1,17 @@
+{
+  "m-model-path": "./lcrescens/inputs/m_model.json",
+  "genbank-path": "./lcrescens/inputs/genome.gb",
+  "biocyc.genes": "./lcrescens/inputs/genes.txt",
+  "biocyc.prots": "./lcrescens/inputs/proteins.txt",
+  "biocyc.TUs": "./lcrescens/inputs/TUs.txt",
+  "biocyc.RNAs": "./lcrescens/inputs/RNAs.txt",
+  "biocyc.seqs": "./lcrescens/inputs/sequences.fasta",
+  "df_gene_cplxs_mods_rxns": "./lcrescens/building_data/automated-org-with-refs.xlsx",
+  "df_TranscriptionalUnits": "",
+  "out_directory": "./lcrescens/",
+  "log_directory": "./lcrescens/",
+  "run_bbh_blast": true,
+  "dev_reference": true,
+  "include_pseudo_genes": true,
+  "feasibility_mu": 0.01
+}

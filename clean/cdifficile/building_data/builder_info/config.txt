@@ -1,0 +1,39 @@
+,value
+ME-Model-ID,cdifficile
+amino_acid_trna_synthetase,"{'ala__L_c': 'generic_ala_ligase', 'arg__L_c': 'G12WB-821-MONOMER', 'asn__L_c': 'G12WB-2400-MONOMER', 'asp__L_c': 'G12WB-2897-MONOMER', 'cys__L_c': 'G12WB-105-MONOMER', 'gln__L_c': 'G12WB-2210-MONOMER', 'glu__L_c': 'G12WB-103-MONOMER', 'gly_c': 'CPLX12WB-7', 'his__L_c': 'G12WB-2898-MONOMER', 'ile__L_c': 'G12WB-2769-MONOMER', 'leu__L_c': 'G12WB-2676-MONOMER', 'lys__L_c': 'G12WB-3738-MONOMER', 'met__L_c': 'G12WB-3721-MONOMER', 'phe__L_c': 'CPLX12WB-8', 'pro__L_c': 'generic_pro_ligase', 'ser__L_c': 'generic_ser_ligase', 'thr__L_c': 'G12WB-685-MONOMER', 'trp__L_c': 'G12WB-2761-MONOMER', 'tyr__L_c': 'G12WB-1659-MONOMER', 'val__L_c': 'G12WB-3423-MONOMER'}"
+biocyc.RNAs,./cdifficile/inputs/RNAs.txt
+biocyc.TUs,./cdifficile/inputs/TUs.txt
+biocyc.genes,./cdifficile/inputs/genes.txt
+biocyc.prots,./cdifficile/inputs/proteins.txt
+biocyc.seqs,./cdifficile/inputs/sequences.fasta
+braun's_lipoprotein,[]
+braun's_lipoproteins,[]
+braun's_lpp_flux,-0.0
+braun's_murein_flux,-0.0
+complex_cofactors,"{'fes_transfers': ['CPLX_dummy'], 'biotin_subreactions': {'mod_btn_c': ['biotin_ligase']}, 'lipoate_subreactions': {'mod_lipoyl_c': ['lipoyl_denovo', 'lipoyl_scavenging']}, 'fes_chaperones': {}, 'bmocogdp_chaperones': {}, 'FeFe/NiFe': {'mod_FeFe_cofactor_c': '', 'mod_NiFe_cofactor_c': ''}}"
+defer_to_rxn_matrix,"['BIOMASS__5', 'FMETTRS', 'ATPM']"
+dev_reference,False
+df_TranscriptionalUnits,./cdifficile//building_data/TUs_from_biocyc.txt
+df_gene_cplxs_mods_rxns,./cdifficile/building_data/automated-org-with-refs.xlsx
+flux_of_biomass_constituents,{}
+flux_of_lipid_constituents,{}
+gam,1.0
+genbank-path,./cdifficile//building_data/genome_modified.gb
+gr_data_doublings_per_hour,"[0, 0.6, 1.0, 1.5, 2.0, 2.5]"
+growth_key,mu1
+include_pseudo_genes,True
+lipid_modifications,[]
+lipoprotein_precursors,{'MetQ': 'CD630_14910'}
+log_directory,./cdifficile/
+m-model-path,./cdifficile//building_data/m_model_modified.json
+ngam,1.0
+other_lipids,[]
+out_directory,./cdifficile/
+peptide_release_factors,"{'UAG': 'G12WB-3664-MONOMER', 'UGA': 'G12WB-248-MONOMER', 'UAA': 'generic_RF'}"
+percent_dna_data,"[0.0592, 0.0512, 0.033, 0.0252, 0.0222, 0.0208]"
+pg_pe_160,"['G12WB-2810-MONOMER', 'G12WB-2754-MONOMER']"
+rna_polymerases,"{'RNAP_G12WB768MONOMER': {'sigma_factor': 'G12WB-768-MONOMER', 'polymerase': 'CPLX12WB-1_mod_zn2(1)_mod_mg2(2)'}, 'RNAP_G12WB110MONOMER': {'sigma_factor': 'G12WB-110-MONOMER', 'polymerase': 'CPLX12WB-1_mod_zn2(1)_mod_mg2(2)'}, 'RNAP_G12WB2033MONOMER': {'sigma_factor': 'G12WB-2033-MONOMER', 'polymerase': 'CPLX12WB-1_mod_zn2(1)_mod_mg2(2)'}, 'RNAP_G12WB4229MONOMER': {'sigma_factor': 'G12WB-4229-MONOMER', 'polymerase': 'CPLX12WB-1_mod_zn2(1)_mod_mg2(2)'}, 'RNAP_G12WB3497MONOMER': {'sigma_factor': 'G12WB-3497-MONOMER', 'polymerase': 'CPLX12WB-1_mod_zn2(1)_mod_mg2(2)'}, 'RNAP_G12WB1217MONOMER': {'sigma_factor': 'G12WB-1217-MONOMER', 'polymerase': 'CPLX12WB-1_mod_zn2(1)_mod_mg2(2)'}, 'RNAP_G12WB465MONOMER': {'sigma_factor': 'G12WB-465-MONOMER', 'polymerase': 'CPLX12WB-1_mod_zn2(1)_mod_mg2(2)'}, 'RNAP_G12WB786MONOMER': {'sigma_factor': 'G12WB-786-MONOMER', 'polymerase': 'CPLX12WB-1_mod_zn2(1)_mod_mg2(2)'}, 'RNAP_G12WB2034MONOMER': {'sigma_factor': 'G12WB-2034-MONOMER', 'polymerase': 'CPLX12WB-1_mod_zn2(1)_mod_mg2(2)'}, 'RNAP_G12WB883MONOMER': {'sigma_factor': 'G12WB-883-MONOMER', 'polymerase': 'CPLX12WB-1_mod_zn2(1)_mod_mg2(2)'}, 'RNAP_G12WB1697MONOMER': {'sigma_factor': 'G12WB-1697-MONOMER', 'polymerase': 'CPLX12WB-1_mod_zn2(1)_mod_mg2(2)'}, 'RNAP_G12WB3342MONOMER': {'sigma_factor': 'G12WB-3342-MONOMER', 'polymerase': 'CPLX12WB-1_mod_zn2(1)_mod_mg2(2)'}, 'RNAP_G12WB787MONOMER': {'sigma_factor': 'G12WB-787-MONOMER', 'polymerase': 'CPLX12WB-1_mod_zn2(1)_mod_mg2(2)'}, 'RNAP_G12WB11MONOMER': {'sigma_factor': 'G12WB-11-MONOMER', 'polymerase': 'CPLX12WB-1_mod_zn2(1)_mod_mg2(2)'}, 'RNAP_G12WB1635MONOMER': {'sigma_factor': 'G12WB-1635-MONOMER', 'polymerase': 'CPLX12WB-1_mod_zn2(1)_mod_mg2(2)'}, 'RNAP_G12WB1592MONOMER': {'sigma_factor': 'G12WB-1592-MONOMER', 'polymerase': 'CPLX12WB-1_mod_zn2(1)_mod_mg2(2)'}, 'RNAP_G12WB370MONOMER': {'sigma_factor': 'G12WB-370-MONOMER', 'polymerase': 'CPLX12WB-1_mod_zn2(1)_mod_mg2(2)'}, 'RNAP_G12WB1698MONOMER': {'sigma_factor': 'G12WB-1698-MONOMER', 'polymerase': 'CPLX12WB-1_mod_zn2(1)_mod_mg2(2)'}}"
+run_bbh_blast,False
+selenocysteine_enzymes,['CPLX_dummy']
+translocation_multipliers,{'G12WB-3870-MONOMER': {}}
+unmodeled_protein_fraction,0.36

@@ -1,0 +1,75 @@
+Reaction	Metabolites	Stoichiometry
+# Dipyrromethane biosynthesis. Done in subreaction_matrix
+#DPM	CLJU_RS15760-MONOMER_mod_hmbil(1)	-1.0
+#DPM	ppbng_c	-2.0
+#DPM	h2o_c	-1.0
+#DPM	h_c	-1.0
+#DPM	CLJU_RS15760-MONOMER_mod_dpm(1)	1.0
+#DPM	hmbil_c	1.0
+#DPM	nh4_c	2.0
+
+# Loading of sulfur into IscS_dim
+ICYSDS1	IscS_dim_mod_pydx5p(2)	-1.0
+ICYSDS1	cys__L_c	-1.0
+ICYSDS1	IscS_dim_mod_pydx5p(2)_mod_SH(1)	1.0
+ICYSDS1	ala__L_c	1.0
+
+# Loading of iron and sulfur into NifU_dim
+NifU_dim_Fe_loading	NifU_dim	-1.0
+NifU_dim_Fe_loading	fe2_c	-1.0
+NifU_dim_Fe_loading	NifU_dim_mod_fe2(1)	1.0
+
+NifU_dim_mod_fe2(1)_Fe_loading	NifU_dim_mod_fe2(1)	-1.0
+NifU_dim_mod_fe2(1)_Fe_loading	fe2_c	-1.0
+NifU_dim_mod_fe2(1)_Fe_loading	NifU_dim_mod_fe2(2)	1.0
+
+S_transfer_to_NifU_dim_mod_fe2(2)	IscS_dim_mod_pydx5p(2)_mod_SH(1)	-1.0
+S_transfer_to_NifU_dim_mod_fe2(2)	NifU_dim_mod_fe2(2)	-1.0
+S_transfer_to_NifU_dim_mod_fe2(2)	IscS_dim_mod_pydx5p(2)	1.0
+S_transfer_to_NifU_dim_mod_fe2(2)	NifU_dim_mod_2fe1s(1)	1.0
+S_transfer_to_NifU_dim_mod_fe2(2)	h_c	4.0
+
+S_transfer_to_NifU_dim_mod_2Fe1S(1)	IscS_dim_mod_pydx5p(2)_mod_SH(1)	-1.0
+S_transfer_to_NifU_dim_mod_2Fe1S(1)	NifU_dim_mod_2fe1s(1)	-1.0
+S_transfer_to_NifU_dim_mod_2Fe1S(1)	IscS_dim_mod_pydx5p(2)	1.0
+S_transfer_to_NifU_dim_mod_2Fe1S(1)	NifU_dim_mod_2fe2s(1)	1.0
+S_transfer_to_NifU_dim_mod_2Fe1S(1)	h_c	4.0
+
+NifU_dim_mod_2fe2s(1)_Fe_loading	NifU_dim_mod_2fe2s(1)	-1.0
+NifU_dim_mod_2fe2s(1)_Fe_loading	fe2_c	-2.0
+NifU_dim_mod_2fe2s(1)_Fe_loading	NifU_dim_mod_2fe2s(1)_mod_fe2(2)	1.0
+
+S_transfer_to_NifU_dim_mod_2Fe2S(1)_mod_fe2(2)	IscS_dim_mod_pydx5p(2)_mod_SH(1)	-1.0
+S_transfer_to_NifU_dim_mod_2Fe2S(1)_mod_fe2(2)	NifU_dim_mod_2fe2s(1)_mod_fe2(2)	-1.0
+S_transfer_to_NifU_dim_mod_2Fe2S(1)_mod_fe2(2)	IscS_dim_mod_pydx5p(2)	1.0
+S_transfer_to_NifU_dim_mod_2Fe2S(1)_mod_fe2(2)	NifU_dim_mod_2fe2s(1)_mod_2fe1s(1)	1.0
+S_transfer_to_NifU_dim_mod_2Fe2S(1)_mod_fe2(2)	h_c	4.0
+
+S_transfer_to_NifU_dim_mod_2Fe2S(1)_mod_2Fe1S(1)	IscS_dim_mod_pydx5p(2)_mod_SH(1)	-1.0
+S_transfer_to_NifU_dim_mod_2Fe2S(1)_mod_2Fe1S(1)	NifU_dim_mod_2fe2s(1)_mod_2fe1s(1)	-1.0
+S_transfer_to_NifU_dim_mod_2Fe2S(1)_mod_2Fe1S(1)	IscS_dim_mod_pydx5p(2)	1.0
+S_transfer_to_NifU_dim_mod_2Fe2S(1)_mod_2Fe1S(1)	NifU_dim_mod_2fe2s(2)	1.0
+S_transfer_to_NifU_dim_mod_2Fe2S(1)_mod_2Fe1S(1)	h_c	4.0
+
+I4FE4SR1	h_c	-2.0
+I4FE4SR1	NifU_dim_mod_2fe2s(2)	-1.0
+I4FE4SR1	fmnh2_c	-1.0
+I4FE4SR1	NifU_dim_mod_4fe4s(1)	1.0
+I4FE4SR1	fmn_c	1.0
+
+4Fe4S_to_ErpA_by_NifU_dim	ErpA_dim	-1.0
+4Fe4S_to_ErpA_by_NifU_dim	NifU_dim_mod_4fe4s(1)	-1.0
+4Fe4S_to_ErpA_by_NifU_dim	atp_c	-1.0
+4Fe4S_to_ErpA_by_NifU_dim	ErpA_dim_mod_4fe4s(1)	1.0
+4Fe4S_to_ErpA_by_NifU_dim	NifU_dim	1.0
+4Fe4S_to_ErpA_by_NifU_dim	adp_c	1.0
+4Fe4S_to_ErpA_by_NifU_dim	pi_c	1.0
+
+2Fe2S_to_ErpA_by_NifU	ErpA_dim	-1.0
+2Fe2S_to_ErpA_by_NifU	NifU_dim_mod_2fe2s(1)	-1.0
+2Fe2S_to_ErpA_by_NifU	atp_c	-1.0
+2Fe2S_to_ErpA_by_NifU	ErpA_dim_mod_2fe2s(1)	1.0
+2Fe2S_to_ErpA_by_NifU	NifU_dim	1.0
+2Fe2S_to_ErpA_by_NifU	adp_c	1.0
+2Fe2S_to_ErpA_by_NifU	pi_c	1.0
+

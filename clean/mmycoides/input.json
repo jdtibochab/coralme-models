@@ -1,0 +1,16 @@
+{
+  "m-model-path": "./mmycoides/inputs/m_model.json",
+  "genbank-path": "./mmycoides/inputs/genome.gb",
+  "biocyc.genes": "",
+  "biocyc.prots": "",
+  "biocyc.TUs": "",
+  "biocyc.RNAs": "",
+  "biocyc.seqs": "",
+  "df_gene_cplxs_mods_rxns": "./mmycoides/building_data/automated-org-with-refs.xlsx",
+  "df_TranscriptionalUnits": "",
+  "out_directory": "./mmycoides/",
+  "log_directory": "./mmycoides/",
+  "run_bbh_blast": true,
+  "dev_reference": true,
+  "include_pseudo_genes": true
+}

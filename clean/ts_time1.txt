@@ -1,7 +1,7 @@
 ==> ./synechocystis/METroubleshooter-synechocystis.log <==
 2023-08-14 14:04:00,368 ~ Troubleshooting started...
 
-==> ./mycoplasma/METroubleshooter-mycoplasma.log <==
+==> ./mmycoides/METroubleshooter-mmycoides.log <==
 2023-08-14 14:01:46,239 ~ Troubleshooting started...
 
 ==> ./senterica/METroubleshooter-senterica.log <==
@@ -19,7 +19,7 @@
 ==> ./vcholerae/METroubleshooter-vcholerae.log <==
 2023-08-14 14:07:32,413 ~ Troubleshooting started...
 
-==> ./cdiff/METroubleshooter-cdiff.log <==
+==> ./cdifficile/METroubleshooter-cdifficile.log <==
 2023-08-14 14:04:14,373 ~ Troubleshooting started...
 
 ==> ./lcremoris/METroubleshooter-lcremoris.log <==
@@ -28,7 +28,7 @@
 ==> ./tmaritima/METroubleshooter-tmaritima.log <==
 2023-08-14 14:02:20,971 ~ Troubleshooting started...
 
-==> ./staph/METroubleshooter-staph.log <==
+==> ./saureus/METroubleshooter-saureus.log <==
 2023-08-14 14:03:03,813 ~ Troubleshooting started...
 
 ==> ./pputida/METroubleshooter-pputida.log <==
@@ -43,20 +43,20 @@
 ==> ./hpylori/METroubleshooter-hpylori.log <==
 2023-08-14 14:07:09,333 ~ Troubleshooting started...
 
-==> ./synechococcus/METroubleshooter-synechococcus.log <==
+==> ./selongatus/METroubleshooter-selongatus.log <==
 2023-08-17 11:56:36,918 ~ Troubleshooting started...
 
-==> ./liberibacter/METroubleshooter-liberibacter.log <==
+==> ./lcrescens/METroubleshooter-lcrescens.log <==
 2023-08-14 14:18:20,597 ~ Troubleshooting started...
 
-==> ./geobacter/METroubleshooter-geobacter.log <==
+==> ./gmetallireducens/METroubleshooter-gmetallireducens.log <==
 2023-08-14 14:27:10,086 ~ Troubleshooting started...
 
-==> ./clostridium/METroubleshooter-clostridium.log <==
+==> ./cljungdahlii/METroubleshooter-cljungdahlii.log <==
 2023-08-14 14:30:02,026 ~ Troubleshooting started...
 
-==> ./nitrosomonas/METroubleshooter-nitrosomonas.log <==
+==> ./neuropaea/METroubleshooter-neuropaea.log <==
 2023-08-14 14:39:40,925 ~ Troubleshooting started...
 
-==> ./bacillus/METroubleshooter-bacillus.log <==
+==> ./bsubtilis/METroubleshooter-bsubtilis.log <==
 2023-08-14 14:44:33,952 ~ Troubleshooting started...

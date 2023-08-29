@@ -1,0 +1,16 @@
+{
+  "m-model-path": "./neuropaea/inputs/m_model.json",
+  "genbank-path": "./neuropaea/inputs/genome.gb",
+  "biocyc.genes": "./neuropaea/inputs/genes.txt",
+  "biocyc.prots": "./neuropaea/inputs/proteins.txt",
+  "biocyc.TUs": "./neuropaea/inputs/TUs.txt",
+  "biocyc.RNAs": "./neuropaea/inputs/RNAs.txt",
+  "biocyc.seqs": "./neuropaea/inputs/sequences.fasta",
+  "df_gene_cplxs_mods_rxns": "./neuropaea/building_data/automated-org-with-refs.xlsx",
+  "df_TranscriptionalUnits": "",
+  "out_directory": "./neuropaea/",
+  "log_directory": "./neuropaea/",
+  "run_bbh_blast": true,
+  "dev_reference": true,
+  "include_pseudo_genes": true
+}
