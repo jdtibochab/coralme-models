@@ -9,7 +9,7 @@
 		"fes_transfers" : [ "CPLX0-7617", "CPLX0-7824", "IscA_tetra" ],
 
 		"biotin_subreactions" : { "mod_btn_c" : [ "biotin_ligase" ] },
-		"lipoate_subreactions" : { "mod_lipoyl_c" : [ "lipoyl_denovo", "lipoyl_scavenging" ] },
+		"lipoate_subreactions" : { "mod_lipoyl_c" : [ "lipoyl_denovo_corrected", "lipoyl_scavenging" ] },
 		"glycyl_subreactions" : { "mod_glycyl_c" : [ "gre_activation" ] },
 		"acps_subreactions" : { "mod_pan4p_c" : [ "acpP_activation" ] },
 

@@ -1,9 +1,4 @@
 Reaction	Metabolites	Stoichiometry
-# Biosynthesis of 2,3-biphosphoglycerate
-DPGM	13dpg_c	-1.0
-DPGM	h_c	+1.0
-DPGM	23dpg_c	+1.0
-
 # NiFe(CO)(CN)2 cofactor synthesis, step 2: Replacement of HypC by HipD
 HypC_replacement	hypD_mono_mod_4fe4s(1)	-1
 HypC_replacement	HypC_dim_mod_fe2(1)_mod_co2(1)	-1
@@ -442,10 +437,11 @@ BTS6	met__L_c	1
 #CPLX0-782_mod_4fe4s(2)_regeneration	2fe2s_c	-1
 #CPLX0-782_mod_4fe4s(2)_regeneration	CPLX0-782_mod_2fe2s(1)_mod_4fe4s(1)	-1
 #CPLX0-782_mod_4fe4s(2)_regeneration	CPLX0-782_mod_4fe4s(2)	1
+#CPLX0-782_mod_4fe4s(2)_regeneration	CPLX0-782_mod_4fe4s(1)	-1
+
 CPLX0-782_mod_4fe4s(2)_regeneration	NfuA_dim_mod_4fe4s(1)	-1
 CPLX0-782_mod_4fe4s(2)_regeneration	CPLX0-782_mod_4fe4s(2)	1
 CPLX0-782_mod_4fe4s(2)_regeneration	protein_b3414	2
-#CPLX0-782_mod_4fe4s(2)_regeneration	CPLX0-782_mod_4fe4s(1)	-1
 CPLX0-782_mod_4fe4s(2)_regeneration	protein_b0628	-2
 CPLX0-782_mod_4fe4s(2)_regeneration	4fe4s_c	-1
 

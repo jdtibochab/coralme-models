@@ -12,7 +12,7 @@ complex_cofactors:
     - biotin_ligase
   lipoate_subreactions:
     mod_lipoyl_c:
-    - lipoyl_denovo
+    - lipoyl_denovo_corrected
     - lipoyl_scavenging
   glycyl_subreactions:
     mod_glycyl_c:
@@ -153,7 +153,58 @@ rna_polymerases:
   RNAP_RpoDmono:
     sigma_factor: RpoD_mono
     polymerase: hRNAP_mod_zn2(1)_mod_mg2(2)
-translocation_multipliers: {}
+translocation_multipliers:
+  YidC_MONOMER:
+    b1855: 2
+    b3731: 2
+  TatA_MONOMER:
+    b4072: 20.0
+    b1475: 5.16666666666667
+    b1474: 5.16666666666667
+    b2817: 22.0
+    b0973: 14.0
+    b0972: 14.0
+    b0997: 13.5
+    b3893: 15.5
+    b0152: 21.0
+    b3894: 15.5
+    b1589: 14.0
+    b1588: 15.0
+    b2938: 6.25
+    b1587: 14.0
+    b1872: 26.0
+    b2997: 14.0
+    b2996: 21.0
+    b2994: 14.0
+    b2435: 20.0
+    b0894: 26.0
+    b0123: 23.0
+    b2206: 27.0
+    b2205: 20.0
+  TatE_MONOMER:
+    b4072: 20.0
+    b1475: 5.16666666666667
+    b1474: 5.16666666666667
+    b2817: 22.0
+    b0973: 14.0
+    b0972: 14.0
+    b0997: 13.5
+    b3893: 15.5
+    b0152: 21.0
+    b3894: 15.5
+    b1589: 14.0
+    b1588: 15.0
+    b2938: 6.25
+    b1587: 14.0
+    b1872: 26.0
+    b2997: 14.0
+    b2996: 21.0
+    b2994: 14.0
+    b2435: 20.0
+    b0894: 26.0
+    b0123: 23.0
+    b2206: 27.0
+    b2205: 20.0
 amino_acid_trna_synthetase:
   ala__L_c: Ala_RS_tetra_mod_zn2(4)
   arg__L_c: ArgS_mono_mod_mg2(1)
