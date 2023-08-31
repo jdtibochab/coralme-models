@@ -10,4 +10,4 @@ generic_RNase,"{'enzymes': ['BSU23840-MONOMER_mod_zn2(2)', 'BSU28370-MONOMER_mod
 generic_Tuf,{'enzymes': ['BSU01130-MONOMER']}
 generic_fes_transfers_complex,{'enzymes': ['BSU32160-MONOMER']}
 generic_thr_ligase,"{'enzymes': ['BSU37560-MONOMER', 'BSU28950-MONOMER']}"
-generic_tyr_ligase,"{'enzymes': ['BSU29670-MONOMER', 'BSU38460-MONOMER']}"
+generic_tyr_ligase,"{'enzymes': ['BSU38460-MONOMER', 'BSU29670-MONOMER']}"

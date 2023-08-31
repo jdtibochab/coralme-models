@@ -2931,7 +2931,6 @@ Map or remove these metabolites in me_metabolites.txt
 The following items triggered the warning:
 TS_4fe4s_c
 TS_dpm_c
-TS_hemed_c
 
 **********Solution:
 Fix the gaps by adding reactions or solving other warnings. If some items are from the E-matrix, fix these first!

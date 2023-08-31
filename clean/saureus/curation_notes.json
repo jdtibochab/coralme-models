@@ -2208,7 +2208,7 @@
         {
             "msg": "Some metabolites are necessary for growth",
             "triggered_by": [
-                "TS_met__L_c",
+                "TS_amet_c",
                 "TS_asn__L_c"
             ],
             "importance": "critical",

@@ -2703,9 +2703,9 @@
             "msg": "Some metabolites are necessary for growth",
             "triggered_by": [
                 "TS_dhptd_c",
-                "TS_4fe4s_c",
-                "TS_zn2_c",
                 "TS_cobalt2_c",
+                "TS_zn2_c",
+                "TS_4fe4s_c",
                 "TS_hemed_c",
                 "TS_dpm_c"
             ],

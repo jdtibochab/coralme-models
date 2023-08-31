@@ -10,4 +10,4 @@ generic_RNase,"{'enzymes': ['CLJU_RS13130-MONOMER_mod_zn2(2)', 'CLJU_RS18145-MON
 generic_Tuf,{'enzymes': ['CLJU_RS20295-MONOMER']}
 generic_cys_ligase,"{'enzymes': ['CLJU_RS20330-MONOMER', 'CLJU_RS10240-MONOMER']}"
 generic_fes_transfers_complex,{'enzymes': ['CPLX_dummy']}
-generic_tyr_ligase,"{'enzymes': ['CLJU_RS18820-MONOMER', 'CLJU_RS16910-MONOMER']}"
+generic_tyr_ligase,"{'enzymes': ['CLJU_RS16910-MONOMER', 'CLJU_RS18820-MONOMER']}"

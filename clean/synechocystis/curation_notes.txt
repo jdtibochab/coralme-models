@@ -1150,30 +1150,14 @@ Map or remove these metabolites in me_metabolites.txt
 #################### critical@troubleshoot ####################
 ********** Some metabolites are necessary for growth
 The following items triggered the warning:
-TS_cpppg3_c
-TS_5drib_c
-TS_dhlprot_c
-TS_spmd_c
-TS_omppp9_c
-TS_provitd3_c
-TS_aicar_c
-TS_dadsn_c
-TS_biliverd_c
+TS_phom_c
+TS_k_p
 TS_val__L_c
+TS_1pyr5c_c
 TS_3mop_c
-TS_cytd_c
-TS_o2_x
-TS_alaala_c
-TS_co2dam_c
-TS_argsuc_c
-TS_dhap_c
-TS_grdp_c
 TS_pydx5p_c
-TS_pi_c
-TS_adocbl_c
-TS_fe3_c
 TS_4fe4s_c
-TS_k_c
+TS_accoa_c
 TS_cbl1_c
 
 **********Solution:
