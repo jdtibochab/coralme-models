@@ -8,7 +8,9 @@ The image below explains the structure of the dME- and uME-model folders. We pro
 
 .. image:: https://github.com/jdtibochab/coralme/blob/main/docs/pngs/folder.png
 
-
+Instructions to clone this repository
+-------------------------------------
+git clone --depth 1 <repository>
 
 Reconstructing ME-models from Jupyter Notebooks
 -----------------------------------------------
