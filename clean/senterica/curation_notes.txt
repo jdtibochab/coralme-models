@@ -819,15 +819,11 @@ Map or remove these metabolites in me_metabolites.txt
 #################### critical@troubleshoot ####################
 ********** Some metabolites are necessary for growth
 The following items triggered the warning:
-TS_generic_tRNA_GAG_glu__L_c
 TS_generic_tRNA_GAC_asp__L_c
-TS_generic_tRNA_GAA_glu__L_c
 TS_generic_tRNA_GAU_asp__L_c
-TS_unagamuf_c
-TS_val__L_c
-TS_2ddglcn_p
-TS_arbtn_fe3_c
-TS_csn_c
+TS_generic_tRNA_GAG_glu__L_c
+TS_generic_tRNA_GAA_glu__L_c
+TS_uacgam_c
 TS_4fe4s_c
 
 **********Solution:

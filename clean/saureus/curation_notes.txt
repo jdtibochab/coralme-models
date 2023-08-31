@@ -1065,7 +1065,7 @@ Map or remove these metabolites in me_metabolites.txt
 #################### critical@troubleshoot ####################
 ********** Some metabolites are necessary for growth
 The following items triggered the warning:
-TS_met__L_c
+TS_amet_c
 TS_asn__L_c
 
 **********Solution:

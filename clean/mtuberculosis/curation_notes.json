@@ -263,7 +263,7 @@
     ],
     "org.get_rpod": [
         {
-            "msg": "RpoD randomly assigned to G185E-7691-MONOMER",
+            "msg": "RpoD randomly assigned to G185E-6958-MONOMER",
             "importance": "critical",
             "to_do": "genome.gb does not have a valid annotation for RpoD. A random identified sigma factor in me_builder.org.sigmas was set as RpoD so that the builder can continue running. Set the correct RpoD by running me_builder.org.rpod = correct_rpod"
         }
@@ -642,9 +642,9 @@
             "msg": "Some metabolites are necessary for growth",
             "triggered_by": [
                 "TS_k_c",
+                "TS_mn2_c",
                 "TS_4fe4s_c",
                 "TS_cobalt2_c",
-                "TS_mn2_c",
                 "TS_zn2_c"
             ],
             "importance": "critical",

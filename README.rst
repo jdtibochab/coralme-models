@@ -2,20 +2,23 @@ This is a repository containing all ME-models reconstructed using `coralME`_.
 
 Description
 -----------
-Automatically reconstructed ME-models (dME-models) are available in clean/, and updated ME-models (uME-models) are available in published/. We here provide JSON files for minimal (step1), fully reconstructed (step2) and troubleshot (step3) ME-models. For uME-models, step2 and step3 are the same model, just that step3 will have a solution property.
+Automatically reconstructed ME-models (dME-models) are available in clean/, and updated ME-models (uME-models) are available in published/. Code to reproduce Figures of our manuscript and to reconstruct ME-models are provided here as python scripts and Jupyter notebooks.
 
-Code to reproduce Figures of our manuscript and to reconstruct ME-models are provided here as python scripts and Jupyter notebooks.
+The image below explains the structure of the dME- and uME-model folders. We provide JSON files for minimal (step1), fully reconstructed (step2) and troubleshot (step3) ME-models. For uME-models, step2 and step3 are the same model, just that step3 will have a solution property.
+
+.. image:: https://github.com/jdtibochab/coralme/blob/main/docs/pngs/folder.png
+
+
 
 Reconstructing ME-models from Jupyter Notebooks
 -----------------------------------------------
 1. Go to the desired directory, clean/ or published/.
 2. Open Supplementary Notebook and follow instructions.
 
-
 Reconstructing ME-models from command line
 ------------------------------------------
 1. Go to the desired directory, e.g. ``cd clean/`` or ``cd published/``
-2. run ``bash build.sh 0 1 1 1 ORGANISM_NAME``.
+2. run ``bash build.sh 0 1 1 1 ORGANISM_NAME``
 
 ORGANISM_NAME must exist in directory. The four numbers are binary flags to run (if 1) / not run (if 0):
 
@@ -35,16 +38,16 @@ Reconstructing all ME-models in directory (parallelized)
 
 Loading ME-models from Pickle files
 -----------------------------------
-In a python environment, run ``model = coralme.io.pickle.load_pickle_me_model("PATH/TO/ORGANISM_MEMODEL_FILE.pkl")``
+In a python environment, run
+
+``model = coralme.io.pickle.load_pickle_me_model("PATH/TO/ORGANISM_MEMODEL_FILE.pkl")``
 
 Loading ME-models from the provided JSON files
 ----------------------------------------------
 1. run ``gzip -d PATH/TO/ORGANISM_MEMODEL_FILE.json.gz`` to extract the JSON file.
-2. In a python environment, run ``model = coralme.io.json.load_json_me_model("PATH/TO/ORGANISM_MEMODEL_FILE.json")``
+2. In a python environment, run 
 
-Solving
--------
-In a python environment with a loaded model, run ``model.optimize()``
+``model = coralme.io.json.load_json_me_model("PATH/TO/ORGANISM_MEMODEL_FILE.json")``
 
 .. refs
 .. _coralME: https://github.com/jdtibochab/coralme
