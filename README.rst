@@ -6,7 +6,7 @@ Automatically reconstructed ME-models (dME-models) are available in clean/, and 
 
 The image below explains the structure of the dME- and uME-model folders. We provide JSON files for minimal (step1), fully reconstructed (step2) and troubleshot (step3) ME-models. For uME-models, step2 and step3 are the same model, just that step3 will have a solution property.
 
-.. image:: https://github.com/jdtibochab/coralme/blob/main/docs/pngs/folder.png
+.. image:: https://github.com/jdtibochab/coralme-models/folder.png
 
 Instructions to clone this repository
 -------------------------------------
