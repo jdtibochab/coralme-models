@@ -64,6 +64,7 @@ pg_pe_160:
 - SYNPCC7942_1726-MONOMER
 other_lipids:
 - SYNPCC7942_1172-MONOMER
+default_sigma_factor: SYNPCC7942_0649-MONOMER
 rna_polymerases:
   RNAP_SYNPCC79421510MONOMER:
     sigma_factor: SYNPCC7942_1510-MONOMER

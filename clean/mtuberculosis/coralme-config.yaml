@@ -60,6 +60,7 @@ selenocysteine_enzymes:
 pg_pe_160: []
 other_lipids:
 - G185E-6255-MONOMER
+default_sigma_factor: G185E-8209-MONOMER
 rna_polymerases:
   RNAP_G185E5391MONOMER:
     sigma_factor: G185E-5391-MONOMER

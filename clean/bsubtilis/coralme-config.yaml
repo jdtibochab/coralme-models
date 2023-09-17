@@ -63,6 +63,7 @@ pg_pe_160:
 - BSU34990-MONOMER
 - BSU15450-MONOMER
 other_lipids: []
+default_sigma_factor: BSU25200-MONOMER
 rna_polymerases:
   RNAP_BSU38700MONOMER:
     sigma_factor: BSU38700-MONOMER

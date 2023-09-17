@@ -85,6 +85,7 @@ pg_pe_160:
 - TM0158-MONOMER
 other_lipids:
 - TM0573-MONOMER
+default_sigma_factor: TM1451-MONOMER
 rna_polymerases:
   RNAP_TM0534MONOMER:
     sigma_factor: TM0534-MONOMER

@@ -59,6 +59,7 @@ selenocysteine_enzymes:
 - CPLX_dummy
 pg_pe_160: []
 other_lipids: []
+default_sigma_factor: JCVISYN3A_0407-MONOMER
 rna_polymerases:
   RNAP_JCVISYN3A0407MONOMER:
     sigma_factor: JCVISYN3A_0407-MONOMER

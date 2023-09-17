@@ -79,6 +79,7 @@ pg_pe_160:
 - S0026-MONOMER
 other_lipids:
 - S0647-MONOMER
+default_sigma_factor: S3313-MONOMER
 rna_polymerases:
   RNAP_S2808MONOMER:
     sigma_factor: S2808-MONOMER

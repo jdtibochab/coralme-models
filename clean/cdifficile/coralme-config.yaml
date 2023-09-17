@@ -62,6 +62,7 @@ pg_pe_160:
 - G12WB-2810-MONOMER
 - G12WB-2754-MONOMER
 other_lipids: []
+default_sigma_factor: G12WB-110-MONOMER
 rna_polymerases:
   RNAP_G12WB768MONOMER:
     sigma_factor: G12WB-768-MONOMER

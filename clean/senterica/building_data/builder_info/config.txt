@@ -11,6 +11,7 @@ braun's_lipoproteins,['STM1377-MONOMER']
 braun's_lpp_flux,-0.0
 braun's_murein_flux,-0.0
 complex_cofactors,"{'fes_transfers': ['STM0204-MONOMER', 'STM1369-MONOMER', 'STM2541-MONOMER'], 'biotin_subreactions': {'mod_btn_c': ['biotin_ligase']}, 'lipoate_subreactions': {'mod_lipoyl_c': ['lipoyl_denovo', 'lipoyl_scavenging']}, 'fes_chaperones': {}, 'bmocogdp_chaperones': {}, 'FeFe/NiFe': {'mod_FeFe_cofactor_c': '', 'mod_NiFe_cofactor_c': ''}}"
+default_sigma_factor,STM4165-MONOMER
 defer_to_rxn_matrix,"['BIOMASS_iRR1083_metals', 'FMETTRS', 'ATPM']"
 dev_reference,False
 df_TranscriptionalUnits,./senterica//building_data/TUs_from_biocyc.txt

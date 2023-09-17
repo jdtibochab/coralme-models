@@ -79,6 +79,7 @@ pg_pe_160:
 - VC_0683-MONOMER
 other_lipids:
 - VC_0958-MONOMER
+default_sigma_factor: FY484_RS02755-MONOMER
 rna_polymerases:
   RNAP_FY484RS11500MONOMER:
     sigma_factor: FY484_RS11500-MONOMER

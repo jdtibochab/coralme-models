@@ -1202,10 +1202,11 @@ Map or remove these metabolites in me_metabolites.txt
 ********** Some metabolites are necessary for growth
 The following items triggered the warning:
 TS_4fe4s_c
-TS_fe2_c
+TS_2fe2s_c
 TS_k_c
-TS_mg2_c
+TS_hemed_c
 TS_zn2_c
+TS_mg2_c
 
 **********Solution:
 Fix the gaps by adding reactions or solving other warnings. If some items are from the E-matrix, fix these first!

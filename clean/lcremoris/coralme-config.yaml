@@ -62,6 +62,7 @@ pg_pe_160:
 - LLMG_RS03030-MONOMER
 - LLMG_RS07675-MONOMER
 other_lipids: []
+default_sigma_factor: LLMG_RS02740-MONOMER
 rna_polymerases:
   RNAP_LLMGRS02740MONOMER:
     sigma_factor: LLMG_RS02740-MONOMER

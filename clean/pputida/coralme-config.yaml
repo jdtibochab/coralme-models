@@ -79,6 +79,7 @@ pg_pe_160:
 - G1G01-661-MONOMER
 other_lipids:
 - G1G01-5127-MONOMER
+default_sigma_factor: G1G01-424-MONOMER
 rna_polymerases:
   RNAP_G1G013282MONOMER:
     sigma_factor: G1G01-3282-MONOMER

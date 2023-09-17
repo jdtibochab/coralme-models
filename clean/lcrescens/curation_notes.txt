@@ -417,12 +417,12 @@ Map or remove these metabolites in me_metabolites.txt
 The following items triggered the warning:
 TS_orot_p
 TS_hco3_c
-TS_k_c
 TS_pydx5p_c
+TS_k_c
 TS_hemed_c
-TS_zn2_c
-TS_mg2_c
 TS_mn2_c
+TS_mg2_c
+TS_zn2_c
 TS_dpm_c
 
 **********Solution:

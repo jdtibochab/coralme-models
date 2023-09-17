@@ -62,6 +62,7 @@ selenocysteine_enzymes:
 pg_pe_160:
 - HP_RS04675-MONOMER
 other_lipids: []
+default_sigma_factor: HP_RS03480-MONOMER
 rna_polymerases:
   RNAP_HPRS03480MONOMER:
     sigma_factor: HP_RS03480-MONOMER

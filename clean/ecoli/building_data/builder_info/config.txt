@@ -11,6 +11,7 @@ braun's_lipoproteins,['EG10544-MONOMER']
 braun's_lpp_flux,-0.0
 braun's_murein_flux,-0.0
 complex_cofactors,"{'fes_transfers': ['EG12332-MONOMER', 'EG11378-MONOMER', 'EG12132-MONOMER'], 'biotin_subreactions': {'mod_btn_c': ['biotin_ligase']}, 'lipoate_subreactions': {'mod_lipoyl_c': ['lipoyl_denovo', 'lipoyl_scavenging']}, 'fes_chaperones': {}, 'bmocogdp_chaperones': {}, 'FeFe/NiFe': {'mod_FeFe_cofactor_c': '', 'mod_NiFe_cofactor_c': ''}}"
+default_sigma_factor,RpoD_mono
 defer_to_rxn_matrix,"['Ec_biomass_iJO1366_core_53p95M', 'FMETTRS', 'ATPM']"
 dev_reference,False
 df_TranscriptionalUnits,./ecoli//building_data/TUs_from_biocyc.txt

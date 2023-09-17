@@ -79,6 +79,7 @@ pg_pe_160:
 - ALW85_RS05950-MONOMER
 other_lipids:
 - ALW85_RS06165-MONOMER
+default_sigma_factor: ALW85_RS01185-MONOMER
 rna_polymerases:
   RNAP_ALW85RS05425MONOMER:
     sigma_factor: ALW85_RS05425-MONOMER

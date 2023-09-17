@@ -64,6 +64,7 @@ pg_pe_160:
 - SGL_RS07065-MONOMER
 other_lipids:
 - SGL_RS09925-MONOMER
+default_sigma_factor: SGL_RS12540-MONOMER
 rna_polymerases:
   RNAP_SGLRS12540MONOMER:
     sigma_factor: SGL_RS12540-MONOMER

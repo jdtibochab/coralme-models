@@ -6,6 +6,7 @@ braun's_lipoproteins,[]
 braun's_lpp_flux,-0.0
 braun's_murein_flux,-0.0
 complex_cofactors,"{'fes_transfers': ['CPLX_dummy'], 'biotin_subreactions': {'mod_btn_c': ['biotin_ligase']}, 'lipoate_subreactions': {'mod_lipoyl_c': ['lipoyl_denovo', 'lipoyl_scavenging']}, 'fes_chaperones': {}, 'bmocogdp_chaperones': {}, 'FeFe/NiFe': {'mod_FeFe_cofactor_c': '', 'mod_NiFe_cofactor_c': ''}}"
+default_sigma_factor,TM1451-MONOMER
 defer_to_rxn_matrix,"['BIOMASS_Ecoli_TM', 'FMETTRS', 'ATPM']"
 dev_reference,False
 df_TranscriptionalUnits,./tmaritima//building_data/TUs_from_biocyc.txt

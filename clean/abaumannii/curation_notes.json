@@ -2186,10 +2186,11 @@
             "msg": "Some metabolites are necessary for growth",
             "triggered_by": [
                 "TS_4fe4s_c",
-                "TS_fe2_c",
+                "TS_2fe2s_c",
                 "TS_k_c",
-                "TS_mg2_c",
-                "TS_zn2_c"
+                "TS_hemed_c",
+                "TS_zn2_c",
+                "TS_mg2_c"
             ],
             "importance": "critical",
             "to_do": "Fix the gaps by adding reactions or solving other warnings. If some items are from the E-matrix, fix these first!"

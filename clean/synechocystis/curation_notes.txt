@@ -1150,15 +1150,39 @@ Map or remove these metabolites in me_metabolites.txt
 #################### critical@troubleshoot ####################
 ********** Some metabolites are necessary for growth
 The following items triggered the warning:
-TS_phom_c
-TS_k_p
-TS_val__L_c
-TS_1pyr5c_c
+TS_pyr_c
+TS_ala__D_c
+TS_dcamp_c
+TS_for_c
+TS_ggdp_c
+TS_hcys__L_c
 TS_3mop_c
+TS_sucr_p
+TS_suc6p_c
+TS_co2dam_c
+TS_3mob_c
+TS_biliverd_c
+TS_AppppA_c
+TS_samprot_c
+TS_dad_5_c
+TS_aps_c
+TS_dpcoa_c
+TS_pqh2_u
+TS_leu__L_c
+TS_cbasp_c
+TS_fprica_c
+TS_quln_c
+TS_ala__L_c
+TS_pgp160_c
+TS_spmd_c
+TS_4mop_c
+TS_his__L_p
+TS_h_l
+TS_pq_u
+TS_met__L_c
+TS_akg_c
 TS_pydx5p_c
 TS_4fe4s_c
-TS_accoa_c
-TS_cbl1_c
 
 **********Solution:
 Fix the gaps by adding reactions or solving other warnings. If some items are from the E-matrix, fix these first!

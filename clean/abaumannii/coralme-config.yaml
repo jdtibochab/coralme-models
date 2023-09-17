@@ -71,6 +71,7 @@ pg_pe_160:
 - ABAYE_RS19100-MONOMER
 other_lipids:
 - ABAYE_RS16915-MONOMER
+default_sigma_factor: ABAYE_RS04385-MONOMER
 rna_polymerases:
   RNAP_ABAYERS04385MONOMER:
     sigma_factor: ABAYE_RS04385-MONOMER

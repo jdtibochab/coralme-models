@@ -85,6 +85,7 @@ pg_pe_160:
 - STM0047-MONOMER
 other_lipids:
 - STM0666-MONOMER
+default_sigma_factor: STM4165-MONOMER
 rna_polymerases:
   RNAP_STM3320MONOMER:
     sigma_factor: STM3320-MONOMER

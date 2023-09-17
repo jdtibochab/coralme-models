@@ -63,6 +63,7 @@ pg_pe_160:
 - CLJU_RS04135-MONOMER
 - CLJU_RS05260-MONOMER
 other_lipids: []
+default_sigma_factor: CLJU_RS04050-MONOMER
 rna_polymerases:
   RNAP_CLJURS15950MONOMER:
     sigma_factor: CLJU_RS15950-MONOMER

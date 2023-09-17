@@ -10,4 +10,4 @@ generic_RNase,{'enzymes': ['CPLX_dummy']}
 generic_Tuf,{'enzymes': ['HP_RS05930-MONOMER']}
 generic_fes_transfers_complex,{'enzymes': ['CPLX_dummy']}
 generic_glu_ligase,"{'enzymes': ['HP_RS02355-MONOMER', 'HP_RS03170-MONOMER']}"
-generic_val_ligase,"{'enzymes': ['HP_RS00085-MONOMER', 'HP_RS05665-MONOMER']}"
+generic_val_ligase,"{'enzymes': ['HP_RS05665-MONOMER', 'HP_RS00085-MONOMER']}"

@@ -85,6 +85,7 @@ pg_pe_160:
 - YPO0476-MONOMER
 other_lipids:
 - YPO2616-MONOMER
+default_sigma_factor: YPO0643-MONOMER
 rna_polymerases:
   RNAP_YPO0643MONOMER:
     sigma_factor: YPO0643-MONOMER

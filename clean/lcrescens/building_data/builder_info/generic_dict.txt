@@ -9,4 +9,4 @@ generic_RF,"{'enzymes': ['B488_RS01395-MONOMER', 'B488_RS00360-MONOMER']}"
 generic_RNase,"{'enzymes': ['B488_RS00835-MONOMER_mod_mg2(5)', 'B488_RS05815-MONOMER_mod_mg2(1)']}"
 generic_Tuf,{'enzymes': ['B488_RS04085-MONOMER']}
 generic_fes_transfers_complex,"{'enzymes': ['B488_RS04155-MONOMER', 'B488_RS04630-MONOMER']}"
-generic_met_ligase,"{'enzymes': ['B488_08000-MONOMER', 'B488_RS03830-MONOMER']}"
+generic_met_ligase,"{'enzymes': ['B488_RS03830-MONOMER', 'B488_08000-MONOMER']}"

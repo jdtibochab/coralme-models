@@ -69,6 +69,7 @@ pg_pe_160:
 - B488_13060-MONOMER
 other_lipids:
 - B488_RS00795-MONOMER
+default_sigma_factor: B488_RS06505-MONOMER
 rna_polymerases:
   RNAP_B488RS06505MONOMER:
     sigma_factor: B488_RS06505-MONOMER

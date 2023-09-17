@@ -73,6 +73,7 @@ pg_pe_160:
 - GMET_RS01755-MONOMER
 other_lipids:
 - GMET_RS11930-MONOMER
+default_sigma_factor: GMET_RS01970-MONOMER
 rna_polymerases:
   RNAP_GMETRS06460MONOMER:
     sigma_factor: GMET_RS06460-MONOMER

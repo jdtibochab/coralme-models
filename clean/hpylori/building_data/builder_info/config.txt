@@ -11,6 +11,7 @@ braun's_lipoproteins,[]
 braun's_lpp_flux,-0.0
 braun's_murein_flux,-0.0
 complex_cofactors,"{'fes_transfers': ['CPLX_dummy'], 'biotin_subreactions': {'mod_btn_c': ['biotin_ligase']}, 'lipoate_subreactions': {'mod_lipoyl_c': ['lipoyl_denovo', 'lipoyl_scavenging']}, 'fes_chaperones': {}, 'bmocogdp_chaperones': {}, 'FeFe/NiFe': {'mod_FeFe_cofactor_c': '', 'mod_NiFe_cofactor_c': ''}}"
+default_sigma_factor,HP_RS03480-MONOMER
 defer_to_rxn_matrix,"['BIOMASS_HP_published', 'FMETTRS', 'ATPM']"
 dev_reference,False
 df_TranscriptionalUnits,./hpylori//building_data/TUs_from_biocyc.txt

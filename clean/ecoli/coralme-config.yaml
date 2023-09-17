@@ -85,6 +85,7 @@ pg_pe_160:
 - EG10548-MONOMER
 other_lipids:
 - EG10168-MONOMER
+default_sigma_factor: RpoD_mono
 rna_polymerases:
   RNAP_RpoHmono:
     sigma_factor: RpoH_mono
