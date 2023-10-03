@@ -16,6 +16,7 @@ RNAP_BSU26840MONOMER,"{'sigma_factor': 'BSU26840-MONOMER', 'polymerase': 'CPLX8J
 RNAP_BSU27120MONOMER,"{'sigma_factor': 'BSU27120-MONOMER', 'polymerase': 'CPLX8J2-30_mod_zn2(1)_mod_mg2(2)'}"
 RNAP_BSU34200MONOMER,"{'sigma_factor': 'BSU34200-MONOMER', 'polymerase': 'CPLX8J2-30_mod_zn2(1)_mod_mg2(2)'}"
 RNAP_BSU38700MONOMER,"{'sigma_factor': 'BSU38700-MONOMER', 'polymerase': 'CPLX8J2-30_mod_zn2(1)_mod_mg2(2)'}"
+RNAP_CPLX8J236,"{'sigma_factor': 'CPLX8J2-36', 'polymerase': 'CPLX8J2-30_mod_zn2(1)_mod_mg2(2)'}"
 RNAP_CPLX8J244,"{'sigma_factor': 'CPLX8J2-44', 'polymerase': 'CPLX8J2-30_mod_zn2(1)_mod_mg2(2)'}"
 RNAP_CPLX8J245,"{'sigma_factor': 'CPLX8J2-45', 'polymerase': 'CPLX8J2-30_mod_zn2(1)_mod_mg2(2)'}"
 RNAP_CPLX8J246,"{'sigma_factor': 'CPLX8J2-46', 'polymerase': 'CPLX8J2-30_mod_zn2(1)_mod_mg2(2)'}"

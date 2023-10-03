@@ -37,3 +37,4 @@ BSU12560-MONOMER,RNAP_BSU12560MONOMER,BSU12560(),phage PBSX; putative RNA polyme
 BSU16470-MONOMER,RNAP_BSU16470MONOMER,BSU16470(),RNA polymerase sigma-28 factor (sigma-D)
 MONOMER8J2-53,RNAP_MONOMER8J253,BSU26390(),RNA polymerase sporulation-specific sigma-K factor precursor (Sigma-27) (C-terminal fragment)
 BSU15320-MONOMER,RNAP_BSU15320MONOMER,BSU15320(),RNA polymerase sporulation-specific sigma-29 factor (sigma-E)
+CPLX8J2-36,RNAP_CPLX8J236,BSU33230() AND BSU33222(),Alternative sigma factor (2 subunit sigma-O)

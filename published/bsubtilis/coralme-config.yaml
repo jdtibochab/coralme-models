@@ -211,6 +211,9 @@ rna_polymerases:
   RNAP_BSU15320MONOMER:
     sigma_factor: BSU15320-MONOMER
     polymerase: CPLX8J2-30_mod_zn2(1)_mod_mg2(2)
+  RNAP_CPLX8J236:
+    sigma_factor: CPLX8J2-36
+    polymerase: CPLX8J2-30_mod_zn2(1)_mod_mg2(2)
 translocation_multipliers:
   BSU41040-MONOMER:
     BSU36800: 2.0
