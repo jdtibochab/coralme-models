@@ -2542,7 +2542,7 @@ If those TUs contain genes that are supposed to be in the model, fill them in TU
 
 
 #################### high@org.update_ribosome_stoich ####################
-********** Some ribosomal proteins do not contain subunit information (30S, 50S) so they could not be mapped.
+********** Some ribosomal proteins do not contain subunit information (30S, 50S). Check whether they are ribosomal proteins!
 The following items triggered the warning:
 FY484_RS06620-MONOMER
 FY484_RS03475-MONOMER
@@ -2605,7 +2605,7 @@ VC_A0289-MONOMER
 VC_A0290-MONOMER
 
 **********Solution:
-Classify them in ribosomal_proteins.txt
+Curate them in ribosomal_proteins.txt
 
 
 

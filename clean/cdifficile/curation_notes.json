@@ -324,12 +324,12 @@
     ],
     "org.update_ribosome_stoich": [
         {
-            "msg": "Some ribosomal proteins do not contain subunit information (30S, 50S) so they could not be mapped.",
+            "msg": "Some ribosomal proteins do not contain subunit information (30S, 50S). Check whether they are ribosomal proteins!",
             "triggered_by": [
                 "G12WB-1444-MONOMER"
             ],
             "importance": "high",
-            "to_do": "Classify them in ribosomal_proteins.txt"
+            "to_do": "Curate them in ribosomal_proteins.txt"
         }
     ],
     "org.purge_genes_in_model": [
@@ -618,9 +618,9 @@
             "triggered_by": [
                 "TS_pydx5p_c",
                 "TS_mn2_c",
-                "TS_accoa_c",
-                "TS_pan4p_c",
                 "TS_4fe4s_c",
+                "TS_pan4p_c",
+                "TS_accoa_c",
                 "TS_cbl1_c"
             ],
             "importance": "critical",

@@ -411,19 +411,6 @@ Check whether the correct proteins were called as subunits of RNAP. If not find 
 
 
 
-#################### high@org.update_ribosome_stoich ####################
-********** Some ribosomal proteins do not contain subunit information (30S, 50S) so they could not be mapped.
-The following items triggered the warning:
-CLJU_RS12135-MONOMER
-CLJU_RS18815-MONOMER
-CLJU_RS09325-MONOMER
-
-**********Solution:
-Classify them in ribosomal_proteins.txt
-
-
-
-
 #################### high@org.purge_genes_in_model ####################
 ********** Some genes in M-model were not found in genes.txt or genome.gb. These genes will be skipped in reconstruction.
 The following items triggered the warning:

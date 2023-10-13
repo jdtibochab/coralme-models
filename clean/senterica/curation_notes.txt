@@ -326,7 +326,7 @@ If those TUs contain genes that are supposed to be in the model, fill them in TU
 
 
 #################### high@org.update_ribosome_stoich ####################
-********** Some ribosomal proteins do not contain subunit information (30S, 50S) so they could not be mapped.
+********** Some ribosomal proteins do not contain subunit information (30S, 50S). Check whether they are ribosomal proteins!
 The following items triggered the warning:
 STM1167-MONOMER
 STM2385-MONOMER
@@ -340,7 +340,7 @@ STM0852-MONOMER
 STM1611-MONOMER
 
 **********Solution:
-Classify them in ribosomal_proteins.txt
+Curate them in ribosomal_proteins.txt
 
 
 
@@ -819,12 +819,15 @@ Map or remove these metabolites in me_metabolites.txt
 #################### critical@troubleshoot ####################
 ********** Some metabolites are necessary for growth
 The following items triggered the warning:
+TS_generic_tRNA_GAC_asp__L_c
 TS_generic_tRNA_GAG_glu__L_c
 TS_generic_tRNA_GAU_asp__L_c
-TS_generic_tRNA_GAC_asp__L_c
 TS_generic_tRNA_GAA_glu__L_c
-TS_csn_c
+TS_hcys__L_c
+TS_uacmamu_c
+TS_fad_c
 TS_4fe4s_c
+TS_btn_c
 
 **********Solution:
 Fix the gaps by adding reactions or solving other warnings. If some items are from the E-matrix, fix these first!

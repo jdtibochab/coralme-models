@@ -2044,13 +2044,13 @@
     ],
     "org.update_ribosome_stoich": [
         {
-            "msg": "Some ribosomal proteins do not contain subunit information (30S, 50S) so they could not be mapped.",
+            "msg": "Some ribosomal proteins do not contain subunit information (30S, 50S). Check whether they are ribosomal proteins!",
             "triggered_by": [
                 "YPO0429-MONOMER",
                 "YPO2041-MONOMER"
             ],
             "importance": "high",
-            "to_do": "Classify them in ribosomal_proteins.txt"
+            "to_do": "Curate them in ribosomal_proteins.txt"
         }
     ],
     "org.purge_genes_in_model": [
@@ -2703,10 +2703,11 @@
             "msg": "Some metabolites are necessary for growth",
             "triggered_by": [
                 "TS_dhptd_c",
-                "TS_zn2_c",
-                "TS_cobalt2_c",
                 "TS_4fe4s_c",
-                "TS_dpm_c",
+                "TS_cobalt2_c",
+                "TS_pheme_c",
+                "TS_k_c",
+                "TS_zn2_c",
                 "TS_hemed_c"
             ],
             "importance": "critical",

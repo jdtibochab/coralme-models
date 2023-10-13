@@ -964,12 +964,12 @@ Check whether you need to correct RNAP by running me_builder.org.get_rna_polymer
 
 
 #################### high@org.update_ribosome_stoich ####################
-********** Some ribosomal proteins do not contain subunit information (30S, 50S) so they could not be mapped.
+********** Some ribosomal proteins do not contain subunit information (30S, 50S). Check whether they are ribosomal proteins!
 The following items triggered the warning:
 SGL_RS08145-MONOMER
 
 **********Solution:
-Classify them in ribosomal_proteins.txt
+Curate them in ribosomal_proteins.txt
 
 
 
@@ -1150,39 +1150,41 @@ Map or remove these metabolites in me_metabolites.txt
 #################### critical@troubleshoot ####################
 ********** Some metabolites are necessary for growth
 The following items triggered the warning:
-TS_pyr_c
-TS_ala__D_c
-TS_dcamp_c
-TS_for_c
-TS_ggdp_c
-TS_hcys__L_c
+TS_histdnl_c
 TS_3mop_c
-TS_sucr_p
-TS_suc6p_c
-TS_co2dam_c
-TS_3mob_c
-TS_biliverd_c
-TS_AppppA_c
-TS_samprot_c
-TS_dad_5_c
-TS_aps_c
-TS_dpcoa_c
-TS_pqh2_u
-TS_leu__L_c
-TS_cbasp_c
-TS_fprica_c
-TS_quln_c
-TS_ala__L_c
-TS_pgp160_c
-TS_spmd_c
-TS_4mop_c
-TS_his__L_p
+TS_3hbutACP_c
+TS_pa160_c
+TS_leu__L_p
+TS_lys__L_p
+TS_acser_c
 TS_h_l
-TS_pq_u
-TS_met__L_c
-TS_akg_c
+TS_ser__L_p
+TS_thrp_c
+TS_sucbz_c
+TS_rdmbzi_c
+TS_dhlprot_c
+TS_dhlam_c
+TS_no2_c
+TS_phom_c
+TS_cobya_c
+TS_amet_c
+TS_adpglc_c
+TS_o2_x
+TS_cytd_c
+TS_npdp_c
+TS_argsuc_c
+TS_12dgr160_c
+TS_sbzcoa_c
+TS_samprot_c
+TS_alaala_c
+TS_fdp_c
+TS_AppppA_c
+TS_val__L_c
+TS_nicrnt_c
+TS_1pyr5c_c
 TS_pydx5p_c
 TS_4fe4s_c
+TS_cbl1_c
 
 **********Solution:
 Fix the gaps by adding reactions or solving other warnings. If some items are from the E-matrix, fix these first!

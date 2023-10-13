@@ -11,5 +11,5 @@ generic_RNase,"{'enzymes': ['G12WB-2694-MONOMER_mod_zn2(2)', 'G12WB-3475-MONOMER
 generic_Tuf,{'enzymes': ['G12WB-125-MONOMER']}
 generic_ala_ligase,"{'enzymes': ['G12WB-2320-MONOMER', 'G12WB-1416-MONOMER']}"
 generic_fes_transfers_complex,{'enzymes': ['CPLX_dummy']}
-generic_pro_ligase,"{'enzymes': ['G12WB-101-MONOMER', 'G12WB-102-MONOMER']}"
-generic_ser_ligase,"{'enzymes': ['G12WB-3000-MONOMER', 'G12WB-18-MONOMER']}"
+generic_pro_ligase,"{'enzymes': ['G12WB-102-MONOMER', 'G12WB-101-MONOMER']}"
+generic_ser_ligase,"{'enzymes': ['G12WB-18-MONOMER', 'G12WB-3000-MONOMER']}"

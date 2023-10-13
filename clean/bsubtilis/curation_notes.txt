@@ -286,7 +286,7 @@ Check whether you need to correct RNAP by running me_builder.org.get_rna_polymer
 
 
 #################### high@org.update_ribosome_stoich ####################
-********** Some ribosomal proteins do not contain subunit information (30S, 50S) so they could not be mapped.
+********** Some ribosomal proteins do not contain subunit information (30S, 50S). Check whether they are ribosomal proteins!
 The following items triggered the warning:
 BSU25450-MONOMER
 BSU15080-MONOMER
@@ -355,7 +355,7 @@ G8J2-165-MONOMER
 G8J2-166-MONOMER
 
 **********Solution:
-Classify them in ribosomal_proteins.txt
+Curate them in ribosomal_proteins.txt
 
 
 
@@ -554,13 +554,13 @@ Map or remove these metabolites in me_metabolites.txt
 #################### critical@troubleshoot ####################
 ********** Some metabolites are necessary for growth
 The following items triggered the warning:
-TS_fe2_c
 TS_cobalt2_c
-TS_4fe4s_c
-TS_zn2_c
-TS_pydx5p_c
-TS_thmpp_c
 TS_mn2_c
+TS_pydx5p_c
+TS_zn2_c
+TS_fe2_c
+TS_thmpp_c
+TS_4fe4s_c
 TS_cbl1_c
 
 **********Solution:

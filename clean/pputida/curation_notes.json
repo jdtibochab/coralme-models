@@ -470,7 +470,7 @@
     ],
     "org.update_ribosome_stoich": [
         {
-            "msg": "Some ribosomal proteins do not contain subunit information (30S, 50S) so they could not be mapped.",
+            "msg": "Some ribosomal proteins do not contain subunit information (30S, 50S). Check whether they are ribosomal proteins!",
             "triggered_by": [
                 "G1G01-5155-MONOMER",
                 "G1G01-3137-MONOMER",
@@ -478,7 +478,7 @@
                 "G1G01-3858-MONOMER"
             ],
             "importance": "high",
-            "to_do": "Classify them in ribosomal_proteins.txt"
+            "to_do": "Curate them in ribosomal_proteins.txt"
         }
     ],
     "org.get_trna_synthetase": [

@@ -319,7 +319,7 @@
     ],
     "org.update_ribosome_stoich": [
         {
-            "msg": "Some ribosomal proteins do not contain subunit information (30S, 50S) so they could not be mapped.",
+            "msg": "Some ribosomal proteins do not contain subunit information (30S, 50S). Check whether they are ribosomal proteins!",
             "triggered_by": [
                 "STM1167-MONOMER",
                 "STM2385-MONOMER",
@@ -333,7 +333,7 @@
                 "STM1611-MONOMER"
             ],
             "importance": "high",
-            "to_do": "Classify them in ribosomal_proteins.txt"
+            "to_do": "Curate them in ribosomal_proteins.txt"
         }
     ],
     "org.purge_genes_in_model": [
@@ -1182,12 +1182,15 @@
         {
             "msg": "Some metabolites are necessary for growth",
             "triggered_by": [
+                "TS_generic_tRNA_GAC_asp__L_c",
                 "TS_generic_tRNA_GAG_glu__L_c",
                 "TS_generic_tRNA_GAU_asp__L_c",
-                "TS_generic_tRNA_GAC_asp__L_c",
                 "TS_generic_tRNA_GAA_glu__L_c",
-                "TS_csn_c",
-                "TS_4fe4s_c"
+                "TS_hcys__L_c",
+                "TS_uacmamu_c",
+                "TS_fad_c",
+                "TS_4fe4s_c",
+                "TS_btn_c"
             ],
             "importance": "critical",
             "to_do": "Fix the gaps by adding reactions or solving other warnings. If some items are from the E-matrix, fix these first!"

@@ -2563,7 +2563,7 @@
     ],
     "org.update_ribosome_stoich": [
         {
-            "msg": "Some ribosomal proteins do not contain subunit information (30S, 50S) so they could not be mapped.",
+            "msg": "Some ribosomal proteins do not contain subunit information (30S, 50S). Check whether they are ribosomal proteins!",
             "triggered_by": [
                 "FY484_RS06620-MONOMER",
                 "FY484_RS03475-MONOMER",
@@ -2626,7 +2626,7 @@
                 "VC_A0290-MONOMER"
             ],
             "importance": "high",
-            "to_do": "Classify them in ribosomal_proteins.txt"
+            "to_do": "Curate them in ribosomal_proteins.txt"
         }
     ],
     "org.purge_genes_in_model": [
