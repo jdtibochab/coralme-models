@@ -10,3 +10,5 @@ generic_RNase,{'enzymes': ['TM0864-MONOMER_mod_zn2(2)']}
 generic_Tuf,{'enzymes': ['TM1502-MONOMER']}
 generic_fes_transfers_complex,{'enzymes': ['CPLX_dummy']}
 generic_glu_ligase,"{'enzymes': ['TM1875-MONOMER', 'TM1351-MONOMER']}"
+generic_gly_c_ligase,"{'enzymes': ['TM0217-MONOMER', 'TM0216-MONOMER']}"
+generic_phe_ligase,"{'enzymes': ['TM0822-MONOMER', 'TM0821-MONOMER']}"

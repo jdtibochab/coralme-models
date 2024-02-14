@@ -363,8 +363,6 @@ Curate them in ribosomal_proteins.txt
 #################### high@org.get_trna_synthetase ####################
 ********** No tRNA ligases were found for some amino acids. Assigned CPLX_dummy.
 The following items triggered the warning:
-asp__L_c
-cys__L_c
 gln__L_c
 
 **********Solution:
@@ -554,14 +552,29 @@ Map or remove these metabolites in me_metabolites.txt
 #################### critical@troubleshoot ####################
 ********** Some metabolites are necessary for growth
 The following items triggered the warning:
-TS_cobalt2_c
+TS_ibcoa_c
+TS_tyr__L_c
+TS_h2o2_c
+TS_h2s_c
+TS_hdcea_c
+TS_val__L_c
+TS_trp__L_c
+TS_fa11coa_c
+TS_fa6coa_c
+TS_phe__L_c
+TS_prbatp_c
+TS_g15lac_c
 TS_mn2_c
-TS_pydx5p_c
-TS_zn2_c
-TS_fe2_c
-TS_thmpp_c
 TS_4fe4s_c
+TS_fe2_c
+TS_zn2_c
+TS_fad_c
+TS_thmpp_c
+TS_pydx5p_c
+TS_hemed_c
 TS_cbl1_c
+TS_lipoate_c
+TS_lipoyl_c
 
 **********Solution:
 Fix the gaps by adding reactions or solving other warnings. If some items are from the E-matrix, fix these first!

@@ -9,3 +9,4 @@ generic_RF,{'enzymes': ['JCVISYN3A_0141-MONOMER']}
 generic_RNase,{'enzymes': ['CPLX_dummy']}
 generic_Tuf,{'enzymes': ['JCVISYN3A_0151-MONOMER']}
 generic_fes_transfers_complex,{'enzymes': ['CPLX_dummy']}
+generic_phe_ligase,"{'enzymes': ['JCVISYN3A_0529-MONOMER', 'JCVISYN3A_0528-MONOMER']}"

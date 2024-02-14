@@ -1866,8 +1866,6 @@ TM1876-MONOMER,metallophosphoesterase family protein,TM1876(),GenBank
 TM1877-MONOMER,radical SAM protein,TM1877(),GenBank
 TM1878-MONOMER,bifunctional UDP-sugar hydrolase/5'-nucleotidase,TM1878(1),GenBank
 RNAP-CPLX,DNA-directed RNA polymerase,TM0458() AND TM0459() AND TM1472() AND TM1688(),GenBank
-CPLX-tRNA-GLY-LIGASE,tRNA-Gly ligase,TM0217(2) AND TM0216(2),Inferred from subunits
-CPLX-tRNA-PHE-LIGASE,tRNA-Phe ligase,TM0822(2) AND TM0821(2),Inferred from subunits
 CPLX_ACCOAC-0,Acetyl-CoA carboxylase,TM0716() AND TM0717(),iLJ478(ACCOAC)
 CPLX_ALCD19-0,Alcohol dehydrogenase (glycerol),TM0111() AND TM0920(),iLJ478(ALCD19)
 CPLX_ACLS-0,Acetolactate synthase,TM0549(2) AND TM0548(2),iLJ478(ACLS)
@@ -1895,6 +1893,7 @@ CPLX_GLUSy-1,Glutamate synthase (NADPH),TM0397() AND TM1640(),iLJ478(GLUSy)
 CPLX_GLYC3Pabc-0,Sn-Glycerol 3-phosphate transport via ABC system,TM1121() AND TM1120() AND TM1122(),iLJ478(GLYC3Pabc)
 CPLX_MALTTRabc-0,Maltotriose transport via ABC system,TM1839() AND TM1836(),iLJ478(MALTTRabc)
 CPLX_HCO3abc-0,Bicarbonate transport via ABC,TM0202() AND TM0204() AND TM0203(),iLJ478(HCO3abc)
+CPLX_GLYTRS-0,Glycyl-tRNA synthetase,TM0217(2) AND TM0216(2),iLJ478(GLYTRS)
 CPLX_HYDFDN-0,Ferredoxin NADH linked hydrogenase,TM1426() AND TM1425() AND TM1424(),iLJ478(HYDFDN)
 CPLX_IG3PS-0,Imidazole-glycerol-3-phosphate synthase,TM1036(1) AND TM1038(1),iLJ478(IG3PS)
 CPLX_INSTabc-0,Inositol transport in via ABC transport,TM0418() AND TM0419() AND TM0420() AND TM0421(),iLJ478(INSTabc)
@@ -1905,6 +1904,7 @@ CPLX_LCTSabc-0,Lactose transport via ABC system (import),TM1194() AND TM1196() A
 CPLX_IPPMIa-0,3-isopropylmalate dehydratase,TM0555(1) AND TM0554(1),iLJ478(IPPMIa)
 CPLX_Kt1-0,Potassium transport via uniport (facilitated diffusion),TM1088() AND TM1089(),iLJ478(Kt1)
 CPLX_SPMDabc-0,Spermidine transport via ABC system,TM1376() AND TM1377() AND TM1378() AND TM1375(),iLJ478(SPMDabc)
+CPLX_PHETRS-0,Phenylalanyl-tRNA synthetase,TM0822(2) AND TM0821(2),iLJ478(PHETRS)
 CPLX_RBFSb-0,Riboflavin synthase,TM1827() AND TM1825(),iLJ478(RBFSb)
 CPLX_PIabc-0,Phosphate transport via ABC system,TM1262() AND TM1261() AND TM1263() AND TM1264(),iLJ478(PIabc)
 CPLX_PLPS-0,Pyridoxal-5-phosphate synthase,TM0472() AND TM0473(),iLJ478(PLPS)

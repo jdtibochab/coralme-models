@@ -1,0 +1,615 @@
+                     /product="anti-sigma regulatory factor"
+                     /product="sigma-70 family RNA polymerase sigma factor"
+                     /product="anti-sigma factor"
+                     /product="anti-sigma factor antagonist"
+                     /product="anti-sigma factor antagonist"
+                     /product="anti-sigma regulatory factor"
+                     GO:0016987 - sigma factor activity [Evidence IEA]"
+                     /product="RNA polymerase sigma factor, RpoD/SigA family"
+                     GO:0016987 - sigma factor activity [Evidence IEA]"
+                     /product="RNA polymerase sigma factor, RpoD/SigA family"
+                     [Evidence IEA]; GO:0016987 - sigma factor activity
+                     /product="sigma-70 family RNA polymerase sigma factor"
+                     LVGAIASFYGGKPQLQRDEAQRSIGMAMQNLMLAAKAMGYDSCPMIGFDLQKVAELVKL
+                     /product="sigma 54-interacting transcriptional regulator"
+                     GO:0016987 - sigma factor activity [Evidence IEA]"
+                     /product="RNA polymerase sigma factor, RpoD/SigA family"
+                     VGVTLTLPGIAGFILSIGMAVDANVLIFERTREELRAGNTLYRSVEAGFFRAFSSILDS
+                     /product="anti-sigma factor"
+                     [Evidence IEA]; GO:0016987 - sigma factor activity
+                     /product="sigma-70 family RNA polymerase sigma factor"
+                     /product="RNA polymerase sigma factor SigC"
+                     /product="RNA polymerase sigma factor RpoD"
+                     /product="RNA polymerase sigma factor SigF"
+                     /product="RNA polymerase subunit sigma"
+                     /note="functions on sigma 32 promoters permitting growth at
+                     /product="positive sigma H regulator"
+                     SIRLYHPNPEKIGYPMQFTKPGALERGESYFITGKGSIGMAMRAKTPIFDNEGNVIGVV
+                     /product="putative sigma-54 dependent transcriptional
+                     /note="anti-sigma; negative regulator of flagellin
+                     synthesis (anti-sigma-28 factor). (SW:FLGM_SALTY); RflB
+                     3b operons); RNA polymerase sigma factor for flagellar
+                     operon (sigma-f factor)(sigma-27) (sigma-28).
+                     /product="sigma F (sigma 28) factor of RNA polymerase"
+                     /note="similar to E. coli enhances synthesis of sigma32 in
+                     /note="similar to E. coli sigma-E factor, negative
+                     /product="regulator of sigma E (sigma 24) factor"
+                     /note="similar to E. coli regulates activity of sigma-E
+                     /product="anti sigma E (sigma 24) factor, negative
+                     /note="similar to E. coli sigma-E factor, negative
+                     /product="anti sigma E (sigma 24) factor, negative
+                     sigma-e factor (sigma-24). (SW:RPOE_SALTY)"
+                     /product="sigma E (sigma 24) factor of RNA polymerase"
+                     to E. coli putative yhbH sigma 54 modulator (AAC75646.1);
+                     /note="major sigmafactor during stationary phase; RNA
+                     polymerase sigma factor RPOS (sigma-38). (SW:RPOS_SALTY)"
+                     /product="sigma S (sigma 38) factor of RNA polymerase"
+                     /note="major sigma factor during exponential growth; RNA
+                     polymerase sigma factor PROD (SIGMA-70). (SW:RPSD_SALTY);
+                     sigma 70"
+                     /product="sigma D factor of RNA polymerase"
+                     /note="similar to E. coli degrades sigma32, integral
+                     polymerase SIGMA-54 factor. (SW:RP54_SALTY); sigma 54"
+                     /product="sigma N factor of RNA polymerase"
+                     /note="probable SIGMA(54) modulation protein (ORF95).
+                     /product="putative sigma N modulation factor"
+                     /note="similar to E. coli sigma cross-reacting protein 27A
+                     /product="sigma cross-reacting protein 27A (SCRP-27A)"
+                     /product="sigma N (sigma 54)-dependent regulator of rtcBA
+                     sigma(32) factor; regulation of proteins induced at high
+                     aa), 96% identity in aa 1 - 284; sigma 32"
+                     /product="sigma H factor of RNA polymerase"
+                     /note="contains binding activity to the major sigma subunit
+                     /product="regulator of sigma D"
+                     /note="IM30; suppresses sigma54-dependent transcription;
+                     activity [Evidence IEA]; GO:0016987 - sigma factor activity
+                     /product="RNA polymerase sigma factor RpoD"
+                     GO:0016987 - sigma factor activity [Evidence IEA]"
+                     /product="RNA polymerase sigma factor"
+                     GO:0016987 - sigma factor activity [Evidence IEA]"
+                     /GO_function="GO:0016987 - sigma factor activity [Evidence
+                     /product="RNA polymerase sigma factor RpoH"
+                     /product="sigma-54 dependent transcriptional regulator"
+                     ALVNSSIGMAVPKGAPKPDISSAAKFEKVLLNAKHIGYSASASGTHLEKDVFPSFPPVE
+                     [Evidence IEA]; GO:0016987 - sigma factor activity
+                     /product="RNA polymerase factor sigma-54"
+                     /product="anti-anti-sigma factor GigB"
+                     /product="sigma-54 dependent transcriptional regulator"
+                     /product="positive regulator for sigma 32 heat shock
+                     /product="sigma-E factor"
+                     /product="sigma-E factor regulatory protein RseB"
+                     /product="sigma-E factor regulatory protein RseA"
+                     /product="sigma-E factor of RNA polymerase"
+                     /product="putative yhbH sigma 54 modulator"
+                     /product="sigmaD(70) factor of RNA polymerase"
+                     B3178; degrades sigma32"
+                     /product="sigma(54 or 60) factor of RNA polymerase"
+                     /product="probable sigma-54 modulation protein"
+                     /product="sigma cross-reacting protein 27A (SCRP-27A)"
+                     /product="sigma(32) factor of RNA polymerase"
+                     LTLPGIAGFLLSIGMAVDANVLIFERTREELRAGKSLYRSVESGFYRAFSSILDSNVTT
+                     /product="RpoD/SigA family RNA polymerase sigma factor"
+                     /product="RNA polymerase sigma factor RpoD"
+                     GO:0016987 - sigma factor activity [Evidence IEA]"
+                     /product="RNA polymerase sigma factor, RpoD/SigA family"
+                     /product="RNA polymerase sigma factor SigF"
+                     /product="sigma 54-interacting transcriptional regulator"
+                     /product="RpoD/SigA family RNA polymerase sigma factor"
+                     LDEVNFIQNLVWYIGRTYRTPDYGIWERGNKINHGNAELNASSIGMAQAALEAMSGFNL
+                     /product="circadian expression RNA polymerase sigma factor
+                     /product="RNA polymerase sigma factor SigF"
+                     /product="RNA polymerase sigma factor SigC"
+                     /product="sigma-70 family RNA polymerase sigma factor"
+                     [Evidence IEA]; GO:0016987 - sigma factor activity
+                     /product="sigma-70 family RNA polymerase sigma factor"
+                     /product="anti-sigma factor"
+DEFINITION  sinA|SYNPCC7942_0452|SYNPCC7942_0452|principal sigma factor
+                     /note="ECF type sigma factor"
+                     /product="ECF RNA polymerase sigma factor SigG"
+                     /product="anti-sigma-K factor RskA"
+                     /product="ECF RNA polymerase sigma factor SigK"
+                     /product="anti-anti-sigma factor"
+                     /note="Belongs to the sigma-70 factor family, ECF
+                     /product="ECF RNA polymerase sigma factor SigL"
+                     /product="anti-sigma-L factor RslA"
+                     IPKHSIGMALDDCHDGYRWLRLLGYEPEQIVLAGDSAGGYLALALAQRLQEVGEEPAAL
+                     /product="ECF RNA polymerase sigma factor SigI"
+                     /note="alternative sigma factor of extracytoplasmic
+                     /product="ECF RNA polymerase sigma factor SigE"
+                     /product="anti-sigma E factor RseA"
+                     /product="sigma factor regulatory protein"
+                     /note="anti-sigma factor antagonist (regulator of sigma F
+                     /product="anti-sigma-F factor antagonist RsfA"
+                     /product="ECF RNA polymerase sigma factor SigC"
+                     /product="RNA polymerase sigma factor SigA"
+                     /product="RNA polymerase sigma factor SigB"
+                     /product="anti-sigma factor RshA"
+                     /note="belongs to the sigma-70 factor family, ECF
+                     /product="ECF RNA polymerase sigma factor SigH"
+                     /product="RNA polymerase sigma factor SigF"
+                     /note="sigma negative effector"
+                     /product="anti-sigma factor RsbW"
+                     /product="ECF RNA polymerase sigma factor SigJ"
+                     /product="anti-sigma-D factor RsdA"
+                     /product="ECF RNA polymerase sigma factor SigD"
+                     /note="anti-sigma factor antagonist (regulator of sigma F
+                     /product="anti-anti-sigma factor RsfB"
+                     /product="ECF RNA polymerase sigma factor SigM"
+                     /product="anti-sigma-M factor RsmA"
+                     /product="RNA polymerase sigma-32 factor"
+                     /product="regulator of sigma D"
+                     /product="RNA polymerase sigma factor RpoD"
+                     /product="RNA polymerase sigma-38 factor"
+                     /product="sigma-54 dependent transcriptional regulator"
+                     /product="sigma-54 modulation protein, putative"
+                     /product="RNA polymerase sigma-70 factor, ECF subfamily"
+                     /product="sigma-54 dependent response regulator"
+                     /product="sigma-54 dependent transcriptional regulator"
+                     /product="RNA polymerase sigma factor for flagellar operon
+                     /product="sigma-54 dependent response regulator"
+                     /product="sigma-54 dependent transcriptional activator"
+                     /product="RNA polymerase sigma-70 factor, ECF subfamily"
+                     /product="sigma-E factor regulatory protein RseC"
+                     /product="sigma-E factor regulatory protein RseB"
+                     /product="sigma-E factor negative regulatory protein RseA"
+                     /product="RNA polymerase sigma-E factor"
+                     /product="anti-sigma B factor antagonist, putative"
+                     /product="RNA polymerase sigma-54 factor"
+                     /product="sigma-54 modulation protein, putative"
+                     /product="sigma-54 dependent transcriptional regulator"
+                     /product="sigma-54 dependent transcriptional regulator"
+                     /product="sigma cross-reacting protein 27A"
+                     /product="anti-sigma F factor antagonist, putative"
+DEFINITION  rpoH|FY484_RS00760|FY484_RS00760|RNA polymerase sigma factor RpoH.
+DEFINITION  flgM|FY484_RS11030|FY484_RS11030|flagellar biosynthesis anti-sigma
+LOCUS       dctD-2|FY484_RS14505|FY484_RS14505|sigma-54 1353 bp    DNA              UNK 01-JAN-1980
+DEFINITION  dctD-2|FY484_RS14505|FY484_RS14505|sigma-54 dependent
+LOCUS       rseB|FY484_RS12255|FY484_RS12255|sigma-E 966 bp    DNA              UNK 01-JAN-1980
+DEFINITION  rseB|FY484_RS12255|FY484_RS12255|sigma-E factor regulatory protein
+LOCUS       flrC|FY484_RS10650|FY484_RS10650|sigma-54 1434 bp    DNA              UNK 01-JAN-1980
+DEFINITION  flrC|FY484_RS10650|FY484_RS10650|sigma-54 dependent transcriptional
+LOCUS       crl|FY484_RS11365|FY484_RS11365|sigma 390 bp    DNA              UNK 01-JAN-1980
+DEFINITION  crl|FY484_RS11365|FY484_RS11365|sigma factor-binding protein Crl.
+DEFINITION  rpoN|FY484_RS12595|FY484_RS12595|RNA polymerase sigma factor RpoN.
+DEFINITION  fliA|FY484_RS10325|FY484_RS10325|RNA polymerase sigma factor FliA.
+LOCUS       pgtA|FY484_RS17500|FY484_RS17500|sigma-54 1263 bp    DNA              UNK 01-JAN-1980
+DEFINITION  pgtA|FY484_RS17500|FY484_RS17500|sigma-54 dependent transcriptional
+LOCUS       rseP|FY484_RS11260|FY484_RS11260|sigma 1359 bp    DNA              UNK 01-JAN-1980
+DEFINITION  rseP|FY484_RS11260|FY484_RS11260|sigma E protease regulator RseP.
+LOCUS       dctD-1|FY484_RS09630|FY484_RS09630|sigma-54 1341 bp    DNA              UNK 01-JAN-1980
+DEFINITION  dctD-1|FY484_RS09630|FY484_RS09630|sigma-54 dependent
+DEFINITION  rpoS|FY484_RS02845|FY484_RS02845|RNA polymerase sigma factor RpoS.
+DEFINITION  rpoD|FY484_RS02755|FY484_RS02755|RNA polymerase sigma factor RpoD.
+DEFINITION  rpoE|FY484_RS12265|FY484_RS12265|RNA polymerase sigma factor RpoE.
+LOCUS       flrA|FY484_RS10660|FY484_RS10660|sigma-54 1467 bp    DNA              UNK 01-JAN-1980
+DEFINITION  flrA|FY484_RS10660|FY484_RS10660|sigma-54 dependent transcriptional
+                     /product="sigma factor-like helix-turn-helix DNA-binding
+                     GO:0016987 - sigma factor activity [Evidence IEA]"
+                     /product="RNA polymerase sigma factor RpoD"
+                     /product="sigma-70 family RNA polymerase sigma factor"
+                     /product="RNA polymerase sigma factor"
+                     /product="anti-sigma factor"
+                     /product="sigma factor-like helix-turn-helix DNA-binding
+                     /product="flagellar biosynthesis anti-sigma factor FlgM"
+                     /product="sigma-70 family RNA polymerase sigma factor"
+                     /product="sigma factor"
+                     /product="anti-sigma regulatory factor"
+                     /product="FliA/WhiG family RNA polymerase sigma factor"
+                     /product="anti-sigma factor antagonist"
+                     /GO_function="GO:0016987 - sigma factor activity [Evidence
+                     /product="RNA polymerase sigma factor RpoD"
+                     /product="sigma-54-dependent transcriptional regulator"
+                     [Evidence IEA]; GO:0016987 - sigma factor activity
+                     /product="sigma-70 family RNA polymerase sigma factor"
+                     /product="sigma 54 dependent transcriptional activator"
+                     /product="RNA polymerase sigma factor RpoH"
+                     /product="RNA polymerase sigma factor RpoD"
+                     /product="putative sigma-54 dependent transcriptional
+                     /product="RNA polymerase sigma-70 factor, ECF subfamily"
+                     /product="RNA polymerase sigma-70 factor, ECF subfamily"
+                     /product="RNA polymerase, sigma 70 (sigma D) factor"
+                     /product="sigma-54 dependent transcriptional regulator"
+                     /product="RNA polymerase sigma-70 factor, ECF subfamily"
+                     /product="RNA polymerase sigma-70 factor, ECF subfamily"
+                     /product="ECF subfamily RNA polymerase sigma-24 factor"
+                     /product="RNA polymerase sigma-54 factor"
+                     /product="putative RNA polymerase sigma factor"
+                     /product="Sigma-54 dependent transcriptional
+                     /product="RNA polymerase subunit sigma-24"
+                     ASALAMDKLRTKQVWQSLGIPTPRHAVLASESDCLQASTELGFPLIVKPAHEGSSIGMA
+                     /product="RNA polymerase sigma E factor"
+                     /product="Sigma factor AlgU negative regulatory protein"
+                     /product="Sigma factor AlgU regulatory protein MucB"
+                     /product="RNA polymerase, sigma S (sigma 38) factor"
+                     AAGLTTAQISSWIWALSIGMAVCSIGLSLRYRTPITVAWSTPGAALLITSLGGVSYGEA
+                     /product="RNA polymerase sigma factor SigX"
+                     /product="Anti-anti-sigma factor"
+                     /product="putative RNA polymerase sigma-70 factor, ECF
+                     /product="putative sigma-54 dependent transcriptional
+                     YDDAPHGHAEVLFENVRVPYENVILGEGRGFEIAQGRLGPGRIHHCMRSIGMAERALEL
+                     /product="Sigma-54 dependent transcriptional regulator"
+                     /product="Sigma-54 dependent sensory box protein"
+                     /product="putative ECF sigma factor PrtI"
+                     /product="RNA polymerase sigma-70 factor, ECF subfamily"
+                     /product="putative RNA polymerase sigma-70 factor"
+                     /product="Sigma-54 dependent transcriptional
+                     /product="Sigma-54 dependent transcriptional regulator"
+                     /product="Sigma-54 dependent transcriptional regulator"
+                     /product="RNA polymerase, sigma 19 factor"
+                     /product="RNA polymerase sigma-70 factor, ECF subfamily"
+                     /product="alternative sigma factor"
+                     /product="RNA polymerase sigma 28 (sigma F) factor for
+                     /product="putative Anti-sigma F factor antagonist"
+                     /product="sigma-54 dependent transcriptional regulator"
+                     /product="RNA polymerase sigma-70 factor, ECF subfamily"
+                     /product="RNA polymerase sigma-70 factor, ECF subfamily"
+                     /product="RNA polymerase sigma-70 factor, ECF subfamily"
+                     /product="RNA polymerase factor sigma-32"
+                     /product="Sigma-54 dependent transcriptional regulator"
+                     /product="sigma factor-binding protein, stimulates RNA
+                     /note="anti-FliA (anti-sigma) factor; also known as RflB
+                     /product="anti-sigma factor for FliA (sigma 28)"
+                     /note="flagellar biosynthesis; alternative sigma factor 28;
+                     /product="RNA polymerase, sigma 28 (sigma F) factor"
+                     two-component system with AtoS: response regulator/sigma54
+                     sigma 54"
+                     /note="sigma-E factor, negative regulatory protein"
+                     /note="regulates activity of sigma-E factor"
+                     /product="anti-sigma E factor, binds RseA"
+                     /note="sigma-E factor, negative regulatory protein"
+                     /product="anti-sigma factor"
+                     /note="RNA polymerase, sigma-E factor; heat shock and
+                     /product="RNA polymerase, sigma 24 (sigma E) factor"
+                     /note="putative yhbH sigma 54 modulator"
+                     /note="RNA polymerase, sigma S (sigma38) factor; synthesis
+                     /product="RNA polymerase, sigma S (sigma 38) factor"
+                     /note="RNA polymerase, sigma(70) factor; regulation of
+                     /product="RNA polymerase, sigma 70 (sigma D) factor"
+                     /note="RNA polymerase, sigma(54 or 60) factor; nitrogen and
+                     /product="RNA polymerase, sigma 54 (sigma N) factor"
+                     /note="probable sigma-54 modulation protein"
+                     /note="sigma cross-reacting protein 27A (SCRP-27A)"
+                     /note="sigma54-dependent regulator of rtcBA expression"
+                     /product="sigma 54-dependent transcriptional regulator of
+                     /note="RNA polymerase, sigma(32) factor; regulation of
+                     /product="RNA polymerase, sigma 32 (sigma H) factor"
+                     sigma54 activator protein/conserved protein"
+                     sigma(S) levels; overexpression also reduces MetE activity;
+                     regulator/sigma54 interaction protein"
+                     /product="stationary phase protein, binds sigma 70 RNA
+                     regulator/sigma54 interaction protein"
+                     /note="probable RNA polymerase sigma factor"
+                     /product="KpLE2 phage-like element; RNA polymerase, sigma
+                     activity [Evidence IEA]; GO:0016987 - sigma factor activity
+                     /product="RNA polymerase sigma factor RpoD"
+                     /product="sigma-54 dependent transcriptional regulator"
+                     /product="flagellar biosynthesis anti-sigma factor FlgM"
+                     /product="FliA/WhiG family RNA polymerase sigma factor"
+                     /product="sigma E protease regulator RseP"
+                     /product="flagellar biosynthesis anti-sigma factor FlgM"
+                     /product="RNA polymerase sigma factor FliA"
+                     /GO_function="GO:0016987 - sigma factor activity [Evidence
+                     /product="RNA polymerase sigma factor RpoE"
+                     /GO_function="GO:0016989 - sigma factor antagonist activity
+                     /product="anti-sigma-E factor RseA"
+                     /product="sigma-E factor regulatory protein RseB"
+                     /product="sigma factor-binding protein Crl"
+                     [Evidence IEA]; GO:0016987 - sigma factor activity
+                     /product="RNA polymerase sigma factor RpoS"
+                     [Evidence IEA]; GO:0016987 - sigma factor activity
+                     /product="RNA polymerase factor sigma-54"
+                     /product="sigma D regulator"
+                     /GO_function="GO:0016987 - sigma factor activity [Evidence
+                     /product="RNA polymerase sigma factor RpoH"
+                     /product="pro-sigmaK processing inhibitor BofA family
+                     /product="sigma factor G inhibitor Gin"
+                     /product="sigma-70 family RNA polymerase sigma factor"
+                     /product="sigma-54-dependent transcriptional regulator"
+                     /product="sigma-70 family RNA polymerase sigma factor"
+                     /product="sigma-70 family RNA polymerase sigma factor"
+                     /product="sigma-70 family RNA polymerase sigma factor"
+                     /product="sigma-70 family RNA polymerase sigma factor"
+                     /product="sigma 54-interacting transcriptional regulator"
+                     GO:0016987 - sigma factor activity [Evidence IEA]"
+                     /product="RNA polymerase sigma factor RpoD"
+                     /product="flagellar biosynthesis anti-sigma factor FlgM"
+                     /product="FliA/WhiG family RNA polymerase sigma factor"
+                     /GO_function="GO:0016987 - sigma factor activity [Evidence
+                     /product="RNA polymerase sporulation sigma factor SigK"
+                     /product="sigma-E processing peptidase SpoIIGA"
+                     [Evidence IEA]; GO:0016987 - sigma factor activity
+                     /product="RNA polymerase sporulation sigma factor SigE"
+                     activity [Evidence IEA]; GO:0016987 - sigma factor activity
+                     /product="RNA polymerase sporulation sigma factor SigG"
+                     /product="sigma-70 family RNA polymerase sigma factor"
+                     [Evidence IEA]; GO:0016987 - sigma factor activity
+                     /product="sigma-70 family RNA polymerase sigma factor"
+                     [Evidence IEA]; GO:0016987 - sigma factor activity
+                     /product="sigma-70 family RNA polymerase sigma factor"
+                     /product="sigma-54-dependent Fis family transcriptional
+                     /product="sigma-54-dependent Fis family transcriptional
+                     /product="sigma 54-interacting transcriptional regulator"
+                     /product="sigma-54-dependent Fis family transcriptional
+                     /product="sigma 54-interacting transcriptional regulator"
+                     /product="sigma-54-dependent Fis family transcriptional
+                     /product="sigma-54-dependent Fis family transcriptional
+                     /product="sigma-54-dependent Fis family transcriptional
+                     /product="sigma-54-dependent Fis family transcriptional
+                     /product="anti-sigma factor domain-containing protein"
+                     /GO_function="GO:0016987 - sigma factor activity [Evidence
+                     /product="RNA polymerase sigma-I factor"
+                     /product="sigma-54-dependent Fis family transcriptional
+                     /product="sigma-54-dependent Fis family transcriptional
+                     /product="RNA polymerase sigma factor SigX"
+                     /product="RNA polymerase sigma factor"
+                     /product="sigma-70 family RNA polymerase sigma factor"
+                     CCSIKKQLVEEDEKDLGNRMLLNFGHTLGHAVERYYNYSKYSHGEAVSIGMAYITGRTE
+                     [Evidence IEA]; GO:0016987 - sigma factor activity
+                     /product="sigma-70 family RNA polymerase sigma factor"
+                     QAIVSRTFDSKERGKALGINSVFISIGMAAGPTIGGFLLTHSSWHAIFYFNVPFCILGF
+                     /product="sigma-70 family RNA polymerase sigma factor"
+                     /product="sigma-70 family RNA polymerase sigma factor"
+                     /product="sigma 54-interacting transcriptional regulator"
+                     /GO_function="GO:0016987 - sigma factor activity [Evidence
+                     /product="RNA polymerase sporulation sigma factor SigF"
+                     /product="anti-sigma F factor"
+                     /GO_function="GO:0045152 - antisigma factor binding
+                     /product="anti-sigma F factor antagonist"
+                     /product="sigma-70 family RNA polymerase sigma factor"
+                     /product="sigma 54-interacting transcriptional regulator"
+                     /product="sigma-70 family RNA polymerase sigma factor"
+                     /product="sigma 54-interacting transcriptional regulator"
+                     /GO_function="GO:0016987 - sigma factor activity [Evidence
+                     /product="RNA polymerase factor sigma-54"
+                     /product="sigma-54-dependent Fis family transcriptional
+                     /product="sigma 54-interacting transcriptional regulator"
+                     /product="RNA polymerase sporulation sigma factor SigH"
+                     /product="sigma 54-interacting transcriptional regulator"
+                     /product="sigma 54-interacting transcriptional regulator"
+                     /product="sigma 54-interacting transcriptional regulator"
+                     /GO_function="GO:0016987 - sigma factor activity [Evidence
+                     /product="RNA polymerase factor sigma-54"
+                     /GO_function="GO:0016987 - sigma factor activity [Evidence
+                     /product="sigma-70 family RNA polymerase sigma factor"
+                     /GO_function="GO:0016987 - sigma factor activity [Evidence
+                     /product="RNA polymerase sigma factor RpoD"
+                     STRVYGLSIGMALFSTVMPAFALAAAMRRIGSMQTSMIGALGPVATIYLAYVFLAEQLS
+                     EVGSKVDVCGISIGKGYAGTIKRHNFSSSRASHGNSRSHNVPGSIGMAQDPGRVFPGKK
+                     /GO_function="GO:0016987 - sigma factor activity [Evidence
+                     /product="sigma-70 family RNA polymerase sigma factor"
+                     /product="RNA polymerase sigma factor"
+                     /product="RNA polymerase sigma factor"
+                     /product="RNA polymerase sigma factor"
+                     /product="sigma-70 family RNA polymerase sigma factor"
+                     /GO_function="GO:0016987 - sigma factor activity [Evidence
+                     /product="RNA polymerase sigma factor RpoH"
+                     /GO_function="GO:0016987 - sigma factor activity [Evidence
+                     /product="sigma-70 family RNA polymerase sigma factor"
+                     /GO_function="GO:0016987 - sigma factor activity [Evidence
+                     /product="RNA polymerase sigma factor"
+                     /GO_function="GO:0016987 - sigma factor activity [Evidence
+                     /product="sigma-70 family RNA polymerase sigma factor"
+                     /product="RNA polymerase sigma factor"
+                     /GO_function="GO:0016987 - sigma factor activity [Evidence
+                     /product="sigma-70 family RNA polymerase sigma factor"
+                     /GO_function="GO:0016987 - sigma factor activity [Evidence
+                     /product="sigma-70 family RNA polymerase sigma factor"
+                     /GO_function="GO:0016987 - sigma factor activity [Evidence
+                     /product="sigma-70 family RNA polymerase sigma factor"
+                     /GO_function="GO:0016987 - sigma factor activity [Evidence
+                     /product="sigma-70 family RNA polymerase sigma factor"
+                     /GO_function="GO:0016987 - sigma factor activity [Evidence
+                     /product="sigma-70 family RNA polymerase sigma factor"
+                     /GO_function="GO:0016987 - sigma factor activity [Evidence
+                     /product="sigma-70 family RNA polymerase sigma factor"
+                     /GO_function="GO:0016987 - sigma factor activity [Evidence
+                     /product="sigma-70 family RNA polymerase sigma factor"
+                     /GO_function="GO:0016987 - sigma factor activity [Evidence
+                     /product="sigma-70 family RNA polymerase sigma factor"
+                     /GO_function="GO:0016987 - sigma factor activity [Evidence
+                     /product="sigma-70 family RNA polymerase sigma factor"
+                     /product="sigma-54 dependent transcriptional regulator"
+                     /product="RNA polymerase sigma factor"
+                     /product="sigma-54 dependent transcriptional regulator"
+                     /product="RNA polymerase sigma factor"
+                     /product="sigma-E factor negative regulatory protein"
+                     /GO_function="GO:0016987 - sigma factor activity [Evidence
+                     /product="RNA polymerase sigma factor RpoE"
+                     /GO_function="GO:0016987 - sigma factor activity [Evidence
+                     /product="sigma-70 family RNA polymerase sigma factor"
+                     /product="flagellar biosynthesis anti-sigma factor FlgM"
+                     /GO_function="GO:0016987 - sigma factor activity [Evidence
+                     /product="sigma-70 family RNA polymerase sigma factor"
+                     /product="RNA polymerase sigma factor FliA"
+                     /product="Anti-anti-sigma factor"
+                     /product="RNA polymerase sigma-B factor (Sigma-37)"
+                     /product="RNA polymerase factor sigma-70"
+                     /product="Transcriptional regulator, sigma-54-dependent"
+                     (Anti-sigma-d factor)"
+                     /product="RNA polymerase sigma-28factor for flagellar
+                     /product="putative RNA polymerase sigma factor
+                     /product="Transcriptional regulator, sigma-54-dependent"
+                     /product="putative sigma factor Tn1549-like, CTn2-Orf31"
+                     /product="Transcriptional regulator, sigma-54-dependent"
+                     /product="putative RNA polymerase sigma factor
+                     /product="Alternative RNA polymerase sigma factors"
+                     /product="Extracytoplasmic function (ECF) anti-sigma factor
+                     /product="Extracytoplasmic function (ECF) sigma factor
+                     /product="Anti-sigma F factor antagonist"
+                     /product="Anti-sigma F factor (Stage II sporulation protein
+                     /product="RNA polymerase sigma-F factor"
+                     /product="Transcriptional regulator, sigma-54-dependent"
+                     regulator,sigma-54-dependent"
+                     /product="putative RNA polymerase sigma factor
+                     /product="Transcriptional regulator, sigma-54-dependent"
+                     /product="Sigma K"
+                     /product="Transcriptional regulator, sigma-54-dependent"
+                     regulator,sigma-54-dependent"
+                     /product="RNA polymerase sigma factor SigA1 (sigma-43)"
+                     /product="RNA polymerase sigma factor SigA2 (sigma-43)"
+                     /product="Extracytoplasmic function (ECF) sigma factor
+                     /product="extracytoplasmic function (ECF) anti-sigma factor
+                     /product="putative sigma factor Tn1549-like, CTn5-Orf38"
+                     /product="Extracytoplasmic function (ECF) sigma factor
+                     /product="Extracytoplasmic function (ECF) anti-sigma factor
+                     /product="Transcriptional regulator, sigma-54-dependent"
+                     /product="Transcriptional regulator, sigma-54-dependent"
+                     /product="putative ribosome-associated sigma 54 modulation
+                     /product="RNA polymerase sigma-G factor"
+                     /product="RNA polymerase sigma-E factor"
+                     /product="Sporulation sigma-E factor processing peptidase"
+                     /product="Transcriptional regulator, sigma-54 dependent"
+                     /product="putative regulator of the sigma(E) factor"
+                     /product="Transcriptional regulator, sigma-54-dependent"
+                     /product="Transcriptional regulator, sigma-54-dependent"
+                     /product="Transcriptional regulator, sigma-54-dependent"
+                     /product="Transcriptional regulator, sigma-54-dependent"
+                     /product="RNA polymerase sigma-54 factor"
+                     /product="Transcriptional regulator, sigma-54-dependent"
+                     /product="putative sigma-54 interacting protein"
+                     /product="Transcriptional regulator, sigma-54-dependent"
+                     /product="putative RNA polymerase sigma factor
+                     TNWQEVSLSQITQDVNIPYLLFSIGMAGMVCLIAVLLFWRYRRDEVKQLIHRQKLARMV
+                     /product="Pro-sigma(E) endopeptidase (stage II
+                     /product="RNA polymerase sigma factor RpoD"
+                     /product="RNA polymerase factor sigma-54"
+                     /product="RNA polymerase sigma factor FliA"
+                     /product="flagellar biosynthesis anti-sigma factor FlgM"
+                     /product="RNA polymerase sigma factor"
+                     YSLTEIKSRVEALLPEIKSIGMAIEPPLVPTTGKYGFDIEDDKMEIGIGIHGEKGIHRE
+                     /translation="MSNVLELTIPASTANLGVGFDSIGMALDKFLHLSVKETSGTKWEY
+                     GO:0016987 - sigma factor activity [Evidence IEA]"
+                     /product="RNA polymerase sigma factor RpoD"
+                     /product="RNA polymerase sigma factor SigS"
+                     [Evidence IEA]; GO:0016987 - sigma factor activity
+                     /product="RNA polymerase sigma factor SigB"
+                     /product="anti-sigma B factor RsbW"
+                     /product="anti-sigma factor antagonist"
+                     VGRRKLNNVTRYLAISLAFIQSIGMAFQFNNYLKGALIINQSIMSYLLIALVLTAGTAF
+                     /product="inhibitor of the pro-sigma(K) processing
+                     /product="forespore-specific anti-sigma factor"
+                     during sporulation (anti sigma F)"
+                     /product="RNA polymerase sigma-30 factor (sigma(H))"
+                     function)-type sigma factor W"
+                     /product="anti-sigma(W) factor"
+                     EEMKWIGSVNSIGMAAGAFLFGLLADRIGRKKVFIITLLCFSIGSGISAFVTSLSAFLI
+                     positive regulation of sigma(B) activity in response to
+                     /product="anti-anti-sigma factor (antagonist of RsbW)"
+                     /product="switch protein/serine kinase and anti-sigma
+                     factor (inhibitory sigma-B binding protein)"
+                     /product="RNA polymerase sigma-37 factor (sigma(B))"
+                     NSESYCHPDGKDSVRGRLTFTEDEQPIVAHIWGDKPENFRKMSIGMAELGFKGLDINMG
+                     /product="negative regulator of the activity of sigma-M"
+                     /product="negative regulator of the activity of sigma-M"
+                     function)-type sigma factor (sigma(M))"
+                     /product="phage PBSX; putative RNA polymerase PBSX sigma
+                     /product="RNA polymerase sigma factor (heat stress
+                     /product="sigmaI modulating factor"
+                     /product="RNA polymerase ECF-type sigma factor"
+                     /product="anti-SigP(YlaC) sigma factor"
+                     /product="protease processing pro-sigma-E"
+                     /product="RNA polymerase sporulation-specific sigma-29
+                     factor (sigma-E)"
+                     /product="RNA polymerase sporulation-specific sigma factor
+                     (sigma-G)"
+                     /product="RNA polymerase sigma-28 factor (sigma-D)"
+                     the extracytoplasmic stress response mediated by sigma(W)"
+                     /product="protease required for RsiW anti-sigma(W)
+                     /product="negative regulator of sigma(X) activity"
+                     function)-type sigma factor sigma(X)"
+                     /product="RNA polymerase sporulation-specific sigma factor
+                     (sigma-F)"
+                     /product="anti-sigma factor (antagonist of sigma(F)) and
+                     /product="anti-anti-sigma factor (antagonist of SpoIIAB)"
+                     /product="RNA polymerase major sigma-43 factor (sigma-A)"
+                     /product="RNA polymerase sporulation-specific sigma-K
+                     factor precursor (Sigma-27) (N-terminal half)"
+                     /product="RNA polymerase sporulation-specific sigma-K
+                     factor precursor (Sigma-27) (C-terminal fragment)"
+                     function)-type sigma factor (sigma-Z)"
+                     function)-type sigma factor (sigma(V))"
+                     /product="anti-sigma(V) factor"
+                     pro-sigma(K)]"
+                     /product="regulator of sigma-O"
+                     /product="alternative sigma factor"
+                     /product="acid stress-sensitive anti sigma factor"
+                     /product="RNA polymerase sigma-54 factor (sigma-L)"
+                     /product="ribosome-associated sigma 54 modulation protein;
+                     /product="anti-sigma factor repressor of sigma(D)-dependent
+                     /product="regulator signal of pro-sigma(E) spoIIGA
+                     /product="negative regulator of sigma-Y activity"
+                     /product="putative sigma-Y antisigma factor component"
+                     /product="sigma-Y antisigma factor"
+                     function)-type sigma factor (sigma-Y)"
+                     sigma-70-containing RNA polymerase activity"
+                     /note="domains: FehydlgC, FeS, sigma54 interaction, HTH8"
+                     /product="iron-sulfur cluster-binding sigma-54-dependent
+                     /note="domains: sigma54 interaction"
+                     /product="sigma-54-dependent transcriptional regulator"
+                     /note="domains: PAS, sigma54 interaction, HTH8"
+                     /product="sigma-54-dependent sensor transcriptional
+                     /product="RNA polymerase sigma-70 factor RpoD"
+                     /product="RNA polymerase sigma-28 factor for flagellar
+                     /note="domains: REC, sigma54 interaction, HTH8"
+                     /product="sigma-54-dependent transcriptional response
+                     /note="domains: REC, sigma54 interaction, HTH8"
+                     /product="sigma-54-dependent transcriptional response
+                     /note="domains: GAF, GAF, sigma54 interaction"
+                     /product="sensor sigma-54-dependent transcriptional
+                     /note="domains: REC, sigma54 interaction, HTH8"
+                     /product="sigma-54-dependent transcriptional response
+                     /note="domains: REC, sigma54 interaction, HTH8"
+                     /product="sigma-54-dependent transcriptional response
+                     /note="domains: REC, sigma54 interaction, HTH8"
+                     /product="sigma-54-dependent transcriptional response
+                     /note="domains: REC, sigma54 interaction, HTH8"
+                     /product="sigma-54-dependent transcriptional response
+                     /note="domains: REC, sigma54 interaction, HTH8"
+                     /product="sigma-54-dependent transcriptional response
+                     /note="domains: REC, sigma54 interaction, HTH8"
+                     /product="sigma-54-dependent transcriptional response
+                     /product="anti-sigma factor, protein serine/threonine
+                     /product="anti-anti-sigma factor"
+                     /product="RNA polymerase sigma-54 factor RpoN"
+                     /product="ribosomal subunit interface-associated sigma-54
+                     /note="domains: REC, sigma54 interaction, HTH8"
+                     /product="sigma-54-dependent transcriptional response
+                     /product="RNA polymerase sigma-38 factor, stationary phase"
+                     /note="domains: XylR, V4R, sigma54 interaction, HTH8"
+                     /product="aromatic catabolism-like sigma-54-dependent
+                     /note="domains: REC, sigma54 interaction, HTH8"
+                     /product="sigma-54-dependent transcriptional response
+                     /note="domains: REC, sigma54 interaction"
+                     /product="sigma-54-dependent transcriptional response
+                     /note="domains: PAS, sigma54 interaction, HTH8"
+                     /product="sigma-54-dependent sensor transcriptional
+                     /note="domains: XylR, V4R, sigma54 interaction, HTH8"
+                     /product="aromatic catabolism-like sigma-54-dependent
+                     /note="domains: PAS, sigma54 interaction, HTH8"
+                     /product="sigma-54-dependent sensor transcriptional
+                     /note="domains: XylR, V4R, sigma54 interaction, HTH8"
+                     /product="aromatic catabolism-like sigma-54-dependent
+                     /note="domains: XylR, V4R, sigma54 interaction, HTH8"
+                     /product="aromatic catabolism-like sigma-54-dependent
+                     /note="domains: REC, sigma54 interaction, HTH8"
+                     /product="sigma-54-dependent transcriptional response
+                     /note="domains: GAF, sigma54 interaction, HTH8"
+                     /product="sigma 54-dependent transcriptional regulator, GAF
+                     /note="domains: REC, sigma54 interaction, HTH8"
+                     /product="sigma-54-dependent transcriptional response
+                     GSRVPLNHPNNRVLFLQWGPRLLASGQSNTIILSIGMADRDPVSGFPVKPDTTLDPALL
+                     /note="domains: REC, sigma54 interaction, HTH8"
+                     /product="nitrogen fixation master sigma-54-dependent
+                     /product="RNA polymerase sigma-24 factor, putative"
+                     /product="RNA polymerase sigma factor"
+                     /product="RNA polymerase sigma-32 factor RpoH"
+                     /note="domains: REC, sigma54 interaction, HTH8"
+                     /product="sigma-54-dependent transcriptional response
+                     /note="domains: REC, sigma54 interaction, HTH8"
+                     /product="sigma-54-dependent transcriptional response
+                     /note="domains: REC, sigma54 interaction, HTH8"
+                     /product="flagellar biogenesis master sigma-54-dependent
+                     /note="domains: PAS, sigma54 interaction, HTH8"
+                     /product="sigma-54-dependent sensor transcriptional
+                     /note="domains: sigma54 interaction, HTH8"
+                     /product="sigma-54-dependent transcriptional regulator"

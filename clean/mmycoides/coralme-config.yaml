@@ -81,7 +81,7 @@ amino_acid_trna_synthetase:
   leu__L_c: JCVISYN3A_0634-MONOMER
   lys__L_c: JCVISYN3A_0064-MONOMER
   met__L_c: JCVISYN3A_0012-MONOMER
-  phe__L_c: CPLX-tRNA-PHE-LIGASE
+  phe__L_c: generic_phe_ligase
   pro__L_c: JCVISYN3A_0282-MONOMER
   ser__L_c: JCVISYN3A_0061-MONOMER
   thr__L_c: JCVISYN3A_0222-MONOMER
