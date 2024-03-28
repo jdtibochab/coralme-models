@@ -10,4 +10,4 @@ generic_RNase	CPLX_dummy
 generic_Tuf	HP_RS05930-MONOMER
 generic_fes_transfers_complex	CPLX_dummy
 generic_glu_ligase	HP_RS03170-MONOMER,HP_RS02355-MONOMER
-generic_val_ligase	HP_RS05665-MONOMER,HP_RS00085-MONOMER
+generic_val_ligase	HP_RS00085-MONOMER,HP_RS05665-MONOMER

@@ -6,13 +6,13 @@ asp__L_c,generic_asp_ligase
 cys__L_c,generic_cys_ligase
 gln__L_c,generic_gln_ligase
 glu__L_c,generic_glu_ligase
-gly_c,CPLX2G6Z-31
+gly_c,generic_gly_c_ligase
 his__L_c,generic_his_ligase
 ile__L_c,generic_ile_ligase
 leu__L_c,generic_leu_ligase
-lys__L_c,FY484_RS03510-MONOMER
+lys__L_c,generic_lys_ligase
 met__L_c,generic_met_ligase
-phe__L_c,CPLX2G6Z-11
+phe__L_c,generic_phe_ligase
 pro__L_c,FY484_RS04510-MONOMER
 ser__L_c,generic_ser_ligase
 thr__L_c,generic_thr_ligase

@@ -821,6 +821,7 @@ Map or remove these metabolites in me_metabolites.txt
 #################### critical@troubleshoot ####################
 ********** Some metabolites are necessary for growth
 The following items triggered the warning:
+TS_pg161_p
 TS_4fe4s_c
 
 **********Solution:

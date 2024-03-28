@@ -1,0 +1,10 @@
+,value
+DnaK_dependent_folding,"{'enzymes': ['DnaK_mono', 'DnaJ_dim_mod_zn2(4)', 'GrpE_dim']}"
+GroEL_dependent_folding,"{'enzymes': ['GroL_14', 'cisGroES_hepta', 'transGroES_hepta']}"
+N_terminal_methionine_cleavage,{'enzymes': ['Map_mono_mod_fe2(2)']}
+PrfA_mono_mediated_termination,{'enzymes': ['PrfA_mono']}
+PrfB_mono_mediated_termination,{'enzymes': ['PrfB_mono']}
+generic_RF_mediated_termination,{'enzymes': ['generic_RF']}
+peptide_chain_release,{'enzymes': ['PrfC_mono']}
+peptide_deformylase_processing,{'enzymes': ['Def_mono_mod_fe2(1)']}
+ribosome_recycler,{'enzymes': ['Rrf_mono']}

@@ -10,5 +10,3 @@ generic_RNase	TM0864-MONOMER_mod_zn2(2)
 generic_Tuf	TM1502-MONOMER
 generic_fes_transfers_complex	CPLX_dummy
 generic_glu_ligase	TM1875-MONOMER,TM1351-MONOMER
-generic_gly_c_ligase	TM0217-MONOMER,TM0216-MONOMER
-generic_phe_ligase	TM0822-MONOMER,TM0821-MONOMER

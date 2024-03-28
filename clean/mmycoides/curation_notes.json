@@ -479,6 +479,18 @@
             "to_do": "Check whether any of these genes are translated in your final ME-model. If so, fix the positions of the gene in genome_modified.gb"
         }
     ],
+    "org.update_genbank_from_files": [
+        {
+            "msg": "Some feature in genbank are CDS but have no translation qualifier. Translated sequences from Biopython were filled in instead",
+            "triggered_by": [
+                "JCVISYN3A_0051",
+                "JCVISYN3A_0546",
+                "JCVISYN3A_0602"
+            ],
+            "importance": "high",
+            "to_do": "Check whether the genbank was downloaded or constructed correctly."
+        }
+    ],
     "org.get_rpod": [
         {
             "msg": "RpoD randomly assigned to JCVISYN3A_0407-MONOMER",
@@ -715,71 +727,6 @@
             ],
             "importance": "medium",
             "to_do": "Map or remove these metabolites in me_metabolites.txt"
-        }
-    ],
-    "troubleshoot": [
-        {
-            "msg": "Some metabolites are necessary for growth",
-            "triggered_by": [
-                "TS_biomass_c",
-                "TS_protein_c",
-                "TS_ACP_R_c",
-                "TS_prpp_c",
-                "TS_12dgr_c",
-                "TS_pi_c",
-                "TS_fe2_c",
-                "TS_zn2_c",
-                "TS_mn2_c",
-                "TS_dUTPase_c",
-                "TS_clpn_c"
-            ],
-            "importance": "critical",
-            "to_do": "Fix the gaps by adding reactions or solving other warnings. If some items are from the E-matrix, fix these first!"
-        },
-        {
-            "msg": "Some metabolites are necessary for growth",
-            "triggered_by": [
-                "TS_protein_c",
-                "TS_pg3p_c",
-                "TS_apoACP_c",
-                "TS_g1p_c",
-                "TS_biomass_c",
-                "TS_cobalt2_c",
-                "TS_dUTPase_c",
-                "TS_ni2_c",
-                "TS_zn2_c",
-                "TS_tl_c",
-                "TS_cs_c",
-                "TS_nh4_c",
-                "TS_cd2_c",
-                "TS_mn2_c",
-                "TS_fe2_c"
-            ],
-            "importance": "critical",
-            "to_do": "Fix the gaps by adding reactions or solving other warnings. If some items are from the E-matrix, fix these first!"
-        },
-        {
-            "msg": "Some metabolites are necessary for growth",
-            "triggered_by": [
-                "TS_biomass_c",
-                "TS_protein_c",
-                "TS_apoACP_c",
-                "TS_e4p_c",
-                "TS_12dgr_c",
-                "TS_cobalt2_c",
-                "TS_cs_c",
-                "TS_zn2_c",
-                "TS_nh4_c",
-                "TS_dUTPase_c",
-                "TS_mn2_c",
-                "TS_tl_c",
-                "TS_cd2_c",
-                "TS_clpn_c",
-                "TS_ni2_c",
-                "TS_fe2_c"
-            ],
-            "importance": "critical",
-            "to_do": "Fix the gaps by adding reactions or solving other warnings. If some items are from the E-matrix, fix these first!"
         }
     ]
 }

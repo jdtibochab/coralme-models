@@ -9,3 +9,4 @@ generic_RF,"{'enzymes': ['ALW85_RS09960-MONOMER', 'ALW85_RS06390-MONOMER']}"
 generic_RNase,{'enzymes': ['ALW85_RS01460-MONOMER_mod_mg2(1)']}
 generic_Tuf,{'enzymes': ['ALW85_RS10695-MONOMER']}
 generic_fes_transfers_complex,"{'enzymes': ['ALW85_RS07475-MONOMER', 'ALW85_RS07590-MONOMER']}"
+generic_gln_ligase,"{'enzymes': ['ALW85_RS12285-MONOMER', 'ALW85_RS12320-MONOMER']}"

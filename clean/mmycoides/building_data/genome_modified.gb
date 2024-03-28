@@ -537,6 +537,10 @@ FEATURES             Location/Qualifiers
                      /pseudo=""
                      /codon_start=1
                      /transl_table=4
+                     /translation="MKKLFNILGLNFLLISTIISSAYLKNNDSNNTNLVLKSQTSVELE
+                     KLKKEVMEYKELLDQEFSSNKKLLEENKELKAKLKDYLKIKTELLEFKEFLNN*YNSNN
+                     ELLKEKEKLKIKLKEYEQLFKVLNSDEKYFKNNDPSQIIDLINESKNKLDSNQLDKTQQ
+                     IAISIGAGLTLLAISICGAVIGLNKRIFKKSKKISKIIITR*"
      CDS             complement(45293..45742)
                      /gene="ahpC"
                      /locus_tag="JCVISYN3A_0054"
@@ -4661,6 +4665,12 @@ FEATURES             Location/Qualifiers
                      /pseudo=""
                      /codon_start=1
                      /transl_table=4
+                     /translation="MNNYPYILSDLDGTISLKDFSISKKTIKVIKKYQKLSNNRFSFCT
+                     GRVDGANKKIAKQLKVSLPIISCNGALISNLKTNEVLHADYLNNKLMSELFKLAHEHDI
+                     DIVGYTHNMMIGTFHSERVISWQNYMNKTKKKYHWEIKKYNDLLEISNELKNNNLKIVE
+                     VIISLQNLSDDKANKKLDLIKECIKDKFDLVQSLPKLFNIMKKRLISCLD*NTLLKL*I
+                     LTIKILLCLEIIIMILKWLKVLNKDIVLKMVLMSLKK*HLKFVIV*KMME*LRK*NKLL
+                     KKYKIKN"
      CDS             complement(358736..359281)
                      /locus_tag="JCVISYN3A_0548"
                      /inference="EXISTENCE: similar to AA
@@ -4775,6 +4785,17 @@ FEATURES             Location/Qualifiers
                      /pseudo=""
                      /codon_start=1
                      /transl_table=4
+                     /translation="MGNNEFIFEPLKEYDKYQEKNLNIIKEYFDNLIATSKVDIEENKQ
+                     QVIKINKKQAELNKSNFNLKKLRIWFITNIVLICLTGVLGAAFIYSLVTYPTYKWYEVL
+                     VCVIDLILFIVFILIHFLVINKKKKEALNAKDKQQAELNQLIEIGLEQTKSLRELIKIG
+                     TKNKLLTLTMPFIHLNRHLGLNKLNKLIDEYGFLNSSSDDTKTTVYVKSGTINNNYFLL
+                     TKDYSYEIVKKTYHGSLTISWTESYTDSNGNWKTVTKTQVLTASVTKPFVQFSDFSKIC
+                     FATDLSPNLEFYRKPQQIDKLSEKEKVKLEKQIEKELKKYSQKNINFTPLSNTKFESFW
+                     SCFDRNNEREFRLLFTPLAQNNLVQLVQDHNKSFGDDYHMLKENKLIIFATEKLNEITF
+                     MIMKINISIIVLNIYKIIFIV*IKITLKHSIEH*LHTFQSHH*LK*I*NTRTILKLI*L
+                     LLIMNMKFVLTQYHQNY*ITQTLKLIQLLKHN*LLKKMILTMFRQLPLDLILYQELIIF
+                     RFEEEMEVIMMFQFLEMNI*HMIKLLI*KLKFLSIHLLIMSYEIKK*KLNTMKMIF*QN
+                     MVLLK**NRKY"
      CDS             369520..370188
                      /locus_tag="JCVISYN3A_0604"
                      /inference="EXISTENCE: similar to AA

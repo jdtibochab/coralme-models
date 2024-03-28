@@ -224,6 +224,20 @@
             "to_do": "Check whether optional files where downloaded correctly."
         }
     ],
+    "org.update_genbank_from_files": [
+        {
+            "msg": "Some feature in genbank are CDS but have no translation qualifier. Translated sequences from Biopython were filled in instead",
+            "triggered_by": [
+                "S0903",
+                "S2305",
+                "S2306",
+                "S2308",
+                "S2309"
+            ],
+            "importance": "high",
+            "to_do": "Check whether the genbank was downloaded or constructed correctly."
+        }
+    ],
     "org.get_rpod": [
         {
             "msg": "S3313-MONOMER was identified as RpoD. If this is not true, define RpoD!",
@@ -1110,7 +1124,6 @@
         {
             "msg": "Some metabolites are necessary for growth",
             "triggered_by": [
-                "TS_2fe2s_c",
                 "TS_4fe4s_c",
                 "TS_dpm_c"
             ],

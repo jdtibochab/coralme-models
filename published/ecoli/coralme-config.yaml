@@ -102,8 +102,8 @@ defer_to_rxn_matrix:
 - ACPS11
 - FMETTRS
 - ATPM
-m-model-path: ./ecoli//building_data/m_model_modified.json
-genbank-path: ./ecoli//building_data/genome_modified.gb
+m-model-path: ecoli//building_data/m_model_modified.json
+genbank-path: ecoli//building_data/genome_modified.gb
 biocyc.genes: ./ecoli/inputs/genes.txt
 biocyc.prots: ./ecoli/inputs/proteins.txt
 biocyc.TUs: ./ecoli/inputs/TUs.txt
@@ -116,13 +116,14 @@ df_matrix_subrxn_stoich: ./ecoli/inputs/subreaction_matrix.txt
 df_metadata_orphan_rxns: ./ecoli/inputs/orphan_and_spont_reactions.txt
 df_metadata_metabolites: ./ecoli/inputs/me_metabolites.txt
 df_reaction_keff_consts: ./ecoli/inputs/keffs.txt
-out_directory: ./ecoli/
-log_directory: ./ecoli/
+out_directory: ecoli/
+log_directory: ecoli/
 run_bbh_blast: false
 dev_reference: false
 include_pseudo_genes: false
 add_lipoproteins: true
 locus_tag: locus_tag
+model_id: ecoli
 selenocysteine_enzymes:
 - SelA_deca_mod_pydx5p(10)
 - SelB_mono
@@ -131,6 +132,7 @@ pg_pe_160:
 - LspA_MONOMER
 other_lipids:
 - EG10168-MONOMER
+default_sigma_factor: RpoD_mono
 rna_polymerases:
   RNAP_RpoHmono:
     sigma_factor: RpoH_mono

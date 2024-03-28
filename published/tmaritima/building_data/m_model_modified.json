@@ -27940,7 +27940,7 @@
 },
 {
 "id":"ADA",
-"name":"ADA",
+"name":"Adenosine deaminase",
 "metabolites":{
 "adn_c":-1,
 "h2o_c":-1,
@@ -33023,7 +33023,7 @@
 },
 {
 "id":"EX_oxa_e",
-"name":"EX_oxa_e",
+"name":"Oxalate exchange",
 "metabolites":{
 "oxa_e":-1
 },
@@ -39939,7 +39939,7 @@
 },
 {
 "id":"IMP",
-"name":"IMP",
+"name":"Myo-inositol 1-phosphatase",
 "metabolites":{
 "dip_d_d_c":1,
 "h2o_c":-1,
@@ -43290,7 +43290,7 @@
 },
 {
 "id":"OXAt",
-"name":"OXAt",
+"name":"Oxalate transport in via proton symport",
 "metabolites":{
 "h_c":1,
 "h_e":-1,
@@ -43548,7 +43548,7 @@
 },
 {
 "id":"MI1PS2",
-"name":"MI1PS2",
+"name":"Myo-Inositol-1-phosphate synthase",
 "metabolites":{
 "g6p_c":-1,
 "mi1p__L_c":1
@@ -44156,7 +44156,7 @@
 },
 {
 "id":"HYDFDN",
-"name":"HYDFDN",
+"name":"Ferredoxin NADH linked hydrogenase",
 "metabolites":{
 "fdxo_4_2_c":1,
 "fdxr_42_c":-1,
@@ -45301,7 +45301,7 @@
 },
 {
 "id":"EDD",
-"name":"EDD",
+"name":"6-phosphogluconate dehydratase",
 "metabolites":{
 "2ddg6p_c":1,
 "6pgc_c":-1,
@@ -45309,7 +45309,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"",
+"gene_reaction_rule":"TM0428",
 "subsystem":"Energy Metabolism",
 "notes":{
 "original_bigg_ids":[
@@ -47040,7 +47040,7 @@
 },
 {
 "id":"Kt1",
-"name":"Kt1",
+"name":"Potassium transport via uniport (facilitated diffusion)",
 "metabolites":{
 "k_c":1,
 "k_e":-1
@@ -48758,7 +48758,7 @@
 },
 {
 "id":"OXADC",
-"name":"OXADC",
+"name":"Oxalate decarboxylase",
 "metabolites":{
 "co2_c":1,
 "for_c":1,
@@ -50835,7 +50835,7 @@
 },
 {
 "id":"PPANA",
-"name":"PPANA",
+"name":"Inorganic diphosphatase (sodium translocation)",
 "metabolites":{
 "h2o_c":-1,
 "h_c":1,
@@ -67812,11 +67812,11 @@
 "name":""
 },
 {
-"id":"TM0538",
+"id":"TM0876",
 "name":""
 },
 {
-"id":"TM0876",
+"id":"TM0538",
 "name":""
 },
 {

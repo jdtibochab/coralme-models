@@ -271,9 +271,9 @@ TM1826-MONOMER_mod_mg2(1),TM1826-MONOMER,mg2(1),Homology
 TM1861-MONOMER_mod_mg2(1),TM1861-MONOMER,mg2(1),Homology
 TM1878-MONOMER_mod_zn2(1),TM1878-MONOMER,zn2(1),Homology
 TM1878-MONOMER_mod_cobalt2(1),TM1878-MONOMER,cobalt2(1),Homology
+CPLX-tRNA-PHE-LIGASE_mod_mg2(1),CPLX-tRNA-PHE-LIGASE,mg2(1),Homology
 CPLX_CBPS-0_mod_mg2(1),CPLX_CBPS-0,mg2(1),Homology
 CPLX_CBPS-0_mod_mn2(1),CPLX_CBPS-0,mn2(1),Homology
 CPLX_CBPS-0_mod_cobalt2(1),CPLX_CBPS-0,cobalt2(1),Homology
 CPLX_CBPS-0_mod_cd2(1),CPLX_CBPS-0,cd2(1),Homology
 CPLX_CBPS-0_mod_zn2(1),CPLX_CBPS-0,zn2(1),Homology
-CPLX_PHETRS-0_mod_mg2(1),CPLX_PHETRS-0,mg2(1),Homology

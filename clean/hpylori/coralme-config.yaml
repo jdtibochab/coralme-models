@@ -62,7 +62,7 @@ selenocysteine_enzymes:
 pg_pe_160:
 - HP_RS04675-MONOMER
 other_lipids: []
-default_sigma_factor: HP_RS03480-MONOMER
+default_sigma_factor: HP_RS05070-MONOMER
 rna_polymerases:
   RNAP_HPRS03480MONOMER:
     sigma_factor: HP_RS03480-MONOMER
@@ -94,7 +94,7 @@ amino_acid_trna_synthetase:
   phe__L_c: CPLX2DNV-968
   pro__L_c: HP_RS01170-MONOMER
   ser__L_c: HP_RS07330-MONOMER
-  thr__L_c: CPLX_dummy
+  thr__L_c: HP_RS00620-MONOMER
   trp__L_c: HP_RS06180-MONOMER
   tyr__L_c: HP_RS03770-MONOMER
   val__L_c: generic_val_ligase

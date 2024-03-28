@@ -134,7 +134,7 @@ amino_acid_trna_synthetase:
   gln__L_c: CPLX_dummy
   glu__L_c: generic_glu_ligase
   gly_c: CPLX490-33
-  his__L_c: SYNPCC7942_2263-MONOMER
+  his__L_c: generic_his_ligase
   ile__L_c: SYNPCC7942_2437-MONOMER
   leu__L_c: SYNPCC7942_1920-MONOMER
   lys__L_c: SYNPCC7942_2415-MONOMER

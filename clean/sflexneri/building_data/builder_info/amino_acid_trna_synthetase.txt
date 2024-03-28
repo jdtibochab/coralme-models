@@ -12,7 +12,7 @@ ile__L_c,S0025-MONOMER
 leu__L_c,S0661-MONOMER
 lys__L_c,generic_lys_ligase
 met__L_c,S2303-MONOMER
-phe__L_c,CPLX-tRNA-PHE-LIGASE
+phe__L_c,S4806-MONOMER
 pro__L_c,S0187-MONOMER
 ser__L_c,S0893-MONOMER
 thr__L_c,S1630-MONOMER

@@ -1,6 +1,6 @@
 ,value
 ME-Model-ID,ecoli
-amino_acid_trna_synthetase,"{'ala__L_c': 'CPLX_dummy', 'arg__L_c': 'CPLX_dummy', 'asn__L_c': 'CPLX_dummy', 'asp__L_c': 'CPLX_dummy', 'cys__L_c': 'CPLX_dummy', 'gln__L_c': 'CPLX_dummy', 'glu__L_c': 'CPLX_dummy', 'gly_c': 'CPLX-tRNA-GLY-LIGASE', 'his__L_c': 'CPLX_dummy', 'ile__L_c': 'CPLX_dummy', 'leu__L_c': 'CPLX_dummy', 'lys__L_c': 'CPLX_dummy', 'met__L_c': 'CPLX_dummy', 'phe__L_c': 'CPLX-tRNA-PHE-LIGASE', 'pro__L_c': 'CPLX_dummy', 'ser__L_c': 'CPLX_dummy', 'thr__L_c': 'CPLX_dummy', 'trp__L_c': 'CPLX_dummy', 'tyr__L_c': 'CPLX_dummy', 'val__L_c': 'CPLX_dummy'}"
+amino_acid_trna_synthetase,"{'ala__L_c': 'Ala_RS_tetra', 'arg__L_c': 'ArgS_mono', 'asn__L_c': 'Asn_RS_dim', 'asp__L_c': 'Asp_RS_dim', 'cys__L_c': 'generic_cys_ligase', 'gln__L_c': 'CPLX_dummy', 'glu__L_c': 'generic_glu_ligase', 'gly_c': 'CPLX-tRNA-GLY-LIGASE', 'his__L_c': 'His_RS_dim', 'ile__L_c': 'IleS_mono', 'leu__L_c': 'LeuS_mono', 'lys__L_c': 'generic_lys_ligase', 'met__L_c': 'Met_RS_dim', 'phe__L_c': 'CPLX-tRNA-PHE-LIGASE', 'pro__L_c': 'Pro_RS_dim', 'ser__L_c': 'CPLX_dummy', 'thr__L_c': 'Thr_RS_dim', 'trp__L_c': 'Trp_RS_dim', 'tyr__L_c': 'Tyr_RS_dim', 'val__L_c': 'ValS_mono'}"
 biocyc.RNAs,./ecoli/inputs/RNAs.txt
 biocyc.TUs,./ecoli/inputs/TUs.txt
 biocyc.genes,./ecoli/inputs/genes.txt

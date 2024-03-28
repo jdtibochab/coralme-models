@@ -218,11 +218,154 @@ G2DNV-13
 **********Solution:
 Fill in position information in genes.txt
 
+#################### high@org.update_genbank_from_files ####################
+********** Some feature in genbank are CDS but have no translation qualifier. Translated sequences from Biopython were filled in instead
+The following items triggered the warning:
+HP0039m
+HP0041
+HP0052
+HP0108
+HP0143
+HP0165
+HP0187
+HP0203
+HP0205
+HP0208
+HP0254
+HP0262
+HP0336
+HP0343
+HP0369
+HP0413
+HP0428
+HP_RS02135
+HP0434
+HP0439
+HP0445
+HP0448
+HP_RS07935
+HP_RS02245
+HP_RS02260
+HP_0460
+HP0463
+HP0481
+HP0483
+HP_RS07940
+HP0505
+HP0513
+HP_0521
+HP0548
+HP0609
+HP0636
+HP0669
+HP0673
+HP0679
+HP0684
+HP0688
+HP0694
+HP0713
+HP0719
+HP_0733
+HP0760
+HP0807
+HP0836
+HP0846
+HP0848
+HP_RS07925
+HP0871
+HP0879
+HP_RS04295
+HP_RS04300
+HP0903m
+HP_RS04415
+HP_0905
+HP0915
+HP0931
+HP_RS04560
+HP_RS07930
+HP_0938
+HP_RS04720
+HP_RS04735
+HP_RS04815
+HP_RS07950
+HP_0992
+HP_0999
+HP1003
+HP_RS04935
+HP1007
+HP1009
+HP1018
+HP_RS07960
+HP1127
+HP_RS05620
+HP1145
+HP1186
+HP1188
+HP1209
+HP1215
+HP1259
+HP_RS07965
+HP1353
+HP_RS06900
+HP1404
+HP_RS06940
+HP1425
+HP_RS07120
+HP1499
+HP1519
+HP1522
+HP1559
+HP_1587
+HP_RS07855
+HP1589
+HP1427
+HP1369
+HP0756
+HP0990
+HP0627
+HP0611
+HP0094
+HP0789
+HP1408
+HP0991
+HP0427
+HP0345
+HP0040
+HP1070
+HP0452
+HP0326B
+HP0594
+HP0433
+HP0326A
+G2DNV-43
+HP1216
+HP0460
+HP0905
+HP1019
+HP0938
+HP0992
+HP0733
+HP0903
+HP0999
+HP1354
+HP0521
+HP0206
+HP1587
+HP1426
+HP1432
+HP0981
+HP0503
+HP0628
+HP1370
+
+**********Solution:
+Check whether the genbank was downloaded or constructed correctly.
+
 
 
 
 #################### critical@org.get_rpod ####################
-********** RpoD randomly assigned to HP_RS03480-MONOMER
+********** RpoD randomly assigned to HP_RS05070-MONOMER
 
 **********Solution:
 genome.gb does not have a valid annotation for RpoD. A random identified sigma factor in me_builder.org.sigmas was set as RpoD so that the builder can continue running. Set the correct RpoD by running me_builder.org.rpod = correct_rpod
@@ -244,7 +387,6 @@ Check whether you need to correct RNAP by running me_builder.org.get_rna_polymer
 The following items triggered the warning:
 asn__L_c
 gln__L_c
-thr__L_c
 
 **********Solution:
 Check whether your organism should have a ligase for these amino acids, or if you need to add a reaction to get it (e.g. tRNA amidotransferases)
@@ -408,16 +550,15 @@ Map or remove these metabolites in me_metabolites.txt
 #################### critical@troubleshoot ####################
 ********** Some metabolites are necessary for growth
 The following items triggered the warning:
-TS_thmpp_c
 TS_4fe4s_c
-TS_accoa_c
-TS_pan4p_c
-TS_pi_c
-TS_pydx5p_c
+TS_fmn_c
+TS_thmpp_c
+TS_hco3_c
 TS_mn2_c
-TS_mg2_c
 TS_k_c
+TS_mg2_c
 TS_zn2_c
+TS_pydx5p_c
 TS_cobalt2_c
 
 **********Solution:

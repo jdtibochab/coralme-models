@@ -1,0 +1,5 @@
+,value
+RNA_degradosome,"{'enzymes': ['Eno_dim_mod_mg2(4)', 'Pnp_trim', 'RNase_E_tetra_mod_zn2(2)', 'RhlB_dim', 'Orn_dim_mod_mg2(2)']}"
+monocistronic,"{'enzymes': ['RNase_E_tetra_mod_zn2(2)', 'RNase_P_cplx_mod_mg2(2)', 'generic_RNase']}"
+polycistronic_wout_rRNA,"{'enzymes': ['RNase_E_tetra_mod_zn2(2)', 'RNase_P_cplx_mod_mg2(2)', 'generic_RNase', 'RNase_III_dim', 'RNase_G_dim']}"
+rRNA_containing,"{'enzymes': ['RNase_E_tetra_mod_zn2(2)', 'RNase_P_cplx_mod_mg2(2)', 'generic_RNase', 'RNase_III_dim_mod_mg2(2)', 'RNase_G_dim']}"

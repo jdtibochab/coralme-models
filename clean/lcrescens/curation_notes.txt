@@ -183,6 +183,112 @@ Fill genes in proteins.txt
 
 
 
+#################### high@org.update_genbank_from_files ####################
+********** Some feature in genbank are CDS but have no translation qualifier. Translated sequences from Biopython were filled in instead
+The following items triggered the warning:
+B488_RS02270
+B488_RS03135
+B488_RS06980
+B488_RS00170
+B488_RS03830
+B488_RS03140
+B488_RS01810
+B488_RS02280
+B488_RS07110
+B488_RS02290
+B488_RS04325
+B488_RS07105
+B488_RS05595
+B488_RS07070
+B488_RS06790
+B488_RS05980
+B488_RS03470
+B488_RS01535
+B488_RS07045
+B488_RS01095
+B488_RS02330
+B488_RS06405
+B488_RS07035
+B488_RS01120
+B488_RS06800
+B488_RS01460
+B488_RS01140
+B488_RS00965
+B488_RS05995
+B488_RS02360
+B488_RS01850
+B488_RS02365
+B488_RS02370
+B488_RS07030
+B488_RS07040
+B488_RS02520
+B488_RS03495
+B488_RS07020
+B488_RS06290
+B488_RS02830
+B488_RS05755
+B488_RS05330
+B488_RS04265
+B488_RS05055
+B488_RS06355
+B488_RS06825
+B488_RS03255
+B488_RS05070
+B488_RS03385
+B488_RS03270
+B488_RS01015
+B488_RS02415
+B488_RS07005
+B488_RS04415
+B488_RS03780
+B488_RS03670
+B488_RS06840
+B488_RS07015
+B488_RS02420
+B488_RS00335
+B488_RS03285
+B488_RS06165
+B488_RS03050
+B488_RS06045
+B488_RS01305
+B488_RS01910
+B488_RS06970
+B488_RS02430
+B488_RS05400
+B488_RS04270
+B488_RS03685
+B488_RS07090
+B488_RS06270
+B488_RS06755
+B488_RS07080
+B488_RS07085
+B488_RS03070
+B488_RS03075
+B488_RS05530
+B488_RS04875
+B488_RS05680
+B488_RS01340
+B488_RS03805
+B488_RS07115
+B488_RS04345
+B488_RS02890
+B488_RS01785
+B488_RS07120
+B488_RS00430
+B488_RS00920
+B488_RS06920
+B488_RS03820
+B488_RS03120
+B488_RS06925
+B488_RS02260
+B488_RS06085
+
+**********Solution:
+Check whether the genbank was downloaded or constructed correctly.
+
+
+
+
 #################### high@org.get_rpod ####################
 ********** B488_RS06505-MONOMER was identified as RpoD. If this is not true, define RpoD!
 
@@ -218,7 +324,6 @@ Curate them in ribosomal_proteins.txt
 The following items triggered the warning:
 asn__L_c
 gln__L_c
-gly_c
 lys__L_c
 
 **********Solution:
@@ -417,13 +522,14 @@ Map or remove these metabolites in me_metabolites.txt
 The following items triggered the warning:
 TS_orot_p
 TS_pydx5p_c
-TS_pi_c
+TS_fadh2_c
 TS_k_c
-TS_hemed_c
-TS_mn2_c
-TS_zn2_c
-TS_dpm_c
+TS_fad_c
 TS_mg2_c
+TS_dpm_c
+TS_zn2_c
+TS_mn2_c
+TS_hemed_c
 
 **********Solution:
 Fix the gaps by adding reactions or solving other warnings. If some items are from the E-matrix, fix these first!

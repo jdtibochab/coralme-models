@@ -42522,6 +42522,9 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS02270"
                      /product="B488_RS02270-MONOMER"
                      /transl_table=11
+                     /translation="MSRALIVLHNTMDRQKAMHWVKTAPAETRIEFRKPLRSLPQNNRM
+                     WAMLTDIATQARHHGTRLAAEDWKLIFLDALRKEMRIVPNLEGNGFVNLGRSSSNLTKE
+                     EMRDMIELMHEWGARNKIIFHDGEQS*"
 ORIGIN
         1 atgagccgtg ccctgattgt tctgcataac actatggatc gtcaaaaggc tatgcactgg
        61 gtcaaaacag ctcctgccga aacaaggata gagttcagga aacccttgcg cagtctgccg
@@ -42546,6 +42549,11 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS03135"
                      /product="B488_RS03135-MONOMER"
                      /transl_table=11
+                     /translation="LTKKPPCKKSIKTYFIRYFLVVLFFAFALVFLTEKIARIDSSNLG
+                     DFFFSLHKPAIITVLIVLVNMLIIDAIFGIAFISFIVAYPLILGLAFLSQQKQSYLPDP
+                     LLPYDILFGLQISKLVESIFFQQIWSIVIFGAGLLIFFIIFIFFIKIIWRILPRIQFIY
+                     RILCVAISIPLFTMFYYIIDLEHNSPSLVRMRDTLGIIPEVWDQASNYRRNGFIIAFAL
+                     NIPISNIKQPKNYNKQSINDIVDTIFAKEQ*"
 ORIGIN
         1 ttgactaaga aacctccttg caaaaagtca attaaaacgt attttattcg atattttttg
        61 gtggttttat tttttgcttt tgctcttgtt tttttaactg aaaaaattgc tcgtattgat
@@ -42577,6 +42585,11 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS06980"
                      /product="B488_RS06980-MONOMER"
                      /transl_table=11
+                     /translation="ISISDLKSKA*TQSPPRDFIGALLKKECEKNML*LQKLNQKVQVR
+                     VL*EKDFLSMMLLVPMIVVELLVYPY*LIFQVFKDQFIIFCRQKSFVVYLFYEKILCWI
+                     VIRYMKRVLRGRWYFVNYEYCS*SDSRRNRKLCAFIKNASFN*SS**ERFGEGFN*ESK
+                     IDKH**SNRDLRTFEIDINNSRRLSPLLPSGYIIVNESGIRSNDDCKSLKEVGISAFLI
+                     GEFLMREEDIEDANYRIISYN*"
 ORIGIN
         1 atttcgattt cagatttaaa atctaaggct taaactcaat ctccacctcg tgattttata
        61 ggagctctcc ttaaaaagga atgtgaaaaa aatatgcttt gattgcagaa gttaaatcag
@@ -42607,6 +42620,8 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS00170"
                      /product="B488_RS00170-MONOMER"
                      /transl_table=11
+                     /translation="MSITAERKRQLISEYAIKEGDTGSTEVQVSILTERISNLTVHFKE
+                     YKKDLSSRRGLLRLVSLRRSLLDYIKRKDEDRYKKIITRLGIRR*"
 ORIGIN
         1 atgtctatta ccgcagagcg taaaaggcaa cttataagtg agtatgctat aaaagaagga
        61 gacactggtt ctacagaggt gcaggtttct attcttactg aacgtatatc aaatcttact
@@ -42629,6 +42644,15 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS03830"
                      /product="B488_RS03830-MONOMER"
                      /transl_table=11
+                     /translation="MDNRKRFYITTAISYPNAKPHIGHAYELIATDALARFQRLDGKDV
+                     FFVTGTDEHGQKMQQTAKGEGITVAELAQRNTQAFRDMAVCLNISHDDFIQTTEQRHHQ
+                     CSQELWNRMLAKGDIYKGFYSGWYSVRDEAYYQESEIFLGDDNNHYGPQGTVVEWVEED
+                     SYFFRLSAYQESLLSLYNEKPDFIAPSERRNEIMAFVRSGLKDISISRSRKNLNWGIRV
+                     PNDPDHIMYVWVDALSNYLTATGVLEKEGNPRSSFWPANLQIIGKDIIRFHAVYWPAFL
+                     MSAGLSMPDRIFSHGFILNKGEKMSKSLGNVMDPVDLAERFGVDCLRYFFLREVSFGQD
+                     GSYNAENIITRMNADLANGIGNLTSRSLSMIFKHCDARIPEYQTLIPVDQTMLSSGDNL
+                     GKTVRDHMNAQEIHRALEKIMAVVSETDRYFAAQQPWALKTTDPVRMATVLYVTAEVIR
+                     QIALLLLPFIPASAGKILDFLSVPHSARFFSFLGEQGRLVPGMAVEMPWSVFPRYNA*"
 ORIGIN
         1 atggataaca ggaaaagatt ttatataaca acagccattt cgtatccgaa tgcgaaacct
        61 catattggtc atgcctatga attgattgca acggatgctc ttgcacgatt tcaacggctt
@@ -42672,6 +42696,14 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS03140"
                      /product="B488_RS03140-MONOMER"
                      /transl_table=11
+                     /translation="MILLIQYLQRSNSMKRREFLLNSSLFAATTLLNSMVAPVAYGSSD
+                     VTKETKISQSDRTPDIIAIMNESLWDPNRLSGITLTPDPMEFIRSNLSGYVFSPEFGGM
+                     TANVEFEFLTSFSNAFLPYGNVPYQNIRSPIPSLADFFRKQGYKVEAFHPYEGWFWNRS
+                     EVYKNFGFEKFLSKEILPPLEKHGVFASDEAFIKVIMNEADHSTDKPVFFFAVTLQGHG
+                     PYSPHRYPYERISILGLPEKEKEILSSYIEGVYEADKSFEMLINWAKKRKRDTIIVLFG
+                     DHLPPLSSVYVVSGYMKTPVAQRKAPFEIMKKEHETPLVLWSSWGGSVQLNTLSPSLLS
+                     YYILKLAGYEHPYYTEFLGKIVNNYSVIDRNVLLSSHNEETSSWIKRKIPPIISSWQLL
+                     QYDLMFGKQFSLEKLFANSQSIKKSG*"
 ORIGIN
         1 atgatattgt tgatacaata tttgcaaagg agcaatagta tgaaaaggcg tgaattttta
        61 ttaaattctt ctctttttgc tgcaactacg cttttgaatt ctatggttgc accagttgca
@@ -42712,6 +42744,9 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS01810"
                      /product="B488_RS01810-MONOMER"
                      /transl_table=11
+                     /translation="IMGKSVTRLSLVTSVLKRVGLSRNESSYLVGFMIDEICNAIIRED
+                     IVKLSSFATFQIRKKNQRVGRNPRTGEELIILKRRVMTFKASGVLKKRILNAHVARNAK
+                     SFDVLILSLFCLLFCMHFLYGLAFLNL*"
 ORIGIN
         1 ataatgggta agtctgtaac cagattaagt ttggtaacgt ctgtgttgaa aagggttggt
        61 ttatctagga atgaatcttc ttatcttgtg ggttttatga ttgatgaaat ttgtaatgcc
@@ -42736,6 +42771,11 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS02280"
                      /product="B488_RS02280-MONOMER"
                      /transl_table=11
+                     /translation="MNNIVEHNTETMEIMPAGTSAIRTTEEHEITRELTPVELLQMAIR
+                     DRVNVEIIERLMELNKRWEDNKACKAFYEAISDARAEIPVIFKNNQGHNYKYEDIASIA
+                     ATIDPILARHGLCYRFHTESTKELVTVTCIISHKDGHRERNSLSAPPDEAMGNRKNYNH
+                     SIGSTVTYLSRYTLRAALGLAASADDDGTYARYNNGQASAIANDNAPVNPQQLLQIKKL
+                     MAEASVSEERICSICKVDNIENIPSRFFNSVIAKLNQSLRLQMEQQQKEAAHV*"
 ORIGIN
         1 atgaacaata tcgtcgaaca taatactgaa acaatggaaa ttatgccagc aggaacttct
        61 gcaatcagga caacagaaga acacgaaata acaagagaat tgacgcctgt ggaattgctc
@@ -42767,6 +42807,8 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS07110"
                      /product="B488_RS07110-MONOMER"
                      /transl_table=11
+                     /translation="MADFVAVIRRAVDSLPENTPEMRARLYERARGAVVRQLEAMKPRP
+                     SEDILSRQFDKLEKAIFQVE"
 ORIGIN
         1 atggcggatt ttgtagcagt aattcgaagg gctgtagata gtttaccaga aaatactcca
        61 gagatgcgtg ctcgcctcta cgagagagca cgtggtgctg ttgttcggca gttggaggct
@@ -42788,6 +42830,9 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS02290"
                      /product="B488_RS02290-MONOMER"
                      /transl_table=11
+                     /translation="MTEVTNPVNTFITQLRRFDSEYQDISTGISCYSNEHSTSFQGIIE
+                     SFSSFLVLYAKIHAPKADLGRMEDDLGYAQSEVSDAFHAAWKEEAAEENEDDRYDPREE
+                     HFDQRDYL*"
 ORIGIN
         1 atgacagagg ttacaaatcc cgtcaataca ttcataacac aactccgcag gttcgatagc
        61 gaatatcagg atatcagtac aggcatctcc tgttactcaa acgagcatag cacttctttt
@@ -42811,6 +42856,8 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS04325"
                      /product="B488_RS04325-MONOMER"
                      /transl_table=11
+                     /translation="MNAQAEKKESQPKNTLETRVTRLETGFEYLATKADIASVRTEIAN
+                     VENRLNDKIHTEVSELRKSADRDFRILFGALIAVALGLDGDSWPKAYIGC"
 ORIGIN
         1 atgaacgcac aggccgaaaa gaaagaatct caaccgaaaa atacccttga aacgagagta
        61 acaaggctgg aaacaggttt cgagtatctc gcaacaaagg ctgatatcgc cagtgttcga
@@ -42833,6 +42880,8 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS07105"
                      /product="B488_RS07105-MONOMER"
                      /transl_table=11
+                     /translation="MIETYCSAYRISETTLSTYIFNDGKRINSIRRGSDVGTRRLESAF
+                     RWLYDRWPENTPWPDNISHPDIFGPAPDNEDTSEQ*"
 ORIGIN
         1 atgattgaaa cgtattgctc tgcatatagg atatcagaga cgactttatc tacgtatatt
        61 ttcaatgatg gtaaacggat taactccata agaaggggtt ctgacgttgg cacacgtaga
@@ -42856,6 +42905,17 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS05595"
                      /product="B488_RS05595-MONOMER"
                      /transl_table=11
+                     /translation="MTLYNASPLVVNRSLIPNIFDVLALGLVIGGIILLVYGIHETTLP
+                     KTLVDLTPVSLDWWRLPEYALRTTLRMLAAVIFSLLFTFIYATLAAKNRYAKIVLIPIL
+                     DILQSVPILGFLTFTVIFFMNLYPGRVLGAELAAIFAIFTSQTWNMTFSFYQSLCNIPK
+                     DLEEVSHSFRLSNWQRFWKLDVPFSMPGLVWNTMMSMSGSWFLLLLLKQLQSMIL**LF
+                     QGLVHMLV*QLKIRICQL*GMLC*QCC**LFFMISCYFDLLLLGQISFVLNKQYQRLLL
+                     IPGY*IFFAELRHCVLLLIVLKRYFL*LAIFSKKYLFYRIKFIIILQNF*RFHDIISRY
+                     IVLWEFFGFLLFFL*HYIYLGKHLNIFIQL*GIMMF*MQ*ILA*LLC*E*HFL*LLQL*
+                     SGFP*EHGLAFVQKFLQKFNH*HNFLQHFRPILLFHLSLHLLFIINLILIFGYHH**YW
+                     VLNGIFFLMLLQVPVHFQMI*ER*QKVFMLKDGVGGKMLLFQVFSLIISLEPLQLLVGL
+                     GMPVLFLK**VGEI*SSVQKDWEHILPKQLRKGIFRKLFLGLL*CVFLFFFLIVFYGDL
+                     SIYIVSVIFVLI"
 ORIGIN
         1 atgactttat acaatgcttc tcctttggtt gtaaatcgta gtcttatacc aaatattttt
        61 gatgtattgg cacttggatt agtgatagga ggaataattc tactggttta tggtattcat
@@ -42903,6 +42963,8 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS07070"
                      /product="B488_RS07070-MONOMER"
                      /transl_table=11
+                     /translation="IINFNRSNHTQSLSFSSGIHYCLGARLASLELEIALHDLLLRLPS
+                     MKLVNLDSIQWQQKNGTMRGVQSLIVSL*"
 ORIGIN
         1 atcatcaatt tcaaccgtag taatcataca caatctctta gcttttcttc aggtattcac
        61 tattgcctcg gagcacgttt agcatctctt gaacttgaaa ttgcattaca tgacttatta
@@ -42924,6 +42986,8 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS06790"
                      /product="B488_RS06790-MONOMER"
                      /transl_table=11
+                     /translation="MNAQAEKKESQPKNTLETRVTRLETGFDYLATKEDLANVRADLKE
+                     DIANVEVRLNDKIHTEVSELRKAADRDFRILFGALIALGLGLSGLMAKGFHWL*"
 ORIGIN
         1 atgaacgcac aagccgaaaa gaaagaatct caaccgaaaa ataccctcga aacgagagta
        61 acaagactgg aaacaggctt tgactatctc gcaacaaagg aagatctggc aaatgtgcgg
@@ -42946,6 +43010,9 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS05980"
                      /product="B488_RS05980-MONOMER"
                      /transl_table=11
+                     /translation="MNFYKNTLLFIGGGIGTLARYGLSMLALPISKDFPINTMIINITG
+                     SFIIGLFGTLTLASGKFPVPEDIRLFVMVGLCGGFTTFSSFSLQTLDLIRNGLIIRALV
+                     NIGLSVILCLCSVTIGHVTANYLNGRVI*"
 ORIGIN
         1 atgaatttct ataaaaatac tctcttattt atcggaggtg ggataggtac acttgcccgc
        61 tatggtctgt cgatgttagc attgccaata agcaaagatt tcccgataaa caccatgatc
@@ -42970,6 +43037,9 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS03470"
                      /product="B488_RS03470-MONOMER"
                      /transl_table=11
+                     /translation="MLKTSDFLIISVMIATAFITYSIKHRSELKREEVVRLEEAIKLEN
+                     DTIDLLKVDWALLTQPSRLSTLGVFYKKELQLQPTDPLALALPVELPMLRSELPLDNRL
+                     IASQMNKPKIDLSQQKKFIKNKKLVFDNKGFDNLVTGAVQH*"
 ORIGIN
         1 atgttaaaaa cttctgattt cttgatcata agcgtcatga tagcaactgc ttttataacc
        61 tattcaatca agcatcgttc ggagttaaaa cgtgaagaag ttgttcgtct tgaagaagca
@@ -42995,6 +43065,12 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS01535"
                      /product="B488_RS01535-MONOMER"
                      /transl_table=11
+                     /translation="MDLSQFSSPEFIINPYPFYEEVRSLGAVVPISPHIVISARYESVR
+                     EMLHDSRIGKDHIQSIRIRYGEEASQGPVFQSFSRMMLMLDPPVHYKVRSLLTKAFTAQ
+                     RVESLRETIQNISNRLINNLVNQLKKHKEIDLAAEYAFKLPVEIICKLLNIPVQDGEKY
+                     GEAARKSVQALNFTPLTAQQISEANAAILSLENYFSKVIAERHKKTGDDLISALLTTKE
+                     NDIFLSDDEIISNVILMFIAGHETTSNMISNALISLYKQPEQLNLLRNDSSLMPKAVTE
+                     CLRLDSSVQIVGRVALNDLEISGFHIKCGTIIFLMIGAANRDP*"
 ORIGIN
         1 atggatttaa gtcaattttc ttcccctgaa tttattataa atccataccc tttttatgag
        61 gaagtacgat ctcttggtgc agttgttcct atatctcctc atattgtaat ctcggcacgt
@@ -43030,6 +43106,15 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS07045"
                      /product="B488_RS07045-MONOMER"
                      /transl_table=11
+                     /translation="IAYSLKNVLRLYGAFGYDTVFQFEK*T*NYSAQMNKEM*FSIYLM
+                     KSIYR*LLFKGMK*LV*FL*RKDGISTEGKGHEIKPEPFSLY*YHSSTSRP*ASRI*RS
+                     NYKSKRKI*TW*RSNSRS*TNSKITEFTKGSSRINNVS*C*PK**ESCL*TGLSKSVRT
+                     TSN*NIFSSYTPVDHIQGILRDEIDAFDGFLSHAWAVTVTGAPKLSAIRFLESHGKSPR
+                     SWYGGVIGWIDFNRNMNTGLTLRTMHIKNGIAEVRVGATLLSDSNPDKEETETELKASA
+                     LLSAIRNDIPKSNMNSETHKPGKGLRILFIDHEDSFVHTLANYFRQTGAEVLTIRTPIS
+                     QEILNIFSPHLSVLSPGPGMPDDFNCKTTINMLRQNKIPIFGVCLGLQAIAEAYGSKLR
+                     YLPEPIHGKPSTIYVQNPGIVFAGLNNKITVGRYHSICIDPDTLPKEFIVTAKSEDGTI
+                     MGIEHINEPISAVQFHPESIMTLGDNAGMLMIRNIVSNITIKNTYPDSL*"
 ORIGIN
         1 atagcttatt ctttaaaaaa cgtgctaaga ctctatggag catttggcta tgacacggta
        61 tttcaatttg aaaaatagac ttgaaattac agcgcccaga tgaacaaaga gatgtagttc
@@ -43074,6 +43159,10 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS01095"
                      /product="B488_RS01095-MONOMER"
                      /transl_table=11
+                     /translation="MSSIVFSKILQNIYRYLRYTLFLGVISINICSSALSESLLQTGVV
+                     KSKHGAWSILCEKPAGASREQCALMQNVIAEDKPDIGLSIIVLNTVDHKSRILRVLAPL
+                     GILLPNGLGLSIDGKDIGKTYFVRCSSDGCYAEVILEDELMNALKNGTTATFILFQTPE
+                     EGIGIPVDLKGFSNGYEVLP*"
 ORIGIN
         1 atgagttcca ttgttttttc aaaaatcctt caaaacattt accgatattt acggtacacc
        61 ttatttctag gtgttatcag cataaatatt tgttcatcag cactttcaga atcattgtta
@@ -43101,6 +43190,8 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS02330"
                      /product="B488_RS02330-MONOMER"
                      /transl_table=11
+                     /translation="MSETSLDNRVTHLEEGFKGLNNRFDRLEGKIDSEFKENRNKLETI
+                     TEKINAQGISLAELKGKIGGVHITIVSTGIILGIIYTVFQLVHLIPVTH*"
 ORIGIN
         1 atgtcagaga catctttaga taacagagta acgcatctcg aagaaggttt taaaggcctg
        61 aacaaccgtt ttgacaggct tgaaggtaaa attgattccg agtttaaaga aaatagaaat
@@ -43144,6 +43235,11 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS06405"
                      /product="B488_RS06405-MONOMER"
                      /transl_table=11
+                     /translation="LFSCHKKYLKRDIVNIVAYYINLEDSKVRRCNIEENSKLISLEII
+                     RIPALNGYRVSSEERYNFSYWIFSLINGRKLMPGEYGCYYSHVAALEKFVSDGHEAALI
+                     LEDDVLLPKDLLQRCKSILKAVPYADVIKIRNHRKVGFIPATKTDMGDYLGYCLHGPHG
+                     SSAAYLVTRNSAIKLLRRLKPMCLPYDMMLELTWFYRTIVYVVYSDFIFPSEQAIHSRI
+                     FDISSKQKFYPLKRIPAYIFRSVDALARVIYALFLPIIHIVLKTFTRDRSV*"
 ORIGIN
         1 ctgttttcct gccataaaaa ataccttaaa agggatatcg tgaatatagt agcttattat
        61 attaacctag aagattcaaa ggtacgtcga tgtaatattg aagagaattc gaagttgata
@@ -43176,6 +43272,11 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS07035"
                      /product="B488_RS07035-MONOMER"
                      /transl_table=11
+                     /translation="MEHTTLEQHVPLNKKECVLSVSNMTVVLNKKTIFKNLDLQVYRGE
+                     IIGIIGASGTGKSVLMRAILRLIPRISGKIFIFGNDYDSFTEQQQIAMDTKLGVLFQHG
+                     ALFSSLTVIENIAFPIREYLNLPIEAIHEIARLKIAMVGLPLESADRYPSELSGGMIKR
+                     AALARALALDPDLIFLDEPTSGLDPISAAEFDELILKLRDTLGLTVYMITHDLDSLYTI
+                     CDRIAVINKTIIAEGGIQDILNVDEPWIQAYFNGKRARMIMKD"
 ORIGIN
         1 atggaacaca caactcttga acaacatgtt cccctgaaca aaaaagaatg tgtattatct
        61 gtctctaata tgactgttgt tctgaataaa aaaacaatat ttaaaaatct tgatcttcag
@@ -43207,6 +43308,15 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS01120"
                      /product="B488_RS01120-MONOMER"
                      /transl_table=11
+                     /translation="MISHLKIESLKNMEPEQIILQSGRISKFIARAGIASRREVENMIK
+                     QGRVKVNGMLLDTPVINVTSEDQIEIDGKALRKKDKTRLWLYYKPSGCVTTNFDPEGRP
+                     TVFERLPDNLPRVITIGRLDINTEGLLLLTNDGGLSRILELPSTGWLRRYRVRAYGHID
+                     QSKLDKLATGLTIDGIVYKSIQATLDSVKGSNVWITMGLREGKNREIKKIFEVLGLKVN
+                     RLIRISYGPFQLGEMSEGDIIEVRSRVLRDQLGPNLVEQAGVSFDAPVYCSEVAVQNNV
+                     RKAPINNYNTVHYKNDRKRDRITDKPREEIRSSLWAKRTSRSSNIWRAPDIYSSRFTKV
+                     GTDLRKKSFKDTKQEKPYTDLSFVKGSKNIKFLNKEHRKRDYIHESEDKAHKYHKKHQG
+                     NHRSQFSGRVKYNKIIGEENHQGRRFSGEGNKEFSPKRIDYKESMNPKGRNKKDENRWR
+                     *"
 ORIGIN
         1 atgatttcgc atctaaaaat agagtcctta aagaatatgg aacctgaaca aatcatttta
        61 caatctggta gaatatcaaa atttatagca cgtgctggga ttgcttctcg acgtgaggta
@@ -43248,6 +43358,9 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS06800"
                      /product="B488_RS06800-MONOMER"
                      /transl_table=11
+                     /translation="MTDYIDFGERLRLARIRSGYPSVKEAAEAIGVPYSTYAGHENGHR
+                     SPYDYAVRYAKFFKVSLDWLFTGKESNYKAFEIEDSTGVEKLLDIYVGVDKVTKEKLLK
+                     IAEILALESVNEASQTLSYVSNTPDNLCTMEEKRKKKRMR*"
 ORIGIN
         1 atgacagatt atatagattt tggtgagcgt cttagattgg cgcgtattag gtccgggtat
        61 ccttcggtaa aagaggctgc agaggctata ggagtgccat actctacgta tgcgggccac
@@ -43273,6 +43386,9 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS01460"
                      /product="B488_RS01460-MONOMER"
                      /transl_table=11
+                     /translation="MNIIKITEKFSISSQPLLTDFSELKRKGFVKIINNRCDNEEPGQL
+                     TSENEREAAYAIGLEYAHIPISGRMNITDVNKNDFLHAINSSPQPVIAHCKSGARSFGL
+                     WIKSGIFKIQDEQELLEIAERLGLDKKLAANWINTLRNENL*"
 ORIGIN
         1 atgaatatta ttaaaataac tgaaaaattt tcaatttcat ctcaaccatt attaacggat
        61 ttttctgaac ttaaacgcaa aggttttgtt aagatcatta ataatcgttg tgataatgaa
@@ -43298,6 +43414,9 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS01140"
                      /product="B488_RS01140-MONOMER"
                      /transl_table=11
+                     /translation="VYTAPFVDFNSLQSSSSFYEYTSAYMKSAITLHRLHRYKGTSLVN
+                     SHHDTGTGVWGSGEISLFSSFWNEGKEAGLPDECRTHGLRKAGATIAANAGASTTETPK
+                     KVRDLKKKRNKINEL*"
 ORIGIN
         1 gtgtataccg caccttttgt tgactttaat tctctacaaa gttcatcatc attttatgaa
        61 tacacgagtg cctatatgaa atcggccatc acactgcatc gcttgcatcg ctataaaggc
@@ -43321,6 +43440,14 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS00965"
                      /product="B488_RS00965-MONOMER"
                      /transl_table=11
+                     /translation="MIALPIAFAGFPLYIFAPDFYATRYGISLTLLGTILLLIRLFDAV
+                     EDLVIGWIADRLQGRFFSLVGIAGILLSLSIFGLFNVVFFSPVIWFILCMIIAVGAYSV
+                     LTIILGSYATLWTENKDDQTRIAAAREAFGLIGLIIAVSMPSFLFHIVNPNHVFIWYGV
+                     ILAILMLGSMLGFYQIFSPLFYVEMSRKKQSSSFLSGLCALPKQSIRLFIVYFVSMVAS
+                     SIPAVLVIFYVRDFLEAENLIGVFLFFYFLSGVLGIPFWKKASKYFGKYKAWFLSNIPA
+                     ILGFYALFLGAKHVDLYCMVCLISGFSLGADLILPPSILSDDIHAHKNSQFSATHYALL
+                     AFISKASFALASAIALPVLDLAGFRPQALNTENALKVLSVCYSLIPCILKLVSAVLLYA
+                     FFIRSQSGVNNETI*"
 ORIGIN
         1 atgattgctt tacccatagc ctttgctggg tttccgttgt atatttttgc acctgatttc
        61 tatgccaccc gttatggtat ttcgttaacg ttgcttggga caattttatt attgattcgc
@@ -43360,6 +43487,10 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS05995"
                      /product="B488_RS05995-MONOMER"
                      /transl_table=11
+                     /translation="MQSTRFLLLSTISLIIFIIVFLMTIQNQIFIKSFSQKQKKISNQD
+                     IQYTGLPFIIDGDSLEIGGKRFRLFGIDSPEFDQLCTKKGKQYSCGKESTIALKNLIKN
+                     KTINCTKQNVDSYQRILVICFLDQIEINRWMVINGYALAYQHYSDRYINDEIKARMLKV
+                     GIWSGSFEKPWKYRHKKHNTILLSR*"
 ORIGIN
         1 atgcaatcaa caagatttct tttactctct acaatatctc ttattatatt cattattgta
        61 tttttaatga caatacaaaa tcaaattttc attaaatcat tttctcaaaa gcaaaaaaaa
@@ -43387,6 +43518,9 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS02360"
                      /product="B488_RS02360-MONOMER"
                      /transl_table=11
+                     /translation="MSVLVACITVDTKMRQIGNGKRFVSFQKSSTSIFPCFILLWNARP
+                     HIVSLQELIDGIYGQEKGRHITSARIFHIIFCIRRRLAPLDINIERVRGKGFRIPMERV
+                     Q*"
 ORIGIN
         1 atgagtgttc tggtcgcctg tattactgtc gataccaaaa tgagacagat aggaaatggc
        61 aaacggtttg tatctttcca aaaatcgagt acctccatat ttccatgttt tattctcctg
@@ -43410,6 +43544,25 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS01850"
                      /product="B488_RS01850-MONOMER"
                      /transl_table=11
+                     /translation="MYTDYGYNQKHNSLRVKRNVGGNHQGMLPETDVHPVGVTEQSSLA
+                     GRQKNNEQRSHTGGVDTGPGSAGEIVNSEAPSPSGVVTAKITSLGEGVTDTNSPTGDAG
+                     KGAGSVVTPGQNQDSVVTPDQNQDSVVTPVHVQTSPSEVVNAKTLSPDEGVTTQASSPG
+                     DVGGKEVTASDQPDLKKFNPLVYVASHSDLIADAVNKGHSTKQAISDYGIWHYNNYGHK
+                     EHRKINFDYNKYMKNYMEKCNAVVKKVMQSTDSTSTTKELAMSELDDKLEEEIALSYIL
+                     EKPDAAINADNALQYVASHSDLIADALNKGHSTKQAISDYGIWHYNNYGHKEHRKINFD
+                     FKGYLKKHEGEAKYANIVTNMDRLEKSLLREETLLNKDFYSKVIAEKNKLKEQLALDYI
+                     LEKPDAAINADNVIQYVASHSDLIADALNKGHSTKQAISDYGIWHYNNYGHKEHRKINF
+                     DFKGYLKKHEGEAKYDNLQGNALKEQLALDYILEKPDAAINADNVIQYVASHSDLIADA
+                     LNKGHSTKQAISDYGIWHYNNYGHKEHRKINFDFKGYLKKHEGEAKYDNLQGNALNEQL
+                     ALDYILEKRGSATGQVVAAQTSENTPVQQNQNSDKDTVQKQDSADKSVKVETPPSEVVA
+                     STETSDKSQKPAVTPDQPQNPPKGVGTGPGSTINSDESSVAAQASSNSDSTTKTLDQPQ
+                     NPPKGVGTGPGSTINSDESSVAAQASSNSDSTTKTLDQPQNPPKGAGTGTGSPLGNVGG
+                     EHEKVVIDVDKPPRIKLISSTEQQVSGNQQKDAQNQDSGETSVKVETPPSGATDTGLGT
+                     SVPQQKSEGTPVQQQQSEQPYVQPQPPPSGATDTGLGTSVQQQKSEGTPVQQQQSEQPY
+                     VQPQTPPSGATDTGLGTSVQQQKSEGTPVQQQQSEQPYVQPQTPPSGATDTGLGTSVPQ
+                     QKSEGTPVQQQQSEQPSVQPQTPISDGAGLGSHTSGVDSEHKKATLDPGRKIDLIDKPY
+                     TQQSLQDALDHLNHLPPRPDENEGQHGFNPDKPLNYGSSGESHNNLYFKEDESVPHTHD
+                     DLHAHDGLHAHDGLHAA*"
 ORIGIN
         1 atgtataccg attatggtta taaccagaag cataattctt tacgtgttaa aagaaatgtt
        61 ggcggcaatc atcaaggcat gttgcctgag actgatgttc atccagttgg tgtcacggag
@@ -43481,6 +43634,8 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS02365"
                      /product="B488_RS02365-MONOMER"
                      /transl_table=11
+                     /translation="MIPEDCLREMEFDLFRAMLCDEEFLRDWFDRIMEEKPMLFFEIVG
+                     AVLVFVFIGTEAGRYDLKRLFQWVKSRIGRKKI*"
 ORIGIN
         1 atgatccccg aggattgttt gagggaaatg gagtttgatc ttttcagggc gatgctttgt
        61 gacgaggagt ttttaagaga ctggtttgac aggataatgg aggagaagcc gatgttgttt
@@ -43522,6 +43677,9 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS02370"
                      /product="B488_RS02370-MONOMER"
                      /transl_table=11
+                     /translation="MMSGLSVSGTWRRTKYGSVRTTRDGTCFASKAEADYYGRLKMLEK
+                     SGEVSQVVLQPSYPVIINGIKVFTYRADFSFYDVHDQRFRVVDVKGYDTPISKLKRKCV
+                     KAMYDIDVEVVRSS*"
 ORIGIN
         1 atgatgtctg gattgagtgt ttctgggacg tggaggagaa cgaagtacgg ttctgtgaga
        61 acgacacgtg acggcacttg ttttgcgagt aaagccgaag cggactatta cggacgttta
@@ -43546,6 +43704,10 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS07030"
                      /product="B488_RS07030-MONOMER"
                      /transl_table=11
+                     /translation="IFAGEFIFFNPELLFSQVIYKESTGYYNLTTRPLKDLGKTIKNLD
+                     EEIYKHSTSGLKHPGIAQIDFDTQLFYKNRNHFCYPSEPVVTLTVRIILPYWKNKKYAL
+                     PEIALIWDSFSFDIKRHEEHHAEIARIHAHQLYNSLKSLKKTNDCRLFQKNADKITRHH
+                     MNIHDKDQHQFDIIDGKNFSRRIRKILVHHIKKSGF*"
 ORIGIN
         1 atttttgctg gcgagtttat tttttttaac cctgaacttc tcttttcaca agtcatctat
        61 aaagaatcaa caggttatta taatttaacc acaagacctt taaaagacct tggcaagacg
@@ -43574,6 +43736,11 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS07040"
                      /product="B488_RS07040-MONOMER"
                      /transl_table=11
+                     /translation="MPEPSVSRSVSEPSVSRSVSELSVSRSVSEPSVSRSVSEPSVSRS
+                     VSEPSVSRSVSEPSVSRSVSEPSVSRSVSEPSVSESSFSEPSVSRSVSEPSVSRSVSEP
+                     SVSRSVSEPSVSRSVSEPSVSRSVSEPSVSRSVSEPSVSRSVSEPSVSRSVSEPSVSRS
+                     VSEPSVSRSVSEPSVSRSVSEPSVYESSFKKEEDADSLLLSPDVGDKVSSSFNELMHAL
+                     KEASYRSLDEISEEILRPMLREWLDDNLPKMVERLVREEIERVARGSRR*"
 ORIGIN
         1 atgccagagc catcggtttc tagatctgtt tcagaaccat cggtttctag atctgtttcg
        61 gagctatcgg tttctagatc tgtttcagag ccatcggttt ctagatctgt ttcggagcca
@@ -43605,6 +43772,8 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS02520"
                      /product="B488_RS02520-MONOMER"
                      /transl_table=11
+                     /translation="MKQHRKAWWRSKTIWFNTGVLFVCTIADNVDRLNGLVGDHLFRVL
+                     AFVLPVTGVMLRLMTTQGVHSGKDDGGDETS*"
 ORIGIN
         1 atgaagcagc atagaaaagc atggtggcgg agtaaaacga tatggttcaa tacaggagtt
        61 ctttttgtct gtacgattgc cgacaacgtt gacaggctca acggtcttgt tggcgatcat
@@ -43627,6 +43796,13 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS03495"
                      /product="B488_RS03495-MONOMER"
                      /transl_table=11
+                     /translation="MKYGIEDICFYTSNYYLDLSMIASKYGINVEKFYTGIGQEKIALV
+                     PPDEDIVTMAAAATLPILEKQDKNLIRTLLFATESSVDQSKSAGIWLHKLIELPSTCRI
+                     IELKQACYGATGALHMACALVARAPEYKVLVIASDIARYDLNSSGEPTQGCGAVAILVS
+                     SKASILEIEPITGLHAEDVMDFWRPNYRKTALVDGKYSTKIYLQSLKNSWQDYCKQGGH
+                     EFHTFDHFCYHQPFTRMAEKAHIHLAKTSGAVLSQSKIDQAIALTTIYNRIIGNSYTAS
+                     LYIALISLLDHSSNNLSGCRIGLFSYGSGCVSEFFSGIIQENYHKNLHQQYHHDVLHHR
+                     VPVDYEKYEKLHEYTYPTDDGVYEIPHETKGPFRLAAINNHKRIYK"
 ORIGIN
         1 atgaaatatg gtatcgaaga tatatgcttc tatacatcca attattacct tgatctatcc
        61 atgatagcat ctaaatatgg tataaatgta gagaaatttt atactgggat tggacaagaa
@@ -43664,6 +43840,12 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS07020"
                      /product="B488_RS07020-MONOMER"
                      /transl_table=11
+                     /translation="MSKKTICASSPGKIILSGEYSVLYGASALATSISLRLTASIVALE
+                     KPVIRLLGKEIIEKSLEECEKLIHHIDQQYEKFVSGFLPITSVLQKMSDLQFYILGRYF
+                     NSLSRQGISMKINSEIPIASGFGSSSSIISAIALASATFVEKPFESKEQLISEVRYIER
+                     LQHGRSGMIDATTIVYGGIVHIRNTIKKLKSLPGEWWAVNTGKPESSTGECITAVNKAF
+                     GNSTIWDKFNSVTNDIIDTLNTGNETALINAIKQNQLLLETIGIVPESVRQFIRCVEKK
+                     GGAAKVSGAGSMKGENAGLVIVRGYNPEELAHSFGYPCYAIKCDENGTLLKKNIC*"
 ORIGIN
         1 atgagtaaaa aaacaatatg tgcgagttct cctggtaaaa tcattttaag tggtgaatat
        61 tccgttcttt atggagcttc tgctcttgct acatcaattt ctttacgttt gacagcttct
@@ -43698,6 +43880,9 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS06290"
                      /product="B488_RS06290-MONOMER"
                      /transl_table=11
+                     /translation="MKFIMTIIIFATYIIFYINPALAENKNQIHIPMGESKIIKFDMPI
+                     SKVIIGDVRVLDAIETDPQTIVLTTKNYGSTNLVILDKEGNIVIDKTVIVTVSENNTVR
+                     IYRQTKREVFSCNPNCESNEIIPNTVK*"
 ORIGIN
         1 atgaaattta taatgaccat tataattttt gctacgtata ttatttttta tataaaccct
        61 gctctagctg aaaacaaaaa tcaaattcat ataccaatgg gtgaatctaa aataattaaa
@@ -43722,6 +43907,10 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS02830"
                      /product="B488_RS02830-MONOMER"
                      /transl_table=11
+                     /translation="MKVPTRVVMTTFAFAVTACSSLNNNLQQHSSVHKSFIEGIWEDQN
+                     GIISTFQSDGTFKTHSTDGSNTTLATGFYRQTSATEVDIDMTSLVRNSLQRIHCSLVKE
+                     EKLSCTSENNSHFSLSRSKFTPPPNNPLSLSSPQNPPQVSQDTTQILSSGTQTTQTTQS
+                     SHGIPTAPSPDMPPPSQSQIED*"
 ORIGIN
         1 atgaaagtac caactcgtgt tgtgatgact acttttgctt ttgcagtcac cgcttgttct
        61 tctttaaaca ataatctaca acaacattct tctgttcata aatcctttat agaaggaatc
@@ -43750,6 +43939,17 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS05755"
                      /product="B488_RS05755-MONOMER"
                      /transl_table=11
+                     /translation="MIVFGSSLAAAFLFLLGISKLFGIHTKQKKMINDPSYIDRLIFAL
+                     HSTIISSASFSIFLVSFLLFIQELDIITGDLIPITSITFSLIGFIYFCWKLIISILSPS
+                     LPQWRLVPISNKGSDWLLIYALILVIVSSFDYYFEMISTKSNSIIALNSFSALITGLTL
+                     IAISFLKPISDRKDAPETPGKAWPYIIIIAIRSVSIFLIIATLSGYIGLAHFVSKQIVI
+                     TSSVLIIMYIGVLAGKSISKEGNFAETRIGRSLINNFHLGQVSIDQIGLAAGLGIDVLA
+                     IIISIPLILLSLGFSPDDLQNWIYHLFTEIRIGNIRISLLGILAGIAIFCFGLLITRWA
+                     QRWLDKNIMARSQTDIGVRNSVEMGVGYLGYAIAAIIGISAAGINLSSLALVASALSLG
+                     IGFGLQTIVSNFVSGLILLIERPFKVGDWIVSGTTEGIVRRISVRATEIETFQHQSIIV
+                     PNSQFINISVGNWTHRNTLGRIDISLSTPITPTDPDKVMKIMQEVAVNNPLVLRNPPPI
+                     IIFSDIQQNSFLFELRVNVANILSGTKVRNELRVSLVENLRKGKIVPFVIAPDDELTKL
+                     RKQAYASFPEVMQNGTSNLIFTDTEQQ*"
 ORIGIN
         1 atgattgttt ttggaagctc tttagcagca gcctttcttt ttcttttagg aatttctaaa
        61 ctatttggta tccataccaa acaaaagaaa atgattaacg atccatcata tattgatcgc
@@ -43799,6 +43999,20 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS05330"
                      /product="B488_RS05330-MONOMER"
                      /transl_table=11
+                     /translation="MLKFKNLVPVIFTLLSFKLLLNQYFLKKFSISKPSFADKGFKNKI
+                     YKPLYLQLSNSIKTELEYGRPFIFIPVFLAFGATLWFLQEKNISLSLIVTGFILSTIST
+                     ILSSRCSLAMFLFTGAITCTFMGAILAASETKRKPKIMLFKPITVELRGLIEKREAMGN
+                     EKWRYLVKILDVKGISLDSFPQRAIISTVIKHKPFMQGKIIQGLARLSPPSGPVLPRLF
+                     DFRFFSYFKSIGANGYFYGLPILSQYTDKDPKPSLISQLSMLLDRARTYIGEYIRHKIP
+                     GDSGAFAAALVTDERRAISLETNEALRKSGLSHIIAISGLNMAIAAGLSFLGIRKTLSL
+                     FPNFTERFAIKKIAAFGALFTVTIYFLISGFSVSAQRAYLMTVITLISILLDRISICLH
+                     NIALTALVILFITPSEVMGPSFQMSFAATIALVASYTKWENKAISHPLLKTFRYGIIIT
+                     GIIDFFKKILLTSLISSLATSLFLIQHFHNIVVYGFLANLAAIPLLSFIVIPAAFATIF
+                     LIPLSLDHIPLQIMGWGLELIIAIAQSISRWGNVIYIGRIPSVLFISLLIGFLILTLLK
+                     TALCHIGTIIIVLSMSAFFFLHPTPKPDLLISDNGRLVAFVKEDTLFTNRTNPPRFIFS
+                     QWQTALAAKNHQKPQKINNKRIPSEWDQKSIKILLNSFPFRQFVCIDKLLCTGQHETGT
+                     IISVIEKIESINIACKTSDVIVTAINIDPALCNVRLLITPKILRKSGSLEIIIIKSPKK
+                     NEKPTFVIKNSTNDTERPWRYSTQPQFKD*"
 ORIGIN
         1 atgttgaaat ttaaaaactt agtaccagtt atattcactc ttctatcttt caagttatta
        61 cttaaccaat attttttgaa aaaattttct atttcaaaac ctagctttgc cgataaagga
@@ -43856,6 +44070,8 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS04265"
                      /product="B488_RS04265-MONOMER"
                      /transl_table=11
+                     /translation="MTLVYAILGVILALFSAFAAGHRKGKASAQEADRKESERVLNKKE
+                     MILIVVLVLPMLLTSA*"
 ORIGIN
         1 atgactttag tctatgcgat tttgggagtc attctggcac ttttctcggc atttgctgca
        61 gggcatagaa aggggaaggc atcagcacag gaagcagaca gaaaggaatc agaaagggta
@@ -43878,6 +44094,10 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS05055"
                      /product="B488_RS05055-MONOMER"
                      /transl_table=11
+                     /translation="MRLKTSKKVFDYWNKLRGDESVLLQKLIKLAPISHFLSNLFILEI
+                     IDSKFHFRLAGTEICMIFENELNGKFFSEIWDNVFKKKSEMLAQDVMKKLKSLIIYASS
+                     QTIYKQLLEVEVVLMPLCSGDVGCDRILGCLSIDGKEFRYIASPIEILKINHFTIIDDT
+                     KIENSSLEEKAFDFYTSSSVEDSWFGYYRKKMLHFKVFNGDKKEY*"
 ORIGIN
         1 atgcgtttaa aaacgagtaa aaaggtcttt gattattgga ataaattgcg tggagatgag
        61 agcgttctct tgcagaagct gattaagcta gcaccaataa gtcatttttt atccaactta
@@ -43906,6 +44126,10 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS06355"
                      /product="B488_RS06355-MONOMER"
                      /transl_table=11
+                     /translation="MIISHYRHIKFLTFCVIFIIIDQTIKIIVDSSIPLHQPIYVLPFF
+                     SLYRTYNTGIAFSMLMDMKPWFIISMRIIIISGVFLIWEQTKSNRLLINVGYMLISTGA
+                     ISNLADQFLYGHVIDYIMIHTQTWSFAVFNLADAYITLGACSIAFDEFLAIYNKMNSS*
+                     "
 ORIGIN
         1 atgattattt cacattatcg tcacataaaa tttcttacat tctgcgtgat atttattatt
        61 attgatcaaa ctattaaaat tatagttgat tcatctatac cattacatca acctatttat
@@ -43932,6 +44156,9 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS06825"
                      /product="B488_RS06825-MONOMER"
                      /transl_table=11
+                     /translation="MYSKKVLLFSMISITSILLSSCKTITPEEQRAYDRSKCSSYGFKE
+                     RTESLASCMMNLDLNRSSDDRVQRIISAERMRRPGYRYHGPGDHGYGFGAMTPEPARGY
+                     NRPYYYDPKYHPYHPKRIISSSGISIGGSW*"
 ORIGIN
         1 atgtattcaa aaaaagtttt actattcagc atgatatcta ttacatctat actgctttca
        61 agttgcaaaa cgataacgcc ggaagaacaa cgagcctatg atcgatcaaa atgcagttca
@@ -43956,6 +44183,16 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS03255"
                      /product="B488_RS03255-MONOMER"
                      /transl_table=11
+                     /translation="MKYPSFEQYAEALQAPEIVFIDPELKKGSVETTGLGLPLALCGGF
+                     ALTYTITSGEKKYAVRCFHKPSNALEKRYSAISSRLKSLKSSYFVDFKFQPTGIRVGGN
+                     VFPIVKMIWTTGTTLGEYLELNYRNATVLQNLVQSFRTLAKYLEGQKMAHGDIQPGNVM
+                     VADDGRKVQLIDYDGIYVEELYTLGSAELGHRNFQHPGRTHVTWSASLDRFSFIAIDLA
+                     LRVLIVHPEFWNKTQSDGDSILFKANDFADPAQSSIFSLLLNKPLFVDDAKNFSTICRS
+                     AFDKTPTLEDFLARRNIPQASIRISSSTHTAPVRYLAAFPVLDATNYDSCFLHIGDKIE
+                     LIGQIVEVKQGTTKQGKTYVFINFGHWQGNIVKINIWPKRLNAMTNKPDQSWVGQWITV
+                     IGLMEPPRYISRRKDIFHLSITLEKNNQFRLITEKEAKFRLAGSATRGSGIITKSRSHE
+                     LQTYATLSAVATPTSRNQKVLQLMNAIPSVTIMNNKTVLQTMHAGKPAPVKNSHGTTSH
+                     QNNRKTTSSSFIGNRKLLLQLIFWIIAVSLISVIFYMQGRGL*"
 ORIGIN
         1 atgaaatatc cctcctttga acaatacgct gaggctctgc aggctcctga gattgtcttc
        61 attgatcctg agctcaaaaa gggttcagtg gaaacgacag gattaggctt gcctcttgct
@@ -44022,6 +44259,9 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS05070"
                      /product="B488_RS05070-MONOMER"
                      /transl_table=11
+                     /translation="LSKKDNYRNRNWIGHFPKTPGRLIGMGLIRIYQLTFSNLIGNSCR
+                     HLPTCSEYAYEAIARYGLWIGGWLSLFRILKCGPFGSHGFCPVPQNIQKPIQWRMLLCG
+                     RKKK*"
 ORIGIN
         1 ttgtccaaaa aagataatta tcgaaaccgc aattggattg gacactttcc taaaacacct
        61 ggtcgattga ttggcatggg actaattcga atctaccaac tcacattttc taatttgata
@@ -44045,6 +44285,13 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS03385"
                      /product="B488_RS03385-MONOMER"
                      /transl_table=11
+                     /translation="MKSYRLKPKRDTTQRVVYSLGVKDQKGSRNVFIPIIGKGSYVILV
+                     FPFQKLHFASQDFFIETTTLLESFFIFLRVCFTSIKYKKLCFEGFYVLPSGSRQENSFF
+                     RSINRFMTKSLMPFDSKQFTYIPHLFEGWQTLSSENNCKKIDLNSKVVIVVHVFYAERW
+                     FEIAHLLSGLNFFFDLMITTVEENRFLEPEFLKLFPSAHVYFMENKGRDIKPFLTLLES
+                     GKLDQYDYICKIHGKESRHQKRSPIEGTLWRRWLFYDLLGAPNTAVRIIETFKNNPSIG
+                     MIGSRRYRRRMPYSRFIRRQEKNTRVFSLTKRMNFPTKNLQLDFFFGTMFWVRRISLEP
+                     IKKLELSKEFLPESGLLNGALEHSVERVFSISVMKAGFCIHDVDAVDEANH*"
 ORIGIN
         1 atgaaatcat ataggttgaa accgaaacga gatacaacgc aacgcgttgt ctattctctt
        61 ggtgtaaaag atcaaaaagg cagcagaaat gtttttatac cgataattgg taaaggaagt
@@ -44082,6 +44329,8 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS03270"
                      /product="B488_RS03270-MONOMER"
                      /transl_table=11
+                     /translation="MSRPAYPTRIAQPPYSHSGVEHLRRGELKIVSSKPPSWMPPRERL
+                     PYPSSSPSRIFPGFRSPSEKVIERRIRKIRKEIVKE*"
 ORIGIN
         1 atgtccagac ctgcttatcc aacgagaata gcgcaaccgc cctactctca cagcggtgta
        61 gagcacttaa gaagaggaga attgaaaatt gtttcttcaa aacctccgtc ttggatgcct
@@ -44104,6 +44353,10 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS01015"
                      /product="B488_RS01015-MONOMER"
                      /transl_table=11
+                     /translation="MIRFCVSIFLKIQNTFFISVIFSTFLFANESHRAASLSSPSKEEI
+                     SKYCSNIVDIARDQRYVLQKEELEKLKKEVDNRINLLEKHKVEYQHWLTRYEKFFAITK
+                     KSIVDIYKKMTSAAAAAQLEKINPETASSILIKLNARQASSIMAEMDPQKAAVITNIIS
+                     NLLNSKLSKGSS*"
 ORIGIN
         1 atgatccggt tctgtgtttc tattttttta aaaattcaaa atacattttt tatttcagta
        61 atttttagta cctttctttt cgcaaatgaa agtcatcgtg cggcttctct ttcatcaccc
@@ -44131,6 +44384,8 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS02415"
                      /product="B488_RS02415-MONOMER"
                      /transl_table=11
+                     /translation="MTICFSIAYSEESLKYLENIQSKNRKQIINKIASLASNPRPSGVR
+                     KIRGMSEISNNPGYRKKVGKYRILYCINESRNEIFIFKIQTRDKVYLNIKHLEL*"
 ORIGIN
         1 atgaccatat gtttttctat cgcctattca gaagaatcat taaaatacct tgagaatatc
        61 caatccaaaa acaggaaaca aataataaat aaaatagctt ctttggcttc caatccacgt
@@ -44154,6 +44409,8 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS07005"
                      /product="B488_RS07005-MONOMER"
                      /transl_table=11
+                     /translation="ITKIISIFYVFLLRLWFFCSHQFVLDGFHEPIIFPNQTFGFLGVV
+                     IFFSISGFLISQSWEKDPSWIRFILKRFLRVYPPHNIYAVNHSFYSWPVFNKL*"
 ORIGIN
         1 attacgaaaa taatttcgat tttttacgtc ttcttgctgc gcttatggtt tttttgcagc
        61 caccaatttg ttttagatgg gtttcatgaa ccaattatct tcccaaacca aacctttggg
@@ -44176,6 +44433,12 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS04415"
                      /product="B488_RS04415-MONOMER"
                      /transl_table=11
+                     /translation="MLIKRFFIYILIIFCYTSLVHAKQPFGGILTEQQYYSLIPYNSLM
+                     QFINQYQQTFYISLRNALKALKENNWLLIYPVGFSFLYGVLHAIGPGHGKAVISAHILA
+                     NPIQLKSVIIISFLSAFVQGMNAIIVVNISYFLLRTSGINMMKIIAWMEIGSYFSIIIF
+                     GLWLLLRKLKFLYNNFRNQRTVLTSECTTCSHSHHHLNTTITHSKRLEIIQILITSITM
+                     GMRPCVGALQVLTFSLLNQIYTAGILSVFAISLGTAITVSAIAILAFFSKQSTFILKKT
+                     EKVMAIQIIAHILGIIIPMLLIVSGLFILNVAMRASF*"
 ORIGIN
         1 atgcttataa aacgcttttt catctacata ttgattatat tttgttatac aagtctcgtg
        61 catgcaaagc agccatttgg aggtatatta acagaacaac aatattattc gttgatacct
@@ -44209,6 +44472,8 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS03780"
                      /product="B488_RS03780-MONOMER"
                      /transl_table=11
+                     /translation="LYERRIRTYRGHIRYVDQNPGRMEQVFVLYRAARSFIAKIPVMMA
+                     CYDGGVRSGFLSDPLFFCSCSFRVLFNVVRC*"
 ORIGIN
         1 ttgtacgaaa gaagaataag aacatatcgt ggtcatatac gatatgttga tcaaaatcct
        61 ggaagaatgg agcaggtttt tgtgctttat agagccgcac gctcttttat tgcaaaaatt
@@ -44230,6 +44495,9 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS03670"
                      /product="B488_RS03670-MONOMER"
                      /transl_table=11
+                     /translation="MLKGLHDFFDFLFYRQHRKAFTSGDLRVDFAALCLMILKVDGEIS
+                     EKEISHFKSVLKKRYNLSEKELKSLLDAAKSAELEAIDYYRFTSNLKRHLNIQQRLEVI
+                     AVLRDLASIDGENRELEDDIVWRVADVFGIKDREFVINEENSPQPSLKAELVS*"
 ORIGIN
         1 atgttaaaag gtttacacga tttctttgat tttttattct atagacaaca tagaaaggct
        61 tttacgtcag gagatcttcg cgttgacttt gccgcgctgt gtcttatgat actaaaagtt
@@ -44256,6 +44524,10 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS06840"
                      /product="B488_RS06840-MONOMER"
                      /transl_table=11
+                     /translation="MYIIENLNDVGKRLKAARKYAGYNTAREASEALGIKYQTYAAHEN
+                     GHRGVVRACEIYSRRYKVSLDWLLRGLGKGPGNFNSPLDCKFDEFLKLYEVSDDRSKAQ
+                     ALRSAIAILSEEPIDTTHSTAFNNSTPSKSRKITAANLTKTSKTLEEVKQGGIMSEENA
+                     VEKNSKIFSN*"
 ORIGIN
         1 atgtatatta tagaaaattt aaatgatgtt ggaaaaaggc ttaaagctgc aagaaaatac
        61 gcaggataca acactgcaag agaagcatcc gaagctttag gtattaaata tcagacatac
@@ -44282,6 +44554,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS07015"
                      /product="B488_RS07015-MONOMER"
                      /transl_table=11
+                     /translation="IISPIIFSLPIQLIAYHRAVFMGTDVDQP*"
 ORIGIN
         1 attatttctc ctataatttt ttctttacca attcagctca ttgcttatca tagagcagta
        61 tttatgggga cagatgtaga tcaaccttga
@@ -44302,6 +44575,11 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS02420"
                      /product="B488_RS02420-MONOMER"
                      /transl_table=11
+                     /translation="MFIFDKLITFFRIYYCFYWRRLMSYSVKGKVLGGSPNIKVSDRIY
+                     ELTQLEVEKLTKNISEPPVPVESIANNLGIEVRYSPMGHEYTNLVSGVIQLDEPRIVVN
+                     MIDSKEDIAFTIGHEIGHWILHKNFSDPDSTKHDKMLRLKTDKETILEAEADFFSLNLL
+                     MPYKLLMPIVIKGINISSLASIFCVSKEYVQKRLENIDAEVEDYLDAIDIKEIMDSYKK
+                     NPDKWVRGKQLEERIQRLRYL*"
 ORIGIN
         1 atgtttatct ttgataagtt gataaccttt tttaggatat attattgctt ttattggaga
        61 agattgatgt cttacagtgt caaaggtaag gtacttgggg gttcacctaa cattaaagtt
@@ -44333,6 +44611,12 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS00335"
                      /product="B488_RS00335-MONOMER"
                      /transl_table=11
+                     /translation="MDSLNLINCNQQKNSSLSFQELILVLTKYWSSQGCVILQPYDMEV
+                     GAGTFHPATVLRALGVNPWKTAYVQPSRRPSDGRYAENPNRLQHYYQYQVMLKPNPPNL
+                     QELYIDSLQAIGIDPLMHDIRFVEDDWESPTLGAWGLGWECLCDGMEISQFTYFQQVCG
+                     IECSPVSGEITYGLERLAMYVQGIDNVYDVVFATHADGHKVRYRDLFLQAEQEYSRYNF
+                     EYANVKNLHNHFIDAEKECLDILATGASKKNY*SS*MCLTCI*PMHKSIAPFQSS*CKG
+                     CNICCRTSKLYS*STNIS*SLR*SIFTN*CRRTFKYEEKNFPV"
 ORIGIN
         1 atggactccc tcaacttgat aaattgtaat caacaaaaaa actcttctct ttcattccag
        61 gaacttattc tagtattaac aaaatactgg tcaagtcaag gatgtgtcat tttacaacca
@@ -44367,6 +44651,9 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS03285"
                      /product="B488_RS03285-MONOMER"
                      /transl_table=11
+                     /translation="MHYLVHEKSPDKPVKYRELTSAWNYGFVHAKLVKKQSSGKVGWYV
+                     CKYLVKILEVRVRASRSYGKYNNTTLSPSESCNTLNVKSLTPKTHPHQPETNQPFVYDT
+                     YENFLAYCNLGVYLGQTQKGE*"
 ORIGIN
         1 atgcattatt tggtacatga gaaaagtccc gataagcctg tcaaatatag agagcttact
        61 tctgcatgga attatggttt tgtccatgcg aaacttgtta aaaaacaaag ttctggtaaa
@@ -44392,6 +44679,13 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS06165"
                      /product="B488_RS06165-MONOMER"
                      /transl_table=11
+                     /translation="MYLKINYFEVAMDFFTKFLSFKKNSDFLSSQKTSDCSSEVCNTTQ
+                     EDSSSRAEEIKIEESFPDKVSQDDHFSWFQKLTTSLFQTSSQLKKDIGNLLTKSKLDES
+                     ILEELESLLIRSDLGVDLATRITNVLSTERYKKDVSSAEVIHILSTEIEKILVPVSQPF
+                     ELNVSNKPNVILVVGVNGVGKTTTIGKLAAKLSDSGLKVMLAAGDTFRAAAVEQLKVWA
+                     DRTSSDFISAKVGGDAAALAYEAFKQAKEKKKDVLIIDTAGRLQNKIGLMEELKKIARV
+                     LRKFDSNAPHAVLQVLDATVGQNALNQVEMFRDVVGVTGLVMTKLDGTARGGILVAISM
+                     KYQLPVYFIGIGEKESDLEPFVARDFAKAITGLSEYERVGAHDNTI*"
 ORIGIN
         1 atgtatttaa aaataaatta ttttgaggtg gcaatggatt ttttcacgaa gtttctctcg
        61 ttcaagaaaa attcagattt tttatcttct caaaaaacat cagattgttc ttctgaagtt
@@ -44429,6 +44723,9 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS03050"
                      /product="B488_RS03050-MONOMER"
                      /transl_table=11
+                     /translation="MAEPSSSPETFKMAGTNEDIIFRYPSGLLFLTFSMLFIRIANVRT
+                     EIAEVRTEISHVENRLSKEISSTRNDLLTEMKYNLILTFGALIAVALGLAGLMAKGFHW
+                     I*"
 ORIGIN
         1 atggcagaac catcttcgtc tccagaaacc tttaaaatgg caggaaccaa cgaggatata
        61 atcttcaggt atccttctgg tcttttattc ctaaccttct caatgctttt tattcggata
@@ -44453,6 +44750,13 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS06045"
                      /product="B488_RS06045-MONOMER"
                      /transl_table=11
+                     /translation="LGYNGYGIIFSYDDYWSFGCFSSNIISKIGCMLVSPLTKKIKGLI
+                     QDSGPIAIDKFFSLCLSDPEYGYYNICEPFGPTGDFITAPEISQLFGEMIAVFLVYSWQ
+                     SHGRPDSVRLVELGPGRGTMMSDILRVIVKLEPALFNLLSVHLIEMSKRLIAIQKKVLS
+                     KYLSKIHWHNSVDYVPSGFVLLVANEFFDSIPIKQFVLTEKGIYERMVGLNNDNGLAFC
+                     LDNQEANCAILPDKKKWPLGKIFETSLIRQIVIKAIAQRLLCGGGVAVIIDYGHIVSGF
+                     GDTLQAVKEHRYDSPLAHPGEADLTSHVDFQQLAEIASNFDIQVHDCITQERFLRGLGI
+                     WQRANVLARNTTKKELFLKK*NV*QVFRIEIWVNYLRF**FLLLK*NLCH*Y"
 ORIGIN
         1 ttgggttaca atgggtatgg tattatcttt tcctatgatg attattggtc ttttgggtgt
        61 ttttcaagca atatcatcag caaaatagga tgtatgttgg tttccccttt aacaaaaaaa
@@ -44491,6 +44795,12 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS01305"
                      /product="B488_RS01305-MONOMER"
                      /transl_table=11
+                     /translation="MSVRRLAEEKLQPSSFVFSEDNVLWAQKTIKKYPPSRHQSAVIPL
+                     LMRAQEQEGWVSRAAIEVIADMLGMAYIRVLEIATFYTQFQLKPVGSRAHIQVCGTTPC
+                     MLRGSEALIEVCRNKIHPDPLRVNSDGTVSWEEVECLGACVNAPMVMIGKDTYEDLTPE
+                     RLEVIVDAFVAGKGVMIPPGPQIDRIYSSPSGGLTTLHEEVVEVKSNIVLEKNKPAFCS
+                     SLFIERPSIPDDLTKISGISVDVEKALNDIGVFTFSQIAKWNDEESDWIDNHLGLGGRI
+                     KRETWSKQARLFI*"
 ORIGIN
         1 atgtcagttc gtcggttagc agaagaaaaa ttacagccct cttcttttgt ttttagtgaa
        61 gataatgttt tgtgggctca gaagacaatt aaaaaatatc ctccatcccg acatcaatcg
@@ -44524,6 +44834,9 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS01910"
                      /product="B488_RS01910-MONOMER"
                      /transl_table=11
+                     /translation="MWFLLKKILFISLILVVISTFSTKNPTKEAIDASEDLSSAIFAAS
+                     GVFHYVSNICIEKPDICKKGVQAFFSLKERTLRGAKLAYELIDSKLGENKHKPVEVGSS
+                     SSDQLINININNNIPVPQQHP*"
 ORIGIN
         1 atgtggtttc ttctcaagaa aattttgttt atatcattga tactggtagt tatatcaact
        61 ttttctacaa agaatccgac gaaagaagca atagatgcaa gcgaagatct aagcagtgca
@@ -44548,6 +44861,8 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS06970"
                      /product="B488_RS06970-MONOMER"
                      /transl_table=11
+                     /translation="LIRHIVFFTAPIEHHQSVLSGLSILTTIPHAHLLEIGINLRVDQW
+                     SKEIDFIVYGEFYDQQALKEFKAHPVYQESIARVKSLRDLRLSVDYDTESAVKSVI*"
 ORIGIN
         1 ctgattcgtc atattgtttt ttttactgcg ccaattgaac atcatcaatc tgtactttct
        61 ggactgtcaa tccttactac tattccacac gcacatcttt tagagatagg gattaatctt
@@ -44571,6 +44886,8 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS02430"
                      /product="B488_RS02430-MONOMER"
                      /transl_table=11
+                     /translation="LGGFFIVMAMEEKNRDTRFKPGESGNPKGRTKGSRNKICDDFINA
+                     LCCDFETEGIQVIARVREEAPGLYMKIVASLLPSVTKVSGDEEGSPVSLNVTVRFVD*"
 ORIGIN
         1 ttgggcggtt tttttattgt tatggcgatg gaagaaaaga acagggatac gcgttttaag
        61 cctggagaat ctggcaatcc aaaagggagg actaaaggtt caaggaacaa gatttgcgat
@@ -44595,6 +44912,12 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS05400"
                      /product="B488_RS05400-MONOMER"
                      /transl_table=11
+                     /translation="ISMLYEEKSQSIIEHLIELRTRLIWSLVFF**HFYFVFIFLNNYL
+                     TICLFLTSGLYC*QKQIYQNLNSYIQLHKNFS*PKSKLECLELS*FLFQSL*LIYINLL
+                     LQVFIKMNVLHSCLF*SLHLFSFLLVQY*SISFLYQW*CVCFYQCSSIQRTGFYQFLCF
+                     QGYLNILNCS*VLSFVLD*FFNFQFL*LFLLA*KWFLQNFS*KKEK*LLL*YL*WLPSL
+                     LHQILYHKSDLPCLRFFFMKYQFFSAKFVERKRNQRKTDGNISKDISGKA*FLIII*SL
+                     *VVKYYA*Y"
 ORIGIN
         1 ataagcatgc tctacgaaga aaaatcgcaa tcaattattg aacatttaat agaattgcga
        61 actcgcttga tatggtcact agtttttttt taatagcatt tttattttgt tttcattttt
@@ -44627,6 +44950,9 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS04270"
                      /product="B488_RS04270-MONOMER"
                      /transl_table=11
+                     /translation="MSGNSKNNFKTSQQGIDFIKEKEGFDAHVYKDTAGLPTIGYGHLI
+                     KPGEHFITMTREQAEEFLKKELREAEAAVNSHVTVFLTQSQFDALVSFVYNLGCPAFYG
+                     STLLHLVNEGQYEAAAEQFLRWGNDHRNGKLVPVVGLMKRRKEERLMFLG"
 ORIGIN
         1 atgtctggaa acagcaaaaa caattttaaa acatcacagc agggcattga ttttatcaag
        61 gagaaggaag gctttgatgc gcatgtctac aaggacactg caggtcttcc aaccattggc
@@ -44652,6 +44978,13 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS03685"
                      /product="B488_RS03685-MONOMER"
                      /transl_table=11
+                     /translation="MVLSFLARFPFLSMIIVLPLTGCHNRTNIHSFPLLVSEKQLSVSP
+                     SPKAVIPVYFATNRLYQIDPLDPFGKQRSENISFGLVNVSIPPIHKEGSFEIKSFNENP
+                     VKYFTGTLLKLYPSRQEFKDSLNMELRHLHKKKRNLFIFIHGFNNDFSKGIFRTAQFVY
+                     DYNVNAVAVHFSWPALRKITISSYLYDKDSMSFARKDMADFLTLMTQTDADEITVVAHS
+                     MGSYLLMEALRTLSLQGKTGVISHMDNMLLAAPDIDIDVFKKQLADIKKLPKKTIVQVS
+                     SKDRILKLSRGITGGPVRLGEGSDIDFLRRHGIFVLDMSQVDGGGHTIMFSSPTMISLA
+                     KKSYLVHSGLEDDFLIAPKGVSLSFIQKLVLPIVYAPIHFISAFVKSRHPAM*"
 ORIGIN
         1 atggtgttat cgtttcttgc aagatttcca ttcctgtcca tgatcatcgt acttccttta
        61 acaggatgtc ataatcgcac aaatatccat agttttccct tgctggtttc tgaaaaacag
@@ -44689,6 +45022,8 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS07090"
                      /product="B488_RS07090-MONOMER"
                      /transl_table=11
+                     /translation="GFDAHVYKDTAGLLTIGYGHLIKPGEHFTTITREQAEELLQKELR
+                     ELE"
 ORIGIN
         1 ggctttgatg cacatgtcta caaggacact gcaggtcttc taaccattgg ctatggtcat
        61 ctgataaagc caggagaaca ttttaccacg attaccagag agcaggcgga agagcttctt
@@ -44709,6 +45044,8 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS06270"
                      /product="B488_RS06270-MONOMER"
                      /transl_table=11
+                     /translation="MVDMFIRCKIANCGATAIEYAILAAVISIAVIAAAQSMGVAISNN
+                     FNTIAKVVNTANSQNYQSFDSPKKLNTQDQLFKVKP*"
 ORIGIN
         1 atggttgata tgtttatacg ctgtaaaatt gccaattgtg gagctactgc tatagaatat
        61 gctatacttg cagctgttat ttctattgca gttattgctg cagcacaatc aatgggagta
@@ -44731,6 +45068,13 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS06755"
                      /product="B488_RS06755-MONOMER"
                      /transl_table=11
+                     /translation="VSILSIIQSFIGLHSRNHKFSDDHHIQHENFTIEKFREQGTKIAL
+                     QELSSSFPSLPVDFFKSIYNNEKSILRSHRSYILDIESGGSITPSIELILDNYYIVEEA
+                     IKEIKRSFSNRLYKQLPSVRVSGLKVPRIVVLISFYVSHTCCVFSHEKLVAIVEGFQSV
+                     EDLTIGELKAIPGLLRFFLIDRLQRLLIRVEHSRQMRQKASDAVNQLLAMDSVSERNSF
+                     CNELEAFIKHDTFITFFLLYIKSNLPDLESVFDELEKRFKEVGRDLNLVSIEQQKKLNA
+                     DSSMISSIIDSLRKIDSIQWALWIEEVSSINLFLRKNSDYGELDSESRNQYCNIIENLA
+                     RRSGCSEMQVAKKAISMLADVSVSEKITRPANIGDFLIGLHSKKLKNK*"
 ORIGIN
         1 gtgtctatat tgagcattat tcagtctttt attgggttgc attcgcgtaa tcataaattt
        61 agtgatgacc atcatattca acatgagaat tttacaattg agaaatttcg ggaacaagga
@@ -44768,6 +45112,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS07080"
                      /product="B488_RS07080-MONOMER"
                      /transl_table=11
+                     /translation="MIGLMSYLAFNTAVGFITNTDWQNFGTNTRTRC*"
 ORIGIN
         1 atgattggtt taatgtctta tttggccttc aatactgctg tgggtttcat cactaatact
        61 gactggcaaa actttggtac gaatacaaga acaaggtgct aa
@@ -44788,6 +45133,7 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS07085"
                      /product="B488_RS07085-MONOMER"
                      /transl_table=11
+                     /translation="MGNVNPEKEMDWCEYAKIVIVFSLGGFFLLF*"
 ORIGIN
         1 atgggtaacg taaatcctga aaaggaaatg gattggtgtg aatatgctaa gatagttatt
        61 gttttcagct tgggtggatt ctttcttcta ttttaa
@@ -44807,6 +45153,10 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS03070"
                      /product="B488_RS03070-MONOMER"
                      /transl_table=11
+                     /translation="MFHYRSILNARHLKGYDYDYNSYFKKTVKPGLEENIASLQKTFDY
+                     INKKITDLDKDINFLRQKNPKICKTIIKDCLREMIVSGMSISKTLIELNSSEIEEGYLF
+                     CLQELSSEALVKVTEDLINDLYSNESCIDRGIIPIPSGIAYLIRKEEKNLYPAIGCFHD
+                     MRVDLCKVRNDVVYMLEELRSKK*"
 ORIGIN
         1 atgtttcatt acaggagcat tttaaatgca aggcatttaa aaggatatga ttatgactat
        61 aattcctatt ttaaaaaaac agtcaaacct ggactggaag agaacattgc aagtctacaa
@@ -44835,6 +45185,11 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS03075"
                      /product="B488_RS03075-MONOMER"
                      /transl_table=11
+                     /translation="MQRKKIARKEYFSSKEYGVKPSERVYYGRNIPKGGGYHMVGKPYN
+                     IRGIWYKPHEDLNYDKIGMASWYGESFHGRLTANGEIYDKNYPSAAHPTFPLPSYARVT
+                     SLETGSSLIVRVNDRGPYYRGRIIDLSHKAAELLSIQNKGVGMMRVTYLGKARLDGKDK
+                     KFLLSSFKKNNGSIKLSLPKELSHHFNVGLPNKFSSLAANNFPILVTNAPIPLKRPDIS
+                     QNLSKY*"
 ORIGIN
         1 atgcaaagaa aaaaaatagc acgtaaagaa tacttttctt ctaaggaata tggtgtgaag
        61 ccaagtgagc gtgtatatta tggacgaaat attcctaaag gaggagggta tcatatggtt
@@ -44864,6 +45219,14 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS05530"
                      /product="B488_RS05530-MONOMER"
                      /transl_table=11
+                     /translation="MNYVKNDVKNISILEEIYKNIINQLVIYKLYVFQIDPKVHERNIL
+                     IYNRIIFIIAITIIVTGCSKNSEKSERPVSYQLNFLMKEKNMRKGSPILIRIFKEESIL
+                     EVWKKQNDQKYGLLVSYKICAWSGQLGPKMYEGDRQSPEGFYEITQKNLNQYSSYYLAI
+                     DTGFPNVFDKANARTGKYLMIHGSCSSSGCYSMTDEQIQEIYALARDSFRGGQKILQIQ
+                     AFPFRMTAKNMVLHRSYPSYTFWKMLQVGYDYFEITHQIPIVGVCDKKYIFNQNPGKFL
+                     DPIGSCPPDLPAIPADLSHSYTTYKQAYQTEYNNALEQYNDVVWYDPTENERKAIAPQD
+                     PKKKAKNYAPTGSALKAGKLLKIKEWQERVSNQQPGKVNSNSASETSKQLEKIIEAESR
+                     ILIKEAVLPDNFSKTTSEVPIPRMRNILKSLNLTGNSQ*"
 ORIGIN
         1 atgaattacg tgaaaaacga cgtcaaaaat atctcaatat tggaagaaat ttataaaaat
        61 attatcaacc aattagtaat atataaacta tatgtatttc aaatagaccc caaagtacac
@@ -44903,6 +45266,11 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS04875"
                      /product="B488_RS04875-MONOMER"
                      /transl_table=11
+                     /translation="MHKNHLNIKVIQKIPELMKGWNNNAIKITFDFKIAIVVHIYYVDL
+                     WTEIANLLSGLNLNFDLFITTIDKNLKEEILCRFPHSYVHIIENIGRDVRPFLILLENG
+                     YLDNYKYICKIHGKKSKGRGRYWLEGDIWRRWILFDLLGAPNSALKIIETFEKNDKIGM
+                     IGSHTYRYPNEYFNDQQSWGKNRPLVCSLIQKMGMDPEEYKLDFFAGTMFWVRRDALEP
+                     IKNLYLSHSFPIQNNHIDGTLAHAIERIFPASVIKKGLILKDVHHFP*"
 ORIGIN
         1 atgcataaaa atcatcttaa tattaaggta attcaaaaaa ttcctgaatt gatgaaaggc
        61 tggaataaca atgcaataaa aataaccttc gattttaaaa tagcgattgt tgttcatatt
@@ -44934,6 +45302,11 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS05680"
                      /product="B488_RS05680-MONOMER"
                      /transl_table=11
+                     /translation="IIKYFKKRFYKDVSIRKIEDKFFIELDNEILKTPLNRDLAVFSED
+                     LAFFIADEWRSQKDEIDLFTMPITRIVNSFLDKSEENSKEIFQDLLSLLETDMLFYRVD
+                     SPRELVERQSQRWDPLIDWMARVFGANFILSRGISYKKQPLEAINAFSGALQKYNSQIM
+                     LSCLHMMATFTNSVLVSLAVAENIISINEAWEIAYLEEDWMNDYWGYDSEAQKRREFYF
+                     REINAVFTVLSVVKITKKI*"
 ORIGIN
         1 ataattaagt attttaaaaa acgcttttat aaagatgttt ccatacgtaa aatagaagat
        61 aaatttttta ttgagttaga taatgaaatt ttgaaaactc cattaaatag agatttagcc
@@ -44965,6 +45338,18 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS01340"
                      /product="B488_RS01340-MONOMER"
                      /transl_table=11
+                     /translation="MIYKAIVFLPLLGALISGFFGRFIGSRGSELVTSTLMFIVALLSW
+                     NVFLKGGFGELSLGIEKIEIARWVQSGEINVSWAFRVDRLTSVMFVVVNSISFLVHVYS
+                     IGYMHHDPHRTRFFSYLSLFTFFYADVGYI**YFANVFWLGRGWAYFVSFDWFLVFQRI
+                     CYKGFNESFYNQ*GRRFGFLDWNSSNFCFVWLYKF*CYIF*S*FLSNGIKF*FI*ASN*
+                     YFRNTVS*FRRYYFSLFVAVYRSNG*ICSVFVAYLAS*CNGGANACISSYSCRNHGYGR
+                     NFSYSTYVSNL*AFSCCS*LYYVYWSYYSIFCFYCWSCSK*Y*ACCRVFNLLAVRIYVC
+                     CIGCWCLWCICFSSFYTCFF*SLIVPWGRFGNTCSQWRAGHEAYGRVV*IFAFYIFCND
+                     DW*FGSYRLRYPWNKYRFCWFFF*RCDYRIFICFILSSCRVLFCVAGDCSIFYKFLFLA
+                     FNVFNFFWKNKSFSTKYKSYP*ISLGNVGSIVCLVYRRYIFWIFISRFFLWREV*VFLE
+                     GCSFHFF*KSYS*SASFCSYMGKTLSIYSVFCRFYFFFYNVYYFSIFAREAFS*PKCSL
+                     *FSFKCLVFRSDL*FFVCSSCAAFWVFSLEKN*CIY**FWTKRSCICSAFYNEACS*IA
+                     NGISLSLCIRDVDRSGCIGRYNDRKGKWL"
 ORIGIN
         1 atgatataca aggcaattgt ctttcttcct ctcttaggcg ctttaatttc aggctttttt
        61 ggtcgtttta taggaagtag gggttctgag ctggtaactt ctactctaat gtttattgta
@@ -45017,6 +45402,11 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS03805"
                      /product="B488_RS03805-MONOMER"
                      /transl_table=11
+                     /translation="MTKAITLHDLTLAYLRQPAVHHVNGSFLAGELSAIAGPNGAGKST
+                     LLKAIAGILPIHEGSIEFHQFTRKDIAYLPQSAELELDFPINLLQIVASGFWKETKSFG
+                     QVTRAQREKSLKALHTVGLQGFEKRTLDNLSAGQVQRALFARLLVQDAQIILLDEPFTA
+                     IDAATTEVLLKITRNWHVEKRTVICVLHDFEQIRKHFTNCLLMACESIAWGKPCDVLTT
+                     QNLLRCSFYRKTVPDQDNGQKA*"
 ORIGIN
         1 atgacgaaag ccattaccct gcatgacctg acgcttgcct atttacggca gcctgcagtc
        61 catcatgtca atggctcctt tcttgccgga gagctttcag ccattgccgg accaaacggg
@@ -45047,6 +45437,8 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS07115"
                      /product="B488_RS07115-MONOMER"
                      /transl_table=11
+                     /translation="MEVLLAVLYSSVINFFILAIIVFFIVKLVNKIRILENVVSIKSEA
+                     GAVPADIQLLSEIRDLLKVH*"
 ORIGIN
         1 atggaagttt tattagcagt gttatatagc agtgttataa atttttttat tttagcaata
        61 attgtatttt ttatagtaaa actagttaat aaaatacgga ttttggaaaa tgttgtctca
@@ -45068,6 +45460,9 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS04345"
                      /product="B488_RS04345-MONOMER"
                      /transl_table=11
+                     /translation="MSRALIVLHNTMDRQKAMHWVKTAPCQNKDRIQKTLAQSATEQSH
+                     VGNAHRYRHHADKTSWDKACSRGLEADLP*CPAKGNAHCSQS*RKWLRQSWAFFLKPHK
+                     RGNEQHD*AYA*MGSTQ*NHLPRWRNTM"
 ORIGIN
         1 atgagccgcg ccctgattgt tctgcataac actatggatc ggcaaaaggc tatgcactgg
        61 gtcaaaacag ccccctgcca aaacaaggat agaattcaga aaacccttgc gcagtctgcc
@@ -45093,6 +45488,12 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS02890"
                      /product="B488_RS02890-MONOMER"
                      /transl_table=11
+                     /translation="MSSLKKECLKTLLKYKKESKLISFLKATFNIWLQCEKNLENFSPR
+                     FFMGFFSFSIVSVIIVVNLLSYILLYYIGNLSFITFKYLLLKNLILIFITGSIALVAGY
+                     ILGILLKELFISYNKISRLSRIDSLSGLLNRSFFIKNLKSKKEIFSVIFFDIDHFKNIN
+                     DTFGHAGGDNVISFVSEKLRFVFVEPMFVGRLGGEEFAAAALGYSEKEAAALAERFLSL
+                     IENSDIQVTAEKSIRVTLSAGVAERFQKELITTVVRHADKALYAAKRSGRNRVARFREI
+                     LNGSSSSSKKRRLYRDSSLTQITSPSENNFHIN*"
 ORIGIN
         1 atgtcttctt taaaaaaaga gtgtttaaaa acacttttga aatataagaa ggagagtaaa
        61 ttgattagct ttttaaaagc tacatttaat atatggcttc aatgtgaaaa gaatttggaa
@@ -45127,6 +45528,11 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS01785"
                      /product="B488_RS01785-MONOMER"
                      /transl_table=11
+                     /translation="MSSINNEERRLIEDLFRRIRSADGPRDSNAEEMINNAVRVNPSAP
+                     YYLVQLALVQEEALKIANQKITDLQARIEQNENSAVSEKSQSRGFLSGFGSLFGNSNTS
+                     LPPSSPSMPSALPASPPPVRSPSSGSYSSPWGQPYASPQMNPPPVQQGFGGGGFLASAM
+                     STATGVAGGMLLAEGIKDLFSGGHHSEVSTHTSLPIQDSVDTQPVSNDDVDNNVGVDYD
+                     DGGDFDGGDFDDYT*"
 ORIGIN
         1 atgtcctcta taaataatga agagcgtcgc ttaatagaag atctttttag gcgtattcgc
        61 agcgctgatg gtccacggga ttccaatgca gaagagatga tcaataatgc tgtgcgggtt
@@ -45157,6 +45563,8 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS07120"
                      /product="B488_RS07120-MONOMER"
                      /transl_table=11
+                     /translation="MINEFKAFIARGNVIDLAVGVIIGAALNRIVQSLVEDMIMPIAGV
+                     ITGGNIDFSDYFIPLSTEITEISLMAARKQGAVLAYGSFISSVI*"
 ORIGIN
         1 atgataaatg aatttaaggc gtttattgct cgaggtaatg ttatagatct cgctgttggt
        61 gttattatag gagcagcact taatcggata gttcaatctc ttgttgaaga tatgataatg
@@ -45227,6 +45635,10 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS00430"
                      /product="B488_RS00430-MONOMER"
                      /transl_table=11
+                     /translation="MNVRKYKLILASISLNRLELLKQVRINPYKVLPVAINETPRKQEQ
+                     PDLLALRLGTEKAAKAKALLEEHESDDVFVLAADTVVSLGRRIIPKPKSREEACDILNF
+                     LSGRKHTVSTGVCLISPSGQNRKRLVVTKVFFKRLSFSEIQSYVNSSEWNEKPGGYAIQ
+                     GFAGCFVRKLLGSYSNVVGLPLYETVLLLSGEGFPVFSD*"
 ORIGIN
         1 atgaatgtaa ggaagtataa gcttatttta gcttcaattt cattgaatag actggagctt
        61 ttgaaacaag ttcgaattaa tccttataag gttctccctg tcgcaattaa tgaaactcca
@@ -45255,6 +45667,12 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS00920"
                      /product="B488_RS00920-MONOMER"
                      /transl_table=11
+                     /translation="MHRKNSCNDVISVSPILLARLTGKIGDKKIIEKKSLEFGQLYKHY
+                     LPKVLKKETDIHIELAYIGYKSGKFHELISFLEGNFSLCTVSQPNCFSYLMIACGNHFI
+                     IALLEKLLSAEQSTIETLPNRPLSIIETDLAKLILNKMSSVLSLCTSQLTDLKYHFEGS
+                     ATFKDLIQKENQEHNEFSAAINMEIILDGIRTPFILIIPQEKLLKISLTSFNSNQQKIN
+                     HKTKLSNQFIKQVNQLDVYIEARIELQTITPRNILHLSVGDVIPFMDKDDVSVIINANG
+                     KEIYSCELGRTGDNYTVRIKNKISLDEKT*"
 ORIGIN
         1 atgcatagaa aaaattcttg caatgatgtt atatctgttt ctccgatctt gttggctcgt
        61 cttactggaa agattgggga caagaaaatt attgaaaaaa aatctttaga atttggacaa
@@ -45288,6 +45706,12 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS06920"
                      /product="B488_RS06920-MONOMER"
                      /transl_table=11
+                     /translation="INNYPLPVIHGYEIDFHQTYQFLNDIILGKFKKLPAWKKISKNRR
+                     SLLPFGALIMKEIIEIMEPSAVSFSSFGIREGYIYSQLSESERKRDPLLLEAEYLCSLY
+                     TYAPQYSHDLVEWTGKIMPFFDIQETDEEARYRKVFCLLSNIQGHSCFRYVSSGGLDIM
+                     MSCLLFIGITHAGRAYIELVNYYRQKGIKDHDVLMPLTGIAKPRLVYLAKLLGGILRVI
+                     YFFTASMPDILKYIYIRKVNQEGPLLQFVFPKKLEELAGEKTENSLRRLSRVSNQKIGY
+                     CFE*"
 ORIGIN
         1 atcaataatt atccattacc tgtgattcat ggatatgaaa ttgactttca tcagacatat
        61 caatttttaa acgatattat cctgggaaaa tttaaaaaac tacctgcgtg gaagaaaatt
@@ -45320,6 +45744,11 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS03820"
                      /product="B488_RS03820-MONOMER"
                      /transl_table=11
+                     /translation="MNDLYRFTILGCSSSPGVPRIIGDWGACNPENPRNRRTRSALMVS
+                     RITLEGDATTVIIDTGPDFRAQMIRENVSDIDAVLYTHAHADHVHGIDDLRGYYLKTKK
+                     PVPIYADKECMEHLRKSFGYCFEVSSSNYYPSIVEPFIIEEDYLPISIEGKGGLLKPCL
+                     LGRTMEK*LLLVSGSGMLPIARMFILFRKKHYRNYKIWIY*SLMPCSIRCTRVTFPFQK
+                     H*SILSCLNLNRPS*PICIFIWIMILFYGKRLLM*SLPLME*NFFQLP*MH"
 ORIGIN
         1 atgaatgatt tgtatcgttt taccatttta ggatgttcat cttcaccagg tgtcccccgc
        61 atcatcggcg attggggggc ctgtaatcct gaaaatccca ggaatcgtcg gacacgctct
@@ -45351,6 +45780,9 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS03120"
                      /product="B488_RS03120-MONOMER"
                      /transl_table=11
+                     /translation="MFFTEASTQTATVGSNSLSSAMEMFVLVVPLMLVWYFLLIRPQRQ
+                     QIKQRAEMLKSIRRGDYVITGGGIAAKVTKVIDDTEIEVEIAEGIRVRVIRSFISDIRS
+                     KTEPVK*"
 ORIGIN
         1 atgtttttta ccgaggcttc cacgcaaaca gccacggtag gctctaatag cttaagttcg
        61 gctatggaaa tgttcgtgtt ggttgtccct ttgatgcttg tctggtattt tcttcttatt
@@ -45374,6 +45806,11 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS06925"
                      /product="B488_RS06925-MONOMER"
                      /transl_table=11
+                     /translation="MFFTAGYSYSQKVPLVSVIDIGSNSIRLVIYENINRVLVIFYNEK
+                     VMCGLGRGISFNGYMEENNIKRALKALKRFKALLCQLSVTSVFVLATAAVRDALNGIEF
+                     IRRSEDIFGQKILVLSGQEEAFYSSMGVISGHHSLKDGIVGDLGGGSLDLAGIVGNLVK
+                     GGITLPIGCIPLLEHYEKGMMSEAGAYVREYLKNVVLLKNHKKKFFMLLVVLGVLLLDY
+                     IYISIIIHYL*"
 ORIGIN
         1 atgtttttta ctgcagggta tagttactct cagaaggtcc ctcttgtatc agttatagat
        61 atcgggtcta attcaattcg tttagtaatt tatgaaaata taaatagagt tcttgtcata
@@ -45403,6 +45840,8 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS02260"
                      /product="B488_RS02260-MONOMER"
                      /transl_table=11
+                     /translation="MLITQKVMKEKNIFKFNKSLGDQILFRKNIPNDRIEKGSVKMCEA
+                     FYIVSIEGYECRKIKGFSQGATKINPLVLLGFRYDLVLPKFP*"
 ORIGIN
         1 atgttaataa cacaaaaggt aatgaaagaa aaaaatatct tcaaatttaa taaatcttta
        61 ggagatcaga tcttgttcag aaagaacatc ccaaatgata ggatagaaaa aggtagtgta
@@ -45425,6 +45864,9 @@ FEATURES             Location/Qualifiers
                      /locus_tag="B488_RS06085"
                      /product="B488_RS06085-MONOMER"
                      /transl_table=11
+                     /translation="LVFVFLSFVSSIFITSCVFRVPESNISEQSNNYLRALRGGIFGRS
+                     GIEVSERDRKKALIAEYNALESSPNGKVVPWSGRNISGQVIAFSPYQVGSENCRQYIHK
+                     IFLSDAQVDINGAACRSRNGIWTPLF*"
 ORIGIN
         1 ttggtatttg tttttttaag ttttgtttct tctattttta taacttcctg tgtttttaga
        61 gtaccagaat ctaatatttc tgagcaatca aataattatc tccgggcttt gcgtggcggt

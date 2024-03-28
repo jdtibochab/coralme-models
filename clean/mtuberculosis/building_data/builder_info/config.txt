@@ -1,6 +1,6 @@
 ,value
 ME-Model-ID,mtuberculosis
-amino_acid_trna_synthetase,"{'ala__L_c': 'G185E-6795-MONOMER', 'arg__L_c': 'G185E-5466-MONOMER', 'asn__L_c': 'CPLX_dummy', 'asp__L_c': 'CPLX_dummy', 'cys__L_c': 'CPLX_dummy', 'gln__L_c': 'CPLX_dummy', 'glu__L_c': 'G185E-7249-MONOMER', 'gly_c': 'G185E-6583-MONOMER', 'his__L_c': 'G185E-6822-MONOMER', 'ile__L_c': 'G185E-5724-MONOMER', 'leu__L_c': 'G185E-4155-MONOMER', 'lys__L_c': 'CPLX_dummy', 'met__L_c': 'G185E-5165-MONOMER', 'phe__L_c': 'CPLX185E-26', 'pro__L_c': 'G185E-7096-MONOMER', 'ser__L_c': 'G185E-8130-MONOMER', 'thr__L_c': 'G185E-6857-MONOMER', 'trp__L_c': 'G185E-7612-MONOMER', 'tyr__L_c': 'CPLX_dummy', 'val__L_c': 'CPLX_dummy'}"
+amino_acid_trna_synthetase,"{'ala__L_c': 'G185E-6795-MONOMER', 'arg__L_c': 'G185E-5466-MONOMER', 'asn__L_c': 'CPLX_dummy', 'asp__L_c': 'CPLX_dummy', 'cys__L_c': 'G185E-7858-MONOMER', 'gln__L_c': 'CPLX_dummy', 'glu__L_c': 'G185E-7249-MONOMER', 'gly_c': 'G185E-6583-MONOMER', 'his__L_c': 'G185E-6822-MONOMER', 'ile__L_c': 'G185E-5724-MONOMER', 'leu__L_c': 'G185E-4155-MONOMER', 'lys__L_c': 'generic_lys_ligase', 'met__L_c': 'G185E-5165-MONOMER', 'phe__L_c': 'generic_phe_ligase', 'pro__L_c': 'G185E-7096-MONOMER', 'ser__L_c': 'G185E-8130-MONOMER', 'thr__L_c': 'G185E-6857-MONOMER', 'trp__L_c': 'G185E-7612-MONOMER', 'tyr__L_c': 'CPLX_dummy', 'val__L_c': 'CPLX_dummy'}"
 biocyc.RNAs,./mtuberculosis/inputs/RNAs.txt
 biocyc.TUs,./mtuberculosis/inputs/TUs.txt
 biocyc.genes,./mtuberculosis/inputs/genes.txt
@@ -11,7 +11,7 @@ braun's_lipoproteins,[]
 braun's_lpp_flux,-0.0
 braun's_murein_flux,-0.0
 complex_cofactors,"{'fes_transfers': ['G185E-6414-MONOMER'], 'biotin_subreactions': {'mod_btn_c': ['biotin_ligase']}, 'lipoate_subreactions': {'mod_lipoyl_c': ['lipoyl_denovo', 'lipoyl_scavenging']}, 'fes_chaperones': {}, 'bmocogdp_chaperones': {}, 'FeFe/NiFe': {'mod_FeFe_cofactor_c': '', 'mod_NiFe_cofactor_c': ''}}"
-default_sigma_factor,G185E-8209-MONOMER
+default_sigma_factor,G185E-6951-MONOMER
 defer_to_rxn_matrix,"['BIOMASS__2', 'FMETTRS', 'ATPM']"
 dev_reference,False
 df_TranscriptionalUnits,./mtuberculosis//building_data/TUs_from_biocyc.txt

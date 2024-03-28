@@ -9,4 +9,3 @@ generic_RF	JCVISYN3A_0141-MONOMER
 generic_RNase	CPLX_dummy
 generic_Tuf	JCVISYN3A_0151-MONOMER
 generic_fes_transfers_complex	CPLX_dummy
-generic_phe_ligase	JCVISYN3A_0529-MONOMER,JCVISYN3A_0528-MONOMER

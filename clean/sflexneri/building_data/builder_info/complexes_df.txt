@@ -4073,7 +4073,6 @@ S4704-MONOMER,"negative response regulator of genes in aerobic pathways (sensors
 S4705-MONOMER,hypothetical protein,S4705(),GenBank
 S4706-MONOMER,hypothetical protein,S4706(),GenBank
 RNAP-CPLX,DNA-directed RNA polymerase,S3674() AND S3675() AND S4080() AND S4435(),GenBank
-CPLX-tRNA-PHE-LIGASE,tRNA-Phe ligase,S1635(2) AND S1634(2),Inferred from subunits
 CPLX-tRNA-GLU-LIGASE,tRNA-Glu ligase,S2605(1),Inferred from subunits
 CPLX-tRNA-GLY-LIGASE,tRNA-Gly ligase,S4166(2) AND S4165(2),Inferred from subunits
 CPLX_14GLUCANabcpp-0,"1,4-alpha-D-glucan transport via ABC system (periplasm)",S3560(1) AND S3561(2) AND S3559(1) AND S3558(1),iS_1188(14GLUCANabcpp)
@@ -4192,6 +4191,7 @@ CPLX_PAPSR2-3,Phosphoadenylyl-sulfate reductase (glutaredoxin),S2971() AND S4119
 CPLX_PDH-0,Pyruvate dehydrogenase,S0113(24) AND S0114(24) AND S0115(12),iS_1188(PDH)
 CPLX_PDX5PS-0,Pyridoxine 5'-phosphate synthase,S0051() AND S2799(),iS_1188(PDX5PS)
 CPLX_PHEMEabcpp-0,Protoheme transport via ABC system (periplasm),S2414(1) AND S2415(2) AND S2411(1) AND S2412(1) AND S2413(1),iS_1188(PHEMEabcpp)
+CPLX_PHETRS-0,Phenylalanyl-tRNA synthetase,S1635(2) AND S1634(2),iS_1188(PHETRS)
 CPLX_PIuabcpp-0,"Phosphate transport via ABC system (uptake, periplasm)",S4042(2) AND S4045(1) AND S4043(1) AND S4044(1),iS_1188(PIuabcpp)
 CPLX_PFL-0,Pyruvate formate lyase,S0961() AND S0962(),iS_1188(PFL)
 CPLX_PFL-1,Pyruvate formate lyase,S0961() AND S3366(),iS_1188(PFL)

@@ -597,6 +597,45 @@
             "to_do": "Check whether any of these genes are translated in your final ME-model. If so, fix the positions of the gene in genome_modified.gb"
         }
     ],
+    "org.update_genbank_from_files": [
+        {
+            "msg": "Some feature in genbank are CDS but have no translation qualifier. Translated sequences from Biopython were filled in instead",
+            "triggered_by": [
+                "TM0227",
+                "TM0254",
+                "TM0257",
+                "TM0277",
+                "TM0378",
+                "TM0380",
+                "TM0435",
+                "TM0479",
+                "TM_RS09615",
+                "TM0621",
+                "TM0873",
+                "TM_RS09575",
+                "TM_RS05060",
+                "TM_RS09680",
+                "TM1168",
+                "TM1298",
+                "TM1318",
+                "TM1415",
+                "TM1438",
+                "TM1477",
+                "TM1710",
+                "TM1753",
+                "TM1781"
+            ],
+            "importance": "high",
+            "to_do": "Check whether the genbank was downloaded or constructed correctly."
+        }
+    ],
+    "org._get_manual_curation": [
+        {
+            "msg": "No metabolite_corrections file found",
+            "importance": "low",
+            "to_do": "Fill in tmaritima//building_data/metabolite_corrections.txt"
+        }
+    ],
     "org.get_rpod": [
         {
             "msg": "TM1451-MONOMER was identified as RpoD. If this is not true, define RpoD!",

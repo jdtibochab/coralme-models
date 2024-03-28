@@ -1,0 +1,3 @@
+,value
+FusA_mono_elongation,"{'enzymes': ['FusA_mono'], 'stoich': ''}"
+Tuf_gtp_regeneration,"{'enzymes': ['Tsf_mono'], 'stoich': ''}"

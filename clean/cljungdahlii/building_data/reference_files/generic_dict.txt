@@ -10,4 +10,5 @@ generic_RNase	CLJU_RS13130-MONOMER_mod_zn2(2),CLJU_RS18145-MONOMER_mod_mg2(1)
 generic_Tuf	CLJU_RS20295-MONOMER
 generic_cys_ligase	CLJU_RS20330-MONOMER,CLJU_RS10240-MONOMER
 generic_fes_transfers_complex	CPLX_dummy
+generic_pro_ligase	CLJU_RS18895-MONOMER,CLJU_RS09720-MONOMER
 generic_tyr_ligase	CLJU_RS18820-MONOMER,CLJU_RS16910-MONOMER

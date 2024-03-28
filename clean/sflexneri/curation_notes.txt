@@ -232,6 +232,21 @@ Check whether optional files where downloaded correctly.
 
 
 
+#################### high@org.update_genbank_from_files ####################
+********** Some feature in genbank are CDS but have no translation qualifier. Translated sequences from Biopython were filled in instead
+The following items triggered the warning:
+S0903
+S2305
+S2306
+S2308
+S2309
+
+**********Solution:
+Check whether the genbank was downloaded or constructed correctly.
+
+
+
+
 #################### high@org.get_rpod ####################
 ********** S3313-MONOMER was identified as RpoD. If this is not true, define RpoD!
 
@@ -749,7 +764,6 @@ Map or remove these metabolites in me_metabolites.txt
 #################### critical@troubleshoot ####################
 ********** Some metabolites are necessary for growth
 The following items triggered the warning:
-TS_2fe2s_c
 TS_4fe4s_c
 TS_dpm_c
 

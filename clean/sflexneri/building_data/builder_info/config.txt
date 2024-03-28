@@ -1,6 +1,6 @@
 ,value
 ME-Model-ID,sflexneri
-amino_acid_trna_synthetase,"{'ala__L_c': 'S2911-MONOMER', 'arg__L_c': 'S2007-MONOMER', 'asn__L_c': 'S0991-MONOMER', 'asp__L_c': 'S1942-MONOMER', 'cys__L_c': 'S0465-MONOMER', 'gln__L_c': 'S0624-MONOMER', 'glu__L_c': 'CPLX-tRNA-GLU-LIGASE', 'gly_c': 'CPLX-tRNA-GLY-LIGASE', 'his__L_c': 'S2732-MONOMER', 'ile__L_c': 'S0025-MONOMER', 'leu__L_c': 'S0661-MONOMER', 'lys__L_c': 'generic_lys_ligase', 'met__L_c': 'S2303-MONOMER', 'phe__L_c': 'CPLX-tRNA-PHE-LIGASE', 'pro__L_c': 'S0187-MONOMER', 'ser__L_c': 'S0893-MONOMER', 'thr__L_c': 'S1630-MONOMER', 'trp__L_c': 'S4360-MONOMER', 'tyr__L_c': 'S1794-MONOMER', 'val__L_c': 'S4492-MONOMER'}"
+amino_acid_trna_synthetase,"{'ala__L_c': 'S2911-MONOMER', 'arg__L_c': 'S2007-MONOMER', 'asn__L_c': 'S0991-MONOMER', 'asp__L_c': 'S1942-MONOMER', 'cys__L_c': 'S0465-MONOMER', 'gln__L_c': 'S0624-MONOMER', 'glu__L_c': 'CPLX-tRNA-GLU-LIGASE', 'gly_c': 'CPLX-tRNA-GLY-LIGASE', 'his__L_c': 'S2732-MONOMER', 'ile__L_c': 'S0025-MONOMER', 'leu__L_c': 'S0661-MONOMER', 'lys__L_c': 'generic_lys_ligase', 'met__L_c': 'S2303-MONOMER', 'phe__L_c': 'S4806-MONOMER', 'pro__L_c': 'S0187-MONOMER', 'ser__L_c': 'S0893-MONOMER', 'thr__L_c': 'S1630-MONOMER', 'trp__L_c': 'S4360-MONOMER', 'tyr__L_c': 'S1794-MONOMER', 'val__L_c': 'S4492-MONOMER'}"
 braun's_lipoprotein,[]
 braun's_lipoproteins,['S1839-MONOMER']
 braun's_lpp_flux,-0.0

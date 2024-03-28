@@ -265,8 +265,151 @@ Manually fill the products (with types) of these genes in genes.txt
 
 
 
+#################### high@org.update_genbank_from_files ####################
+********** Some feature in genbank are CDS but have no translation qualifier. Translated sequences from Biopython were filled in instead
+The following items triggered the warning:
+Rv2354
+Rv2737A
+Rv3636
+Rv0192A
+Rv1089A
+Rv3325
+Rv0829
+Rv3018A
+Rv1036c
+Rv3770B
+Rv3184
+Rv3381c
+Rv3751
+Rv1370c
+Rv2278
+Rv3454
+Rv1135A
+Rv3374
+Rv1054
+Rv0795
+Rv1763
+Rv2480c
+Rv2356c
+Rv3724A
+Rv0388c
+Rv3637
+Rv3431c
+Rv2013
+Rv1090
+Rv0520
+Rv1888c
+Rv0031
+Rv0850
+Rv1757c
+Rv1104
+Rv1990A
+Rv3186
+Rv3611
+Rv1034c
+Rv2306A
+Rv2280
+Rv0781
+Rv2666
+Rv3474
+Rv1136
+Rv1116A
+Rv1055
+Rv2321c
+Rv1765A
+Rv3724B
+Rv3233c
+Rv0215c
+Rv0606
+Rv0590
+Rv2014
+Rv0521
+Rv2755c
+Rv3599c
+Rv2168c
+Rv1105
+Rv1549
+Rv2309c
+Rv2648
+Rv1035c
+Rv3770A
+Rv2815c
+Rv2880c
+Rv0454
+Rv2306B
+Rv0782
+Rv2562
+Rv2261c
+Rv2160A
+Rv0618
+Rv2255c
+Rv1087A
+Rv2322c
+Rv2250A
+Rv2998A
+Rv0741
+Rv1572c
+Rv0500B
+Rv2262c
+Rv2160c
+Rv3453
+Rv0616c
+Rv1888A
+Rv1046c
+Rv0387c
+Rv3337
+Rv3224A
+Rv1504c
+Rv2561
+Rv2087
+Rv1954A
+Rv1137c
+Rv1053c
+Rv2020c
+Rv1889c
+Rv3129
+Rv3338
+Rv3224B
+Rv3185
+Rv1369c
+Rv2810c
+Rv0724A
+Rv2355
+Rv2106
+Rv3380c
+Rv1764
+Rv3187
+Rv1503c
+Rv2814c
+Rv0796
+Rv2479c
+Rv2167c
+Rv3475
+Rv1807
+Rv3326
+Rv1755c
+Rv2879c
+Rv1089
+Rv2649
+Rv0619
+Rv2279
+Rv1949c
+Rv1756c
+Rv1667c
+Rv1668c
+Rv3476c
+Rv0755A
+Rv2105
+Rv0590A
+
+**********Solution:
+Check whether the genbank was downloaded or constructed correctly.
+
+
+
+
 #################### critical@org.get_rpod ####################
-********** RpoD randomly assigned to G185E-8209-MONOMER
+********** RpoD randomly assigned to G185E-6951-MONOMER
 
 **********Solution:
 genome.gb does not have a valid annotation for RpoD. A random identified sigma factor in me_builder.org.sigmas was set as RpoD so that the builder can continue running. Set the correct RpoD by running me_builder.org.rpod = correct_rpod
@@ -323,9 +466,7 @@ If those TUs contain genes that are supposed to be in the model, fill them in TU
 The following items triggered the warning:
 asn__L_c
 asp__L_c
-cys__L_c
 gln__L_c
-lys__L_c
 tyr__L_c
 val__L_c
 
@@ -574,8 +715,8 @@ Map or remove these metabolites in me_metabolites.txt
 The following items triggered the warning:
 TS_mn2_c
 TS_4fe4s_c
-TS_k_c
 TS_cobalt2_c
+TS_k_c
 TS_zn2_c
 
 **********Solution:

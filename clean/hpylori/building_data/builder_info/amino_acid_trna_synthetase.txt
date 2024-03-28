@@ -15,7 +15,7 @@ met__L_c,HP_RS02065-MONOMER
 phe__L_c,CPLX2DNV-968
 pro__L_c,HP_RS01170-MONOMER
 ser__L_c,HP_RS07330-MONOMER
-thr__L_c,CPLX_dummy
+thr__L_c,HP_RS00620-MONOMER
 trp__L_c,HP_RS06180-MONOMER
 tyr__L_c,HP_RS03770-MONOMER
 val__L_c,generic_val_ligase

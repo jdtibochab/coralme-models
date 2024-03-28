@@ -4,7 +4,7 @@ arg__L_c,ALW85_RS01920-MONOMER
 asn__L_c,CPLX_dummy
 asp__L_c,ALW85_RS11765-MONOMER
 cys__L_c,ALW85_RS00235-MONOMER
-gln__L_c,CPLX_dummy
+gln__L_c,generic_gln_ligase
 glu__L_c,ALW85_RS08480-MONOMER
 gly_c,CPLX-tRNA-GLY-LIGASE
 his__L_c,ALW85_RS00785-MONOMER

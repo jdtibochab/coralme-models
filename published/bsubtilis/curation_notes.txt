@@ -356,6 +356,15 @@ Check whether the genbank was downloaded or constructed correctly.
 
 
 
+#################### low@org._get_manual_curation ####################
+********** No metabolite_corrections file found
+
+**********Solution:
+Fill in bsubtilis//building_data/metabolite_corrections.txt
+
+
+
+
 #################### high@org.get_rpod ####################
 ********** BSU25200-MONOMER was identified as RpoD. If this is not true, define RpoD!
 

@@ -707,6 +707,12 @@ FEATURES             Location/Qualifiers
                      /transl_table=11
                      /product="TrbG/VirB9 family P-type conjugative transfer
                      protein"
+                     /translation="MRKVLYALVGFLLAFSALKADDFLEEANETAPAHLNHPMQDLNAI
+                     QGSFFDKNRSKMSNTLNIDYFQGQTYKIPLALCDGDLIVFFKTH*RFCFRG*GGF*CEN
+                     FRKQRSYFAYQTPTNWRGF*YQRD***G*DFFFLCVFYHFHQLQTP*FAGFYRR*KLLF
+                     *RFFEAPKRKYG*KCP*RCPHKQQTLKRRKRRNQRKRRRDYNYWR*H*CHENR*KRHSK
+                     RL*GFKKLSKEMVLFRDLF*KVQTLFDA*RNF*RQAIHLFQI*QKISAL*IPGDL*GR*
+                     WL**PGEYKDCGRLHYR*RRFG*MDFKAGQGLFVHPFCQKG*R*I"
      CDS             39446..40581
                      /locus_tag="HP_RS00220"
                      /old_locus_tag="HP0041"
@@ -718,6 +724,13 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="DNA type IV secretion system protein ComB10"
+                     /translation="MNKWLKGAIVFVGGFATIITISLIYHQKPKAPLNNQPSLLNDDEV
+                     KYPLQDYTFTQNPQPTNTESSKDATIKALQEQLKAALKALNSKEMNHSKEETFKNPPID
+                     LKQTQTPLKKTFLQSNGIY*PLASPLSNKALKITKKT*FSPWITLKALMVLLTLKKKTS
+                     PLMKISFYAPLQRIK*YPPFSSRLFLARSLVKSSRRWRAIFLLTWARPS*SPKALKS*V
+                     ITATITKWANTAWILYGAASSLPMASISCSLTLKGRTLKAITAWWGN*LKGISSAMACR
+                     YCFLLSLTAY*LGSLRL*TTEAIKKEPPISLGIIF*CN**GKAAWGSIK*SIKF*EIRA
+                     KSLLLW*LEKGVGSSFRPILTSFSLYPERMKSSLSF*S"
      CDS             40651..42063
                      /locus_tag="HP_RS00225"
                      /old_locus_tag="HP0043"
@@ -884,6 +897,14 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="HNH endonuclease"
+                     /translation="IVACFLLFNAIDPFNLGVLLSRFQIKNGCIYGVCSYKASKSVYGY
+                     EESKAQVLNALNTLSVHPIWQSNQESVTKIKGTFVFILENDLHLDENSFYKKLLNSLID
+                     NDFFNRSHSMTPNQKRFLSGFFESRGSIDTQRNFLTLDYFFHSPLEFKKFHYLIDFFNI
+                     PSEALNFNFRELQPEYAQGINQRNAQFRIYLDWYLHHIGLFNPYKARIAEHVFKTTLAH
+                     DGIYYKLNYPPTTKYHGNSFTECAHFYLKNIYQQDLDDKSIEKLREQLGFIQKSEEFRR
+                     DSKIINLYRLSTPNVCSACCDDYDIKERSFLSLPLYQITQNPDSYYTEIHDFFRQNQRI
+                     RCFSKSC*TLPYLS*GFKKRI*RRGVSKTLD*KHSQSQ*RQFRVCAIAF*NR*FFNAY*
+                     SYL*KLEM"
      CDS             complement(52459..53718)
                      /locus_tag="HP_RS00270"
                      /old_locus_tag="HP0053"
@@ -1899,6 +1920,10 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="hypothetical protein"
+                     /translation="MKTIEWNEEQRKAFQDLLREFTALIDAKAQEEKQTGRTPKIPKYG
+                     SCQNGLNKFLAPWGYACKISPGSHGRLSYKPSIAFCRQDILGEGFVNGEIPTPTKGFYI
+                     WLAYYWHNDAKKFHLCIGRSIEENGEKECQKCLAYDKIIDPDGDAYYQESYDDLKSPS*
+                     KHYRLFFTPY**I*SNPHCVF*IRAI*REPL"
      CDS             complement(116362..118224)
                      /gene="dnaK"
                      /locus_tag="HP_RS00555"
@@ -2464,6 +2489,15 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="DASS family sodium-coupled anion symporter"
+                     /translation="MIKQTLIILAPFFIATLLYFLGAPDGLRPNAWLYFCIFMGMIIGL
+                     ILEPVPSGLIALSALVLCIALKIGASDKVASANKAISWGLSGYANKTVWLVFVAFILGL
+                     GYEKSLLGKRIALLLIRFLGQTPLGLGYAIGLSELCLAPFIPSNSARSGGILYPIVSSI
+                     PPLMGSTPNNNPDKIGAYLMWVALASTCITSSMFLTALAPNPLAMEIAAKMGVNEISWF
+                     SWFLAFLPCGVVLILLVPLLAYKTCKPTLKGSKEVSLWAKKRN*RAWGGFL*KKF*CSA
+                     LPYWLYWVGFLANL*ACMRVRRL*LSWF*WRFVRL*AMKTSLKTRARSIFFYCLDRCSR
+                     WLAGLKM*GF*ILSAMRLKIF*SMLTWIR**RSCLL*PSFICRIIFSQASPLM*ARYSR
+                     FL*GLVRTFKGSICKN*ACF*CFL*GLWGF*RPMAQAHPPFITGAGIFKARIFGNGGLF
+                     LAFCI*SCF*ACAHLGSNSSLIGGC"
      CDS             156334..157800
                      /gene="ccoN"
                      /locus_tag="HP_RS00710"
@@ -2796,6 +2830,14 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="HAMP domain-containing histidine kinase"
+                     /translation="LRFSIFFKVVALFMITLFSFGAFAYYFVSSQISHENYQNEMRHYQ
+                     FVTTINEILNNYSDYRAIEDYLYKIGFRETTIENLEKVLAKRRHQLHHRNIGYAEVFKF
+                     SDMVFILLKKDEHFVLYKDLHSVSYRNYFLAITVGLLLILFLFLFVLQSLLPLRELRSQ
+                     VKPSLKGIKA*VVKASKKMK*GIWLTNLTIAF*KSMR*MNLGFYFCALSCMNCAPLSLR
+                     ARY*ALCSKKSCLANAFHLYLTT*TC*LSNLPALSSSLPKIMGAIKKNF**AI**TRLK
+                     KCF*LMRIKKALSMYPLPITLLKRILNCFP*R*KTW*IMRLNTAMTNRCFWIS*AII*W
+                     CPIKANL*KKILKSICNPTLNLLTPAKPMVLG*ACISLKTL*RLWD*I*AIITAMEEFV
+                     SLSMIAFLIVFTI*KRIMKSYPPPPRKFERSERNEGDRKSQLWG*"
      CDS             complement(173778..174455)
                      /gene="arsR"
                      /locus_tag="HP_RS00810"
@@ -3173,6 +3215,9 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="DUF262 domain-containing protein"
+                     /translation="MKTTIKEIFQAEGYSIPNYQRDYAWKDKNFRDL*EDLEEAIEYNK
+                     KGQGHFIGTMVVAKNEDNKKLYDIIDGQQRTTTIFMLLHVLANKQNEKDKQETRKYLYQ
+                     KGELKLEVAPKNQSFFKTLLEAAEKENISQKKMQTPRASKIFLKF*"
      CDS             195057..195590
                      /locus_tag="HP_RS00920"
                      /old_locus_tag="HP0189"
@@ -3431,6 +3476,8 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="hypothetical protein"
+                     /translation="MKKVVFLLLVILGGLEAQSTYCSDHCEGTPDSRIPPMGFHFSFVH
+                     SVKYYLQDPQERDHKLEKCHQAFDSTLKVNFITNLLKRIASMRKWL*SKPKKGLH"
      CDS             208298..208486
                      /locus_tag="HP_RS00995"
                      /inference="COORDINATES: similar to AA
@@ -3470,6 +3517,21 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="AAA family ATPase"
+                     /translation="CTFVNNFINLIASYNLLESFLDFYKEKLKLSELVTEYANATNNLL
+                     FKELIKHVSGNSEGIKNFCQCVKEIKKCNTPNKKYNSDEFFIMGKHKQNQLAKIYSYFK
+                     KLSEGEIKPQNEDILKKLKSLDEIFKTTDFTKFTPETEVKDIIKEIDEKYPINENFKQQ
+                     FRTFRLNIGNLKKKIKNSLKYLEKTRKNFERKKESLIREIEYYCKNQKTLEFDYDVLLD
+                     NIQQICKKYIASHVVNDASKDIKSMMCQFYLEKIDLLFNSEIEQYRYSDFLESARKFLW
+                     EDIKTLDEKSGVHLFPKNIGEIKDKFETNKEKFKQSKNYSEFAEYCRECNPYTAFQNLR
+                     NKVQFPLSGGLSYKSYKLVPTMKEYKEPKITDNDLKTALFTLFDYSSPSEFDQWDWFFR
+                     NSLFRKMDFNPYNIWKNLNLDDKKDFAEILEYNMQLKINSLITKEFNKLLAIAEDSSQD
+                     SYQLKIRVRHNNKFYDYSKKSTAYEIKLEIHDCRKSHDQNEPIILSQQSTGFQWAFNFM
+                     FGFLYNVGSDFSLNKNIIYVMDEPATHLSVPARKEFRRFLKEYAHKNHVTFVLATHDPF
+                     LVDTDHLDEIRIVEKETEGSVIKNHFNYPLNNAGKDSDALDKIKRSLGVGQHVFHNPKK
+                     HQIIFVEGITDYCYLSAFKLYFNEREFKENPIPFTFLPISGLKNNPNEMKETIQKLCEL
+                     DNHPIVLTDDDRKDGSDPQRAKSEQFKNANEEMHDPIRILQLSDCDRHFKQIEDCFSAN
+                     DRKKYAKNKQMELAMAFKTRLLYGEKDDVMSEETKKNFLKLFEWIKKECNNLTIKKEYI
+                     KFDYNTPQML*"
      CDS             complement(211850..212176)
                      /locus_tag="HP_RS01010"
                      /old_locus_tag="HP_0206"
@@ -3514,6 +3576,14 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="glycosyltransferase family 8 protein"
+                     /translation="MQEIIPIVVAFDNNYCIPAGVSLFSMLANAKRERERERE*NSFIK
+                     SIVWWRV*PQRI*PN*KKRSLLLELFLA*SFWILPIKN*NHATIIISLIL**RVKLKNC
+                     I*NSMLFRKNAFLK*SCAVSFLPPFSPNTIR*SCLMWTLCL*MILARAFLSPLKRIILG
+                     L*GKKI*SL*IGIRLRIYTNCAKCMQNLSASPTLSLI*KKLKSFLTTTLTPGF*P*I*N
+                     HGVKKILKTN*LPFSF*KMKNFYLTIKMLCVLCAVGGF*NCLIHTMPTLVSLIRSHSLA
+                     SKKRACCIFGAINPGNS*ASLARKNGMKR*SKRLLKTPISTLLF*ITSLNPFKTRIMRS
+                     KEEMKGSLKHFKQGIKSCLFQTSDILLNLFCPSFLLNSL*NFCFLKPNKK*SD*LKGFF
+                     "
      CDS             214745..216097
                      /gene="hofA"
                      /locus_tag="HP_RS01025"
@@ -4324,6 +4394,15 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="Hop family outer membrane protein HopG"
+                     /translation="MKNTNTKEIKNTRMKKGYSQYHALKKGLLKTLCFLAFL*AWR*LK
+                     TMAFIWEWAIKSAARNKISITKAAP*GIMSLIISAKWAWVWQGVMGF*P*RQTRPWTLF
+                     *G*ATKLSILIQLLATTTQN*PSLKKYSLKLSNALKRIKTLIAFKPCKCI*VMCFITWL
+                     IIVIMAVIMESFLNM*EL*KFSMVLKMNSVS*PRRVWCF*TRLQG*IWIVIRCF*KGY*
+                     PKCSFLMTLLQQS*ARSQKT*RTVVQDQCSKRM*KPSRIESLLTKRI*NS*EGC*RITM
+                     NPTCPNLGQAQALSMGLLMALAFKWAISNFLGTSGI*AYDITLSLIMALRNWAVLAAPL
+                     KRISLLMALARTFYGISLEGFLAISP*MWGCLGAFK*RVTLGIAL*EVKLKTRLKNTPL
+                     PRISNFCLIWV*GLILPAPCTAGF*ARLKAFSMGWNLA*KSRLSIKGI*GPMGLMWITG
+                     VCMRSISITR*VF"
      CDS             264709..265944
                      /gene="purA"
                      /locus_tag="HP_RS01255"
@@ -4456,6 +4535,10 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="hypothetical protein"
+                     /translation="LGLADVILERFKDFMREQPEPYKFLQVFYAQEKERFLNHKMSDYI
+                     KQNKSKEEASILARQGFVSAVGRALEKIIELLLKDFCIKNNVKMTNDKILRAKRINGEL
+                     DRVKRALWVHFGEYSVLPDIILYQTNKDNIKILAILSVKNSFRERFTETPYWKLKLLQS
+                     PVTSHIKVFMITPDNDDEISFKDKPKG*DRHGA*M"
      CDS             271795..272553
                      /locus_tag="HP_RS01295"
                      /old_locus_tag="HP0263"
@@ -5771,6 +5854,10 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="sel1 repeat family protein"
+                     /translation="MAEPTPEEPVDLGLKSMRLGNVSGKVEDFIRGRKYIEKACELNDG
+                     RGWNGKKRLEESHSILC*SV*IE*NVWVSVISFELSNKQTKTLSISL*SL*IK*W*WM*
+                     VFRGFL*EWKICKKGFKKSCSILL*SLWIK*SRWVFNTRI*AICWQGRSQK*KTSGENL
+                     *KGL*VRI*RRMWYFKQLL"
      CDS             349779..350084
                      /locus_tag="HP_RS01660"
                      /old_locus_tag="HP0337"
@@ -5851,6 +5938,11 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="hypothetical protein"
+                     /translation="MSYFFKIILGTSVIVGVLLGLWRLTYDKFYFSLVFVLLILGIVAC
+                     SYISLKMHQRKCFAKCFVNSESFLSKMLHSPIMVICFYFIFSIFTSISIVYSVLDYDQM
+                     MWGFVFCTIVVCAVVFGTLEKNAQEYHQRRLFDADV*RSECFCGDSFLHWLELLCDLSW
+                     QHARLFETGFDRHY*GSE*FHLFQLRLHGLFFEG*KDVRGVCLVEHVQSGEHGLK*GVY
+                     GCGLGSVYHL*RS*RDSHQQAERSNHLLVIKIF*E*VWKM"
      CDS             352764..353099
                      /locus_tag="HP_RS01690"
                      /old_locus_tag="HP_0345"
@@ -6294,6 +6386,12 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="SAM-dependent methyltransferase"
+                     /translation="MQTLFKEITPKRYVNGNEMKENSSNVLDQYFTKPSVALKCFQKAC
+                     EVIKKYENPDDFL*IAYASKSDLLGQPSFWASWGYGVRIYQPC*KL*FCVFYPTHVL*K
+                     SRKRLY*ISCERFESAL*RTLRKKCVYRF*K*RSGCALRVSNLEQKVSK*EK*IFLV*E
+                     SP*RTL*RIYQGFHGFIG*KQRMR*RVDF*SKSVFLHFINFL*KHTNCREL*GS*V*IR
+                     YCCGIY*H*QGFKH*IKKTIQRD*LDKIRKFSD*FLLSFRKKSYFSSLI*SFG*FKG*L
+                     "
      CDS             complement(378258..379625)
                      /locus_tag="HP_RS01820"
                      /old_locus_tag="HP0370"
@@ -7099,6 +7197,14 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="transposase"
+                     /translation="MKVNKGFKFRLYPTKEQQDKLQHCFFVYNQAYNIGLNELQEQYET
+                     NKDSPPKERKYKKSSELDNAIKQCLRARDLPFSAVIAQQARMNVERALKDAFKVKNRGF
+                     PKFKNSKSAKQSFSWNNQGFSIKESDDECFKTFTLMKMPLLMRMHRRLPPNFKVKQISI
+                     SCSHRKYFVSFSVEYEQDITPIKNTKNGVGLDLNILDTACSCEINNHDKLTDFKQYQTD
+                     MKELLGIEIDEELDTKRLIPTYSKLYSLKKYSKKFKRLQRKQSRRC*SLNKTKPN*GGN
+                     FYKTQKXLNQAFDKSSHQKTDRYHKITSELSKQFELIVVEDLQVKNMTKRAKLKNVKQK
+                     SGLNQSILNASFYQIISFLDYKQQHNGKLLVKVPPQYTSKTCHCCGNINHKLKLNHRQY
+                     WCLECGYREHRDINAANNILSKGLSLFGVGNIHADFKEQSLSC*"
      CDS             426876..427292
                      /gene="tnpA"
                      /locus_tag="HP_RS02050"
@@ -7398,6 +7504,10 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="VWA domain-containing protein"
+                     /translation="MALDLSKYTMEERFIPVFLLLDTSGSMSASLGDPHTH*SA*SLYS
+                     KNDRNSKARS*KRVI*QNGYCYFWWKWCGFAHGLW*YKKHQF*AFKHEWWHPFRSSV*I
+                     G*GSY*R*RHFPY*IL*TL*HFSLGWRAK***VARAFV*LPP*WEKR*KCVLEHFYWRQ
+                     K*QPAS**GFWQRWRILYR*CGKVSEVV*NHDSNH*QGFCFN*KVELDSM"
      CDS             449802..450123
                      /locus_tag="HP_RS02135"
                      /inference="COORDINATES: similar to AA
@@ -7410,6 +7520,9 @@ FEATURES             Location/Qualifiers
                      /transl_table=11
                      /product="hypothetical protein"
                      /old_locus_tag="HP_RS02135"
+                     /translation="MKIIIDNSGSMNENGKKEALQL*LLAFEQLAKKYRYTKVGFKGFK
+                     RGV*RRFVVERWAFYRRNSS*IQCGFWSGCQYDQT*KNLF*SV**R*NFSSIAFHEKKW
+                     MRL"
      CDS             450127..450813
                      /locus_tag="HP_RS02140"
                      /old_locus_tag="HP0431"
@@ -7470,6 +7583,18 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="AAA family ATPase"
+                     /translation="MLSFIKEDSIIKAYNLNTAKLEPKDREKLGLLKIEKNKIYFHLDE
+                     KRYLKLEIIGKTKEKEIKNAFCSNAFLAAQVLNLNQERQVLELKCHFFKHPIKILPEPL
+                     NINFKDTIIKKLLKDMGKDKKIEDFKETCILKIAGFTYFVCVLPYEYENKEDKENSEEI
+                     LKEDFRLLNTKGGLSVKRALINNRHSYEAIKLRPIKQELVPGLCLFFQGSLEFNDKTTK
+                     TMRTSLLDQIQQDDKSYLKIWEKYLIKSAQKSFNEAKEVGVLEIESVSKEGGNLRIRFK
+                     PALGKNKMEILKKSQFKKGSDLGVLEDLDPQNEENLINLISEQKKQISKNNSQSIMIED
+                     ISGDDFIIDYDLSIKEGDAFHLNYMGDLNTLKKQYSALDKTKKGLKRQS*FRINFKH*R
+                     G*RE***R**YCRHDG*SLKRDFIKLSKKSFKINQKS*KEDF*E*SHRKSKKSHKDRSK
+                     YP*YCYYPRASWNGQNHCDQCHL*EIV*RIP*G*KYQGANFTVRSRA*CD*QCA*AHQS
+                     RGIAHF*IWC*KKC*RRTIQAR*KIE*AIERVC*NAHRKREKKTAKIRGL*KYRKNFGF
+                     RRSP*TLL*FAYQ*IGIFKRNRKK*ELFLILLCVKS*AN*KQGSKNKKCPPTYLLSMLY
+                     APHKRGLKMMELCVIMIF*KASLKKILPKKIESFWNRLSQI*KNYKSLK*DC*KR"
      CDS             complement(454330..454776)
                      /gene="tnpA"
                      /locus_tag="HP_RS02160"
@@ -7516,6 +7641,13 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="virB8 family protein"
+                     /translation="MSKRSEVLEQFHGGLKNLELQTKRRMGLWGDPKENEEQTLFLEEI
+                     ENELKQLENKENLKADNNTEFKEENQDTKENQPNDLFSLPLPTQTTINGIKEFVEEPVI
+                     ETEKKETSQNEPIQEKKERIFKNFFSRIGFDKSIAPTMLFEEVRDASVIYHLEKKLGDY
+                     IFYVACFFFGTTALLIILLTILLPLKQKEPYLVQFSNNKENFALVQKADSSITANKALI
+                     RSLVGAYVLNRESITHIEQHEKMRQNTIKEQSSNEVWYEFEKLIAHYDSIYTNPLLTRK
+                     VKIANIYLDKDLAYIDIEVSLYHSGELESLKRYKVVMSFEFKKQEINFDSMSLNPTGFM
+                     VTSYDVTEIAIV"
      CDS             complement(457297..459330)
                      /locus_tag="HP_RS02175"
                      /old_locus_tag="HP0440"
@@ -7622,6 +7754,8 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="hypothetical protein"
+                     /translation="MQFPLKKDLRISQKYVIPKGFDPTNKEYKNFLVKDLPKLVHREVE
+                     IVMKLLFEINEVVDRD*SHEISHSSNGSCFV*CESHTL*NEISQRD*KE*IWV"
      CDS             complement(464158..464937)
                      /locus_tag="HP_RS02205"
                      /old_locus_tag="HP0446"
@@ -7668,6 +7802,9 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="hypothetical protein"
+                     /translation="MKIISFENDSVCDKHLLIPCRIYCVELEIRHNDLGLNAIEKCALK
+                     LKESGVKDEELKGFLGFGGELDLLEPILEKIETKTLEEYKKIHAHFYYNLINQEFLHFV
+                     DLERVRAIDGKEVK"
      CDS             466757..468175
                      /locus_tag="HP_RS02220"
                      /old_locus_tag="HP0449"
@@ -7701,6 +7838,8 @@ FEATURES             Location/Qualifiers
                      /transl_table=11
                      /product="restriction endonuclease"
                      /old_locus_tag="HP_RS07935"
+                     /translation="MSGNEELELRARETELDKRVAELDKREKQLRKDIDAFKQEKKFI*
+                     KTEKNLKIL*KIERYLKKSRFKKLKRAYGLMKK"
      CDS             468417..468701
                      /locus_tag="HP_RS02225"
                      /old_locus_tag="HP0451"
@@ -7791,6 +7930,11 @@ FEATURES             Location/Qualifiers
                      /transl_table=11
                      /product="integrase"
                      /old_locus_tag="HP_RS02245"
+                     /translation="MAKTLKPNLDKDELNTLYKANLAYAKNTHEHYFKFKKDLDYKLFN
+                     PSIMHEQGSISFVADKELKDY*TYSTSSHLMLSLIRLP*IDITPKCFCKL*QEL*ERMS
+                     IY*KSKVLLKSLKENKDTCMCILKITEN*RAITP*ELIKRTISHRLFSYRLCVS*KSLP
+                     KKLRE*K*QQRMCYAYS*PRAYAKS**CCFKIHAYF*S*YHLHFILQGFNKQRHSF*SL
+                     FLSNSHCEEKSLKGFKRQRMCRRIY*QLTQSFKLLSRECL"
      CDS             474833..475063
                      /locus_tag="HP_RS02250"
                      /old_locus_tag="HP0456a"
@@ -7829,6 +7973,8 @@ FEATURES             Location/Qualifiers
                      /transl_table=11
                      /product="TrbC/VirB2 family protein"
                      /old_locus_tag="HP_RS02260"
+                     /translation="MKKLSHFRKLIAFLGFSPLLLQADMTTFFNSIEQQLTSLRLKAF*
+                     WSFF*DLLFLYGKT*IDGKKF**PCLLLQLVLQSFLKPQP*LTGL*VFF"
      CDS             475826..476089
                      /locus_tag="HP_RS02265"
                      /old_locus_tag="HP0457"
@@ -7894,6 +8040,9 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="hypothetical protein"
+                     /translation="MSNLQELREHLKELENSFEIGSFTKENIKEYAKCFFMSLSMFLEE
+                     QEKNQQEEFLEQDTKENQEELIKNIQTSIAKNQELEKISFEKWENKIQERVLPKLKRIV
+                     THKLQESITSSINTQLESFKKDELDLSSVFEIQRKNTQIAYRLAIGGLIGIIALS"
      CDS             complement(480062..481159)
                      /locus_tag="HP_RS02285"
                      /old_locus_tag="HP0462"
@@ -7924,6 +8073,16 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="SAM-dependent DNA methyltransferase"
+                     /translation="MPNNALLQIKQDTLSLIDDLKVICTSFGLGNDGNEYKIITQCFLY
+                     KFLCDKFEFLFEQEFPNQTIQDYKDFNKEEKEEFFITLTDKRLPKLAYDDLLNYLFEKH
+                     FNDNDLHLKLDIIFNRISSNNAELFNTTSTDKTTIALFESISQYINEESKRANFTRVLL
+                     DKLKKFNFKQAFLNLQNQQGYDFFAPIFEYLLKDYNNAGGGKYAEYYTPLSIASIIAKL
+                     LINEPTRNVKIYDPSAGTGTLLMALAHQIGTDSCTLYAQDISQKSLRMLKLNLILNDLT
+                     HSLRNAIEGNTLTNPYHSKDFKGKMDYIVSNPPFKLDFSNEHAEISQNKNDFFLGVPNI
+                     PKNNKSKMPIYTLFFQHCLNMLSNKGKGAIIVPTGFISAKSGVENKIIRHLVDERLVYG
+                     VVCMPSQVFANTGTNVSIIFFQKTPSAKEVVLIDASKLGEEYTENKNKKTRLRPSDIDL
+                     ILETFQNKTKKSDFCALVSFDEITEKIIL*TLGSISL*KTRARKSAKRSLKI*CNNIQA
+                     N*QAFLMKARACNKKF*KL*KGLGLS"
      CDS             complement(482775..485942)
                      /locus_tag="HP_RS02295"
                      /old_locus_tag="HP0464"
@@ -8261,6 +8420,12 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="DNA adenine methylase"
+                     /translation="MHANLFNQNASKKDVFLHNLRSNNGRYKRYIKAPLRYGGGKSLAV
+                     GLIVECIPNGVRRMISPFIGGGSVEIACAAELGLEVLGFDIFDILVNFYQVLLKDKQAL
+                     YNHLLSLEPTRETYNIIKQELKAHYKKECTLDPLILARDYYFNFNLSYGPGFLGWMSKI
+                     YTDKQRYLNALLKIKGFNAPSLKVECSSFEEVLLAYPNDFFYLAPLMC*KILKCLRGFI
+                     LCVIFLSTIMVLNMKC*LTC*KGIKSHLF*AIMTANL*GMLIKILKF*NHLGNTLWDKA
+                     RSEWVKIA*KEAIITMSNNLMSY*LSRS"
      CDS             505374..505886
                      /locus_tag="HP_RS02385"
                      /old_locus_tag="HP0482"
@@ -8287,6 +8452,13 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="DNA cytosine methyltransferase"
+                     /translation="LYKVADIFCGAGGLSYGFSMHPYFELIWANDIDKDAILSYQANHK
+                     EV*TILCDIVQLHCHNLPCVSIDILLGGPPCQSYSTLGKRKMDEKANLFKEYLRLLDLV
+                     KPKIFVFENVVGLMSMQKGQLFKQICNAFKERDYILEHAILNALDYGVPQMRERVILVG
+                     VLKSFKQKFYFPKPIKTHFSLKDALGDLPPIQSGENGDALGYLKNADNVFLEFVRNSKE
+                     LSEHSSPKNNEKLIKIMQTLKDGQSKDDLPESLRPKSGYINTYAKMWWEKPAPTITRNF
+                     STPSSSRCIHPRDSRALSIREGARLQSFPDNYKFCGSGSAKRLQIGNAVPPLLSVALAQ
+                     AVFDFLKG*"
      CDS             507136..507888
                      /locus_tag="HP_RS02395"
                      /old_locus_tag="HP0484"
@@ -8374,6 +8546,8 @@ FEATURES             Location/Qualifiers
                      /transl_table=11
                      /product="hypothetical protein"
                      /old_locus_tag="HP_RS07940"
+                     /translation="VASFKALGNFTPKMRSGAFLYSVPKVNLVH*YFNAPLRVVAKPWL
+                     KFFVVAGFKLSAILASFLKSL*"
      CDS             512806..515679
                      /locus_tag="HP_RS02415"
                      /old_locus_tag="HP0488"
@@ -8677,6 +8851,11 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="R.Pab1 family restriction endonuclease"
+                     /translation="VSLIKVSGDKKAIEVSIPLTSILGKVRVKIRHAFSDYGISTATRK
+                     SLLV*NIM*SGRSVMMSPLKIKKNLNSLL*KMKNIIF*GLMIK*KLFMN*VK*LITLSN
+                     *V*SV*KI*KIL*NI*KNKNNL*KIIL*LQEKDSDRINLVAWILNSHAFLILCSFILLM
+                     IMS*AKLLLESNNTALKPKPCCIFAFLFWN*KPLPLY*IEPLHSKNMLF*PSIKPTLPC
+                     F*KCLKFLDF*AKRTIAMC*RF*KKYFKI"
      CDS             531991..533202
                      /locus_tag="HP_RS02495"
                      /old_locus_tag="HP0506"
@@ -8815,6 +8994,19 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="DUF262 domain-containing protein"
+                     /translation="MEADATTLLGFFEENQNNQFVIPIYQRLYSWKKE*CEQLWDDIIK
+                     IGGNDKMNGHFIGSILYVLDSNTHSNNTLLIIDGQQRLTTITLLLIALRNHLSEEVEIL
+                     EKFSRKEIESYLINSNKDGDKKFRLILSESDKDTLLSLIDKNKRKPSEPSVKIVENFEL
+                     FEKWISENTDKLETIFKGLKKLMIVWISLDKGKDDPQLIFESMNSKDIELTQTDLIRNY
+                     IVMETEVEKQEDFYNQYWRAMEERFEQNETLFNRFVRHYLTIKIGKIPNEKRVYEAFKD
+                     YRQKKGIEIEDLLKDLQKYCGYFCQIAFKKEDDKDLNKALSFLVNLEMDVIYPLLLELY
+                     SDYKDGVLSKQDFIPIIYLIESYICRRAVCGLGTNSLNKVFPSFTKHIQKDEYFKSLKA
+                     HFVCLTEKQRFPNNDEFKKLFITIDFYKFKKNKYFLERLENFDTKEPVDTQKCNIEHIM
+                     PQTLTPEWQRDLGENFQAIHEKYLHTIGNLTLTGYNSKYSNNSFQEKRDMEKGFKQSSL
+                     KLNQSLKDLESFGEKEIEKRASDLADWALKIWTYPILEAETLEEYKPKKEKKEKKEKEE
+                     YKLKKEKKVYDLSSYKFSSDSRELFDILREKIKALDERITEKFNQKYIAYKFCKISFVD
+                     IVVQEKGLKLYLKMNLNELQDEIKEKLKIRDVSNIGRPCVGNMEVELETKENIPYCLGL
+                     IKQALEKQMGGRNRQ*"
      CDS             542013..542462
                      /gene="rplI"
                      /locus_tag="HP_RS02535"
@@ -8946,6 +9138,9 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="cag pathogenicity island protein"
+                     /translation="MIQRGLSSVSFYYGCSNYVNKGGCKGVLREINGSMKMVCLASIKA
+                     NIKENSFFLGCKIILSVNGLLVWIHKILNIPNAMD**KEKRISKTMSFLQLHYLP*MQW
+                     NFVSISILKKRKLMF"
      CDS             548134..549579
                      /gene="cag3"
                      /locus_tag="HP_RS02570"
@@ -9501,6 +9696,12 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="hypothetical protein"
+                     /translation="ISQHQVLGATCVGLAVKHLGIELMEFDVTIIDETGRATAPEILIP
+                     ALRTKKLILIGDHNQLPPSIDRYLLEQLESDDIQNLDAIDRQLLEESFFENLYKYIPES
+                     NKAMLNE*FRMPASIGSLVSQLFYKEKLKNGVIKNTSQFYDPKNIIRWINVEGEHQLEK
+                     TSSYNKNQVQKIIELLEQINRVLNQRKIRKTIGIITPYNAQKRCLRSEVEKYGFKNFDE
+                     LKIDTVDAFQGEKADIIIYSTVKTYGNLSFLIDSKRLNVAISRAKENLIFVGKKSFFEN
+                     LRSDEKNIFSAILQVCR*"
      CDS             complement(584583..585350)
                      /locus_tag="HP_RS02705"
                      /old_locus_tag="HP0549"
@@ -10597,6 +10798,61 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="vacuolating cytotoxin domain-containing protein"
+                     /translation="MTYRSSKTDLKNERFSKNRSFKGIKKKIAKKYTIKNSPLTIYSLK
+                     THSNPSLSINKKIFLGLGFVSALSAEDYNSSVYWLNSVNENNNNKSYYISPLRTWAGGN
+                     RNFTQNYNNSQLYIGTKNASSTPNHSSVWFGEKGYVGFITGVFKAKDIFITGAVGSGNE
+                     WKTGGGAILVFESSNELSANGAYFQNNRAGTQTSWINLISNNSVNLTNTDFGNQTPNGG
+                     FNAMGRKITYNGGIVNGGNFGFDNVDSNGATTISGVTFNNNGALTYKGGNGIGGSITFT
+                     NSNINHYKLNLNANSVTFNNSALGSMPNGNANTIGNAYILNASNITFNNLTFNGGWFVF
+                     NIPDAHVNFQGTTTINNPTSPFVNMTGKVTINPNAIFNIQNYTPSIGSAYTLFSMKNGS
+                     ITYNDVNNLWNIIRLKNTQATKDADKNHTSSNNNTHTYYVTYNLGGTLYNFRQIFSPDS
+                     IVLQSVYYGANNLYYTNSVNIHDNVFNLKNINDDKADTIFYLNGLNTWNYTNARFTQTY
+                     GGKNSALVFNATTPWANGSIPKSNSTVRFGGYEGVNWGKTGYITGTFTADRVYITGNMM
+                     TGNGAQTGGGATLNFVGATEINIAGATFKNLKTTSQNSYMTFMALGDSSGSAKINVSQS
+                     DFYDWTGGGYDFTGNGVFDSVNFNKAYYKFQGTENSYNFKNTNFLAGNFKFQGKTTIEK
+                     SVLSDASYTFDGTNNTFTEDKFNNGSFNFSHAEQTDAFNNNSFNGGSFSFNAKQVNFSG
+                     NSFNGGVFNFNNTPKVSFTDDTFNVNNQFKINGTQTTFTFNKGVVFNMQGLLSSLSVGT
+                     TYQLLNAKSVDYKDNNALYQMLRWISGENPSGTLVNKDQSAPNSAKIYNVHFTDNGLTY
+                     YIKENFNNGITLTRLCTLGYTHCVNIDNDAFNLKNVNNNASNTVFYLNGMTTWKIAGTG
+                     VFTQDYSGANSVLVFNQTTPFLAGANPTSNSVVSFGKTSGAEWGLVGYIQGVFKANQID
+                     ITGTIRSGNGAKTGGGATLVFNAQKRLNIANAHLNNDKAGLQNSWMNFIVNNGNLNVTN
+                     AKFSNQTPHGGFNLKANNITWDKGSVNGGGNFGVDNADSNGATTISGVTFNNNGTLIYK
+                     GGENSAGNSLTLENNTFNSYNINAKAQNLIFNNNSFNGGSYSFNDTKNTTFKGTNTLIN
+                     SDPFSRLKGSVSIENNSVFNIERDLTDKTTYTLLSGNSIKYNNQALAGQCFFKKFMEFN
+                     PLWWRTRDSIKSG*QHLFCAIHPKQRPKICF*RNF*SGLYHL*IFHYPFFAFPHRR*F*
+                     GYLESSEEAI*FHSRKNPCVCWRVLYRAL*KSRPYWL*RFCVVAELWGHGGRDFAFRER
+                     SRKSQ**WRIDLVW*E*FAVFAWQFQRD*YLFNE*F*CRQP*RWRWGDD*F*R**NLER
+                     *RVKLHEFPNRGFGLTNQCEPAFMGEF*FQAFYGD*KF*L*GFHMGRL*F*FRAYHF*K
+                     HHF*RLDQY*RSD*ERLIVCEYGCEYGFDIF*FHFRRGHSL*FES**HYFQ*LSNGY*C
+                     V*ECESVIIEWECYFQ*FQAFSQAQCGY*YWG*PNPNGFRKRFKPFFLQQQRGEF*RHN
+                     RF*RGVLFEFEP*RSSKLQSSKFQ*R*CNFLWHSFIW*NA*FWQLCTPYQFQREYEF*S
+                     SHAQFKG*KYPYQFPRRFYF*TKLYDEFS*KFPSEL*RS*SGRGNEFQSQ*LKLVEFQW
+                     Q*RFQRSCEFLC*SFSNFFH*ISDF*F*RFF*FKQQQHPEFSKRSFKWCSKPFRQWQ*Q
+                     SSDQR*REF*FWV*RDFESVLYESIWGG*KNFRL*CVASPKY*WLNGE*RL*EDPFLWH
+                     TD*QG*LLV**RRSFLEIH*PAQYD*NDYRNLA*QPLESADLSKRRF***DVQSRS*LV
+                     *LPKKPL**NREFL*LHKR*GWHLLFNEQYQRL*SKQ*NTRDL*RAKPTLTSLTHLQSG
+                     YH*ARFEHDRQFG*GVFA*NSQSFIFRGFG*SQ*PE*F*NSFWYL*KVWYHFKPRKLEE
+                     LIKDYQ*FFQHN*L*FLSRQSRCRSDQRGANEH*KRGVVWRRRL*RAMCGWG*HLPDVQ
+                     TD*FRAIAPF*YALFRLH*R*F*G*KHLHYRNHRQRERLGEWRECECVF*KRH*FSA*S
+                     S*D*RSRDR*NLFLLGARGY*KAFWRKRFRECAF*YHL*RELE**RYP*RFSQHDP*RF
+                     WI*DFKLIA*PY*SE*PLRRERIQKRDHGNFKF*NGGRCFW*KRAFKRARSYGKKKN*S
+                     NAFRANPSPFFRV*KIHRENFRD*KCREFHQ*LVWQAKLEFFCQ*FCAWRLESSP**NR
+                     L*L*CQRLTELLG*NDFWGYFKSND*TSPLNQ*THFLAGSAGFERFSEYRFK*HH*P**
+                     RAD*HHF*HR*KSVK*LIRRWRSE*NHEQSSLRANDQ*NHC**GLWRRLSARFRLHTAS
+                     IFTR*IEEIGHGLFTRI*GVAQSLAKREFQFCG*RLFIH**QLV**RHRGGIEFCGGQV
+                     YYF*REKYDQFHAVSG*AFVYF*RFF*HFIRYLKRY*RINA*CS*K*H*RSKRSDLREC
+                     FKLHGREKSSFFKRDSPNQ*NTRSECE*FRFFRCN*G*WISGFFKSFTKYYDRDFRFRA
+                     KRYF*SESFDRE*RF*Q*L*LQG*Y*R*SQCG*RSGSQHE*KWFECGGRFQERRVINL*
+                     S*Q*NQSNDY*CGWQFYDHVL*QSSFNPF*YPTQARRLHAY*CETHALWL*QSNHSWRE
+                     LERLPQALHPH*F*RQTHAIKRRFTKL*QPTGQY*RWGSCGKL*RQSGANGVFIYPL**
+                     SSS*RL**AHGYSCP*FGVLH*IHSRQCWFGCDQICRQ*FHSVVE*AFCG*RG*SLVRS
+                     LLFARQSH*THCYFNERYY*RFRHAF*TQS*KQFHRCFTAQHLHATNEPFSQAF*FRFL
+                     *FNGF*RTLEQS*KPKIC*CNP*CDGCDFKILSKG*TKKQPLGDRRWGRELCGKWHRNA
+                     LWCQCGL*QIH*GCDCWRVCGLWV*RFL*THH*F*IR*CGCGLVCEGFH*KERANL*RQ
+                     *NLGG**KPNQLQRHSAFYDQSVL*IQHMDDERKS*LRV*FHV*KQKHHFKTSNWFKVL
+                     LYRHDRFRRGDA*CAL*PV*SERRSV*KIRFND*TCFGEPPLFQHKLLFLCDWRLW*RL
+                     IS*FYGG*IGAFYW*QHFELQERRAL*HFCEHHYRRGSEVV*KLLCECWGGG*VWIGL*
+                     NDQHYRKYWNAFSVL"
      CDS             complement(656878..657378)
                      /locus_tag="HP_RS03010"
                      /old_locus_tag="HP_0611"
@@ -11062,6 +11318,9 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="hypothetical protein"
+                     /translation="MRIVRNLFLVSFVAYSSVFATDLETETKSEKKSSKKFYKFHKNHK
+                     NDKKLYDFTKNSGLEGIDLEKSPNLKSHKKSDKKFYKQLAKNNIAEG*ACQSLTSIRPC
+                     LLGLILKELKAKKPNTWTAG**CTSAF"
      CDS             complement(684146..684598)
                      /locus_tag="HP_RS03140"
                      /old_locus_tag="HP0637"
@@ -11620,6 +11879,34 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="DEAD/DEAH box helicase"
+                     /translation="MQEISAYTLIKEKLQAIPNLRHKGILFEKISKQFLQEHDSANEYE
+                     SIDLWYDWKLRGNERDKGIDIVITTFKQRIHRCAMQIPSK*HLV*RHFTFFNPIAKRGK
+                     GGQV*KRDHHLHF*FNL*RP*RN*ANQKHRNGD*H**NH*RGFYLFSH*LGKV*SHKNA
+                     RRNPLMR*EKAALASNRSHKRH*RVFF*P*KR*RQAHYGMRDRQNLHFFKNHGSFRL*D
+                     HAFSSTQHRFAFSNF*RIRARKK*AVLRFYRVQR**SREK*RRRQ**Y*IF*APFKALH
+                     SP*RHFKRSKKSAKRKQALHYFFNLSKRVAY*RSARSGFGRNRSYYLR*SPQNGRGYVF
+                     ***KGR*KRFHALP*R*KYQSEKTPVYDRHA*SL*RKLQS*SQRER*CYLFYGRCRDFW
+                     RRNLYAQFFKSDRFGSLNRL*SHHFSGAKRKFKRRY*QRE*KDQPAQSRRH*IR*KAHQ
+                     *RICL*DHRHS*RVSQAGFNRFKREKQRRSQLAKPIRHRSLSKSHKLL*KH*HEQEH*R
+                     LL*NDYGML**RVEEKEF*KPKNQHRSH*WHHEL*G*A*KIRRAQSI*AQHLQGFKQRQ
+                     VFERRGGCPSVR*HRLF*WQKRYGGYYPSGG*GDAKSQTQEKRLYHFAYRFRRE*NPKP
+                     G*SRQ*HQFQKHLESDKSLKKP*PKPG**SHF*RKNQNLWKR*WQPITTMKKPFLTLSY
+                     CKI*RTLCIMSCPLN*GTGIIGKISLKKRATSQGP*TTA*KLFLTKTLNFSTAFWIP*G
+                     KISIKTLKKMKP*T*SLLTSSLSPFLMHFLGTTSKTLSLKPWIKW*KNSPL*D*KEKLK
+                     I*KTSMKA*KPKPCTPKAKKANKNSLKTSTTLSLKKPLKSKAKN*GSFIRP*RWWISF*
+                     EPLTAF*KSISTRILTIKASRFLTHSPAPGVLSLVCFLKKTRSLAMKP*KRSFKKICSL
+                     LTSCFCLIISL*SISPKPRKIGMAR*TISKTSRSRTAWII*KKKPIKGCSLYMRI*KKT
+                     KASKTL*PTKILESSSATRLIQPAQRAKTITTKTSHTQSLKN*FMKNTEKIPHLEVWEK
+                     PHETRSFKASAWRAMLLKIGG**ALW*TGVLLTLKARMGSENAWPKNFRIFMY*I*EAI
+                     SALLGKCQKKREGKSLIADRGRR*RLSFL*KIRALLIIRFFIMKWKIT*KEKPNSTGSP
+                     ILKIWILCLLRKSPRMIKAIGSTKGMTLLKNSSL*KETKHSKTTAFLTSILLAW*AVVI
+                     LGCITFLQTF*PNRCKNALTLITLI*SASMRVLGKLSNNALKASKQAIFTNNLMIKKSP
+                     PIKRKSLGLMV*KTNSLKINLQEKAVRSV*GWPCIALLTNNGFIGIRIG*TGKENFQKF
+                     SRIKTLRMW*LIPVWEMVKILALW*AILFLIIV*SHPIKLTPCIITMIWGIAITPSAAI
+                     A*TSSGGIMGII*SLKKRFFITFMRFSTIKAI*KNTKIPSPKKRRASL*AKILKNSLCL
+                     AKNWPNCT*TMRVGKCMIILNTPH**TPK*RVIMMWIK*PKKGIASSITKTSLSLRSLK
+                     KPLTMSLMARARLTG*SNAIKKLWIKKA*LKTTRTITPAENTFLNSFVGSSHFR*KAWI
+                     **KRSAKRGLS"
      CDS             719857..721206
                      /locus_tag="HP_RS03295"
                      /old_locus_tag="HP0670"
@@ -11684,6 +11971,18 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="hypothetical protein"
+                     /translation="MAVRFGIIFISDSIDDYKAKQLRSILERKKECNFIWFNESSAIIH
+                     NTPKVFEGESFFDHLFVSAKITAFVVSTNESDTIFNLKNYLLVLAKNLNNRDIWYCENT
+                     ICDKKGTYNIEIELVSNANDFRGVFGEVLGIVKDTFGDLLQLLTNLKNKEIEFNFHKKI
+                     NYGLPFGIIFIASNSDNPIDIDNKTKKLKSCFRDDESNCFIDCPITIEDYLILDNLKSC
+                     FVIQNKPNVTLFDNDENDRPFNLKRYLLGLKEKLGFEPTGIFYCENANTHKIELIGNDS
+                     DFREVLLEFSENIPKAPNELPQFLTNFKNSKIPNGNISFSPPKNSPSISSYALSDKIKR
+                     EVRDTFDRYLWHGYSKIPQEKRIAKIKEQVKEEIKLNPSFRNYRVDSEQNRKINEIAEG
+                     LKSGKIIGKKVIANAFDLNASLLFYYS**FKEFKGTIIYRYYQCYQPKKESRARSCSNR
+                     *HPV*CA**CVLFYL*CW*PFSISY*SA*KIFRK**VAQH*KKHIQWINKNYLWVY***
+                     KFIFIRKR*NHQGFKYSGFIGAIKNSSISIIIHYY*RYQSKRRGGSRLRSNKRY*V*FA
+                     **HIPFYL*CW*SFVERVKSIYY*SA*RGVGSREC*SAC*IYAVS**S*SKFFSVSYF*
+                     RLLYHSLNR*L"
      CDS             725498..726586
                      /locus_tag="HP_RS03315"
                      /old_locus_tag="HP0675"
@@ -11745,6 +12044,12 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="Gfo/Idh/MocA family oxidoreductase"
+                     /translation="MLFAMIGSGGFIAPKHLQAIRDTGHFLDCSFDIHDSVGVLDEYFA
+                     QSEFFTNIEDFEKHLEQSKDMGKEINYLSVCTPTHTHFDHIRFGLRNGMHVICEKPLVL
+                     DPGEIQELKDLEVKHQKRVFSLLPLRLHCDTLALKEKIKSELDKNPSKVFDITLTYISV
+                     QGKWYFSSWRADVNRSGGLATQMGVNIFDTLIYLFGSVKDKVINKEEPDCVGGILFLEH
+                     AKIRWFFSINPEHMGVAKEKVYHKMILEGEEVNLTQSFDNLYIESYKQILAQGGFGLDD
+                     AMASVKLA**IKKPSSQRTQ*RFACFVLQKQNRPI"
      CDS             complement(729049..731415)
                      /locus_tag="HP_RS03335"
                      /old_locus_tag="HP0680"
@@ -11839,6 +12144,11 @@ FEATURES             Location/Qualifiers
                      /transl_table=11
                      /product="flagellar type III secretion system pore protein
                      FliP"
+                     /translation="LRFFIFLILICPLICPLMSADSALPSVNLSLNAPNDPKQLVTTLN
+                     VIALLTLLVLAPSLILVMTSFTRLIVVFSFLRTALGTQQTPPHSNFSLALFDIDFFHHG
+                     T*PKKGL*YRD*ALYG*KDFLHRSV*KKRSALQGIHA*KHTRKGSSPFF*D*KPP*P*N
+                     P**GEFERFDPGIYDKRVENSVSNRLFTLLAFFGD*YGDQLYFNGDGHDDAPACNDFSA
+                     F*NFSVYSGRWV*FIDRKFSGEF*NGL"
      CDS             complement(734843..737146)
                      /locus_tag="HP_RS03360"
                      /old_locus_tag="HP0686"
@@ -11899,6 +12209,11 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="3'-5' exonuclease"
+                     /translation="MLCVFDIETIPNISLCKEHFQLEENDALKICEWSFEKQKEKSGSE
+                     FLPLYLHEIISIAAVIGDDYGQFIKVGNFGQKHENKEDFTSEKELLEDFFKYFNEKQPR
+                     LISFNGRGFDMPLLTLKALKYNLTLDAFYNQENKWENYRARYSEQFHLDLMDSLSHYGS
+                     VRG*I*MAFAL**IFLVNLM*AGI*CMRFITTPI*AKRRKKALLTAIAKAMCLTLTGFF
+                     *NMKC*KGL*IKSNTLGY*MIF*PNSLRKNPIQAFLLTL*RKRLGSLL"
      CDS             740559..741734
                      /locus_tag="HP_RS03375"
                      /old_locus_tag="HP0690"
@@ -11981,6 +12296,12 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="lipid A deacylase LpxR family protein"
+                     /translation="LFFKFILCLLLGVFAWAKEDIPTPLTPSKRYSINLMTENDGYINP
+                     YIDEYYTAGNQIGFSTKEFDFSKNKAMKWTSYLGFFNKSPRVTRFGISLAQDMYTPSLK
+                     NRKLVHLHDNHPYGGYLRVNLNVYNRHKTFMELFTLSLGTTGQDSLAAQTQRLIHKWGH
+                     DPQFYGWNTQLKNEFIFELHYQLLKKVPLLKTRFFSMELMPGFNVELGNARDYFQLGSL
+                     FRAGYNLDADYGVNKVNTAFDGGMPYSDKFSIYFL*GLWALPTP*HLHSRHSPETRGIA
+                     NLGILVYASEIGAAMMWRSLRVAFTITDISKTFQSQPKHHQIGTLELNFAF*"
      CDS             745801..747942
                      /locus_tag="HP_RS03400"
                      /old_locus_tag="HP0695"
@@ -12289,6 +12610,11 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="Fic family protein"
+                     /translation="MNYKELLEFNDYAMDLTIRMAHHSTAIENNPLSLAETISILTTEY
+                     IPREMPQRAFFEVKNYQNMLFFLLENLNKGQSVDSFFIRELHGILMNFLLPNKGAFKTT
+                     DNTILGASFETTPIFKCLWL*KNGAIISIIR*KPYKIKKKN*KLF*NNTFCLKGYTLLA
+                     MVMVGWAEC*SFIAF*SKT*YHL*SPKNKKRLTLRL*TRAIQKAYTNSPKYPKSLNSHA
+                     YKDK*YSIRISP"
      CDS             complement(768089..769333)
                      /locus_tag="HP_RS03480"
                      /old_locus_tag="HP0714"
@@ -12393,6 +12719,9 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="DUF1104 domain-containing protein"
+                     /translation="MRRSLAFYLLALLGLQVLGARDFSQLKNEELLKLAGTLPSNEAID
+                     YRMEVSKRLKTLNAEDAKKFRANFSRIARKNLSKMSEGFQKNA*RSA*RIRRKNQRFER
+                     *RNQGKRT*CERLQRRYEKSLV*GC*EKRRALLS*V"
      CDS             773625..774083
                      /locus_tag="HP_RS03510"
                      /old_locus_tag="HP0721"
@@ -12608,6 +12937,17 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="50S ribosome-binding GTPase"
+                     /translation="MKNIYLDVKASIENLQNIFKNTDNENERLKKFNQEALEVFQKLER
+                     ESLKELESLKNNEEWENFTIAFYGETGAGKSTFIECLRMFFKEQSKVVQQERFKRLYSN
+                     YQNNYQNDECKKQAILNELHSLQDGAIIGDGRSDFTLKTRSYSFQYNHQNFTLLDVPGI
+                     EGDEKKVIDQISNATQKAHAIFYVTKTPNPPQKGEEKKEGTIEKIQKQLDSQTEVWTIF
+                     NKPINNPRAFKDGLIDGSEKESLKILNKEMKNILGKHYKGYKAVSAQVAFYGLSSALIP
+                     GTDFDKNKQKFLKDFKARELLYQSHFQQLGEFIAEELIKNSRAKIIQSNCNKALKVVEQ
+                     LQKAIEITIEKRIDPMIKEAQEYQHEARYNLDRSTDKFILNLTNSAFYEIDQFKSDLRE
+                     KMYAHINKNIEDEECKEIFKNELIQGIETLHEDIKWRFRECEKRFDGEIKEAIKQLEYR
+                     IKDSLAMLERISIDRDFNLNFDTDSGIDGTKLATSIGGLGLLGIFNAWNPMGWLALTAG
+                     LLQD*LE*PAQSGNFLVQDIKDPNKEKKWIRICIKFVKKLCRM*KADLKVAKKTYGKRL
+                     KNSKPILDLLTITNA*KDN*KKPMKD*DTSLIVSI**YQNKEHAMKN"
      CDS             complement(789377..790696)
                      /gene="rimO"
                      /locus_tag="HP_RS03570"
@@ -13089,6 +13429,15 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="ribonuclease Y"
+                     /translation="MKKIYYARGQATLKSASAKAKLMEFQAKSFVEAEEIRMKSQECKL
+                     QQQYGKQEFGNSKPILIKKKRI*SI*KHNTKNL*EMKNAI*KRKKKSLKKNAKF*NKKK
+                     KILKNSALFVKNLKPKR*TRCSITWLILKMKLKA*F*SN*KKN*KPKKAP*SGVMKKKP
+                     KKRARKNRMPF*RKRQPVLRVIMRQRI*QLVLLCLAQIISVV**AKTGKILKRLKRSAG
+                     WI*NLAKIAANCVCPVSIFIGVK*RARRLKF**KTAVSSLTGLKRFIIESRATWKKNCF
+                     LKGRAWC*N*SLELWKMSLKF**AKCVIAPVLGKTPYSILKKSLF*PA*LQSSLGGIKN
+                     SLEEPVFCMILVKRSPKSLGEIM*I*GLRCASAIKKIRL*SMRFMPTMGMKRF*AWSAR
+                     ACARLMRFQQGVLGLGERAMKNTLNACKL*KRSR*NLMGWKKRMRWRVGEN*E*LSNPT
+                     KSGTIKCLLLPERSLKR*KRALSMWAKWACKWCEKAVSKRPLRSSN"
      CDS             complement(815545..816219)
                      /locus_tag="HP_RS03710"
                      /old_locus_tag="HP0761"
@@ -13904,6 +14253,20 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="TonB-dependent receptor family protein"
+                     /translation="MNGYLRVKTSYFLALNALTFLSFNSLVGAKEQHHTLQKVTTTEQK
+                     FNPSAPLSWQSEEMRNSTSSRTVISNKELKKTGNLNIENALQNVPGIQIRDATGTGVLP
+                     KISVRGFGGGGNGHSNTNMILVNGIPIYGAPYSNIELAIFPVTFQSVDRIDVIKGGTSV
+                     QYGPNTFGGVVNIITKEIPKEWENQAAERITFWGRSSNGNFVDPKEKGKPLAQTLGNQM
+                     LFNTYGRTAGMLGKHVGISAQGNWINGQGFRQNSPTKVQNYLLDAVYKINATNTFKAYY
+                     QYYQYNSYHPGTLSAQDYAYNRFINERPDNQDGGRAKRFGIVYQNYFGDPDRKVGGDFK
+                     FTYFTHDMSRDFGFSNQYQSVYMSSQNKILPFKGKGKISATNPNCGLYSYSDTNSPCWQ
+                     FFDNIRRSVVNAFEPKLNLIVNTGKVKQTFNMGMRFLTEDLYRRSTTRKNPSMPNNGSG
+                     FDAGTSLNNFNNYTAVYASDEINFNNGMLTITPGLRYTFLNYEKKDAPPFKAGQTGKTI
+                     KDRYNQWNPAVNVGYKPIKELLFYFNYQRSYIPPQFSNIGSFVGTSTDYFQIFNVMEGG
+                     SRYYFNNQVSFNANYFVIFANNYFTGRYGDNKEPVNARSQGVELELYYTPIRGLNFHAA
+                     YTFIDANITSHTMVTNPANPKGPKKDIFGKKLPFVSPHQFILDASYTYAKTTIGLSSFF
+                     YSRTYSDVLNTVPFIQYAPTIKNGAITTKTAGMTPWYWVWNLQISTTFWERKKQSVNAS
+                     LQINNIFNMKYWFSGIGTSLTGKKPRLLGASQRM*AIIF"
      CDS             complement(863551..863910)
                      /locus_tag="HP_RS03935"
                      /old_locus_tag="HP0808"
@@ -14412,6 +14775,10 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="LPP20 family lipoprotein"
+                     /translation="MRLHTAFFGINSLLVASLLISGCSLFKKRNTNAQLIPPSANGLQA
+                     PIYPPTNFTPRKSIQPLPSPRLENNDQPVISSNPTNAIPNTPILTPNNVIELNAWAWAW
+                     LQNPPFHPLKPWL*PSGRLSLMATASWVKKCMVLE*TLKTPSKTWFYKIP*LKRESTLS
+                     FVTLKSLRPSIKTACVK*AWSLN*TAGFGIVF*AERED"
      CDS             889101..889718
                      /locus_tag="HP_RS04090"
                      /old_locus_tag="HP0838"
@@ -14573,6 +14940,24 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="type I restriction endonuclease subunit R"
+                     /translation="MSYETIAESNESTVVAEFHSSNEKKALMRAKQS*KGRLLSF*KNK
+                     AMNLKKSTKKKN*KTI*KSS*KSLMIILSRLKNGTLFILNSSLIKTMTIRLKRKRSKKI
+                     RFLISR*RTGKPKTLKSLIRKISIETPCK*STNTAIKGGSIKTAMM*VSL*MACL*CMW
+                     N*KKEAWRSGRRSTRSSAIKGIVLALKTGFLILCRFLSSVTARALNTIQTPQE*PSWKK
+                     TIKPILLNSRIIGRIARITILRI*WILLRRFLQSAAF*TF*RAIAFSQAKRFYW*CGLI
+                     KSWRPKGFWKRSKPRKIVKRKIKAKAISGTRQGAVKP*RALKAQRWLKN*RAFQKSCSW
+                     WTGRIWTIKP*KNTINSKKIALIPTQALRF*KNSLKILTLKSLSPRSKN*TNSLNPIKG
+                     MRFLMKKL**FLMNATGVS*ALCIKPSLKRLKNTTFLALLARPFLQLIAIKTTL*ARQS
+                     KSLGNASTNTPLLMRSGIKTFCPLEWNTTTPLKLKRTLRIIRLERLMKKTPFWILGGSK
+                     KSLNAF*SVSIKPLKIKNSIPFWHALA*KR*KNTTKPLKKKNTILKSLPFLAIALMRKL
+                     TR*KMKTMKALAG*TKAQGIF*RARLRIIMGCLAFLLTLRIKNSKVITRIFLKK*KSVK
+                     SIF*WW*TCF*PGLTLQGSTPFGWIKISNTMG*FKLFHAQTAF*IALKRMGISCVLGI*
+                     NRI*MTLSCFLATRTLNLLRC*ENMKII*KATRITTKNTRAMRV*LKGF*PNSH*KSQS
+                     FQKARKRILLSFLARF*N*KIF*TALKISKKTITSIPGIFKTIKANTLIFTMQ*DQKKG
+                     RIKKRLMMI*FLKLNSSNKWKSILTIF*I*LKSSLKSMGWKSKALKPK*SQSSTPA*S*
+                     GIKKI*SWISLTNTTKTKKSMRIFKIISTKKEKRNSKIS*KKTA*MKKKPIRSCSMPLK
+                     GAKSVLVGRNSLKSLKKNPPCLVKIRAIKR*KKKSLQAFLVFSTAFVISLALYLRKMRL
+                     KKMRLMKN"
      CDS             complement(899837..901125)
                      /locus_tag="HP_RS04135"
                      /old_locus_tag="HP0848"
@@ -14584,6 +14969,14 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="restriction endonuclease subunit S"
+                     /translation="MHKIEQLLQTLAPKGVEFRKLGDIILSLKTGLNPRKFFKLNTPNA
+                     NNYYVTVRELEEYTIKFTHQTDRIDDNALSLCLKRSNLEKDDIFYSLELEQ*EKYQLLK
+                     KIQIIGRLKREFIQSNQIKK*YFQDF*CFALKI*IFKMI*KVKVLEE*LKVYQ*TIYNK
+                     *PSPSHP*RSNKRSLRFWTLSQN*TQN*TQN*KRAKSNMSITKTCF*TLTILIKTTKTP
+                     K*KPTLNA*KPYSTL*RLRGWSLGNWGRCVKAQIKKHSK*AK*VK*KIRECIQ**IQGG
+                     ICMVITMILTMMEKI*LLHLGENMQDL*TISMKNFLQGVYVIPIKLKTLTSF*QNFYTF
+                     ISKLMKSKLWRTLFFVAVSPHSIKQILKL*QSPSHL*RSNKRSLRFWINFQP*PPIY*P
+                     VSPLK*KPEKSNTNITEKNY*PSNLSKTRN"
      CDS             complement(901118..902701)
                      /locus_tag="HP_RS04140"
                      /old_locus_tag="HP0850"
@@ -14617,6 +15010,8 @@ FEATURES             Location/Qualifiers
                      /transl_table=11
                      /product="type I restriction endonuclease"
                      /old_locus_tag="HP_RS07925"
+                     /translation="MNFKKAIISYLPHKRTENARNKKIIFFAIMKPLKADNAKQNRQSK
+                     HKKGAYIMENNPNNNQASL"
      CDS             902875..903558
                      /locus_tag="HP_RS04150"
                      /old_locus_tag="HP0851"
@@ -14993,6 +15388,12 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="CDP-diacylglycerol diphosphatase"
+                     /translation="IQKSLFKNRLLKVTNKLKFIKIIIMIKDFNHYCRKITRGFAKTLI
+                     KNKEQKR*KRRAFFF*R*WLSLL*V*TLKIRMCCVRLFLRNVCLIMRKIRILRHA*KSN
+                     PMPAMWF*KILTARCNIC*CQQLTLAVLKALCYLILLRLTFFIYPGKRVIL*VKNTANP
+                     FLIMRFL*RLTLAKGDRKTIFISISLALVLKHANSWIIT*KKSTAVGRHYRAV*MGINT
+                     WRVG*QRAS*CKKARLSCLIKKCLMRTNAWGTMA*RWCNKAITPLSY*RHNLTH*L*IA
+                     LQPKRFKIMNARFCT"
      CDS             923867..924196
                      /locus_tag="HP_RS04255"
                      /old_locus_tag="HP0872"
@@ -15110,6 +15511,11 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="NYN domain-containing protein"
+                     /translation="MKANTIILVDWENFRRDIKQTKCVNYNIALDVIVTIRAFLLDDEW
+                     DQSYLLLYHPTL*F*TCVMG*KERHPPK*KKSGNRNENLHEQRH*RDLAKQ*SD*MGED
+                     L*RCGKFPTRSGFIGSSGIETRED*VKRNKGGV*WEL*GVIRTKTGGYAHGS*HSKNSL
+                     *KNS*QDFDIFKRYGSDPSAQISQR*GAKGGYCRFV*QAVSP*PGFEIQFG*SEEIEQ*
+                     RSQRQAVFNQRKPH*NQLGFKL"
      CDS             complement(931603..932025)
                      /locus_tag="HP_RS04290"
                      /old_locus_tag="HP0880"
@@ -15137,6 +15543,8 @@ FEATURES             Location/Qualifiers
                      /transl_table=11
                      /product="hypothetical protein"
                      /old_locus_tag="HP_RS04295"
+                     /translation="EAKLKELDNKLEADSIYSLKKISLLKTLILIKRLILS*MIVA*CF
+                     *CSTCQRLKRKLLPRIC*G*CAF*GPTISNSP"
      CDS             complement(<932466..932726)
                      /locus_tag="HP_RS04300"
                      /inference="COORDINATES: similar to AA
@@ -15149,6 +15557,8 @@ FEATURES             Location/Qualifiers
                      /transl_table=11
                      /product="hypothetical protein"
                      /old_locus_tag="HP_RS04300"
+                     /translation="IIEELNNGVKQASEEIKEKATKYEKALQELQKIDESKRTKEQQQV
+                     LKVFKGELDQTEIKGIDLNDLYILEQGTRHAGAKKILIKHYG"
      CDS             complement(932818..933369)
                      /gene="ruvA"
                      /locus_tag="HP_RS04305"
@@ -15517,6 +15927,14 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="acetate kinase"
+                     /translation="MEILVLNLGSSSIKFKLFDMKENKPLASGLAEKIGEEIGQLKIKS
+                     HLHHNDQELKEKFVIKDHASGLLMIRENLTKMGIIKDFNQIDAIGHRVVQGGDKFHAPV
+                     LVNEKVMQEIGNLSILAPLHNPANLAGIEFVQKAHPHIPQIAVFDTAFHATMPSYAYMY
+                     ALPYELYEKYQIRHYGFHRTSHHYVAKEAAKFLNTAYEEFNAISLHLGNGSSAAAIQKG
+                     KSVDTSMGLTPLEGLIMGTRCGDIDPTVVEYTAQCANKSLEEVMKMLNHESGLKGICGD
+                     NEKHRSQKRKR**RSQARF*NVRLSH*KAHWGLHGSLKKSRCDHLYRGIR*KLLGFKRE
+                     RV*RLRKFRDRFM*AHQRQSGQWVSEFKPT*R*NPNFTHPY**RIRNRFANQKGFGKNR
+                     I"
      CDS             complement(954679..955217)
                      /locus_tag="HP_RS04415"
                      /inference="COORDINATES: similar to AA
@@ -15528,6 +15946,10 @@ FEATURES             Location/Qualifiers
                      /transl_table=11
                      /product="phosphotransacetylase"
                      /old_locus_tag="HP_RS04415"
+                     /translation="VSLVSSVFLMCLDTQVLVFGDCAIIPNPSPKELAEIATTSAQTAK
+                     QFNIAPKVALLSYATGDSAQGEMIDKINEALTIAQKLDPQLEIDGPLQFDASIDKSVAK
+                     KKCLTAKWLGKLAFLFSRI*TLGTSLIKRCNGALKPWR*GPFYKV*ISPLTI*VGAL*W
+                     KILLTPF*LAPFKRKI"
      CDS             complement(955261..956225)
                      /locus_tag="HP_RS04420"
                      /old_locus_tag="HP_0905"
@@ -15539,6 +15961,12 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="phosphate acetyltransferase"
+                     /translation="MQGLWIYPEDTEVLGVACKSLLKALTPRYQKVALFSPISGGCESL
+                     EECESLNPLEFHSAISKQKALELASTAQEELLFETILKRYDELQSTHDFVINLGCAPKF
+                     FLNAPLDLNTILAKHLNASVVAVAQTSLEYLKAMHSHILKKEAPFAVGLFAGETLEKPH
+                     FLSMSLCKQQCELEADLIESVLQIKSEIITPLAFQRGLEKKAKKQIKKVVLPESEKMKG
+                     F*KLHIV*I*WAR*D*SY*AIKKPLIRKI*T*I*KMWKSLIPTLLIIEKNSLKACMNYE
+                     NQRA*VSKKLSN*CWIRLILRPCSCIQAMCMRWFLG*ITA"
      CDS             956485..958068
                      /locus_tag="HP_RS04425"
                      /old_locus_tag="HP0906"
@@ -15733,6 +16161,21 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="TonB-dependent receptor"
+                     /translation="MNDKRFRKYCSFSIFLSLLGTFELEAKEEEEKEERKTERKKEKNA
+                     QHTLGKVTTQAAKIFNYNNQTTISSKELERRQANQISDMFRRNPNINVGGGAVIAQKIY
+                     VRGIEDRLARVTVDGAAQMGASYGHQGNTIIDPGMLKSVVVTKGAAQASAGPMALIGAI
+                     KMETKSASDFIPKGKDYAISGAATFLTNFGDRETVMGAYRHNHFDALLYYTHQNIFYYR
+                     DGDNATKDLFRPKAENKVTEVLASKTM*WLRSMVI*AKGIF*RSVIT*PETTLTAL*ER
+                     ILQALFYPILAVILTLSLTRKTLAIVCLKTTLVCLKLIASI*CIM*V*IMKEKGGAVLV
+                     ILN*KSMAIQALGMSKLIRFLSLTT*RLVFLSPQTQNLAKRMNAWRKGAFMTLLNKLAP
+                     SLLKALEGVLWWLIKIYSSSILGLMRT*STP*TIRMTTFWNTG*ITKT*PLLIKRSLIA
+                     N*SNPAMPLTHA*GLQAPMIPT*TGVANEMALRRM*LGCMRKRITPCILW*L*GQGLVM
+                     MSIL*WIKTGNCT*PKGLALARL*MSRL*KI*ISGFLMRM*PEALCLEVWCGCVKIICA
+                     TTAI*SQKLGKMWNLTPNTAVSILILEPPVLSN*FLITSINFLQRFL*PTCPHKILFMC
+                     LVMKFQGRLNTRAFL*A*AWRDHGLL*RGV*SLMCMNWRPRQAMCLF*RQVIKSHALVL
+                     ASLGFHASLRI*VIALIALIVTALRILTDGLVIALKRPGFFMFINPVMG*AVFL*PTNP
+                     PIRSLKG*A*MRCLTMFLTNNILIKQAR**ALMNPIKTNTQEAWQSLALTLDLKFPISF
+                     "
      CDS             complement(973725..974156)
                      /locus_tag="HP_RS04475"
                      /old_locus_tag="HP0918"
@@ -16018,6 +16461,10 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="hypothetical protein"
+                     /translation="VSKKHRLAFLGLIVGVLFFFSACEHRLHMGYYSEVTGDYLFNYNS
+                     TIVVAYDRSDAMTSYYINVIVYELQKLGFYNVFTQAEFPLDKAKNVIYARIVRNISAVP
+                     FYQYNYQLIDQVNKPCYFLGGQFYCSQTLRIITLSMALASKF**VLIRILF*IGMMWCC
+                     KNGFYMWMGA*AGGLAAIRCCIGI*LKARSNALILTALNATTTI*DCPFISHVIGN"
      CDS             994173..994775
                      /locus_tag="HP_RS04545"
                      /old_locus_tag="HP0933"
@@ -16075,6 +16522,8 @@ FEATURES             Location/Qualifiers
                      /transl_table=11
                      /product="outer membrane beta-barrel protein"
                      /old_locus_tag="HP_RS04560"
+                     /translation="LLKFCFSSASQSFRSPI*GLTLK*AIKTTLMIL*GWLIMASSNTI
+                     TLKPLTKKSSN*AMVGG*ICYWISSPLTPIKIGV"
      CDS             complement(996532..997914)
                      /locus_tag="HP_RS04565"
                      /old_locus_tag="HP0936"
@@ -16106,6 +16555,8 @@ FEATURES             Location/Qualifiers
                      /transl_table=11
                      /product="hypothetical protein"
                      /old_locus_tag="HP_RS07930"
+                     /translation="IYPKSKFKKENKKLDKDFYGWGNYLFNLQLLEGAENQAKKDKNPE
+                     IWLKE*YKDERAIEEYKKRNYIDPNLKLEWENIKEFREKREEAIIKKLKEVLLPKS*"
      CDS             complement(999153..999544)
                      /locus_tag="HP_RS07945"
                      /old_locus_tag="HP_0938"
@@ -16117,6 +16568,9 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="DUF262 domain-containing protein"
+                     /translation="MGVFLDKSIKDVVDGLNVRYFLPDIQREYVWLKKADEKKIEQLFD
+                     SILRGYPIGSFLFWKLQKEDIAKSDEQDSDKLNFQLYQFITNYDVRKPHNEKIRIEQIN
+                     RDDLYIVANSV*PRFISGLKALEQSF"
      CDS             complement(999607..1000320)
                      /locus_tag="HP_RS04575"
                      /old_locus_tag="HP0939"
@@ -16587,6 +17041,20 @@ FEATURES             Location/Qualifiers
                      /transl_table=11
                      /product="dynamin-like GTPase family protein"
                      /old_locus_tag="HP_RS04720"
+                     /translation="MNEQELIQKSALIEKTLQEQGLQERAGPFISENAVIKTEELEKTL
+                     KEMQAEDRDLKVGIIGRVKAGKSSLLNALIFEGVEVLPKAATPMTASLTILKYAKTLSA
+                     EVEFYSPKDILELKNEHARYEREFNRIVDEEVKRQKEKQSLSNRAKEGFKNVSKWLGKN
+                     KSTEAAPKERVLSDEEINNRAERIAKSELEKDTKLVSSHDQYERMKKSGSLNTENLDSH
+                     IQANSLQELNQKLLQFVGADRKYMPYTKAVQISLNNPNLKDLEVIDTPGVNDPIASREE
+                     RTKALLKDCDVVFIISSSNQFLTESDMSLFDRVSNKESLQEIYFVASQADSAVLSMSEV
+                     EKSRHHLPTALENAQKSLSSSLNKTMEALIQTNPNQRGIFEKAIKNGVILTSGACFSMY
+                     KDFKNQASWESKKEECYNAWRNLTNAYPLTLLTALINLKKAYYS*AIWARLKSV*KKPL
+                     QGKKKSFLKDYKIMHKAKRTTSII*LRSYFKT*KMKKRGLKTLIWARLKSK*RLMKNSL
+                     VTLK*GLGKRMKNLSFISSKTLEMA*MKP*RKLSKRLVRSLEKKRKKSVTLKE*SKAVF
+                     LEALKGIFCGGLMMMRAMMK*VAQEQPLKPERCLII*QRCMNAAKTL*MTALILLKSFL
+                     EKNSTLKSFLNCAKSSLMI*LMRWLSKKA*WLF*IPLNLKSLITLISFLAR*GGKRAF*
+                     KAMKPMLLYKAWGIM*GILNLRLKKM*KAISKV*ERL*KGKTSPAIRFKNLKKTCKICK
+                     IKFKTKSNPSLN*MHKSKL*RGFN"
      CDS             complement(1024578..1026224)
                      /locus_tag="HP_RS04725"
                      /old_locus_tag="HP0966"
@@ -16632,6 +17100,8 @@ FEATURES             Location/Qualifiers
                      /transl_table=11
                      /product="DUF3240 family protein"
                      /old_locus_tag="HP_RS04735"
+                     /translation="MLALEIYIDICLKDALIDYFV*KRL**FFLCGML*IRRFFAAFKP
+                     KRAGERA*RYAKFKLFLSEEVALPLAKALKNQFASKEMKLFYSQTHGL*"
      CDS             complement(1027102..1030161)
                      /locus_tag="HP_RS04740"
                      /old_locus_tag="HP0969"
@@ -16928,6 +17398,7 @@ FEATURES             Location/Qualifiers
                      /transl_table=11
                      /product="DNA adenine methylase"
                      /old_locus_tag="HP_RS04815"
+                     /translation="MNCIGSKYKLIAFIQENIHAVVGQPFGCDFLRSVRWDGYRGVC"
      CDS             1047054..1047878
                      /locus_tag="HP_RS04820"
                      /old_locus_tag="HP0983"
@@ -17010,6 +17481,8 @@ FEATURES             Location/Qualifiers
                      /transl_table=11
                      /product="relaxase"
                      /old_locus_tag="HP_RS07950"
+                     /translation="MLDRAILDTKLDSRPMDLSFLDDILKHMQKPRFSDSDKVDKRLLI
+                     KFNQF"
      CDS             complement(1051052..1051498)
                      /gene="tnpA"
                      /locus_tag="HP_RS04850"
@@ -17086,6 +17559,9 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="hypothetical protein"
+                     /translation="MIKLNGLNKTLKTSLLAEVLLGATAPLMAKPLLSDEDLLKRVKLH
+                     NIKEDTLTSCNAKVDGSQYLNSGWNLSKEFPQVI*RKDF*MRRRRKT*TSP*FNQ*RRH
+                     *R*RRTCKKKSKKL"
      CDS             1054815..1055066
                      /locus_tag="HP_RS04875"
                      /old_locus_tag="HP0993"
@@ -17203,6 +17679,8 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="DNA methyltransferase"
+                     /translation="LKWDHKTLIDDLAKMSKDRDYKPVFNPKSKEVLEKMNAEKRASLV
+                     DEREEVKEQANQEAYRPMKKAANDDYDMGM*"
      CDS             1062687..1063343
                      /locus_tag="HP_RS04910"
                      /old_locus_tag="HP1000"
@@ -17261,6 +17739,18 @@ FEATURES             Location/Qualifiers
                      /transl_table=11
                      /product="relaxase/mobilization nuclease domain-containing
                      protein"
+                     /translation="MALEKSYSKNFESDELFDYEIIKPKKTLKIQYTYAKRYYKEVEKF
+                     AKNLTQLTQEEFMRLREPQKQVVIKNIGNMTRLHSKRAMDYIAKHGELVRDEFFNEVNY
+                     NDIAEQWNEQFEKLLENKSRVKNCALHLVFSIDENCNEKNLKALELSVYQTLTNTLGYD
+                     YPFIMKLHTHQNNPHAHVIINKTNKITNKQLCFNSKDSCKEFYHTLRETFKDYLFANSK
+                     GELQYSNTPNIYKAIKDIETELDALENRLETIRVLGMKTIFIKFWVVQLLK*KV*KKEK
+                     MPYLII*IV*KVY*KKHIGKKKNSRPQ*MKKNLIGNLKK*DGSIKKLQLLKTLIRKFKN
+                     *LFIKAL**KIIFIPLKNFLPHKKRL*I*KKIIKI*EP*RKNLAKI*KLIYPIQKNALN
+                     FTLD*RA*AKFL*AKALLKI*KKLL*ILKAIDIVFRKELLNFLSI*IIKI*A*LIKAIC
+                     F*WLSFLKIVLYLLILLGLK*KR*MIVLKILTHKTIY*TNKFGSIF*SI*KDLKRKIIV
+                     LLRNEKNS*RLERWSYQKI*NF*HRLMKMICPFMKEGKGIKSLNAVKNRLTFCRKNYNA
+                     LKPY*KVQV*L*KTCKITIKSQPLHKTRKKTQTRSKILLKILTKLPMNQQTLTITMEWI
+                     F"
      CDS             1067156..1067470
                      /locus_tag="HP_RS04930"
                      /old_locus_tag="HP1005"
@@ -17287,6 +17777,8 @@ FEATURES             Location/Qualifiers
                      /transl_table=11
                      /product="YafQ family addiction module toxin"
                      /old_locus_tag="HP_RS04935"
+                     /translation="MLKVRTKKDFLKDFNKHILVLAYYRERCYKHC*LPKKTKTTPTKI
+                     LRPCLEW*S*RAERVSCQAKLVIDL*NQKTRK*TCFIASRHS*RAI*KV"
      CDS             complement(1068021..1068545)
                      /locus_tag="HP_RS04940"
                      /old_locus_tag="HP1006"
@@ -17314,6 +17806,14 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="transposase"
+                     /translation="MKVNKGFKFRLYPTKEQQDKLQHCFFVYNQAYNIGLNELQEQYET
+                     NKDSPPKERKYKKSSELDNAIKQCLRARDLPFSAVIAQQARMNVERALKDAFKVKNRGF
+                     PKFKNSKSAKQSFSWNNQGFSIKESDDECFKTFTLMKMPLLMRMHRDFPLILK*NKLVS
+                     LAAIENILLALAWNTNKTLLP*KTLKMVWG*I*ISLI*LVLVR*TTMTN*RTLSNTKQT
+                     *KNY*G*K*MKSWILNDLSLLIPNCIL*KNTLKNLKDYKENKAVGC*SLNKTKPN*EVI
+                     FTKPKRN*TKPLTSLVIKKQTDTIKSQANFQSNLN***LKICK*KT*LKELNSKMLNKR
+                     VGLINLF*TLHSIKSSLF*TTNNSIMANC**KFPHNIRVKLAIVVGISTTSLN*IIGNI
+                     GV*NAGIENTGTSTLRTTF*AKG*VFLG*EISMQTLKNKAFRV"
      CDS             1069967..1070383
                      /gene="tnpA"
                      /locus_tag="HP_RS04950"
@@ -17340,6 +17840,11 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="tyrosine-type recombinase/integrase"
+                     /translation="MKKSNDNNALARSQRELFVGIRDFIVFKFKRMVVFNGVRDFTKMR
+                     FLSIELEKCENIKDLEKLCHTIYNQGTKHILMMRVLFLFFDYFCKPFES*AIETTQ*RN
+                     ACEFFI*VS*TKKN*FNGKICDVY*AIF*LLG*D*TL*ILF*S*KYSLC*TQG*FA*AS
+                     KFKRFKIFYIYSYKL*N*KQL*KEK*VYFALDYFGWFEKI*GF*FRIEKYCFRERALYL
+                     AYKRQKQ*RAKSVH*NRSNRY*HTRTAYPYPFGKYC*KSFIPL"
      tRNA            1072258..1072335
                      /locus_tag="HP_RS04960"
                      /old_locus_tag="HP_t26"
@@ -17508,6 +18013,15 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="DegQ family serine endoprotease"
+                     /translation="MMKKTLFISLALALSLNAGNIQIQSMPKVKERVSVPSKDDTDLFL
+                     PRFY*GLY*GGGEYLH*KED*KQFYRWRCV**PLFPTIFWGFGWHDS*RKNGKGFRQRR
+                     NHF*RRLYCN**PCD*WRG*D*SYHSREQ*RIFRHSSRHRF*KRFSGDSHH*RQSAHDQ
+                     IL*F**YFSGRFGFCDW*PFWRGRKRYARHCFSAQ*KRDWDQQL*EFHSNRRFHQSWKF
+                     RRRFN**PWRVSGD*YRYYL*NWGQPRHWLCHPF*HG*RYCNPTHQNR*D*KRLLGRGL
+                     ARFEWRFAKFL*QQRRGGSH*RRKRLSG*KSRDFGVGFDHRSQWEKG*KHE*VKKSNRL
+                     HATQSKSNLKSH*RQKRTRFHPHSS*KEKP*QKRNHFCSKRRARPIERASSRRFNSRNQ
+                     KVYAFER*CSRGFSLSSE*KFPSRASRI*AR*HYHKN*RG*S*KRCGF*PCFRKV*RQT
+                     QTILSFRLESRL*DHFGEM"
      CDS             1082890..1084110
                      /locus_tag="HP_RS05010"
                      /old_locus_tag="HP1020"
@@ -19236,6 +19750,8 @@ FEATURES             Location/Qualifiers
                      /transl_table=11
                      /product="hypothetical protein"
                      /old_locus_tag="HP_RS07960"
+                     /translation="VASFKALGNFTPKMRSGAFLYSVPKVNLVH*YFNAPLRVVAKPWL
+                     KFFVVAGFKLSAILASFLKSL*"
      CDS             complement(1181667..1182437)
                      /locus_tag="HP_RS05485"
                      /old_locus_tag="HP1117"
@@ -19433,6 +19949,11 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="TonB C-terminal domain-containing protein"
+                     /translation="MSKSAIFVVSGFLAFLLYALLLYGLLLERHNKEAEKILLDLGKKN
+                     EQVIDLNLEDLPSDEKKDEKIAEKAEEKKDEKVVEKNAN**GGRFY*S*RTRRKP*KYF
+                     FFTQ*FSRKDRRKRSKK*AKK*ARRRAKAFKRTATLKKKPKKSRDVERFATKFESIRAK
+                     IRKR*KQDFRFANP*TRWG**KSLSRVVCSNLSDFI*RLERGFLPQGFSECTDYDR*RW
+                     RV*LYHS*LL*F*GL*QECDDPFK*FKESGFSPISWRKHDFYSS*FHH*GRTM"
      CDS             complement(1192857..1193258)
                      /locus_tag="HP_RS05545"
                      /old_locus_tag="HP1129"
@@ -19711,6 +20232,9 @@ FEATURES             Location/Qualifiers
                      /transl_table=11
                      /product="hypothetical protein"
                      /old_locus_tag="HP_RS05620"
+                     /translation="IEITIDQLQVVPKAQVLENHTMGRSLALALQKASISRFASVHRAP
+                     LINHFLEQVILQSPSDENKNIKTIAFGGVIKLNPHNRNPLLKPYSAFIALSCTQFHYSA
+                     CA*LPPMKTILLFLSYCIALIFRCAILNANNLFN*"
      rRNA            complement(1207581..1209081)
                      /locus_tag="HP_RS05625"
                      /old_locus_tag="HP_r04"
@@ -19732,6 +20256,11 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="NYN domain-containing protein"
+                     /translation="MEKTETTIFVDWENLLADLKAIQETDERLKEPNFNFNNPEQLLVL
+                     IRSFLEPEEELKRIYFYVSEPFTEVEPRIKGNKNEELEEYKEKNPKDYEERVNKSGIIQ
+                     SFNHNIAQQNQVKLRVGRVMFKFTNESEDKEVLI*KPKFSYRT*NCVKNKLMRCWCTIL
+                     PSYVTPNH*GVLCCSARILILCLC*NPLGRKALKSSLLTFKNAPILSLQT*RSLAM*GN
+                     AVSLKL*ITCPKISTLPRKRTFPPTSLLTTHLKTNSLRRT"
      CDS             complement(1211231..1211587)
                      /gene="rplS"
                      /locus_tag="HP_RS05635"
@@ -20461,6 +20990,11 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="carbonic anhydrase"
+                     /translation="MKKTFLIALALTASLVGAENTKWDYKNKENGPHRWDKLHKDFEVC
+                     KSGKSQSPINIEHYYHTQDKADLQFKYAASKPKAVFFTHHTLKASFEPTNHINYRGHDY
+                     VLDNVHFHAPMEFLINNKTRPLSAHFVHKDAKGRLLVLAIGFEEGKENPNLDPILEGIQ
+                     KKQNFKEVALDAFLPKSINYYHLTALSPLLLAQRGWHGL*LEEPLEVSAKQLAEIKKRM
+                     KNSPNQRPVQPDYNTVIIKSSAETR*"
      CDS             complement(1256746..1257903)
                      /locus_tag="HP_RS05835"
                      /old_locus_tag="HP1187"
@@ -20490,6 +21024,13 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="DUF874 family protein"
+                     /translation="MESVKTGKTNKVGKNAETXTQRQIKRLILNKRMPLQI*SDQLVGF
+                     LQRL*RELENL*KNIPRKAVWH**Y*PMLHARKRKNWTIKSRINPNKLKKKIKSIGGNI
+                     QD*Q*RQVYY*PLVVLVILINR*S*NKKKRKLKTLGIERTRVG*NWNRKNKRPLKNKKI
+                     *LKKQNKIAKKIMANSL*KN*ELRVALL*K*KLNAKPLNLQKPIKPLSSQNTSPTLNNP
+                     TLKEDQKRKSLSLICKKS*NLCPIHKKLSLNK*IFTGQVLSLI*N*TLEILRLQKNGKK
+                     KI*KYALKLKLKCLEMRNPQAHLSTSQSLLFVQKIFADVNKEIEAVANTEKKAEKAGYG
+                     YSKRM*"
      CDS             complement(1259619..1260659)
                      /gene="asd"
                      /locus_tag="HP_RS05845"
@@ -20932,6 +21473,11 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="HNH endonuclease"
+                     /translation="MNKSKKELFLELAQPDKNGVSR*VSVTEFVEKYQGLQLGNGGSWC
+                     RNNSSLAKEFNLEFDKGQTLGNFIDRIRLNGYNTECVFNQSICQDIKNHYKQQCCAMCG
+                     VRGNSENTQIEVDHKDGRKDDSRVSDLSTQAFDDFQALCKACNDKKRQICKKCKETGYR
+                     FDARKIPGNHYSFYEGEAEYDGCVGCYQYDPIQYRKTCNDRIYNEGYQKGYSDGYQIGY
+                     HQKTTL*"
      CDS             complement(1286969..1287484)
                      /gene="cysE"
                      /locus_tag="HP_RS05975"
@@ -21033,6 +21579,20 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="LPS-assembly protein LptD"
+                     /translation="MIYWLYLAVFFLLSALDAKEIAMQRFDKQNHKIFEILADKVSAKD
+                     NVITASGNAILLNYDVYILADKVRYDTKTKEALLEGNIKVYRGEGLLVKTDYVKLSLNE
+                     KYEIIFPFYVQDSVSGIWVSADIASGKDQKYKVKNMSTSGCSIDNPIWHVNATSGSFNM
+                     QKSHLSMWNPKIYVGDIPVLYLPYIFMSTSNKRTTGFLYPEFGTSNLDGFIYLQPFYLA
+                     PKNSWDMTFTPQIRYKRGFGLNFEARYINSKNDRFLFNARYFRNYTQYVKRYDLRNQNI
+                     YGFEFLSSSRDTLQKYFHLKSNIDNGHYIDFLYMNDLDYVRFEKVNKRITDATHMSRAN
+                     YYLQTENNYYGLNIKYFLNLNKINNNRTFQSVPNLQYHKYLNSLYFRNLLYSVDYQFRN
+                     TAREIGYGYVQNALNVPVGLQFSLFKKYLSLGLWNDLQLSNVALMQSKNSFVPTIPNES
+                     REFGNFVSSNFSMYVNTDLAREYNKLFHTIQLEAIFNIPYYTFKNGLFSQNMYALSAQA
+                     LNSYTSPLLRDYDYQGRLYDSVWNPSSILPSNASNKTVDLTLTQYLYGLGGQELLYFKI
+                     SQLINLDDKVSPFRMPLESKIGFSPLTGLNIFGNVFYSFYQNRLEEISVNANYQRKFLS
+                     FNLSYFLKNNFSSGINSIVENLRII*RRVLATTLAIFP*ARMWVMILETMWF*IGMWGF
+                     IKKSVVLGLAFNSSTNDAPSSPAIPTSL*ECLKITMLS*N*TFHRSLKPM*LTALYSVS
+                     "
      CDS             complement(1293589..1294068)
                      /locus_tag="HP_RS06010"
                      /old_locus_tag="HP1217"
@@ -21746,6 +22306,11 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="NAD-dependent deacylase"
+                     /translation="MKNLVILSGAGISAESGIKTFRDADGLWERA*HHGSCLALWLEKE
+                     PAKGVGFLQPKAPTAF*SLS*QSP*GFSGIGKTLSSQYHHPKCR*FA*KSGFFSHFALA
+                     WGIIERSQRERS*FSL*VGKGLEFRRLGQRQIAITP*YCVVWRSGAFA*RSDFFSQTSA
+                     SFNHHWHFFASLSRR*PLHACA*RRSHLLH*P*G*KRPFTPECPMH**KRGACHARFNA
+                     QTHRNGFL"
      CDS             1333813..1334214
                      /locus_tag="HP_RS06215"
                      /old_locus_tag="HP1260"
@@ -22193,6 +22758,7 @@ FEATURES             Location/Qualifiers
                      /transl_table=11
                      /product="type II restriction endonuclease"
                      /old_locus_tag="HP_RS07965"
+                     /translation="KHKKEFSNHHQIESFFSHNHIFKRAECLGIFENAHSL"
      CDS             complement(1358992..1360449)
                      /locus_tag="HP_RS06330"
                      /old_locus_tag="HP1283"
@@ -23358,6 +23924,27 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="N-6 DNA methylase"
+                     /translation="MLKEYLESIKDLTPEKNELTHRPSLYNLLNQLKNHFNKEFKIEHE
+                     PERKQGSQPDFRVSYQGINIGYIENKRAGTNLSQLLKSEKSDQILKYLELNPNLMLTDY
+                     LNFMWVGKDENNEPLIKKEISVASLDELSKPLKPNPQTERDLIELFKSFFNHEAAPITN
+                     AKDFATHLSPRTKYLKDALIKYQEKAQVSSIFNNFKEYLYEELSFEDFSDALAQTLTYS
+                     LFLAKLNHPSEKINLDNVRSLIPKNFAVIREMADFLKKLDEIKEIQWLLNEILSSINHV
+                     DMDSILKDLNDDKDPYLHFYETFLSTYDPKLRESKGVYYTPDSVVKFIINALDSLLKTH
+                     FKDAPLGLKSALDNENIKLLDFATGTGTFLLEAFRKALETRKTSDGGTSTKEDKYQNLL
+                     KQFYGFEYLIAPYAIAHLNLSQAFKEEFKKPLKENDALQIILTNTLIQPSEIIAYRGLS
+                     PIFEKELSNAQEIKKNENILIITGNPPYSGASENKGLFEWEVKATYGIDPKFQTIEIEK
+                     NVKLADKIQTLLSSVQIQKQSGSKNDLKKLKSLHSKYKLQDEKNPKWLLDDYVKFMRFA
+                     QNKIESLGHGLFGFISNNAFLDNPTFRGLRRSLLECYDELYILNLHGNARKKEKTPQGA
+                     KDENVFNIKQGVSINLFVKNPQVVKQKIHYYDVYGQRTEKYAFLAQNDLNSIEWLEIAP
+                     RGPFYLLLPLETPLLDEYEQGFSVQEMFQIGSTGICSQRDHVVFHKDKESLLKLLKDFS
+                     TLEPSELRRIYNIKKDGRDWRLEYAIKDVKANANNLEEYIVSCQYRPFDFYYTYYTGKS
+                     KSFIAYPRGEVFKHMLPPPPNKP*NTQSNAQKCCAKHPTTAKK*R*KLDAMLYKLSY*R
+                     SGVKLWGQWSWGQLPPLSIQTPQLHRKFYARV*KFYRQAL*PLF*AARGFRLYLCVIVF
+                     PKLPQAL*RLP*KRLP*NPFHKQ*RFV*GFKPFRD*TNRLACLKPRKPELQLWKIKRRH
+                     HRRILL*RRA*PHHQKTLS*RARPTALYQP*RLF*GGESRNL*L*NRGVWRFRQIFKKP
+                     *KRALRL*SCN*YH*SHRTHD*NPKNAWIFNERFAPFKRE*QQSLNARNLAKSTPPPPH
+                     LIPISPLSYRAKPKPSETLTLMAHSSAKKRAITTSIAEVGDQPSLYSVLPNLALICDRG
+                     SKVSPISNVFVTNMLCDLHVNGSGSYAFLLYRLK*"
      CDS             complement(1417068..1417889)
                      /locus_tag="HP_RS06695"
                      /old_locus_tag="HP1355"
@@ -24098,6 +24685,16 @@ FEATURES             Location/Qualifiers
                      /transl_table=11
                      /product="DUF262 domain-containing protein"
                      /old_locus_tag="HP_RS06900"
+                     /translation="MAKIESNDSHLRGILKDELYYQIPIYQRPYQWTEENCEKLLDDLF
+                     FNYEDDREGDYFCGSLVLIAISKDSKATTYDVVDGQQRLSTFILLAKVLADLYNDCLDP
+                     KNLEHLQEGWKDRHTERKRLSFNTIGSNAEYDFQDALEHFNDSQASKNKNNKNNYLKNA
+                     ICLKDYLMKKEIKNINDFIEWLYSNVKFITIICPNIDKALRIFNVLNARGLPLNATDIF
+                     KGELLKHAKEHEREEFVSRWNALSQKCSDNDLTMETLFSWYNLSQSGNF*RQNGKRARY
+                     LVQHT*QTPPRIP*GRRGFLQRLW*GVRNARSACPFALV*RR*LFARYFVC*HIAPL*R
+                     SRHRDFKGIVSQVLLPRLGCRADKNHTQPNLLQHH*CLKRKEKHGLHHFYCKRIFR**K
+                     YHATL*GQSKRQQLIHEILLYQW*NG*KKFMGQTHSHFSGIFHER*RQPRLY*NG*RFA
+                     C*THFAPKPRSFKPMDERL*RRRKRIIHAFFSQPHAFRGQEKHQSFKPSFKPRFQREKR
+                     NLYGENYHARQ*KNFQGDDLL*YD*KRCVPLHRMDTHKFRKKKRKL"
      CDS             complement(1458582..1459724)
                      /locus_tag="HP_RS06905"
                      /old_locus_tag="HP1398"
@@ -24245,6 +24842,8 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="restriction endonuclease subunit S"
+                     /translation="MDALTTPLNWQKVRLGDIAEIIGGGTPSTQITSFWSGSINWFTPT
+                     EIGITKYVYKSQRTITPLGLKKSSTKLLPIGTILLTSRASIGDCAIL"
      CDS             1470555..1470952
                      /locus_tag="HP_RS06940"
                      /inference="COORDINATES: similar to AA
@@ -24256,6 +24855,9 @@ FEATURES             Location/Qualifiers
                      /transl_table=11
                      /product="hypothetical protein"
                      /old_locus_tag="HP_RS06940"
+                     /translation="MSLGAVIKLIFCYKLEGVILDLKRINFKSYYPNNKNALFINNKKI
+                     HYLVPQRFILL*TCYGRLEIARIIGKTYSKPNQTTAHALRLISLG*KTMIGQKCL*I*V
+                     *NQVKSSCF*MI*LKALGIKTWKI*VVC"
      CDS             1471119..1471967
                      /locus_tag="HP_RS06945"
                      /old_locus_tag="HP1406"
@@ -24643,6 +25245,11 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="outer membrane beta-barrel protein"
+                     /translation="MLGFNLSHAIDESEPNKLVGKKVQEALAKEKAKAKNQRADKSAFF
+                     AGLGYSGMFSWNLAYKDSFVLLRHYDFNFGGRLLERKDPSTILNGFNFKVGYQYAAPVK
+                     IKKMGFGVRGGFQYSYKAGNYMEKDKYQQHLFGVPIGIISPVSIFNGGMITMSTYSFFM
+                     DFYTMCMKMRSFSSVIL*GLG*GVRA*HPMFLKILVIC*RN*CNFRAMAH*G*GWAINT
+                     TR*N*ARAFMATLLVVL*KS*RVAKVRGFYKQKSLGAFLKAMLLGARIMFIVF"
      CDS             complement(1496989..1497171)
                      /gene="hpn"
                      /locus_tag="HP_RS07060"
@@ -24871,6 +25478,9 @@ FEATURES             Location/Qualifiers
                      /transl_table=11
                      /product="hypothetical protein"
                      /old_locus_tag="HP_RS07120"
+                     /translation="MDNSTDRAKILIEELKILQGVINRMAQNSLECKKWTLALAVGVLS
+                     LKIEAISHLYGLCVLGVFVSMLLFFRRLLSHARKVV*GAIPMADKKQTQNR*KAV*SLS
+                     CSSNLPVYAILMCHAFV*PFPLLGVRSLFGGLWFCF*FRFNKVLVI"
      rRNA            complement(1511135..1512634)
                      /locus_tag="HP_RS07125"
                      /old_locus_tag="HP_r07"
@@ -25935,6 +26545,12 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="restriction endonuclease"
+                     /translation="MSSVQILSNLNYPKVITEGLRNSLNTHIAVAFLKYSGVEVIQDTL
+                     IDSLEKGAEFEIIVGLDFKTTDSKSIRFLLDLNKTYKKLRFYCYGDKENNKTDIVFHPK
+                     IYMFDNGKEKTSIIGSTNLTKGGLENNFEVNTIFTEKKPLYYTQLNAIYNSIKYADSLF
+                     TPNEEYLQNYNEVFSAIIKNEQKVSKDKSIQEKIKEIEKQEKLLPGTIPSIKAMIVEFI
+                     FACEKKGVKQVALQDIYQALEERIKKKSGDTNTKAILLGTLSGANSTTMC*KITLQKIT
+                     WGFLRDQKKLFMR*HQKGVCIKDA"
      CDS             complement(1573068..1574231)
                      /locus_tag="HP_RS07430"
                      /old_locus_tag="HP1501"
@@ -26272,6 +26888,19 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="hypothetical protein"
+                     /translation="MGLKIINIENCYGIGKIQKTSLDFSKSNSYLLYAQNGVFKTSFAK
+                     SLTDLINNEMPKDNFYPNRKSKIEIEFNGEKILKENVAVFHSYDEEFSSEDSVTTFMAK
+                     SDLKQQYDNILLELEKEKKALLKSLRDIASGFDYEEEIKTIKNEKNKSFYEILDNHLTE
+                     IESSEKHYSFKYRDIFDGSKKVKDFVNKHHDLIEQYFNKYQELLSQSKIFKHMNSGDFG
+                     TNHADDLKKALENNRFFKANHSLKIAGEEITNYQKLSDIFENEKNRILNNEELKESFDK
+                     IEKVINANKELKAFKDAISKDNTLLTEFLDYDSFRKKVLFSYLKQVIQNVKSLVNLYRE
+                     KKPEIEEIIKQASKDQKEWESVIEIFNQRFLVPFKVELQNQKDILLNKDAAQFRFIFSD
+                     DNQDMNVQKEDLQKHLSGGEKESVIYLTNLV*N*G*KKKRRSPTLSF**YFRLF*L*K*
+                     VCNY*VS*GFARMQTI*IACDDA*F*FLSHPRKPFEYS*KTD*NDPQK*C*RNNF*KRW
+                     VFEEFY*MD*RLRR**RLFHTDTFCEEFN*IHKLSSRQKQQLYKTYKLLTHEKRYKRYS
+                     NSRYFKDF*QRLWRRAKKEKN*RI*LKIIF*NNL*YCRKNL*R*RS*SY*ITK*DYFFN
+                     SDQIKI*RMDVK*TKSRIRINEQSNKGVI*CH*KRTI***KKDYTKGFNDYS*KYSH*L
+                     FHVRTHFRHIS*SSIYMFGESQNL"
      CDS             complement(1597196..1600099)
                      /locus_tag="HP_RS07520"
                      /old_locus_tag="HP1521"
@@ -26312,6 +26941,18 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="site-specific DNA-methyltransferase"
+                     /translation="MQNKEIGEEKSVNEKNVEVFNRYFPGCLSIENDNKLTLDTGKLKA
+                     LLGDFSEIKEEGYGLDFVGKKIALNQAFKKNHKILKPLNESTSKHVLIKGDNLDALKIL
+                     KQSYSEKIKMIYIDPPYNTKNENFIYGDDFSQSNEEVLKTLDYSKEKLDYIKNLFGSKC
+                     HSGWLSFMYPRLLLAKDLLKQDGVIFISIDDNECAQLKLLCDEIFGEGNFVACLKWKKK
+                     KQPSFLSKVAVILEYILVYAKDFSLIDKLGLDNVSDSDKPIINTSNNLSKRYFKKGIRV
+                     KSDLNFIKSGKYQNKTMTIEFMNDIFIENGRTKNDFECIGKFRTGQENINEFIEKDLIF
+                     ITKNLGIRRDLLEEEQSNKKTITDLLTEWGQNQDATNELNILFNNSSDESIFSNPKPTK
+                     LINRLIELSTNEGDIILDFFAGSGTTAHAVLESNKSDYQKLSEGGGGYLMV*TPHLKKG
+                     ASFSSS*MKKLIPRKTKALMIFV*TP*NHPPQAFLTSPKKGLKERGLKSKKLARI*MWG
+                     LERLKSLMMKRMLMIKISVKPIKRICSLILTLIEWKPKRF*LSF*AARVWSSLPL*LA*
+                     LKTPCIWL*IRLSLWGI*K*AKF*KT*KIKGWKKSACICPLSVTIICVWNWAVICWI*N
+                     *RVAI*RLGG"
      CDS             complement(1602088..1603959)
                      /gene="recG"
                      /locus_tag="HP_RS07530"
@@ -26994,6 +27635,9 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="flagellar basal body rod protein FlgB"
+                     /translation="MNLQGFEKGVLLWIFLKRLDWFIRRWIIGL*GKI*SLLTSLMWIP
+                     LFTGQRIWILKAFWRRKKQKFLKTNPVKFCL*PTLTLGI*TLKIALKMGQAFFLETGIW
+                     LKMMATAWI*T*KRVKWARTLPCI*P*VRP*KSIEA*SITPLIPVRIY"
      CDS             1641584..1642750
                      /locus_tag="HP_RS07720"
                      /old_locus_tag="HP1560"
@@ -27446,6 +28090,9 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="ubiquinol-cytochrome C chaperone"
+                     /translation="LCDACDHLKVNYNEESATSLIEQNMLSKLLKDSLEKMSRREIKEL
+                     CNELGMTNIDKVIGENKQVLIASTLTLFKAGGSHSYALAVSVADAMVRQTLGHVMWWVK
+                     *HLKKLWAFWLALLVGSLQAR**A*ILQDRLIG*PFRHAF*SPPYA*N*KRN"
      CDS             complement(1665167..1665451)
                      /locus_tag="HP_RS07855"
                      /inference="COORDINATES: similar to AA
@@ -27457,6 +28104,8 @@ FEATURES             Location/Qualifiers
                      /transl_table=11
                      /product="DUF3944 domain-containing protein"
                      /old_locus_tag="HP_RS07855"
+                     /translation="IAWHTNSDLEFLNHLSSNDLKDLFDALVMMKMAH*E*MKT*QIQQ
+                     NIKDMAMITPNTQEESLKNCNIMGAIVLRIFLEMKGSYTKRFCAMRAII*"
      CDS             complement(1665805..1665945)
                      /locus_tag="HP_RS07910"
                      /inference="COORDINATES: similar to AA
@@ -27497,6 +28146,11 @@ FEATURES             Location/Qualifiers
                      /codon_start=1
                      /transl_table=11
                      /product="DUF3944 domain-containing protein"
+                     /translation="MAYRYDSDLEFLKRLSSSDLKDLFDALVYDEDGTLRMNE*LTSST
+                     EYQRYGYDYAKYPRRIAEELQRYGGNSFMNFFRDEGVLYKEILCDACDHLKVNYNKKSD
+                     TTLIEENMLSSILQKSLEKMSDEEIRELCDELGVKNTNKLGKQALSTAALTLFRMGGFK
+                     SYQLALIVANAVIKAIFQRGLSLGANAALTRGLSILTGPIGWIITGVWTAIDIAGPAYR
+                     VTIPACILVATLRLKAQANEIKNIL*"
 ORIGIN
         1 tgattagtga ttagtgatta gtgattagtg attagtgatt agtgattagt gattagtgat
        61 tagtgattag tgattagtga ttagtgatta gtgattagtg attagtgatt agtgattagt
@@ -55313,6 +55967,8 @@ FEATURES             Location/Qualifiers
                      /old_locus_tag="HP1427"
                      /product="HP_RS07060-MONOMER"
                      /transl_table=11
+                     /translation="MAHHEEQHGGHHHHHHHTHHHHYHGGEHHHHHHSSHHEEGCCSTS
+                     DSHHQEEGCCHGHHE*"
 ORIGIN
         1 atggcacacc atgaagaaca acacggcggg caccaccacc accatcacca cacacaccac
        61 caccactatc atggcggtga acaccaccat caccaccaca gctctcatca tgaagaaggt
@@ -55336,6 +55992,15 @@ FEATURES             Location/Qualifiers
                      /old_locus_tag="HP1369"
                      /product="HP_RS07895-MONOMER"
                      /transl_table=11
+                     /translation="MKTNEAQFYEVLENLFIGVKIEDKQESLLDPTPKAVKNGMLNLLK
+                     AKSQYYQSKKQELEKLINLKCQNNNDLKEELFDKLYSFFKRYLSANGGIYFNDTPLYDS
+                     LYTKSDYEKCSLKKDTALFYKTKDLYYVKSETIYKDFCFELEDILFNFDASLLESKKYN
+                     EKVDLVFNLKDTDKKTNTLNFSVTLSSKGNQTKISEILKECFNQSVKLDEEILKKAFGK
+                     FKKQGSMDYFIHKNALGFLKEQLDLYLFEYLFKEMTAFDAKRLNEINTIKEVALEVVSL
+                     VSEFENELCKIWNKPRFVLNSHFIVSLDQLKAKNYDLNKITNHPNYPKQVKEWQDLNLK
+                     ITDNFLENEFLPLDTIYFKDLEEEVTNLFNEDEINGTLIKSENYQALNSLKNRYKEAID
+                     CIYIDPPYNTQNNEFIYADNFKRSSWLSMMENRLELARKLLNDKGAMFVSIDDNEQAYL
+                     KVLMDEVFNGGGVITL*"
 ORIGIN
         1 atgaaaacga acgaagcgca attttatgaa gttttagaaa accttttcat aggcgttaag
        61 attgaagaca agcaagaaag ccttttagat cctaccccta aagcggtaaa aaatggcatg
@@ -55377,6 +56042,8 @@ FEATURES             Location/Qualifiers
                      /old_locus_tag="HP0756"
                      /product="HP_RS07880-MONOMER"
                      /transl_table=11
+                     /translation="MKDYEDELEDFEEEELEGFEEEDEEYGDYKNVYDDDDYEDYNSDY
+                     EEE*"
 ORIGIN
         1 atgaaagatt acgaagacga attggaagat tttgaagaag aagaattaga gggctttgaa
        61 gaagaagatg aagagtatgg ggattataag aatgtctatg atgatgacga ttatgaagac
@@ -55397,6 +56064,11 @@ FEATURES             Location/Qualifiers
                      /old_locus_tag="HP0990"
                      /product="HP_RS04860-MONOMER"
                      /transl_table=11
+                     /translation="MQSLAGGLSGRAWGEMLCKMVNDSNYESEQALLATGNSSEEQKRR
+                     FLLRVKKKVNDNRQLKKKLDPFLKRLDVLQTEFGVTDPTANHNKQGIHYCTENKKTGKC
+                     DPIDNVFRTTRLDNELEQEIQTLTLDLTKAPNKDAQSQAYANFNQRIKLLTLKYLKEIT
+                     NQMLFLNQTMAMQSEIMADDYFRQNNDGFGKEENHIDKQLTQKRINERERARIYFQNPN
+                     VKFDQFGFPIFSIWD*"
 ORIGIN
         1 atgcaatcac ttgctggggg attgagtggt agagcgtggg gagaaatgtt gtgtaaaatg
        61 gtaaacgata gtaattatga aagcgagcaa gctcttttag caacaggcaa tagctcagaa
@@ -55426,6 +56098,9 @@ FEATURES             Location/Qualifiers
                      /old_locus_tag="HP0627"
                      /product="HP_RS03090-MONOMER"
                      /transl_table=11
+                     /translation="MLKKSLLLLVFLVLQLSGAEENNQAPKNTPPELNPANAKGAPNSN
+                     TQITPKNDNSNLLDKLGSPENAQTELSAGIDLAKKGDYQGAFKLFSQSCDNGNAAGCFA
+                     SGGDVC*"
 ORIGIN
         1 atgctcaaaa aaagtttgtt attgcttgtt tttttagtct tacagcttag cggcgctgaa
        61 gaaaacaatc aagccccaaa aaacacgccc cctgaattaa accccgctaa cgctaagggc
@@ -55449,6 +56124,10 @@ FEATURES             Location/Qualifiers
                      /old_locus_tag="HP0611"
                      /product="HP_RS03010-MONOMER"
                      /transl_table=11
+                     /translation="MLSPATFKQITLALIASRLIVVILYAFIFIVLSFYMLNIITILNF
+                     KALILGFVSVFSSALFCFCLAIFVARIFQNEQSILGFCNIINLYALMSCNVFVPLEYLP
+                     SIGQLFIKTSIFYYLNQLLIKAFQGIDTILVLATSTFFIIGGIILFLLSANRMLLTPKE
+                     RMR*"
 ORIGIN
         1 atgctatcac cagcaacttt caaacaaata actctagcat taatcgcttc aagactaatc
        61 gttgtaatcc tatatgcttt tatctttatt gttctctctt tttatatgct caatatcatc
@@ -55475,6 +56154,12 @@ FEATURES             Location/Qualifiers
                      /old_locus_tag="HP0094"
                      /product="HP_RS00475-MONOMER"
                      /transl_table=11
+                     /translation="MAFKVVQICGGLGNQMFQYAFAKSLQKHSNTPVLLDITSFDWSDR
+                     KMQLELFPIDLPYASAKEIAIAKMQHLPKLVRDALKCMGFDRVSQEIVFEYEPKLLKPS
+                     RLTYFFGYFQDPRYFDAISPLIKQTFTLPPPPPKIIRIIIKKRKNISASFL*F*PLKTA
+                     CLCI*EEGIMWGLAVSLVLTIKKRRLSIWQSACQTWSFLCFAKT*NSRKILILATLLWT
+                     *PLGIKKKRRIGTCCSCNLVSMALSLIALIAGGRPI**KIQKKSLLAPNTGFLGMRISF
+                     VRSG*K*NPILR*NPKSITL"
 ORIGIN
         1 atggctttta aggtggtgca aatttgcgga gggcttggga atcaaatgtt tcaatacgct
        61 ttcgctaaaa gtttgcaaaa acactctaat acgcctgtgc tgttagatat cacttctttt
@@ -55508,6 +56193,8 @@ FEATURES             Location/Qualifiers
                      /old_locus_tag="HP0789"
                      /product="HP_RS07885-MONOMER"
                      /transl_table=11
+                     /translation="MNYETIAESNESTVVAEFHSNNERKSAYESEAELERAFIALLEKQ
+                     ALK*"
 ORIGIN
         1 atgaattacg aaacgatcgc agaaagcaat gaaagcacgg tagtagcgga atttcatagc
        61 aataatgaaa gaaaaagtgc ttatgagagc gaagcagagc tagaaagggc gtttatcgcg
@@ -55528,6 +56215,8 @@ FEATURES             Location/Qualifiers
                      /old_locus_tag="HP1408"
                      /product="HP_RS06965-MONOMER"
                      /transl_table=11
+                     /translation="IQPSNHPIIQSFNHPIIQAIKQSSNQAIKQSSNQAIKQSSNQAIK
+                     QRYHTFITFTKIRLKIPYFLLFPLLFLFSFPLSLTHTAIFLKNLIR*"
 ORIGIN
         1 attcaaccat ccaatcatcc aatcattcaa tcattcaacc atccgatcat tcaagcaatc
        61 aagcaatcaa gcaatcaagc aatcaagcaa tcaagcaatc aagcaatcaa gcaatcaagc
@@ -55550,6 +56239,10 @@ FEATURES             Location/Qualifiers
                      /old_locus_tag="HP0991"
                      /product="HP_RS04865-MONOMER"
                      /transl_table=11
+                     /translation="MAFEMKEHSKEFPNKKQLQTMLENAFDNGAESFIDDWHERFGGIS
+                     RENTYKALGIKEYSDEGKILAFGERSYIRQYKKDFEESTYDTRQTLSAMANMGGENDYK
+                     ITWLKPKYQLHSSNNIKPLMSNTELLNMIELTNIKKEYVMGCNMEIDGSKYPIHKDWGF
+                     FGKAKVPETWRNKIWECIKNKVKSYDNTTTKIGIVWKKNTYSISHH*"
 ORIGIN
         1 atggcttttg aaatgaaaga acactctaaa gaattcccaa ataaaaagca acttcaaacc
        61 atgcttgaga acgcttttga taatggagct gaaagtttta ttgatgattg gcacgaacgc
@@ -55578,6 +56271,8 @@ FEATURES             Location/Qualifiers
                      /old_locus_tag="HP0427"
                      /product="HP_RS02115-MONOMER"
                      /transl_table=11
+                     /translation="IQPSNHPIIQSFNHPIIQAIKQSSNQAIKQSSNQAIKQSSNQAIK
+                     QRYHTFITFTKIRLKIPYFLLFPLLFLFSFPLSLTHTAIFLKNLIR*"
 ORIGIN
         1 attcaaccat ccaatcatcc aatcattcaa tcattcaacc atccgatcat tcaagcaatc
        61 aagcaatcaa gcaatcaagc aatcaagcaa tcaagcaatc aagcaatcaa gcaatcaagc
@@ -55600,6 +56295,9 @@ FEATURES             Location/Qualifiers
                      /old_locus_tag="HP0345"
                      /product="HP_RS01690-MONOMER"
                      /transl_table=11
+                     /translation="MENDVKEDLEQARPKLEPEKQKQEPEEQKQEKQDKQEQKPKQEKE
+                     ESKSKEQEENKKQKRSSYIFWGCIIGLCIVVIIAKIIAFGGSSEEAKADKPKNSLSMLK
+                     NFYLPIL*"
 ORIGIN
         1 atggaaaatg atgttaaaga agatctagag caagcaagac caaagttaga gccagaaaag
        61 caaaagcaag agccagagga acagaaacaa gaaaaacaag acaaacaaga gcagaagcca
@@ -55624,6 +56322,12 @@ FEATURES             Location/Qualifiers
                      /old_locus_tag="HP0040"
                      /product="HP_RS00215-MONOMER"
                      /transl_table=11
+                     /translation="MRKVLYALVGFLLAFSALKADDFLEEANETAPAHLNHPMQDLNAI
+                     QGSFFDKNRSKMSNTLNIDYFQGQTYKIPLALCDGDLIVFFKTH*RFCFRG*GGF*CEN
+                     FRKQRSYFAYQTPTNWRGF*YQRD***G*DFFFLCVFYHFHQLQTP*FAGFYRR*KLLF
+                     *RFFEAPKRKYG*KCP*RCPHKQQTLKRRKRRNQRKRRRDYNYWR*H*CHENR*KRHSK
+                     RL*GFKKLSKEMVLFRDLF*KVQTLFDA*RNF*RQAIHLFQI*QKISAL*IPGDL*GR*
+                     WL**PGEYKDCGRLHYR*RRFG*MDFKAGQGLFVHPFCQKG*R*I"
 ORIGIN
         1 atgcgtaagg ttttatacgc tcttgtgggc tttttgttgg cttttagcgc tttaaaagcc
        61 gatgattttt tagaagaagc gaacgaaaca gccccggcgc atttaaacca ccctatgcag
@@ -55658,6 +56362,8 @@ FEATURES             Location/Qualifiers
                      /old_locus_tag="HP1070"
                      /product="HP_RS07955-MONOMER"
                      /transl_table=11
+                     /translation="VLAYKQIFDKGLKPYYKHSVCLKLFFRFCFLKTHAYQQRYQAFAL
+                     TLFSCKFFNACKIFLLAIGFKIVFIPILEAKLKRVSNAY*"
 ORIGIN
         1 gtgctagctt acaaacagat ttttgataag ggtttaaagc cttattataa acattctgtt
        61 tgtttaaagc ttttttttag gttttgtttt ctaaaaactc atgcttatca acagcgttat
@@ -55680,6 +56386,16 @@ FEATURES             Location/Qualifiers
                      /old_locus_tag="HP0452"
                      /product="HP_RS02230-MONOMER"
                      /transl_table=11
+                     /translation="LHAQLDEMADETNALRQKNRELNKKIDWQKDYDREKLERDNRDLE
+                     QCKEDLLAANENLRNRIQEWENEKNKLDPRDERIKELEEEKRELEGILAQKENAEQKYN
+                     TLSVKNKQLEAELDMLNEKFEKLKNMYAGVEDFEKRQKNIKEQIVKTNPKVLGAPSNEV
+                     EELAFLERIEKGMQEFNVFYPKRLLYMFHTALKSTSLSPLSVLSGVSGTGKSELPKLYV
+                     HFGGLNFLSIAVQPTWDSPESLMGYFHAIENKFDATEFLRFFIQTTLSNNEEPYGLKEA
+                     MSIVLLDEMNLAHIELYFAEFLSKLEIKCSQETNISIKLGTGLTWELPLGDNLLFVGTM
+                     NEDESTKMLSDKVLDRAFCLNFERPKILKGKQQKPIPSNDGYLKVETFNRWINKKGDQE
+                     AKLEGKYKKLTEEINERLDACGRSIGHRVWQSMSTYMHNHPLVLHASDKNKALQFAYEE
+                     CLVLKIFPKLRGVQTRNNQHLTKIQDLLKDFSVSSDFKQAMENDFKEFVFNSTNYLNNV
+                     EYEKLLKK*"
 ORIGIN
         1 ttgcatgccc aactagatga aatggcagat gaaacgaacg ctctgagaca aaaaaacaga
        61 gaactgaaca aaaaaataga ttggcaaaaa gattatgaca gggaaaaatt agaacgagat
@@ -55726,6 +56442,12 @@ FEATURES             Location/Qualifiers
                      /old_locus_tag="HP0326B"
                      /product="MONOMER2DNV-5"
                      /transl_table=11
+                     /translation="MPVKILCDCFLTSGLGHVRRCEKILSFIEKLGVEASLYLHKQNNI
+                     SAFLEGVGGNDFLITDSYCLNSKDFYLLKEKAKSLMVIEDTEHAKGFYPKNTKILNFTL
+                     NALKHYHHLSKDYQYYLGVGFYPVDARFIYDRPINTENKEVLITLGGSEQKTLKEIVKI
+                     LENKNVNLHIISPYTPKNPPKNTHYYSPLNPLEFSSLMKSCACAISAAGQTLYELALSQ
+                     TPSLILPIASNQIIQSKEFESLGIFKQTSLKTLAKDFENLQIQKNQAWAKNLVFGDKLE
+                     GALREFLEI*"
 ORIGIN
         1 atgccagtaa aaattttgtg cgattgtttt ttaacaagcg gtttagggca tgtgaggcgt
        61 tgtgaaaaaa tcctttcttt tatagaaaaa ttaggggttg aagcgagcct ttatttacac
@@ -55758,6 +56480,8 @@ FEATURES             Location/Qualifiers
                      /old_locus_tag="HP0594"
                      /product="HP_RS07875-MONOMER"
                      /transl_table=11
+                     /translation="MEFLGLILSLAAILIAFKKPEKENWAFGILMVVWLVELIIFIAHS
+                     SSVLPNMNL*"
 ORIGIN
         1 atggagtttt tgggactgat tttaagtctg gccgctattt tgatagcgtt taaaaagcct
        61 gaaaaagaaa attgggcgtt tgggattttg atggtggtgt ggttagtgga gcttattatt
@@ -55778,6 +56502,9 @@ FEATURES             Location/Qualifiers
                      /old_locus_tag="HP0433"
                      /product="HP_RS02150-MONOMER"
                      /transl_table=11
+                     /translation="MPLFIESLEKASLQVLECENCSMTYYDRDYNRECEICPYCDAKKP
+                     VRLVATSYYQKSEVFYFVSNFTDPIFLPTTLFKGIEVVKSEWEFAEIANNILIFHHDIQ
+                     QEKILINNKRLDHYRIEIDLEKELTISYNGFLIKVQKC*"
 ORIGIN
         1 atgcccttat ttatagagag cttagaaaaa gctagcttgc aagtgttaga atgtgaaaat
        61 tgttcaatga cttattatga tagagattat aatagagaat gtgagatttg cccttattgc
@@ -55803,6 +56530,11 @@ FEATURES             Location/Qualifiers
                      /old_locus_tag="HP0326A"
                      /product="HP_RS01605-MONOMER"
                      /transl_table=11
+                     /translation="MRAIAIVLARSSSKRIKNKNIIDFFNKPMLAYPIEVALNSKLFEK
+                     VFISSDSMEYVNLAKNYGASFLNLRPKILADDRATTLEVMAYHMEELELKDEDIACCLY
+                     GASALLQEKHLKNAFETLNKNQNTDYVFTCSPFSASPYRSFSLENGVQMAFKEHSNTRT
+                     QDLKTLYHDAGLLYMGKAQAFKEMRPIFSQNSIALELSPLEVQDIAHFRRFRISQAQIQ
+                     PFEKRMP"
 ORIGIN
         1 atgagagcga tcgctattgt tttagccaga agttccagta aaaggatcaa gaataaaaat
        61 attattgatt ttttcaataa acccatgctc gcttacccta ttgaggtggc gctaaattcc
@@ -55832,6 +56564,7 @@ FEATURES             Location/Qualifiers
                      /old_locus_tag="G2DNV-43"
                      /product="MONOMER2DNV-6"
                      /transl_table=11
+                     /translation="MRIFFVIMGLVFFGCTSKVHEMKKSPCTLL*KQVKSRMK"
 ORIGIN
         1 atgagaattt tttttgttat tatgggactt gtgttttttg gttgcaccag taaggtgcat
        61 gagatgaaaa aaagcccttg cacattgtta tgaaaacagg ttaaatctcg catgaaa
@@ -56497,6 +57230,20 @@ FEATURES             Location/Qualifiers
                      /old_locus_tag="HP1216"
                      /product="HP_RS06005-MONOMER"
                      /transl_table=11
+                     /translation="MIYWLYLAVFFLLSALDAKEIAMQRFDKQNHKIFEILADKVSAKD
+                     NVITASGNAILLNYDVYILADKVRYDTKTKEALLEGNIKVYRGEGLLVKTDYVKLSLNE
+                     KYEIIFPFYVQDSVSGIWVSADIASGKDQKYKVKNMSTSGCSIDNPIWHVNATSGSFNM
+                     QKSHLSMWNPKIYVGDIPVLYLPYIFMSTSNKRTTGFLYPEFGTSNLDGFIYLQPFYLA
+                     PKNSWDMTFTPQIRYKRGFGLNFEARYINSKNDRFLFNARYFRNYTQYVKRYDLRNQNI
+                     YGFEFLSSSRDTLQKYFHLKSNIDNGHYIDFLYMNDLDYVRFEKVNKRITDATHMSRAN
+                     YYLQTENNYYGLNIKYFLNLNKINNNRTFQSVPNLQYHKYLNSLYFRNLLYSVDYQFRN
+                     TAREIGYGYVQNALNVPVGLQFSLFKKYLSLGLWNDLQLSNVALMQSKNSFVPTIPNES
+                     REFGNFVSSNFSMYVNTDLAREYNKLFHTIQLEAIFNIPYYTFKNGLFSQNMYALSAQA
+                     LNSYTSPLLRDYDYQGRLYDSVWNPSSILPSNASNKTVDLTLTQYLYGLGGQELLYFKI
+                     SQLINLDDKVSPFRMPLESKIGFSPLTGLNIFGNVFYSFYQNRLEEISVNANYQRKFLS
+                     FNLSYFLKNNFSSGINSIVENLRII*RRVLATTLAIFP*ARMWVMILETMWF*IGMWGF
+                     IKKSVVLGLAFNSSTNDAPSSPAIPTSL*ECLKITMLS*N*TFHRSLKPM*LTALYSVS
+                     "
 ORIGIN
         1 atgatttatt ggttgtattt ggcggtcttt tttttgttga gcgcattaga cgctaaagaa
        61 atcgctatgc aacgatttga caaacaaaac cataagattt ttgaaatcct tgcggataaa
@@ -56647,6 +57394,9 @@ FEATURES             Location/Qualifiers
                      /old_locus_tag="HP0460"
                      /product="HP_RS02280-MONOMER"
                      /transl_table=11
+                     /translation="MSNLQELREHLKELENSFEIGSFTKENIKEYAKCFFMSLSMFLEE
+                     QEKNQQEEFLEQDTKENQEELIKNIQTSIAKNQELEKISFEKWENKIQERVLPKLKRIV
+                     THKLQESITSSINTQLESFKKDELDLSSVFEIQRKNTQIAYRLAIGGLIGIIALS"
 ORIGIN
         1 atgtctaatt tgcaagaact tagagagcat ttaaaagaat tagaaaattc ctttgaaata
        61 ggctctttta ctaaagaaaa tattaaagaa tacgctaaat gcttttttat gagtttaagc
@@ -56852,6 +57602,12 @@ FEATURES             Location/Qualifiers
                      /old_locus_tag="HP0905"
                      /product="HP_RS04420-MONOMER"
                      /transl_table=11
+                     /translation="MQGLWIYPEDTEVLGVACKSLLKALTPRYQKVALFSPISGGCESL
+                     EECESLNPLEFHSAISKQKALELASTAQEELLFETILKRYDELQSTHDFVINLGCAPKF
+                     FLNAPLDLNTILAKHLNASVVAVAQTSLEYLKAMHSHILKKEAPFAVGLFAGETLEKPH
+                     FLSMSLCKQQCELEADLIESVLQIKSEIITPLAFQRGLEKKAKKQIKKVVLPESEKMKG
+                     F*KLHIV*I*WAR*D*SY*AIKKPLIRKI*T*I*KMWKSLIPTLLIIEKNSLKACMNYE
+                     NQRA*VSKKLSN*CWIRLILRPCSCIQAMCMRWFLG*ITA"
 ORIGIN
         1 atgcaaggtt tatggattta tccagaggat acagaagttt taggggttgc ttgtaagagc
        61 cttttaaaag cactaacgcc acgctatcaa aaagtcgcct tgttttcgcc cattagtgga
@@ -56905,6 +57661,15 @@ FEATURES             Location/Qualifiers
                      /old_locus_tag="HP1019"
                      /product="HP_RS05005-MONOMER"
                      /transl_table=11
+                     /translation="MMKKTLFISLALALSLNAGNIQIQSMPKVKERVSVPSKDDTDLFL
+                     PRFY*GLY*GGGEYLH*KED*KQFYRWRCV**PLFPTIFWGFGWHDS*RKNGKGFRQRR
+                     NHF*RRLYCN**PCD*WRG*D*SYHSREQ*RIFRHSSRHRF*KRFSGDSHH*RQSAHDQ
+                     IL*F**YFSGRFGFCDW*PFWRGRKRYARHCFSAQ*KRDWDQQL*EFHSNRRFHQSWKF
+                     RRRFN**PWRVSGD*YRYYL*NWGQPRHWLCHPF*HG*RYCNPTHQNR*D*KRLLGRGL
+                     ARFEWRFAKFL*QQRRGGSH*RRKRLSG*KSRDFGVGFDHRSQWEKG*KHE*VKKSNRL
+                     HATQSKSNLKSH*RQKRTRFHPHSS*KEKP*QKRNHFCSKRRARPIERASSRRFNSRNQ
+                     KVYAFER*CSRGFSLSSE*KFPSRASRI*AR*HYHKN*RG*S*KRCGF*PCFRKV*RQT
+                     QTILSFRLESRL*DHFGEM"
 ORIGIN
         1 atgatgaaaa aaaccctttt tatctctttg gctttagcgt taagcttgaa tgcgggcaat
        61 atccaaatcc agagcatgcc caaagttaaa gagcgagtga gtgtcccctc taaagacgat
@@ -56946,6 +57711,9 @@ FEATURES             Location/Qualifiers
                      /old_locus_tag="HP0938"
                      /product="HP_RS07945-MONOMER"
                      /transl_table=11
+                     /translation="MGVFLDKSIKDVVDGLNVRYFLPDIQREYVWLKKADEKKIEQLFD
+                     SILRGYPIGSFLFWKLQKEDIAKSDEQDSDKLNFQLYQFITNYDVRKPHNEKIRIEQIN
+                     RDDLYIVANSV*PRFISGLKALEQSF"
 ORIGIN
         1 atgggtgtgt ttttggataa gagcattaaa gatgtggtag atggattgaa tgtccgttat
        61 tttttgcctg acattcagcg tgaatacgtg tggctcaaaa aagccgatga aaaaaagata
@@ -56970,6 +57738,9 @@ FEATURES             Location/Qualifiers
                      /old_locus_tag="HP0992"
                      /product="HP_RS04870-MONOMER"
                      /transl_table=11
+                     /translation="MIKLNGLNKTLKTSLLAEVLLGATAPLMAKPLLSDEDLLKRVKLH
+                     NIKEDTLTSCNAKVDGSQYLNSGWNLSKEFPQVI*RKDF*MRRRRKT*TSP*FNQ*RRH
+                     *R*RRTCKKKSKKL"
 ORIGIN
         1 atgattaaat taaatggttt gaataaaact ttaaaaacaa gcttattagc tgaggtttta
        61 ctaggtgcta ctgctccctt aatggcaaag cctttgttaa gcgatgaaga cttattgaaa
@@ -56993,6 +57764,17 @@ FEATURES             Location/Qualifiers
                      /old_locus_tag="HP0733"
                      /product="HP_RS03565-MONOMER"
                      /transl_table=11
+                     /translation="MKNIYLDVKASIENLQNIFKNTDNENERLKKFNQEALEVFQKLER
+                     ESLKELESLKNNEEWENFTIAFYGETGAGKSTFIECLRMFFKEQSKVVQQERFKRLYSN
+                     YQNNYQNDECKKQAILNELHSLQDGAIIGDGRSDFTLKTRSYSFQYNHQNFTLLDVPGI
+                     EGDEKKVIDQISNATQKAHAIFYVTKTPNPPQKGEEKKEGTIEKIQKQLDSQTEVWTIF
+                     NKPINNPRAFKDGLIDGSEKESLKILNKEMKNILGKHYKGYKAVSAQVAFYGLSSALIP
+                     GTDFDKNKQKFLKDFKARELLYQSHFQQLGEFIAEELIKNSRAKIIQSNCNKALKVVEQ
+                     LQKAIEITIEKRIDPMIKEAQEYQHEARYNLDRSTDKFILNLTNSAFYEIDQFKSDLRE
+                     KMYAHINKNIEDEECKEIFKNELIQGIETLHEDIKWRFRECEKRFDGEIKEAIKQLEYR
+                     IKDSLAMLERISIDRDFNLNFDTDSGIDGTKLATSIGGLGLLGIFNAWNPMGWLALTAG
+                     LLQD*LE*PAQSGNFLVQDIKDPNKEKKWIRICIKFVKKLCRM*KADLKVAKKTYGKRL
+                     KNSKPILDLLTITNA*KDN*KKPMKD*DTSLIVSI**YQNKEHAMKN"
 ORIGIN
         1 atgaaaaaca tttatcttga tgtgaaagcc agcattgaaa atctccaaaa tatttttaaa
        61 aacactgata atgaaaatga aagactaaaa aaattcaacc aagaagcgtt ggaggtgttt
@@ -57042,6 +57824,14 @@ FEATURES             Location/Qualifiers
                      /old_locus_tag="HP0903"
                      /product="HP_RS04410-MONOMER"
                      /transl_table=11
+                     /translation="MEILVLNLGSSSIKFKLFDMKENKPLASGLAEKIGEEIGQLKIKS
+                     HLHHNDQELKEKFVIKDHASGLLMIRENLTKMGIIKDFNQIDAIGHRVVQGGDKFHAPV
+                     LVNEKVMQEIGNLSILAPLHNPANLAGIEFVQKAHPHIPQIAVFDTAFHATMPSYAYMY
+                     ALPYELYEKYQIRHYGFHRTSHHYVAKEAAKFLNTAYEEFNAISLHLGNGSSAAAIQKG
+                     KSVDTSMGLTPLEGLIMGTRCGDIDPTVVEYTAQCANKSLEEVMKMLNHESGLKGICGD
+                     NEKHRSQKRKR**RSQARF*NVRLSH*KAHWGLHGSLKKSRCDHLYRGIR*KLLGFKRE
+                     RV*RLRKFRDRFM*AHQRQSGQWVSEFKPT*R*NPNFTHPY**RIRNRFANQKGFGKNR
+                     I"
 ORIGIN
         1 atggaaattt tagtgttgaa tctgggcagt tcgtctatta agtttaagtt gtttgacatg
        61 aaagaaaata agcccttagc gagcggtttg gctgaaaaaa tcggcgaaga aatagggcag
@@ -57080,6 +57870,8 @@ FEATURES             Location/Qualifiers
                      /old_locus_tag="HP0999"
                      /product="HP_RS04905-MONOMER"
                      /transl_table=11
+                     /translation="LKWDHKTLIDDLAKMSKDRDYKPVFNPKSKEVLEKMNAEKRASLV
+                     DEREEVKEQANQEAYRPMKKAANDDYDMGM*"
 ORIGIN
         1 ttaaaatggg atcataaaac tctaatagat gatttagcta aaatgagcaa agacagagat
        61 tataagcctg tgttcaaccc taaatctaaa gaagtcttag agaaaatgaa cgctgaaaaa
@@ -57102,6 +57894,27 @@ FEATURES             Location/Qualifiers
                      /old_locus_tag="HP1354"
                      /product="HP_RS06690-MONOMER"
                      /transl_table=11
+                     /translation="MLKEYLESIKDLTPEKNELTHRPSLYNLLNQLKNHFNKEFKIEHE
+                     PERKQGSQPDFRVSYQGINIGYIENKRAGTNLSQLLKSEKSDQILKYLELNPNLMLTDY
+                     LNFMWVGKDENNEPLIKKEISVASLDELSKPLKPNPQTERDLIELFKSFFNHEAAPITN
+                     AKDFATHLSPRTKYLKDALIKYQEKAQVSSIFNNFKEYLYEELSFEDFSDALAQTLTYS
+                     LFLAKLNHPSEKINLDNVRSLIPKNFAVIREMADFLKKLDEIKEIQWLLNEILSSINHV
+                     DMDSILKDLNDDKDPYLHFYETFLSTYDPKLRESKGVYYTPDSVVKFIINALDSLLKTH
+                     FKDAPLGLKSALDNENIKLLDFATGTGTFLLEAFRKALETRKTSDGGTSTKEDKYQNLL
+                     KQFYGFEYLIAPYAIAHLNLSQAFKEEFKKPLKENDALQIILTNTLIQPSEIIAYRGLS
+                     PIFEKELSNAQEIKKNENILIITGNPPYSGASENKGLFEWEVKATYGIDPKFQTIEIEK
+                     NVKLADKIQTLLSSVQIQKQSGSKNDLKKLKSLHSKYKLQDEKNPKWLLDDYVKFMRFA
+                     QNKIESLGHGLFGFISNNAFLDNPTFRGLRRSLLECYDELYILNLHGNARKKEKTPQGA
+                     KDENVFNIKQGVSINLFVKNPQVVKQKIHYYDVYGQRTEKYAFLAQNDLNSIEWLEIAP
+                     RGPFYLLLPLETPLLDEYEQGFSVQEMFQIGSTGICSQRDHVVFHKDKESLLKLLKDFS
+                     TLEPSELRRIYNIKKDGRDWRLEYAIKDVKANANNLEEYIVSCQYRPFDFYYTYYTGKS
+                     KSFIAYPRGEVFKHMLPPPPNKP*NTQSNAQKCCAKHPTTAKK*R*KLDAMLYKLSY*R
+                     SGVKLWGQWSWGQLPPLSIQTPQLHRKFYARV*KFYRQAL*PLF*AARGFRLYLCVIVF
+                     PKLPQAL*RLP*KRLP*NPFHKQ*RFV*GFKPFRD*TNRLACLKPRKPELQLWKIKRRH
+                     HRRILL*RRA*PHHQKTLS*RARPTALYQP*RLF*GGESRNL*L*NRGVWRFRQIFKKP
+                     *KRALRL*SCN*YH*SHRTHD*NPKNAWIFNERFAPFKRE*QQSLNARNLAKSTPPPPH
+                     LIPISPLSYRAKPKPSETLTLMAHSSAKKRAITTSIAEVGDQPSLYSVLPNLALICDRG
+                     SKVSPISNVFVTNMLCDLHVNGSGSYAFLLYRLK*"
 ORIGIN
         1 atgctaaaag aatatttaga aagcattaaa gatcttacgc ctgaaaagaa tgaactcacg
        61 caccgccctt ctttatacaa cttgcttaat cagttaaaaa accatttcaa taaagagttt
@@ -57180,6 +57993,9 @@ FEATURES             Location/Qualifiers
                      /old_locus_tag="HP0521"
                      /product="HP_RS07870-MONOMER"
                      /transl_table=11
+                     /translation="MIQRGLSSVSFYYGCSNYVNKGGCKGVLREINGSMKMVCLASIKA
+                     NIKENSFFLGCKIILSVNGLLVWIHKILNIPNAMD**KEKRISKTMSFLQLHYLP*MQW
+                     NFVSISILKKRKLMF"
 ORIGIN
         1 atgatacaaa gaggattgag tagtgtctca ttttattatg gttgctctaa ttatgtaaat
        61 aaaggcggct gtaagggcgt tttacgagaa ataaatggct caatgaaaat ggtttgcttg
@@ -57203,6 +58019,9 @@ FEATURES             Location/Qualifiers
                      /old_locus_tag="HP0206"
                      /product="HP_RS01010-MONOMER"
                      /transl_table=11
+                     /translation="MEFYKRVLKLHHFRNLGRKSPVELPLNSSFEKHGGLVILVGENNV
+                     GKSNVLKALTIFNDADIKLCNEEDYFKPHEKDSLLSLEEETILDHKITGFSCVDLRIQS
+                     KEII*"
 ORIGIN
         1 atggaatttt ataagcgtgt tttgaaattg caccatttta ggaatttggg tagaaaatcg
        61 cctgtagaat tgcctttaaa ttcaagtttt gaaaaacatg gggggttggt gatcttagtg
@@ -57226,6 +58045,9 @@ FEATURES             Location/Qualifiers
                      /old_locus_tag="HP1587"
                      /product="HP_RS07850-MONOMER"
                      /transl_table=11
+                     /translation="LCDACDHLKVNYNEESATSLIEQNMLSKLLKDSLEKMSRREIKEL
+                     CNELGMTNIDKVIGENKQVLIASTLTLFKAGGSHSYALAVSVADAMVRQTLGHVMWWVK
+                     *HLKKLWAFWLALLVGSLQAR**A*ILQDRLIG*PFRHAF*SPPYA*N*KRN"
 ORIGIN
         1 ttgtgcgatg cgtgcgatca tttaaaggtt aattacaatg aagaatctgc aacctctttg
        61 attgagcaaa acatgctttc taaactcttg aaagatagtt tagaaaaaat gagtaggaga
@@ -57251,6 +58073,11 @@ FEATURES             Location/Qualifiers
                      /old_locus_tag="HP1426"
                      /product="HP_RS07055-MONOMER"
                      /transl_table=11
+                     /translation="MLGFNLSHAIDESEPNKLVGKKVQEALAKEKAKAKNQRADKSAFF
+                     AGLGYSGMFSWNLAYKDSFVLLRHYDFNFGGRLLERKDPSTILNGFNFKVGYQYAAPVK
+                     IKKMGFGVRGGFQYSYKAGNYMEKDKYQQHLFGVPIGIISPVSIFNGGMITMSTYSFFM
+                     DFYTMCMKMRSFSSVIL*GLG*GVRA*HPMFLKILVIC*RN*CNFRAMAH*G*GWAINT
+                     TR*N*ARAFMATLLVVL*KS*RVAKVRGFYKQKSLGAFLKAMLLGARIMFIVF"
 ORIGIN
         1 atgctagggt ttaatcttag ccacgctata gatgagagcg agcctaataa actcgttgga
        61 aagaaagttc aagaagcttt agcaaaagaa aaagctaaag ctaaaaatca aagagcggat
@@ -57283,6 +58110,8 @@ FEATURES             Location/Qualifiers
                      /old_locus_tag="HP1432"
                      /product="HP_RS07085-MONOMER"
                      /transl_table=11
+                     /translation="MAHHEQQQQQQANSQHHHHHHAHHHHYYGGEHHHHNAQQHAEQQA
+                     EQQAQQQQQQQAHQQQQQKAQQQNQQY*"
 ORIGIN
         1 atggcacacc atgaacaaca acagcaacaa caggctaaca gccaacacca ccaccatcac
        61 catgcgcacc accaccatta ctacggtggc gaacaccatc accataatgc gcaacaacac
@@ -57304,6 +58133,8 @@ FEATURES             Location/Qualifiers
                      /old_locus_tag="HP0981"
                      /product="HP_RS04800-MONOMER"
                      /transl_table=11
+                     /translation="MSAIGHESDFLLSDLVADLRASTPSNAMEILLPNSDEWLQKLDGF
+                     NVKLHRSFKILLHQKKAHLEHLADFLEKRNYPVNHSEPGSQALHR*"
 ORIGIN
         1 atgtcagcta ttgggcatga gagcgatttt ttattgagcg atttggtggc ggatttaagg
        61 gcttctacgc cttcaaacgc gatggagatt ttactcccta atagcgatga atggttgcaa
@@ -57327,6 +58158,11 @@ FEATURES             Location/Qualifiers
                      /old_locus_tag="HP0503"
                      /product="HP_RS02485-MONOMER"
                      /transl_table=11
+                     /translation="IINALVNPKRENYGISQDEPLIIVGNPPYNDRTSFIKQDIKNKDF
+                     IFEIDHHLKSRDLGISFLKSFAILKPAFICVLHPLSYLIKEANFKQLKLFKDHYRLLDA
+                     LVVSSKSFTKSNEFPIVIALYERGRMDYAEIRRFVFPTDCDTTLCLNDFDYIANYVDKY
+                     PNAKKVGACVGYFFPMRDINALKRNKTFLNAPSTNVVRISQDKLIYYQYIHYFKEIAPK
+                     IPYYFGNLDIIIDCFAFLEIKDAFLKDKRARLEYFKKLFQGHPCEFD*"
 ORIGIN
         1 ataataaacg ctttagttaa tcctaaaaga gaaaattatg gcattagcca agatgagcct
        61 ttaatcatcg tgggaaatcc cccctataac gatagaactt cttttatcaa acaagatatt
@@ -57358,6 +58194,11 @@ FEATURES             Location/Qualifiers
                      /old_locus_tag="HP0628"
                      /product="HP_RS03095-MONOMER"
                      /transl_table=11
+                     /translation="MGCSGGDATACANLAQMYENKKNADSNDKENALQLYAVACQGGDM
+                     LACNNLGWMFANGSGVPKDYYKAISYYKFSCENGNDMGCYNLGLMSNVNNIYGIDKAQL
+                     SQVDLNYLACNAGDMMGCANLGWIYANGDLGAPLNNHYAAKYFQMACDGGILGSCNNLG
+                     VLYQKGLGVPQDDQRALDLFSYACDNGFESSCRNYGNFKEHLLRVNPNYGRLFMPYNSY
+                     DIP*"
 ORIGIN
         1 atgggttgca gcgggggcga tgcgaccgct tgcgcgaatc tggctcagat gtatgaaaac
        61 aagaaaaatg cggattcaaa cgataaagaa aacgctttgc aattgtatgc ggtggcttgt
@@ -57389,6 +58230,12 @@ FEATURES             Location/Qualifiers
                      /old_locus_tag="HP1370"
                      /product="HP_RS07900-MONOMER"
                      /transl_table=11
+                     /translation="ISWKQFHSVKNDAANFSKNIEYILCYCKNFSKNLISNEPFDKSNL
+                     YKLKDENGFYKLDPVWAKSGNNFSPYTFLNGKTWSPPSGTFWRYSIGTLKDMEQNNRIV
+                     FNGKNPMAKRYLSEVAEGRKSSTFWDGSEVGYNLNGDAEIKQLFNGNKVFNNPKPEALL
+                     QRILEISTKENDLVLDFFAGSGTTCAVAHKMKRKYIGIEMGEHFESVILPRLKKVIGGF
+                     KSGAAKEFDGGGVIKVYELESYEEILRKIKYEDNDKPLAYDEQYSDLVERKNESYTLNI
+                     EALEKMGVDIKETLENLWGVGVEFFNEKVVKFKGNDKEVEILKALKEALIW*"
 ORIGIN
         1 attagttgga aacaatttca ttcagttaaa aatgatgctg ctaatttttc aaaaaatatt
        61 gaatacatac tatgttattg caaaaatttt tctaaaaacc ttattagtaa tgagccgttt

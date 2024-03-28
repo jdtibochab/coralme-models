@@ -9,4 +9,5 @@ generic_RF,"{'enzymes': ['SYNPCC7942_2203-MONOMER', 'SYNPCC7942_0404-MONOMER']}"
 generic_RNase,"{'enzymes': ['SYNPCC7942_0678-MONOMER_mod_mg2(5)', 'SYNPCC7942_1124-MONOMER_mod_mg2(1)', 'SYNPCC7942_1073-MONOMER_mod_mg2(1)']}"
 generic_Tuf,{'enzymes': ['SYNPCC7942_0884-MONOMER']}
 generic_fes_transfers_complex,{'enzymes': ['SYNPCC7942_0909-MONOMER']}
-generic_glu_ligase,"{'enzymes': ['SYNPCC7942_2393-MONOMER', 'SYNPCC7942_0922-MONOMER']}"
+generic_glu_ligase,"{'enzymes': ['SYNPCC7942_0922-MONOMER', 'SYNPCC7942_2393-MONOMER']}"
+generic_his_ligase,"{'enzymes': ['SYNPCC7942_0813-MONOMER', 'SYNPCC7942_2263-MONOMER']}"

@@ -1,4 +1,5 @@
 reaction	keff
+EDD	79.0
 3SALATAi	18.0
 5DOAN	65.0
 ACALD	79.0
