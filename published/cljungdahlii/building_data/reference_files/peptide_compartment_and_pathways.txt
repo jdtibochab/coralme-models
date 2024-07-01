@@ -1,5 +1,5 @@
 Complex	Complex_compartment	Protein	Protein_compartment	translocase_pathway
-CLJU_RS07615-MONOMER	Plasma_Membrane	CLJU_c15540()	Plasma_Membrane	t
+CLJU_RS07615-MONOMER	Plasma_Membrane	CLJU_c15540()	Plasma_Membrane	s
 CPLX-502	Plasma_Membrane	CLJU_c10590()	Plasma_Membrane	r
 CLJU_RS05200-MONOMER	Plasma_Membrane	CLJU_c10590()	Plasma_Membrane	r
 CPLX-36	Plasma_Membrane	CLJU_c15350()	Plasma_Membrane	r
@@ -15,8 +15,8 @@ CPLX-222	Plasma_Membrane	CLJU_c17740()	Plasma_Membrane	r
 CLJU_RS08715-MONOMER	Plasma_Membrane	CLJU_c17740()	Plasma_Membrane	r
 CLJU_RS16820-MONOMER	Plasma_Membrane	CLJU_c34120()	Plasma_Membrane	r
 CLJU_RS14340-MONOMER	Plasma_Membrane	CLJU_c29070()	Plasma_Membrane	r
-CPLX-27	Plasma_Membrane	CLJU_c28660()	Plasma_Membrane	t
-CLJU_RS14140-MONOMER	Plasma_Membrane	CLJU_c28660()	Plasma_Membrane	t
+CPLX-27	Plasma_Membrane	CLJU_c28660()	Plasma_Membrane	s
+CLJU_RS14140-MONOMER	Plasma_Membrane	CLJU_c28660()	Plasma_Membrane	s
 CPLX-551	Plasma_Membrane	CLJU_c09130()	Plasma_Membrane	p
 CLJU_RS04500-MONOMER	Plasma_Membrane	CLJU_c09130()	Plasma_Membrane	p
 CPLX-114	Plasma_Membrane	CLJU_c06220()	Plasma_Membrane	r
@@ -48,14 +48,14 @@ CLJU_RS01160-MONOMER	Plasma_Membrane	CLJU_c02370()	Plasma_Membrane	p
 CPLX271D-8	Plasma_Membrane	CLJU_c02370()	Plasma_Membrane	p
 CPLX-254	Plasma_Membrane	CLJU_c40280()	Plasma_Membrane	r
 CLJU_RS19835-MONOMER	Plasma_Membrane	CLJU_c40280()	Plasma_Membrane	r
-CLJU_RS12540-MONOMER	Plasma_Membrane	CLJU_c25450()	Plasma_Membrane	t
+CLJU_RS12540-MONOMER	Plasma_Membrane	CLJU_c25450()	Plasma_Membrane	s
 CLJU_RS07825-MONOMER	Plasma_Membrane	CLJU_c15960()	Plasma_Membrane	r
 CPLX-188	Plasma_Membrane	CLJU_c27820()	Plasma_Membrane	r
 CLJU_RS13740-MONOMER	Plasma_Membrane	CLJU_c27820()	Plasma_Membrane	r
 CPLX-208	Plasma_Membrane	CLJU_c12450()	Plasma_Membrane	r
 CLJU_RS06110-MONOMER	Plasma_Membrane	CLJU_c12450()	Plasma_Membrane	r
-CPLX-27	Plasma_Membrane	CLJU_c28670()	Plasma_Membrane	t
-CLJU_RS14145-MONOMER	Plasma_Membrane	CLJU_c28670()	Plasma_Membrane	t
+CPLX-27	Plasma_Membrane	CLJU_c28670()	Plasma_Membrane	s
+CLJU_RS14145-MONOMER	Plasma_Membrane	CLJU_c28670()	Plasma_Membrane	s
 CPLX-232	Plasma_Membrane	CLJU_c13270()	Plasma_Membrane	r
 CLJU_RS06515-MONOMER	Plasma_Membrane	CLJU_c13270()	Plasma_Membrane	r
 CPLX-47	Plasma_Membrane	CLJU_c21740()	Plasma_Membrane	r
@@ -129,7 +129,7 @@ CLJU_RS06715-MONOMER	Plasma_Membrane	CLJU_c13690()	Plasma_Membrane	r
 CLJU_RS17470-MONOMER	Plasma_Membrane	CLJU_c35480()	Plasma_Membrane	r
 CPLX-199	Plasma_Membrane	CLJU_c20530()	Plasma_Membrane	r
 CLJU_RS10075-MONOMER	Plasma_Membrane	CLJU_c20530()	Plasma_Membrane	r
-CLJU_RS19300-MONOMER	Plasma_Membrane	CLJU_c39200()	Plasma_Membrane	t
+CLJU_RS19300-MONOMER	Plasma_Membrane	CLJU_c39200()	Plasma_Membrane	s
 CPLX-438	Plasma_Membrane	CLJU_c04040()	Plasma_Membrane	r
 CLJU_RS01975-MONOMER	Plasma_Membrane	CLJU_c04040()	Plasma_Membrane	r
 CLJU_RS15820-MONOMER	Plasma_Membrane	CLJU_c32100()	Plasma_Membrane	pa

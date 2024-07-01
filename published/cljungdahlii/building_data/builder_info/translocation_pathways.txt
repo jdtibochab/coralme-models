@@ -5,6 +5,6 @@ sec,"{'enzymes': ['SecA_mono', 'Sec_cplx']}"
 secA,{'enzymes': ['SecA_mono']}
 srp,"{'enzymes': ['SRP_cplx', 'FtsY_mono', 'Sec_cplx']}"
 srp_yidC,"{'enzymes': ['SRP_cplx', 'YidC_mono', 'Sec_cplx']}"
-tat,"{'enzymes': ['BSU05980-MONOMER', 'BSU02630-MONOMER', 'BSU17710-MONOMER', 'BSU02640-MONOMER', 'BSU05990-MONOMER']}"
+tat,{'enzymes': ['CPLX_dummy']}
 tat_alt,{'enzymes': ['CPLX_dummy']}
 yidC,"{'enzymes': ['SRP_cplx', 'YidC_mono']}"

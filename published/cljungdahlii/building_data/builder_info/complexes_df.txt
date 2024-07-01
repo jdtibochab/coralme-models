@@ -316,7 +316,7 @@ CPLX-307,ribulose 5-phosphate 3-epimerase,CLJU_c12640(1),iJL965-ME
 CPLX-308,Na+/glutamate symport,CLJU_c20790(1),iJL965-ME
 FadD_mono,Malonyl-CoA-ACP transacylase,CLJU_c42170(),iJL965-ME
 CPLX-310,N-Formyl-L-glutamate amidohydrolase,CLJU_c24450(1),iJL965-ME
-CPLX-311,glycerol-3-phosphate dehydrogenase (NADP),CLJU_c12480(1),iJL965-ME
+CPLX-311,glycerol-3-phosphate dehydrogenase (NADP),CLJU_c12480(2),iJL965-ME
 CPLX-312,sulfate transport in via proton symport,CLJU_c06120(1),iJL965-ME
 CPLX-313,sulfate transport in via proton symport,CLJU_c21180(1),iJL965-ME
 CPLX-314,,CLJU_c03250(4),iJL965-ME
@@ -4445,7 +4445,7 @@ CLJU_RS13060-MONOMER,hypothetical protein,CLJU_c26500(),BioCyc
 CLJU_RS02665-MONOMER,DUF1972 domain-containing protein,CLJU_c05420(),BioCyc
 CLJU_RS04260-MONOMER,5-methyltetrahydrofolate--homocysteine methyltransferase,CLJU_c08650(),BioCyc
 CLJU_RS10530-MONOMER,amino acid permease,CLJU_c21450(),BioCyc
-CLJU_RS06125-MONOMER,NAD(P)H-dependent glycerol-3-phosphate dehydrogenase,CLJU_c12480(),BioCyc
+CLJU_RS06125-MONOMER,NAD(P)H-dependent glycerol-3-phosphate dehydrogenase,CLJU_c12480(2),BioCyc
 CLJU_RS07105-MONOMER,hypothetical protein,CLJU_c14480(),BioCyc
 CLJU_RS11130-MONOMER,class I SAM-dependent methyltransferase,CLJU_c22620(),BioCyc
 CLJU_RS06495-MONOMER,YlmC/YmxH family sporulation protein,CLJU_c13230(),BioCyc

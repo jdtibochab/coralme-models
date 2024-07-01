@@ -2,11 +2,6 @@ pathway	enzyme
 sec	SecA_mono
 sec	Sec_cplx
 secA	SecA_mono
-tat	BSU05980-MONOMER
-tat	BSU02630-MONOMER
-tat	BSU17710-MONOMER
-tat	BSU02640-MONOMER
-tat	BSU05990-MONOMER
 srp	SRP_cplx
 srp	FtsY_mono
 srp	Sec_cplx
@@ -15,6 +10,7 @@ yidC	YidC_mono
 srp_yidC	SRP_cplx
 srp_yidC	YidC_mono
 srp_yidC	Sec_cplx
+tat	CPLX_dummy
 tat_alt	CPLX_dummy
 bam	CPLX_dummy
 lol	CPLX_dummy
