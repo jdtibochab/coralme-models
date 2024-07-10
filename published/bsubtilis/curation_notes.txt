@@ -356,15 +356,6 @@ Check whether the genbank was downloaded or constructed correctly.
 
 
 
-#################### low@org._get_manual_curation ####################
-********** No metabolite_corrections file found
-
-**********Solution:
-Fill in bsubtilis//building_data/metabolite_corrections.txt
-
-
-
-
 #################### high@org.get_rpod ####################
 ********** BSU25200-MONOMER was identified as RpoD. If this is not true, define RpoD!
 
@@ -500,6 +491,8 @@ The following items triggered the warning:
 {"complex": "CPLX8J2-252", "reference_complex": "PABASYN-CPLX"}
 
 {"complex": "BSU13910-MONOMER", "reference_complex": "CPLX-167"}
+
+{"complex": "SufSU", "reference_complex": "IscU"}
 
 **********Solution:
 Curate these manually in protein_corrections.txt

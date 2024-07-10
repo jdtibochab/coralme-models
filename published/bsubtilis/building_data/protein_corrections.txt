@@ -5,14 +5,13 @@ SufBCD,,,4fe4s(1),
 
 # SufSU
 SufSU,,BSU32690(2) AND BSU32680(2),,
-SufSU,,BSU32690(2),,
 SufSU,,,pydx5p(1),
 SufSU,,,pydx5p(1) AND SH(1),
 
 # SufA
-SufSU,,BSU32160(2),,
-SufSU,,,2fe2s(1),
-SufSU,,,4fe4s(1),
+SufA,,BSU32160(2),,
+SufA,,,2fe2s(1),
+SufA,,,4fe4s(1),
 
 # IscS
 IscS,,BSU27510(2),,
