@@ -629,13 +629,6 @@
             "to_do": "Check whether the genbank was downloaded or constructed correctly."
         }
     ],
-    "org._get_manual_curation": [
-        {
-            "msg": "No metabolite_corrections file found",
-            "importance": "low",
-            "to_do": "Fill in tmaritima//building_data/metabolite_corrections.txt"
-        }
-    ],
     "org.get_rpod": [
         {
             "msg": "TM1451-MONOMER was identified as RpoD. If this is not true, define RpoD!",

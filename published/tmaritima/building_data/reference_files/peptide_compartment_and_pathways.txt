@@ -129,4 +129,5 @@ CPLX_GALabc-0	Inner_Membrane	TM1203()	Inner_Membrane	r
 CPLX_GALabc-0	Inner_Membrane	TM1202()	Inner_Membrane	r
 CPLX_FE3abc-1	Inner_Membrane	TM0079()	Inner_Membrane	r
 CPLX_DHORD_NAD-0	Inner_Membrane	TM0333()	Inner_Membrane	s
+TM_RS09715-MONOMER	Membrane	TM_RS09715()	Membrane	s
 CPLX_POR-0	Inner_Membrane	TM0017()	Inner_Membrane	s

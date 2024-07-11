@@ -208,15 +208,6 @@ Check whether the genbank was downloaded or constructed correctly.
 
 
 
-#################### low@org._get_manual_curation ####################
-********** No metabolite_corrections file found
-
-**********Solution:
-Fill in tmaritima//building_data/metabolite_corrections.txt
-
-
-
-
 #################### high@org.get_rpod ####################
 ********** TM1451-MONOMER was identified as RpoD. If this is not true, define RpoD!
 
