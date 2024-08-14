@@ -16,8 +16,8 @@
 	"lipoprotein_precursors" : {},
 	"lipid_modifications" : [],
 
-	"ngam" : 0.003285,
-	"gam" : 25,
+	"ngam" : 9,
+	"gam" : 105.053483,
 	"unmodeled_protein_fraction" : 0.36,
 
 	"flux_of_biomass_constituents" : {
