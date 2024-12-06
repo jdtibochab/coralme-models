@@ -500,7 +500,7 @@ Curate them in ribosomal_proteins.txt
 
 
 #################### high@org.get_trna_synthetase ####################
-********** No tRNA ligases were found for some amino acids. Assigned CPLX_dummy.
+********** No tRNA ligases were found for some amino acids. Will assign CPLX_dummy.
 The following items triggered the warning:
 gln__L_c
 
@@ -511,16 +511,16 @@ Check whether your organism should have a ligase for these amino acids, or if yo
 
 
 #################### high@prepare_model ####################
-********** GAM could not be identified from biomass reaction, setting a standard value of 45. adp_c is not present as a product.
+********** GAM could not be identified from biomass reaction, setting a standard value of 34.98. adp_c is not present as a product.
 
 **********Solution:
-Check whether the biomass reaction was read or defined correctly. You can define GAM with me_builder.org.GAM = GAM_value
+Check whether the biomass reaction was read or defined correctly. You can define GAM with builder.configuration['gam'] = GAM_value
 
 #################### high@prepare_model ####################
 ********** NGAM could not be identified in M-model, setting a standard value of 1.
 
 **********Solution:
-Manually define NGAM with me_builder.org.NGAM = NGAM_value. Check if a reaction with identifier NGAM or ATPM has a zero or negative lower bound.
+Manually define NGAM with builder.configuration['ngam'] = NGAM_value. Check if a reaction with identifier NGAM or ATPM has a zero or negative lower bound.
 
 
 
@@ -579,6 +579,18 @@ The following items triggered the warning:
 
 **********Solution:
 Confirm whether the definitions or homology calls are correct in me_builder.org.ribosome_subreactions. Curate the inputs in ribosome_subreactions.txt accordingly.
+
+
+
+
+#################### medium@update_amino_acid_trna_synthetases_from_homology ####################
+********** Some enzymes identified in me_builder.org.amino_acid_trna_synthetase are different from the ones inferred from homology
+The following items triggered the warning:
+
+{"amino_acid": "lys__L_c", "inferred_ligase": "JCVISYN3A_0064-MONOMER", "homology_ligase": "generic_LYSINEaaRS"}
+
+**********Solution:
+Confirm whether the definitions or homology calls are correct in me_builder.org.amino_acid_trna_synthetase. Curate the inputs in amino_acid_trna_synthetase.txt accordingly.
 
 
 

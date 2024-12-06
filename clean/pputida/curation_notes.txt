@@ -217,132 +217,6 @@ Fill genes in proteins.txt
 
 
 
-#################### medium@org.sync_files ####################
-********** The types of some genes (e.g. CDS, RNA...) could not be identified. Is Product or Gene Name missing?
-The following items triggered the warning:
-PP_5736
-PP_5736
-PP_4093
-PP_4093
-PP_5746
-PP_5746
-PP_2391
-PP_2391
-PP_0499
-PP_0499
-PP_5653
-PP_5653
-PP_3215
-PP_3215
-PP_1919
-PP_1919
-PP_4878
-PP_4878
-PP_4023
-PP_4023
-PP_3101
-PP_3101
-PP_1158
-PP_1158
-PP_5697
-PP_5697
-PP_3793
-PP_3793
-PP_2966
-PP_2966
-PP_4351
-PP_4351
-PP_3687
-PP_3687
-PP_2576
-PP_2576
-PP_0644
-PP_0644
-PP_5656
-PP_5656
-PP_3470
-PP_3470
-PP_2519
-PP_2519
-PP_5369
-PP_5369
-PP_4089
-PP_4089
-PP_3327
-PP_3327
-PP_5434
-PP_5434
-PP_4884
-PP_4884
-PP_4075
-PP_4075
-PP_5577
-PP_5577
-PP_1175
-PP_1175
-PP_4536
-PP_4536
-PP_3973
-PP_3973
-PP_3023
-PP_3023
-PP_4408
-PP_4408
-PP_3752
-PP_3752
-PP_2629
-PP_2629
-PP_5662
-PP_5662
-PP_3673
-PP_3673
-PP_2521
-PP_2521
-PP_5394
-PP_5394
-PP_4090
-PP_4090
-PP_3334
-PP_3334
-PP_0212
-PP_0212
-PP_5720
-PP_5720
-PP_4083
-PP_4083
-PP_3112
-PP_3112
-PP_1796
-PP_1796
-PP_4744
-PP_4744
-PP_5650
-PP_5650
-PP_3068
-PP_3068
-PP_0985
-PP_0985
-PP_4436
-PP_4436
-PP_5630
-PP_5630
-PP_5436
-PP_5436
-PP_4347
-PP_4347
-PP_3674
-PP_3674
-PP_0253
-PP_0253
-PP_tm01
-PP_tm01
-
-**********Solution:
-Manually fill the products (with types) of these genes in genes.txt
-
-
-
-
 #################### high@org.get_rpod ####################
 ********** G1G01-424-MONOMER was identified as RpoD. If this is not true, define RpoD!
 
@@ -410,6 +284,7 @@ G1G01-3319
 G1G01-3911
 G1G01-275
 G1G01-713
+G1G01-5067
 G1G01-3557
 G1G01-3437
 G1G01-4050
@@ -460,6 +335,7 @@ TU1G01-3798
 TU1G01-3530
 TU1G01-4194
 TU1G01-312
+TU1G01-5360
 TU1G01-3786
 TU1G01-3670
 TU1G01-4326
@@ -491,7 +367,7 @@ Curate them in ribosomal_proteins.txt
 
 
 #################### high@org.get_trna_synthetase ####################
-********** No tRNA ligases were found for some amino acids. Assigned CPLX_dummy.
+********** No tRNA ligases were found for some amino acids. Will assign CPLX_dummy.
 The following items triggered the warning:
 asn__L_c
 
@@ -778,6 +654,18 @@ Confirm whether the definitions or homology calls are correct in me_builder.org.
 
 
 
+#################### medium@update_amino_acid_trna_synthetases_from_homology ####################
+********** Some enzymes identified in me_builder.org.amino_acid_trna_synthetase are different from the ones inferred from homology
+The following items triggered the warning:
+
+{"amino_acid": "lys__L_c", "inferred_ligase": "G1G01-1587-MONOMER", "homology_ligase": "generic_LYSINEaaRS"}
+
+**********Solution:
+Confirm whether the definitions or homology calls are correct in me_builder.org.amino_acid_trna_synthetase. Curate the inputs in amino_acid_trna_synthetase.txt accordingly.
+
+
+
+
 #################### medium@check ####################
 ********** Some metabolites in me_metabolites.txt need curation
 The following items triggered the warning:
@@ -814,18 +702,6 @@ iscu_4fe4s_c
 
 **********Solution:
 Map or remove these metabolites in me_metabolites.txt
-
-
-
-
-#################### critical@troubleshoot ####################
-********** Some metabolites are necessary for growth
-The following items triggered the warning:
-TS_pg161_p
-TS_4fe4s_c
-
-**********Solution:
-Fix the gaps by adding reactions or solving other warnings. If some items are from the E-matrix, fix these first!
 
 
 

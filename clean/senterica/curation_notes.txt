@@ -110,112 +110,6 @@ Fill genes in proteins.txt
 
 
 
-#################### medium@org.sync_files ####################
-********** The types of some genes (e.g. CDS, RNA...) could not be identified. Is Product or Gene Name missing?
-The following items triggered the warning:
-PSLT021
-PSLT021
-STM3844
-STM3844
-STM1866
-STM1866
-STM0326
-STM0326
-STM3530
-STM3530
-STM1474
-STM1474
-STM0241
-STM0241
-STM3302
-STM3302
-STM1248
-STM1248
-STM2725
-STM2725
-STM1120
-STM1120
-STM4140
-STM4140
-STM2210
-STM2210
-STM0790
-STM0790
-STM3916
-STM3916
-STM1930
-STM1930
-STM0555
-STM0555
-STM3654
-STM3654
-STM1553
-STM1553
-STM0297
-STM0297
-STM3460
-STM3460
-STM1464
-STM1464
-STM2778
-STM2778
-STM1186
-STM1186
-STM4454
-STM4454
-STM2664
-STM2664
-STM0947
-STM0947
-STM3945
-STM3945
-STM2003
-STM2003
-STM0560
-STM0560
-STM3806
-STM3806
-STM1666
-STM1666
-STM0314
-STM0314
-STM3520
-STM3520
-STM1465
-STM1465
-STM2975
-STM2975
-STM1245
-STM1245
-STM2689
-STM2689
-STM1052
-STM1052
-STM4111
-STM4111
-STM2132
-STM2132
-STM0767
-STM0767
-PSLT058
-PSLT058
-PSLT065
-PSLT065
-STM2768
-STM2768
-PSLT071
-PSLT071
-PSLT022
-PSLT022
-PSLT109
-PSLT109
-
-**********Solution:
-Manually fill the products (with types) of these genes in genes.txt
-
-
-
-
 #################### high@org.update_genbank_from_files ####################
 ********** Some feature in genbank are CDS but have no translation qualifier. Translated sequences from Biopython were filled in instead
 The following items triggered the warning:
@@ -342,7 +236,7 @@ Check whether you need to correct RpoD by running me_builder.org.rpod = correct_
 ********** CPLX1R65-35 was identified as RNA polymerase
 
 **********Solution:
-Check whether you need to correct RNAP by running me_builder.org.get_rna_polymerase(force_RNAP_as=correct_RNAP)
+Find correct RNAP complex and add force_RNAP_as:"RNAP_COMPLEX_ID" to the configuration (by default, organism.json)
 
 
 
@@ -897,6 +791,20 @@ Confirm whether the definitions or homology calls are correct in me_builder.org.
 
 
 
+#################### medium@update_amino_acid_trna_synthetases_from_homology ####################
+********** Some enzymes identified in me_builder.org.amino_acid_trna_synthetase are different from the ones inferred from homology
+The following items triggered the warning:
+
+{"amino_acid": "lys__L_c", "inferred_ligase": "STM3040-MONOMER", "homology_ligase": "generic_LYSINEaaRS"}
+
+{"amino_acid": "trp__L_c", "inferred_ligase": "generic_trp_ligase", "homology_ligase": "STM3481-MONOMER_mod_mg2(1)"}
+
+**********Solution:
+Confirm whether the definitions or homology calls are correct in me_builder.org.amino_acid_trna_synthetase. Curate the inputs in amino_acid_trna_synthetase.txt accordingly.
+
+
+
+
 #################### critical@get_trna_to_codon ####################
 ********** Some tRNAs could be missing in the files.
 The following items triggered the warning:
@@ -924,22 +832,6 @@ iscssh_c
 
 **********Solution:
 Map or remove these metabolites in me_metabolites.txt
-
-
-
-
-#################### critical@troubleshoot ####################
-********** Some metabolites are necessary for growth
-The following items triggered the warning:
-TS_generic_tRNA_GAC_asp__L_c
-TS_generic_tRNA_GAG_glu__L_c
-TS_generic_tRNA_GAA_glu__L_c
-TS_generic_tRNA_GAU_asp__L_c
-TS_4fe4s_c
-TS_dpm_c
-
-**********Solution:
-Fix the gaps by adding reactions or solving other warnings. If some items are from the E-matrix, fix these first!
 
 
 

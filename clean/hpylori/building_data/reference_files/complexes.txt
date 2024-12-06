@@ -1,0 +1,1740 @@
+,name,genes,source
+HP_RS07395-MONOMER,TPR_REGION domain-containing protein,HP1493(),BioCyc
+HP_RS01295-MONOMER,inactive Type IIP restriction-modification system M protein,HP0263(),BioCyc
+HP_RS03285-MONOMER,anaerobic glycerol-3-phosphate dehydrogenase,HP0666(),BioCyc
+HP_RS05335-MONOMER,Hypothetical protein HP1085,HP1085(),BioCyc
+HP_RS07315-MONOMER,Flagellar basal body P-ring biosynthesis protein FlgA,HP1477(),BioCyc
+HP_RS01200-MONOMER,FlgR histidine kinase FlgS,HP0244(),BioCyc
+HP_RS03205-MONOMER,Family 4 uracil-DNA glycosylase,HP0650(),BioCyc
+HP_RS05255-MONOMER,Ribosomal protein L11 methyltransferase,HP1068(),BioCyc
+HP_RS07235-MONOMER,cytochrome <i>c</i><sub>553</sub> peroxidase,HP1461(),BioCyc
+HP_RS01110-MONOMER,outer membrane protein HopM,HP0227(),BioCyc
+HP_RS03120-MONOMER,Quinone-reactive Ni/Fe hydrogenase HydC,HP0633(),BioCyc
+HP_RS05170-MONOMER,UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase,HP1052(1),BioCyc
+HP_RS07155-MONOMER,MotA/TolQ/ExbB family protein,HP1445(),BioCyc
+HP_RS01030-MONOMER,Chaperone protein HtpG,HP0210(),BioCyc
+HP_RS03040-MONOMER,Adenylate kinase,HP0618(1),BioCyc
+HP_RS05090-MONOMER,2-amino-4-hydroxy-6- hydroxymethyldihydropteridine pyrophosphokinase,HP1036(1),BioCyc
+HP_RS07065-MONOMER,Ribosomal RNA large subunit methyltransferase N,HP1428(),BioCyc
+HP_RS00935-MONOMER,fumarate reductase flavoprotein subunit FrdA,HP0192(),BioCyc
+HP_RS02955-MONOMER,methyl-accepting chemotaxis protein TlpD,HP0599(),BioCyc
+HP_RS05010-MONOMER,"Bifunctional 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase/2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",HP1020(3),BioCyc
+HP_RS06980-MONOMER,Hypothetical protein HP1411,HP1411(),BioCyc
+HP_RS00850-MONOMER,uncharacterized protein,HP0174(),BioCyc
+HP_RS02870-MONOMER,flagellar biosynthesis protein FliO,HP0583(),BioCyc
+HP_RS04895-MONOMER,Putative transposase TnpB,HP0997(),BioCyc
+HP_RS06880-MONOMER,Fibronectin/fibrinogen-binding protein,HP1392(),BioCyc
+HP_RS00770-MONOMER,AMIN domain-containing protein,HP0156(),BioCyc
+HP_RS02790-MONOMER,autoinducer-2 exporter,HP0567(),BioCyc
+HP_RS04800-MONOMER,Exodeoxyribonuclease VII large subunit,HP0981(),BioCyc
+HP_RS06800-MONOMER,flagellar assembly protein FliW,HP1377(),BioCyc
+HP_RS00685-MONOMER,putative NAD-dependent lactate dehydrogenase subunit HP0139,HP0139(),BioCyc
+HP_RS02710-MONOMER,Transcription termination factor Rho,HP0550(6),BioCyc
+HP_RS00280-MONOMER,proline:Na<sup>+</sup> symporter,HP0055(1),BioCyc
+HP_RS04710-MONOMER,acyl carrier protein,HP_RS04710(),BioCyc
+HP_RS06715-MONOMER,Predicted coding region HP1359,HP1359(),BioCyc
+HP_RS00605-MONOMER,Histone-like DUF874 family protein HP0119,HP0119(),BioCyc
+HP_RS02620-MONOMER,Cag T4SS protein CagT,HP0532(),BioCyc
+HP_RS00195-MONOMER,PDZ domain-containing protein,HP0036(),BioCyc
+HP_RS04630-MONOMER,"putative transporter, Na<sup>+</sup>:H<sup>+</sup> antiporter (NhaC) family",HP0946(),BioCyc
+HP_RS06620-MONOMER,energy-transducing Ton complex subunit TonB,HP1341(),BioCyc
+HP_RS00520-MONOMER,"<i>H. pylroi</i> LPS trisaccharide &beta;-(1,3)-fucosyltransferase",HP0102(),BioCyc
+HP_RS02540-MONOMER,ATP-dependent protease subunit HslV,HP0515(),BioCyc
+HP_RS00115-MONOMER,chemotaxis protein CheV1,HP0019(),BioCyc
+HP_RS04515-MONOMER,tRNA pseudouridine synthase D,HP0926(1),BioCyc
+HP_RS06540-MONOMER,Fumarate hydratase FumC,HP1325(4),BioCyc
+HP_RS00430-MONOMER,Hypothetical protein HP0085,HP0085(),BioCyc
+HP_RS02450-MONOMER,Hypothetical protein HP0495,HP0495(),BioCyc
+HP_RS00005-MONOMER,Transcription antitermination protein NusB,HP0001(1),BioCyc
+HP_RS04430-MONOMER,hook-cap foldase FlgD,HP0907(),BioCyc
+HP_RS06460-MONOMER,50S ribosomal protein L14,HP1309(1),BioCyc
+HP_RS00345-MONOMER,urease accessory protein GTPase UreG,HP0068(),BioCyc
+HP_RS02360-MONOMER,outer membrane protein HopJ,HP0477(),BioCyc
+HP_RS02345-MONOMER,"molybdate ABC transporter, membrane subunit",HP0474(),BioCyc
+HP_RS04310-MONOMER,Hypothetical protein HP0884,HP0884(),BioCyc
+HP_RS06365-MONOMER,"putative transporter, nicotinamide ribonucleoside uptake permease (PnuC) family",HP1290(),BioCyc
+HP_RS02265-MONOMER,ICEHptfs3 protein C18,HP0457(),BioCyc
+HP_RS06285-MONOMER,Paralysed flagella protein PlfA,HP1274(),BioCyc
+HP_RS02165-MONOMER,IS605 transposase TnpB,HP0438(),BioCyc
+HP_RS04140-MONOMER,Type I restriction-modification system M protein M.HpyAXIII,HP0850(),BioCyc
+HP_RS06200-MONOMER,Orotate phosphoribosyltransferase PyrE,HP1257(),BioCyc
+HP_RS02060-MONOMER,cyclopropane fatty acid synthase,HP0416(2),BioCyc
+HP_RS04050-MONOMER,Aspartyl/glutamyl-tRNA amidotransferase subunit A GatA,HP0830(),BioCyc
+HP_RS06120-MONOMER,Alanyl-tRNA synthetase,HP1241(4),BioCyc
+HP_RS01955-MONOMER,Phosphoglycerate dehydrogenase SerA,HP0397(4),BioCyc
+HP_RS03970-MONOMER,flagellar motor protein MotA,HP0815(),BioCyc
+HP_RS06035-MONOMER,Rhodanese domain-containing protein,HP1223(),BioCyc
+HP_RS01875-MONOMER,Protoporphyrinogen oxidase,HP0381(),BioCyc
+HP_RS03885-MONOMER,Molybdenum cofactor biosynthesis protein MoaC,HP0798(),BioCyc
+HP_RS05910-MONOMER,Transcription antitermination protein NusG,HP1203(1),BioCyc
+HP_RS07900-MONOMER,inactive Type III restriction-modification system M protein M.HpyAXVII C-terminal domain,HP1370(),BioCyc
+HP_RS01785-MONOMER,Protein-L-isoaspartate O-methyltransferase,HP0363(),BioCyc
+HP_RS03795-MONOMER,Bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase  AcnB,HP0779(2),BioCyc
+HP_RS05825-MONOMER,"putative efflux transporter, major facilitator superfamily",HP1185(1),BioCyc
+HP_RS07795-MONOMER,FlhB-related flagellar biosynthesis protein FlhX,HP1575(),BioCyc
+HP_RS01695-MONOMER,hypothetical protein,HP0346(),BioCyc
+HP_RS03715-MONOMER,Hypothetical protein HP0762,HP0762(),BioCyc
+HP_RS05740-MONOMER,Carbon starvation protein A CstA,HP1168(),BioCyc
+HP_RS01600-MONOMER,flagellar basal-body L-ring protein FlgH,HP0325(),BioCyc
+HP_RS03630-MONOMER,50S ribosome-binding GTPase,HP_RS03630(),BioCyc
+HP_RS05660-MONOMER,signal recognition particle protein component,HP1152(),BioCyc
+HP_RS07635-MONOMER,ToxR-activated protein TagE2,HP1544(),BioCyc
+HP_RS01520-MONOMER,Hypothetical protein HP0308,HP0308(),BioCyc
+HP_RS03540-MONOMER,tRNA-dihydrouridine synthase B,HP0727(1),BioCyc
+HP_RS05565-MONOMER,"F0F1 ATP synthase subunit gamma, AtpG",HP1133(),BioCyc
+HP_RS07555-MONOMER,periplasmic competence protein ComH,HP1527(),BioCyc
+HP_RS01440-MONOMER,DUF2156 domain-containing protein,HP0292(),BioCyc
+HP_RS03450-MONOMER,Ribosomal RNA small subunit methyltransferase H,HP0707(),BioCyc
+HP_RS05480-MONOMER,Hypothetical protein HP1116,HP1116(),BioCyc
+HP_RS07465-MONOMER,Ferrodoxin-like protein,HP1508(),BioCyc
+HP_RS01360-MONOMER,Indole-3-glycerol phosphate synthase,HP0276(),BioCyc
+HP_RS03365-MONOMER,ferrous iron transport protein B,HP0687(1),BioCyc
+HP_RS05400-MONOMER,6-phosphogluconate dehydratase,HP1100(1),BioCyc
+HP_RS07380-MONOMER,Co2 resistance protein CorC,HP1490(),BioCyc
+HP_RS01275-MONOMER,Exodeoxyribonuclease VII large subunit,HP0259(),BioCyc
+HP_RS03270-MONOMER,Chorismate synthase AroC,HP0663(4),BioCyc
+HP_RS05320-MONOMER,putative ATP-dependent Lipid A-core flippase,HP1082(2),BioCyc
+HP_RS07300-MONOMER,Thymidylate kinase,HP1474(1),BioCyc
+HP_RS01185-MONOMER,Hypothetical protein HP0241,HP0241(),BioCyc
+HP_RS03190-MONOMER,Hypothetical protein HP0647,HP0647(),BioCyc
+HP_RS05235-MONOMER,Hypothetical protein HP1065,HP1065(),BioCyc
+HP_RS07220-MONOMER,thioredoxin Trx2,HP1458(),BioCyc
+HP_RS01095-MONOMER,DNA repair protein RadA,HP0223(),BioCyc
+HP_RS03105-MONOMER,NADPH dehydrogenase (quinone),HP0630(2),BioCyc
+HP_RS05155-MONOMER,DUF448 domain-containing protein,HP1049(),BioCyc
+HP_RS07140-MONOMER,Carbon storage regulator CsrA,HP1442(),BioCyc
+HP_RS01010-MONOMER,AAA family ATPase,HP0206(),BioCyc
+HP_RS03025-MONOMER,NAD-dependent DNA ligase LigA,HP0615(1),BioCyc
+HP_RS05075-MONOMER,hypothetical protein,HP_RS05075(),BioCyc
+HP_RS07045-MONOMER,Putative RNA binding protein,HP1423(),BioCyc
+HP_RS00920-MONOMER,UPF0114 protein HP0189,HP0189(),BioCyc
+HP_RS02940-MONOMER,tumor necrosis factor alpha-inducing protein monomer,HP0596(),BioCyc
+HP_RS04990-MONOMER,Hypothetical protein HP1015,HP1015(),BioCyc
+HP_RS06965-MONOMER,hypothetical protein,HP1408(),BioCyc
+HP_RS00835-MONOMER,Peptide chain release factor 2 PrfB,HP0171(1),BioCyc
+HP_RS02855-MONOMER,Kdo hydrolase subunit 2,HP0580(),BioCyc
+HP_RS04880-MONOMER,Hypothetical protein HP0994,HP0994(),BioCyc
+HP_RS06865-MONOMER,Hypothetical protein HP1387a,HP1387a(),BioCyc
+HP_RS00755-MONOMER,RecA recombinase,HP0153(),BioCyc
+HP_RS02775-MONOMER,Predicted coding region HP0564,HP0564(),BioCyc
+HP_RS04785-MONOMER,Cell division protein FtsA,HP0978(),BioCyc
+HP_RS06785-MONOMER,ATP-dependent protease ATP-binding subunit ClpX,HP1374(),BioCyc
+HP_RS00670-MONOMER,bacterioferritin comigratory protein,HP0136(1),BioCyc
+HP_RS02685-MONOMER,Cag T4SS protein CagC,HP0546(),BioCyc
+HP_RS04695-MONOMER,GTP cyclohydrolase I,HP0959(),BioCyc
+HP_RS06700-MONOMER,Quinolinate synthetase NadA,HP1356(2),BioCyc
+HP_RS00590-MONOMER,DNA topoisomerase I TopA,HP0116(),BioCyc
+HP_RS02605-MONOMER,Cag T4SS protein CagW,HP0529(),BioCyc
+HP_RS00180-MONOMER,ATP-dependent Clp protease ClpA,HP0033(),BioCyc
+HP_RS04595-MONOMER,D-amino acid dehydrogenase DadA,HP0943(1),BioCyc
+HP_RS06605-MONOMER,<i>apo</i>-nickel response regulator NikR,HP1338(),BioCyc
+HP_RS00505-MONOMER,methyl-accepting chemotaxis protein TlpA,HP0099(),BioCyc
+HP_RS02520-MONOMER,Hypothetical protein HP0511,HP0511(),BioCyc
+HP_RS00095-MONOMER,ComB3 competence protein,HP0016(),BioCyc
+HP_RS04500-MONOMER,outer membrane protein HopK,HP0923(),BioCyc
+HP_RS06525-MONOMER,Hypothetical protein HP1322,HP1322(),BioCyc
+HP_RS00415-MONOMER,methyl-accepting chemotaxis protein TlpC,HP0082(),BioCyc
+HP_RS02435-MONOMER,Neuraminyllactose-binding hemagglutinin,HP0492(),BioCyc
+HP_RS04400-MONOMER,hydrogenase/urease maturation factor HypB,HP0900(),BioCyc
+HP_RS06445-MONOMER,30S ribosomal protein S14,HP1306(1),BioCyc
+HP_RS00330-MONOMER,Hypothetical protein HP0065,HP0065(),BioCyc
+HP_RS06430-MONOMER,50S ribosomal protein L18,HP1303(),BioCyc
+HP_RS02330-MONOMER,putative glutathione-regulated potassium efflux transporter,HP0471(2),BioCyc
+HP_RS04280-MONOMER,Holliday junction resolvase,HP0877(),BioCyc
+HP_RS06350-MONOMER,Transcriptional regulator TenA,HP1287(),BioCyc
+HP_RS04210-MONOMER,plasminogen-binding protein PgbB,HP0863(),BioCyc
+HP_RS06270-MONOMER,ferredoxin-menaquinone dehydrogenase subunit L,HP1271(),BioCyc
+HP_RS02145-MONOMER,protein kinase,HP0432(),BioCyc
+HP_RS04125-MONOMER,Hydroxyethylthiazole kinase ThiM,HP0845(1),BioCyc
+HP_RS06185-MONOMER,malonyl-[acyl-carrier protein] <em>O</em>-methyltransferase,HP1254(),BioCyc
+HP_RS02020-MONOMER,Putative neuraminyllactose-binding hemagglutinin-like protein,HP0410(),BioCyc
+HP_RS04035-MONOMER,RNA binding protein,HP0827(),BioCyc
+HP_RS06105-MONOMER,Carbamoyl phosphate synthase small subunit,HP1237(),BioCyc
+HP_RS01940-MONOMER,"UDP-2,3-diacylglucosamine hydrolase",HP0394(),BioCyc
+HP_RS03955-MONOMER,Hypothetical protein HP0812,HP0812(),BioCyc
+HP_RS06020-MONOMER,ABC transporter ATP-binding protein,HP1220(),BioCyc
+HP_RS01860-MONOMER,bifunctional cytochrome <i>c</i> biogenesis protein CcsBA,HP0378(),BioCyc
+HP_RS03870-MONOMER,trigger factor monomer,HP0795(1),BioCyc
+HP_RS05895-MONOMER,50S ribosomal protein L10,HP1200(),BioCyc
+HP_RS07880-MONOMER,Hypothetical protein HP0756,HP0756(),BioCyc
+HP_RS01770-MONOMER,UDP-glucose 4-epimerase,HP0360(2),BioCyc
+HP_RS03780-MONOMER,DNA-directed RNA polymerase subunit omega,HP0776(),BioCyc
+HP_RS05810-MONOMER,tRNA(Cytosine32)-2-thiocytidine synthetase,HP1182(2),BioCyc
+HP_RS07780-MONOMER,peptidoglycan lytic endotransglycosylase,HP1572(),BioCyc
+HP_RS01675-MONOMER,Hypothetical protein HP0340,HP0340(),BioCyc
+HP_RS03695-MONOMER,"putative transporter, Na<sup>+</sup>:H<sup>+</sup> antiporter (NhaC) family",HP0758(),BioCyc
+HP_RS05725-MONOMER,"putative efflux transporter, major facilitator superfamily",HP1165(),BioCyc
+HP_RS07700-MONOMER,transcriptional regulator,HP_RS07700(),BioCyc
+HP_RS01585-MONOMER,Poly E-rich protein ChePep,HP0322(),BioCyc
+HP_RS03610-MONOMER,Ribose-phosphate pyrophosphokinase PrsA,HP0742(1),BioCyc
+HP_RS05645-MONOMER,16S rRNA processing protein RimM,HP1149(),BioCyc
+HP_RS07620-MONOMER,Transcription-repair coupling factor TrcF,HP1541(1),BioCyc
+HP_RS01505-MONOMER,Base-induced polyisoprenoid-binding periplasmic protein,HP0305(),BioCyc
+HP_RS03525-MONOMER,anaerobic C4-dicarboxylate transporter DcuA,HP0724(1),BioCyc
+HP_RS05550-MONOMER,MotA/TolQ/ExbB family protein,HP1130(),BioCyc
+HP_RS07535-MONOMER,Hypothetical lipoprotein HP1526,HP1524(),BioCyc
+HP_RS01425-MONOMER,Putative vacuolating cytotoxin (VacA)-like protein ImaA,HP0289(),BioCyc
+HP_RS03435-MONOMER,transcriptional activator of flagella proteins FlgR,HP0703(),BioCyc
+HP_RS05465-MONOMER,Outer membrane protein HorI,HP1113(),BioCyc
+HP_RS07450-MONOMER,Diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase,HP1505(2),BioCyc
+HP_RS01345-MONOMER,Hypothetical protein HP0273,HP0273(),BioCyc
+HP_RS03350-MONOMER,bifunctional N-acetylglucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate acetyltransferase,HP0683(3),BioCyc
+HP_RS05385-MONOMER,IS605 transposase TnpA,HP1096(),BioCyc
+HP_RS07365-MONOMER,"ABC-type tripartite efflux pump, membrane protein",HP1487(),BioCyc
+HP_RS01260-MONOMER,flagellar FliJ protein,HP0256(),BioCyc
+HP_RS03255-MONOMER,TPR_REGION domain-containing protein,HP0660(),BioCyc
+HP_RS05305-MONOMER,uncharacterized ATPase/GTPase,HP1079(),BioCyc
+HP_RS07285-MONOMER,inactive Type IIB restriction-modification system M/R protein,HP1471(),BioCyc
+HP_RS01170-MONOMER,Prolyl-tRNA synthetase,HP0238(2),BioCyc
+HP_RS03175-MONOMER,conserved hypothetical integral membrane protein,HP0644(),BioCyc
+HP_RS05220-MONOMER,S-adenosylmethionine:tRNA ribosyltransferase-isomerase,HP1062(1),BioCyc
+HP_RS07205-MONOMER,Hypothetical protein HP1455,HP1455(),BioCyc
+HP_RS01080-MONOMER,cysteine desulfurase NifS,HP0220(2),BioCyc
+HP_RS03090-MONOMER,hypothetical protein,HP0627(),BioCyc
+HP_RS05140-MONOMER,Ribosome maturation factor RimP,HP1046(),BioCyc
+HP_RS07115-MONOMER,Putative lipoprotein HP1438,HP1438(),BioCyc
+HP_RS00985-MONOMER,3-oxoacyl-[acyl-carrier-protein] synthase 3 FabH,HP0202(2),BioCyc
+HP_RS03010-MONOMER,hypothetical protein,HP0611(),BioCyc
+HP_RS05060-MONOMER,flagellar motor switch protein FliY,HP1030(),BioCyc
+HP_RS07030-MONOMER,flagellar export ATPase FliI,HP1420(),BioCyc
+HP_RS00900-MONOMER,DUF1882 domain-containing protein,HP0184(),BioCyc
+HP_RS02920-MONOMER,Type III restriction-modification system R protein R.HpyAXI,HP0592(),BioCyc
+HP_RS04975-MONOMER,Putative zinc protease PqqE,HP1012(),BioCyc
+HP_RS00820-MONOMER,TPR_REGION domain-containing protein,HP0168(),BioCyc
+HP_RS02840-MONOMER,"Bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase/5,10-methylene-tetrahydrofolate cyclohydrolase",HP0577(2),BioCyc
+HP_RS04860-MONOMER,Hypothetical protein HP0990,HP0990(),BioCyc
+HP_RS06850-MONOMER,DNA polymerase III subunit epsilon DnaQ,HP1387(),BioCyc
+HP_RS00740-MONOMER,Hypothetical protein HP0150,HP0150(),BioCyc
+HP_RS02760-MONOMER,3-ketoacyl-ACP reductase,HP0561(1),BioCyc
+HP_RS04770-MONOMER,Glutamyl-tRNA(Gln) amidotransferase subunit C,HP0975(),BioCyc
+HP_RS06770-MONOMER,inactive Type III restriction-modification system R protein R.HpyAXVII,HP1371(),BioCyc
+HP_RS00655-MONOMER,L-serine ammonia-lyase,HP0132(1),BioCyc
+HP_RS02670-MONOMER,CagF protein,HP0543(),BioCyc
+HP_RS00250-MONOMER,agmatine deiminase,HP0049(),BioCyc
+HP_RS04680-MONOMER,Pseudouridine synthase RluC,HP0956(),BioCyc
+HP_RS06670-MONOMER,Type IIP restriction-modification system R protein R.HpyAIV,HP1351(),BioCyc
+HP_RS00575-MONOMER,Hypothetical protein HP0113,HP0113(),BioCyc
+HP_RS02590-MONOMER,CagZ protein,HP0526(),BioCyc
+HP_RS00165-MONOMER,Hypothetical protein HP0030,HP0030(),BioCyc
+HP_RS04580-MONOMER,"amino acid family ABC transporter, substrate-binding protein",HP0940(),BioCyc
+HP_RS06590-MONOMER,tRNA-specific 2-thiouridylase MnmA,HP1335(1),BioCyc
+HP_RS00490-MONOMER,2-hydroxyacid dehydrogenase,HP0096(),BioCyc
+HP_RS02505-MONOMER,plasminogen-binding protein PgbA,HP0508(),BioCyc
+HP_RS00080-MONOMER,tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase,HP0013(),BioCyc
+HP_RS04485-MONOMER,Ribonuclease 3,HP0920(),BioCyc
+HP_RS06510-MONOMER,50S ribosomal protein L3,HP1319(1),BioCyc
+HP_RS00400-MONOMER,first part of outer membrane protein HorA,HP0078(),BioCyc
+HP_RS02420-MONOMER,Hypothetical protein HP0489,HP0489(),BioCyc
+HP_RS04385-MONOMER,hypothetical protein,HP_RS04385(),BioCyc
+HP_RS06415-MONOMER,Sec translocon subunit SecY,HP1300(),BioCyc
+HP_RS02315-MONOMER,DUF5644 domain-containing protein,HP0468(),BioCyc
+HP_RS04265-MONOMER,Hypothetical protein HP0874,HP0874(),BioCyc
+HP_RS06335-MONOMER,heptosyltransferase III,HP1284(),BioCyc
+HP_RS02230-MONOMER,Hypothetical protein HP0452,HP0452(),BioCyc
+HP_RS04195-MONOMER,"D,D-heptose 1,7-bisphosphate phosphatase",HP0860(1),BioCyc
+HP_RS06255-MONOMER,ferredoxin-menaquinone dehydrogenase subunit I,HP1268(),BioCyc
+HP_RS02110-MONOMER,Hypothetical protein HP0426,HP0426(),BioCyc
+HP_RS04110-MONOMER,Hypothetical protein HP0842,HP0842(),BioCyc
+HP_RS06170-MONOMER,"peptide ABC transporter, membrane protein",HP1251(),BioCyc
+HP_RS02005-MONOMER,Biotin sulfoxide reductase BisC,HP0407(),BioCyc
+HP_RS04020-MONOMER,thioredoxin Trx1,HP0824(1),BioCyc
+HP_RS06090-MONOMER,putative transporter,HP1234(),BioCyc
+HP_RS01925-MONOMER,chemotaxis protein CheW,HP0391(),BioCyc
+HP_RS03940-MONOMER,Flagellar basal body-associated protein FliL,HP0809(),BioCyc
+HP_RS06000-MONOMER,Hypothetical protein HP1214,HP1214(),BioCyc
+MONOMER2DNV-5,"UDP-2,4-diacetamido-2,4,6-trideoxy-&beta;-<small>L</small>-altropyranose hydrolase",HP0326B(),BioCyc
+HP_RS01845-MONOMER,Hypothetical protein HP0375,HP0375(),BioCyc
+HP_RS03855-MONOMER,Sigma-54 interacting protein,HP0792(),BioCyc
+HP_RS05880-MONOMER,30S ribosomal protein S12,HP1197(1),BioCyc
+HP_RS07845-MONOMER,flagellar basal-body rod protein FlgG,HP1585(),BioCyc
+HP_RS01745-MONOMER,DUF3883 domain-containing protein,HP0356(),BioCyc
+HP_RS03765-MONOMER,decanoyl-[acp]-oxidase/<em>trans</em>-2-decenoyl-[acp] isomerase,HP0773(),BioCyc
+HP_RS05790-MONOMER,Phosphopentomutase DeoB,HP1179(1),BioCyc
+HP_RS07765-MONOMER,putative lipopolysaccharide transport system protein LptC,HP1569(),BioCyc
+HP_RS01660-MONOMER,Hypothetical protein HP0337,HP0337(),BioCyc
+HP_RS03680-MONOMER,Hypothetical protein HP0754,HP0754(),BioCyc
+HP_RS05710-MONOMER,DedA family protein,HP1162(),BioCyc
+HP_RS07685-MONOMER,30S ribosomal protein S2,HP1554(1),BioCyc
+HP_RS01570-MONOMER,Arginyl-tRNA synthetase,HP0319(1),BioCyc
+HP_RS03595-MONOMER,carboxylesterase,HP0739(),BioCyc
+HP_RS05615-MONOMER,Hypothetical protein HP1143,HP1143(),BioCyc
+HP_RS07605-MONOMER,"menaiquinol cytochrome c oxidoreductase, cytochrome c1",HP1538(),BioCyc
+HP_RS01490-MONOMER,"peptide ABC transporter, ATP-binding protein DppF",HP0302(),BioCyc
+HP_RS03510-MONOMER,sialic acid binding protein,HP0721(),BioCyc
+HP_RS05530-MONOMER,peptidoglycan-associated lipoprotein PalA,HP1125(),BioCyc
+HP_RS07520-MONOMER,inactive Type III restriction-modification system R protein (Res),HP1521(),BioCyc
+HP_RS01410-MONOMER,Cell division protein FtsH,HP0286(),BioCyc
+HP_RS03420-MONOMER,Diacylglycerol kinase,HP0700(3),BioCyc
+HP_RS05450-MONOMER,Pyruvate flavodoxin oxidoreductase subunit alpha PorA,HP1110(1),BioCyc
+HP_RS07435-MONOMER,"Translocation protein, low temperature",HP1502(),BioCyc
+HP_RS01330-MONOMER,acyl-Kdo<small><sub>2</sub></small>-lipid IV<small><sub>A</sub></small> acyltransferase,HP0270(),BioCyc
+HP_RS03335-MONOMER,Ribonucleotide-diphosphate reductase subunit alpha,HP0680(),BioCyc
+HP_RS05370-MONOMER,flagellar basal-body rod protein FlgF,HP1092(),BioCyc
+HP_RS07350-MONOMER,UPF0093 membrane protein HP1484,HP1484(),BioCyc
+HP_RS01235-MONOMER,"ABC transporter, membrane protein",HP0251(),BioCyc
+HP_RS03240-MONOMER,Processing protease YmxG,HP0657(),BioCyc
+HP_RS05290-MONOMER,flagellar export co-chaperone,HP1076(),BioCyc
+HP_RS07270-MONOMER,Branched-chain amino acid aminotransferase IlvE,HP1468(6),BioCyc
+HP_RS01155-MONOMER,Helicobacter cysteine-rich protein E HcpE,HP0235(),BioCyc
+HP_RS03160-MONOMER,Predicted coding region HP0641,HP0641(),BioCyc
+HP_RS05205-MONOMER,Holliday junction DNA helicase RuvB,HP1059(),BioCyc
+HP_RS07190-MONOMER,tRNA modification GTPase TrmE,HP1452(2),BioCyc
+HP_RS01065-MONOMER,"Beta-1,4-N-acetylgalactosamyltransferase",HP0217(),BioCyc
+HP_RS03075-MONOMER,succinyldiaminopimelate transaminase,HP0624(),BioCyc
+HP_RS05125-MONOMER,homeostatic response regulator HsrA,HP1043(),BioCyc
+HP_RS07100-MONOMER,Signal peptide protease IV,HP1435(),BioCyc
+HP_RS00970-MONOMER,Hypothetical protein HP0199,HP0199(),BioCyc
+HP_RS02990-MONOMER,tripartite efflux pump periplasmic adaptor protein HefB,HP0606(),BioCyc
+HP_RS05045-MONOMER,<i>apo</i>-DNA-binding transcriptional regulator Fur monomer,HP1027(),BioCyc
+HP_RS07015-MONOMER,sulfatase-like hydrolase/transferase,HP_RS07015(),BioCyc
+HP_RS00885-MONOMER,Membrane protein required for colicin V production,HP0181(),BioCyc
+HP_RS02905-MONOMER,2-oxoglutarate-acceptor oxidoreductase subunit OorA,HP0589(),BioCyc
+HP_RS04950-MONOMER,IS200 insertion sequence from SARA17,HP1008(),BioCyc
+HP_RS06920-MONOMER,Putative metal-dependent hydrolase,HP1401(),BioCyc
+HP_RS00805-MONOMER,histidine kinase sensor protein ArsS,HP0165(),BioCyc
+HP_RS02825-MONOMER,Ribose-5-phosphate isomerase B,HP0574(2),BioCyc
+HP_RS04840-MONOMER,hypothetical protein,HP_RS04840(),BioCyc
+HP_RS06835-MONOMER,Hypothetical protein HP1384,HP1384(),BioCyc
+HP_RS00725-MONOMER,"cytochrome c oxidase, cbb3-type, diheme subunit",HP0147(),BioCyc
+HP_RS02745-MONOMER,Acetyl-CoA carboxylase carboxyltransferase subunit alpha,HP0557(),BioCyc
+HP_RS00315-MONOMER,Hypothetical protein HP0062,HP0062(),BioCyc
+HP_RS04755-MONOMER,Glycyl-tRNA synthetase subunit beta,HP0972(),BioCyc
+HP_RS06750-MONOMER,Type IIS restriction-modification system R protein R.HpyAII,HP1366(),BioCyc
+HP_RS00640-MONOMER,outer membrane protein HorB,HP0127(),BioCyc
+HP_RS02655-MONOMER,CagI protein,HP0540(),BioCyc
+HP_RS00235-MONOMER,GDP-L-fucose synthase monomer,HP0045(2),BioCyc
+HP_RS04665-MONOMER,Hypothetical protein HP0953,HP0953(),BioCyc
+HP_RS06655-MONOMER,1-acyl-sn-glycerol-3-phosphate acyltransferase,HP1348(),BioCyc
+HP_RS00560-MONOMER,Heat shock protein GrpE,HP0110(2),BioCyc
+HP_RS02575-MONOMER,Cag T4SS protein Cag&gamma;,HP0523(),BioCyc
+HP_RS00150-MONOMER,isocitrate dehydrogenase,HP0027(2),BioCyc
+HP_RS04555-MONOMER,N-acetyltransferase 8-like protein,HP0935(),BioCyc
+HP_RS06575-MONOMER,Chaperone protein DnaJ,HP1332(2),BioCyc
+HP_RS00470-MONOMER,"type IIP restriction-modification system, M protein M.HpyAIII",HP0092(),BioCyc
+HP_RS02485-MONOMER,inactive Type IIP restriction-modification system M protein M.HpyAXII,HP0503(),BioCyc
+HP_RS00065-MONOMER,chaperonin GroL monomer,HP0010(14),BioCyc
+HP_RS04465-MONOMER,Outer membrane protein HofG,HP0914(),BioCyc
+HP_RS06495-MONOMER,50S ribosomal protein L2,HP1316(1),BioCyc
+HP_RS00385-MONOMER,Phosphoglucosamine mutase,HP0075(1),BioCyc
+HP_RS02405-MONOMER,outer membrane protein HofC,HP0486(),BioCyc
+HP_RS04360-MONOMER,addiction module toxin protein HP0894 (RNAse),HP0894(),BioCyc
+HP_RS04345-MONOMER,Acyl coenzyme A thioesterase VdlD,HP0891(),BioCyc
+HP_RS06400-MONOMER,50S ribosomal protein L36,HP1297(1),BioCyc
+HP_RS02300-MONOMER,Hypothetical protein HP0465,HP0465(),BioCyc
+HP_RS04245-MONOMER,flagellar hook protein FlgE1,HP0870(),BioCyc
+HP_RS06320-MONOMER,Anthranilate synthase component II,HP1281(),BioCyc
+HP_RS02210-MONOMER,Putative ATPase HP0447,HP0447(),BioCyc
+HP_RS04180-MONOMER,sedoheptulose 7-phosphate isomerase monomer,HP0857(),BioCyc
+HP_RS06240-MONOMER,ferredoxin-menaquinone dehydrogenase subunit F,HP1265(),BioCyc
+HP_RS02095-MONOMER,Hypothetical protein HP0423,HP0423(),BioCyc
+HP_RS04095-MONOMER,outer membrane protein P1,HP0839(),BioCyc
+HP_RS06155-MONOMER,Ribonuclease R,HP1248(),BioCyc
+HP_RS01990-MONOMER,HIT family protein,HP0404(),BioCyc
+HP_RS04005-MONOMER,Excinuclease ABC subunit C UvrC,HP0821(),BioCyc
+HP_RS06075-MONOMER,DNA polymerase III subunit delta' HolB,HP1231(),BioCyc
+HP_RS01910-MONOMER,tRNA (cmo5U34)-methyltransferase,HP0388(1),BioCyc
+HP_RS03920-MONOMER,Lipooligosaccharide 5G8 epitope biosynthesis-associated protein Lex2B,HP0805(),BioCyc
+HP_RS05975-MONOMER,Serine O-acetyltransferase CysE,HP1210(6),BioCyc
+MONOMER2DNV-15,,G2DNV-14(),BioCyc
+HP_RS01830-MONOMER,Deoxycytidine triphosphate deaminase,HP0372(),BioCyc
+HP_RS03840-MONOMER,Outer membrane protein HofF,HP0788(),BioCyc
+HP_RS05865-MONOMER,Aldo/keto reductase,HP1193(),BioCyc
+HP_RS07830-MONOMER,Pyridoxine 5'-phosphate synthase,HP1582(8),BioCyc
+HP_RS01730-MONOMER,flagellar ATPase regulator FliH,HP0353(),BioCyc
+HP_RS03750-MONOMER,flagellar export protein FlhB,HP0770(),BioCyc
+HP_RS05775-MONOMER,"putative transporter, nucleobase:cation symporter-2 family",HP1175(),BioCyc
+HP_RS07750-MONOMER,Hypothetical protein HP1566,HP1566(),BioCyc
+HP_RS01640-MONOMER,cell division topological specificity factor MinE,HP0332(),BioCyc
+HP_RS03665-MONOMER,Flagellar protein FlaG,HP0751(),BioCyc
+HP_RS05695-MONOMER,Cell filamentation protein,HP1159(),BioCyc
+HP_RS07670-MONOMER,Sec translocon accessory subunit YajC,HP1551(),BioCyc
+HP_RS01555-MONOMER,Hypothetical protein HP0316,HP0316(),BioCyc
+HP_RS03580-MONOMER,Putative aminotransferase SerC,HP0736(),BioCyc
+HP_RS05600-MONOMER,Biotin--protein ligase BirA,HP1140(),BioCyc
+HP_RS07590-MONOMER,IS605 transposase TnpA,HP1535(),BioCyc
+HP_RS01475-MONOMER,"peptide ABC transporter, membrane protein DppB",HP0299(),BioCyc
+HP_RS03490-MONOMER,tRNA threonylcarbamoyl adenosine modification protein,HP0716(),BioCyc
+HP_RS05515-MONOMER,Hypothetical protein HP1122a,HP1122a(),BioCyc
+HP_RS07500-MONOMER,Hypothetical protein HP1516,HP1516(),BioCyc
+HP_RS01395-MONOMER,3-dehydroquinate synthase AroB,HP0283(1),BioCyc
+HP_RS03405-MONOMER,N-methylhydantoinase,HP0696(),BioCyc
+HP_RS05435-MONOMER,outer membrane protein HorH,HP1107(),BioCyc
+HP_RS07415-MONOMER,Peptidyl-tRNA hydrolase,HP1497(),BioCyc
+HP_RS01315-MONOMER,aminodeoxyfutalosine deaminase monomer,HP0267(),BioCyc
+HP_RS03315-MONOMER,Integrase/recombinase XerC,HP0675(),BioCyc
+HP_RS05355-MONOMER,PDDEXK_1 domain-containing protein,HP1089(),BioCyc
+HP_RS07335-MONOMER,Putative nitrilase/cyanide hydratase,HP1481(),BioCyc
+HP_RS01220-MONOMER,Hypothetical membrane protein HP0248,HP0248(),BioCyc
+HP_RS03225-MONOMER,"Menaquinone biosynthesis protein, SCO4494 family",HP0654(),BioCyc
+HP_RS05275-MONOMER,putative Cu<sup>2+</sup>-binding protein CopP,HP1073(),BioCyc
+HP_RS07255-MONOMER,ABC transporter ATP-binding protein,HP1465(),BioCyc
+HP_RS01140-MONOMER,Motility protein HP0232,HP0232(),BioCyc
+HP_RS03145-MONOMER,outer membrane protein HopH,HP0638(),BioCyc
+HP_RS05190-MONOMER,Hypothetical protein HP1056,HP1056(),BioCyc
+HP_RS07175-MONOMER,Putative membrane protein insertion efficiency factor,HP1449(),BioCyc
+HP_RS01050-MONOMER,"putative transporter, divalent anion:Na<sup>+</sup> symporter family",HP0214(1),BioCyc
+HP_RS03060-MONOMER,Recombination and DNA strand exchange inhibitor protein MutS,HP0621(),BioCyc
+HP_RS05110-MONOMER,30S ribosomal protein S15,HP1040(1),BioCyc
+HP_RS07085-MONOMER,cytoplasmic Ni<sup>2+</sup>-binding protein Hpn2,HP1432(),BioCyc
+HP_RS00955-MONOMER,UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase,HP0196(1),BioCyc
+HP_RS02975-MONOMER,Hypothetical protein HP0603,HP0603(),BioCyc
+HP_RS05030-MONOMER,Co-chaperone-curved DNA binding protein A,HP1024(),BioCyc
+HP_RS07000-MONOMER,tRNA delta(2)-isopentenylpyrophosphate transferase,HP1415(2),BioCyc
+HP_RS00870-MONOMER,pseudoaminic acid synthase,HP0178(),BioCyc
+HP_RS02890-MONOMER,Hypothetical protein HP0586,HP0586(),BioCyc
+HP_RS04920-MONOMER,Hypothetical protein HP1002,HP1002(),BioCyc
+HP_RS06905-MONOMER,Alanine dehydrogenase,HP1398(),BioCyc
+HP_RS00790-MONOMER,Helicobacter cysteine-rich protein E HcpD,HP0160(),BioCyc
+HP_RS02810-MONOMER,DedA family protein,HP0571(),BioCyc
+HP_RS04825-MONOMER,hypothetical protein,HP_RS04825(),BioCyc
+HP_RS06820-MONOMER,Nonspecific tight adherence fibril (pilus) secretion septum,HP1381(),BioCyc
+HP_RS00710-MONOMER,cbb3-type cytochrome c oxidase heme b and copper-binding subunit,HP0144(),BioCyc
+HP_RS02730-MONOMER,Sialidase A,HP0554(),BioCyc
+HP_RS00300-MONOMER,Hypothetical protein HP0059,HP0059(),BioCyc
+HP_RS04740-MONOMER,"Ni<sup>2+</sup>/Zn<sup>2+</sup>/Cd<sup>2+</sup> efflux pump, RND permease",HP0969(),BioCyc
+HP_RS06735-MONOMER,Bifunctional NAD(P)H-hydrate repair enzyme Nnr,HP1363(),BioCyc
+HP_RS00625-MONOMER,Translation initiation factor IF-3,HP0124(1),BioCyc
+HP_RS02640-MONOMER,Cag T4SS protein CagM,HP0537(),BioCyc
+HP_RS00220-MONOMER,DNA type IV secretion system protein ComB10,HP0041(),BioCyc
+HP_RS04650-MONOMER,Acetyl-CoA carboxylase subunit beta,HP0950(),BioCyc
+HP_RS06640-MONOMER,Phosphoglycerate kinase,HP1345(1),BioCyc
+HP_RS00540-MONOMER,cystathionine gamma-lyase,HP0106(4),BioCyc
+HP_RS02560-MONOMER,Beta-lactamase,HP0519(),BioCyc
+HP_RS00135-MONOMER,lacdiNAc-binding adhesin LabA,HP0025(),BioCyc
+HP_RS04535-MONOMER,Stationary phase survival protein SurE,HP0930(1),BioCyc
+HP_RS06560-MONOMER,copper efflux pump RND permease,HP1329(),BioCyc
+HP_RS00450-MONOMER,5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase,HP0089(2),BioCyc
+HP_RS02470-MONOMER,phospholipase A,HP0499(1),BioCyc
+HP_RS00025-MONOMER,Orotidine 5'-phosphate decarboxylase PyrF,HP0005(2),BioCyc
+HP_RS04450-MONOMER,"Rep helicase, single-stranded DNA-dependent ATPase",HP0911(),BioCyc
+HP_RS06480-MONOMER,30S ribosomal protein S3,HP1313(1),BioCyc
+HP_RS00365-MONOMER,urease subunit beta UreB,HP0072(),BioCyc
+HP_RS02385-MONOMER,inactive Type IIP restriction-modification system R protein,HP0482(),BioCyc
+HP_RS04330-MONOMER,"Ni<sup>2+</sup> ABC transporter, ATP-binding protein",HP0888(),BioCyc
+HP_RS06385-MONOMER,30S ribosomal protein S4,HP1294(1),BioCyc
+HP_RS02285-MONOMER,Type I restriction enzyme S protein HdsS,HP0462(),BioCyc
+HP_RS04230-MONOMER,Lipid-A-disaccharide synthase,HP0867(2),BioCyc
+HP_RS06305-MONOMER,Tryptophan synthase subunit beta TrpB,HP1278(),BioCyc
+HP_RS02190-MONOMER,ICEHptfs4 protein C19.2,HP0443(),BioCyc
+HP_RS04165-MONOMER,Guanosine 5'-monophosphate oxidoreductase GuaC,HP0854(4),BioCyc
+HP_RS06225-MONOMER,ferredoxin-menaquinone dehydrogenase subunit C,HP1262(),BioCyc
+HP_RS02080-MONOMER,4HBT domain-containing protein,HP0420(),BioCyc
+HP_RS04070-MONOMER,GTP-binding protein EngA,HP0834(),BioCyc
+HP_RS06140-MONOMER,single-stranded DNA-binding protein monomer,HP1245(),BioCyc
+HP_RS01975-MONOMER,3-phosphoshikimate 1-carboxyvinyltransferase,HP0401(1),BioCyc
+HP_RS03990-MONOMER,"putative osmoprotective ABC transporter, ATP-binding protein",HP0819(),BioCyc
+HP_RS06060-MONOMER,RNA diphosphohydrolase,HP1228(),BioCyc
+HP_RS01895-MONOMER,Hypothetical protein HP0385,HP0385(),BioCyc
+HP_RS03905-MONOMER,GTP cyclohydrolase II,HP0802(2),BioCyc
+HP_RS05955-MONOMER,O-antigen flippase,HP1206(),BioCyc
+HP_RS07955-MONOMER,Hypothetical protein HP1070,HP1070(),BioCyc
+HP_RS01810-MONOMER,inactive Type IIP restriction-modification system R protein,HP0368(),BioCyc
+HP_RS03815-MONOMER,Hypothetical protein HP0783,HP0783(),BioCyc
+HP_RS05850-MONOMER,Histidyl-tRNA synthetase,HP1190(2),BioCyc
+HP_RS07815-MONOMER,Hypothetical protein HP1579,HP1579(),BioCyc
+HP_RS01715-MONOMER,Hypothetical protein HP0350,HP0350(),BioCyc
+HP_RS03735-MONOMER,Hypothetical protein HP0766,HP0766(),BioCyc
+HP_RS05760-MONOMER,"ABC transporter, periplasmic L-glutamine-binding protein",HP1172(),BioCyc
+HP_RS07735-MONOMER,AhpC monomer,HP1563(),BioCyc
+HP_RS01620-MONOMER,NH(3)-dependent NAD(+) synthetase NadE,HP0329(2),BioCyc
+HP_RS03650-MONOMER,cell division protein FtsE,HP0748(),BioCyc
+HP_RS05680-MONOMER,outer membrane protein HopI,HP1156(),BioCyc
+HP_RS07655-MONOMER,putative membrane protein,HP1548(),BioCyc
+HP_RS01540-MONOMER,ATP-binding protein,HP0312(),BioCyc
+HP_RS03560-MONOMER,LeoA protein,HP0731(),BioCyc
+HP_RS05585-MONOMER,"F0F1 ATP synthase subunit B', AtpX",HP1137(),BioCyc
+HP_RS07575-MONOMER,Glucosamine--fructose-6-phosphate aminotransferase GlmS,HP1532(2),BioCyc
+HP_RS01460-MONOMER,50S ribosomal protein L21,HP0296(1),BioCyc
+HP_RS03470-MONOMER,Competence protein ComGF,HP0711(),BioCyc
+HP_RS05500-MONOMER,Hypothetical protein HP1120,HP1120(),BioCyc
+HP_RS07485-MONOMER,TonB-dependent nickel transporter FrpB4,HP1512(),BioCyc
+HP_RS01380-MONOMER,Lipid A biosynthesis lauroyl acyltransferase,HP0280(1),BioCyc
+HP_RS03390-MONOMER,"putative transporter, short chain fatty acid uptake family",HP0693(1),BioCyc
+HP_RS05420-MONOMER,cinnamyl-alcohol dehydrogenase,HP1104(),BioCyc
+HP_RS07400-MONOMER,"UDP-N-acetylmuramoylalanyl-D-glutamate--2, 6-diaminopimelate ligase",HP1494(1),BioCyc
+HP_RS01300-MONOMER,"ATP-dependent Clp protease, ATP-binding subunit ClpB",HP0264(),BioCyc
+HP_RS03295-MONOMER,Predicted coding region HP0670,HP0670(),BioCyc
+HP_RS05340-MONOMER,hemolysin,HP1086(),BioCyc
+HP_RS07320-MONOMER,DNA helicase II UvrD,HP1478(),BioCyc
+HP_RS01205-MONOMER,flagellar rod assembly protein/muramidase FlgJ,HP0245(),BioCyc
+HP_RS03210-MONOMER,"&alpha;(1,3)-fucosyltransferase FutB",HP0651(),BioCyc
+HP_RS05260-MONOMER,cell division protein FtsH,HP1069(),BioCyc
+HP_RS07240-MONOMER,secreted protein involved in flagellar motility,HP1462(),BioCyc
+HP_RS01115-MONOMER,"putative transporter, sulfate permease family",HP0228(1),BioCyc
+HP_RS03125-MONOMER,[NiFe]-hydrogenase maturation endopeptidase HydD,HP0634(),BioCyc
+HP_RS05175-MONOMER,septum formation inhibitor MinC,HP1053(),BioCyc
+HP_RS07160-MONOMER,ExbD family protein,HP1446(),BioCyc
+HP_RS01035-MONOMER,Helicobacter cysteine-rich protein E HcpA,HP0211(),BioCyc
+HP_RS03045-MONOMER,glycosyltransferase family 25 protein,HP_RS03045(),BioCyc
+HP_RS05095-MONOMER,aminopeptidase,HP1037(),BioCyc
+HP_RS07070-MONOMER,Polysialic acid capsule expression protein,HP1429(4),BioCyc
+HP_RS00940-MONOMER,fumarate reductase cytochrome b-556 subunit FrdC,HP0193(),BioCyc
+HP_RS02960-MONOMER,"ABC family efflux transporter, ATP-binding/membrane protein",HP0600(),BioCyc
+HP_RS05015-MONOMER,redox switch response regulator HP1021,HP1021(),BioCyc
+HP_RS06985-MONOMER,Hypothetical protein HP1412,HP1412(),BioCyc
+HP_RS00855-MONOMER,Putative peptidyl-prolyl cis-trans isomerase PpiC,HP0175(),BioCyc
+HP_RS02875-MONOMER,flagellar motor switch protein FliN,HP0584(),BioCyc
+HP_RS04900-MONOMER,Putative transposase TnpA,HP0998(),BioCyc
+HP_RS06885-MONOMER,DNA repair protein RecN,HP1393(),BioCyc
+HP_RS00775-MONOMER,shikimate kinase,HP0157(1),BioCyc
+HP_RS02795-MONOMER,SPASM domain-containing protein,HP0568(),BioCyc
+HP_RS04805-MONOMER,Hypothetical protein HP0982,HP0982(),BioCyc
+HP_RS06805-MONOMER,putative outer membrane protein assembly factor BamD,HP1378(),BioCyc
+HP_RS00690-MONOMER,lactate transporter LctP1,HP0140(1),BioCyc
+HP_RS02715-MONOMER,50S ribosomal protein L31,HP0551(1),BioCyc
+HP_RS00285-MONOMER,Delta-1-pyrroline-5-carboxylate dehydrogenase PutA,HP0056(2),BioCyc
+HP_RS04715-MONOMER,Putative ATPase,HP0963(),BioCyc
+HP_RS06720-MONOMER,"1,4-dihydroxy-6-naphthoate prenyltransferase MqnP",HP1360(1),BioCyc
+HP_RS00610-MONOMER,DUF874 family protein HP0120,HP0120(),BioCyc
+HP_RS02625-MONOMER,CagS protein,HP0534(),BioCyc
+HP_RS00200-MONOMER,ComB6 protein,HP0037(),BioCyc
+HP_RS04635-MONOMER,Hypothetical protein HP0947,HP0947(),BioCyc
+HP_RS06625-MONOMER,outer membrane protein HopN,HP1342(),BioCyc
+HP_RS00525-MONOMER,methyl-accepting chemotaxis protein TlpB,HP0103(),BioCyc
+HP_RS02545-MONOMER,ATP-dependent protease ATP-binding subunit HslU,HP0516(),BioCyc
+HP_RS00120-MONOMER,Carboxynorspermidine decarboxylase,HP0020(),BioCyc
+HP_RS04520-MONOMER,Heat shock protein HtpX,HP0927(),BioCyc
+HP_RS06545-MONOMER,copper resistance determinant CrdA,HP1326(),BioCyc
+HP_RS00435-MONOMER,malate:quinone oxidoreductase,HP0086(1),BioCyc
+HP_RS02455-MONOMER,thioesterase YbgC monomer,HP0496(1),BioCyc
+HP_RS00010-MONOMER,"6,7-dimethyl-8-ribityllumazine synthase",HP0002(60),BioCyc
+HP_RS04435-MONOMER,flagellar hook protein FlgE2,HP0908(),BioCyc
+HP_RS06465-MONOMER,30S ribosomal protein S17,HP1310(1),BioCyc
+HP_RS00350-MONOMER,urease accessory protein UreF,HP0069(),BioCyc
+HP_RS02365-MONOMER,Type IIP restriction-modification system M protein M.HpyAVII,HP0478(),BioCyc
+HP_RS02350-MONOMER,"molybdate ABC transporter, ATP-binding protein",HP0475(),BioCyc
+HP_RS04315-MONOMER,lipid II flippase MurJ,HP0885(),BioCyc
+HP_RS06370-MONOMER,Thiamine pyrophosphokinase,HP1291(),BioCyc
+HP_RS02270-MONOMER,hypothetical protein,HP0458(),BioCyc
+HP_RS06290-MONOMER,Phosphomannomutase,HP1275(1),BioCyc
+HP_RS02175-MONOMER,ICEHptfs4 protein C16.2,HP0440(),BioCyc
+HP_RS04150-MONOMER,undecaprenyl-diphosphate phosphatase,HP0851(),BioCyc
+HP_RS06205-MONOMER,Hypothetical protein HP1258,HP1258(),BioCyc
+HP_RS02065-MONOMER,Methionyl-tRNA synthetase,HP0417(2),BioCyc
+HP_RS04055-MONOMER,Dephospho-CoA kinase CoaE,HP0831(1),BioCyc
+HP_RS06125-MONOMER,Hypothetical protein HP1242,HP1242(),BioCyc
+HP_RS01960-MONOMER,Hypothetical protein HP0398,HP0398(),BioCyc
+HP_RS03975-MONOMER,flagellar motor protein MotB,HP0816(),BioCyc
+HP_RS06040-MONOMER,Uroporphyrinogen-III synthase HemD,HP1224(),BioCyc
+HP_RS01880-MONOMER,Putative zinc-metallo protease,HP0382(),BioCyc
+HP_RS03890-MONOMER,Molybdopterin adenylyltransferase,HP0799(1),BioCyc
+HP_RS05915-MONOMER,Sec translocon subunit SecE,HP1203a(),BioCyc
+HP_RS07905-MONOMER,hypothetical protein,HP_RS07905(),BioCyc
+HP_RS01790-MONOMER,Ribonucleotide-diphosphate reductase subunit beta,HP0364(),BioCyc
+HP_RS03800-MONOMER,Hypothetical protein HP0780,HP0780(),BioCyc
+HP_RS05830-MONOMER,&alpha;-carbonic anhydrase,HP1186(),BioCyc
+HP_RS07800-MONOMER,"ABC transporter, ATP-binding subunit",HP1576(),BioCyc
+HP_RS01700-MONOMER,Pseudouridine synthase,HP0347(1),BioCyc
+HP_RS03720-MONOMER,signal recognition particle receptor,HP0763(1),BioCyc
+HP_RS05745-MONOMER,"ABC transporter, membrane protein",HP1169(),BioCyc
+HP_RS07720-MONOMER,peptidoglycan glycosyltransferase FtsW,HP1560(),BioCyc
+HP_RS01605-MONOMER,,HP0326A(),BioCyc
+HP_RS03635-MONOMER,Pseudouridine synthase,HP0745(1),BioCyc
+HP_RS05665-MONOMER,Valyl-tRNA synthetase,HP1153(1),BioCyc
+HP_RS07640-MONOMER,folylpolyglutamate synthase FolC,HP1545(1),BioCyc
+HP_RS01525-MONOMER,Putative N-carbamoyl-D-amino acid amidohydrolase,HP0309(),BioCyc
+HP_RS03545-MONOMER,tRNA(Ile)-lysidine synthase,HP0728(1),BioCyc
+HP_RS05570-MONOMER,"F0F1 ATP synthase subunit alpha, AtpA",HP1134(),BioCyc
+HP_RS07560-MONOMER,chromosomal replication initiator protein DnaA,HP1529(),BioCyc
+HP_RS01445-MONOMER,Para-aminobenzoate synthetase PabB,HP0293(1),BioCyc
+HP_RS03455-MONOMER,Hypothetical protein HP0708,HP0708(),BioCyc
+HP_RS05485-MONOMER,Helicobacter cysteine-rich protein E HcpG,HP1117(),BioCyc
+HP_RS07470-MONOMER,acyl phosphate:glycerol-3-phosphate acyltransferase,HP1509(1),BioCyc
+HP_RS01365-MONOMER,Ferredoxin,HP0277(),BioCyc
+HP_RS03375-MONOMER,acetyl-CoA acetyltransferase,HP0690(),BioCyc
+HP_RS05405-MONOMER,glucose-6-phosphate 1-dehydrogenase,HP1101(1),BioCyc
+HP_RS07385-MONOMER,"putative transporter, inorganic phosphate transporter (PiT) family",HP1491(),BioCyc
+HP_RS01280-MONOMER,Type IIP restriction-modification system M protein M.HpyAX,HP0260(),BioCyc
+HP_RS03275-MONOMER,UPF0763 protein HP0664,HP0664(),BioCyc
+HP_RS05325-MONOMER,Outer membrane protein HofB,HP1083(),BioCyc
+HP_RS07305-MONOMER,Phosphopantetheine adenylyltransferase,HP1475(6),BioCyc
+HP_RS01190-MONOMER,Hypothetical protein HP0242,HP0242(),BioCyc
+HP_RS03195-MONOMER,UDP-N-acetylglucosamine 1-carboxyvinyltransferase MurA,HP0648(1),BioCyc
+HP_RS05245-MONOMER,Outer membrane protein HorD,HP1066(),BioCyc
+HP_RS07225-MONOMER,Pseudouridine synthase RluB,HP1459(1),BioCyc
+HP_RS01100-MONOMER,Bifunctional methionine sulfoxide reductase A/B MrsA,HP0224(1),BioCyc
+HP_RS03110-MONOMER,Quinone-reactive Ni/Fe hydrogenase HydA,HP0631(),BioCyc
+HP_RS05160-MONOMER,Homoserine kinase ThrB,HP1050(2),BioCyc
+HP_RS07145-MONOMER,4-diphosphocytidyl-2-C-methyl-D-erythritol kinase,HP1443(),BioCyc
+HP_RS01015-MONOMER,ATP-binding protein Mpr,HP0207(),BioCyc
+HP_RS03030-MONOMER,chemotaxis protein CheV2,HP0616(),BioCyc
+HP_RS05080-MONOMER,ATP-binding protein,HP1034(),BioCyc
+HP_RS07050-MONOMER,Hypothetical protein HP1424,HP1424(),BioCyc
+HP_RS00925-MONOMER,Phospholipase D-family protein,HP0190(),BioCyc
+HP_RS02945-MONOMER,penicillin-binding protein 1,HP0597(2),BioCyc
+HP_RS04995-MONOMER,Phosphatidylglycerophosphate synthase PgsA,HP1016(1),BioCyc
+HP_RS06970-MONOMER,Hypothetical protein HP1409,HP1409(),BioCyc
+HP_RS00840-MONOMER,Molybdopterin biosynthesis protein MoeA,HP0172(1),BioCyc
+HP_RS02860-MONOMER,Dihydroorotase PyrC,HP0581(2),BioCyc
+HP_RS04885-MONOMER,ICEHptfs3 protein C1,HP0995(),BioCyc
+HP_RS06870-MONOMER,Hypothetical protein HP1390,HP1390(),BioCyc
+HP_RS00760-MONOMER,enolase,HP0154(2),BioCyc
+HP_RS02780-MONOMER,Inner membrane protein YkgB,HP0565(),BioCyc
+HP_RS04790-MONOMER,Cell division protein FtsZ,HP0979(),BioCyc
+HP_RS06790-MONOMER,UDP-N-acetylglucosamine acyltransferase LpxA,HP1375(3),BioCyc
+HP_RS00675-MONOMER,putative NAD-dependent lactate dehydrogenase subunit HP0137,HP0137(),BioCyc
+HP_RS02690-MONOMER,Cag pathogenicity island protein,HP0546a(),BioCyc
+HP_RS00270-MONOMER,Type IIS restriction-modification system R protein R.HpyAV,HP0053(),BioCyc
+HP_RS04700-MONOMER,Glycyl-tRNA synthetase subunit alpha GlyQ,HP0960(),BioCyc
+HP_RS06705-MONOMER,Phosphatidylserine decarboxylase,HP1357(1),BioCyc
+HP_RS00595-MONOMER,Radical SAM domain-containing protein,HP0117(),BioCyc
+HP_RS02610-MONOMER,CagV protein,HP0530(),BioCyc
+HP_RS00185-MONOMER,Aspartate alpha-decarboxylase,HP0034(1),BioCyc
+HP_RS04600-MONOMER,RutC family protein HP0944,HP0944(),BioCyc
+HP_RS06610-MONOMER,energy-transducing Ton complex subunit ExbB,HP1339(),BioCyc
+HP_RS00510-MONOMER,epoxyqueuosine reductase,HP0100(),BioCyc
+HP_RS02525-MONOMER,Glutamine synthetase GlnA,HP0512(12),BioCyc
+HP_RS00100-MONOMER,ComB4 competence protein,HP0017(),BioCyc
+HP_RS04505-MONOMER,2-hydroxymuconate tautomerase monomer,HP0924(),BioCyc
+HP_RS06530-MONOMER,Ribonuclease HII,HP1323(),BioCyc
+HP_RS00420-MONOMER,30S ribosomal protein S9,HP0083(1),BioCyc
+HP_RS02440-MONOMER,Phospho-N-acetylmuramoyl-pentapeptide- transferase,HP0493(1),BioCyc
+HP_RS04405-MONOMER,Hypothetical protein HP0902,HP0902(),BioCyc
+HP_RS06450-MONOMER,50S ribosomal protein L5,HP1307(1),BioCyc
+HP_RS00335-MONOMER,cell division-related protein,HP0066(),BioCyc
+HP_RS02335-MONOMER,outer membrane protein HorE,HP0472(),BioCyc
+HP_RS04290-MONOMER,Hypothetical protein HP0880,HP0880(),BioCyc
+HP_RS06355-MONOMER,Class IIc Sec-secreted bacteriocin Divergicin A precursor DvnA,HP1288(),BioCyc
+HP_RS02250-MONOMER,hypothetical protein,HP0456a(),BioCyc
+HP_RS04215-MONOMER,50S ribosomal protein L22,HP0864(),BioCyc
+HP_RS06275-MONOMER,ferredoxin-menaquinone dehydrogenase subunit M,HP1272(),BioCyc
+HP_RS02150-MONOMER,hypothetical protein,HP0433(),BioCyc
+HP_RS06190-MONOMER,Sec translocon subunit SecG,HP1255(),BioCyc
+HP_RS02050-MONOMER,IS200 insertion sequence from SARA17,HP0414(),BioCyc
+HP_RS04040-MONOMER,F0F1 ATP synthase subunit A AtpB,HP0828(),BioCyc
+HP_RS06110-MONOMER,Formamidase AmiF,HP1238(),BioCyc
+HP_RS01945-MONOMER,YggS family pyridoxal phosphate enzyme,HP0395(),BioCyc
+HP_RS03960-MONOMER,Lactamase_B domain-containing protein,HP0813(),BioCyc
+HP_RS06025-MONOMER,Undecaprenyl pyrophosphate synthase UppS,HP1221(2),BioCyc
+HP_RS01865-MONOMER,"&alpha;-(1,3)-fucosyltransferase FutA",HP0379(),BioCyc
+HP_RS03875-MONOMER,Outer membrane protein HorG,HP0796(),BioCyc
+HP_RS05900-MONOMER,50S ribosomal protein L1,HP1201(1),BioCyc
+HP_RS07885-MONOMER,Hypothetical protein HP0789,HP0789(),BioCyc
+HP_RS01775-MONOMER,tRNA pseudouridine synthase A,HP0361(2),BioCyc
+HP_RS03785-MONOMER,UMP kinase,HP0777(6),BioCyc
+HP_RS05815-MONOMER,"putative transporter, monovalent cation:proton antiporter (CPA2) family",HP1183(),BioCyc
+HP_RS07785-MONOMER,DNAse TatD,HP1573(),BioCyc
+HP_RS01680-MONOMER,Hypothetical protein HP0342,HP0342(),BioCyc
+HP_RS03700-MONOMER,"putative transporter, multi antimicrobial extrusion (MATE) family",HP0759(),BioCyc
+HP_RS05730-MONOMER,Glucose-6-phosphate isomerase Pgi,HP1166(2),BioCyc
+HP_RS07705-MONOMER,flagellar hook-basal body protein FliE,HP1557(),BioCyc
+HP_RS01590-MONOMER,outer membrane associated nuclease,HP0323(),BioCyc
+HP_RS03620-MONOMER,rod shape-determining protein RodA,HP0743(),BioCyc
+HP_RS05650-MONOMER,KH domain RNA binding protein,HP1150(),BioCyc
+HP_RS07625-MONOMER,bactofilin,HP1542(),BioCyc
+HP_RS01510-MONOMER,Glutamate-1-semialdehyde aminotransferase HemL,HP0306(2),BioCyc
+HP_RS03530-MONOMER,sialic acid-binding adhesin SabA,HP0725(),BioCyc
+HP_RS05555-MONOMER,"F0F1 ATP synthase subunit epsilon, AtpC",HP1131(),BioCyc
+HP_RS07540-MONOMER,outer membrane protein HorD,HP1525(),BioCyc
+HP_RS01430-MONOMER,diaminopimelate decarboxylase monomer,HP0290(4),BioCyc
+HP_RS03440-MONOMER,Excinuclease ABC subunit A UvrA,HP0705(),BioCyc
+HP_RS05470-MONOMER,Excinuclease ABC subunit B UvrB,HP1114(),BioCyc
+HP_RS07455-MONOMER,glutamate:Na<sup>+</sup> symporter GltS,HP1506(1),BioCyc
+HP_RS01350-MONOMER,Hypothetical protein HP0274,HP0274(),BioCyc
+HP_RS05390-MONOMER,Helicobacter cysteine-rich protein E HcpC,HP1098(),BioCyc
+HP_RS07370-MONOMER,"ABC-type tripartite efflux pump, periplasmic adaptor protein",HP1488(),BioCyc
+HP_RS01265-MONOMER,Hypothetical secreted protein HP0257,HP0257(),BioCyc
+HP_RS03260-MONOMER,Ribonuclease H,HP0661(),BioCyc
+HP_RS05310-MONOMER,Archaeal Holliday junction resolvase/Mrr protein-like protein,HP1080(),BioCyc
+HP_RS07290-MONOMER,inactive Type IIB restriction-modification system S protein,HP1472(),BioCyc
+HP_RS01175-MONOMER,Glutamyl-tRNA reductase,HP0239(2),BioCyc
+HP_RS03180-MONOMER,peptidoglycan lytic exotransglycosylase,HP0645(1),BioCyc
+HP_RS05225-MONOMER,16S rRNA methyltransferase GidB,HP1063(),BioCyc
+HP_RS07210-MONOMER,Lpp20 lipoprotein,HP1456(),BioCyc
+HP_RS01085-MONOMER,Fe-S cluster biosynthesis scaffold protein NfU,HP0221(2),BioCyc
+HP_RS03095-MONOMER,Helicobacter cysteine-rich protein E HcpF,HP0628(),BioCyc
+HP_RS05145-MONOMER,Ribosome-binding factor A,HP1047(),BioCyc
+HP_RS07130-MONOMER,Hypothetical protein HP1440,HP1440(),BioCyc
+HP_RS00995-MONOMER,hypothetical protein,HP_RS00995(),BioCyc
+HP_RS03015-MONOMER,ABC transporter ATP-binding protein,HP0613(),BioCyc
+HP_RS05065-MONOMER,flagellar motor switch protein FliM,HP1031(),BioCyc
+HP_RS07035-MONOMER,VirB11 homolog,HP1421(),BioCyc
+HP_RS00905-MONOMER,Hypothetical protein HP0185,HP0185(),BioCyc
+HP_RS02925-MONOMER,Type III restriction-modification system M protein M.HpyAXI,HP0593(),BioCyc
+HP_RS04980-MONOMER,Dihydrodipicolinate synthase DapA,HP1013(4),BioCyc
+HP_RS06945-MONOMER,Biotin synthase BioB,HP1406(2),BioCyc
+HP_RS00825-MONOMER,Collagenase PrtC,HP0169(),BioCyc
+HP_RS02845-MONOMER,Phosphatidylglycerol-membrane-oligosaccharide glycerophosphotransferase MdoB,HP0578(),BioCyc
+HP_RS04865-MONOMER,ICEHptfs3 protein C24.1,HP0991(),BioCyc
+HP_RS06855-MONOMER,hypothetical protein,HP_RS06855(),BioCyc
+HP_RS00745-MONOMER,Putative membrane protein HP0151,HP0151(),BioCyc
+HP_RS02765-MONOMER,30S ribosomal protein S21,HP0562(),BioCyc
+HP_RS04775-MONOMER,Adenosylmethionine-8-amino-7-oxononanoate aminotransferase,HP0976(2),BioCyc
+HP_RS06775-MONOMER,Rod shape-determining protein MreC,HP1372(),BioCyc
+HP_RS00660-MONOMER,serine transporter,HP0133(1),BioCyc
+HP_RS02675-MONOMER,Cag T4SS protein CagE,HP0544(),BioCyc
+HP_RS00255-MONOMER,<i>N</i><sup>6</sup>-adenine DNA methyltransferase monomer,HP0050(),BioCyc
+HP_RS04685-MONOMER,3-deoxy-D-manno-octulosonic-acid transferase,HP0957(1),BioCyc
+HP_RS06675-MONOMER,Type IIP restriction-modification system M protein M.HpyAIV,HP1352(),BioCyc
+HP_RS00580-MONOMER,Motility accessory factor,HP0114(),BioCyc
+HP_RS02595-MONOMER,Cag T4SS protein CagY,HP0527(),BioCyc
+HP_RS00170-MONOMER,universal stress global response regulator UspA,HP0031(),BioCyc
+HP_RS04585-MONOMER,alanine racemase,HP0941(1),BioCyc
+HP_RS06595-MONOMER,J domain-containing protein,HP1336(),BioCyc
+HP_RS00495-MONOMER,Hypothetical protein HP0097,HP0097(),BioCyc
+HP_RS02510-MONOMER,glycolate oxidase,HP0509(),BioCyc
+HP_RS00085-MONOMER,Valyl-tRNA synthetase,HP0014(),BioCyc
+HP_RS04490-MONOMER,Glyceraldehyde-3-phosphate dehydrogenase,HP0921(),BioCyc
+HP_RS06515-MONOMER,30S ribosomal protein S10,HP1320(1),BioCyc
+HP_RS00405-MONOMER,second part of outer membrane protein HorA,HP0079(),BioCyc
+HP_RS02425-MONOMER,"putative transporter, K<sup>+</sup> transporter (Trk) family",HP0490(),BioCyc
+HP_RS04390-MONOMER,Fe-(CN)<sub>2</sub>CO cofactor assembly scaffold protein HypD,HP0898(),BioCyc
+HP_RS06435-MONOMER,50S ribosomal protein L6,HP1304(1),BioCyc
+HP_RS00320-MONOMER,Hypothetical protein HP0063,HP0063(),BioCyc
+HP_RS06420-MONOMER,50S ribosomal protein L15,HP1301(1),BioCyc
+HP_RS02320-MONOMER,Hypothetical protein HP0469,HP0469(),BioCyc
+HP_RS04270-MONOMER,catalase monomer,HP0875(6),BioCyc
+HP_RS06340-MONOMER,Acid phosphatase lipoprotein,HP1285(),BioCyc
+HP_RS02235-MONOMER,DUF2357 domain-containing protein,HP0453(),BioCyc
+HP_RS04200-MONOMER,DsbD_2 domain-containing protein,HP0861(),BioCyc
+HP_RS06260-MONOMER,ferredoxin-menaquinone dehydrogenase subunit J,HP1269(),BioCyc
+HP_RS02115-MONOMER,hypothetical protein,HP0427(),BioCyc
+HP_RS04115-MONOMER,Thiamine-phosphate pyrophosphorylase ThiE,HP0843(1),BioCyc
+HP_RS06175-MONOMER,"ABC transporter, substrate-binding protein",HP1252(),BioCyc
+HP_RS02010-MONOMER,Hypothetical protein HP0408,HP0408(),BioCyc
+HP_RS04025-MONOMER,thioredoxin reductase,HP0825(),BioCyc
+HP_RS06095-MONOMER,Integral membrane protein HP1235,HP1235(),BioCyc
+HP_RS01930-MONOMER,chemotaxis histidine kinase/response regulator CheAY2,HP0392(),BioCyc
+HP_RS03945-MONOMER,"RNA methyltransferase, RsmD family",HP0810(),BioCyc
+HP_RS06010-MONOMER,RDD domain-containing protein,HP1217(),BioCyc
+MONOMER2DNV-6,ComB7,G2DNV-43(),BioCyc
+HP_RS01850-MONOMER,Ferrochelatase HemH,HP0376(1),BioCyc
+HP_RS03860-MONOMER,peptide deformylase,HP0793(1),BioCyc
+HP_RS05885-MONOMER,DNA-directed RNA polymerase subunit beta/beta',HP1198(),BioCyc
+HP_RS07860-MONOMER,Protein of unknown function UPF0174,HP1588(),BioCyc
+HP_RS01750-MONOMER,alcohol dehydrogenase (NADP<small><sup>+</sup></small>),HP0357(4),BioCyc
+HP_RS03770-MONOMER,Tyrosyl-tRNA synthetase,HP0774(2),BioCyc
+HP_RS05795-MONOMER,purine nucleobase/nucleoside transporter,HP1180(),BioCyc
+HP_RS07770-MONOMER,3-deoxy-D-manno-octulosonate 8-phosphate phosphatase,HP1570(4),BioCyc
+HP_RS01665-MONOMER,Hypothetical protein HP0338,HP0338(),BioCyc
+HP_RS03685-MONOMER,ThiF family protein,HP0755(),BioCyc
+HP_RS05715-MONOMER,cytochrome oxidase maturation protein,HP1163(),BioCyc
+HP_RS07690-MONOMER,Elongation factor Ts,HP1555(1),BioCyc
+HP_RS01575-MONOMER,"twin arginine protein translocation system, TatA protein",HP0320(),BioCyc
+HP_RS03600-MONOMER,UDP-<em>N</em>-acetylmuramoyl-tripeptide&mdash;<small>D</small>-alanyl-<small>D</small>-alanine ligase,HP0740(),BioCyc
+HP_RS05635-MONOMER,50S ribosomal protein L19,HP1147(1),BioCyc
+HP_RS07610-MONOMER,"menaquinol cytochrome <i>c</i> oxidoreductase, cytochrome <i>b</i> subunit",HP1539(),BioCyc
+HP_RS01495-MONOMER,GTPase ObgE,HP0303(),BioCyc
+HP_RS03515-MONOMER,outer membrane protein SabB,HP0722(),BioCyc
+HP_RS05535-MONOMER,Tol-Pal system protein TolB,HP1126(),BioCyc
+HP_RS01415-MONOMER,pimelyl-[acyl-carrier protein] methyl ester esterase,HP0287(),BioCyc
+HP_RS03425-MONOMER,DNA gyrase subunit A,HP0701(),BioCyc
+HP_RS05455-MONOMER,"Pyruvate ferredoxin oxidoreductase, beta subunit PorB",HP1111(),BioCyc
+HP_RS07440-MONOMER,putative metal-specific P-type ATPase,HP1503(),BioCyc
+HP_RS01335-MONOMER,Hypothetical protein HP0271,HP0271(),BioCyc
+HP_RS03340-MONOMER,Hypothetical protein HP0681,HP0681(),BioCyc
+HP_RS05375-MONOMER,Predicted coding region HP1094,HP1094(),BioCyc
+HP_RS07355-MONOMER,UPF0029 domain-containing protein,HP1485(),BioCyc
+HP_RS01245-MONOMER,outer membrane protein HopF,HP0252(),BioCyc
+HP_RS03245-MONOMER,Aspartyl/glutamyl-tRNA amidotransferase subunit B,HP0658(),BioCyc
+HP_RS05295-MONOMER,high-affinity Ni<sup>2+</sup> transporter NixA,HP1077(),BioCyc
+HP_RS07275-MONOMER,outer membrane protein HorJ,HP1469(),BioCyc
+HP_RS01160-MONOMER,cytochrome c domain-containing protein,HP0236(),BioCyc
+HP_RS03165-MONOMER,NAD(P)H-flavin oxidoreductase FrxA,HP0642(),BioCyc
+HP_RS05210-MONOMER,"twin arginine protein translocation system, TatB protein",HP1060(),BioCyc
+HP_RS07195-MONOMER,Outer membrane protein HomD,HP1453(),BioCyc
+HP_RS01070-MONOMER,Phospholipid-binding protein,HP0218(),BioCyc
+HP_RS03080-MONOMER,4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase,HP0625(1),BioCyc
+HP_RS05130-MONOMER,Integral membrane protein,HP1044(),BioCyc
+HP_RS07105-MONOMER,Hypothetical protein HP1436,HP1436(),BioCyc
+HP_RS00975-MONOMER,50S ribosomal protein L32,HP0200(),BioCyc
+HP_RS02995-MONOMER,tripartite efflux pump RND permease HefC,HP0607(),BioCyc
+HP_RS05050-MONOMER,DUF2147 domain-containing protein,HP1028(),BioCyc
+HP_RS07020-MONOMER,UDP-N-acetylenolpyruvoylglucosamine reductase,HP1418(),BioCyc
+HP_RS00890-MONOMER,Lysyl-tRNA synthetase,HP0182(2),BioCyc
+HP_RS02910-MONOMER,2-oxoglutarate-acceptor oxidoreductase subunit OorB,HP0590(),BioCyc
+HP_RS04965-MONOMER,Polyphosphate kinase,HP1010(4),BioCyc
+HP_RS06925-MONOMER,Type I restriction enzyme R protein HsdR,HP1402(),BioCyc
+HP_RS00810-MONOMER,response regulator ArsR,HP0166(),BioCyc
+HP_RS02830-MONOMER,Peptidase M50,HP0575(),BioCyc
+HP_RS04850-MONOMER,Putative transposase TnpA,HP0988(),BioCyc
+HP_RS06840-MONOMER,"Fructose-1,6-bisphosphatase",HP1385(4),BioCyc
+HP_RS00730-MONOMER,Hypothetical protein HP0148,HP0148(),BioCyc
+HP_RS02750-MONOMER,3-oxoacyl-[acyl carrier protein] synthase,HP0558(2),BioCyc
+HP_RS04760-MONOMER,Hypothetical protein HP0973,HP0973(),BioCyc
+HP_RS06755-MONOMER,Type IIS restriction-modification system M1 protein M1.HpyAII,HP1367(),BioCyc
+HP_RS00645-MONOMER,Hypothetical protein HP0129,HP0129(),BioCyc
+HP_RS02660-MONOMER,CagH protein,HP0541(),BioCyc
+HP_RS00240-MONOMER,HypE [NiFe]-hydrogenase maturation protein,HP0047(),BioCyc
+HP_RS04670-MONOMER,RdxA,HP0954(2),BioCyc
+HP_RS06660-MONOMER,Putative periplasmic protein HP1349,HP1349(),BioCyc
+HP_RS00565-MONOMER,heat-inducible transcription repressor HrcA,HP0111(),BioCyc
+HP_RS02580-MONOMER,Cag T4SS protein Cag&beta;,HP0524(),BioCyc
+HP_RS00155-MONOMER,Hypothetical protein HP0028,HP0028(),BioCyc
+HP_RS04565-MONOMER,"putative transporter, major facilitator superfamily",HP0936(),BioCyc
+HP_RS06580-MONOMER,Hypothetical protein HP1333,HP1333(),BioCyc
+HP_RS00475-MONOMER,"&alpha;-(1,2)-fucosyltransferase FutC",HP0094(),BioCyc
+HP_RS02495-MONOMER,"PG-modifying enzyme, HdpA",HP0506(),BioCyc
+HP_RS00070-MONOMER,chaperonin GroS monomer,HP0011(),BioCyc
+HP_RS04475-MONOMER,Hypothetical protein HP0918,HP0918(),BioCyc
+HP_RS06500-MONOMER,50S ribosomal protein L23,HP1317(),BioCyc
+HP_RS00390-MONOMER,30S ribosomal protein S20,HP0076(),BioCyc
+HP_RS02410-MONOMER,Outer membrane protein HofD,HP0487(),BioCyc
+HP_RS04365-MONOMER,antitoxin protein HP0895,HP0895(),BioCyc
+HP_RS04350-MONOMER,addiction module toxin protein HP0892,HP0892(),BioCyc
+HP_RS06405-MONOMER,Translation initiation factor IF-1,HP1298(1),BioCyc
+HP_RS02305-MONOMER,TerB domain-containing protein,HP0466(),BioCyc
+HP_RS04255-MONOMER,uncharacterized protein,HP0872(),BioCyc
+HP_RS06325-MONOMER,Anthranilate synthase component I,HP1282(),BioCyc
+HP_RS02220-MONOMER,Hypothetical protein HP0449,HP0449(),BioCyc
+HP_RS04185-MONOMER,Bifunctional protein hldE (D-beta-D-heptose 7-phosphate kinase/D-beta-D-heptose 1-phosphate adenosyltransferase),HP0858(2),BioCyc
+HP_RS06245-MONOMER,ferredoxin-menaquinone dehydrogenase subunit G,HP1266(),BioCyc
+HP_RS02100-MONOMER,Hypothetical protein HP0424,HP0424(),BioCyc
+HP_RS04100-MONOMER,"UDP-N-acetylglucosamine 4,6-dehydratase",HP0840(),BioCyc
+HP_RS06160-MONOMER,Shikimate 5-dehydrogenase,HP1249(1),BioCyc
+HP_RS01995-MONOMER,NifS-like protein,HP0405(),BioCyc
+HP_RS04010-MONOMER,Homoserine dehydrogenase,HP0822(),BioCyc
+HP_RS06080-MONOMER,bifunctional dihydropteroate synthase/dihydropteroate reductase,HP1232(2),BioCyc
+HP_RS01915-MONOMER,superoxide dismutase SodB,HP0389(2),BioCyc
+HP_RS03925-MONOMER,Metalloprotease,HP0806(),BioCyc
+HP_RS05990-MONOMER,F0F1 ATP synthase subunit C AtpE,HP1212(),BioCyc
+MONOMER2DNV-16,,G2DNV-15(),BioCyc
+HP_RS01835-MONOMER,Outer membrane protein HomC,HP0373(),BioCyc
+HP_RS03845-MONOMER,Type I restriction-modification system S protein S.HpyAXIII,HP0790(),BioCyc
+HP_RS05870-MONOMER,Elongation factor G,HP1195(1),BioCyc
+HP_RS07835-MONOMER,4-hydroxythreonine-4-phosphate dehydrogenase,HP1583(2),BioCyc
+HP_RS01735-MONOMER,1-deoxy-D-xylulose-5-phosphate synthase,HP0354(2),BioCyc
+HP_RS03755-MONOMER,Hypothetical protein HP0771,HP0771(),BioCyc
+HP_RS05780-MONOMER,CEACAM-binding adhesin HopQ,HP1177(),BioCyc
+HP_RS07755-MONOMER,Ribosome biogenesis GTP-binding protein YsxC,HP1567(),BioCyc
+HP_RS01645-MONOMER,DNA protecting protein DprA,HP0333(),BioCyc
+HP_RS03670-MONOMER,flagellar filament capping protein,HP0752(),BioCyc
+HP_RS05700-MONOMER,endoribonuclease YbeY,HP1160(),BioCyc
+HP_RS07675-MONOMER,sodium:proton antiporter NhaA,HP1552(2),BioCyc
+HP_RS01560-MONOMER,outer membrane protein BabC/HopU,HP0317(),BioCyc
+HP_RS03585-MONOMER,phosphatidylglycerophosphatase A PgpA,HP0737(1),BioCyc
+HP_RS05605-MONOMER,Methionyl-tRNA formyltransferase,HP1141(1),BioCyc
+HP_RS07595-MONOMER,hypothetical protein,HP_RS07595(),BioCyc
+HP_RS01480-MONOMER,"peptide ABC transporter, membrane protein DppC",HP0300(),BioCyc
+HP_RS03495-MONOMER,DNA polymerase III subunits gamma and tau,HP0717(),BioCyc
+HP_RS05520-MONOMER,nickel-binding protein SlyD,HP1123(),BioCyc
+HP_RS07505-MONOMER,Type IIG restriction-modification system M protein M.HpyAXIV,HP1517(),BioCyc
+HP_RS01400-MONOMER,putative small conductance mechanosensitive channel,HP0284(),BioCyc
+HP_RS03410-MONOMER,Acetone carboxylase subunit gamma,HP0697(),BioCyc
+HP_RS05440-MONOMER,Pyruvate flavodoxin oxidoreductase subunit gamma PorG,HP1108(),BioCyc
+HP_RS07420-MONOMER,putative lipopolysaccharide transport system protein LptG,HP1498(),BioCyc
+HP_RS01320-MONOMER,HP0268 domain-containing protein,HP0268(),BioCyc
+HP_RS03320-MONOMER,Methylated-DNA--protein-cysteine methyltransferase,HP0676(),BioCyc
+HP_RS05360-MONOMER,DNA translocase FtsK,HP1090(),BioCyc
+HP_RS07340-MONOMER,Exodeoxyribonuclease VII small subunit,HP1482(),BioCyc
+HP_RS01225-MONOMER,Hypothetical protein HP0249,HP0249(),BioCyc
+HP_RS03230-MONOMER,putative outer membrane protein assembly factor BamA,HP0655(),BioCyc
+HP_RS05280-MONOMER,Hypothetical protein HP1074,HP1074(),BioCyc
+HP_RS07260-MONOMER,ABC transporter membrane protein,HP1466(),BioCyc
+HP_RS01145-MONOMER,Glutathionylspermidine synthase,HP0233(),BioCyc
+HP_RS03150-MONOMER,7-cyano-7-deazaguanine synthase,HP0639(1),BioCyc
+HP_RS05195-MONOMER,Hypothetical protein HP1057,HP1057(),BioCyc
+HP_RS07180-MONOMER,membrane protein insertase YidC,HP1450(1),BioCyc
+HP_RS01055-MONOMER,Phosphatidate cytidylyltransferase,HP0215(1),BioCyc
+HP_RS03065-MONOMER,Putative membrane protein HP0622,HP0622(),BioCyc
+HP_RS05115-MONOMER,flagellar export protein FlhA,HP1041(),BioCyc
+HP_RS07090-MONOMER,Hypothetical protein HP1433,HP1433(),BioCyc
+HP_RS00960-MONOMER,S-adenosylmethionine synthetase,HP0197(4),BioCyc
+HP_RS02980-MONOMER,Uroporphyrinogen decarboxylase HemE,HP0604(1),BioCyc
+HP_RS05035-MONOMER,heat shock protein HspR,HP1025(),BioCyc
+HP_RS07005-MONOMER,"core oligosaccharide &alpha;-(1,4)-glucosyltransferase",HP1416(),BioCyc
+HP_RS00875-MONOMER,ABC transporter ATP-binding protein,HP0179(),BioCyc
+HP_RS07525-MONOMER,inactive Type III restriction-modification system M protein (Mod),HP1522(),BioCyc
+HP_RS02895-MONOMER,Aminodeoxychorismate lyase,HP0587(),BioCyc
+HP_RS04930-MONOMER,ICEHptfs4 protein V7,HP1005(),BioCyc
+HP_RS06910-MONOMER,arginase,HP1399(),BioCyc
+HP_RS00795-MONOMER,Probable transcriptional regulatory protein HP0162,HP0162(),BioCyc
+HP_RS02815-MONOMER,Adenine phosphoribosyltransferase,HP0572(2),BioCyc
+HP_RS04830-MONOMER,hypothetical protein,HP_RS04830(),BioCyc
+HP_RS06825-MONOMER,Putative endonuclease G NucG,HP1382(),BioCyc
+HP_RS00715-MONOMER,"Cbb3-type cytochrome c oxidase, monoheme subunit",HP0145(),BioCyc
+HP_RS02735-MONOMER,Hypothetical protein HP05555,HP0555(),BioCyc
+HP_RS00305-MONOMER,Hypothetical protein HP0060,HP0060(),BioCyc
+HP_RS04745-MONOMER,"Ni<sup>2+</sup>/Zn<sup>2+</sup>/Cd<sup>2+</sup> efflux pump, periplasmic adaptor protein",HP0970(),BioCyc
+HP_RS06740-MONOMER,[transcriptional regulator CrdR] histidine kinase,HP1364(),BioCyc
+HP_RS00630-MONOMER,50S ribosomal protein L35,HP0125(),BioCyc
+HP_RS02645-MONOMER,CagN protein,HP0538(),BioCyc
+HP_RS00225-MONOMER,Mannose-6-phosphate isomerase,HP0043(1),BioCyc
+HP_RS04655-MONOMER,recombination protein RecO,HP0951(),BioCyc
+HP_RS06645-MONOMER,Glyceraldehyde-3-phosphate dehydrogenase,HP1346(4),BioCyc
+HP_RS00545-MONOMER,cystathionine &beta;-synthase (<em>O</em>-acetyl-<small>L</small>-serine) monomer,HP0107(2),BioCyc
+HP_RS02565-MONOMER,Cag pathogenicity island protein Cag&zeta;,HP0520(),BioCyc
+HP_RS00140-MONOMER,hypothetical protein,HP_RS00140(),BioCyc
+HP_RS04545-MONOMER,"6-carboxy-5,6,7,8-tetrahydropterin synthase",HP0933(),BioCyc
+HP_RS06565-MONOMER,"putative branched-chain amino acid efflux pump, AzlD family protein",HP1330(),BioCyc
+HP_RS00455-MONOMER,malonyl CoA-[acyl carrier protein] transacylase,HP0090(),BioCyc
+HP_RS02475-MONOMER,DNA polymerase III subunit beta,HP0500(),BioCyc
+HP_RS06935-MONOMER,Type I restriction enzyme S protein HsdS,HP1404(),BioCyc
+HP_RS00030-MONOMER,Pantoate-beta-alanine ligase PanC,HP0006(2),BioCyc
+HP_RS04455-MONOMER,outer membrane protein AlpA/HopC,HP0912(),BioCyc
+HP_RS06485-MONOMER,50S ribosomal protein L22,HP1314(1),BioCyc
+HP_RS00370-MONOMER,urease subunit alpha UreA,HP0073(),BioCyc
+HP_RS02395-MONOMER,inactive Type IIP restriction-modification system R protein,HP0484(),BioCyc
+HP_RS04335-MONOMER,"Ni<sup>2+</sup> ABC transporter, membrane protein NiuD",HP0889(),BioCyc
+HP_RS06390-MONOMER,30S ribosomal protein S11,HP1295(1),BioCyc
+HP_RS04235-MONOMER,protein HP0868,HP0868(),BioCyc
+HP_RS06310-MONOMER,Bifunctional indole-3-glycerol phosphate synthase/phosphoribosylanthranilate isomerase,HP1279(1),BioCyc
+HP_RS02195-MONOMER,Hypothetical protein HP0444,HP0444(),BioCyc
+HP_RS04170-MONOMER,peptidoglycan <i>O</i>-acetyltransferase,HP0855(),BioCyc
+HP_RS06230-MONOMER,ferredoxin-menaquinone dehydrogenase subunit D,HP1263(),BioCyc
+HP_RS02085-MONOMER,,HP0421(),BioCyc
+HP_RS04075-MONOMER,DNA-binding protein HU,HP0835(),BioCyc
+HP_RS06145-MONOMER,30S ribosomal protein S6,HP1246(1),BioCyc
+HP_RS01980-MONOMER,Phenylalanyl-tRNA synthetase subunit beta PheT,HP0402(),BioCyc
+HP_RS03995-MONOMER,hypothetical protein,HP0819a(),BioCyc
+HP_RS06065-MONOMER,Aspartate kinase LysC,HP1229(4),BioCyc
+HP_RS02280-MONOMER,ICEHptfs3 protein C14,HP0460(),BioCyc
+HP_RS01900-MONOMER,Uncharacterized protein HP0386,HP0386(),BioCyc
+HP_RS03910-MONOMER,DUF3943 domain-containing protein,HP0803(),BioCyc
+HP_RS05960-MONOMER,Haloacid dehalogenase,HP1207(),BioCyc
+HP_RS01820-MONOMER,Biotin carboxylase AccC,HP0370(),BioCyc
+HP_RS03830-MONOMER,protein translocation ATPase SecA,HP0786(1),BioCyc
+HP_RS05855-MONOMER,lipopolysaccharide heptosyltransferase II,HP1191(1),BioCyc
+HP_RS07820-MONOMER,lipid A 4'-phosphatase,HP1580(),BioCyc
+HP_RS01720-MONOMER,flagellar basal-body MS-ring and collar protein,HP0351(),BioCyc
+HP_RS03740-MONOMER,Molybdenum cofactor biosynthesis protein A MoaA,HP0768(),BioCyc
+HP_RS05765-MONOMER,Hypothetical protein HP1173,HP1173(),BioCyc
+HP_RS07740-MONOMER,D-methionine ABC transporter substrate-binding protein,HP1564(),BioCyc
+HP_RS01630-MONOMER,Ketol-acid reductoisomerase IlvC,HP0330(4),BioCyc
+HP_RS03655-MONOMER,cell division protein FtsX,HP0749(),BioCyc
+HP_RS05685-MONOMER,outer membrane protein HopL,HP1157(),BioCyc
+HP_RS07660-MONOMER,Sec translocon accessory subunit SecF,HP1549(),BioCyc
+HP_RS01545-MONOMER,nitrate:nitrite antiporter NarK,HP0313(),BioCyc
+HP_RS07715-MONOMER,flagellar basal-body rod protein FlgB,HP1559(),BioCyc
+HP_RS03570-MONOMER,Ribosomal protein S12 methylthiotransferase RimO,HP0734(),BioCyc
+HP_RS05590-MONOMER,Plasmid replication-partition related protein,HP1138(),BioCyc
+HP_RS07580-MONOMER,FAD-dependent thymidylate synthase ThyX,HP1533(),BioCyc
+HP_RS01465-MONOMER,50S ribosomal protein L27,HP0297(1),BioCyc
+HP_RS03480-MONOMER,RNA polymerase factor &sigma;<sup>54</sup>,HP0714(1),BioCyc
+HP_RS05505-MONOMER,Type IIP restriction-modification system M protein M.HpyAVIII,HP1121(),BioCyc
+HP_RS07490-MONOMER,Selenocysteine synthase SelA,HP1513(10),BioCyc
+HP_RS01385-MONOMER,queuine tRNA-ribosyltransferase,HP0281(6),BioCyc
+HP_RS03395-MONOMER,lipid A 3'-<i>O</i>-acyloxyacylase,HP0694(),BioCyc
+HP_RS05425-MONOMER,"H. pylori LPS &beta;-(1,3)-<i>N</i>-acetylglucosaminyltransferase",HP1105(),BioCyc
+HP_RS07405-MONOMER,Transaldolase,HP1495(),BioCyc
+HP_RS01305-MONOMER,thioredoxin:protein disulfide reductase CcdA,HP0265(),BioCyc
+HP_RS03300-MONOMER,outer membrane protein HorF,HP0671(),BioCyc
+HP_RS05345-MONOMER,Bifunctional riboflavin kinase/FMN adenylyltransferase,HP1087(1),BioCyc
+HP_RS07325-MONOMER,Hypothetical protein HP1479,HP1479(),BioCyc
+HP_RS01210-MONOMER,flagellar basal-body P-ring protein FlgI,HP0246(),BioCyc
+HP_RS03215-MONOMER,Phosphoserine phosphatase SerB,HP0652(1),BioCyc
+HP_RS05265-MONOMER,CDP-diacylglycerol--serine O-phosphatidyltransferase,HP1071(),BioCyc
+HP_RS07245-MONOMER,Hypothetical protein HP1463,HP1463(),BioCyc
+HP_RS01125-MONOMER,outer membrane porin HopA,HP0229(),BioCyc
+HP_RS03130-MONOMER,[NiFe]-hydrogenase maturation protein HydE,HP0635(),BioCyc
+HP_RS05180-MONOMER,Hypothetical protein HP1054,HP1054(),BioCyc
+HP_RS07165-MONOMER,50S ribosomal protein L34,HP1447(),BioCyc
+HP_RS01040-MONOMER,succinyl-diaminopimelate desuccinylase,HP0212(4),BioCyc
+HP_RS01135-MONOMER,protein dithiol oxidoreductase (disulfide-forming) DsbK,HP0231(),BioCyc
+HP_RS03050-MONOMER,glycosyltransferase family 25 protein,HP_RS03050(),BioCyc
+HP_RS05100-MONOMER,3-dehydroquinate dehydratase monomer,HP1038(),BioCyc
+HP_RS04130-MONOMER,Type I restriction-modification system R protein R.HpyAXIII,HP0846(),BioCyc
+HP_RS07075-MONOMER,Ribonuclease J,HP1430(),BioCyc
+HP_RS00945-MONOMER,Triosephosphate isomerase,HP0194(2),BioCyc
+HP_RS02695-MONOMER,CagA protein,HP0547(),BioCyc
+HP_RS02965-MONOMER,flagellar filament structural protein FlaA,HP0601(),BioCyc
+HP_RS05020-MONOMER,5'-3' exonuclease,HP1022(),BioCyc
+HP_RS06990-MONOMER,NADPH-dependent 7-cyano-7-deazaguanine reductase,HP1413(2),BioCyc
+HP_RS00860-MONOMER,Fructose-bisphosphate aldolase,HP0176(),BioCyc
+HP_RS02880-MONOMER,Endonuclease III,HP0585(),BioCyc
+HP_RS04910-MONOMER,ICEHptfs4 protein C7,HP1000(),BioCyc
+HP_RS06890-MONOMER,Putative inorganic polyphosphate/ATP-NAD kinase PpnK,HP1394(6),BioCyc
+HP_RS00780-MONOMER,N-linked glycosylation glycosyltransferase,HP0158(),BioCyc
+HP_RS02800-MONOMER,Ribosome-binding ATPase YchF,HP0569(),BioCyc
+HP_RS00695-MONOMER,lactate transporter LctP2,HP0141(),BioCyc
+HP_RS04810-MONOMER,hypothetical protein,HP_RS04810(),BioCyc
+CPLX2DNV-1052,50S ribosomal subunit,HPr01() AND HPr02() AND HP1201() AND HP1316() AND HP1319() AND HP1318() AND HP1307() AND HP1304() AND HP1200() AND HP1199() AND HP0514() AND HP1202() AND HP0084() AND HP1309() AND HP1301() AND HP1312() AND HP1292() AND HP1303() AND HP1147() AND HP0126() AND HP0296() AND HP1314() AND HP1317() AND HP1308() AND HP1496() AND HP0297() AND HP0491() AND HP1311() AND HP0551() AND HP0200() AND HP1204() AND HP1447() AND HP0125() AND HP1297(),BioCyc
+HP_RS06810-MONOMER,ATP-dependent protease La,HP1379(),BioCyc
+CPLX2DNV-1053,30S ribosomal subunit,HP0562() AND HP0076() AND HP1315() AND HP1244() AND HP1310() AND HP1151() AND HP1040() AND HP1306() AND HP1296() AND HP1197() AND HP1295() AND HP1320() AND HP0083() AND HP1305() AND HP1196() AND HP1246() AND HP1302() AND HP1294() AND HP1313() AND HP1554() AND HP0399() AND HPr04(),BioCyc
+HP_RS02290-MONOMER,inactive Type I restriction-modofication system M protein,HP0463(),BioCyc
+HP_RS02720-MONOMER,Ribosomal RNA small subunit methyltransferase I,HP0552(),BioCyc
+HP_RS00290-MONOMER,Hypothetical protein HP0057,HP0057(),BioCyc
+HP_RS04725-MONOMER,Hypothetical protein HP0966,HP0966(),BioCyc
+HP_RS06725-MONOMER,competence protein ComE,HP1361(),BioCyc
+HP_RS00615-MONOMER,Phosphoenolpyruvate synthase,HP0121(2),BioCyc
+HP_RS02630-MONOMER,CagQ protein,HP0535(),BioCyc
+HP_RS00210-MONOMER,ComB8 competence protein,HP0038(),BioCyc
+HP_RS04640-MONOMER,Hypothetical protein HP0948,HP0948(),BioCyc
+HP_RS06630-MONOMER,Integral membrane protein,HP1343(),BioCyc
+HP_RS00530-MONOMER,"2',3'-cyclic-nucleotide 2'-phosphodiesterase",HP0104(1),BioCyc
+HP_RS06055-MONOMER,cytochrome <i>c</i><sub>553</sub>,HP1227(),BioCyc
+HP_RS02550-MONOMER,GTP-binding protein Era,HP0517(2),BioCyc
+HP_RS00125-MONOMER,lipid A 1-phosphatase,HP0021(),BioCyc
+HP_RS02245-MONOMER,integrase-resolvase,HP_RS02245(),BioCyc
+HP_RS04525-MONOMER,GTP cyclohydrolase I,HP0928(10),BioCyc
+HP_RS06550-MONOMER,copper efflux pump outer membrane channel,HP1327(),BioCyc
+HP_RS00440-MONOMER,Putative lipoprotein,HP0087(),BioCyc
+HP_RS02460-MONOMER,putative solute:Na<sup>+</sup> symporter,HP0497(),BioCyc
+HP_RS00015-MONOMER,2-dehydro-3-deoxyphosphooctonate aldolase,HP0003(4),BioCyc
+HP_RS04440-MONOMER,inactive Type IIP restriction-modification system R protein R.HpyAIX,HP0909(),BioCyc
+HP_RS06470-MONOMER,50S ribosomal protein L29,HP1311(),BioCyc
+HP_RS00355-MONOMER,nickel-carrier protein UreE monomer,HP0070(),BioCyc
+HP_RS02370-MONOMER,"<i>H. pylroi</i> LPS trisaccharide &alpha;-(1,3)-DD-Hep transferase",HP0479(),BioCyc
+HP_RS04320-MONOMER,Cysteinyl-tRNA synthetase,HP0886(1),BioCyc
+HP_RS06375-MONOMER,50S ribosomal protein L17,HP1292(1),BioCyc
+HP_RS02275-MONOMER,ICEHptfs3 protein C17,HP0459(),BioCyc
+HP_RS06295-MONOMER,Hypothetical protein HP1276,HP1276(),BioCyc
+HP_RS02180-MONOMER,ICEHptfs4 protein C17.2,HP0441(),BioCyc
+HP_RS00265-MONOMER,Type IIS restriction-modification system R protein R.HpyAVI,HP0052(),BioCyc
+HP_RS04155-MONOMER,Putative HrgA like protein,HP0852(),BioCyc
+HP_RS06215-MONOMER,ferredoxin-menaquinone dehydrogenase subunit A,HP1260(),BioCyc
+HP_RS02070-MONOMER,Ferrochelatase,HP0418(),BioCyc
+HP_RS04060-MONOMER,spermidine synthase,HP0832(),BioCyc
+HP_RS06130-MONOMER,blood group antigen binding adhesin BabA/HopS,HP1243(),BioCyc
+HP_RS01965-MONOMER,30S ribosomal protein S1,HP0399(1),BioCyc
+HP_RS03980-MONOMER,Hypothetical protein HP0817,HP0817(),BioCyc
+HP_RS06045-MONOMER,Camphor resistance protein CrcB,HP1225(),BioCyc
+HP_RS01885-MONOMER,Hypothetical protein HP0383,HP0383(),BioCyc
+HP_RS03895-MONOMER,Molybdopterin converting factor subunit 2 MoaE,HP0800(),BioCyc
+HP_RS05925-MONOMER,50S ribosomal protein L33,HP1204(),BioCyc
+HP_RS07910-MONOMER,hypothetical protein,HP_RS07910(),BioCyc
+HP_RS01800-MONOMER,UDP-4-keto-6-deoxy-N-acetylglucosamine 4-aminotransferase,HP0366(1),BioCyc
+HP_RS03805-MONOMER,Hypothetical protein HP0781,HP0781(),BioCyc
+HP_RS05835-MONOMER,Hypothetical protein HP1187,HP1187(),BioCyc
+HP_RS07805-MONOMER,"ABC transporter, membrane protein",HP1577(),BioCyc
+HP_RS01705-MONOMER,Single-stranded-DNA-specific exonuclease RecJ,HP0348(),BioCyc
+HP_RS03725-MONOMER,Proteobacterial sortase system OmpA family protein,HP0764(),BioCyc
+HP_RS04135-MONOMER,inactive type I restriction enzyme S protein S.HpyAXIIIN,HP0848(),BioCyc
+HP_RS05750-MONOMER,"L-glutamine ABC transporter, permease protein",HP1170(),BioCyc
+HP_RS07725-MONOMER,periplasmic Ni<sup>2+</sup>-binding protein NiuB1,HP1561(),BioCyc
+HP_RS01610-MONOMER,"UDP-4-amino-4,6-dideoxy-N-acetyl-beta-L-altrosamine N-acetyltransferase",HP0327(),BioCyc
+HP_RS03640-MONOMER,Hypothetical protein HP0746,HP0746(),BioCyc
+HP_RS05670-MONOMER,flagellar assembly protein FliW,HP1154(),BioCyc
+HP_RS07645-MONOMER,putative lipopolysaccharide assembly protein LptE,HP1546(),BioCyc
+HP_RS01530-MONOMER,peptidoglycan-<em>N</em>-acetylglucosamine deacetylase,HP0310(),BioCyc
+HP_RS03550-MONOMER,Hypothetical protein HP0729,HP0729(),BioCyc
+HP_RS05575-MONOMER,"F0F1 ATP synthase subunit delta, AtpH",HP1135(),BioCyc
+HP_RS07565-MONOMER,Purine nucleoside phosphorylase PunB,HP1530(),BioCyc
+HP_RS01450-MONOMER,acylamide amidohydrolase AmiE,HP0294(),BioCyc
+HP_RS03460-MONOMER,Acetolactate synthase 3 regulatory subunit,HP0709(),BioCyc
+HP_RS05490-MONOMER,&gamma;-glutamyltransferase Ggt precursor,HP1118(1),BioCyc
+HP_RS07475-MONOMER,Dihydroneopterin aldolase FolB,HP1510(),BioCyc
+HP_RS01370-MONOMER,Guanosine pentaphosphate phosphohydrolase GppA,HP0278(2),BioCyc
+HP_RS03380-MONOMER,succinyl-CoA-transferase subunit A,HP0691(),BioCyc
+HP_RS05410-MONOMER,6-phosphogluconolactonase,HP1102(),BioCyc
+HP_RS07390-MONOMER,NifU-like protein HP1492,HP1492(),BioCyc
+HP_RS01285-MONOMER,Hypothetical protein HP0261,HP0261(),BioCyc
+HP_RS03280-MONOMER,Coproporphyrinogen III oxidase HemN,HP0665(1),BioCyc
+HP_RS05330-MONOMER,Aspartate carbamoyltransferase PyrB,HP1084(3),BioCyc
+HP_RS07310-MONOMER,6-carboxy-2-demethylmenaquinol decarboxylase MqnM,HP1476(),BioCyc
+HP_RS01195-MONOMER,neutrophil activating protein NapA (bacterioferritin),HP0243(),BioCyc
+HP_RS03200-MONOMER,Aspartate ammonia-lyase AspA,HP0649(4),BioCyc
+HP_RS05250-MONOMER,chemotaxis response regulator CheY1,HP1067(),BioCyc
+HP_RS07230-MONOMER,DNA polymerase III subunit alpha DnaE,HP1460(),BioCyc
+HP_RS01105-MONOMER,putative transporter,HP0226(),BioCyc
+HP_RS03115-MONOMER,Quinone-reactive Ni/Fe hydrogenase HydB,HP0632(),BioCyc
+HP_RS05165-MONOMER,Universal bacterial protein YeaZ,HP1051(),BioCyc
+HP_RS07150-MONOMER,SsrA-binding protein,HP1444(),BioCyc
+HP_RS01025-MONOMER,Outer membrane protein HofA,HP0209(),BioCyc
+HP_RS03035-MONOMER,Aspartyl-tRNA synthetase,HP0617(2),BioCyc
+HP_RS05085-MONOMER,flagellar biosynthesis regulator FlhF,HP1035(),BioCyc
+HP_RS07060-MONOMER,<i>apo</i>-Ni<sup>2+</sup>-binding protein Hpn monomer,HP1427(),BioCyc
+HP_RS00930-MONOMER,Fumarate reductase iron-sulfur subunit FrdB,HP0191(),BioCyc
+HP_RS02950-MONOMER,8-amino-7-oxononanoate synthase,HP0598(2),BioCyc
+HP_RS03355-MONOMER,flagellar type III secretion system pore protein FliP,HP0684(),BioCyc
+HP_RS05000-MONOMER,arginine transporter,HP1017(1),BioCyc
+HP_RS06975-MONOMER,Hypothetical protein HP1410,HP1410(),BioCyc
+HP_RS00845-MONOMER,Flagellar biosynthesis protein FliR,HP0173(),BioCyc
+HP_RS02865-MONOMER,TonB-like protein HP0582,HP0582(),BioCyc
+HP_RS04890-MONOMER,ICEHptfs3 protein C9,HP0996(),BioCyc
+HP_RS06875-MONOMER,Hypothetical protein HP1391,HP1391(),BioCyc
+HP_RS00765-MONOMER,hypothetical protein,HP0155(),BioCyc
+HP_RS02785-MONOMER,Diaminopimelate epimerase DapF,HP0566(1),BioCyc
+HP_RS04795-MONOMER,RIP metalloprotease RseP,HP0980(),BioCyc
+HP_RS06795-MONOMER,FabZ monomer,HP1376(),BioCyc
+HP_RS00680-MONOMER,"putative NAD-dependent lactate dehydrogenase, iron-sulfur protein",HP0138(),BioCyc
+HP_RS02705-MONOMER,Glutamate racemase,HP0549(2),BioCyc
+HP_RS00275-MONOMER,Type IIS restriction-modification system M protein M.HpyAV,HP0054(),BioCyc
+HP_RS04705-MONOMER,NAD(P)H-dependent glycerol-3-phosphate dehydrogenase,HP0961(2),BioCyc
+HP_RS06710-MONOMER,Hypothetical protein HP1358,HP1358(),BioCyc
+HP_RS00600-MONOMER,DUF874 family protein HP0118,HP0118(),BioCyc
+HP_RS02615-MONOMER,CagU protein,HP0531(),BioCyc
+HP_RS00190-MONOMER,Transcriptional regulatory protein,HP0035(),BioCyc
+HP_RS04610-MONOMER,TRL family protein,HP0944a(),BioCyc
+HP_RS06615-MONOMER,energy-transducing Ton complex subunit ExbD,HP1340(),BioCyc
+HP_RS00515-MONOMER,Putative membrane protein HP0101,HP0101(),BioCyc
+HP_RS02535-MONOMER,50S ribosomal protein L9,HP0514(1),BioCyc
+HP_RS00110-MONOMER,Hypothetical protein HP0018,HP0018(),BioCyc
+HP_RS04510-MONOMER,recombination protein RecR,HP0925(),BioCyc
+HP_RS06535-MONOMER,Hypothetical protein HP1324,HP1324(),BioCyc
+HP_RS00425-MONOMER,50S ribosomal protein L13,HP0084(1),BioCyc
+HP_RS02445-MONOMER,UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase,HP0494(1),BioCyc
+HP_RS04425-MONOMER,flagellar hook-length control protein FliK,HP0906(),BioCyc
+HP_RS06455-MONOMER,50S ribosomal protein L24,HP1308(),BioCyc
+HP_RS00340-MONOMER,urease accessory protein UreD,HP0067(),BioCyc
+HP_RS02355-MONOMER,glutamyl-tRNA synthetase,HP0476(1),BioCyc
+MONOMER2DNV-9,&gamma;-glutamyltransferase Ggt &alpha; subunit,HP1118(1),BioCyc
+MONOMER2DNV-10,&gamma;-glutamyltransferase Ggt &beta; subunit,HP1118(1),BioCyc
+MONOMER2DNV-17,Ni<sup>2+</sup>-bound Hpn monomer,HP1427(),BioCyc
+MONOMER2DNV-20,Ni<sup>2+</sup>-bound Hpn2 monomer,HP1432(),BioCyc
+CPLX2DNV-1121,nickel-bound nickel response regulator NikR monomer,HP1338(),BioCyc
+CPLX2DNV-986,,HP0950() AND HP0557(),BioCyc
+CPLX2DNV-970,urease heterodimer,HP0072(2) AND HP0073(2),BioCyc
+CPLX2DNV-1172,ABC-type tripartite efflux pump,HP1489() AND HP1488() AND HP1487(),BioCyc
+CPLX2DNV-1145,energy-transducing Ton complex,HP1340() AND HP1339() AND HP1341(),BioCyc
+CPLX2DNV-1126,50S ribosomal protein complex L8,HP1199() AND HP1200(),BioCyc
+CPLX2DNV-1107,Tfs4 type IV secretion system,HP1009() AND HP1000() AND HP1001() AND HP1006() AND HP0439() AND HP0440() AND HP0441() AND HP0442() AND HP0443() AND HP0446() AND HP1005(),BioCyc
+CPLX2DNV-1087,Ni<sup>2+</sup> ABC transporter NiuDE,HP0889() AND HP0888(),BioCyc
+CPLX2DNV-1047,cystathionine &beta;-synthase (<em>O</em>-acetyl-<small>L</small>-serine),HP0107(2),BioCyc
+CPLX-7739,"UDP-<i>N</i>-acetylglucosamine 4,6-dehydratase (inverting)",HP0840(),BioCyc
+CPLX2DNV-983,Acetyl-CoA carboxylase,HP0371(2) AND HP0950(2) AND HP0557(2) AND HP0370(2),BioCyc
+CPLX2DNV-967,5-carboxymethylaminomethyluridine-tRNA synthase,HP1452(2) AND HP0213(2),BioCyc
+CPLX2DNV-1169,"putative transporter, branched-chain amino acid exporter family",HP1330() AND HP1331(),BioCyc
+CPLX2DNV-1142,urease trimer of dimers,HP0073(2) AND HP0072(2),BioCyc
+CPLX2DNV-1120,glutathione &gamma;-glutamate hydrolase,HP1118(1),BioCyc
+CPLX2DNV-1104,AddAB helicase/exodeoxyribonuclease,HP1089() AND HP1553(),BioCyc
+CPLX2DNV-1083,flagellar basal-body L-ring,HP0325(),BioCyc
+CPLX2DNV-1044,ATPase F<sub>o</sub> complex,HP1137() AND HP1136() AND HP1212() AND HP0828(),BioCyc
+CPLX2DNV-980,carbamoyl phosphate synthase,HP1237(2) AND HP0919(2),BioCyc
+CPLX2DNV-963,DNA gyrase,HP0501() AND HP0701(),BioCyc
+CPLX2DNV-1163,outer membrane nonselective porin HopE,HP0706(),BioCyc
+CPLX2DNV-1136,inactive Type I restriction-modification system,HP1404() AND HP1402() AND HP1403(),BioCyc
+CPLX2DNV-1117,acyl-CoA thioesterase YbgC,HP0496(1),BioCyc
+CPLX2DNV-1101,ATP-dependent ClpAP protease,HP0794() AND HP0033(),BioCyc
+CPLX2DNV-1080,flagellar basal-body MS-ring,HP0351(),BioCyc
+CPLX2DNV-1041,quinone-reactive Ni/Fe hydrogenase,HP0633() AND HP0631() AND HP0632(),BioCyc
+CPLX2DNV-977,<i>cbb</i><sub>3</sub>-type cytochrome c oxidase,HP0144() AND HP0145() AND HP0146() AND HP0147(),BioCyc
+CPLX2DNV-1183,enoyl-[acyl-carrier-protein] reductase (NADH),HP0195(1),BioCyc
+CPLX2DNV-1157,TNF&alpha;-inducing protein,HP0596(),BioCyc
+CPLX2DNV-1133,chaperonin GroL-GroS complex,HP0010() AND HP0011(),BioCyc
+CPLX2DNV-1114,replicative DNA helicase DnaB,HP1362(),BioCyc
+CPLX2DNV-1098,CagV dimer,HP0530(2),BioCyc
+CPLX2DNV-1069,flagellar motor stator complex,HP0816() AND HP0815(),BioCyc
+CPLX2DNV-1038,heme chaperone HemW,HP1226(),BioCyc
+CPLX2DNV-974,ribonucleotide-diphosphate reductase,HP0680(2) AND HP0364(2),BioCyc
+CPLX2DNV-1177,HypA/HypB complex,HP0900() AND HP0869(),BioCyc
+CPLX2DNV-1152,"GDP-mannose 4,6-dehydratase",HP0044(2),BioCyc
+CPLX2DNV-1130,chaperonin GroL heptamer,HP0010(14),BioCyc
+CPLX2DNV-1111,oxygen-insensitive NADPH-dependent nitroreductase,HP0954(2),BioCyc
+CPLX2DNV-1094,Type IIS restriction-modification system M1 protein M1.HpyAVI,HP0050(),BioCyc
+CPLX2DNV-1065,flagellar hook,HP0908() AND HP0870(),BioCyc
+CPLX-9289,citrate synthase,HP0026(6),BioCyc
+CPLX2DNV-987,Kdo hydrolase,HP0580() AND HP0579(),BioCyc
+CPLX2DNV-971,ATP-dependent protease HslUV,HP0515() AND HP0516(),BioCyc
+CPLX2DNV-1174,putative NAD-dependent L-lactate dehydrogenase,HP0139() AND HP0138() AND HP0137(),BioCyc
+CPLX2DNV-1146,FrpB4-TonB nickel transporter,HP1341() AND HP1339() AND HP1340() AND HP1512(),BioCyc
+CPLX2DNV-1127,ribosome,HPr04() AND HP0399() AND HP1554() AND HP1313() AND HP1294() AND HP1302() AND HP1246() AND HP1196() AND HP1305() AND HP0083() AND HP1320() AND HP1295() AND HP1197() AND HP1296() AND HP1306() AND HP1040() AND HP1151() AND HP1310() AND HP1244() AND HP1315() AND HP0076() AND HP0562() AND HP1297() AND HP0125() AND HP1447() AND HP1204() AND HP0200() AND HP0551() AND HP1311() AND HP0491() AND HP0297() AND HP1496() AND HP1308() AND HP1317() AND HP1314() AND HP0296() AND HP0126() AND HP1147() AND HP1303() AND HP1292() AND HP1312() AND HP1301() AND HP1309() AND HP0084() AND HP1202() AND HP0514() AND HP1199() AND HP1200() AND HP1304() AND HP1307() AND HP1318() AND HP1319() AND HP1316() AND HP1201() AND HPr02() AND HPr01(),BioCyc
+CPLX2DNV-1108,FAD-dependent thymidylate synthase,HP1533(),BioCyc
+CPLX2DNV-1089,L-glutamine ABC transporter,HP1169() AND HP1170() AND HP1171() AND HP1172(),BioCyc
+CPLX2DNV-1062,flagellar motor switch complex,HP1030() AND HP0584() AND HP1031() AND HP0352(),BioCyc
+CPLX-7740,,HP0366(1),BioCyc
+CPLX2DNV-984,aspartyl/glutamyl-tRNA amidotransferase,HP0658() AND HP0830() AND HP0975(),BioCyc
+CPLX2DNV-968,Phenylalanyl-tRNA synthetase,HP0402(2) AND HP0403(2),BioCyc
+CPLX2DNV-1170,tripartite efflux pump HefABC,HP0607() AND HP0606() AND HP0605(),BioCyc
+CPLX2DNV-1143,,HP0072() AND HP0073(),BioCyc
+CPLX2DNV-1105,ComB type IV secretion system,HP0041() AND HP0040() AND HP0038() AND G2DNV-43() AND HP0037() AND HP0017() AND HP0016() AND HP0015(),BioCyc
+CPLX2DNV-1084,purine nucleoside phosphorylase,HP1178(6),BioCyc
+CPLX2DNV-1045,molybdate ABC transporter,HP0475() AND HP0474() AND HP0473(),BioCyc
+CPLX2DNV-981,glycyl-tRNA synthetase,HP0972(2) AND HP0960(2),BioCyc
+CPLX2DNV-964,ferredoxin-menaquinone dehydrogenase,HP1273() AND HP1272() AND HP1271() AND HP1270() AND HP1269() AND HP1268() AND HP1267() AND HP1266() AND HP1265() AND HP1264() AND HP1263() AND HP1262() AND HP1261() AND HP1260(),BioCyc
+CPLX2DNV-1164,putative ABC transporter complex,HP1464() AND HP1465() AND HP1466(),BioCyc
+CPLX2DNV-1137,inactive Type I restriction-modification system,HP0462() AND HP0463() AND HP0464(),BioCyc
+CPLX2DNV-1118,D-alanine--D-alanine ligase,HP0738(1),BioCyc
+CPLX2DNV-1102,ATP-dependent ClpBP protease,HP0264() AND HP0794(),BioCyc
+CPLX2DNV-1081,flagellar basal-body rod complex,HP1585() AND HP1092() AND HP1558() AND HP1559(),BioCyc
+CPLX2DNV-1042,cytochrome <i>bc</i><sub>1</sub> complex,HP1539() AND HP1538() AND HP1540(),BioCyc
+CPLX2DNV-978,2-oxoglutarate synthase,HP0589() AND HP0590() AND HP0591() AND HP0588(),BioCyc
+CPLX2DNV-1200,HP0894/HP0895 type II toxin/antitoxin system,HP0894() AND HP0895(),BioCyc
+CPLX2DNV-1160,catalase,HP0875(6),BioCyc
+CPLX2DNV-1134,Type I restriction-modification system HpyAXIII,HP0790() AND HP0850() AND HP0846(),BioCyc
+CPLX2DNV-1115,diaminopimelate decarboxylase,HP0290(4),BioCyc
+CPLX2DNV-1099,Fe<sup>2+</sup>-bound DNA-binding transcriptional regulator Fur,HP1027(),BioCyc
+CPLX2DNV-1078,flagellar export apparatus,HP0256() AND HP1420() AND HP0353() AND HP0770() AND HP1041() AND HP0173() AND HP1419() AND HP0684() AND HP0583(),BioCyc
+CPLX2DNV-1039,Cag type IV secretion system,HP0524() AND HP0525() AND HP0527() AND HP0528() AND HP0532() AND HP0529() AND HP0539() AND HP0544() AND HP0546() AND HP0523() AND HP0522() AND HP0537(),BioCyc
+CPLX2DNV-975,Exodeoxyribonuclease VII,HP0259() AND HP0981() AND HP1482(),BioCyc
+CPLX2DNV-1181,proton-gated urea channel,HP0071(),BioCyc
+CPLX2DNV-1153,GDP-L-fucose synthase,HP0045(2),BioCyc
+CPLX2DNV-1131,chaperonin GroL,HP0010(14),BioCyc
+CPLX2DNV-1112,3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ,HP1376(),BioCyc
+CPLX2DNV-1095,L-asparaginase II intimate dimer,HP0723(4),BioCyc
+CPLX2DNV-1066,flagellum,HP1119() AND HP0295() AND HP1557() AND HP0870() AND HP0908() AND HP0752() AND HP0601() AND HP0115() AND HP0246() AND HP0351() AND HP0816() AND HP0815() AND HP1030() AND HP0584() AND HP1031() AND HP0352() AND HP1585() AND HP1092() AND HP1558() AND HP1559() AND HP0325(),BioCyc
+CPLX-9307,pantothenate kinase,HP0862(),BioCyc
+CPLXI-41,fumarate reductase,G2DNV-13() AND G2DNV-14() AND G2DNV-15(),BioCyc
+CPLX2DNV-972,ATP-dependent ClpXP protease,HP0794() AND HP1374(),BioCyc
+CPLX2DNV-1175,(HypCDE)<sub>2</sub> complex,HP0898() AND HP0899() AND HP0047(),BioCyc
+CPLX2DNV-1147,FecA3-TonB metal transporter,HP1341() AND HP1339() AND HP1340() AND HP1400(),BioCyc
+CPLX2DNV-1128,fumarate reductase heterotrimer,G2DNV-15() AND G2DNV-14() AND G2DNV-13(),BioCyc
+CPLX2DNV-1109,2-hydroxymuconate tautomerase,HP0924(),BioCyc
+CPLX2DNV-1092,trigger factor,HP0795(1),BioCyc
+CPLX2DNV-1063,flagellar basal body,HP0325() AND HP1559() AND HP1558() AND HP1092() AND HP1585() AND HP0352() AND HP1031() AND HP0584() AND HP1030() AND HP0815() AND HP0816() AND HP0351() AND HP0246(),BioCyc
+CPLX-9123,5'-methylthioadenosine/adenosylhomocysteine/6-amino-6-deoxyfutalosine nucleosidase,HP0089(2),BioCyc
+CPLX2DNV-985,N<sup>6</sup>-L-threonylcarbamoyladenine synthase,HP0716() AND HP1584(),BioCyc
+CPLX2DNV-969,excision nuclease UvrABC,HP0705() AND HP0821() AND HP1114(),BioCyc
+CPLX2DNV-1171,copper efflux pump,HP1327() AND HP1328() AND HP1329(),BioCyc
+CPLX2DNV-1144,nickel-carrier protein UreE,HP0070(),BioCyc
+CPLX2DNV-1125,nickel-bound nickel response regulator NikR,HP1338(),BioCyc
+CPLX2DNV-1106,Tfs3 type IV secretion system,HP0456() AND HP0991() AND HP0457() AND HP0996() AND HP0995() AND HP0459() AND HP0460(),BioCyc
+CPLX2DNV-1086,peptide ABC transporter,HP0302(1) AND HP0301(1) AND HP0300(1) AND HP0299(1) AND HP0298(1),BioCyc
+CPLX2DNV-1046,aminodeoxyfutalosine deaminase,HP0267(),BioCyc
+CPLX2DNV-982,tryptophan synthase,HP1277(2) AND HP1278(2),BioCyc
+CPLX2DNV-965,succinyl-CoA-transferase,HP0692(2) AND HP0691(2),BioCyc
+CPLX2DNV-1168,Ni<sup>2+</sup>-bound Hpn2,HP1432(),BioCyc
+CPLX2DNV-1138,inactive Type III restriction-modification system,HP1522() AND HP1521(),BioCyc
+CPLX2DNV-1119,&gamma;-glutamyltransferase Ggt heterodimer,HP1118(1),BioCyc
+CPLX2DNV-1103,Holliday junction resolvase RuvABC,HP0877() AND HP1059() AND HP0883(),BioCyc
+CPLX2DNV-1082,flagellar basal-body P-ring,HP0246(),BioCyc
+CPLX2DNV-1043,ATPase F<sub>1</sub> complex,HP1135() AND HP1133() AND HP1132() AND HP1131() AND HP1134(),BioCyc
+CPLX2DNV-979,ATP synthase,HP1134() AND HP1131() AND HP1132() AND HP1133() AND HP1135() AND HP0828() AND HP1212() AND HP1136() AND HP1137(),BioCyc
+CPLX2DNV-1201,HP0892/HP0893 type II toxin/antitoxin system,HP0893() AND HP0892(),BioCyc
+CPLX2DNV-1162,type II 3-dehydroquinate dehydratase,HP1038(),BioCyc
+CPLX2DNV-1135,Type III restriction-modification system HpyAXI,HP0592() AND HP0593(),BioCyc
+CPLX2DNV-1116,thioesterase YbgC dimer,HP0496(1),BioCyc
+CPLX2DNV-1100,<i>apo</i>-DNA-binding transcriptional regulator Fur dimer,HP1027(2),BioCyc
+CPLX2DNV-1079,flagellar hook-filament junction,HP0295() AND HP1119(),BioCyc
+CPLX2DNV-1040,HypCD complex involved in hydrogenase maturation,HP0898() AND HP0899(),BioCyc
+CPLX2DNV-976,DNA-directed RNA polymerase core enzyme,HP1293() AND HP1198() AND HP0776(),BioCyc
+CPLX2DNV-1182,putative D-methionine ABC transporter,HP1564() AND HP1577() AND HP1576(2),BioCyc
+CPLX2DNV-1156,inorganic pyrophosphatase,HP0620(6),BioCyc
+CPLX2DNV-1132,chaperonin GroS,HP0011(),BioCyc
+CPLX2DNV-1113,single-stranded DNA-binding protein,HP1245(),BioCyc
+CPLX2DNV-1097,L-asparaginase II,HP0723(4),BioCyc
+CPLX2DNV-1068,flagellar motor protein MotB dimer,HP0816(2),BioCyc
+CPLX2DNV-1015,pyruvate flavodoxin oxidoreductase,HP1109() AND HP1111() AND HP1110() AND HP1108(),BioCyc
+CPLX2DNV-973,DNA polymerase III,HP0500() AND HP0717() AND HP1231() AND HP1247() AND HP1460() AND HP1387(),BioCyc
+CPLX2DNV-1176,HypCDE trimer,HP0047() AND HP0899() AND HP0898(),BioCyc
+CPLX2DNV-1148,Ni<sup>2+</sup>/Zn<sup>2+</sup>/Cd<sup>2+</sup> efflux pump,HP0971() AND HP0970() AND HP0969(),BioCyc
+CPLX2DNV-1129,cytoplasmic Ni<sup>2+</sup>-binding protein Hpn,HP1427(),BioCyc
+CPLX2DNV-1110,alkyl hydroperoxide reductase AhpC,HP1563(),BioCyc
+CPLX2DNV-1093,sedoheptulose 7-phosphate isomerase,HP0857(),BioCyc
+CPLX2DNV-1064,flagellar filament,HP0115() AND HP0601() AND HP0752(),BioCyc
+CPLX-9124,S-adenosylmethionine synthase,HP0197(4),BioCyc
+HP_RS03825-MONOMER,putative outer-membrane lipoprotein carrier protein LolA,HP0785(),BioCyc
+HP_RS02340-MONOMER,"molybdate ABC transporter, substrate-binding protein",HP0473(),BioCyc
+HP_RS04305-MONOMER,Holliday junction DNA helicase RuvA,HP0883(),BioCyc
+HP_RS06360-MONOMER,Hypothetical protein HP1289,HP1289(),BioCyc
+HP_RS02255-MONOMER,ICEHptfs3 protein V37,HP0456(),BioCyc
+HP_RS04220-MONOMER,Deoxyuridine 5'-triphosphate nucleotidohydrolase,HP0865(3),BioCyc
+HP_RS06280-MONOMER,ferredoxin-menaquinone dehydrogenase subunit N,HP1273(),BioCyc
+HP_RS02160-MONOMER,IS605 transposase TnpA,HP0437(),BioCyc
+HP_RS06195-MONOMER,Ribosome recycling factor,HP1256(1),BioCyc
+HP_RS02055-MONOMER,putative small conductance mechanosensitive channel,HP0415(),BioCyc
+HP_RS04045-MONOMER,Inosine 5'-monophosphate dehydrogenase GuaB,HP0829(4),BioCyc
+HP_RS06115-MONOMER,Maf-like protein,HP1240(),BioCyc
+HP_RS01950-MONOMER,6-carboxy-2-demethylmenaquinol decarboxylase MqnL,HP0396(6),BioCyc
+HP_RS03965-MONOMER,Thiamin biosynthesis protein ThiF,HP0814(1),BioCyc
+HP_RS06030-MONOMER,D-lactate dehydrogenase,HP1222(),BioCyc
+HP_RS01870-MONOMER,glutamate dehydrogenase GdhA,HP0380(6),BioCyc
+HP_RS03880-MONOMER,neuraminyllactose-binding hemagglutinin HpaA,HP0797(),BioCyc
+HP_RS05905-MONOMER,50S ribosomal protein L11,HP1202(1),BioCyc
+HP_RS07895-MONOMER,inactive Type III restriction-modification system M protein M.HpyAXVII N-terminal domain,HP1369(),BioCyc
+HP_RS01780-MONOMER,putative lipopolysaccharide transport system protein LptF,HP0362(),BioCyc
+HP_RS03790-MONOMER,Chorismate dehydratase,HP0778(),BioCyc
+HP_RS05820-MONOMER,"putative transporter, multi antimicrobial extrusion (MATE) family",HP1184(),BioCyc
+HP_RS07790-MONOMER,Riboflavin synthase subunit alpha RibC,HP1574(3),BioCyc
+HP_RS01690-MONOMER,hypothetical protein,HP0345(),BioCyc
+HP_RS03710-MONOMER,5-formyltetrahydrofolate cyclo-ligase,HP0761(),BioCyc
+HP_RS05735-MONOMER,Outer membrane protein HofH,HP1167(),BioCyc
+HP_RS07710-MONOMER,flagellar basal-body rod protein FlgC,HP1558(),BioCyc
+HP_RS01595-MONOMER,outer membrane protein HorC,HP0324(),BioCyc
+HP_RS03625-MONOMER,DUF697 domain-containing protein,HP_RS03625(),BioCyc
+HP_RS05655-MONOMER,30S ribosomal protein S16,HP1151(1),BioCyc
+HP_RS07630-MONOMER,ToxR-activated protein TagE1,HP1543(),BioCyc
+HP_RS01515-MONOMER,Arginine biosynthesis bifunctional protein ArgJ,HP0307(),BioCyc
+HP_RS03535-MONOMER,Outer membrane protein HP0726,HP0726(),BioCyc
+HP_RS05560-MONOMER,"F0F1 ATP synthase subunit beta, AtpD",HP1132(),BioCyc
+HP_RS07545-MONOMER,exodeoxyribonuclease III,HP1526(),BioCyc
+HP_RS01435-MONOMER,Chorismate mutase/prephenate dehydratase PheA,HP0291(),BioCyc
+HP_RS03445-MONOMER,HopE monomer,HP0706(),BioCyc
+HP_RS05475-MONOMER,Hypothetical protein HP1115,HP1115(),BioCyc
+HP_RS07460-MONOMER,Saccharopine dehydrogenase,HP1507(),BioCyc
+HP_RS01355-MONOMER,ATP-dependent nuclease AddB,HP0275(),BioCyc
+HP_RS03360-MONOMER,putative TonB-dependent ferric citrate transporter FecA1,HP0686(),BioCyc
+HP_RS05395-MONOMER,2-keto-3-deoxy-6-phosphogluconate aldolase,HP1099(3),BioCyc
+HP_RS07375-MONOMER,"ABC-type tripartite efflux pump, outer membrane channel",HP1489(),BioCyc
+HP_RS01270-MONOMER,RIP metalloprotease RseP,HP0258(),BioCyc
+HP_RS03265-MONOMER,Ribonuclease III,HP0662(2),BioCyc
+HP_RS05315-MONOMER,Hypothetical protein HP1081,HP1081(),BioCyc
+HP_RS07295-MONOMER,Amidophosphoribosyltransferase,HP1473(),BioCyc
+HP_RS01180-MONOMER,hexaprenyl-diphosphate synthase,HP0240(2),BioCyc
+HP_RS03185-MONOMER,UTP-glucose-1-phosphate uridylyltransferase GalU,HP0646(1),BioCyc
+HP_RS05230-MONOMER,Hypothetical protein HP1064,HP1064(),BioCyc
+HP_RS07215-MONOMER,Hypothetical lipprotein HP1457,HP1457(),BioCyc
+HP_RS01090-MONOMER,Hypothetical protein HP0222,HP0222(),BioCyc
+HP_RS03100-MONOMER,Hypothetical protein HP0629,HP0629(),BioCyc
+HP_RS05150-MONOMER,Translation initiation factor IF-2,HP1048(1),BioCyc
+HP_RS07135-MONOMER,Peptidyl-prolyl cis-trans isomerase PpiB,HP1441(),BioCyc
+HP_RS01000-MONOMER,Hypothetical protein HP0204,HP0204(),BioCyc
+HP_RS03020-MONOMER,Hypothetical protein HP0614,HP0614(),BioCyc
+HP_RS05070-MONOMER,RNA polymerase factor &sigma;<sup>28</sup>,HP1032(1),BioCyc
+HP_RS07040-MONOMER,Isoleucyl-tRNA synthetase,HP1422(1),BioCyc
+HP_RS00910-MONOMER,DUF1524 domain-containing protein,HP0186(),BioCyc
+HP_RS02930-MONOMER,protein thiol:quinone oxidoreductase DsbI,HP0595(),BioCyc
+HP_RS04985-MONOMER,7-alpha-hydroxysteroid dehydrogenase HdhA,HP1014(),BioCyc
+HP_RS06950-MONOMER,Putative ribonuclease N,HP1407(),BioCyc
+HP_RS00830-MONOMER,chemotaxis protein phosphatase CheZ,HP0170(),BioCyc
+HP_RS02850-MONOMER,Kdo hydrolase subunit 1,HP0579(),BioCyc
+HP_RS04875-MONOMER,Hypothetical protein HP0993,HP0993(),BioCyc
+HP_RS06860-MONOMER,Hypothetical protein HP1388,HP1388(),BioCyc
+HP_RS00750-MONOMER,"1,4-dihydroxy-6-naphthoate synthase",HP0152(),BioCyc
+HP_RS02770-MONOMER,Hypothetical protein HP0563,HP0563(),BioCyc
+HP_RS04780-MONOMER,Peptidyl-prolyl cis-trans isomerase D PpiD,HP0977(),BioCyc
+HP_RS06780-MONOMER,Rod shape-determining protein MreB,HP1373(),BioCyc
+HP_RS00665-MONOMER,3-deoxy-7-phosphoheptulonate synthase,HP0134(),BioCyc
+HP_RS02680-MONOMER,CagD protein,HP0545(),BioCyc
+HP_RS00260-MONOMER,Type IIS restriction-modification system M2 protein M2.HpyAVI,HP0051(),BioCyc
+HP_RS04690-MONOMER,zinc finger domain-containing protein,HP0958(),BioCyc
+HP_RS06695-MONOMER,Nicotinate-nucleotide pyrophosphorylase NadC,HP1355(2),BioCyc
+HP_RS00585-MONOMER,flagellar filament structural protein FlaB,HP0115(),BioCyc
+HP_RS02600-MONOMER,Cag T4SS protein CagX,HP0528(),BioCyc
+HP_RS00175-MONOMER,ATP-dependent Clp protease adapter protein ClpS,HP0032(),BioCyc
+HP_RS04590-MONOMER,D-alanine transporter,HP0942(1),BioCyc
+HP_RS06600-MONOMER,Nicotinate (nicotinamide) nucleotide adenylyltransferase NadD,HP1337(1),BioCyc
+HP_RS00500-MONOMER,Threonine synthase ThrC,HP0098(1),BioCyc
+HP_RS02515-MONOMER,Dihydrodipicolinate reductase DapB,HP0510(4),BioCyc
+HP_RS00090-MONOMER,ComB2 competence protein,HP0015(),BioCyc
+HP_RS04495-MONOMER,Putative vacuolating cytotoxin (VacA)-like protein VlpC,HP0922(),BioCyc
+HP_RS06520-MONOMER,Hypothetical protein HP1321,HP1321(),BioCyc
+HP_RS00410-MONOMER,Hypothetical protein HP0080,HP0080(),BioCyc
+HP_RS02430-MONOMER,50S ribosomal protein L28,HP0491(),BioCyc
+HP_RS04395-MONOMER,Hydrogenase assembly chaperone HypC/HupF,HP0899(),BioCyc
+HP_RS06440-MONOMER,30S ribosomal protein S8,HP1305(1),BioCyc
+HP_RS00325-MONOMER,Cell division-related protein,HP0064(),BioCyc
+HP_RS06425-MONOMER,30S ribosomal protein S5,HP1302(1),BioCyc
+HP_RS02325-MONOMER,Oligoendopeptidase F PepF,HP0470(),BioCyc
+HP_RS04275-MONOMER,heme-binding TonB-dependent transporter FrpB1,HP0876(),BioCyc
+HP_RS06345-MONOMER,Secreted protein HP1286,HP1286(),BioCyc
+HP_RS02240-MONOMER,Hypothetical protein HP0454,HP0454(),BioCyc
+HP_RS04205-MONOMER,pantothenate kinase monomer,HP0862(),BioCyc
+HP_RS06265-MONOMER,ferredoxin-menaquinone dehydrogenase subunit K,HP1270(),BioCyc
+HP_RS02140-MONOMER,Protein phosphatase 2C,HP0431(),BioCyc
+HP_RS04120-MONOMER,Phosphomethylpyrimidine kinase ThiD,HP0844(4),BioCyc
+HP_RS06180-MONOMER,Tryptophanyl-tRNA synthetase,HP1253(2),BioCyc
+HP_RS02015-MONOMER,GMP synthase GuaA,HP0409(2),BioCyc
+HP_RS04030-MONOMER,"&beta;-<em>N</em>-acetylglucosaminylglycopeptide &beta;-1,4-galactosyltransferase",HP0826(),BioCyc
+HP_RS06100-MONOMER,Hypothetical protein HP1236,HP1236(),BioCyc
+HP_RS01935-MONOMER,chemotaxis protein CheV3,HP0393(),BioCyc
+HP_RS03950-MONOMER,Dihydroneopterin aldolase,HP0811(),BioCyc
+HP_RS06015-MONOMER,Phosphoribosylamine--glycine ligase PurD,HP1218(1),BioCyc
+HP_RS01855-MONOMER,dithiol reductase/isomerase ResA,HP0377(),BioCyc
+HP_RS03865-MONOMER,ATP-dependent Clp protease proteolytic subunit ClpP,HP0794(),BioCyc
+HP_RS05890-MONOMER,50S ribosomal protein L7/L12,HP1199(2),BioCyc
+HP_RS07875-MONOMER,DsbI-accessory protein,HP0594(),BioCyc
+HP_RS01755-MONOMER,Putative outer membrane protein HP0358,HP0358(),BioCyc
+HP_RS03775-MONOMER,"guanosine-3&prime;,5&prime;-bis(diphosphate) 3&prime;-diphosphatase",HP0775(1),BioCyc
+HP_RS05805-MONOMER,"putative drug efflux transporter, major facilitator superfamily",HP1181(),BioCyc
+HP_RS07775-MONOMER,Rare lipoprotein A RlpA,HP1571(),BioCyc
+HP_RS01670-MONOMER,Lysozyme,HP0339(),BioCyc
+HP_RS03690-MONOMER,<em>N</em>-carbamoylputrescine amidase,HP0757(),BioCyc
+HP_RS05720-MONOMER,Thioredoxin reductase TrxB,HP1164(),BioCyc
+HP_RS07695-MONOMER,penicillin-binding protein 3,HP1556(1),BioCyc
+HP_RS01580-MONOMER,Guanylate kinase,HP0321(2),BioCyc
+HP_RS03605-MONOMER,Histidine triad family protein,HP0741(),BioCyc
+HP_RS05640-MONOMER,tRNA (guanine-N(1)-)-methyltransferase,HP1148(2),BioCyc
+HP_RS07615-MONOMER,"menaquinol cytochrome c oxidoreductase, Rieske 2Fe-2S subunit FbcF",HP1540(),BioCyc
+HP_RS01500-MONOMER,Alginate_lyase domain-containing protein,HP0304(),BioCyc
+HP_RS03520-MONOMER,L-asparaginase II monomer,HP0723(4),BioCyc
+HP_RS05545-MONOMER,ExbD family protein,HP1129(),BioCyc
+HP_RS07530-MONOMER,ATP-dependent DNA helicase RecG,HP1523(),BioCyc
+HP_RS01420-MONOMER,DUF4149 domain-containing protein,HP0288(),BioCyc
+HP_RS03430-MONOMER,Hypothetical protein HP0702,HP0702(),BioCyc
+HP_RS05460-MONOMER,Adenylosuccinate lyase PurB,HP1112(1),BioCyc
+HP_RS07445-MONOMER,O-methyltransferase,HP1504(),BioCyc
+HP_RS01340-MONOMER,Hypothetical protein HP0272,HP0272(),BioCyc
+HP_RS03345-MONOMER,Class IIc Sec-secreted bacteriocin Divergicin A precursor (DvnA),HP0682(),BioCyc
+HP_RS05380-MONOMER,IS605 transposase TnpB,HP1095(),BioCyc
+HP_RS07360-MONOMER,ABC transporter membrane protein,HP1486(),BioCyc
+HP_RS01255-MONOMER,Adenylosuccinate synthetase PurA,HP0255(2),BioCyc
+HP_RS03250-MONOMER,Chaperone SurA,HP0659(),BioCyc
+HP_RS05300-MONOMER,HP1078,HP1078(),BioCyc
+HP_RS07280-MONOMER,DNA polymerase I,HP1470(),BioCyc
+HP_RS01165-MONOMER,Porphobilinogen deaminase HemC,HP0237(1),BioCyc
+HP_RS03170-MONOMER,Glutamylglutaminyl-tRNA synthetase,HP0643(),BioCyc
+HP_RS05215-MONOMER,"twin arginine protein translocation system, TatC protein",HP1061(),BioCyc
+HP_RS07200-MONOMER,Hypothetical protein HP1454,HP1454(),BioCyc
+HP_RS01075-MONOMER,Hypothetical protein HP0219,HP0219(),BioCyc
+HP_RS03085-MONOMER,"2,3,4,5-tetrahydropyridine-2-carboxylate N-succinyltransferase",HP0626(),BioCyc
+HP_RS05135-MONOMER,acetyl-CoA synthetase AcoE,HP1045(1),BioCyc
+HP_RS07110-MONOMER,Predicted coding region HP1437,HP1437(),BioCyc
+HP_RS00980-MONOMER,Fatty acid/phospholipid synthesis protein PlsX,HP0201(1),BioCyc
+HP_RS03000-MONOMER,Putative outer membrane protein HP0608,HP0608(),BioCyc
+HP_RS05055-MONOMER,Hypothetical protein HP1029,HP1029(),BioCyc
+HP_RS07025-MONOMER,Flagellar biosynthesis protein FliQ,HP1419(),BioCyc
+HP_RS00895-MONOMER,Serine hydroxymethyltransferase GlyA,HP0183(2),BioCyc
+HP_RS02915-MONOMER,2-oxoglutarate-acceptor oxidoreductase subunit OorC,HP0591(),BioCyc
+HP_RS04970-MONOMER,Dihydroorotate dehydrogenase 2 PyrD,HP1011(1),BioCyc
+HP_RS06930-MONOMER,Type I restriction enzyme M protein HsdM,HP1403(),BioCyc
+HP_RS00815-MONOMER,Hypothetical protein HP0167,HP0167(),BioCyc
+HP_RS02835-MONOMER,Signal peptidase I,HP0576(),BioCyc
+HP_RS04855-MONOMER,Putative transposase TnpB,HP0989(),BioCyc
+HP_RS06845-MONOMER,Ribulose-phosphate 3-epimerase,HP1386(1),BioCyc
+HP_RS00735-MONOMER,Hypothetical protein HP0149,HP0149(),BioCyc
+HP_RS02755-MONOMER,acyl carrier protein,HP0559(1),BioCyc
+HP_RS04765-MONOMER,"2,3-bisphosphoglycerate-independent phosphoglycerate mutase",HP0974(1),BioCyc
+HP_RS06760-MONOMER,Type IIS restriction-modification system M2 protein M2.HpyAII,HP1368(),BioCyc
+HP_RS00650-MONOMER,Hypothetical protein HP0130,HP0130(),BioCyc
+HP_RS02665-MONOMER,CagG protein,HP0542(),BioCyc
+HP_RS00245-MONOMER,[NiFe]-hydrogenase maturation protein HypF,HP0048(),BioCyc
+HP_RS04675-MONOMER,Prolipoprotein diacylglyceryl transferase,HP0955(1),BioCyc
+HP_RS06665-MONOMER,Carboxyl-terminal protease,HP1350(),BioCyc
+HP_RS00570-MONOMER,L-fuculose-1-phosphate aldolase FucA,HP0112(),BioCyc
+HP_RS02585-MONOMER,Cag T4SS protein Cag&alpha;,HP0525(),BioCyc
+HP_RS00160-MONOMER,dethiobiotin synthetase,HP0029(2),BioCyc
+HP_RS04575-MONOMER,"amino acid family ABC transporter, membrane protein",HP0939(),BioCyc
+HP_RS06585-MONOMER,Hypothetical helicase HP1334,HP1334(),BioCyc
+HP_RS00485-MONOMER,Hypothetical protein HP0095,HP0095(),BioCyc
+HP_RS02500-MONOMER,UDP-sugar diphosphatase,HP0507(3),BioCyc
+HP_RS00075-MONOMER,DNA primase DnaG,HP0012(),BioCyc
+HP_RS04480-MONOMER,Carbamoyl phosphate synthase large subunit CarB,HP0919(),BioCyc
+HP_RS06505-MONOMER,50S ribosomal protein L4,HP1318(1),BioCyc
+HP_RS00395-MONOMER,Peptide chain release factor 1,HP0077(1),BioCyc
+HP_RS02415-MONOMER,Hypothetical protein HP0488,HP0488(),BioCyc
+HP_RS04370-MONOMER,adhesin-binding fucosylated histo-blood group antigen BabB/HopT,HP0896(),BioCyc
+HP_RS04355-MONOMER,antitoxin protein HP0893,HP0893(),BioCyc
+HP_RS06410-MONOMER,Methionine aminopeptidase,HP1299(1),BioCyc
+HP_RS02310-MONOMER,Integral membrane protein HP0467,HP0467(),BioCyc
+HP_RS04260-MONOMER,Hypothetical protein HP0873,HP0873(),BioCyc
+HP_RS06330-MONOMER,"&alpha;-(1,3)-D-glycero-&beta;-D-<i>manno</i>-heptose transferase",HP1283(),BioCyc
+HP_RS02225-MONOMER,Hypothetical protein HP0451,HP0451(),BioCyc
+HP_RS04190-MONOMER,ADP-glyceromanno-heptose 6-epimerase,HP0859(5),BioCyc
+HP_RS06250-MONOMER,ferredoxin-menaquinone dehydrogenase subunit H,HP1267(),BioCyc
+HP_RS02105-MONOMER,Hypothetical protein HP0425,HP0425(),BioCyc
+HP_RS04105-MONOMER,Bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate synthase,HP0841(12),BioCyc
+HP_RS06165-MONOMER,SH3b domain-containing protein,HP1250(),BioCyc
+HP_RS02000-MONOMER,DUF3972 domain-containing protein,HP0406(),BioCyc
+HP_RS04015-MONOMER,Hypothetical protein HP0823,HP0823(),BioCyc
+HP_RS06085-MONOMER,hypothetical protein HP1233,HP1233(),BioCyc
+HP_RS01920-MONOMER,thiol peroxidase Tpx,HP0390(),BioCyc
+HP_RS03935-MONOMER,4'-phosphopantetheinyl transferase,HP0808(2),BioCyc
+HP_RS05995-MONOMER,Polyribonucleotide nucleotidyltransferase,HP1213(3),BioCyc
+MONOMER2DNV-4,CrdR-phosphate,HP1365(),BioCyc
+HP_RS01840-MONOMER,16S ribosomal RNA methyltransferase RsmE,HP0374(),BioCyc
+HP_RS03850-MONOMER,Cd<sup>2+</sup>/Zn<sup>2+</sup>/Co<sup>2+</sup> exporting P-type ATPase CadA,HP0791(1),BioCyc
+HP_RS05875-MONOMER,30S ribosomal protein S7,HP1196(1),BioCyc
+HP_RS07840-MONOMER,putative DNA-binding/iron metalloprotein/AP endonuclease,HP1584(),BioCyc
+HP_RS01740-MONOMER,GTP-binding protein LepA,HP0355(),BioCyc
+HP_RS03760-MONOMER,N-acetylmuramoyl-L-alanine amidase AmiA,HP0772(1),BioCyc
+HP_RS05785-MONOMER,purine nucleoside phosphorylase monomer,HP1178(6),BioCyc
+HP_RS07760-MONOMER,putative lipopolysaccharide transport system protein LptA,HP1568(),BioCyc
+HP_RS01650-MONOMER,Holliday junction resolvase-like protein,HP0334(),BioCyc
+HP_RS03675-MONOMER,flagellar biosynthesis protein FliS,HP0753(),BioCyc
+HP_RS05705-MONOMER,flavodoxin,HP1161(1),BioCyc
+HP_RS07680-MONOMER,ATP-dependent DNA helicase,HP1553(),BioCyc
+HP_RS01565-MONOMER,"Heme oxygenase, HugZ family",HP0318(),BioCyc
+HP_RS03590-MONOMER,D-alanine--D-alanine ligase monomrt,HP0738(1),BioCyc
+HP_RS05610-MONOMER,AAA_13 domain-containing protein,HP1142(),BioCyc
+HP_RS07600-MONOMER,Hypothetical protein HP1537,HP1537(),BioCyc
+HP_RS01485-MONOMER,"peptide ABC transporter, ATP-binding protein DppD",HP0301(),BioCyc
+HP_RS03500-MONOMER,"putative transporter, L-lysine exporter family",HP0718(1),BioCyc
+HP_RS05525-MONOMER,periplasmic protein HP1124,HP1124(),BioCyc
+HP_RS07510-MONOMER,Hypothetical protein HP1518,HP1518(),BioCyc
+HP_RS01405-MONOMER,MiaB-like tRNA modifying enzyme,HP0285(),BioCyc
+HP_RS03415-MONOMER,Hypothetical protein HP0699,HP0699(),BioCyc
+HP_RS05445-MONOMER,Pyruvate flavodoxin oxidoreductase subunit delta PorD,HP1109(),BioCyc
+HP_RS07430-MONOMER,outer membrane protein HorW,HP1501(),BioCyc
+HP_RS01325-MONOMER,(dimethylallyl)adenosine tRNA methylthiotransferase,HP0269(1),BioCyc
+HP_RS03325-MONOMER,putative transporter,HP0677(),BioCyc
+HP_RS05365-MONOMER,&alpha;-ketoglutarate transporter,HP1091(1),BioCyc
+HP_RS07345-MONOMER,demethylmenaquinone methyltransferase,HP1483(1),BioCyc
+HP_RS01230-MONOMER,"ABC transporter, ATP-binding protein",HP0250(),BioCyc
+HP_RS03235-MONOMER,cyclic dehypoxanthinyl futalosine synthase,HP0656(),BioCyc
+HP_RS05285-MONOMER,Purine nucleoside phosphorylase HP1075,HP1075(),BioCyc
+HP_RS07265-MONOMER,Predicted membrane protein HP1467,HP1467(),BioCyc
+HP_RS01150-MONOMER,Integral membrane protein,HP0234(),BioCyc
+HP_RS03155-MONOMER,Poly(A) polymerase,HP0640(),BioCyc
+HP_RS05200-MONOMER,3-methyl-2-oxobutanoate hydroxymethyltransferase PanB,HP1058(10),BioCyc
+HP_RS07185-MONOMER,Jag_N domain-containing protein,HP1451(),BioCyc
+HP_RS01060-MONOMER,1-deoxy-D-xylulose 5-phosphate reductoisomerase,HP0216(2),BioCyc
+HP_RS03070-MONOMER,UDP-N-acetylmuramate-L-alanine ligase MurC,HP0623(1),BioCyc
+HP_RS05120-MONOMER,"3&prime;,5&prime;-cyclic-nucleotide phosphodiesterase",HP1042(),BioCyc
+HP_RS07095-MONOMER,Formyltetrahydrofolate deformylase PurU,HP1434(6),BioCyc
+HP_RS00965-MONOMER,Nucleoside diphosphate kinase,HP0198(4),BioCyc
+HP_RS02985-MONOMER,tripartite efflux pump outer membrane channel HefA,HP0605(),BioCyc
+HP_RS05040-MONOMER,Recombination factor protein RarA,HP1026(),BioCyc
+HP_RS07010-MONOMER,sulfatase-like hydrolase/transferase,HP_RS07010(),BioCyc
+HP_RS00880-MONOMER,Apolipoprotein N-acyltransferase,HP0180(),BioCyc
+HP_RS02900-MONOMER,2-oxoglutarate-acceptor oxidoreductase subunit OorD,HP0588(),BioCyc
+HP_RS04940-MONOMER,ICEHptfs4 protein C10.1,HP1006(),BioCyc
+HP_RS06915-MONOMER,TonB-dependent metal transporter FecA3,HP1400(),BioCyc
+HP_RS00800-MONOMER,Delta-aminolevulinic acid dehydratase,HP0163(8),BioCyc
+HP_RS02820-MONOMER,Putative inner membrane protein HP0573,HP0573(),BioCyc
+HP_RS04835-MONOMER,Hypothetical protein HP0986,HP0986(),BioCyc
+HP_RS06830-MONOMER,Type I R-M system specificity subunit,HP1383(),BioCyc
+HP_RS00720-MONOMER,"Cytochrome c oxidase, cbb3-type, FixQ",HP0146(),BioCyc
+HP_RS02740-MONOMER,Hypothetical protein HP0556,HP0556(),BioCyc
+HP_RS00310-MONOMER,Hypothetical protein HP0061,HP0061(),BioCyc
+HP_RS04750-MONOMER,"Ni<sup>2+</sup>/Zn<sup>2+</sup>/Cd<sup>2+</sup> efflux pump, outer membrane channel",HP0971(),BioCyc
+HP_RS06745-MONOMER,transcriptional regulator CrdR,HP1365(),BioCyc
+HP_RS00635-MONOMER,50S ribosomal protein L20,HP0126(1),BioCyc
+HP_RS02650-MONOMER,Cag T4SS protein CagL,HP0539(),BioCyc
+HP_RS00230-MONOMER,"GDP-mannose 4,6-dehydratase monomer",HP0044(2),BioCyc
+HP_RS04660-MONOMER,Competence/damage-inducible protein CinA,HP0952(),BioCyc
+HP_RS06650-MONOMER,Uracil-DNA glycosylase,HP1347(),BioCyc
+HP_RS00555-MONOMER,molecular chaperone DnaK,HP0109(1),BioCyc
+HP_RS02570-MONOMER,Cag T4SS protein Cag&delta;,HP0522(),BioCyc
+HP_RS00145-MONOMER,citrate synthase monomer,HP0026(6),BioCyc
+HP_RS04550-MONOMER,7-carboxy-7-deazaguanine synthase,HP0934(),BioCyc
+HP_RS06570-MONOMER,"putative branched-chain amino acid efflux pump, AzlC family protein",HP1331(),BioCyc
+HP_RS00465-MONOMER,type IIP restriction-modification system R protein R.HpyAIII,HP0091(),BioCyc
+HP_RS02480-MONOMER,DNA gyrase subunit B GyrB,HP0501(),BioCyc
+HP_RS00060-MONOMER,outer membrane protein HopZ,HP0009(),BioCyc
+HP_RS04460-MONOMER,outer membrane protein AlpB/HopB,HP0913(),BioCyc
+HP_RS06490-MONOMER,30S ribosomal protein S19,HP1315(1),BioCyc
+HP_RS00380-MONOMER,Lipoprotein signal peptidase,HP0074(),BioCyc
+HP_RS02400-MONOMER,catalase-like protein,HP0485(),BioCyc
+HP_RS04340-MONOMER,Short-chain oxidoreductase VdlC,HP0890(),BioCyc
+HP_RS06395-MONOMER,30S ribosomal protein S13,HP1296(1),BioCyc
+HP_RS02295-MONOMER,Type I restriction enzyme R protein HdsR,HP0464(),BioCyc
+HP_RS04240-MONOMER,hydrogenase nickel incorporation protein HypA,HP0869(),BioCyc
+HP_RS06315-MONOMER,Anthranilate phosphoribosyltransferase,HP1280(1),BioCyc
+HP_RS02205-MONOMER,ICEHptfs4 protein C21.2,HP0446(),BioCyc
+HP_RS04175-MONOMER,Hypothetical protein HP0856,HP0856(),BioCyc
+HP_RS06235-MONOMER,ferredoxin-menaquinone dehydrogenase subunit E,HP1264(),BioCyc
+HP_RS02090-MONOMER,arginine decarboxylase,HP0422(4),BioCyc
+HP_RS04090-MONOMER,Hypothetical protein HP0838,HP0838(),BioCyc
+HP_RS06150-MONOMER,DNA polymerase III subunit delta,HP1247(),BioCyc
+HP_RS01985-MONOMER,Phenylalanyl-tRNA synthetase subunit alpha PheS,HP0403(),BioCyc
+HP_RS04000-MONOMER,Hypothetical protein HP0820,HP0820(),BioCyc
+HP_RS06070-MONOMER,DNA replication regulator HobA,HP1230(),BioCyc
+HP_RS01905-MONOMER,Primosome assembly protein PriA,HP0387(),BioCyc
+HP_RS03915-MONOMER,"Bifunctional 3,4-dihydroxy-2-butanone 4-phosphate synthase/GTP cyclohydrolase II protein",HP0804(2),BioCyc
+HP_RS05965-MONOMER,Type IIP restriction-modification system M protein,HP1208(),BioCyc
+MONOMER2DNV-14,,G2DNV-13(),BioCyc
+HP_RS01825-MONOMER,Biotin carboxyl carrier protein AccB,HP0371(),BioCyc
+HP_RS03835-MONOMER,putative lipoprotein release protein,HP0787(),BioCyc
+HP_RS05860-MONOMER,Secreted protein involved in flagellar motility HP1192,HP1192(),BioCyc
+HP_RS07825-MONOMER,undecaprenyl phosphate <i>N</i>-acetylglucosaminyltransferase,HP1581(),BioCyc
+HP_RS01725-MONOMER,flagellar motor switch protein FliG,HP0352(),BioCyc
+HP_RS03745-MONOMER,Molybdopterin-guanine dinucleotide biosynthesis protein MobA,HP0769(),BioCyc
+HP_RS05770-MONOMER,D-glucose/D-galactose/D-mannose:Na<sup>+</sup> symporter,HP1174(1),BioCyc
+HP_RS07745-MONOMER,penicillin-binding protein 2,HP1565(1),BioCyc
+HP_RS01635-MONOMER,septum site-determining protein MinD,HP0331(),BioCyc
+HP_RS03660-MONOMER,Peptidase_M23 domain-containing protein,HP0750(),BioCyc
+HP_RS05690-MONOMER,Pyrroline-5-carboxylate reductase,HP1158(10),BioCyc
+HP_RS07665-MONOMER,Sec translocon accessory subunit SecD,HP1550(),BioCyc
+HP_RS01550-MONOMER,purine-specific endoribonuclease VapD,HP0315(),BioCyc
+HP_RS03575-MONOMER,Xanthine guanine phosphoribosyl transferase Gpt,HP0735(),BioCyc
+HP_RS05595-MONOMER,SpoOJ regulator Soj,HP1139(),BioCyc
+HP_RS07585-MONOMER,IS605 transposase TnpB,HP1534(),BioCyc
+HP_RS01470-MONOMER,"peptide ABC transporter, substrate-binding protein",HP0298(),BioCyc
+HP_RS03485-MONOMER,lipopolysaccharide transport system ATP-binding protein LptB,HP0715(),BioCyc
+HP_RS05510-MONOMER,anti-&sigma;<sup>28</sup> factor FlgM,HP1122(),BioCyc
+HP_RS07495-MONOMER,Transcription elongation factor NusA,HP1514(1),BioCyc
+HP_RS01390-MONOMER,Predicted coding region HP0282,HP0282(),BioCyc
+HP_RS03400-MONOMER,Hydantoin utilization protein A HyuA,HP0695(),BioCyc
+HP_RS05430-MONOMER,Hypothetical protein HP1106,HP1106(),BioCyc
+HP_RS07410-MONOMER,50S ribosomal protein L25/general stress protein Ctc,HP1496(),BioCyc
+HP_RS01310-MONOMER,Dihydroorotase PyrC,HP0266(4),BioCyc
+HP_RS03305-MONOMER,aspartate aminotransferase,HP0672(),BioCyc
+HP_RS05350-MONOMER,Transketolase,HP1088(),BioCyc
+HP_RS07330-MONOMER,Seryl-tRNA synthetase,HP1480(2),BioCyc
+HP_RS01215-MONOMER,ATP-dependent RNA helicase,HP0247(),BioCyc
+HP_RS03220-MONOMER,ferritin,HP0653(),BioCyc
+HP_RS05270-MONOMER,Cu<sup>2+</sup>-exporting P-type ATPase CopA,HP1072(1),BioCyc
+HP_RS07250-MONOMER,ABC transporter substrate-binding protein,HP1464(),BioCyc
+HP_RS01130-MONOMER,3-deoxy-manno-octulosonate cytidylyltransferase,HP0230(1),BioCyc
+HP_RS03140-MONOMER,Hypothetical protein HP0637,HP0637(),BioCyc
+HP_RS05185-MONOMER,Hypothetical protein HP1055,HP1055(),BioCyc
+HP_RS07170-MONOMER,Ribonuclease P protein component,HP1448(),BioCyc
+HP_RS01045-MONOMER,tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA,HP0213(2),BioCyc
+HP_RS03055-MONOMER,inorganic pyrophosphatase monomer,HP0620(6),BioCyc
+HP_RS05105-MONOMER,O-antigen ligase,HP1039(),BioCyc
+HP_RS07080-MONOMER,Ribosomal RNA small subunit methyltransferase A,HP1431(1),BioCyc
+HP_RS00950-MONOMER,enoyl-[acyl-carrier-protein] reductase monomer,HP0195(1),BioCyc
+HP_RS02970-MONOMER,3-methyladenine DNA glycosylase,HP0602(),BioCyc
+HP_RS05025-MONOMER,Hypothetical protein HP1023,HP1023(),BioCyc
+HP_RS06995-MONOMER,Hypothetical protein HP1414,HP1414(),BioCyc
+HP_RS00865-MONOMER,Elongation factor P EfP,HP0177(),BioCyc
+HP_RS02885-MONOMER,ferrous iron transport protein A,HP0585a(),BioCyc
+HP_RS04915-MONOMER,ICEHptfs4 protein C8,HP1001(),BioCyc
+HP_RS06895-MONOMER,outer membrane protein HorL,HP1395(),BioCyc
+HP_RS00785-MONOMER,"H. pylori lipopolysaccharide &alpha;-(1,6)-glucosyltransferase",HP0159(),BioCyc
+HP_RS02805-MONOMER,Cytosol aminopeptidase (Leucine aminopeptidase) PepA,HP0570(6),BioCyc
+HP_RS04820-MONOMER,small conductance mechanosensitive channel MscS,HP0983(),BioCyc
+HP_RS06815-MONOMER,Prephenate dehydrogenase TyrA,HP1380(),BioCyc
+HP_RS00700-MONOMER,A/G-specific adenine glycosylase MutY,HP0142(),BioCyc
+HP_RS02725-MONOMER,23S rRNA methyltransferase,HP0553(2),BioCyc
+HP_RS00295-MONOMER,hypothetical protein,HP0058(),BioCyc
+HP_RS04730-MONOMER,Virulence associated protein D VapD,HP0967(),BioCyc
+HP_RS06730-MONOMER,replicative DNA helicase DnaB monomer,HP1362(),BioCyc
+HP_RS00620-MONOMER,Threonyl-tRNA synthetase ThrS,HP0123(2),BioCyc
+HP_RS02635-MONOMER,CagP protein,HP0536(),BioCyc
+HP_RS00215-MONOMER,TrbG/VirB9 family P-type conjugative transfer protein,HP0040(),BioCyc
+HP_RS04645-MONOMER,rRNA large subunit methyltransferase,HP0949(),BioCyc
+HP_RS06635-MONOMER,Mg<sup>2+</sup> transporter,HP1344(1),BioCyc
+HP_RS00535-MONOMER,S-ribosylhomocysteine lyase,HP0105(1),BioCyc
+HP_RS02555-MONOMER,Putative periplasmic protein involved in flagellin deglycosylation,HP0518(),BioCyc
+HP_RS00130-MONOMER,lipid A phosphoethanolamine transferase,HP0022(),BioCyc
+HP_RS04530-MONOMER,geranyltranstransferase,HP0929(1),BioCyc
+HP_RS06555-MONOMER,copper efflux pump periplasmic adaptor protein,HP1328(),BioCyc
+HP_RS00445-MONOMER,RNA polymerase factor &sigma;<sup>80</sup>,HP0088(1),BioCyc
+HP_RS02465-MONOMER,putative solute:Na<sup>+</sup> symporter,HP0498(),BioCyc
+HP_RS00020-MONOMER,&beta;-carbonic anhydrase,HP0004(2),BioCyc
+HP_RS04445-MONOMER,Type IIP restriction-modification system M protein M.HpyAIX,HP0910(),BioCyc
+HP_RS06475-MONOMER,50S ribosomal protein L16,HP1312(1),BioCyc
+HP_RS00360-MONOMER,proton-gated urea channel,HP0071(),BioCyc
+HP_RS02375-MONOMER,50S ribosomal subunit assembly factor BipA,HP0480(),BioCyc
+HP_RS04325-MONOMER,vacuolating cytotoxin VacA,HP0887(),BioCyc
+HP_RS06380-MONOMER,DNA-directed RNA polymerase subunit alpha RpoA,HP1293(),BioCyc
+HP_RS04225-MONOMER,Transcription elongation factor GreA,HP0866(1),BioCyc
+HP_RS06300-MONOMER,Tryptophan synthase subunit alpha TrpA,HP1277(),BioCyc
+HP_RS02185-MONOMER,ICEHptfs4 protein C18.2,HP0442(),BioCyc
+HP_RS04160-MONOMER,ABC transporter ATP-binding protein YheS,HP0853(),BioCyc
+HP_RS06220-MONOMER,ferredoxin-menaquinone dehydrogenase subunit B,HP1261(),BioCyc
+HP_RS02075-MONOMER,tRNA (mo5U34)-methyltransferase,HP0419(1),BioCyc
+HP_RS04065-MONOMER,Hypothetical protein HP0833,HP0833(),BioCyc
+HP_RS06135-MONOMER,30S ribosomal protein S18,HP1244(1),BioCyc
+HP_RS01970-MONOMER,4-hydroxy-3-methylbut-2-enyl diphosphate reductase,HP0400(2),BioCyc
+HP_RS03985-MONOMER,"putative osmoprotective ABC transporter, membrane/substrate-binding protein",HP0818(),BioCyc
+HP_RS06050-MONOMER,heme chaperone HemW monomer,HP1226(),BioCyc
+HP_RS01890-MONOMER,SPOR domain-containing protein,HP0384(),BioCyc
+HP_RS03900-MONOMER,"Molybdopterin converting factor, subunit 1 MoaD",HP0801(),BioCyc
+HP_RS05930-MONOMER,Elongation factor Tu,HP1205(1),BioCyc
+HP_RS07915-MONOMER,hypothetical protein,HP0502(),BioCyc
+HP_RS01805-MONOMER,Hypothetical protein HP0367,HP0367(),BioCyc
+HP_RS03810-MONOMER,Outer membrane protein HofE,HP0782(),BioCyc
+HP_RS05845-MONOMER,Aspartate-semialdehyde dehydrogenase,HP1189(),BioCyc
+HP_RS07810-MONOMER,"<i>H. pylroi</i> LPS &alpha;-(1,2)-<i>N</i>-acetylglucosyltransferase",HP1578(),BioCyc
+HP_RS01710-MONOMER,CTP synthetase PyrG,HP0349(4),BioCyc
+HP_RS03730-MONOMER,Hypothetical protein HP0765,HP0765(),BioCyc
+HP_RS05755-MONOMER,"L-glutamine ABC transporter, ATP-binding protein",HP1171(),BioCyc
+HP_RS07730-MONOMER,periplasmic Ni<sup>2+</sup>-binding protein NiuB2,HP1562(),BioCyc
+HP_RS01615-MONOMER,Tetraacyldisaccharide 4'-kinase,HP0328(),BioCyc
+HP_RS03645-MONOMER,tRNA (guanine-N(7)-)-methyltransferase,HP0747(1),BioCyc
+HP_RS05675-MONOMER,UDP-N-acetylglucosamine-N-acetylmuramyl- (pentapeptide) pyrophosphoryl-undecaprenol N- acetylglucosamine transferase,HP1155(1),BioCyc
+HP_RS07650-MONOMER,Leucine--tRNA ligase,HP1547(1),BioCyc
+HP_RS01535-MONOMER,Hypothetical protein HP0311,HP0311(),BioCyc
+HP_RS03555-MONOMER,Hypothetical protein HP0730,HP0730(),BioCyc
+HP_RS05580-MONOMER,"F0F1 ATP synthase subunit B, AtpF",HP1136(),BioCyc
+HP_RS07570-MONOMER,Uncharacterized protein HP1531,HP1531(),BioCyc
+HP_RS01455-MONOMER,flagellar hook-filament junction protein FlgL,HP0295(),BioCyc
+HP_RS03465-MONOMER,Outer membrane protein HomA,HP0710(),BioCyc
+HP_RS05495-MONOMER,flagellar hook-filament junction protein FlgK,HP1119(),BioCyc
+HP_RS07480-MONOMER,Hypothetical protein HP1511,HP1511(),BioCyc
+HP_RS01375-MONOMER,lipopolysaccharide heptosyltransferase I,HP0279(1),BioCyc
+HP_RS03385-MONOMER,succinyl-CoA-transferase subunit B,HP0692(),BioCyc
+HP_RS05415-MONOMER,glucokinase,HP1103(1),BioCyc
+HP_RS07940-MONOMER,HP_RS07940-MONOMER,HP_RS07940(),Sync
+HP_RS06900-MONOMER,HP_RS06900-MONOMER,HP_RS06900(),Sync
+HP_RS04815-MONOMER,HP_RS04815-MONOMER,HP_RS04815(),Sync
+HP_RS03930-MONOMER,HP_RS03930-MONOMER,HP0807(),Sync
+HP_RS02390-MONOMER,HP_RS02390-MONOMER,HP0483(),Sync
+HP_RS01290-MONOMER,HP_RS01290-MONOMER,HP0262(),Sync
+HP_RS07925-MONOMER,HP_RS07925-MONOMER,HP_RS07925(),Sync
+HP_RS06005-MONOMER,HP_RS06005-MONOMER,HP1216(),Sync
+HP_RS04560-MONOMER,HP_RS04560-MONOMER,HP_RS04560(),Sync
+HP_RS03505-MONOMER,HP_RS03505-MONOMER,HP0719(),Sync
+HP_RS01005-MONOMER,HP_RS01005-MONOMER,HP0205(),Sync
+HP_RS07855-MONOMER,HP_RS07855-MONOMER,HP_RS07855(),Sync
+HP_RS05630-MONOMER,HP_RS05630-MONOMER,HP1145(),Sync
+HP_RS04420-MONOMER,HP_RS04420-MONOMER,HP0905(),Sync
+HP_RS03370-MONOMER,HP_RS03370-MONOMER,HP0688(),Sync
+HP_RS02215-MONOMER,HP_RS02215-MONOMER,HP0448(),Sync
+HP_RS00705-MONOMER,HP_RS00705-MONOMER,HP0143(),Sync
+HP_RS05005-MONOMER,HP_RS05005-MONOMER,HP1019(),Sync
+HP_RS04300-MONOMER,HP_RS04300-MONOMER,HP_RS04300(),Sync
+HP_RS03310-MONOMER,HP_RS03310-MONOMER,HP0673(),Sync
+HP_RS02155-MONOMER,HP_RS02155-MONOMER,HP0434(),Sync
+HP_RS07965-MONOMER,HP_RS07965-MONOMER,HP_RS07965(),Sync
+HP_RS07120-MONOMER,HP_RS07120-MONOMER,HP_RS07120(),Sync
+HP_RS04935-MONOMER,HP_RS04935-MONOMER,HP_RS04935(),Sync
+HP_RS04250-MONOMER,HP_RS04250-MONOMER,HP0871(),Sync
+HP_RS03005-MONOMER,HP_RS03005-MONOMER,HP0609(),Sync
+HP_RS02045-MONOMER,HP_RS02045-MONOMER,HP0413(),Sync
+HP_RS07945-MONOMER,HP_RS07945-MONOMER,HP0938(),Sync
+HP_RS04870-MONOMER,HP_RS04870-MONOMER,HP0992(),Sync
+HP_RS04085-MONOMER,HP_RS04085-MONOMER,HP0836(),Sync
+HP_RS02490-MONOMER,HP_RS02490-MONOMER,HP0505(),Sync
+HP_RS01655-MONOMER,HP_RS01655-MONOMER,HP0336(),Sync
+HP_RS07930-MONOMER,HP_RS07930-MONOMER,HP_RS07930(),Sync
+HP_RS06210-MONOMER,HP_RS06210-MONOMER,HP1259(),Sync
+HP_RS04720-MONOMER,HP_RS04720-MONOMER,HP_RS04720(),Sync
+HP_RS03565-MONOMER,HP_RS03565-MONOMER,HP0733(),Sync
+HP_RS01020-MONOMER,HP_RS01020-MONOMER,HP0208(),Sync
+HP_RS07865-MONOMER,HP_RS07865-MONOMER,HP1589(),Sync
+HP_RS05840-MONOMER,HP_RS05840-MONOMER,HP1188(),Sync
+HP_RS04470-MONOMER,HP_RS04470-MONOMER,HP0915(),Sync
+HP_RS00915-MONOMER,HP_RS00915-MONOMER,HP0187(),Sync
+HP_RS05540-MONOMER,HP_RS05540-MONOMER,HP1127(),Sync
+HP_RS04410-MONOMER,HP_RS04410-MONOMER,HP0903(),Sync
+HP_RS03330-MONOMER,HP_RS03330-MONOMER,HP0679(),Sync
+HP_RS02170-MONOMER,HP_RS02170-MONOMER,HP0439(),Sync
+HP_RS07425-MONOMER,HP_RS07425-MONOMER,HP1499(),Sync
+HP_RS04945-MONOMER,HP_RS04945-MONOMER,HP1007(),Sync
+HP_RS04285-MONOMER,HP_RS04285-MONOMER,HP0879(),Sync
+HP_RS03135-MONOMER,HP_RS03135-MONOMER,HP0636(),Sync
+HP_RS02130-MONOMER,HP_RS02130-MONOMER,HP0428(),Sync
+HP_RS07950-MONOMER,HP_RS07950-MONOMER,HP_RS07950(),Sync
+HP_RS06940-MONOMER,HP_RS06940-MONOMER,HP_RS06940(),Sync
+HP_RS04905-MONOMER,HP_RS04905-MONOMER,HP0999(),Sync
+HP_RS02530-MONOMER,HP_RS02530-MONOMER,HP0513(),Sync
+HP_RS01685-MONOMER,HP_RS01685-MONOMER,HP0343(),Sync
+HP_RS07935-MONOMER,HP_RS07935-MONOMER,HP_RS07935(),Sync
+HP_RS06690-MONOMER,HP_RS06690-MONOMER,HP1354(),Sync
+HP_RS04735-MONOMER,HP_RS04735-MONOMER,HP_RS04735(),Sync
+HP_RS03705-MONOMER,HP_RS03705-MONOMER,HP0760(),Sync
+HP_RS02380-MONOMER,HP_RS02380-MONOMER,HP0481(),Sync
+HP_RS01250-MONOMER,HP_RS01250-MONOMER,HP0254(),Sync
+HP_RS07870-MONOMER,HP_RS07870-MONOMER,HP0521(),Sync
+HP_RS05970-MONOMER,HP_RS05970-MONOMER,HP1209(),Sync
+HP_RS04540-MONOMER,HP_RS04540-MONOMER,HP0931(),Sync
+HP_RS03475-MONOMER,HP_RS03475-MONOMER,HP0713(),Sync
+HP_RS02260-MONOMER,HP_RS02260-MONOMER,HP_RS02260(),Sync
+HP_RS00990-MONOMER,HP_RS00990-MONOMER,HP0203(),Sync
+HP_RS07850-MONOMER,HP_RS07850-MONOMER,HP1587(),Sync
+HP_RS05620-MONOMER,HP_RS05620-MONOMER,HP_RS05620(),Sync
+HP_RS04415-MONOMER,HP_RS04415-MONOMER,HP_RS04415(),Sync
+HP_RS02200-MONOMER,HP_RS02200-MONOMER,HP0445(),Sync
+HP_RS00550-MONOMER,HP_RS00550-MONOMER,HP0108(),Sync
+HP_RS07515-MONOMER,HP_RS07515-MONOMER,HP1519(),Sync
+HP_RS04955-MONOMER,HP_RS04955-MONOMER,HP1009(),Sync
+HP_RS04295-MONOMER,HP_RS04295-MONOMER,HP_RS04295(),Sync
+HP_RS03290-MONOMER,HP_RS03290-MONOMER,HP0669(),Sync
+HP_RS02135-MONOMER,HP_RS02135-MONOMER,HP_RS02135(),Sync
+HP_RS07960-MONOMER,HP_RS07960-MONOMER,HP_RS07960(),Sync
+HP_RS07055-MONOMER,HP_RS07055-MONOMER,HP1426(),Sync
+HP_RS04925-MONOMER,HP_RS04925-MONOMER,HP1003(),Sync
+HP_RS02700-MONOMER,HP_RS02700-MONOMER,HP0548(),Sync
+HP_RS01815-MONOMER,HP_RS01815-MONOMER,HP0369(),Sync
+HP0039m-MONOMER,TrbG/VirB9 family P-type conjugative transfer protein,HP0039m(),GenBank
+HP_0093-MONOMER,"alpha-(1,2)-fucosyltransferase FutC1",HP_0093(),GenBank
+HP_0094-MONOMER,hypothetical protein,HP_0094(),GenBank
+HP_0206-MONOMER,AAA family ATPase,HP_0206(),GenBank
+HP_0345-MONOMER,hypothetical protein,HP_0345(),GenBank
+HP_0427-MONOMER,hypothetical protein,HP_0427(),GenBank
+HP_0433-MONOMER,hypothetical protein,HP_0433(),GenBank
+HP_0452-MONOMER,McrB family protein,HP_0452(),GenBank
+HP_0460-MONOMER,hypothetical protein,HP_0460(),GenBank
+HP_0502-MONOMER,hypothetical protein,HP_0502(),GenBank
+HP_0521-MONOMER,cag pathogenicity island protein,HP_0521(),GenBank
+HP_0594-MONOMER,hypothetical protein,HP_0594(),GenBank
+HP_0611-MONOMER,hypothetical protein,HP_0611(),GenBank
+HP_0627-MONOMER,hypothetical protein,HP_0627(),GenBank
+HP_0628-MONOMER,HP0628 family Sel1-like repeat protein,HP_0628(),GenBank
+HP_0733-MONOMER,50S ribosome-binding GTPase,HP_0733(),GenBank
+HP_0756-MONOMER,hypothetical protein,HP_0756(),GenBank
+HP_0789-MONOMER,hypothetical protein,HP_0789(),GenBank
+HP0903m-MONOMER,acetate kinase,HP0903m(),GenBank
+HP_0905-MONOMER,phosphate acetyltransferase,HP_0905(),GenBank
+HP_0938-MONOMER,DUF262 domain-containing protein,HP_0938(),GenBank
+HP_0981-MONOMER,exodeoxyribonuclease VII large subunit,HP_0981(),GenBank
+HP_0990-MONOMER,hypothetical protein,HP_0990(),GenBank
+HP_0991-MONOMER,hypothetical protein,HP_0991(),GenBank
+HP_0992-MONOMER,hypothetical protein,HP_0992(),GenBank
+HP_0999-MONOMER,DNA methyltransferase,HP_0999(),GenBank
+HP1018-MONOMER,DegQ family serine endoprotease,HP1018(),GenBank
+HP_1070-MONOMER,hypothetical protein,HP_1070(),GenBank
+HP1215-MONOMER,LPS-assembly protein LptD,HP1215(),GenBank
+HP1353-MONOMER,N-6 DNA methylase,HP1353(),GenBank
+HP_1369-MONOMER,site-specific DNA-methyltransferase,HP_1369(),GenBank
+HP_1370-MONOMER,site-specific DNA-methyltransferase,HP_1370(),GenBank
+HP_1408-MONOMER,hypothetical protein,HP_1408(),GenBank
+HP1425-MONOMER,outer membrane beta-barrel protein,HP1425(),GenBank
+HP_1427-MONOMER,nickel storage protein Hpn,HP_1427(),GenBank
+HP_1432-MONOMER,nickel-binding protein HpnL,HP_1432(),GenBank
+HP_1587-MONOMER,ubiquinol-cytochrome C chaperone,HP_1587(),GenBank
+CPLX_CPPPGO-0,Coproporphyrinogen oxidase (O2 required),HP0665() AND HP1226(),iIT341(CPPPGO)
+CPLX_CYOO_HP-0,CYOO HP,HP0147() AND HP0146() AND HP1227() AND HP0144() AND HP0145(),iIT341(CYOO_HP)
+CPLX_ANS-0,Anthranilate synthase,HP1282() AND HP1281(),iIT341(ANS)
+CPLX_DHORTS-0,Dihydroorotase,HP0581() AND HP0266(),iIT341(DHORTS)
+CPLX_BC10_new-0,BC10 new,HP1540() AND HP1539() AND HP1538() AND HP1227(),iIT341(BC10_new)
+CPLX_C140SN-0,Fatty acid biosynthesis (n-C14:0),HP1376() AND HP0561() AND HP0558() AND HP0195(),iIT341(C140SN)
+CPLX_FMNRx2-0,FMN reductase,HP0642() AND HP1161(),iIT341(FMNRx2)
+CPLX_FRD5-0,FRD5,HP0192() AND HP0191() AND HP0193(),iIT341(FRD5)
+CPLX_GLUTRS-0,Glutamyl-tRNA synthetase,HP0643() AND HP0476(),iIT341(GLUTRS)
+CPLX_LPSSYN_HP-0,LPSSYN HP,HP1416() AND HP0279(),iIT341(LPSSYN_HP)
+CPLX_LPSSYN_HP-1,LPSSYN HP,HP0208() AND HP0279(),iIT341(LPSSYN_HP)
+CPLX_LPSSYN_HP-2,LPSSYN HP,HP0159() AND HP0279(),iIT341(LPSSYN_HP)
+CPLX_LPSSYN_HP-3,LPSSYN HP,HP0826() AND HP0094(),iIT341(LPSSYN_HP)
+CPLX_L_LACt2r-0,L lactate reversible transport via proton symport,HP0141() AND HP0140(),iIT341(L_LACt2r)
+CPLX_HYDA1-0,HYDA1,HP0633() AND HP0631() AND HP0632() AND HP0634(),iIT341(HYDA1)
+CPLX_PGCD-0,Phosphoglycerate dehydrogenase,HP0096() AND HP0397(),iIT341(PGCD)
+CPLX_NIabc-0,Nickel transport via ABC system,HP1077() AND HP1576(),iIT341(NIabc)
+CPLX_TRDR-0,Thioredoxin reductase (NADPH),HP0824() AND HP1458() AND HP0825() AND HP1164(),iIT341(TRDR)
+CPLX_PROabc-0,L-proline transport via ABC system,HP0819() AND HP0818(),iIT341(PROabc)
+CPLX_UREA-0,Urease,HP0069() AND HP0068() AND HP0067() AND HP0073() AND HP0070() AND HP0072(),iIT341(UREA)
+CPLX_RBFSa-0,Riboflavin synthase,HP0002() AND HP1574(),iIT341(RBFSa)

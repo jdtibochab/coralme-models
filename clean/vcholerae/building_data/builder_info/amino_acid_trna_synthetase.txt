@@ -18,4 +18,4 @@ ser__L_c,generic_ser_ligase
 thr__L_c,generic_thr_ligase
 trp__L_c,generic_trp_ligase
 tyr__L_c,generic_tyr_ligase
-val__L_c,FY484_RS12470-MONOMER
+val__L_c,FY484_RS12470-MONOMER_mod_mg2(1)

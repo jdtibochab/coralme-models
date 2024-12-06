@@ -605,7 +605,7 @@
         {
             "msg": "CPLX490-121 was identified as RNA polymerase",
             "importance": "high",
-            "to_do": "Check whether you need to correct RNAP by running me_builder.org.get_rna_polymerase(force_RNAP_as=correct_RNAP)"
+            "to_do": "Find correct RNAP complex and add force_RNAP_as:\"RNAP_COMPLEX_ID\" to the configuration (by default, organism.json)"
         }
     ],
     "org.update_ribosome_stoich": [
@@ -622,7 +622,7 @@
     ],
     "org.get_trna_synthetase": [
         {
-            "msg": "No tRNA ligases were found for some amino acids. Assigned CPLX_dummy.",
+            "msg": "No tRNA ligases were found for some amino acids. Will assign CPLX_dummy.",
             "triggered_by": [
                 "gln__L_c"
             ],
@@ -652,7 +652,7 @@
         {
             "msg": "NGAM could not be identified in M-model, setting a standard value of 1.",
             "importance": "high",
-            "to_do": "Manually define NGAM with me_builder.org.NGAM = NGAM_value. Check if a reaction with identifier NGAM or ATPM has a zero or negative lower bound."
+            "to_do": "Manually define NGAM with builder.configuration['ngam'] = NGAM_value. Check if a reaction with identifier NGAM or ATPM has a zero or negative lower bound."
         },
         {
             "msg": "Some compartments in m_model are unknown",
@@ -830,6 +830,30 @@
             "to_do": "Confirm whether the definitions or homology calls are correct in me_builder.org.ribosome_subreactions. Curate the inputs in ribosome_subreactions.txt accordingly."
         }
     ],
+    "update_amino_acid_trna_synthetases_from_homology": [
+        {
+            "msg": "Some enzymes identified in me_builder.org.amino_acid_trna_synthetase are different from the ones inferred from homology",
+            "triggered_by": [
+                {
+                    "amino_acid": "glu__L_c",
+                    "inferred_ligase": "generic_glu_ligase",
+                    "homology_ligase": "SYNPCC7942_2393-MONOMER_mod_mg2(1)_mod_zn2(1)"
+                },
+                {
+                    "amino_acid": "his__L_c",
+                    "inferred_ligase": "generic_his_ligase",
+                    "homology_ligase": "SYNPCC7942_2263-MONOMER_mod_mg2(4)"
+                },
+                {
+                    "amino_acid": "lys__L_c",
+                    "inferred_ligase": "SYNPCC7942_2415-MONOMER",
+                    "homology_ligase": "generic_LYSINEaaRS"
+                }
+            ],
+            "importance": "medium",
+            "to_do": "Confirm whether the definitions or homology calls are correct in me_builder.org.amino_acid_trna_synthetase. Curate the inputs in amino_acid_trna_synthetase.txt accordingly."
+        }
+    ],
     "check": [
         {
             "msg": "Some metabolites in me_metabolites.txt need curation",
@@ -863,75 +887,6 @@
             ],
             "importance": "medium",
             "to_do": "Map or remove these metabolites in me_metabolites.txt"
-        }
-    ],
-    "troubleshoot": [
-        {
-            "msg": "Some metabolites are necessary for growth",
-            "triggered_by": [
-                "TS_udpg_c",
-                "TS_4mop_c",
-                "TS_cgly_c",
-                "TS_2kmb_c",
-                "TS_uacgam_c",
-                "TS_mal__L_c",
-                "TS_pser__L_c",
-                "TS_ppbng_c",
-                "TS_hmbil_c",
-                "TS_ac_c",
-                "TS_phdp_c",
-                "TS_ahcys_c",
-                "TS_octapb_c",
-                "TS_thbpt_c",
-                "TS_nicrnt_c",
-                "TS_dtbt_c",
-                "TS_phom_c",
-                "TS_pram_c",
-                "TS_histda_c",
-                "TS_prpp_c",
-                "TS_h_u",
-                "TS_26dap_LL_c",
-                "TS_pcox_u",
-                "TS_iasp_c",
-                "TS_g1p_c",
-                "TS_dnad_c",
-                "TS_udpgal_c",
-                "TS_k_p",
-                "TS_pro__L_c",
-                "TS_asn__L_c",
-                "TS_3mop_c",
-                "TS_14dhncoa_c",
-                "TS_cys__L_c",
-                "TS_ipdp_c",
-                "TS_quln_c",
-                "TS_ggdp_c",
-                "TS_fum_c",
-                "TS_ps2d1_um",
-                "TS_gln__L_c",
-                "TS_achms_c",
-                "TS_udcpp_c",
-                "TS_hom__L_c",
-                "TS_2dhp_c",
-                "TS_pho_loss_c",
-                "TS_val__L_c",
-                "TS_amet_c",
-                "TS_udpglcur_c",
-                "TS_r5p_c",
-                "TS_gar_c",
-                "TS_4ppcys_c",
-                "TS_5aizc_c",
-                "TS_pre6b_c",
-                "TS_nadp_c",
-                "TS_nadph_c",
-                "TS_cobalt2_c",
-                "TS_4fe4s_c",
-                "TS_pi_c",
-                "TS_accoa_c",
-                "TS_fe2_c",
-                "TS_cu_c"
-            ],
-            "importance": "critical",
-            "to_do": "Fix the gaps by adding reactions or solving other warnings. If some items are from the E-matrix, fix these first!"
         }
     ]
 }

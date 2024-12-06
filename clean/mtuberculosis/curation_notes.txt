@@ -122,6 +122,22 @@ Make sure these metabolites are removed or connected properly
 
 
 #################### medium@org.read_gene_dictionary ####################
+********** Some genes are missing start positions in genes.txt
+The following items triggered the warning:
+G185E-8383
+
+**********Solution:
+Complete start positions in genes.txt if those genes are important.
+
+#################### medium@org.read_gene_dictionary ####################
+********** Some genes are missing end positions in genes.txt
+The following items triggered the warning:
+G185E-8383
+
+**********Solution:
+Complete end positions in genes.txt if those genes are important.
+
+#################### medium@org.read_gene_dictionary ####################
 ********** Some genes are missing Accession-1 IDs in genes.txt
 The following items triggered the warning:
 G185E-8383
@@ -223,44 +239,6 @@ EG50003-MONOMER
 
 **********Solution:
 Fill genes in proteins.txt
-
-
-
-
-#################### medium@org.sync_files ####################
-********** The types of some genes (e.g. CDS, RNA...) could not be identified. Is Product or Gene Name missing?
-The following items triggered the warning:
-G185E-8383
-G185E-8383
-Rv2098c
-Rv2098c
-Rv1150
-Rv1150
-Rv3324A
-Rv3324A
-Rv3022c
-Rv3022c
-Rv2099c
-Rv2099c
-Rv1792
-Rv1792
-Rv0277A
-Rv0277A
-Rv3128c
-Rv3128c
-Rv2427A
-Rv2427A
-Rv2023A
-Rv2023A
-Rv0947c
-Rv0947c
-Rv3216
-Rv3216
-Rv3021c
-Rv3021c
-
-**********Solution:
-Manually fill the products (with types) of these genes in genes.txt
 
 
 
@@ -409,7 +387,7 @@ Check whether the genbank was downloaded or constructed correctly.
 
 
 #################### critical@org.get_rpod ####################
-********** RpoD randomly assigned to G185E-6951-MONOMER
+********** RpoD randomly assigned to G185E-7604-MONOMER
 
 **********Solution:
 genome.gb does not have a valid annotation for RpoD. A random identified sigma factor in me_builder.org.sigmas was set as RpoD so that the builder can continue running. Set the correct RpoD by running me_builder.org.rpod = correct_rpod
@@ -462,7 +440,7 @@ If those TUs contain genes that are supposed to be in the model, fill them in TU
 
 
 #################### high@org.get_trna_synthetase ####################
-********** No tRNA ligases were found for some amino acids. Assigned CPLX_dummy.
+********** No tRNA ligases were found for some amino acids. Will assign CPLX_dummy.
 The following items triggered the warning:
 asn__L_c
 asp__L_c
@@ -592,6 +570,20 @@ Confirm whether the definitions or homology calls are correct in me_builder.org.
 
 
 
+#################### medium@update_amino_acid_trna_synthetases_from_homology ####################
+********** Some enzymes identified in me_builder.org.amino_acid_trna_synthetase are different from the ones inferred from homology
+The following items triggered the warning:
+
+{"amino_acid": "lys__L_c", "inferred_ligase": "generic_lys_ligase", "homology_ligase": "generic_LYSINEaaRS"}
+
+{"amino_acid": "phe__L_c", "inferred_ligase": "generic_phe_ligase", "homology_ligase": "CPLX185E-26_mod_mg2(1)"}
+
+**********Solution:
+Confirm whether the definitions or homology calls are correct in me_builder.org.amino_acid_trna_synthetase. Curate the inputs in amino_acid_trna_synthetase.txt accordingly.
+
+
+
+
 #################### medium@check ####################
 ********** Some metabolites in me_metabolites.txt need curation
 The following items triggered the warning:
@@ -706,21 +698,6 @@ iscu_c
 
 **********Solution:
 Map or remove these metabolites in me_metabolites.txt
-
-
-
-
-#################### critical@troubleshoot ####################
-********** Some metabolites are necessary for growth
-The following items triggered the warning:
-TS_mn2_c
-TS_4fe4s_c
-TS_cobalt2_c
-TS_k_c
-TS_zn2_c
-
-**********Solution:
-Fix the gaps by adding reactions or solving other warnings. If some items are from the E-matrix, fix these first!
 
 
 

@@ -63,5 +63,5 @@ BSU01420-MONOMER,ribosomal protein S11 (BS11),BSU01420(),BioCyc
 BSU01350-MONOMER,ribosomal protein L15,BSU01350(),BioCyc
 BSU01270-MONOMER,ribosomal protein L24 (BL23),BSU01270(),BioCyc
 BSU01190-MONOMER,ribosomal protein L2 (BL2),BSU01190(),BioCyc
-G8J2-165-MONOMER,ribosomal protein L33* pseudogene,BSU23836(),GenBank
-G8J2-166-MONOMER,ribosomal protein L33C pseudogene,BSU23837(),GenBank
+BSU23836-MONOMER,ribosomal protein L33* pseudogene,BSU23836(),GenBank
+BSU23837-MONOMER,ribosomal protein L33C pseudogene,BSU23837(),GenBank

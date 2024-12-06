@@ -121156,24 +121156,6 @@ ORIGIN
       361 tatctactca gcgaggcttc aagaagtgaa aaggcaagca aaaccgtcaa cagtttaaaa
       421 gaagatctca gtcggttatt agcagaataa
 //
-LOCUS       tfoR|G2G6Z-10||small       3 bp    DNA              UNK 01-JAN-1980
-DEFINITION  tfoR|G2G6Z-10||small regulatory RNA.
-ACCESSION   gcvB
-VERSION     gcvB
-KEYWORDS    .
-SOURCE      .
-  ORGANISM  .
-            .
-FEATURES             Location/Qualifiers
-     source          1..3
-                     /note="Added from BioCyc"
-     gene            1..3
-                     /locus_tag="gcvB"
-                     /product="small regulatory RNA"
-                     /transl_table=11
-ORIGIN
-        1 nil
-//
 LOCUS       ppiD|FY484_RS09590|FY484_RS09590|peptidylprolyl 1860 bp    DNA              UNK 01-JAN-1980
 DEFINITION  ppiD|FY484_RS09590|FY484_RS09590|peptidylprolyl isomerase.
 ACCESSION   ppiD
@@ -121232,24 +121214,6 @@ ORIGIN
      1681 gattttgacg gcaatatcgt tgtgattgag ttgagcaaag tggaaagtaa actgacaccg
      1741 gcttatcacg aacagatcgc tacacagtta gaacgtatcg gttctcagca agatctggcg
      1801 ggtgtgatca gtgtgttgcg tcaaaacacc gatattgagt atcacattgc gacagaataa
-//
-LOCUS       tfoR|G2G6Z-10||small       3 bp    DNA              UNK 01-JAN-1980
-DEFINITION  tfoR|G2G6Z-10||small regulatory RNA.
-ACCESSION   vsr217
-VERSION     vsr217
-KEYWORDS    .
-SOURCE      .
-  ORGANISM  .
-            .
-FEATURES             Location/Qualifiers
-     source          1..3
-                     /note="Added from BioCyc"
-     gene            1..3
-                     /locus_tag="vsr217"
-                     /product="small regulatory RNA"
-                     /transl_table=11
-ORIGIN
-        1 nil
 //
 LOCUS       lexA|FY484_RS00490|FY484_RS00490|transcriptional 630 bp    DNA              UNK 01-JAN-1980
 DEFINITION  lexA|FY484_RS00490|FY484_RS00490|transcriptional repressor LexA.
@@ -121456,24 +121420,6 @@ ORIGIN
       721 caaagcggcg agcgtgagca tttgcctcag gttattcgtc agtatggtat tgctagcgga
       781 cacatctgga atcagatgaa aatgacgctg ccgtccaatt ttactgaaga cgattgctaa
 //
-LOCUS       tfoR|G2G6Z-10||small       3 bp    DNA              UNK 01-JAN-1980
-DEFINITION  tfoR|G2G6Z-10||small regulatory RNA.
-ACCESSION   tarB
-VERSION     tarB
-KEYWORDS    .
-SOURCE      .
-  ORGANISM  .
-            .
-FEATURES             Location/Qualifiers
-     source          1..3
-                     /note="Added from BioCyc"
-     gene            1..3
-                     /locus_tag="tarB"
-                     /product="small regulatory RNA"
-                     /transl_table=11
-ORIGIN
-        1 nil
-//
 LOCUS       recD|FY484_RS11560|FY484_RS11560|exodeoxyribonuclease 2121 bp    DNA              UNK 01-JAN-1980
 DEFINITION  recD|FY484_RS11560|FY484_RS11560|exodeoxyribonuclease V subunit
             alpha.
@@ -121540,24 +121486,6 @@ ORIGIN
      1981 ctgacgcgtg agttagttta cacggggatc acaagggcga aaaaacagct caaattgtat
      2041 tgcgataaca aggtattgca gcgagcaatt aaagtgaaaa cccaacgggc gagtggctta
      2101 gtggcaaggt tggagcagta a
-//
-LOCUS       tfoR|G2G6Z-10||small       3 bp    DNA              UNK 01-JAN-1980
-DEFINITION  tfoR|G2G6Z-10||small regulatory RNA.
-ACCESSION   micV
-VERSION     micV
-KEYWORDS    .
-SOURCE      .
-  ORGANISM  .
-            .
-FEATURES             Location/Qualifiers
-     source          1..3
-                     /note="Added from BioCyc"
-     gene            1..3
-                     /locus_tag="micV"
-                     /product="small regulatory RNA"
-                     /transl_table=11
-ORIGIN
-        1 nil
 //
 LOCUS       radC|FY484_RS02715|FY484_RS02715|VSP-II; 474 bp    DNA              UNK 01-JAN-1980
 DEFINITION  radC|FY484_RS02715|FY484_RS02715|VSP-II; DNA repair protein RadC.
@@ -121866,24 +121794,6 @@ ORIGIN
      1081 ggtattctga tcggtgttat gtgtgtgctg atccgtgttg tgaacccggc ttacccagaa
      1141 ggcatgatgc tggcgatcct attcgcgaac ctatttgcgc cactgtttga ccatgtggtt
      1201 gtagagagaa atatcaagcg gagattagcg cgctatggca agcaataa
-//
-LOCUS       tfoR|G2G6Z-10||small       3 bp    DNA              UNK 01-JAN-1980
-DEFINITION  tfoR|G2G6Z-10||small regulatory RNA.
-ACCESSION   qrr4
-VERSION     qrr4
-KEYWORDS    .
-SOURCE      .
-  ORGANISM  .
-            .
-FEATURES             Location/Qualifiers
-     source          1..3
-                     /note="Added from BioCyc"
-     gene            1..3
-                     /locus_tag="qrr4"
-                     /product="quorum regulatory RNA 4"
-                     /transl_table=11
-ORIGIN
-        1 nil
 //
 LOCUS       aroE|FY484_RS00280|FY484_RS00280|shikimate 837 bp    DNA              UNK 01-JAN-1980
 DEFINITION  aroE|FY484_RS00280|FY484_RS00280|shikimate dehydrogenase.
@@ -122202,24 +122112,6 @@ ORIGIN
       361 ttggttgacg agtacgtggt tgatattcca caagacactt ggatcgagca accatgggac
       421 atggtgctgt cttatgttga gccagttaat cgcaagcaaa aatag
 //
-LOCUS       tfoR|G2G6Z-10||small       3 bp    DNA              UNK 01-JAN-1980
-DEFINITION  tfoR|G2G6Z-10||small regulatory RNA.
-ACCESSION   qrr3
-VERSION     qrr3
-KEYWORDS    .
-SOURCE      .
-  ORGANISM  .
-            .
-FEATURES             Location/Qualifiers
-     source          1..3
-                     /note="Added from BioCyc"
-     gene            1..3
-                     /locus_tag="qrr3"
-                     /product="quorum regulatory RNA 3"
-                     /transl_table=11
-ORIGIN
-        1 nil
-//
 LOCUS       rsmE|FY484_RS02515|FY484_RS02515|16S 732 bp    DNA              UNK 01-JAN-1980
 DEFINITION  rsmE|FY484_RS02515|FY484_RS02515|16S rRNA
             (uracil(1498)-N(3))-methyltransferase.
@@ -122319,25 +122211,6 @@ ORIGIN
       601 ccaggtaacg acgacgcgat ccgcgctgtt caactgtacc tgaatgctgc tgctcaagcg
       661 atcaacgaag gtcgtaacaa agacgtagct gctgtagctg aaaaagacgg tttcgtagaa
       721 gcggaataa
-//
-LOCUS       tfoR|G2G6Z-10||small       3 bp    DNA              UNK 01-JAN-1980
-DEFINITION  tfoR|G2G6Z-10||small regulatory RNA.
-ACCESSION   coaR
-VERSION     coaR
-KEYWORDS    .
-SOURCE      .
-  ORGANISM  .
-            .
-FEATURES             Location/Qualifiers
-     source          1..3
-                     /note="Added from BioCyc"
-     gene            1..3
-                     /locus_tag="coaR"
-                     /product="cholerae osmolarity and acidity related
-                     regulatory RNA"
-                     /transl_table=11
-ORIGIN
-        1 nil
 //
 LOCUS       trmB|FY484_RS02435|FY484_RS02435|tRNA 720 bp    DNA              UNK 01-JAN-1980
 DEFINITION  trmB|FY484_RS02435|FY484_RS02435|tRNA
@@ -122561,24 +122434,6 @@ ORIGIN
       181 gctctatctg atggtaaagt gaagttcgag gttaaaggtc ctaacaaccg taaattcgtt
       241 agcatcgaaa ctgctgaata a
 //
-LOCUS       tfoR|G2G6Z-10||small       3 bp    DNA              UNK 01-JAN-1980
-DEFINITION  tfoR|G2G6Z-10||small regulatory RNA.
-ACCESSION   rhyB
-VERSION     rhyB
-KEYWORDS    .
-SOURCE      .
-  ORGANISM  .
-            .
-FEATURES             Location/Qualifiers
-     source          1..3
-                     /note="Added from BioCyc"
-     gene            1..3
-                     /locus_tag="rhyB"
-                     /product="small regulatory RNA"
-                     /transl_table=11
-ORIGIN
-        1 nil
-//
 LOCUS       frdC|FY484_RS13210|FY484_RS13210|fumarate 384 bp    DNA              UNK 01-JAN-1980
 DEFINITION  frdC|FY484_RS13210|FY484_RS13210|fumarate reductase membrane protein
             FrdC.
@@ -122606,24 +122461,6 @@ ORIGIN
       241 ttccatgcgc aaaccttctt tagcatgatg ccacaagtcg tgcctattcg tttaggcggc
       301 aaactggttg ataaaaagat catcgtgcta gcacagtggg cggccgtggc ctttatctca
       361 ctgattgttc ttattgtggt gtaa
-//
-LOCUS       tfoR|G2G6Z-10||small       3 bp    DNA              UNK 01-JAN-1980
-DEFINITION  tfoR|G2G6Z-10||small regulatory RNA.
-ACCESSION   carZ
-VERSION     carZ
-KEYWORDS    .
-SOURCE      .
-  ORGANISM  .
-            .
-FEATURES             Location/Qualifiers
-     source          1..3
-                     /note="Added from BioCyc"
-     gene            1..3
-                     /locus_tag="carZ"
-                     /product="small regulatory RNA"
-                     /transl_table=11
-ORIGIN
-        1 nil
 //
 LOCUS       rrf|FY484_RS13700|FY484_RS13700|5S 116 bp    DNA              UNK 01-JAN-1980
 DEFINITION  rrf|FY484_RS13700|FY484_RS13700|5S ribosomal RNA.
@@ -122832,24 +122669,6 @@ ORIGIN
         1 ccctggtcct cccgcaacac tagttcgtga acctggtcag atccggaagg aagcagccac
        61 agcggatgat gtgtgtgccg ggatgtggct ggggtct
 //
-LOCUS       tfoR|G2G6Z-10||small       3 bp    DNA              UNK 01-JAN-1980
-DEFINITION  tfoR|G2G6Z-10||small regulatory RNA.
-ACCESSION   micX
-VERSION     micX
-KEYWORDS    .
-SOURCE      .
-  ORGANISM  .
-            .
-FEATURES             Location/Qualifiers
-     source          1..3
-                     /note="Added from BioCyc"
-     gene            1..3
-                     /locus_tag="micX"
-                     /product="small regulatory RNA"
-                     /transl_table=11
-ORIGIN
-        1 nil
-//
 LOCUS       acfC|FY484_RS04345|FY484_RS04345|accessory 771 bp    DNA              UNK 01-JAN-1980
 DEFINITION  acfC|FY484_RS04345|FY484_RS04345|accessory colonization factor.
 ACCESSION   acfC
@@ -122884,24 +122703,6 @@ ORIGIN
       601 aatccaacaa tcggcgatat ggttagaatg gaggatgaat atcgtattta tcgtgacttc
       661 aacgttgttc ttgccaaaaa tccatctagt gaagcgattg acttttttga ttatctaaca
       721 aaaagcaaag acgctgaagc aatctttcag cactatggct ggtttaagtg a
-//
-LOCUS       tfoR|G2G6Z-10||small       3 bp    DNA              UNK 01-JAN-1980
-DEFINITION  tfoR|G2G6Z-10||small regulatory RNA.
-ACCESSION   mtlS
-VERSION     mtlS
-KEYWORDS    .
-SOURCE      .
-  ORGANISM  .
-            .
-FEATURES             Location/Qualifiers
-     source          1..3
-                     /note="Added from BioCyc"
-     gene            1..3
-                     /locus_tag="mtlS"
-                     /product="mannitol operon sRNA"
-                     /transl_table=11
-ORIGIN
-        1 nil
 //
 LOCUS       FY484_RS18095|FY484_RS18095|FY484_RS18095|acetoacetate--CoA 1980 bp    DNA              UNK 01-JAN-1980
 DEFINITION  FY484_RS18095|FY484_RS18095|FY484_RS18095|acetoacetate--CoA ligase.
@@ -123166,42 +122967,6 @@ ORIGIN
      1741 tatctagttc aagagaattt atccgcgatg gaacgaacta aacaggcaaa tcagaatatc
      1801 tctgatttga ccaccaatct aaatgatgct cttagctttt ttaaaattga gcttacttca
      1861 taa
-//
-LOCUS       tfoR|G2G6Z-10||small       3 bp    DNA              UNK 01-JAN-1980
-DEFINITION  tfoR|G2G6Z-10||small regulatory RNA.
-ACCESSION   vqmR
-VERSION     vqmR
-KEYWORDS    .
-SOURCE      .
-  ORGANISM  .
-            .
-FEATURES             Location/Qualifiers
-     source          1..3
-                     /note="Added from BioCyc"
-     gene            1..3
-                     /locus_tag="vqmR"
-                     /product="small regulatory RNA"
-                     /transl_table=11
-ORIGIN
-        1 nil
-//
-LOCUS       tfoR|G2G6Z-10||small       3 bp    DNA              UNK 01-JAN-1980
-DEFINITION  tfoR|G2G6Z-10||small regulatory RNA.
-ACCESSION   tfoR
-VERSION     tfoR
-KEYWORDS    .
-SOURCE      .
-  ORGANISM  .
-            .
-FEATURES             Location/Qualifiers
-     source          1..3
-                     /note="Added from BioCyc"
-     gene            complement(1..3)
-                     /locus_tag="tfoR"
-                     /product="small regulatory RNA"
-                     /transl_table=11
-ORIGIN
-        1 nil
 //
 LOCUS       flgK|FY484_RS10965|FY484_RS10965|flagellar 1875 bp    DNA              UNK 01-JAN-1980
 DEFINITION  flgK|FY484_RS10965|FY484_RS10965|flagellar hook-associated protein
@@ -123477,24 +123242,6 @@ ORIGIN
       241 taattcaggt tagccattcg ttagcgtgtc ggttcgcagg cggtggtgaa attaaagatc
       301 gactaagcat gtagtaccaa agatgaatgg ttttcggacg ggggttcaac tccccccagc
       361 tccacca
-//
-LOCUS       tfoR|G2G6Z-10||small       3 bp    DNA              UNK 01-JAN-1980
-DEFINITION  tfoR|G2G6Z-10||small regulatory RNA.
-ACCESSION   qrr1
-VERSION     qrr1
-KEYWORDS    .
-SOURCE      .
-  ORGANISM  .
-            .
-FEATURES             Location/Qualifiers
-     source          1..3
-                     /note="Added from BioCyc"
-     gene            1..3
-                     /locus_tag="qrr1"
-                     /product="quorum regulatory RNA 1"
-                     /transl_table=11
-ORIGIN
-        1 nil
 //
 LOCUS       ybaK|FY484_RS10805|FY484_RS10805|Cys-tRNA(Pro) 483 bp    DNA              UNK 01-JAN-1980
 DEFINITION  ybaK|FY484_RS10805|FY484_RS10805|Cys-tRNA(Pro) deacylase.
@@ -123811,24 +123558,6 @@ ORIGIN
       961 ttgacgacag gcggaacatc tgatggtcgc ttcattgccc aaatgggcgc acaagtggtt
      1021 gagctcggtc ccgtcaatgc caccattcac aaggtaaacg agtgtgtacg tattgcggat
      1081 ttagagaaat tgaccgatat gtatcaaaaa accttaaatc atcttttagg ctaa
-//
-LOCUS       tfoR|G2G6Z-10||small       3 bp    DNA              UNK 01-JAN-1980
-DEFINITION  tfoR|G2G6Z-10||small regulatory RNA.
-ACCESSION   csrB
-VERSION     csrB
-KEYWORDS    .
-SOURCE      .
-  ORGANISM  .
-            .
-FEATURES             Location/Qualifiers
-     source          1..3
-                     /note="Added from BioCyc"
-     gene            1..3
-                     /locus_tag="csrB"
-                     /product="small regulatory RNA"
-                     /transl_table=11
-ORIGIN
-        1 nil
 //
 LOCUS       amiB|FY484_RS01840|FY484_RS01840|<i>N</i>-acetylmuramoyl-L-alanine 1719 bp    DNA              UNK 01-JAN-1980
 DEFINITION  amiB|FY484_RS01840|FY484_RS01840|<i>N</i>-acetylmuramoyl-L-alanine
@@ -124436,42 +124165,6 @@ ORIGIN
       601 gcatttttga gccaaggtaa agtgaaggtg gtgagtgatt gtcaggcagt gacagcgcag
       661 catcctcatc ctgaactggc tcagtttgtg gcagcggcac tgaatgagcc gaaataa
 //
-LOCUS       tfoR|G2G6Z-10||small       3 bp    DNA              UNK 01-JAN-1980
-DEFINITION  tfoR|G2G6Z-10||small regulatory RNA.
-ACCESSION   vrrA
-VERSION     vrrA
-KEYWORDS    .
-SOURCE      .
-  ORGANISM  .
-            .
-FEATURES             Location/Qualifiers
-     source          1..3
-                     /note="Added from BioCyc"
-     gene            1..3
-                     /locus_tag="vrrA"
-                     /product="small regulatory RNA"
-                     /transl_table=11
-ORIGIN
-        1 nil
-//
-LOCUS       tfoR|G2G6Z-10||small       3 bp    DNA              UNK 01-JAN-1980
-DEFINITION  tfoR|G2G6Z-10||small regulatory RNA.
-ACCESSION   oppZ
-VERSION     oppZ
-KEYWORDS    .
-SOURCE      .
-  ORGANISM  .
-            .
-FEATURES             Location/Qualifiers
-     source          1..3
-                     /note="Added from BioCyc"
-     gene            1..3
-                     /locus_tag="oppZ"
-                     /product="small regulatory RNA"
-                     /transl_table=11
-ORIGIN
-        1 nil
-//
 LOCUS       pstB1|FY484_RS03810|FY484_RS03810|phosphate 822 bp    DNA              UNK 01-JAN-1980
 DEFINITION  pstB1|FY484_RS03810|FY484_RS03810|phosphate ABC transporter
             ATP-binding protein.
@@ -124622,42 +124315,6 @@ ORIGIN
       601 accatcaaat gtgtggtgtt tgcgtttacc gtgacttgga ttgctctgtt taacggttat
       661 gacgcgatcc cgacttcaga agggatcagc cgagcgacca ctcgcaccgt agtgcactca
       721 tcactggccg tacttgggct ggattttgtt ctaaccgcat tgatgtttgg gaactga
-//
-LOCUS       tfoR|G2G6Z-10||small       3 bp    DNA              UNK 01-JAN-1980
-DEFINITION  tfoR|G2G6Z-10||small regulatory RNA.
-ACCESSION   tarA
-VERSION     tarA
-KEYWORDS    .
-SOURCE      .
-  ORGANISM  .
-            .
-FEATURES             Location/Qualifiers
-     source          1..3
-                     /note="Added from BioCyc"
-     gene            1..3
-                     /locus_tag="tarA"
-                     /product="small regulatory RNA"
-                     /transl_table=11
-ORIGIN
-        1 nil
-//
-LOCUS       tfoR|G2G6Z-10||small       3 bp    DNA              UNK 01-JAN-1980
-DEFINITION  tfoR|G2G6Z-10||small regulatory RNA.
-ACCESSION   vadR
-VERSION     vadR
-KEYWORDS    .
-SOURCE      .
-  ORGANISM  .
-            .
-FEATURES             Location/Qualifiers
-     source          1..3
-                     /note="Added from BioCyc"
-     gene            1..3
-                     /locus_tag="vadR"
-                     /product="small regulatory RNA"
-                     /transl_table=11
-ORIGIN
-        1 nil
 //
 LOCUS       FY484_RS08275|FY484_RS08275|FY484_RS08275|HAD 609 bp    DNA              UNK 01-JAN-1980
 DEFINITION  FY484_RS08275|FY484_RS08275|FY484_RS08275|HAD family phosphatase.
@@ -124862,24 +124519,6 @@ ORIGIN
       841 gtgtttgccg cgggtgatgt gatggatcat aactaccgtc aagcgattac ctctgccgga
       901 accgggtgta tggcagcact cgatgctgaa cgttacctag atagccaggg taaataa
 //
-LOCUS       tfoR|G2G6Z-10||small       3 bp    DNA              UNK 01-JAN-1980
-DEFINITION  tfoR|G2G6Z-10||small regulatory RNA.
-ACCESSION   qrr2
-VERSION     qrr2
-KEYWORDS    .
-SOURCE      .
-  ORGANISM  .
-            .
-FEATURES             Location/Qualifiers
-     source          1..3
-                     /note="Added from BioCyc"
-     gene            1..3
-                     /locus_tag="qrr2"
-                     /product="quorum regulatory RNA 2"
-                     /transl_table=11
-ORIGIN
-        1 nil
-//
 LOCUS       parC|FY484_RS10300|FY484_RS10300|cluster 777 bp    DNA              UNK 01-JAN-1980
 DEFINITION  parC|FY484_RS10300|FY484_RS10300|cluster II/F6 chemosensory system,
             ParC ATPase.
@@ -125033,24 +124672,6 @@ ORIGIN
       601 gcgattgaaa atgtgatgcg cccagattcc atccagaccc acaaacagcg ttttgccact
       661 ctcggctttt ctagctttga agtctggttc cagtgcttta actttggctc tatgttcgcc
       721 attaagtaa
-//
-LOCUS       tfoR|G2G6Z-10||small       3 bp    DNA              UNK 01-JAN-1980
-DEFINITION  tfoR|G2G6Z-10||small regulatory RNA.
-ACCESSION   farS
-VERSION     farS
-KEYWORDS    .
-SOURCE      .
-  ORGANISM  .
-            .
-FEATURES             Location/Qualifiers
-     source          1..3
-                     /note="Added from BioCyc"
-     gene            1..3
-                     /locus_tag="farS"
-                     /product="fatty acid regulated sRNA"
-                     /transl_table=11
-ORIGIN
-        1 nil
 //
 LOCUS       rnc|FY484_RS12235|FY484_RS12235|ribonuclease 678 bp    DNA              UNK 01-JAN-1980
 DEFINITION  rnc|FY484_RS12235|FY484_RS12235|ribonuclease III.
@@ -125325,24 +124946,6 @@ ORIGIN
       541 ggcgctcaac cgcgaaaatt gttgtttgat ccacagaccg ggcaggcatg ggtaaaacgc
       601 attggattta gttcggcgca tgcaattaaa caggatgaag aactctatca acacagcata
       661 gataagcaaa ttccctctga cgatgtggag ttgtttcaat ga
-//
-LOCUS       tfoR|G2G6Z-10||small       3 bp    DNA              UNK 01-JAN-1980
-DEFINITION  tfoR|G2G6Z-10||small regulatory RNA.
-ACCESSION   vcdP
-VERSION     vcdP
-KEYWORDS    .
-SOURCE      .
-  ORGANISM  .
-            .
-FEATURES             Location/Qualifiers
-     source          1..3
-                     /note="Added from BioCyc"
-     gene            1..3
-                     /locus_tag="vcdP"
-                     /product="citrate synthase binding protein"
-                     /transl_table=11
-ORIGIN
-        1 nil
 //
 LOCUS       rpmF|FY484_RS10105|FY484_RS10105|50S 171 bp    DNA              UNK 01-JAN-1980
 DEFINITION  rpmF|FY484_RS10105|FY484_RS10105|50S ribosomal protein L32.

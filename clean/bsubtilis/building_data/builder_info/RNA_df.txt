@@ -295,7 +295,6 @@ BSU_misc_RNA_21-RNA,S-adenosylmethionine riboswitch,BSU_misc_RNA_21
 charged-BSU_tRNA_31-tRNA,charged tRNA-Glu,
 BSU_tRNA_67-tRNA,tRNA-His,BSU_tRNA_67
 MONOMER8J2-47,MONOMER8J2-47,BSU04536
-BSU_misc_RNA_38-RNA,BSU_misc_RNA_38-RNA,BSU_misc_RNA_38
 MONOMER8J2-46,MONOMER8J2-46,BSU21546
 BSU_misc_RNA_17-misc_RNA,T-box riboswitch specific of proline tRNA,BSU_misc_RNA_17
 BSU_misc_RNA_34-misc_RNA,guanine riboswitch,BSU_misc_RNA_34

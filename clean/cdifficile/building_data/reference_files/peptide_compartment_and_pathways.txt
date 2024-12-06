@@ -1029,4 +1029,4 @@ CPLX_CO1abc-1	Inner_Membrane	CD630_28770()	Inner_Membrane	r
 CPLX12WB-65	Inner_Membrane	CD630_26740()	Inner_Membrane	r
 CPLX12WB-95	Inner_Membrane	CD630_14820()	Inner_Membrane	r
 G12WB-1672-MONOMER	Periplasm	CD630_15340()	Periplasm	s
-G12WB-4221-MONOMER	Inner_Membrane	CD630_06060()	Inner_Membrane	r
+CD630_06060-MONOMER	Inner_Membrane	CD630_06060()	Inner_Membrane	r

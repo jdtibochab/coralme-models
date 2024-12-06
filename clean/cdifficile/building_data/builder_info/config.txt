@@ -1,6 +1,6 @@
 ,value
 ME-Model-ID,cdifficile
-amino_acid_trna_synthetase,"{'ala__L_c': 'generic_ala_ligase', 'arg__L_c': 'G12WB-821-MONOMER', 'asn__L_c': 'G12WB-2400-MONOMER', 'asp__L_c': 'G12WB-2897-MONOMER', 'cys__L_c': 'G12WB-105-MONOMER', 'gln__L_c': 'G12WB-2210-MONOMER', 'glu__L_c': 'G12WB-103-MONOMER', 'gly_c': 'CPLX12WB-7', 'his__L_c': 'G12WB-2898-MONOMER', 'ile__L_c': 'G12WB-2769-MONOMER', 'leu__L_c': 'G12WB-2676-MONOMER', 'lys__L_c': 'G12WB-3738-MONOMER', 'met__L_c': 'G12WB-3721-MONOMER', 'phe__L_c': 'CPLX12WB-8', 'pro__L_c': 'generic_pro_ligase', 'ser__L_c': 'generic_ser_ligase', 'thr__L_c': 'G12WB-685-MONOMER', 'trp__L_c': 'G12WB-2761-MONOMER', 'tyr__L_c': 'G12WB-1659-MONOMER', 'val__L_c': 'G12WB-3423-MONOMER'}"
+amino_acid_trna_synthetase,"{'ala__L_c': 'generic_ala_ligase', 'arg__L_c': 'G12WB-821-MONOMER_mod_mg2(1)', 'asn__L_c': 'G12WB-2400-MONOMER', 'asp__L_c': 'G12WB-2897-MONOMER', 'cys__L_c': 'G12WB-105-MONOMER_mod_zn2(1)', 'gln__L_c': 'G12WB-2210-MONOMER', 'glu__L_c': 'G12WB-103-MONOMER_mod_mg2(1)_mod_zn2(1)', 'gly_c': 'CPLX12WB-7', 'his__L_c': 'G12WB-2898-MONOMER_mod_mg2(4)', 'ile__L_c': 'G12WB-2769-MONOMER_mod_zn2(2)', 'leu__L_c': 'G12WB-2676-MONOMER', 'lys__L_c': 'G12WB-3738-MONOMER', 'met__L_c': 'G12WB-3721-MONOMER_mod_zn2(2)', 'phe__L_c': 'CPLX12WB-8_mod_mg2(1)', 'pro__L_c': 'generic_pro_ligase', 'ser__L_c': 'generic_ser_ligase', 'thr__L_c': 'G12WB-685-MONOMER_mod_zn2(1)', 'trp__L_c': 'G12WB-2761-MONOMER_mod_mg2(1)', 'tyr__L_c': 'G12WB-1659-MONOMER', 'val__L_c': 'G12WB-3423-MONOMER_mod_mg2(1)'}"
 biocyc.RNAs,./cdifficile/inputs/RNAs.txt
 biocyc.TUs,./cdifficile/inputs/TUs.txt
 biocyc.genes,./cdifficile/inputs/genes.txt
@@ -13,7 +13,7 @@ braun's_murein_flux,-0.0
 complex_cofactors,"{'fes_transfers': ['CPLX_dummy'], 'biotin_subreactions': {'mod_btn_c': ['biotin_ligase']}, 'lipoate_subreactions': {'mod_lipoyl_c': ['lipoyl_denovo', 'lipoyl_scavenging']}, 'fes_chaperones': {}, 'bmocogdp_chaperones': {}, 'FeFe/NiFe': {'mod_FeFe_cofactor_c': '', 'mod_NiFe_cofactor_c': ''}}"
 default_sigma_factor,G12WB-110-MONOMER
 defer_to_rxn_matrix,"['BIOMASS__5', 'FMETTRS', 'ATPM']"
-dev_reference,False
+dev_reference,True
 df_TranscriptionalUnits,./cdifficile//building_data/TUs_from_biocyc.txt
 df_gene_cplxs_mods_rxns,./cdifficile/building_data/automated-org-with-refs.xlsx
 flux_of_biomass_constituents,{}

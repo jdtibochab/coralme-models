@@ -22,6 +22,11 @@ for m in model.metabolites:
 for m in model.metabolites:
     if '-L_' in m.id:
         m.id = m.id.replace('-L_','__L_')
+
+## chitin_e
+model.metabolites.chitin_e.formula = "C8H13NO5"
+model.metabolites.chitin_p.formula = "C8H13NO5"
+
 ##
 cobra.io.save_json_model(model,'./inputs/m_model.json')
 

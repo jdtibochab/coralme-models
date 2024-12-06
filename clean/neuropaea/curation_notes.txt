@@ -407,7 +407,7 @@ Curate them in ribosomal_proteins.txt
 
 
 #################### high@org.get_trna_synthetase ####################
-********** No tRNA ligases were found for some amino acids. Assigned CPLX_dummy.
+********** No tRNA ligases were found for some amino acids. Will assign CPLX_dummy.
 The following items triggered the warning:
 asn__L_c
 
@@ -575,6 +575,20 @@ Confirm whether the definitions or homology calls are correct in me_builder.org.
 
 
 
+#################### medium@update_amino_acid_trna_synthetases_from_homology ####################
+********** Some enzymes identified in me_builder.org.amino_acid_trna_synthetase are different from the ones inferred from homology
+The following items triggered the warning:
+
+{"amino_acid": "gln__L_c", "inferred_ligase": "generic_gln_ligase", "homology_ligase": "ALW85_RS12320-MONOMER"}
+
+{"amino_acid": "lys__L_c", "inferred_ligase": "ALW85_RS12280-MONOMER_mod_mg2(6)", "homology_ligase": "generic_LYSINEaaRS"}
+
+**********Solution:
+Confirm whether the definitions or homology calls are correct in me_builder.org.amino_acid_trna_synthetase. Curate the inputs in amino_acid_trna_synthetase.txt accordingly.
+
+
+
+
 #################### medium@check ####################
 ********** Some metabolites in me_metabolites.txt need curation
 The following items triggered the warning:
@@ -608,18 +622,6 @@ iscu_4fe4s_c
 
 **********Solution:
 Map or remove these metabolites in me_metabolites.txt
-
-
-
-
-#################### critical@troubleshoot ####################
-********** Some metabolites are necessary for growth
-The following items triggered the warning:
-TS_4fe4s_c
-TS_dpm_c
-
-**********Solution:
-Fix the gaps by adding reactions or solving other warnings. If some items are from the E-matrix, fix these first!
 
 
 

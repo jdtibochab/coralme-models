@@ -254,40 +254,6 @@ Fill genes in proteins.txt
 
 
 
-#################### medium@org.sync_files ####################
-********** The types of some genes (e.g. CDS, RNA...) could not be identified. Is Product or Gene Name missing?
-The following items triggered the warning:
-G12WB-4608
-G12WB-4608
-CD630_19260
-CD630_19260
-CD630_01800
-CD630_01800
-CD630_23020
-CD630_23020
-CD630_06060
-CD630_06060
-CD630_01570
-CD630_01570
-CD630_18200
-CD630_18200
-CD630_07650
-CD630_07650
-CD630_06071
-CD630_06071
-CD630_36740
-CD630_36740
-CD630_22180
-CD630_22180
-CD630_08570
-CD630_08570
-
-**********Solution:
-Manually fill the products (with types) of these genes in genes.txt
-
-
-
-
 #################### critical@org.check_for_duplicates ####################
 ********** Some datasets contain duplicate indices or Accession IDs.
 The following items triggered the warning:
@@ -436,7 +402,7 @@ Check whether you need to correct RpoD by running me_builder.org.rpod = correct_
 ********** CPLX12WB-1 was identified as RNA polymerase
 
 **********Solution:
-Check whether you need to correct RNAP by running me_builder.org.get_rna_polymerase(force_RNAP_as=correct_RNAP)
+Find correct RNAP complex and add force_RNAP_as:"RNAP_COMPLEX_ID" to the configuration (by default, organism.json)
 
 
 
@@ -444,10 +410,28 @@ Check whether you need to correct RNAP by running me_builder.org.get_rna_polymer
 #################### medium@org.get_TU_df ####################
 ********** Some genes appear in TUs.txt but not in genes.txt
 The following items triggered the warning:
+G12WB-967
+G12WB-2374
+G12WB-877
+G12WB-261
 G12WB-4213
+G12WB-2456
+G12WB-3866
+G12WB-1964
 
 **********Solution:
 If those genes are supposed to be in the model, fill them in genes.txt
+
+#################### medium@org.get_TU_df ####################
+********** Some TUs are either empty (no genes in TUs.txt) or contain genes that are not in genes.txt
+The following items triggered the warning:
+TU12WB-1302
+TU12WB-2386
+TU12WB-1356
+TU12WB-1048
+
+**********Solution:
+If those TUs contain genes that are supposed to be in the model, fill them in TUs.txt and genes.txt
 
 
 
@@ -498,7 +482,7 @@ Check that the model you provided works
 ********** NGAM could not be identified in M-model, setting a standard value of 1.
 
 **********Solution:
-Manually define NGAM with me_builder.org.NGAM = NGAM_value. Check if a reaction with identifier NGAM or ATPM has a zero or negative lower bound.
+Manually define NGAM with builder.configuration['ngam'] = NGAM_value. Check if a reaction with identifier NGAM or ATPM has a zero or negative lower bound.
 
 
 
@@ -625,6 +609,24 @@ Confirm whether the definitions or homology calls are correct in me_builder.org.
 
 
 
+#################### medium@update_amino_acid_trna_synthetases_from_homology ####################
+********** Some enzymes identified in me_builder.org.amino_acid_trna_synthetase are different from the ones inferred from homology
+The following items triggered the warning:
+
+{"amino_acid": "ala__L_c", "inferred_ligase": "generic_ala_ligase", "homology_ligase": "G12WB-1416-MONOMER_mod_zn2(4)"}
+
+{"amino_acid": "lys__L_c", "inferred_ligase": "G12WB-3738-MONOMER", "homology_ligase": "generic_LYSINEaaRS"}
+
+{"amino_acid": "pro__L_c", "inferred_ligase": "generic_pro_ligase", "homology_ligase": "G12WB-101-MONOMER"}
+
+{"amino_acid": "ser__L_c", "inferred_ligase": "generic_ser_ligase", "homology_ligase": "G12WB-18-MONOMER_mod_mg2(1)"}
+
+**********Solution:
+Confirm whether the definitions or homology calls are correct in me_builder.org.amino_acid_trna_synthetase. Curate the inputs in amino_acid_trna_synthetase.txt accordingly.
+
+
+
+
 #################### medium@check ####################
 ********** Some metabolites in me_metabolites.txt need curation
 The following items triggered the warning:
@@ -659,22 +661,6 @@ iscssh_c
 
 **********Solution:
 Map or remove these metabolites in me_metabolites.txt
-
-
-
-
-#################### critical@troubleshoot ####################
-********** Some metabolites are necessary for growth
-The following items triggered the warning:
-TS_mn2_c
-TS_pan4p_c
-TS_pydx5p_c
-TS_4fe4s_c
-TS_accoa_c
-TS_cbl1_c
-
-**********Solution:
-Fix the gaps by adding reactions or solving other warnings. If some items are from the E-matrix, fix these first!
 
 
 

@@ -4355,7 +4355,6 @@ BSU_misc_RNA_34,misc
 BSU_misc_RNA_35,misc
 BSU_misc_RNA_36,misc
 BSU_misc_RNA_37,misc
-BSU_misc_RNA_38,RNA
 BSU_misc_RNA_39,misc
 BSU_misc_RNA_4,misc
 BSU_misc_RNA_40,misc

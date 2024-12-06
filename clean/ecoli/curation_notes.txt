@@ -486,6 +486,62 @@ Make sure the subsystems of these reactions are correct
 
 
 #################### medium@org.read_gene_dictionary ####################
+********** Some genes are missing start positions in genes.txt
+The following items triggered the warning:
+G0-9281
+G6722
+EG12162
+G6222
+G0-10697
+G7904
+G7585
+G6298
+EG11986
+G6130
+EG11092
+G7075
+G7671
+G6692
+EG12238
+EG12051
+G6214
+G26
+G14
+EG10659
+G7760
+
+**********Solution:
+Complete start positions in genes.txt if those genes are important.
+
+#################### medium@org.read_gene_dictionary ####################
+********** Some genes are missing end positions in genes.txt
+The following items triggered the warning:
+G0-9281
+G6722
+EG12162
+G6222
+G0-10697
+G7904
+G7585
+G6298
+EG11986
+G6130
+EG11092
+G7075
+G7671
+G6692
+EG12238
+EG12051
+G6214
+G26
+G14
+EG10659
+G7760
+
+**********Solution:
+Complete end positions in genes.txt if those genes are important.
+
+#################### medium@org.read_gene_dictionary ####################
 ********** Some genes are missing Accession-1 IDs in genes.txt
 The following items triggered the warning:
 G0-9281
@@ -554,12 +610,6 @@ Complete Accession-1 IDs in genes.txt if those genes are important.
 #################### medium@org.sync_files ####################
 ********** The types of some genes (e.g. CDS, RNA...) could not be identified. Is Product or Gene Name missing?
 The following items triggered the warning:
-b4654
-b4654
-b4651
-b4651
-b4627
-b4627
 b3459
 b3459
 G0-9281
@@ -760,8 +810,6 @@ b1237
 b1237
 b3261
 b3261
-b4505
-b4505
 b1608
 b1608
 b3060
@@ -776,32 +824,22 @@ b1712
 b1712
 b1040
 b1040
-G0-10697
-G0-10697
 b3237
 b3237
 b2369
 b2369
 b4521
 b4521
-b4499
-b4499
 b0912
 b0912
-b4578
-b4578
 b2381
 b2381
-b4236
-b4236
 b4112
 b4112
 b4113
 b4113
 b1969
 b1969
-b4576
-b4576
 b4689
 b4689
 b4610
@@ -1384,208 +1422,38 @@ b4666
 b4666
 b0730
 b0730
-b2191
-b2191
-b0165
-b0165
-G0-8898
-G0-8898
 b1594
 b1594
-b4223
-b4223
-b1437
-b1437
-b0017
-b0017
-G0-8893
-G0-8893
-b4274
-b4274
-b1364
-b1364
-G0-9387
-G0-9387
-G0-10704
-G0-10704
-b3975
-b3975
-b1005
-b1005
-G0-8911
-G0-8911
-G0-10700
-G0-10700
-b3004
-b3004
-b0609
-b0609
-G0-8906
-G0-8906
-b4591
-b4591
 b4794
 b4794
-b2596
-b2596
-b0309
-b0309
-G0-8902
-G0-8902
 b4517
 b4517
-b0079
-b0079
-b1903
-b1903
 b4803
 b4803
-b0100
-b0100
 b4751
 b4751
-G0-8894
-G0-8894
-b0701
-b0701
-b1367
-b1367
-b4617
-b4617
-G0-10705
-G0-10705
-b4247
-b4247
 b4766
 b4766
-b1052
-b1052
-G0-8912
-G0-8912
-G0-10702
-G0-10702
-b3007
-b3007
 b1658
 b1658
-b0725
-b0725
-G0-8907
-G0-8907
-b4607
-b4607
-b2651
-b2651
-b0370
-b0370
-G0-8903
-G0-8903
-G0-10202
-G0-10202
-b2084
-b2084
-b0105
-b0105
-G0-8896
-G0-8896
-b3036
-b3036
-b1425
-b1425
-G14
-G14
-b4448
-b4448
-b4250
-b4250
-b1354
-b1354
-G0-9384
-G0-9384
-G0-10703
-G0-10703
-b3254
-b3254
-b0816
-b0816
-G0-8908
-G0-8908
-G0-10698
-G0-10698
-b2653
-b2653
-b0538
-b0538
-b4434
-b4434
-b4590
-b4590
-b4556
-b4556
-b4648
-b4648
-b4552
-b4552
-b4645
-b4645
-b4508
-b4508
 b3423
 b3423
 b3912
 b3912
-b4708
-b4708
-b4640
-b4640
-b4656
-b4656
-b4643
-b4643
-b4652
-b4652
-b4628
-b4628
-b4649
-b4649
-b4561
-b4561
-b4646
-b4646
 b4519
 b4519
 b4503
 b4503
-b4639
-b4639
 b4346
 b4346
 b0782
 b0782
-b4642
-b4642
-b4653
-b4653
-b4631
-b4631
 b2553
 b2553
-b4614
-b4614
-b4647
-b4647
 b4543
 b4543
-b2353
-b2353
-b4636
-b4636
 b4524
 b4524
-b4697
-b4697
-b4641
-b4641
 
 **********Solution:
 Manually fill the products (with types) of these genes in genes.txt
@@ -1867,7 +1735,7 @@ Check whether you need to correct RpoD by running me_builder.org.rpod = correct_
 ********** hRNAP was identified as RNA polymerase
 
 **********Solution:
-Check whether you need to correct RNAP by running me_builder.org.get_rna_polymerase(force_RNAP_as=correct_RNAP)
+Find correct RNAP complex and add force_RNAP_as:"RNAP_COMPLEX_ID" to the configuration (by default, organism.json)
 
 
 
@@ -1896,37 +1764,47 @@ G0-17088
 G0-10531
 G0-8893
 G0-10536
+G0-10567
+EG50008
 G0-17100
 G0-16685
+G7222
 G0-8906
 G0-8893
 G0-17074
 G0-8893
 G0-16736
+G0-10563
 G0-10535
 G0-16721
 G0-10540
 G0-10525
 G0-16736
+G0-10433
 G0-17101
 G0-10543
 G0-16690
 EG11213
+G0-10569
 G0-16690
 G0-10559
 G0-16742
 G0-17103
+G0-10557
 G0-10544
 G0-10542
 G0-17102
 G0-10528
 G0-16690
+G8208
 G0-10545
 G0-16731
 G0-10539
+G0-10555
 G0-9384
 G0-10537
 G0-10550
+EG11708
 
 **********Solution:
 If those genes are supposed to be in the model, fill them in genes.txt
@@ -1934,12 +1812,18 @@ If those genes are supposed to be in the model, fill them in genes.txt
 #################### medium@org.get_TU_df ####################
 ********** Some TUs are either empty (no genes in TUs.txt) or contain genes that are not in genes.txt
 The following items triggered the warning:
+TU0-14168
 TU0-52570
+TU0-13602
 TU0-13611
 TU0-14330
+TU0-13950
 TU0-44222
 TU0-7061
+TU0-14189
 TU0-13332
+TU0-13263
+TU0-12970
 TU0-12893
 
 **********Solution:
@@ -1949,7 +1833,7 @@ If those TUs contain genes that are supposed to be in the model, fill them in TU
 
 
 #################### high@org.get_trna_synthetase ####################
-********** No tRNA ligases were found for some amino acids. Assigned CPLX_dummy.
+********** No tRNA ligases were found for some amino acids. Will assign CPLX_dummy.
 The following items triggered the warning:
 gln__L_c
 ser__L_c
@@ -2445,6 +2329,48 @@ Confirm whether the definitions or homology calls are correct in me_builder.org.
 
 
 
+#################### medium@update_amino_acid_trna_synthetases_from_homology ####################
+********** Some enzymes identified in me_builder.org.amino_acid_trna_synthetase are different from the ones inferred from homology
+The following items triggered the warning:
+
+{"amino_acid": "ala__L_c", "inferred_ligase": "Ala_RS_tetra_mod_zn2(4)", "homology_ligase": "ALAS-MONOMER_mod_zn2(4)"}
+
+{"amino_acid": "arg__L_c", "inferred_ligase": "ArgS_mono_mod_mg2(1)", "homology_ligase": "ARGS-MONOMER_mod_mg2(1)"}
+
+{"amino_acid": "asn__L_c", "inferred_ligase": "Asn_RS_dim", "homology_ligase": "ASNS-MONOMER"}
+
+{"amino_acid": "asp__L_c", "inferred_ligase": "Asp_RS_dim", "homology_ligase": "ASPS-MONOMER"}
+
+{"amino_acid": "cys__L_c", "inferred_ligase": "generic_cys_ligase", "homology_ligase": "CYSS-MONOMER_mod_zn2(1)"}
+
+{"amino_acid": "glu__L_c", "inferred_ligase": "generic_glu_ligase", "homology_ligase": "GLURS-MONOMER_mod_mg2(1)_mod_zn2(1)"}
+
+{"amino_acid": "his__L_c", "inferred_ligase": "His_RS_dim_mod_mg2(4)", "homology_ligase": "HISS-MONOMER_mod_mg2(4)"}
+
+{"amino_acid": "ile__L_c", "inferred_ligase": "IleS_mono_mod_zn2(2)", "homology_ligase": "ILES-MONOMER_mod_zn2(2)"}
+
+{"amino_acid": "leu__L_c", "inferred_ligase": "LeuS_mono", "homology_ligase": "LEUS-MONOMER"}
+
+{"amino_acid": "lys__L_c", "inferred_ligase": "generic_lys_ligase", "homology_ligase": "generic_LYSINEaaRS"}
+
+{"amino_acid": "met__L_c", "inferred_ligase": "Met_RS_dim_mod_zn2(2)", "homology_ligase": "METG-MONOMER_mod_zn2(2)"}
+
+{"amino_acid": "pro__L_c", "inferred_ligase": "Pro_RS_dim", "homology_ligase": "PROS-MONOMER"}
+
+{"amino_acid": "thr__L_c", "inferred_ligase": "Thr_RS_dim_mod_zn2(1)", "homology_ligase": "THRS-MONOMER_mod_zn2(1)"}
+
+{"amino_acid": "trp__L_c", "inferred_ligase": "Trp_RS_dim_mod_mg2(1)", "homology_ligase": "TRPS-MONOMER_mod_mg2(1)"}
+
+{"amino_acid": "tyr__L_c", "inferred_ligase": "Tyr_RS_dim", "homology_ligase": "TYRS-MONOMER"}
+
+{"amino_acid": "val__L_c", "inferred_ligase": "ValS_mono_mod_mg2(1)", "homology_ligase": "VALS-MONOMER_mod_mg2(1)"}
+
+**********Solution:
+Confirm whether the definitions or homology calls are correct in me_builder.org.amino_acid_trna_synthetase. Curate the inputs in amino_acid_trna_synthetase.txt accordingly.
+
+
+
+
 #################### medium@check ####################
 ********** Some metabolites in me_metabolites.txt need curation
 The following items triggered the warning:
@@ -2463,18 +2389,6 @@ iscu__4fe4s_c
 
 **********Solution:
 Map or remove these metabolites in me_metabolites.txt
-
-
-
-
-#################### critical@troubleshoot ####################
-********** Some metabolites are necessary for growth
-The following items triggered the warning:
-TS_4fe4s_c
-TS_dpm_c
-
-**********Solution:
-Fix the gaps by adding reactions or solving other warnings. If some items are from the E-matrix, fix these first!
 
 
 

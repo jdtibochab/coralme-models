@@ -724,6 +724,20 @@ Confirm whether the definitions or homology calls are correct in me_builder.org.
 
 
 
+#################### medium@update_amino_acid_trna_synthetases_from_homology ####################
+********** Some enzymes identified in me_builder.org.amino_acid_trna_synthetase are different from the ones inferred from homology
+The following items triggered the warning:
+
+{"amino_acid": "lys__L_c", "inferred_ligase": "generic_lys_ligase", "homology_ligase": "generic_LYSINEaaRS"}
+
+{"amino_acid": "phe__L_c", "inferred_ligase": "S4806-MONOMER", "homology_ligase": "CPLX_PHETRS-0_mod_mg2(1)"}
+
+**********Solution:
+Confirm whether the definitions or homology calls are correct in me_builder.org.amino_acid_trna_synthetase. Curate the inputs in amino_acid_trna_synthetase.txt accordingly.
+
+
+
+
 #################### medium@update_peptide_release_factors_from_homology ####################
 ********** Some enzymes defined in me_builder.org.peptide_release_factors are different from the ones inferred from homology
 The following items triggered the warning:
@@ -757,18 +771,6 @@ iscu_4fe4s_c
 
 **********Solution:
 Map or remove these metabolites in me_metabolites.txt
-
-
-
-
-#################### critical@troubleshoot ####################
-********** Some metabolites are necessary for growth
-The following items triggered the warning:
-TS_4fe4s_c
-TS_dpm_c
-
-**********Solution:
-Fix the gaps by adding reactions or solving other warnings. If some items are from the E-matrix, fix these first!
 
 
 

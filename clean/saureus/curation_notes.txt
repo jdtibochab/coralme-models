@@ -810,7 +810,7 @@ Check whether you need to correct RpoD by running me_builder.org.rpod = correct_
 ********** CPLX2KSB-27 was identified as RNA polymerase
 
 **********Solution:
-Check whether you need to correct RNAP by running me_builder.org.get_rna_polymerase(force_RNAP_as=correct_RNAP)
+Find correct RNAP complex and add force_RNAP_as:"RNAP_COMPLEX_ID" to the configuration (by default, organism.json)
 
 
 
@@ -830,7 +830,7 @@ Curate them in ribosomal_proteins.txt
 
 
 #################### high@org.get_trna_synthetase ####################
-********** No tRNA ligases were found for some amino acids. Assigned CPLX_dummy.
+********** No tRNA ligases were found for some amino acids. Will assign CPLX_dummy.
 The following items triggered the warning:
 gln__L_c
 
@@ -856,16 +856,16 @@ Confirm the gene is correct in the m_model. If so, add it to genes.txt
 
 
 #################### high@prepare_model ####################
-********** GAM could not be identified from biomass reaction, setting a standard value of 45. adp_c is not present as a product.
+********** GAM could not be identified from biomass reaction, setting a standard value of 34.98. adp_c is not present as a product.
 
 **********Solution:
-Check whether the biomass reaction was read or defined correctly. You can define GAM with me_builder.org.GAM = GAM_value
+Check whether the biomass reaction was read or defined correctly. You can define GAM with builder.configuration['gam'] = GAM_value
 
 #################### high@prepare_model ####################
 ********** NGAM could not be identified in M-model, setting a standard value of 1.
 
 **********Solution:
-Manually define NGAM with me_builder.org.NGAM = NGAM_value. Check if a reaction with identifier NGAM or ATPM has a zero or negative lower bound.
+Manually define NGAM with builder.configuration['ngam'] = NGAM_value. Check if a reaction with identifier NGAM or ATPM has a zero or negative lower bound.
 
 #################### medium@prepare_model ####################
 ********** Some compartments in m_model are unknown
@@ -1017,6 +1017,18 @@ The following items triggered the warning:
 
 **********Solution:
 Confirm whether the definitions or homology calls are correct in me_builder.org.ribosome_subreactions. Curate the inputs in ribosome_subreactions.txt accordingly.
+
+
+
+
+#################### medium@update_amino_acid_trna_synthetases_from_homology ####################
+********** Some enzymes identified in me_builder.org.amino_acid_trna_synthetase are different from the ones inferred from homology
+The following items triggered the warning:
+
+{"amino_acid": "lys__L_c", "inferred_ligase": "USA300HOU_RS02655-MONOMER_mod_mg2(6)", "homology_ligase": "generic_LYSINEaaRS"}
+
+**********Solution:
+Confirm whether the definitions or homology calls are correct in me_builder.org.amino_acid_trna_synthetase. Curate the inputs in amino_acid_trna_synthetase.txt accordingly.
 
 
 
@@ -1182,18 +1194,6 @@ iscssh_c
 
 **********Solution:
 Map or remove these metabolites in me_metabolites.txt
-
-
-
-
-#################### critical@troubleshoot ####################
-********** Some metabolites are necessary for growth
-The following items triggered the warning:
-TS_met__L_c
-TS_gly_asn__L_c
-
-**********Solution:
-Fix the gaps by adding reactions or solving other warnings. If some items are from the E-matrix, fix these first!
 
 
 

@@ -1,6 +1,6 @@
 ,value
 ME-Model-ID,vcholerae
-amino_acid_trna_synthetase,"{'ala__L_c': 'generic_ala_ligase', 'arg__L_c': 'generic_arg_ligase', 'asn__L_c': 'generic_asn_ligase', 'asp__L_c': 'generic_asp_ligase', 'cys__L_c': 'generic_cys_ligase', 'gln__L_c': 'generic_gln_ligase', 'glu__L_c': 'generic_glu_ligase', 'gly_c': 'generic_gly_c_ligase', 'his__L_c': 'generic_his_ligase', 'ile__L_c': 'generic_ile_ligase', 'leu__L_c': 'generic_leu_ligase', 'lys__L_c': 'generic_lys_ligase', 'met__L_c': 'generic_met_ligase', 'phe__L_c': 'generic_phe_ligase', 'pro__L_c': 'FY484_RS04510-MONOMER', 'ser__L_c': 'generic_ser_ligase', 'thr__L_c': 'generic_thr_ligase', 'trp__L_c': 'generic_trp_ligase', 'tyr__L_c': 'generic_tyr_ligase', 'val__L_c': 'FY484_RS12470-MONOMER'}"
+amino_acid_trna_synthetase,"{'ala__L_c': 'generic_ala_ligase', 'arg__L_c': 'generic_arg_ligase', 'asn__L_c': 'generic_asn_ligase', 'asp__L_c': 'generic_asp_ligase', 'cys__L_c': 'generic_cys_ligase', 'gln__L_c': 'generic_gln_ligase', 'glu__L_c': 'generic_glu_ligase', 'gly_c': 'generic_gly_c_ligase', 'his__L_c': 'generic_his_ligase', 'ile__L_c': 'generic_ile_ligase', 'leu__L_c': 'generic_leu_ligase', 'lys__L_c': 'generic_lys_ligase', 'met__L_c': 'generic_met_ligase', 'phe__L_c': 'generic_phe_ligase', 'pro__L_c': 'FY484_RS04510-MONOMER', 'ser__L_c': 'generic_ser_ligase', 'thr__L_c': 'generic_thr_ligase', 'trp__L_c': 'generic_trp_ligase', 'tyr__L_c': 'generic_tyr_ligase', 'val__L_c': 'FY484_RS12470-MONOMER_mod_mg2(1)'}"
 biocyc.RNAs,./vcholerae/inputs/RNAs.txt
 biocyc.TUs,./vcholerae/inputs/TUs.txt
 biocyc.genes,./vcholerae/inputs/genes.txt
@@ -13,7 +13,7 @@ braun's_murein_flux,-0.0
 complex_cofactors,"{'fes_transfers': ['VC_0627-MONOMER', 'VC_0750-MONOMER'], 'biotin_subreactions': {'mod_btn_c': ['biotin_ligase']}, 'lipoate_subreactions': {'mod_lipoyl_c': ['lipoyl_denovo', 'lipoyl_scavenging']}, 'fes_chaperones': {}, 'bmocogdp_chaperones': {}, 'FeFe/NiFe': {'mod_FeFe_cofactor_c': '', 'mod_NiFe_cofactor_c': ''}}"
 default_sigma_factor,FY484_RS02755-MONOMER
 defer_to_rxn_matrix,"['vch_biomass', 'FMETTRS', 'ATPM']"
-dev_reference,False
+dev_reference,True
 df_TranscriptionalUnits,./vcholerae//building_data/TUs_from_biocyc.txt
 df_gene_cplxs_mods_rxns,./vcholerae/building_data/automated-org-with-refs.xlsx
 flux_of_biomass_constituents,{}

@@ -1374,7 +1374,7 @@ Check whether you need to correct RpoD by running me_builder.org.rpod = correct_
 ********** CPLX271D-23 was identified as RNA polymerase
 
 **********Solution:
-Check whether you need to correct RNAP by running me_builder.org.get_rna_polymerase(force_RNAP_as=correct_RNAP)
+Find correct RNAP complex and add force_RNAP_as:"RNAP_COMPLEX_ID" to the configuration (by default, organism.json)
 
 
 
@@ -1518,6 +1518,24 @@ Confirm whether the definitions or homology calls are correct in me_builder.org.
 
 
 
+#################### medium@update_amino_acid_trna_synthetases_from_homology ####################
+********** Some enzymes identified in me_builder.org.amino_acid_trna_synthetase are different from the ones inferred from homology
+The following items triggered the warning:
+
+{"amino_acid": "cys__L_c", "inferred_ligase": "generic_cys_ligase", "homology_ligase": "CLJU_RS20330-MONOMER_mod_zn2(1)"}
+
+{"amino_acid": "lys__L_c", "inferred_ligase": "CLJU_RS20435-MONOMER", "homology_ligase": "generic_LYSINEaaRS"}
+
+{"amino_acid": "pro__L_c", "inferred_ligase": "generic_pro_ligase", "homology_ligase": "CLJU_RS18895-MONOMER"}
+
+{"amino_acid": "tyr__L_c", "inferred_ligase": "generic_tyr_ligase", "homology_ligase": "CLJU_RS18820-MONOMER"}
+
+**********Solution:
+Confirm whether the definitions or homology calls are correct in me_builder.org.amino_acid_trna_synthetase. Curate the inputs in amino_acid_trna_synthetase.txt accordingly.
+
+
+
+
 #################### medium@check ####################
 ********** Some metabolites in me_metabolites.txt need curation
 The following items triggered the warning:
@@ -1550,18 +1568,6 @@ iscssh_c
 
 **********Solution:
 Map or remove these metabolites in me_metabolites.txt
-
-
-
-
-#################### critical@troubleshoot ####################
-********** Some metabolites are necessary for growth
-The following items triggered the warning:
-TS_4fe4s_c
-TS_dpm_c
-
-**********Solution:
-Fix the gaps by adding reactions or solving other warnings. If some items are from the E-matrix, fix these first!
 
 
 

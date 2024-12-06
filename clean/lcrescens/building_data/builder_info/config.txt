@@ -1,6 +1,6 @@
 ,value
 ME-Model-ID,lcrescens
-amino_acid_trna_synthetase,"{'ala__L_c': 'B488_RS02200-MONOMER', 'arg__L_c': 'B488_RS04620-MONOMER', 'asn__L_c': 'CPLX_dummy', 'asp__L_c': 'B488_RS00845-MONOMER', 'cys__L_c': 'B488_RS01550-MONOMER', 'gln__L_c': 'CPLX_dummy', 'glu__L_c': 'B488_RS03115-MONOMER', 'gly_c': 'B488_00660-MONOMER', 'his__L_c': 'B488_RS04795-MONOMER', 'ile__L_c': 'B488_RS00620-MONOMER', 'leu__L_c': 'B488_RS00040-MONOMER', 'lys__L_c': 'CPLX_dummy', 'met__L_c': 'generic_met_ligase', 'phe__L_c': 'CPLX27KH-8', 'pro__L_c': 'B488_RS01365-MONOMER', 'ser__L_c': 'B488_RS05405-MONOMER', 'thr__L_c': 'B488_RS03145-MONOMER', 'trp__L_c': 'B488_RS00110-MONOMER', 'tyr__L_c': 'B488_RS02775-MONOMER', 'val__L_c': 'B488_RS04645-MONOMER'}"
+amino_acid_trna_synthetase,"{'ala__L_c': 'B488_RS02200-MONOMER_mod_zn2(4)', 'arg__L_c': 'B488_RS04620-MONOMER_mod_mg2(1)', 'asn__L_c': 'CPLX_dummy', 'asp__L_c': 'B488_RS00845-MONOMER', 'cys__L_c': 'B488_RS01550-MONOMER_mod_zn2(1)', 'gln__L_c': 'CPLX_dummy', 'glu__L_c': 'B488_RS03115-MONOMER_mod_mg2(1)_mod_zn2(1)', 'gly_c': 'B488_00660-MONOMER', 'his__L_c': 'B488_RS04795-MONOMER_mod_mg2(4)', 'ile__L_c': 'B488_RS00620-MONOMER_mod_zn2(2)', 'leu__L_c': 'B488_RS00040-MONOMER', 'lys__L_c': 'generic_LYSINEaaRS', 'met__L_c': 'generic_met_ligase', 'phe__L_c': 'CPLX27KH-8_mod_mg2(1)', 'pro__L_c': 'B488_RS01365-MONOMER', 'ser__L_c': 'B488_RS05405-MONOMER_mod_mg2(1)', 'thr__L_c': 'B488_RS03145-MONOMER_mod_zn2(1)', 'trp__L_c': 'B488_RS00110-MONOMER_mod_mg2(1)', 'tyr__L_c': 'B488_RS02775-MONOMER', 'val__L_c': 'B488_RS04645-MONOMER_mod_mg2(1)'}"
 biocyc.RNAs,./lcrescens/inputs/RNAs.txt
 biocyc.TUs,./lcrescens/inputs/TUs.txt
 biocyc.genes,./lcrescens/inputs/genes.txt
@@ -13,7 +13,7 @@ braun's_murein_flux,-0.0
 complex_cofactors,"{'fes_transfers': ['B488_RS04155-MONOMER', 'B488_RS04630-MONOMER'], 'biotin_subreactions': {'mod_btn_c': ['biotin_ligase']}, 'lipoate_subreactions': {'mod_lipoyl_c': ['lipoyl_denovo', 'lipoyl_scavenging']}, 'fes_chaperones': {}, 'bmocogdp_chaperones': {}, 'FeFe/NiFe': {'mod_FeFe_cofactor_c': '', 'mod_NiFe_cofactor_c': ''}}"
 default_sigma_factor,B488_RS06505-MONOMER
 defer_to_rxn_matrix,"['BIOMASS_KT_TEMP', 'FMETTRS', 'ATPM']"
-dev_reference,False
+dev_reference,True
 df_TranscriptionalUnits,./lcrescens//building_data/TUs_from_biocyc.txt
 df_gene_cplxs_mods_rxns,./lcrescens/building_data/automated-org-with-refs.xlsx
 feasibility_mu,0.01

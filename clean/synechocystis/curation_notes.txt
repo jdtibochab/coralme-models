@@ -1458,7 +1458,7 @@ Check whether you need to correct RpoD by running me_builder.org.rpod = correct_
 ********** CPLX220H-12 was identified as RNA polymerase
 
 **********Solution:
-Check whether you need to correct RNAP by running me_builder.org.get_rna_polymerase(force_RNAP_as=correct_RNAP)
+Find correct RNAP complex and add force_RNAP_as:"RNAP_COMPLEX_ID" to the configuration (by default, organism.json)
 
 
 
@@ -1475,7 +1475,7 @@ Curate them in ribosomal_proteins.txt
 
 
 #################### high@org.get_trna_synthetase ####################
-********** No tRNA ligases were found for some amino acids. Assigned CPLX_dummy.
+********** No tRNA ligases were found for some amino acids. Will assign CPLX_dummy.
 The following items triggered the warning:
 gln__L_c
 
@@ -1603,6 +1603,18 @@ Confirm whether the definitions or homology calls are correct in me_builder.org.
 
 
 
+#################### medium@update_amino_acid_trna_synthetases_from_homology ####################
+********** Some enzymes identified in me_builder.org.amino_acid_trna_synthetase are different from the ones inferred from homology
+The following items triggered the warning:
+
+{"amino_acid": "lys__L_c", "inferred_ligase": "SGL_RS06545-MONOMER_mod_mg2(6)", "homology_ligase": "generic_LYSINEaaRS"}
+
+**********Solution:
+Confirm whether the definitions or homology calls are correct in me_builder.org.amino_acid_trna_synthetase. Curate the inputs in amino_acid_trna_synthetase.txt accordingly.
+
+
+
+
 #################### medium@check ####################
 ********** Some metabolites in me_metabolites.txt need curation
 The following items triggered the warning:
@@ -1643,35 +1655,6 @@ iscu_c
 
 **********Solution:
 Map or remove these metabolites in me_metabolites.txt
-
-
-
-
-#################### critical@troubleshoot ####################
-********** Some metabolites are necessary for growth
-The following items triggered the warning:
-TS_glyc3p_c
-TS_hcys__L_c
-TS_g1p_c
-TS_asn__L_c
-TS_dhlprot_c
-TS_ade_c
-TS_val__L_c
-TS_pyr_c
-TS_thrp_c
-TS_co2_p
-TS_met__L_c
-TS_3mop_c
-TS_1pyr5c_c
-TS_dnad_c
-TS_lys__L_p
-TS_pydx5p_c
-TS_fad_c
-TS_k_c
-TS_4fe4s_c
-
-**********Solution:
-Fix the gaps by adding reactions or solving other warnings. If some items are from the E-matrix, fix these first!
 
 
 

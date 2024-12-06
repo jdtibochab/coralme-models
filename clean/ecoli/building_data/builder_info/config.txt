@@ -1,6 +1,6 @@
 ,value
 ME-Model-ID,ecoli
-amino_acid_trna_synthetase,"{'ala__L_c': 'Ala_RS_tetra', 'arg__L_c': 'ArgS_mono', 'asn__L_c': 'Asn_RS_dim', 'asp__L_c': 'Asp_RS_dim', 'cys__L_c': 'generic_cys_ligase', 'gln__L_c': 'CPLX_dummy', 'glu__L_c': 'generic_glu_ligase', 'gly_c': 'CPLX-tRNA-GLY-LIGASE', 'his__L_c': 'His_RS_dim', 'ile__L_c': 'IleS_mono', 'leu__L_c': 'LeuS_mono', 'lys__L_c': 'generic_lys_ligase', 'met__L_c': 'Met_RS_dim', 'phe__L_c': 'CPLX-tRNA-PHE-LIGASE', 'pro__L_c': 'Pro_RS_dim', 'ser__L_c': 'CPLX_dummy', 'thr__L_c': 'Thr_RS_dim', 'trp__L_c': 'Trp_RS_dim', 'tyr__L_c': 'Tyr_RS_dim', 'val__L_c': 'ValS_mono'}"
+amino_acid_trna_synthetase,"{'ala__L_c': 'Ala_RS_tetra_mod_zn2(4)', 'arg__L_c': 'ArgS_mono_mod_mg2(1)', 'asn__L_c': 'Asn_RS_dim', 'asp__L_c': 'Asp_RS_dim', 'cys__L_c': 'generic_cys_ligase', 'gln__L_c': 'GLNS-MONOMER', 'glu__L_c': 'generic_glu_ligase', 'gly_c': 'CPLX-tRNA-GLY-LIGASE', 'his__L_c': 'His_RS_dim_mod_mg2(4)', 'ile__L_c': 'IleS_mono_mod_zn2(2)', 'leu__L_c': 'LeuS_mono', 'lys__L_c': 'generic_lys_ligase', 'met__L_c': 'Met_RS_dim_mod_zn2(2)', 'phe__L_c': 'CPLX-tRNA-PHE-LIGASE_mod_mg2(1)', 'pro__L_c': 'Pro_RS_dim', 'ser__L_c': 'SERS-MONOMER_mod_mg2(1)', 'thr__L_c': 'Thr_RS_dim_mod_zn2(1)', 'trp__L_c': 'Trp_RS_dim_mod_mg2(1)', 'tyr__L_c': 'Tyr_RS_dim', 'val__L_c': 'ValS_mono_mod_mg2(1)'}"
 biocyc.RNAs,./ecoli/inputs/RNAs.txt
 biocyc.TUs,./ecoli/inputs/TUs.txt
 biocyc.genes,./ecoli/inputs/genes.txt
@@ -13,7 +13,7 @@ braun's_murein_flux,-0.0
 complex_cofactors,"{'fes_transfers': ['EG12332-MONOMER', 'EG11378-MONOMER', 'EG12132-MONOMER'], 'biotin_subreactions': {'mod_btn_c': ['biotin_ligase']}, 'lipoate_subreactions': {'mod_lipoyl_c': ['lipoyl_denovo', 'lipoyl_scavenging']}, 'fes_chaperones': {}, 'bmocogdp_chaperones': {}, 'FeFe/NiFe': {'mod_FeFe_cofactor_c': '', 'mod_NiFe_cofactor_c': ''}}"
 default_sigma_factor,RpoD_mono
 defer_to_rxn_matrix,"['Ec_biomass_iJO1366_core_53p95M', 'FMETTRS', 'ATPM']"
-dev_reference,False
+dev_reference,True
 df_TranscriptionalUnits,./ecoli//building_data/TUs_from_biocyc.txt
 df_gene_cplxs_mods_rxns,./ecoli/building_data/automated-org-with-refs.xlsx
 flux_of_biomass_constituents,{}

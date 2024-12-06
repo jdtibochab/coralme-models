@@ -1,262 +1,0 @@
-{'m-model-path': './mmycoides/inputs/m_model.json', 'genbank-path': './mmycoides/inputs/genome.gb', 'biocyc.genes': '', 'biocyc.prots': '', 'biocyc.TUs': '', 'biocyc.RNAs': '', 'biocyc.seqs': '', 'df_gene_cplxs_mods_rxns': './mmycoides/building_data/automated-org-with-refs.xlsx', 'df_TranscriptionalUnits': '', 'out_directory': './mmycoides/', 'log_directory': './mmycoides/', 'run_bbh_blast': True, 'dev_reference': True, 'include_pseudo_genes': True}
-Set parameter Username
-Academic license - for non-commercial use only - expires 2024-08-16
-Initiating file processing...
-~ Processing files for mmycoides...
-Checking M-model metabolites...                                            : 0.0%|          |     0/  303 [00:00<?]Checking M-model metabolites...                                            : 100.0%|██████████|   303/  303 [00:00<00:00]
-Checking M-model genes...                                                  : 0.0%|          |     0/  155 [00:00<?]Checking M-model genes...                                                  : 100.0%|██████████|   155/  155 [00:00<00:00]
-Checking M-model reactions...                                              : 0.0%|          |     0/  318 [00:00<?]Checking M-model reactions...                                              : 100.0%|██████████|   318/  318 [00:00<00:00]
-Syncing optional genes file...                                             : 0.0%|          |     0/    0 [00:00<?]Syncing optional genes file...                                             : 0.0%|          |     0/    0 [00:00<?]
-Looking for duplicates within datasets...                                  : 0.0%|          |     0/    5 [00:00<?]Looking for duplicates within datasets...                                  : 100.0%|██████████|     5/    5 [00:00<00:00]
-Gathering ID occurrences across datasets...                                : 0.0%|          |     0/  318 [00:00<?]Gathering ID occurrences across datasets...                                : 100.0%|██████████|   318/  318 [00:00<00:00]
-Solving duplicates across datasets...                                      : 0.0%|          |     0/    0 [00:00<?]Solving duplicates across datasets...                                      : 0.0%|          |     0/    0 [00:00<?]
-Pruning GenBank...                                                         : 0.0%|          |     0/    1 [00:00<?]Pruning GenBank...                                                         : 100.0%|██████████|     1/    1 [00:00<00:00]
-Updating Genbank file with optional files...                               : 0.0%|          |     0/    0 [00:00<?]Updating Genbank file with optional files...                               : 0.0%|          |     0/    0 [00:00<?]
-Syncing optional files with genbank contigs...                             : 0.0%|          |     0/    1 [00:00<?]Syncing optional files with genbank contigs...                             : 100.0%|██████████|     1/    1 [00:00<00:00]Syncing optional files with genbank contigs...                             : 100.0%|██████████|     1/    1 [00:00<00:00]
-Modifying metabolic reactions with manual curation...                      : 0.0%|          |     0/    0 [00:00<?]Modifying metabolic reactions with manual curation...                      : 0.0%|          |     0/    0 [00:00<?]
-Adding manual curation of complexes...                                     : 0.0%|          |     0/    0 [00:00<?]Adding manual curation of complexes...                                     : 0.0%|          |     0/    0 [00:00<?]
-Getting sigma factors...                                                   : 0.0%|          |     0/    1 [00:00<?]Getting sigma factors...                                                   : 100.0%|██████████|     1/    1 [00:00<00:00]
-Getting generics from Genbank contigs...                                   : 0.0%|          |     0/    1 [00:00<?]Getting generics from Genbank contigs...                                   : 100.0%|██████████|     1/    1 [00:00<00:00]
-Getting TU-gene associations from optional TUs file...                     : 0.0%|          |     0/    0 [00:00<?]Getting TU-gene associations from optional TUs file...                     : 0.0%|          |     0/    0 [00:00<?]
-Gathering ribosome stoichiometry...                                        : 0.0%|          |     0/   54 [00:00<?]Gathering ribosome stoichiometry...                                        : 100.0%|██████████|    54/   54 [00:00<00:00]
-Adding protein location...                                                 : 0.0%|          |     0/  459 [00:00<?]Adding protein location...                                                 : 100.0%|██████████|   459/  459 [00:00<00:00]
-Purging M-model genes...                                                   : 0.0%|          |     0/  155 [00:00<?]Purging M-model genes...                                                   : 100.0%|██████████|   155/  155 [00:00<00:00]
-Getting enzyme-reaction associations...                                    : 0.0%|          |     0/  318 [00:00<?]Getting enzyme-reaction associations...                                    : 45.0%|████▍     |   143/  318 [00:00<00:00]Getting enzyme-reaction associations...                                    : 100.0%|██████████|   318/  318 [00:00<00:00]
-Reading mmycoides done.
-Gathering M-model compartments...                                          : 0.0%|          |     0/    2 [00:00<?]Gathering M-model compartments...                                          : 100.0%|██████████|     2/    2 [00:00<00:00]
-Fixing compartments in M-model metabolites...                              : 0.0%|          |     0/  303 [00:00<?]Fixing compartments in M-model metabolites...                              : 100.0%|██████████|   303/  303 [00:00<00:00]
-Fixing missing names in M-model reactions...                               : 0.0%|          |     0/  318 [00:00<?]Fixing missing names in M-model reactions...                               : 100.0%|██████████|   318/  318 [00:00<00:00]
-~ Processing files for iJL1678b...
-Checking M-model metabolites...                                            : 0.0%|          |     0/ 1660 [00:00<?]Checking M-model metabolites...                                            : 100.0%|██████████|  1660/ 1660 [00:00<00:00]
-Checking M-model genes...                                                  : 0.0%|          |     0/ 1271 [00:00<?]Checking M-model genes...                                                  : 100.0%|██████████|  1271/ 1271 [00:00<00:00]
-Checking M-model reactions...                                              : 0.0%|          |     0/ 2377 [00:00<?]Checking M-model reactions...                                              : 100.0%|██████████|  2377/ 2377 [00:00<00:00]
-Looking for duplicates within datasets...                                  : 0.0%|          |     0/    5 [00:00<?]Looking for duplicates within datasets...                                  : 100.0%|██████████|     5/    5 [00:00<00:00]
-Gathering ID occurrences across datasets...                                : 0.0%|          |     0/ 3681 [00:00<?]Gathering ID occurrences across datasets...                                : 100.0%|██████████|  3681/ 3681 [00:00<00:00]
-Solving duplicates across datasets...                                      : 0.0%|          |     0/    0 [00:00<?]Solving duplicates across datasets...                                      : 0.0%|          |     0/    0 [00:00<?]
-Getting sigma factors...                                                   : 0.0%|          |     0/    7 [00:00<?]Getting sigma factors...                                                   : 100.0%|██████████|     7/    7 [00:00<00:00]
-Getting TU-gene associations from optional TUs file...                     : 0.0%|          |     0/    0 [00:00<?]Getting TU-gene associations from optional TUs file...                     : 0.0%|          |     0/    0 [00:00<?]
-Adding protein location...                                                 : 0.0%|          |     0/ 1304 [00:00<?]Adding protein location...                                                 : 100.0%|██████████|  1304/ 1304 [00:00<00:00]
-Purging M-model genes...                                                   : 0.0%|          |     0/ 1271 [00:00<?]Purging M-model genes...                                                   : 100.0%|██████████|  1271/ 1271 [00:00<00:00]
-Reading iJL1678b done.
-Updating translocation machinery from homology...                          : 0.0%|          |     0/    9 [00:00<?]Updating translocation machinery from homology...                          : 100.0%|██████████|     9/    9 [00:00<00:00]
-Updating protein location from homology...                                 : 0.0%|          |     0/  514 [00:00<?]Updating protein location from homology...                                 : 100.0%|██████████|   514/  514 [00:00<00:00]
-Updating translocation multipliers from homology...                        : 0.0%|          |     0/    3 [00:00<?]Updating translocation multipliers from homology...                        : 100.0%|██████████|     3/    3 [00:00<00:00]
-Updating lipoprotein precursors from homology...                           : 0.0%|          |     0/   14 [00:00<?]Updating lipoprotein precursors from homology...                           : 100.0%|██████████|    14/   14 [00:00<00:00]
-Updating cleaved-methionine proteins from homology...                      : 0.0%|          |     0/  343 [00:00<?]Updating cleaved-methionine proteins from homology...                      : 100.0%|██████████|   343/  343 [00:00<00:00]
-Mapping M-metabolites to E-metabolites...                                  : 0.0%|          |     0/  147 [00:00<?]Mapping M-metabolites to E-metabolites...                                  : 100.0%|██████████|   147/  147 [00:00<00:00]
-Updating generics from homology...                                         : 0.0%|          |     0/   10 [00:00<?]Updating generics from homology...                                         : 100.0%|██████████|    10/   10 [00:00<00:00]
-Updating folding from homology...                                          : 0.0%|          |     0/    2 [00:00<?]Updating folding from homology...                                          : 100.0%|██████████|     2/    2 [00:00<00:00]
-Updating ribosome subreaction machinery from homology...                   : 0.0%|          |     0/    3 [00:00<?]Updating ribosome subreaction machinery from homology...                   : 100.0%|██████████|     3/    3 [00:00<00:00]
-Updating tRNA synthetases from homology...                                 : 0.0%|          |     0/   20 [00:00<?]Updating tRNA synthetases from homology...                                 : 100.0%|██████████|    20/   20 [00:00<00:00]
-Updating peptide release factors from homology...                          : 0.0%|          |     0/    3 [00:00<?]Updating peptide release factors from homology...                          : 100.0%|██████████|     3/    3 [00:00<00:00]
-Updating transcription subreactions machinery from homology...             : 0.0%|          |     0/    4 [00:00<?]Updating transcription subreactions machinery from homology...             : 100.0%|██████████|     4/    4 [00:00<00:00]
-Updating translation initiation subreactions from homology...              : 0.0%|          |     0/    4 [00:00<?]Updating translation initiation subreactions from homology...              : 100.0%|██████████|     4/    4 [00:00<00:00]
-Updating translation elongation subreactions from homology...              : 0.0%|          |     0/    2 [00:00<?]Updating translation elongation subreactions from homology...              : 100.0%|██████████|     2/    2 [00:00<00:00]
-Updating translation termination subreactions from homology...             : 0.0%|          |     0/    9 [00:00<?]Updating translation termination subreactions from homology...             : 100.0%|██████████|     9/    9 [00:00<00:00]
-Updating special tRNA subreactions from homology...                        : 0.0%|          |     0/    1 [00:00<?]Updating special tRNA subreactions from homology...                        : 100.0%|██████████|     1/    1 [00:00<00:00]
-Updating RNA degradosome composition from homology...                      : 0.0%|          |     0/    1 [00:00<?]Updating RNA degradosome composition from homology...                      : 100.0%|██████████|     1/    1 [00:00<00:00]
-Updating excision machinery from homology...                               : 0.0%|          |     0/    3 [00:00<?]Updating excision machinery from homology...                               : 100.0%|██████████|     3/    3 [00:00<00:00]
-Updating tRNA subreactions from homology...                                : 0.0%|          |     0/    6 [00:00<?]Updating tRNA subreactions from homology...                                : 100.0%|██████████|     6/    6 [00:00<00:00]
-Updating lipid modification machinery from homology...                     : 0.0%|          |     0/    2 [00:00<?]Updating lipid modification machinery from homology...                     : 100.0%|██████████|     2/    2 [00:00<00:00]
-Fixing M-model metabolites with homology...                                : 0.0%|          |     0/  303 [00:00<?]Fixing M-model metabolites with homology...                                : 100.0%|██████████|   303/  303 [00:00<00:00]
-Updating enzyme reaction association...                                    : 0.0%|          |     0/  194 [00:00<?]Updating enzyme reaction association...                                    : 100.0%|██████████|   194/  194 [00:00<00:00]
-Getting tRNA to codon dictionary from CP016816.2                           : 0.0%|          |     0/  497 [00:00<?]Getting tRNA to codon dictionary from CP016816.2                           : 100.0%|██████████|   497/  497 [00:00<00:00]
-Checking defined translocation pathways...                                 : 0.0%|          |     0/    9 [00:00<?]Checking defined translocation pathways...                                 : 100.0%|██████████|     9/    9 [00:00<00:00]
-Getting reaction Keffs...                                                  : 0.0%|          |     0/  194 [00:00<?]Getting reaction Keffs...                                                  : 100.0%|██████████|   194/  194 [00:00<00:00]
-File processing done.
-Initiating ME-model reconstruction...
-Adding biomass constraint(s) into the ME-model...                          : 0.0%|          |     0/   11 [00:00<?]Adding biomass constraint(s) into the ME-model...                          : 100.0%|██████████|    11/   11 [00:00<00:00]
-Read LP format model from file /tmp/tmp7c64dsnv.lp
-Reading time = 0.00 seconds
-: 303 rows, 636 columns, 2922 nonzeros
-Adding Metabolites from M-model into the ME-model...                       : 0.0%|          |     0/  303 [00:00<?]Adding Metabolites from M-model into the ME-model...                       : 100.0%|██████████|   303/  303 [00:00<00:00]
-Adding Reactions from M-model into the ME-model...                         : 0.0%|          |     0/  316 [00:00<?]Adding Reactions from M-model into the ME-model...                         : 100.0%|██████████|   316/  316 [00:00<00:00]
-Adding Transcriptional Units into the ME-model...                          : 0.0%|          |     0/    0 [00:00<?]Adding Transcriptional Units into the ME-model...                          : 0.0%|          |     0/    0 [00:00<?]
-Adding features from contig CP016816.2 into the ME-model...                : 0.0%|          |     0/  497 [00:00<?]Adding features from contig CP016816.2 into the ME-model...                : 31.4%|███▏      |   156/  497 [00:00<00:00]Adding features from contig CP016816.2 into the ME-model...                : 67.0%|██████▋   |   333/  497 [00:00<00:00]Adding features from contig CP016816.2 into the ME-model...                : 100.0%|██████████|   497/  497 [00:00<00:00]
-Updating all TranslationReaction and TranscriptionReaction...              : 0.0%|          |     0/ 1149 [00:00<?]Updating all TranslationReaction and TranscriptionReaction...              : 15.0%|█▍        |   172/ 1149 [00:00<00:00]Updating all TranslationReaction and TranscriptionReaction...              : 29.9%|██▉       |   343/ 1149 [00:00<00:00]Updating all TranslationReaction and TranscriptionReaction...              : 40.5%|████      |   465/ 1149 [00:00<00:00]Updating all TranslationReaction and TranscriptionReaction...              : 49.9%|████▉     |   573/ 1149 [00:00<00:00]Updating all TranslationReaction and TranscriptionReaction...              : 59.1%|█████▉    |   679/ 1149 [00:00<00:00]Updating all TranslationReaction and TranscriptionReaction...              : 66.9%|██████▋   |   769/ 1149 [00:00<00:00]Updating all TranslationReaction and TranscriptionReaction...              : 74.3%|███████▍  |   854/ 1149 [00:00<00:00]Updating all TranslationReaction and TranscriptionReaction...              : 81.6%|████████▏ |   938/ 1149 [00:01<00:00]Updating all TranslationReaction and TranscriptionReaction...              : 90.9%|█████████ |  1045/ 1149 [00:01<00:00]Updating all TranslationReaction and TranscriptionReaction...              : 100.0%|██████████|  1149/ 1149 [00:01<00:00]
-Removing SubReactions from ComplexData...                                  : 0.0%|          |     0/  586 [00:00<?]Removing SubReactions from ComplexData...                                  : 100.0%|██████████|   586/  586 [00:00<00:00]
-Adding ComplexFormation into the ME-model...                               : 0.0%|          |     0/  586 [00:00<?]Adding ComplexFormation into the ME-model...                               : 100.0%|██████████|   586/  586 [00:00<00:00]
-Adding Generic(s) into the ME-model...                                     : 0.0%|          |     0/    8 [00:00<?]Adding Generic(s) into the ME-model...                                     : 100.0%|██████████|     8/    8 [00:00<00:00]
-Processing StoichiometricData in ME-model...                               : 0.0%|          |     0/  233 [00:00<?]Processing StoichiometricData in ME-model...                               : 100.0%|██████████|   233/  233 [00:00<00:00]
-ME-model was saved in the ./mmycoides/ directory as MEModel-step1-mmycoides.pkl
-Adding tRNA synthetase(s) information into the ME-model...                 : 0.0%|          |     0/   99 [00:00<?]Adding tRNA synthetase(s) information into the ME-model...                 : 100.0%|██████████|    99/   99 [00:00<00:00]
-Adding tRNA modification SubReactions...                                   : 0.0%|          |     0/    0 [00:00<?]Adding tRNA modification SubReactions...                                   : 0.0%|          |     0/    0 [00:00<?]
-Associating tRNA modification enzyme(s) to tRNA(s)...                      : 0.0%|          |     0/    0 [00:00<?]Associating tRNA modification enzyme(s) to tRNA(s)...                      : 0.0%|          |     0/    0 [00:00<?]
-Adding SubReactions into TranslationReactions...                           : 0.0%|          |     0/  459 [00:00<?]Adding SubReactions into TranslationReactions...                           : 46.4%|████▋     |   213/  459 [00:00<00:00]Adding SubReactions into TranslationReactions...                           : 95.0%|█████████▍|   436/  459 [00:00<00:00]Adding SubReactions into TranslationReactions...                           : 100.0%|██████████|   459/  459 [00:00<00:00]
-Adding RNA Polymerase(s) into the ME-model...                              : 0.0%|          |     0/    1 [00:00<?]Adding RNA Polymerase(s) into the ME-model...                              : 100.0%|██████████|     1/    1 [00:00<00:00]
-Associating a RNA Polymerase to each Transcriptional Unit...               : 0.0%|          |     0/    0 [00:00<?]Associating a RNA Polymerase to each Transcriptional Unit...               : 0.0%|          |     0/    0 [00:00<?]
-Processing ComplexData in ME-model...                                      : 0.0%|          |     0/  101 [00:00<?]Processing ComplexData in ME-model...                                      : 100.0%|██████████|   101/  101 [00:00<00:00]
-Adding ComplexFormation into the ME-model...                               : 0.0%|          |     0/  595 [00:00<?]Adding ComplexFormation into the ME-model...                               : 100.0%|██████████|   595/  595 [00:00<00:00]
-Adding SubReactions into TranslationReactions...                           : 0.0%|          |     0/  459 [00:00<?]Adding SubReactions into TranslationReactions...                           : 44.2%|████▍     |   203/  459 [00:00<00:00]Adding SubReactions into TranslationReactions...                           : 90.4%|█████████ |   415/  459 [00:00<00:00]Adding SubReactions into TranslationReactions...                           : 100.0%|██████████|   459/  459 [00:00<00:00]
-Adding Transcription SubReactions...                                       : 0.0%|          |     0/  497 [00:00<?]Adding Transcription SubReactions...                                       : 100.0%|██████████|   497/  497 [00:00<00:00]
-Processing StoichiometricData in SubReactionData...                        : 0.0%|          |     0/   19 [00:00<?]Processing StoichiometricData in SubReactionData...                        : 100.0%|██████████|    19/   19 [00:00<00:00]
-Adding reaction subsystems from M-model into the ME-model...               : 0.0%|          |     0/  316 [00:00<?]Adding reaction subsystems from M-model into the ME-model...               : 100.0%|██████████|   316/  316 [00:00<00:00]
-Processing StoichiometricData in ME-model...                               : 0.0%|          |     0/  233 [00:00<?]Processing StoichiometricData in ME-model...                               : 100.0%|██████████|   233/  233 [00:00<00:00]
-Updating ME-model Reactions...                                             : 0.0%|          |     0/ 2280 [00:00<?]Updating ME-model Reactions...                                             : 0.9%|          |    21/ 2280 [00:00<00:13]Updating ME-model Reactions...                                             : 1.7%|▏         |    39/ 2280 [00:00<00:22]Updating ME-model Reactions...                                             : 2.2%|▏         |    51/ 2280 [00:00<00:23]Updating ME-model Reactions...                                             : 2.7%|▎         |    62/ 2280 [00:00<00:23]Updating ME-model Reactions...                                             : 3.2%|▎         |    72/ 2280 [00:00<00:23]Updating ME-model Reactions...                                             : 3.6%|▎         |    82/ 2280 [00:00<00:24]Updating ME-model Reactions...                                             : 4.0%|▍         |    92/ 2280 [00:00<00:24]Updating ME-model Reactions...                                             : 4.4%|▍         |   101/ 2280 [00:01<00:25]Updating ME-model Reactions...                                             : 4.8%|▍         |   110/ 2280 [00:01<00:25]Updating ME-model Reactions...                                             : 5.2%|▌         |   119/ 2280 [00:01<00:25]Updating ME-model Reactions...                                             : 5.6%|▌         |   128/ 2280 [00:01<00:25]Updating ME-model Reactions...                                             : 6.0%|▌         |   137/ 2280 [00:01<00:26]Updating ME-model Reactions...                                             : 6.4%|▋         |   146/ 2280 [00:01<00:26]Updating ME-model Reactions...                                             : 6.8%|▋         |   155/ 2280 [00:01<00:27]Updating ME-model Reactions...                                             : 7.1%|▋         |   163/ 2280 [00:02<00:42]Updating ME-model Reactions...                                             : 7.5%|▊         |   171/ 2280 [00:02<00:38]Updating ME-model Reactions...                                             : 7.9%|▊         |   180/ 2280 [00:02<00:33]Updating ME-model Reactions...                                             : 8.2%|▊         |   188/ 2280 [00:02<00:32]Updating ME-model Reactions...                                             : 8.7%|▊         |   198/ 2280 [00:02<00:29]Updating ME-model Reactions...                                             : 9.1%|▉         |   208/ 2280 [00:02<00:27]Updating ME-model Reactions...                                             : 9.6%|▉         |   218/ 2280 [00:02<00:25]Updating ME-model Reactions...                                             : 10.2%|█         |   232/ 2280 [00:02<00:21]Updating ME-model Reactions...                                             : 10.9%|█         |   248/ 2280 [00:02<00:18]Updating ME-model Reactions...                                             : 11.5%|█▏        |   262/ 2280 [00:03<00:16]Updating ME-model Reactions...                                             : 12.1%|█▏        |   275/ 2280 [00:03<00:17]Updating ME-model Reactions...                                             : 12.7%|█▎        |   289/ 2280 [00:03<00:16]Updating ME-model Reactions...                                             : 13.2%|█▎        |   302/ 2280 [00:03<00:17]Updating ME-model Reactions...                                             : 13.8%|█▍        |   314/ 2280 [00:03<00:18]Updating ME-model Reactions...                                             : 14.4%|█▍        |   328/ 2280 [00:03<00:17]Updating ME-model Reactions...                                             : 14.9%|█▍        |   340/ 2280 [00:03<00:17]Updating ME-model Reactions...                                             : 15.4%|█▌        |   352/ 2280 [00:03<00:17]Updating ME-model Reactions...                                             : 16.1%|█▌        |   367/ 2280 [00:03<00:16]Updating ME-model Reactions...                                             : 16.7%|█▋        |   380/ 2280 [00:04<00:15]Updating ME-model Reactions...                                             : 17.2%|█▋        |   393/ 2280 [00:04<00:16]Updating ME-model Reactions...                                             : 17.8%|█▊        |   405/ 2280 [00:04<00:17]Updating ME-model Reactions...                                             : 18.2%|█▊        |   416/ 2280 [00:04<00:19]Updating ME-model Reactions...                                             : 18.7%|█▊        |   426/ 2280 [00:04<00:19]Updating ME-model Reactions...                                             : 19.1%|█▉        |   436/ 2280 [00:04<00:19]Updating ME-model Reactions...                                             : 19.6%|█▉        |   446/ 2280 [00:04<00:21]Updating ME-model Reactions...                                             : 20.0%|██        |   456/ 2280 [00:04<00:20]Updating ME-model Reactions...                                             : 20.4%|██        |   466/ 2280 [00:05<00:19]Updating ME-model Reactions...                                             : 21.1%|██        |   481/ 2280 [00:05<00:17]Updating ME-model Reactions...                                             : 21.7%|██▏       |   495/ 2280 [00:05<00:15]Updating ME-model Reactions...                                             : 22.2%|██▏       |   507/ 2280 [00:05<00:17]Updating ME-model Reactions...                                             : 22.7%|██▎       |   518/ 2280 [00:05<00:18]Updating ME-model Reactions...                                             : 23.2%|██▎       |   528/ 2280 [00:05<00:18]Updating ME-model Reactions...                                             : 23.6%|██▎       |   539/ 2280 [00:05<00:18]Updating ME-model Reactions...                                             : 24.1%|██▍       |   549/ 2280 [00:05<00:19]Updating ME-model Reactions...                                             : 24.5%|██▍       |   559/ 2280 [00:05<00:19]Updating ME-model Reactions...                                             : 24.9%|██▍       |   568/ 2280 [00:06<00:20]Updating ME-model Reactions...                                             : 25.4%|██▌       |   578/ 2280 [00:06<00:19]Updating ME-model Reactions...                                             : 25.8%|██▌       |   588/ 2280 [00:06<00:19]Updating ME-model Reactions...                                             : 26.2%|██▌       |   597/ 2280 [00:06<00:19]Updating ME-model Reactions...                                             : 26.6%|██▋       |   607/ 2280 [00:06<00:19]Updating ME-model Reactions...                                             : 27.1%|██▋       |   617/ 2280 [00:06<00:19]Updating ME-model Reactions...                                             : 27.5%|██▊       |   627/ 2280 [00:06<00:18]Updating ME-model Reactions...                                             : 27.9%|██▊       |   637/ 2280 [00:06<00:18]Updating ME-model Reactions...                                             : 28.4%|██▊       |   647/ 2280 [00:06<00:18]Updating ME-model Reactions...                                             : 28.8%|██▉       |   657/ 2280 [00:07<00:18]Updating ME-model Reactions...                                             : 29.3%|██▉       |   667/ 2280 [00:07<00:17]Updating ME-model Reactions...                                             : 29.7%|██▉       |   677/ 2280 [00:07<00:18]Updating ME-model Reactions...                                             : 30.1%|███       |   687/ 2280 [00:07<00:18]Updating ME-model Reactions...                                             : 30.6%|███       |   697/ 2280 [00:07<00:17]Updating ME-model Reactions...                                             : 31.0%|███       |   707/ 2280 [00:07<00:16]Updating ME-model Reactions...                                             : 31.5%|███▏      |   719/ 2280 [00:07<00:15]Updating ME-model Reactions...                                             : 32.1%|███▏      |   731/ 2280 [00:07<00:14]Updating ME-model Reactions...                                             : 32.6%|███▎      |   743/ 2280 [00:07<00:14]Updating ME-model Reactions...                                             : 33.1%|███▎      |   754/ 2280 [00:08<00:14]Updating ME-model Reactions...                                             : 33.6%|███▎      |   765/ 2280 [00:08<00:14]Updating ME-model Reactions...                                             : 34.0%|███▍      |   776/ 2280 [00:08<00:14]Updating ME-model Reactions...                                             : 34.5%|███▍      |   787/ 2280 [00:08<00:16]Updating ME-model Reactions...                                             : 35.0%|███▍      |   797/ 2280 [00:08<00:16]Updating ME-model Reactions...                                             : 35.4%|███▌      |   807/ 2280 [00:08<00:16]Updating ME-model Reactions...                                             : 35.8%|███▌      |   816/ 2280 [00:08<00:17]Updating ME-model Reactions...                                             : 36.2%|███▌      |   826/ 2280 [00:08<00:16]Updating ME-model Reactions...                                             : 36.7%|███▋      |   836/ 2280 [00:09<00:16]Updating ME-model Reactions...                                             : 37.1%|███▋      |   846/ 2280 [00:09<00:15]Updating ME-model Reactions...                                             : 37.5%|███▊      |   856/ 2280 [00:09<00:15]Updating ME-model Reactions...                                             : 38.0%|███▊      |   866/ 2280 [00:09<00:15]Updating ME-model Reactions...                                             : 38.4%|███▊      |   876/ 2280 [00:09<00:15]Updating ME-model Reactions...                                             : 38.9%|███▉      |   886/ 2280 [00:09<00:15]Updating ME-model Reactions...                                             : 39.3%|███▉      |   895/ 2280 [00:09<00:15]Updating ME-model Reactions...                                             : 39.6%|███▉      |   904/ 2280 [00:09<00:15]Updating ME-model Reactions...                                             : 40.0%|████      |   913/ 2280 [00:09<00:15]Updating ME-model Reactions...                                             : 40.6%|████      |   925/ 2280 [00:10<00:14]Updating ME-model Reactions...                                             : 41.0%|████      |   935/ 2280 [00:10<00:14]Updating ME-model Reactions...                                             : 41.4%|████▏     |   945/ 2280 [00:10<00:14]Updating ME-model Reactions...                                             : 41.9%|████▏     |   955/ 2280 [00:10<00:15]Updating ME-model Reactions...                                             : 42.3%|████▏     |   965/ 2280 [00:10<00:14]Updating ME-model Reactions...                                             : 99.2%|█████████▉|  2262/ 2280 [00:10<00:00]Updating ME-model Reactions...                                             : 100.0%|██████████|  2280/ 2280 [00:10<00:00]
-Updating all FormationReactions...                                         : 0.0%|          |     0/  595 [00:00<?]Updating all FormationReactions...                                         : 100.0%|██████████|   595/  595 [00:00<00:00]
-Recalculation of the elemental contribution in SubReactions...             : 0.0%|          |     0/  181 [00:00<?]Recalculation of the elemental contribution in SubReactions...             : 100.0%|██████████|   181/  181 [00:00<00:00]
-Updating all FormationReactions...                                         : 0.0%|          |     0/  595 [00:00<?]Updating all FormationReactions...                                         : 100.0%|██████████|   595/  595 [00:00<00:00]
-Updating FormationReactions involving a lipoyl prosthetic group...         : 0.0%|          |     0/    0 [00:00<?]Updating FormationReactions involving a lipoyl prosthetic group...         : 0.0%|          |     0/    0 [00:00<?]
-Updating FormationReactions involving a glycyl radical...                  : 0.0%|          |     0/    0 [00:00<?]Updating FormationReactions involving a glycyl radical...                  : 0.0%|          |     0/    0 [00:00<?]
-Estimating effective turnover rates for reactions using the SASA method... : 0.0%|          |     0/  598 [00:00<?]Estimating effective turnover rates for reactions using the SASA method... : 100.0%|██████████|   598/  598 [00:00<00:00]
-Mapping effective turnover rates from user input...                        : 0.0%|          |     0/    0 [00:00<?]Mapping effective turnover rates from user input...                        : 0.0%|          |     0/    0 [00:00<?]
-Setting the effective turnover rates using user input...                   : 0.0%|          |     0/  521 [00:00<?]Setting the effective turnover rates using user input...                   : 100.0%|██████████|   521/  521 [00:00<00:00]
-Pruning unnecessary ComplexData reactions...                               : 0.0%|          |     0/  595 [00:00<?]Pruning unnecessary ComplexData reactions...                               : 71.9%|███████▏  |   428/  595 [00:00<00:00]Pruning unnecessary ComplexData reactions...                               : 100.0%|██████████|   595/  595 [00:00<00:00]
-Pruning unnecessary FoldedProtein reactions...                             : 0.0%|          |     0/    0 [00:00<?]Pruning unnecessary FoldedProtein reactions...                             : 0.0%|          |     0/    0 [00:00<?]
-Pruning unnecessary ProcessedProtein reactions...                          : 0.0%|          |     0/  474 [00:00<?]Pruning unnecessary ProcessedProtein reactions...                          : 100.0%|██████████|   474/  474 [00:00<00:00]
-Pruning unnecessary TranslatedGene reactions...                            : 0.0%|          |     0/  472 [00:00<?]Pruning unnecessary TranslatedGene reactions...                            : 92.6%|█████████▎|   437/  472 [00:00<00:00]Pruning unnecessary TranslatedGene reactions...                            : 100.0%|██████████|   472/  472 [00:00<00:00]
-Pruning unnecessary TranscribedGene reactions...                           : 0.0%|          |     0/  498 [00:00<?]Pruning unnecessary TranscribedGene reactions...                           : 100.0%|██████████|   498/  498 [00:00<00:00]
-Pruning unnecessary Transcriptional Units...                               : 0.0%|          |     0/  496 [00:00<?]Pruning unnecessary Transcriptional Units...                               : 11.9%|█▏        |    59/  496 [00:00<00:00]Pruning unnecessary Transcriptional Units...                               : 36.3%|███▋      |   180/  496 [00:00<00:00]Pruning unnecessary Transcriptional Units...                               : 55.6%|█████▌    |   276/  496 [00:00<00:00]Pruning unnecessary Transcriptional Units...                               : 73.2%|███████▎  |   363/  496 [00:00<00:00]Pruning unnecessary Transcriptional Units...                               : 88.5%|████████▊ |   439/  496 [00:00<00:00]Pruning unnecessary Transcriptional Units...                               : 100.0%|██████████|   496/  496 [00:00<00:00]
-Pruning unnecessary ComplexData reactions...                               : 0.0%|          |     0/  259 [00:00<?]Pruning unnecessary ComplexData reactions...                               : 100.0%|██████████|   259/  259 [00:00<00:00]
-Pruning unnecessary FoldedProtein reactions...                             : 0.0%|          |     0/    0 [00:00<?]Pruning unnecessary FoldedProtein reactions...                             : 0.0%|          |     0/    0 [00:00<?]
-Pruning unnecessary ProcessedProtein reactions...                          : 0.0%|          |     0/  248 [00:00<?]Pruning unnecessary ProcessedProtein reactions...                          : 100.0%|██████████|   248/  248 [00:00<00:00]
-Pruning unnecessary TranslatedGene reactions...                            : 0.0%|          |     0/  248 [00:00<?]Pruning unnecessary TranslatedGene reactions...                            : 100.0%|██████████|   248/  248 [00:00<00:00]
-Pruning unnecessary TranscribedGene reactions...                           : 0.0%|          |     0/  271 [00:00<?]Pruning unnecessary TranscribedGene reactions...                           : 100.0%|██████████|   271/  271 [00:00<00:00]
-Pruning unnecessary Transcriptional Units...                               : 0.0%|          |     0/  269 [00:00<?]Pruning unnecessary Transcriptional Units...                               : 10.8%|█         |    29/  269 [00:00<00:00]Pruning unnecessary Transcriptional Units...                               : 30.1%|███       |    81/  269 [00:00<00:00]Pruning unnecessary Transcriptional Units...                               : 46.1%|████▌     |   124/  269 [00:00<00:00]Pruning unnecessary Transcriptional Units...                               : 61.7%|██████▏   |   166/  269 [00:00<00:00]Pruning unnecessary Transcriptional Units...                               : 74.3%|███████▍  |   200/  269 [00:00<00:00]Pruning unnecessary Transcriptional Units...                               : 87.0%|████████▋ |   234/  269 [00:00<00:00]Pruning unnecessary Transcriptional Units...                               : 100.0%|██████████|   269/  269 [00:00<00:00]
-Pruning unnecessary ComplexData reactions...                               : 0.0%|          |     0/  258 [00:00<?]Pruning unnecessary ComplexData reactions...                               : 100.0%|██████████|   258/  258 [00:00<00:00]
-Pruning unnecessary FoldedProtein reactions...                             : 0.0%|          |     0/    0 [00:00<?]Pruning unnecessary FoldedProtein reactions...                             : 0.0%|          |     0/    0 [00:00<?]
-Pruning unnecessary ProcessedProtein reactions...                          : 0.0%|          |     0/  248 [00:00<?]Pruning unnecessary ProcessedProtein reactions...                          : 100.0%|██████████|   248/  248 [00:00<00:00]
-Pruning unnecessary TranslatedGene reactions...                            : 0.0%|          |     0/  248 [00:00<?]Pruning unnecessary TranslatedGene reactions...                            : 100.0%|██████████|   248/  248 [00:00<00:00]
-Pruning unnecessary TranscribedGene reactions...                           : 0.0%|          |     0/  271 [00:00<?]Pruning unnecessary TranscribedGene reactions...                           : 100.0%|██████████|   271/  271 [00:00<00:00]
-Pruning unnecessary Transcriptional Units...                               : 0.0%|          |     0/  269 [00:00<?]Pruning unnecessary Transcriptional Units...                               : 10.4%|█         |    28/  269 [00:00<00:00]Pruning unnecessary Transcriptional Units...                               : 29.0%|██▉       |    78/  269 [00:00<00:00]Pruning unnecessary Transcriptional Units...                               : 45.7%|████▌     |   123/  269 [00:00<00:00]Pruning unnecessary Transcriptional Units...                               : 61.3%|██████▏   |   165/  269 [00:00<00:00]Pruning unnecessary Transcriptional Units...                               : 74.7%|███████▍  |   201/  269 [00:00<00:00]Pruning unnecessary Transcriptional Units...                               : 87.7%|████████▊ |   236/  269 [00:00<00:00]Pruning unnecessary Transcriptional Units...                               : 100.0%|██████████|   269/  269 [00:00<00:00]
-ME-model was saved in the ./mmycoides/ directory as MEModel-step2-mmycoides.pkl
-ME-model reconstruction is done.
-Number of metabolites in the ME-model is 1169 (+285.81%, from 303)
-Number of reactions in the ME-model is 1856 (+483.65%, from 318)
-Number of genes in the ME-model is 269 (+73.55%, from 155)
-The MINOS and quad MINOS solvers are a courtesy of Prof Michael A. Saunders. Please cite Ma, D., Yang, L., Fleming, R. et al. Reliable and efficient solution of genome-scale models of Metabolism and macromolecular Expression. Sci Rep 7, 40863 (2017). https://doi.org/10.1038/srep40863
-
-~ Troubleshooting started...
-  Checking if the ME-model can simulate growth without gapfilling reactions...
-  Original ME-model is not feasible with a tested growth rate of 0.001000 1/h
-  Step 1. Gapfill reactions to provide components of type 'ME-Deadends' using brute force.
-          Finding gaps in the ME-model...
-          Finding gaps from the M-model only...
-          16 metabolites were identified as deadends.
-            DNA_c: DNA
-            cd2_c: Missing metabolite in the M-model.
-            clpn_c: cardiolipin
-            cobalt2_c: Missing metabolite in the M-model.
-            cs_c: Missing metabolite in the M-model.
-            dUTPase_c: dUTPase
-            fe2_c: Missing metabolite in the M-model.
-            galfur12dgr_c: Gal-DAG
-            lgltn_c: lipogalactan
-            mn2_c: Missing metabolite in the M-model.
-            nh4_c: Missing metabolite in the M-model.
-            ni2_c: Missing metabolite in the M-model.
-            pydx5p_c: pyridoxal phosphate
-            sprm_c: spermine
-            tl_c: Missing metabolite in the M-model.
-            zn2_c: Missing metabolite in the M-model.
-          Adding sink reactions for 16 metabolites...
-          Provided metabolites through sink reactions cannot recover growth. Proceeding to next set of metabolites.
-  Step 2. Gapfill reactions to provide components of type 'Cofactors' using brute force.
-          Adding sink reactions for 25 metabolites...
-          Provided metabolites through sink reactions cannot recover growth. Proceeding to next set of metabolites.
-  Step 3. Gapfill reactions to provide components of type 'All-Deadends' using brute force.
-          Finding gaps in the ME-model...
-          22 metabolites were identified as deadends.
-            PdhC_c: PdhC
-            ala4_c: Tetra-L-alanine
-            arg4_c: Tetra-L-arginine
-            asn4_c: Tetra-L-asparagine
-            asp4_c: Tetra-L-aspartate
-            cytd_c: Cytidine
-            gln4_c: Tetra-L-glutamine
-            glu4_c: Tetra-L-glutamate
-            gly4_c: Tetra-glycine
-            his4_c: Tetra-L-histidine
-            ile4_c: Tetra-L-isoleucine
-            leu4_c: Tetra-L-leucine
-            lys4_c: Tetra-L-lysine
-            met4_c: Tetra-L-methionine
-            phe4_c: Tetra-L-phenylalanine
-            pro4_c: Tetra-L-proline
-            ser4_c: Tetra-L-serine
-            thr4_c: Tetra-L-threonine
-            trp4_c: Tetra-L-tryptophan
-            tyr4_c: Tetra-L-tyrosine
-            uri_c: Uridine
-            val4_c: Tetra-L-valine
-          Adding sink reactions for 47 metabolites...
-          Provided metabolites through sink reactions cannot recover growth. Proceeding to next set of metabolites.
-  Step 4. Gapfill reactions to provide components of type 'Metabolite' using brute force.
-          Adding sink reactions for 105 metabolites...
-            Sink reactions shortlisted to 72 metabolites.
-             Processed:  1/72, Gaps: 0. The ME-model is feasible if TS_10fthfglu3_c is closed.
-             Processed:  2/72, Gaps: 0. The ME-model is feasible if TS_lac__L_c is closed.
-             Processed:  3/72, Gaps: 0. The ME-model is feasible if TS_13dpg_c is closed.
-             Processed:  4/72, Gaps: 0. The ME-model is feasible if TS_pep_c is closed.
-             Processed:  5/72, Gaps: 0. The ME-model is feasible if TS_udpg_c is closed.
-             Processed:  6/72, Gaps: 1. The ME-model is not feasible if TS_protein_c is closed.
-             Processed:  7/72, Gaps: 1. The ME-model is feasible if TS_5fthfglu3_c is closed.
-             Processed:  8/72, Gaps: 1. The ME-model is feasible if TS_pyr_c is closed.
-             Processed:  9/72, Gaps: 1. The ME-model is feasible if TS_actp_c is closed.
-             Processed: 10/72, Gaps: 1. The ME-model is feasible if TS_acgam6p_c is closed.
-             Processed: 11/72, Gaps: 1. The ME-model is feasible if TS_f6p_c is closed.
-             Processed: 12/72, Gaps: 1. The ME-model is feasible if TS_gam6p_c is closed.
-             Processed: 13/72, Gaps: 1. The ME-model is feasible if TS_udpgltn_c is closed.
-             Processed: 14/72, Gaps: 1. The ME-model is feasible if TS_g1p_c is closed.
-             Processed: 15/72, Gaps: 1. The ME-model is feasible if TS_2dr1p_c is closed.
-             Processed: 16/72, Gaps: 1. The ME-model is feasible if TS_amet_c is closed.
-             Processed: 17/72, Gaps: 1. The ME-model is feasible if TS_ap_c is closed.
-             Processed: 18/72, Gaps: 1. The ME-model is feasible if TS_pap_c is closed.
-             Processed: 19/72, Gaps: 1. The ME-model is feasible if TS_ACP_R_c is closed.
-             Processed: 20/72, Gaps: 1. The ME-model is feasible if TS_2pg_c is closed.
-             Processed: 21/72, Gaps: 1. The ME-model is feasible if TS_dhap_c is closed.
-             Processed: 22/72, Gaps: 2. The ME-model is not feasible if TS_apoACP_c is closed.
-             Processed: 23/72, Gaps: 2. The ME-model is feasible if TS_acmanap_c is closed.
-             Processed: 24/72, Gaps: 2. The ME-model is feasible if TS_glyc3p_c is closed.
-             Processed: 25/72, Gaps: 2. The ME-model is feasible if TS_thfglu3_c is closed.
-             Processed: 26/72, Gaps: 2. The ME-model is feasible if TS_ahcys_c is closed.
-             Processed: 27/72, Gaps: 2. The ME-model is feasible if TS_s7p_c is closed.
-             Processed: 28/72, Gaps: 2. The ME-model is feasible if TS_udpgalfur_c is closed.
-             Processed: 29/72, Gaps: 2. The ME-model is feasible if TS_r5p_c is closed.
-             Processed: 30/72, Gaps: 2. The ME-model is feasible if TS_glutrnagln_c is closed.
-             Processed: 31/72, Gaps: 2. The ME-model is feasible if TS_1ag3p_c is closed.
-             Processed: 32/72, Gaps: 2. The ME-model is feasible if TS_r1p_c is closed.
-             Processed: 33/72, Gaps: 2. The ME-model is feasible if TS_prpp_c is closed.
-             Processed: 34/72, Gaps: 2. The ME-model is feasible if TS_2dr5p_c is closed.
-             Processed: 35/72, Gaps: 3. The ME-model is not feasible if TS_biomass_c is closed.
-             Processed: 36/72, Gaps: 3. The ME-model is feasible if TS_methfglu3_c is closed.
-             Processed: 37/72, Gaps: 3. The ME-model is feasible if TS_g3p_c is closed.
-             Processed: 38/72, Gaps: 3. The ME-model is feasible if TS_nicrnt_c is closed.
-             Processed: 39/72, Gaps: 3. The ME-model is feasible if TS_pa_c is closed.
-             Processed: 40/72, Gaps: 3. The ME-model is feasible if TS_xu5p__D_c is closed.
-             Processed: 41/72, Gaps: 3. The ME-model is feasible if TS_e4p_c is closed.
-             Processed: 42/72, Gaps: 3. The ME-model is feasible if TS_pg3p_c is closed.
-             Processed: 43/72, Gaps: 3. The ME-model is feasible if TS_pg_c is closed.
-             Processed: 44/72, Gaps: 3. The ME-model is feasible if TS_dnad_c is closed.
-             Processed: 45/72, Gaps: 3. The ME-model is feasible if TS_ru5p__D_c is closed.
-             Processed: 46/72, Gaps: 4. The ME-model is not feasible if TS_3pg_c is closed.
-             Processed: 47/72, Gaps: 4. The ME-model is feasible if TS_dhlpl_PdhC_c is closed.
-             Processed: 48/72, Gaps: 4. The ME-model is feasible if TS_fdp_c is closed.
-             Processed: 49/72, Gaps: 4. The ME-model is feasible if TS_acdhlpl_PdhC_c is closed.
-             Processed: 50/72, Gaps: 4. The ME-model is feasible if TS_cdpdag_c is closed.
-             Processed: 51/72, Gaps: 5. The ME-model is not feasible if TS_12dgr_c is closed.
-             Processed: 52/72, Gaps: 5. The ME-model is feasible if TS_mlthfglu3_c is closed.
-             Processed: 53/72, Gaps: 5. The ME-model is feasible if TS_accoa_c is closed.
-             Processed: 54/72, Gaps: 5. The ME-model is feasible if TS_thmpp_c is closed.
-             Processed: 55/72, Gaps: 5. The ME-model is feasible if TS_k_c is closed.
-             Processed: 56/72, Gaps: 5. The ME-model is feasible if TS_nad_c is closed.
-             Processed: 57/72, Gaps: 6. The ME-model is not feasible if TS_pi_c is closed.
-             Processed: 58/72, Gaps: 6. The ME-model is feasible if TS_ca2_c is closed.
-             Processed: 59/72, Gaps: 6. The ME-model is feasible if TS_na1_c is closed.
-             Processed: 60/72, Gaps: 6. The ME-model is feasible if TS_fad_c is closed.
-             Processed: 61/72, Gaps: 6. The ME-model is feasible if TS_mg2_c is closed.
-             Processed: 62/72, Gaps: 7. The ME-model is not feasible if TS_zn2_c is closed.
-             Processed: 63/72, Gaps: 7. The ME-model is feasible if TS_galfur12dgr_c is closed.
-             Processed: 64/72, Gaps: 7. The ME-model is feasible if TS_cobalt2_c is closed.
-             Processed: 65/72, Gaps: 7. The ME-model is feasible if TS_sprm_c is closed.
-             Processed: 66/72, Gaps: 8. The ME-model is not feasible if TS_mn2_c is closed.
-             Processed: 67/72, Gaps: 9. The ME-model is not feasible if TS_fe2_c is closed.
-             Processed: 68/72, Gaps: 9. The ME-model is feasible if TS_pydx5p_c is closed.
-             Processed: 69/72, Gaps: 9. The ME-model is feasible if TS_lgltn_c is closed.
-             Processed: 70/72, Gaps: 10. The ME-model is not feasible if TS_clpn_c is closed.
-             Processed: 71/72, Gaps: 10. The ME-model is feasible if TS_DNA_c is closed.
-             Processed: 72/72, Gaps: 11. The ME-model is not feasible if TS_dUTPase_c is closed.
-~ Troubleshooter added the following sinks: TS_zn2_c, TS_mn2_c, TS_fe2_c, TS_clpn_c, TS_dUTPase_c, TS_pi_c, TS_protein_c, TS_apoACP_c, TS_biomass_c, TS_3pg_c, TS_12dgr_c.
-~ Final step. Fully optimizing with precision 1e-6 and save solution into the ME-model...
-  Gapfilled ME-model is feasible with growth rate 0.384881 (M-model: 0.369622).
-ME-model was saved in the ./mmycoides/ directory as MEModel-step3-mmycoides-TS.pkl

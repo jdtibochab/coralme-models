@@ -1,6 +1,6 @@
 ,value
 ME-Model-ID,pputida
-amino_acid_trna_synthetase,"{'ala__L_c': 'G1G01-4775-MONOMER', 'arg__L_c': 'G1G01-5433-MONOMER', 'asn__L_c': 'CPLX_dummy', 'asp__L_c': 'G1G01-1298-MONOMER', 'cys__L_c': 'G1G01-3084-MONOMER', 'gln__L_c': 'G1G01-3083-MONOMER', 'glu__L_c': 'G1G01-2102-MONOMER', 'gly_c': 'CPLX1G01-58', 'his__L_c': 'G1G01-929-MONOMER', 'ile__L_c': 'G1G01-660-MONOMER', 'leu__L_c': 'G1G01-5131-MONOMER', 'lys__L_c': 'G1G01-1587-MONOMER', 'met__L_c': 'G1G01-1170-MONOMER', 'phe__L_c': 'CPLX1G01-137', 'pro__L_c': 'G1G01-1290-MONOMER', 'ser__L_c': 'G1G01-4267-MONOMER', 'thr__L_c': 'G1G01-2636-MONOMER', 'trp__L_c': 'G1G01-1398-MONOMER', 'tyr__L_c': 'G1G01-472-MONOMER', 'val__L_c': 'G1G01-1050-MONOMER'}"
+amino_acid_trna_synthetase,"{'ala__L_c': 'G1G01-4775-MONOMER_mod_zn2(4)', 'arg__L_c': 'G1G01-5433-MONOMER_mod_mg2(1)', 'asn__L_c': 'CPLX_dummy', 'asp__L_c': 'G1G01-1298-MONOMER', 'cys__L_c': 'G1G01-3084-MONOMER_mod_zn2(1)', 'gln__L_c': 'G1G01-3083-MONOMER', 'glu__L_c': 'G1G01-2102-MONOMER_mod_mg2(1)_mod_zn2(1)', 'gly_c': 'CPLX1G01-58', 'his__L_c': 'G1G01-929-MONOMER_mod_mg2(4)', 'ile__L_c': 'G1G01-660-MONOMER_mod_zn2(2)', 'leu__L_c': 'G1G01-5131-MONOMER', 'lys__L_c': 'G1G01-1587-MONOMER', 'met__L_c': 'G1G01-1170-MONOMER_mod_zn2(2)', 'phe__L_c': 'CPLX1G01-137_mod_mg2(1)', 'pro__L_c': 'G1G01-1290-MONOMER', 'ser__L_c': 'G1G01-4267-MONOMER_mod_mg2(1)', 'thr__L_c': 'G1G01-2636-MONOMER_mod_zn2(1)', 'trp__L_c': 'G1G01-1398-MONOMER_mod_mg2(1)', 'tyr__L_c': 'G1G01-472-MONOMER', 'val__L_c': 'G1G01-1050-MONOMER_mod_mg2(1)'}"
 biocyc.RNAs,./pputida/inputs/RNAs.txt
 biocyc.TUs,./pputida/inputs/TUs.txt
 biocyc.genes,./pputida/inputs/genes.txt
@@ -13,7 +13,7 @@ braun's_murein_flux,-0.0
 complex_cofactors,"{'fes_transfers': ['G1G01-469-MONOMER', 'G1G01-919-MONOMER'], 'biotin_subreactions': {'mod_btn_c': ['biotin_ligase']}, 'lipoate_subreactions': {'mod_lipoyl_c': ['lipoyl_denovo', 'lipoyl_scavenging']}, 'fes_chaperones': {}, 'bmocogdp_chaperones': {}, 'FeFe/NiFe': {'mod_FeFe_cofactor_c': '', 'mod_NiFe_cofactor_c': ''}}"
 default_sigma_factor,G1G01-424-MONOMER
 defer_to_rxn_matrix,"['BIOMASS_KT2440_WT3', 'FMETTRS', 'ATPM']"
-dev_reference,False
+dev_reference,True
 df_TranscriptionalUnits,./pputida//building_data/TUs_from_biocyc.txt
 df_gene_cplxs_mods_rxns,./pputida/building_data/automated-org-with-refs.xlsx
 flux_of_biomass_constituents,{}

@@ -10,8 +10,6 @@ Correct the formulas of the listed metabolites. Some metabolite formulas are cri
 #################### critical@org.check_m_model ####################
 ********** Some metabolites have a problematic formula. If these metabolites are used in protein modifications, or other subreactions, it will cause an error.
 The following items triggered the warning:
-chitin_p
-chitin_e
 LptA_p
 colipaOA_e
 fldrd_c
@@ -2324,30 +2322,8 @@ Fill genes in proteins.txt
 #################### medium@org.sync_files ####################
 ********** The types of some genes (e.g. CDS, RNA...) could not be identified. Is Product or Gene Name missing?
 The following items triggered the warning:
-gcvB
-vsr217
-tarB
-micV
-qrr4
-qrr3
-coaR
-rhyB
-carZ
-micX
-mtlS
-vqmR
-tfoR
-qrr1
-csrB
 vcdRP
 vcdRP
-vrrA
-oppZ
-tarA
-vadR
-qrr2
-farS
-vcdP
 FY484_RS19505
 FY484_RS19505
 FY484_RS04375
@@ -2378,8 +2354,6 @@ FY484_RS16250
 FY484_RS16250
 vciA
 vciA
-FY484_RS19460
-FY484_RS19460
 FY484_RS15780
 FY484_RS15780
 FY484_RS01340
@@ -2419,7 +2393,7 @@ Manually fill the products (with types) of these genes in genes.txt
 ********** Some datasets contain duplicate indices or Accession IDs.
 The following items triggered the warning:
 
-{"gene_dictionary": [""], "Accession-1": ["radC", "rrf", "maf", "tuf", "nspC", "parC", "tkt", "folK", "rpmJ", "cydB", "mgtE", "gspK", "nqrM", "fliL", "tnpA", "cadA", "lipA", "hutC", "cydX", "pyk", "cydA", "focA", "varA", "msrB", "arcA", "VC_0393"]}
+{"Accession-1": ["radC", "rrf", "maf", "tuf", "nspC", "parC", "tkt", "folK", "rpmJ", "cydB", "mgtE", "gspK", "nqrM", "fliL", "tnpA", "cadA", "lipA", "hutC", "cydX", "pyk", "cydA", "focA", "varA", "msrB", "arcA", "VC_0393"]}
 
 **********Solution:
 Remove or fix duplicates. If duplicates are in Accession-1, they are processed as different possibilities to get the same enzyme, so they are added as generic complexes. Check!
@@ -4383,7 +4357,7 @@ Check whether you need to correct RpoD by running me_builder.org.rpod = correct_
 ********** CPLX2G6Z-10 was identified as RNA polymerase
 
 **********Solution:
-Check whether you need to correct RNAP by running me_builder.org.get_rna_polymerase(force_RNAP_as=correct_RNAP)
+Find correct RNAP complex and add force_RNAP_as:"RNAP_COMPLEX_ID" to the configuration (by default, organism.json)
 
 
 
@@ -4847,6 +4821,48 @@ Confirm whether the definitions or homology calls are correct in me_builder.org.
 
 
 
+#################### medium@update_amino_acid_trna_synthetases_from_homology ####################
+********** Some enzymes identified in me_builder.org.amino_acid_trna_synthetase are different from the ones inferred from homology
+The following items triggered the warning:
+
+{"amino_acid": "ala__L_c", "inferred_ligase": "generic_ala_ligase", "homology_ligase": "VC_0545-MONOMER_mod_zn2(4)"}
+
+{"amino_acid": "arg__L_c", "inferred_ligase": "generic_arg_ligase", "homology_ligase": "VC_2074-MONOMER_mod_mg2(1)"}
+
+{"amino_acid": "asn__L_c", "inferred_ligase": "generic_asn_ligase", "homology_ligase": "VC_1297-MONOMER"}
+
+{"amino_acid": "asp__L_c", "inferred_ligase": "generic_asp_ligase", "homology_ligase": "VC_1166-MONOMER"}
+
+{"amino_acid": "cys__L_c", "inferred_ligase": "generic_cys_ligase", "homology_ligase": "VC_1848-MONOMER_mod_zn2(1)"}
+
+{"amino_acid": "gln__L_c", "inferred_ligase": "generic_gln_ligase", "homology_ligase": "VC_0997-MONOMER"}
+
+{"amino_acid": "glu__L_c", "inferred_ligase": "generic_glu_ligase", "homology_ligase": "VC_2214-MONOMER_mod_mg2(1)_mod_zn2(1)"}
+
+{"amino_acid": "his__L_c", "inferred_ligase": "generic_his_ligase", "homology_ligase": "VC_0760-MONOMER_mod_mg2(4)"}
+
+{"amino_acid": "ile__L_c", "inferred_ligase": "generic_ile_ligase", "homology_ligase": "VC_0682-MONOMER_mod_zn2(2)"}
+
+{"amino_acid": "leu__L_c", "inferred_ligase": "generic_leu_ligase", "homology_ligase": "VC_0956-MONOMER"}
+
+{"amino_acid": "lys__L_c", "inferred_ligase": "generic_lys_ligase", "homology_ligase": "generic_LYSINEaaRS"}
+
+{"amino_acid": "met__L_c", "inferred_ligase": "generic_met_ligase", "homology_ligase": "VC_1036-MONOMER_mod_zn2(2)"}
+
+{"amino_acid": "ser__L_c", "inferred_ligase": "generic_ser_ligase", "homology_ligase": "VC_1110-MONOMER_mod_mg2(1)"}
+
+{"amino_acid": "thr__L_c", "inferred_ligase": "generic_thr_ligase", "homology_ligase": "VC_A0287-MONOMER_mod_zn2(1)"}
+
+{"amino_acid": "trp__L_c", "inferred_ligase": "generic_trp_ligase", "homology_ligase": "VC_2623-MONOMER_mod_mg2(1)"}
+
+{"amino_acid": "tyr__L_c", "inferred_ligase": "generic_tyr_ligase", "homology_ligase": "VC_0465-MONOMER"}
+
+**********Solution:
+Confirm whether the definitions or homology calls are correct in me_builder.org.amino_acid_trna_synthetase. Curate the inputs in amino_acid_trna_synthetase.txt accordingly.
+
+
+
+
 #################### medium@check ####################
 ********** Some metabolites in me_metabolites.txt need curation
 The following items triggered the warning:
@@ -4865,18 +4881,6 @@ iscssh_c
 
 **********Solution:
 Map or remove these metabolites in me_metabolites.txt
-
-
-
-
-#################### critical@troubleshoot ####################
-********** Some metabolites are necessary for growth
-The following items triggered the warning:
-TS_4fe4s_c
-TS_dpm_c
-
-**********Solution:
-Fix the gaps by adding reactions or solving other warnings. If some items are from the E-matrix, fix these first!
 
 
 

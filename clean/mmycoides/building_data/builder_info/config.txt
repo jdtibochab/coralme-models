@@ -1,6 +1,6 @@
 ,value
 ME-Model-ID,mmycoides
-amino_acid_trna_synthetase,"{'ala__L_c': 'JCVISYN3A_0163-MONOMER', 'arg__L_c': 'JCVISYN3A_0535-MONOMER', 'asn__L_c': 'JCVISYN3A_0076-MONOMER', 'asp__L_c': 'JCVISYN3A_0287-MONOMER', 'cys__L_c': 'JCVISYN3A_0837-MONOMER', 'gln__L_c': 'CPLX_dummy', 'glu__L_c': 'JCVISYN3A_0126-MONOMER', 'gly_c': 'JCVISYN3A_0405-MONOMER', 'his__L_c': 'JCVISYN3A_0288-MONOMER', 'ile__L_c': 'JCVISYN3A_0519-MONOMER', 'leu__L_c': 'JCVISYN3A_0634-MONOMER', 'lys__L_c': 'JCVISYN3A_0064-MONOMER', 'met__L_c': 'JCVISYN3A_0012-MONOMER', 'phe__L_c': 'CPLX-tRNA-PHE-LIGASE', 'pro__L_c': 'JCVISYN3A_0282-MONOMER', 'ser__L_c': 'JCVISYN3A_0061-MONOMER', 'thr__L_c': 'JCVISYN3A_0222-MONOMER', 'trp__L_c': 'JCVISYN3A_0308-MONOMER', 'tyr__L_c': 'JCVISYN3A_0613-MONOMER', 'val__L_c': 'JCVISYN3A_0260-MONOMER'}"
+amino_acid_trna_synthetase,"{'ala__L_c': 'JCVISYN3A_0163-MONOMER_mod_zn2(4)', 'arg__L_c': 'JCVISYN3A_0535-MONOMER_mod_mg2(1)', 'asn__L_c': 'JCVISYN3A_0076-MONOMER', 'asp__L_c': 'JCVISYN3A_0287-MONOMER', 'cys__L_c': 'JCVISYN3A_0837-MONOMER_mod_zn2(1)', 'gln__L_c': 'CPLX_dummy', 'glu__L_c': 'JCVISYN3A_0126-MONOMER_mod_mg2(1)_mod_zn2(1)', 'gly_c': 'JCVISYN3A_0405-MONOMER', 'his__L_c': 'JCVISYN3A_0288-MONOMER_mod_mg2(4)', 'ile__L_c': 'JCVISYN3A_0519-MONOMER_mod_zn2(2)', 'leu__L_c': 'JCVISYN3A_0634-MONOMER', 'lys__L_c': 'JCVISYN3A_0064-MONOMER', 'met__L_c': 'JCVISYN3A_0012-MONOMER_mod_zn2(2)', 'phe__L_c': 'CPLX-tRNA-PHE-LIGASE_mod_mg2(1)', 'pro__L_c': 'JCVISYN3A_0282-MONOMER', 'ser__L_c': 'JCVISYN3A_0061-MONOMER_mod_mg2(1)', 'thr__L_c': 'JCVISYN3A_0222-MONOMER_mod_zn2(1)', 'trp__L_c': 'JCVISYN3A_0308-MONOMER_mod_mg2(1)', 'tyr__L_c': 'JCVISYN3A_0613-MONOMER', 'val__L_c': 'JCVISYN3A_0260-MONOMER_mod_mg2(1)'}"
 biocyc.RNAs,
 biocyc.TUs,
 biocyc.genes,
@@ -13,12 +13,12 @@ braun's_murein_flux,-0.0
 complex_cofactors,"{'fes_transfers': ['CPLX_dummy'], 'biotin_subreactions': {'mod_btn_c': ['biotin_ligase']}, 'lipoate_subreactions': {'mod_lipoyl_c': ['lipoyl_denovo', 'lipoyl_scavenging']}, 'fes_chaperones': {}, 'bmocogdp_chaperones': {}, 'FeFe/NiFe': {'mod_FeFe_cofactor_c': '', 'mod_NiFe_cofactor_c': ''}}"
 default_sigma_factor,JCVISYN3A_0407-MONOMER
 defer_to_rxn_matrix,"['EX_biomass_c', 'FMETTRS', 'ATPM']"
-dev_reference,False
+dev_reference,True
 df_TranscriptionalUnits,./mmycoides//building_data/TUs_from_biocyc.txt
 df_gene_cplxs_mods_rxns,./mmycoides/building_data/automated-org-with-refs.xlsx
 flux_of_biomass_constituents,{}
 flux_of_lipid_constituents,{}
-gam,45.0
+gam,34.98
 genbank-path,./mmycoides//building_data/genome_modified.gb
 gr_data_doublings_per_hour,"[0, 0.6, 1.0, 1.5, 2.0, 2.5]"
 growth_key,mu1
