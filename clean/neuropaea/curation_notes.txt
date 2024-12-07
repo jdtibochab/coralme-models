@@ -625,3 +625,87 @@ Map or remove these metabolites in me_metabolites.txt
 
 
 
+
+#################### critical@check_me_coverage ####################
+********** Some genes show homology, but no metabolic function.
+The following items triggered the warning:
+ALW85_RS00200 <-> b3035
+ALW85_RS00340 <-> b2311
+ALW85_RS00370 <-> b3200
+ALW85_RS00955 <-> b1134
+ALW85_RS01150 <-> b0444
+ALW85_RS01160 <-> b3059
+ALW85_RS01705 <-> b2501
+ALW85_RS01860 <-> b3005
+ALW85_RS01955 <-> b3426
+ALW85_RS01960 <-> b3449
+ALW85_RS01975 <-> b0574
+ALW85_RS02460 <-> b3428
+ALW85_RS02715 <-> b3370
+ALW85_RS03115 <-> b3803
+ALW85_RS03195 <-> b2904
+ALW85_RS03270 <-> b2065
+ALW85_RS03335 <-> b3966
+ALW85_RS03405 <-> b1189
+ALW85_RS03825 <-> b0805
+ALW85_RS04005 <-> b2197
+ALW85_RS04085 <-> b0123
+ALW85_RS04160 <-> b1398
+ALW85_RS04190 <-> b4262
+ALW85_RS04535 <-> b0522
+ALW85_RS04565 <-> b2907
+ALW85_RS05100 <-> b2678
+ALW85_RS05265 <-> b0428
+ALW85_RS05705 <-> b0150
+ALW85_RS05770 <-> b0572
+ALW85_RS05970 <-> b3544
+ALW85_RS06175 <-> b1102
+ALW85_RS06435 <-> b0311
+ALW85_RS06935 <-> b3447
+ALW85_RS07005 <-> b2028
+ALW85_RS07435 <-> b2711
+ALW85_RS07515 <-> b3829
+ALW85_RS07985 <-> b1395
+ALW85_RS08045 <-> b2155
+ALW85_RS08430 <-> b4392
+ALW85_RS08550 <-> b0575
+ALW85_RS08765 <-> b3622
+ALW85_RS08780 <-> b0918
+ALW85_RS08785 <-> b3126
+ALW85_RS08820 <-> b2388
+ALW85_RS09130 <-> b2407
+ALW85_RS09435 <-> b0728
+ALW85_RS09525 <-> b1208
+ALW85_RS09970 <-> b3187
+ALW85_RS10030 <-> b0339
+ALW85_RS10035 <-> b1206
+ALW85_RS11075 <-> b3212
+ALW85_RS11095 <-> b3605
+ALW85_RS11345 <-> b2254
+ALW85_RS11540 <-> b3608
+ALW85_RS11855 <-> b3628
+ALW85_RS11885 <-> b2037
+ALW85_RS11890 <-> b3787
+ALW85_RS11915 <-> b3784
+ALW85_RS12180 <-> b0996
+ALW85_RS12535 <-> b1069
+ALW85_RS12605 <-> b1296
+ALW85_RS14545 <-> b3926
+
+**********Solution:
+Manually curate the M-model to correct GPRs or incorporate new reactions.
+
+
+
+
+#################### critical@troubleshoot ####################
+********** Some metabolites are necessary for growth
+The following items triggered the warning:
+TS_4fe4s_c
+TS_dpm_c
+
+**********Solution:
+Fix the gaps by adding reactions or solving other warnings. If some items are from the E-matrix, fix these first!
+
+
+

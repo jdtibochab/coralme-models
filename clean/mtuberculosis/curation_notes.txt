@@ -387,7 +387,7 @@ Check whether the genbank was downloaded or constructed correctly.
 
 
 #################### critical@org.get_rpod ####################
-********** RpoD randomly assigned to G185E-7604-MONOMER
+********** RpoD randomly assigned to G185E-4880-MONOMER
 
 **********Solution:
 genome.gb does not have a valid annotation for RpoD. A random identified sigma factor in me_builder.org.sigmas was set as RpoD so that the builder can continue running. Set the correct RpoD by running me_builder.org.rpod = correct_rpod
@@ -698,6 +698,85 @@ iscu_c
 
 **********Solution:
 Map or remove these metabolites in me_metabolites.txt
+
+
+
+
+#################### critical@check_me_coverage ####################
+********** Some genes show homology, but no metabolic function.
+The following items triggered the warning:
+Rv0016c <-> b0635
+Rv0050 <-> b0149
+Rv0083 <-> b2482
+Rv0086 <-> b2486
+Rv0089 <-> b0777
+Rv0186 <-> b2132
+Rv0212c <-> b4390
+Rv0237 <-> b1107
+Rv0389 <-> b1849
+Rv0484c <-> b1539
+Rv0488 <-> b2923
+Rv0558 <-> b3833
+Rv0647c <-> b3835
+Rv0838 <-> b1488
+Rv0846c <-> b0123
+Rv0917 <-> b0314
+Rv0940c <-> b1012
+Rv0969 <-> b0484
+Rv1021 <-> b2781
+Rv1026 <-> b3779
+Rv1178 <-> b2379
+Rv1272c <-> b0914
+Rv1279 <-> b0311
+Rv1341 <-> b2954
+Rv1442 <-> b3551
+Rv1707 <-> b1206
+Rv1751 <-> b0662
+Rv1781c <-> b3416
+Rv1869c <-> b2542
+Rv1937 <-> b3844
+Rv1997 <-> b4242
+Rv2025c <-> b3915
+Rv2213 <-> b4260
+Rv2232 <-> b3385
+Rv2501c <-> b3256
+Rv2704 <-> b1010
+Rv2715 <-> b1009
+Rv2852c <-> b2210
+Rv2859c <-> b1298
+Rv2971 <-> b3012
+Rv3014c <-> b2411
+Rv3034c <-> b2033
+Rv3228 <-> b4161
+Rv3284 <-> b2811
+Rv3324c <-> b0783
+Rv3402c <-> b2253
+Rv3406 <-> b0368
+Rv3554 <-> b1392
+Rv3566c <-> b1463
+Rv3578 <-> b3502
+Rv3664c <-> b0832
+Rv3665c <-> b3543
+Rv3666c <-> b1329
+Rv3910 <-> b1069
+
+**********Solution:
+Manually curate the M-model to correct GPRs or incorporate new reactions.
+
+
+
+
+#################### critical@troubleshoot ####################
+********** Some metabolites are necessary for growth
+The following items triggered the warning:
+TS_4fe4s_c
+TS_k_c
+TS_mn2_c
+TS_cobalt2_c
+TS_zn2_c
+
+**********Solution:
+Fix the gaps by adding reactions or solving other warnings. If some items are from the E-matrix, fix these first!
 
 
 

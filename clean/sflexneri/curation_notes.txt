@@ -774,3 +774,79 @@ Map or remove these metabolites in me_metabolites.txt
 
 
 
+
+#################### critical@check_me_coverage ####################
+********** Some genes show homology, but no metabolic function.
+The following items triggered the warning:
+S0375 <-> b0429
+S0376 <-> b0430
+S0414 <-> b0462
+S0609 <-> b0698
+S0611 <-> b0696
+S0894 <-> b0894
+S0895 <-> b0895
+S0896 <-> b0896
+S1066 <-> b0996
+S1279 <-> b4288
+S1873 <-> b1485
+S1874 <-> b1484
+S1892 <-> b1469
+S1906 <-> b1443
+S2038 <-> b4460
+S2039 <-> b1900
+S2210 <-> b2027
+S2674 <-> b2481
+S2676 <-> b2483
+S2677 <-> b2484
+S2678 <-> b2485
+S2679 <-> b2486
+S2681 <-> b2488
+S2682 <-> b2489
+S2683 <-> b2490
+S2757 <-> b2538
+S2758 <-> b2539
+S2759 <-> b2540
+S2917 <-> b2703
+S2918 <-> b2704
+S2930 <-> b2721
+S2931 <-> b2722
+S2932 <-> b2723
+S2933 <-> b2724
+S3006 <-> b2797
+S3020 <-> b2811
+S3127 <-> b2935
+S3152 <-> b3579
+S3382 <-> b3132
+S3629 <-> b4122
+S3778 <-> b3894
+S3934 <-> b3750
+S3939 <-> b3748
+S4026 <-> b3714
+S4102 <-> b3627
+S4103 <-> b3625
+S4145 <-> b3578
+S4173 <-> b3517
+S4292 <-> b3453
+S4293 <-> b3452
+S4294 <-> b3451
+S4523 <-> b4230
+S4525 <-> b4485
+
+**********Solution:
+Manually curate the M-model to correct GPRs or incorporate new reactions.
+
+
+
+
+#################### critical@troubleshoot ####################
+********** Some metabolites are necessary for growth
+The following items triggered the warning:
+TS_4fe4s_c
+TS_k_c
+TS_dpm_c
+
+**********Solution:
+Fix the gaps by adding reactions or solving other warnings. If some items are from the E-matrix, fix these first!
+
+
+

@@ -1777,5 +1777,83 @@
             "importance": "medium",
             "to_do": "Map or remove these metabolites in me_metabolites.txt"
         }
+    ],
+    "check_me_coverage": [
+        {
+            "msg": "Some genes show homology, but no metabolic function.",
+            "triggered_by": [
+                "LLMG_RS00410 <-> b4386",
+                "LLMG_RS00455 <-> b0822",
+                "LLMG_RS01175 <-> b2034",
+                "LLMG_RS01185 <-> b2037",
+                "LLMG_RS01415 <-> b0914",
+                "LLMG_RS01430 <-> b2687",
+                "LLMG_RS01440 <-> b3012",
+                "LLMG_RS01640 <-> b4213",
+                "LLMG_RS01650 <-> b0932",
+                "LLMG_RS01665 <-> b3915",
+                "LLMG_RS01875 <-> b1244",
+                "LLMG_RS01880 <-> b1245",
+                "LLMG_RS01885 <-> b1246",
+                "LLMG_RS01890 <-> b1247",
+                "LLMG_RS02260 <-> b2411",
+                "LLMG_RS02270 <-> b3450",
+                "LLMG_RS02515 <-> b1107",
+                "LLMG_RS03055 <-> b3747",
+                "LLMG_RS03915 <-> b0155",
+                "LLMG_RS04055 <-> b3748",
+                "LLMG_RS04425 <-> b4195",
+                "LLMG_RS04435 <-> b4193",
+                "LLMG_RS04505 <-> b2682",
+                "LLMG_RS04535 <-> b0752",
+                "LLMG_RS04765 <-> b0475",
+                "LLMG_RS04890 <-> b1119",
+                "LLMG_RS04925 <-> b1539",
+                "LLMG_RS05060 <-> b4374",
+                "LLMG_RS05225 <-> b0578",
+                "LLMG_RS05310 <-> b3722",
+                "LLMG_RS05900 <-> b3452",
+                "LLMG_RS06180 <-> b4242",
+                "LLMG_RS07200 <-> b2428",
+                "LLMG_RS07375 <-> b1487",
+                "LLMG_RS07515 <-> b2392",
+                "LLMG_RS07635 <-> b0841",
+                "LLMG_RS07745 <-> b3059",
+                "LLMG_RS07795 <-> b0904",
+                "LLMG_RS08205 <-> b0777",
+                "LLMG_RS08590 <-> b3626",
+                "LLMG_RS08690 <-> b0484",
+                "LLMG_RS08730 <-> b0349",
+                "LLMG_RS09165 <-> b2263",
+                "LLMG_RS09340 <-> b1634",
+                "LLMG_RS09385 <-> b3416",
+                "LLMG_RS09585 <-> b0306",
+                "LLMG_RS09590 <-> b0307",
+                "LLMG_RS09595 <-> b0308",
+                "LLMG_RS09770 <-> b0355",
+                "LLMG_RS10135 <-> b0831",
+                "LLMG_RS11015 <-> b4161",
+                "LLMG_RS11235 <-> b4390",
+                "LLMG_RS11675 <-> b1298",
+                "LLMG_RS11760 <-> b0200",
+                "LLMG_RS12915 <-> b0839"
+            ],
+            "importance": "critical",
+            "to_do": "Manually curate the M-model to correct GPRs or incorporate new reactions."
+        }
+    ],
+    "troubleshoot": [
+        {
+            "msg": "Some metabolites are necessary for growth",
+            "triggered_by": [
+                "TS_4fe4s_c",
+                "TS_k_c",
+                "TS_cobalt2_c",
+                "TS_pydx5p_c",
+                "TS_mg2_c"
+            ],
+            "importance": "critical",
+            "to_do": "Fix the gaps by adding reactions or solving other warnings. If some items are from the E-matrix, fix these first!"
+        }
     ]
 }

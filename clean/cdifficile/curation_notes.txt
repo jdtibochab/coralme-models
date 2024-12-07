@@ -664,3 +664,98 @@ Map or remove these metabolites in me_metabolites.txt
 
 
 
+
+#################### critical@check_me_coverage ####################
+********** Some genes show homology, but no metabolic function.
+The following items triggered the warning:
+CD630_01060 <-> b2435
+CD630_01390 <-> b0828
+CD630_01770 <-> b1661
+CD630_06060 <-> b0155
+CD630_07580 <-> b0902
+CD630_08280 <-> b3212
+CD630_08530 <-> b1244
+CD630_08550 <-> b3544
+CD630_08690 <-> b0763
+CD630_08860 <-> b0403
+CD630_10810 <-> b0827
+CD630_10820 <-> b3856
+CD630_10840 <-> b0914
+CD630_11300 <-> b4392
+CD630_11480 <-> b0635
+CD630_11570 <-> b2710
+CD630_11730 <-> b2979
+CD630_11880 <-> b1298
+CD630_11890 <-> b4115
+CD630_12600 <-> b0401
+CD630_12630 <-> b3605
+CD630_12910 <-> b0839
+CD630_13890 <-> b4478
+CD630_13990 <-> b1192
+CD630_14030 <-> b0586
+CD630_14820 <-> b0367
+CD630_15550 <-> b3370
+CD630_15760 <-> b0494
+CD630_16200 <-> b4356
+CD630_16540 <-> b4386
+CD630_16660 <-> b3449
+CD630_16950 <-> b3502
+CD630_17120 <-> b0009
+CD630_17130 <-> b0781
+CD630_17140 <-> b0783
+CD630_17350 <-> b4374
+CD630_17740 <-> b0811
+CD630_18920 <-> b0777
+CD630_20120 <-> b0349
+CD630_21780 <-> b0895
+CD630_22620 <-> b3496
+CD630_22660 <-> b1301
+CD630_22860 <-> b2682
+CD630_23930 <-> b3396
+CD630_24170 <-> b2703
+CD630_24560 <-> b3450
+CD630_25760 <-> b4161
+CD630_26310 <-> b3059
+CD630_26450 <-> b4034
+CD630_26560 <-> b0084
+CD630_26700 <-> b1247
+CD630_26710 <-> b1246
+CD630_26730 <-> b0831
+CD630_26740 <-> b1485
+CD630_26930 <-> b3089
+CD630_27040 <-> b3714
+CD630_27470 <-> b3835
+CD630_27560 <-> b2415
+CD630_27610 <-> b2817
+CD630_27640 <-> b0822
+CD630_27810 <-> b1069
+CD630_28570 <-> b2690
+CD630_29980 <-> b1711
+CD630_30280 <-> b3197
+CD630_30860 <-> b0731
+CD630_32830 <-> b3952
+CD630_33090 <-> b2411
+CD630_36050 <-> b3385
+CD630_36310 <-> b4195
+
+**********Solution:
+Manually curate the M-model to correct GPRs or incorporate new reactions.
+
+
+
+
+#################### critical@troubleshoot ####################
+********** Some metabolites are necessary for growth
+The following items triggered the warning:
+TS_accoa_c
+TS_4fe4s_c
+TS_pydx5p_c
+TS_mn2_c
+TS_pan4p_c
+TS_cbl1_c
+
+**********Solution:
+Fix the gaps by adding reactions or solving other warnings. If some items are from the E-matrix, fix these first!
+
+
+

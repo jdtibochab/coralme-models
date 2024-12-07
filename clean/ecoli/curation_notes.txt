@@ -2392,3 +2392,36 @@ Map or remove these metabolites in me_metabolites.txt
 
 
 
+
+#################### critical@check_me_coverage ####################
+********** Some genes show homology, but no metabolic function.
+The following items triggered the warning:
+b2481 <-> b2481
+b2482 <-> b2482
+b2483 <-> b2483
+b2484 <-> b2484
+b2485 <-> b2485
+b2486 <-> b2486
+b2487 <-> b2487
+b2488 <-> b2488
+b2489 <-> b2489
+b2490 <-> b2490
+b2811 <-> b2811
+
+**********Solution:
+Manually curate the M-model to correct GPRs or incorporate new reactions.
+
+
+
+
+#################### critical@troubleshoot ####################
+********** Some metabolites are necessary for growth
+The following items triggered the warning:
+TS_4fe4s_c
+TS_dpm_c
+
+**********Solution:
+Fix the gaps by adding reactions or solving other warnings. If some items are from the E-matrix, fix these first!
+
+
+

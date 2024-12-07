@@ -528,3 +528,93 @@ Map or remove these metabolites in me_metabolites.txt
 
 
 
+
+#################### critical@check_me_coverage ####################
+********** Some genes show homology, but no metabolic function.
+The following items triggered the warning:
+B488_02610 <-> b2285
+B488_RS00115 <-> b1069
+B488_RS00260 <-> b0182
+B488_RS00365 <-> b3396
+B488_RS00420 <-> b3993
+B488_RS00705 <-> b0839
+B488_RS00710 <-> b0887
+B488_RS00715 <-> b0886
+B488_RS00840 <-> b0123
+B488_RS00885 <-> b2947
+B488_RS01070 <-> b1236
+B488_RS01080 <-> b0019
+B488_RS01110 <-> b2329
+B488_RS01135 <-> b4214
+B488_RS01150 <-> b3633
+B488_RS01160 <-> b0915
+B488_RS01205 <-> b4260
+B488_RS01380 <-> b2232
+B488_RS01610 <-> b0759
+B488_RS01720 <-> b3005
+B488_RS01870 <-> b3870
+B488_RS01930 <-> b1297
+B488_RS02175 <-> b1651
+B488_RS02550 <-> b1524
+B488_RS02650 <-> b4392
+B488_RS02720 <-> b0662
+B488_RS02725 <-> b2801
+B488_RS02810 <-> b3197
+B488_RS02970 <-> b0151
+B488_RS03260 <-> b0688
+B488_RS03325 <-> b3730
+B488_RS03365 <-> b0755
+B488_RS03430 <-> b0091
+B488_RS03465 <-> b0084
+B488_RS03630 <-> b0721
+B488_RS03915 <-> b4040
+B488_RS04420 <-> b3916
+B488_RS04580 <-> b4245
+B488_RS04590 <-> b3059
+B488_RS04625 <-> b0160
+B488_RS04845 <-> b2040
+B488_RS04885 <-> b1232
+B488_RS05090 <-> b2701
+B488_RS05215 <-> b2501
+B488_RS05265 <-> b3915
+B488_RS05280 <-> b0415
+B488_RS05485 <-> b0212
+B488_RS05610 <-> b1912
+B488_RS05665 <-> b3617
+B488_RS05725 <-> b3732
+B488_RS05780 <-> b3835
+B488_RS05810 <-> b2954
+B488_RS05850 <-> b0149
+B488_RS05885 <-> b0242
+B488_RS05935 <-> b2935
+B488_RS05950 <-> b2912
+B488_RS06140 <-> b3726
+B488_RS06145 <-> b3727
+B488_RS06200 <-> b2029
+B488_RS06455 <-> b0778
+B488_RS06605 <-> b2023
+B488_RS06650 <-> b1817
+
+**********Solution:
+Manually curate the M-model to correct GPRs or incorporate new reactions.
+
+
+
+
+#################### critical@troubleshoot ####################
+********** Some metabolites are necessary for growth
+The following items triggered the warning:
+TS_pydx5p_c
+TS_k_c
+TS_pi_c
+TS_zn2_c
+TS_mg2_c
+TS_mn2_c
+TS_hemed_c
+TS_dpm_c
+
+**********Solution:
+Fix the gaps by adding reactions or solving other warnings. If some items are from the E-matrix, fix these first!
+
+
+

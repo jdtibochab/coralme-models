@@ -14,4 +14,4 @@ generic_RNase,"{'enzymes': ['G185E-6637-MONOMER_mod_zn2(2)', 'G185E-6929-MONOMER
 generic_Tuf,{'enzymes': ['G185E-4828-MONOMER']}
 generic_fes_transfers_complex,{'enzymes': ['G185E-6414-MONOMER']}
 generic_lys_ligase,"{'enzymes': ['G185E-7877-MONOMER', 'G185E-5830-MONOMER']}"
-generic_phe_ligase,"{'enzymes': ['G185E-5840-MONOMER', 'CPLX185E-26', 'G185E-5839-MONOMER']}"
+generic_phe_ligase,"{'enzymes': ['CPLX185E-26', 'G185E-5839-MONOMER', 'G185E-5840-MONOMER']}"

@@ -3395,5 +3395,36 @@
             "importance": "medium",
             "to_do": "Map or remove these metabolites in me_metabolites.txt"
         }
+    ],
+    "check_me_coverage": [
+        {
+            "msg": "Some genes show homology, but no metabolic function.",
+            "triggered_by": [
+                "b2481 <-> b2481",
+                "b2482 <-> b2482",
+                "b2483 <-> b2483",
+                "b2484 <-> b2484",
+                "b2485 <-> b2485",
+                "b2486 <-> b2486",
+                "b2487 <-> b2487",
+                "b2488 <-> b2488",
+                "b2489 <-> b2489",
+                "b2490 <-> b2490",
+                "b2811 <-> b2811"
+            ],
+            "importance": "critical",
+            "to_do": "Manually curate the M-model to correct GPRs or incorporate new reactions."
+        }
+    ],
+    "troubleshoot": [
+        {
+            "msg": "Some metabolites are necessary for growth",
+            "triggered_by": [
+                "TS_4fe4s_c",
+                "TS_dpm_c"
+            ],
+            "importance": "critical",
+            "to_do": "Fix the gaps by adding reactions or solving other warnings. If some items are from the E-matrix, fix these first!"
+        }
     ]
 }

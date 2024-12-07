@@ -614,3 +614,66 @@ Map or remove these metabolites in me_metabolites.txt
 
 
 
+
+#################### critical@check_me_coverage ####################
+********** Some genes show homology, but no metabolic function.
+The following items triggered the warning:
+Gmet_0063 <-> b1250
+Gmet_0106 <-> b1033
+Gmet_0257 <-> b4356
+Gmet_0714 <-> b3996
+Gmet_0721 <-> b2232
+Gmet_0726 <-> b0349
+Gmet_0760 <-> b3835
+Gmet_0794 <-> b4161
+Gmet_0809 <-> b3265
+Gmet_0810 <-> b0462
+Gmet_0811 <-> b0572
+Gmet_0847 <-> b1247
+Gmet_0848 <-> b3541
+Gmet_1234 <-> b3544
+Gmet_1235 <-> b3477
+Gmet_1236 <-> b0832
+Gmet_1245 <-> b2155
+Gmet_1287 <-> b1817
+Gmet_1288 <-> b2415
+Gmet_1289 <-> b2416
+Gmet_1326 <-> b3792
+Gmet_1348 <-> b2690
+Gmet_1498 <-> b3631
+Gmet_2105 <-> b2311
+Gmet_2140 <-> b2877
+Gmet_2154 <-> b0123
+Gmet_2206 <-> b4266
+Gmet_2227 <-> b1588
+Gmet_2238 <-> b0452
+Gmet_2290 <-> b3385
+Gmet_2400 <-> b1069
+Gmet_2517 <-> b3035
+Gmet_2728 <-> b2411
+Gmet_2735 <-> b3966
+Gmet_2738 <-> b0894
+Gmet_3041 <-> b1109
+Gmet_3122 <-> b1308
+Gmet_3194 <-> b2540
+Gmet_3361 <-> b4260
+Gmet_3519 <-> b4072
+Gmet_3538 <-> b3005
+Gmet_3556 <-> b0736
+
+**********Solution:
+Manually curate the M-model to correct GPRs or incorporate new reactions.
+
+
+
+
+#################### critical@troubleshoot ####################
+********** Some metabolites are necessary for growth
+The following items triggered the warning:
+TS_dpm_c
+
+**********Solution:
+Fix the gaps by adding reactions or solving other warnings. If some items are from the E-matrix, fix these first!
+
+
+

@@ -11,7 +11,7 @@ braun's_lipoproteins,[]
 braun's_lpp_flux,-0.0
 braun's_murein_flux,-0.0
 complex_cofactors,"{'fes_transfers': ['G185E-6414-MONOMER'], 'biotin_subreactions': {'mod_btn_c': ['biotin_ligase']}, 'lipoate_subreactions': {'mod_lipoyl_c': ['lipoyl_denovo', 'lipoyl_scavenging']}, 'fes_chaperones': {}, 'bmocogdp_chaperones': {}, 'FeFe/NiFe': {'mod_FeFe_cofactor_c': '', 'mod_NiFe_cofactor_c': ''}}"
-default_sigma_factor,G185E-7604-MONOMER
+default_sigma_factor,G185E-4880-MONOMER
 defer_to_rxn_matrix,"['BIOMASS__2', 'FMETTRS', 'ATPM']"
 dev_reference,True
 df_TranscriptionalUnits,./mtuberculosis//building_data/TUs_from_biocyc.txt

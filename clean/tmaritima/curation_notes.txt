@@ -425,3 +425,88 @@ Map or remove these metabolites in me_metabolites.txt
 
 
 
+
+#################### critical@check_me_coverage ####################
+********** Some genes show homology, but no metabolic function.
+The following items triggered the warning:
+TM0006 <-> b1325
+TM0051 <-> b3409
+TM0086 <-> b1069
+TM0100 <-> b2411
+TM0133 <-> b0595
+TM0159 <-> b2954
+TM0212 <-> b2904
+TM0214 <-> b2903
+TM0225 <-> b1919
+TM0288 <-> b0914
+TM0313 <-> b3001
+TM0322 <-> b3579
+TM0324 <-> b3578
+TM0381 <-> b0116
+TM0441 <-> b4266
+TM0483 <-> b0366
+TM0485 <-> b0367
+TM0501 <-> b3541
+TM0538 <-> b0752
+TM0572 <-> b2253
+TM0590 <-> b0635
+TM0593 <-> b0860
+TM0724 <-> b3196
+TM0729 <-> b3650
+TM0753 <-> b3833
+TM0754 <-> b2711
+TM0755 <-> b2710
+TM0818 <-> b3794
+TM0870 <-> b0084
+TM0876 <-> b3915
+TM0886 <-> b3396
+TM0893 <-> b3057
+TM0938 <-> b2232
+TM0968 <-> b1584
+TM1009 <-> b3012
+TM1033 <-> b2049
+TM1034 <-> b3786
+TM1045 <-> b3502
+TM1054 <-> b3201
+TM1057 <-> b1250
+TM1149 <-> b3543
+TM1150 <-> b3544
+TM1153 <-> b1485
+TM1177 <-> b4374
+TM1181 <-> b3397
+TM1231 <-> b0732
+TM1254 <-> b2690
+TM1276 <-> b3450
+TM1447 <-> b3059
+TM1465 <-> b1270
+TM1528 <-> b3930
+TM1549 <-> b3784
+TM1552 <-> b0902
+TM1604 <-> b0171
+TM1666 <-> b2472
+TM1717 <-> b4161
+TM1738 <-> b3040
+TM1743 <-> b1781
+
+**********Solution:
+Manually curate the M-model to correct GPRs or incorporate new reactions.
+
+
+
+
+#################### critical@troubleshoot ####################
+********** Some metabolites are necessary for growth
+The following items triggered the warning:
+TS_generic_tRNA_AAC_asn__L_c
+TS_generic_tRNA_AAU_asn__L_c
+TS_4fe4s_c
+TS_mn2_c
+TS_fe2_c
+TS_asn__L_c
+TS_cobalt2_c
+
+**********Solution:
+Fix the gaps by adding reactions or solving other warnings. If some items are from the E-matrix, fix these first!
+
+
+

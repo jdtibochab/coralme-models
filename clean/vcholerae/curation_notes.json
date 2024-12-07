@@ -5166,5 +5166,64 @@
             "importance": "medium",
             "to_do": "Map or remove these metabolites in me_metabolites.txt"
         }
+    ],
+    "check_me_coverage": [
+        {
+            "msg": "Some genes show homology, but no metabolic function.",
+            "triggered_by": [
+                "VC_0164 <-> b2470",
+                "VC_0191 <-> b3823",
+                "VC_0225 <-> b3632",
+                "VC_0244 <-> b2253",
+                "VC_0267 <-> b1033",
+                "VC_0602 <-> b0149",
+                "VC_0633 <-> b0241",
+                "VC_0702 <-> b4394",
+                "VC_0723 <-> b2501",
+                "VC_1362 <-> b0655",
+                "VC_1579 <-> b0586",
+                "VC_1712 <-> b2578",
+                "VC_1777 <-> b3578",
+                "VC_1779 <-> b3579",
+                "VC_1840 <-> b0736",
+                "VC_1861 <-> b2307",
+                "VC_1863 <-> b2310",
+                "VC_1945 <-> b0347",
+                "VC_1966 <-> b2835",
+                "VC_2171 <-> b2497",
+                "VC_2435 <-> b3034",
+                "VC_2442 <-> b3493",
+                "VC_2479 <-> b2912",
+                "VC_2501 <-> b4260",
+                "VC_A0016 <-> b3432",
+                "VC_A0025 <-> b0612",
+                "VC_A0088 <-> b4077",
+                "VC_A0100 <-> b1308",
+                "VC_A0129 <-> b3750",
+                "VC_A0157 <-> b2278",
+                "VC_A0439 <-> b1192",
+                "VC_A0644 <-> b3365",
+                "VC_A0662 <-> b2690",
+                "VC_A0667 <-> b3679",
+                "VC_A0772 <-> b1907",
+                "VC_A0835 <-> b1473",
+                "VC_A1002 <-> b2682",
+                "VC_A1029 <-> b3431",
+                "VC_A1057 <-> b1539"
+            ],
+            "importance": "critical",
+            "to_do": "Manually curate the M-model to correct GPRs or incorporate new reactions."
+        }
+    ],
+    "troubleshoot": [
+        {
+            "msg": "Some metabolites are necessary for growth",
+            "triggered_by": [
+                "TS_4fe4s_c",
+                "TS_dpm_c"
+            ],
+            "importance": "critical",
+            "to_do": "Fix the gaps by adding reactions or solving other warnings. If some items are from the E-matrix, fix these first!"
+        }
     ]
 }

@@ -888,5 +888,77 @@
             "importance": "medium",
             "to_do": "Map or remove these metabolites in me_metabolites.txt"
         }
+    ],
+    "check_me_coverage": [
+        {
+            "msg": "Some genes show homology, but no metabolic function.",
+            "triggered_by": [
+                "SYNPCC7942_RS00350 <-> b2253",
+                "SYNPCC7942_RS00375 <-> b0811",
+                "SYNPCC7942_RS00935 <-> b2987",
+                "SYNPCC7942_RS01235 <-> b3196",
+                "SYNPCC7942_RS01410 <-> b2411",
+                "SYNPCC7942_RS01865 <-> b1206",
+                "SYNPCC7942_RS02605 <-> b3201",
+                "SYNPCC7942_RS02675 <-> b3452",
+                "SYNPCC7942_RS02890 <-> b0337",
+                "SYNPCC7942_RS03500 <-> b1250",
+                "SYNPCC7942_RS03610 <-> b0459",
+                "SYNPCC7942_RS03995 <-> b0480",
+                "SYNPCC7942_RS04475 <-> b3835",
+                "SYNPCC7942_RS04935 <-> b3450",
+                "SYNPCC7942_RS06090 <-> b3857",
+                "SYNPCC7942_RS06480 <-> b3290",
+                "SYNPCC7942_RS06485 <-> b2954",
+                "SYNPCC7942_RS06535 <-> b0863",
+                "SYNPCC7942_RS06565 <-> b0781",
+                "SYNPCC7942_RS06580 <-> b0783",
+                "SYNPCC7942_RS06585 <-> b0827",
+                "SYNPCC7942_RS06905 <-> b2690",
+                "SYNPCC7942_RS07045 <-> b3650",
+                "SYNPCC7942_RS07205 <-> b1519",
+                "SYNPCC7942_RS07660 <-> b1392",
+                "SYNPCC7942_RS07955 <-> b2033",
+                "SYNPCC7942_RS08605 <-> b2521",
+                "SYNPCC7942_RS08670 <-> b0732",
+                "SYNPCC7942_RS08925 <-> b3679",
+                "SYNPCC7942_RS08950 <-> b3035",
+                "SYNPCC7942_RS09100 <-> b0837",
+                "SYNPCC7942_RS09685 <-> b2311",
+                "SYNPCC7942_RS09970 <-> b2502",
+                "SYNPCC7942_RS10085 <-> b3915",
+                "SYNPCC7942_RS10525 <-> b4161",
+                "SYNPCC7942_RS10805 <-> b4392",
+                "SYNPCC7942_RS12040 <-> b2470",
+                "SYNPCC7942_RS12120 <-> b2147",
+                "SYNPCC7942_RS12470 <-> b0469",
+                "SYNPCC7942_RS12645 <-> b3454",
+                "SYNPCC7942_RS12650 <-> b3455",
+                "SYNPCC7942_RS12660 <-> b3457",
+                "SYNPCC7942_RS13065 <-> b0149"
+            ],
+            "importance": "critical",
+            "to_do": "Manually curate the M-model to correct GPRs or incorporate new reactions."
+        }
+    ],
+    "troubleshoot": [
+        {
+            "msg": "Some metabolites are necessary for growth",
+            "triggered_by": [
+                "TS_pi_c",
+                "TS_cl_c",
+                "TS_fmnh2_c",
+                "TS_nadp_c",
+                "TS_ca2_c",
+                "TS_mn2_c",
+                "TS_4fe4s_c",
+                "TS_na1_c",
+                "TS_hco3_c",
+                "TS_dpm_c",
+                "TS_cbl1_c"
+            ],
+            "importance": "critical",
+            "to_do": "Fix the gaps by adding reactions or solving other warnings. If some items are from the E-matrix, fix these first!"
+        }
     ]
 }

@@ -742,5 +742,42 @@
             "importance": "medium",
             "to_do": "Map or remove these metabolites in me_metabolites.txt"
         }
+    ],
+    "check_me_coverage": [
+        {
+            "msg": "Some genes show homology, but no metabolic function.",
+            "triggered_by": [
+                "JCVISYN3A_0154 <-> b4260",
+                "JCVISYN3A_0263 <-> b4161",
+                "JCVISYN3A_0371 <-> b0914",
+                "JCVISYN3A_0414 <-> b3650",
+                "JCVISYN3A_0549 <-> b2954",
+                "JCVISYN3A_0690 <-> b2411",
+                "JCVISYN3A_0887 <-> b2711",
+                "JCVISYN3A_0918 <-> b2022",
+                "JCVISYN3A_0931 <-> b2750"
+            ],
+            "importance": "critical",
+            "to_do": "Manually curate the M-model to correct GPRs or incorporate new reactions."
+        }
+    ],
+    "troubleshoot": [
+        {
+            "msg": "Some metabolites are necessary for growth",
+            "triggered_by": [
+                "TS_protein_c",
+                "TS_2pg_c",
+                "TS_ACP_R_c",
+                "TS_biomass_c",
+                "TS_pg3p_c",
+                "TS_pi_c",
+                "TS_mn2_c",
+                "TS_fe2_c",
+                "TS_zn2_c",
+                "TS_dUTPase_c"
+            ],
+            "importance": "critical",
+            "to_do": "Fix the gaps by adding reactions or solving other warnings. If some items are from the E-matrix, fix these first!"
+        }
     ]
 }

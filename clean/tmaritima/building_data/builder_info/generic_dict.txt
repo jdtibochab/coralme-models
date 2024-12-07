@@ -9,4 +9,4 @@ generic_RF,"{'enzymes': ['TM1363-MONOMER', 'TM1579-MONOMER']}"
 generic_RNase,{'enzymes': ['TM0864-MONOMER_mod_zn2(2)']}
 generic_Tuf,{'enzymes': ['TM1502-MONOMER']}
 generic_fes_transfers_complex,{'enzymes': ['CPLX_dummy']}
-generic_glu_ligase,"{'enzymes': ['TM1351-MONOMER', 'TM1875-MONOMER']}"
+generic_glu_ligase,"{'enzymes': ['TM1875-MONOMER', 'TM1351-MONOMER']}"

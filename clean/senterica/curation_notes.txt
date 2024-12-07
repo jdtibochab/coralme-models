@@ -835,3 +835,124 @@ Map or remove these metabolites in me_metabolites.txt
 
 
 
+
+#################### critical@check_me_coverage ####################
+********** Some genes show homology, but no metabolic function.
+The following items triggered the warning:
+STM0008 <-> b0009
+STM0116 <-> b0077
+STM0117 <-> b0078
+STM0212 <-> b1981
+STM0350 <-> b0572
+STM0455 <-> b0444
+STM0475 <-> b0462
+STM0476 <-> b0463
+STM0572 <-> b3371
+STM0578 <-> b0578
+STM0707 <-> b4513
+STM0710 <-> b0709
+STM0744 <-> b0736
+STM0784 <-> b0766
+STM0796 <-> b0777
+STM0802 <-> b0781
+STM0804 <-> b0783
+STM0846 <-> b0827
+STM1070 <-> b0957
+STM1083 <-> b0968
+STM1128 <-> b3679
+STM1131 <-> b4311
+STM1170 <-> b1069
+STM1452 <-> b1634
+STM1482 <-> b1600
+STM1483 <-> b1599
+STM1524 <-> b1525
+STM1546 <-> b0347
+STM1571 <-> b1473
+STM1746 <-> b1243
+STM1781 <-> b1206
+STM1892 <-> b1858
+STM1953 <-> b1919
+STM2105 <-> b2049
+STM2166 <-> b2132
+STM2179 <-> b0353
+STM2186 <-> b2146
+STM2187 <-> b2147
+STM2207 <-> b2170
+STM2213 <-> b2174
+STM2300 <-> b2256
+STM2302 <-> b4544
+STM2303 <-> b2258
+STM2308 <-> b2263
+STM2316 <-> b2276
+STM2323 <-> b2283
+STM2331 <-> b2290
+STM2359 <-> b1492
+STM2402 <-> b2379
+STM2406 <-> b3001
+STM2481 <-> b2470
+STM2499 <-> b2499
+STM2560 <-> b4130
+STM2567 <-> b2558
+STM2570 <-> b2429
+STM2571 <-> b2428
+STM2838 <-> b2708
+STM2968 <-> b2794
+STM2985 <-> b2811
+STM3061 <-> b2912
+STM3082 <-> b4358
+STM3118 <-> b2920
+STM3128 <-> b1301
+STM3129 <-> b1385
+STM3148 <-> b2995
+STM3149 <-> b2996
+STM3207 <-> b3059
+STM3290 <-> b3172
+STM3317 <-> b3199
+STM3318 <-> b3200
+STM3319 <-> b3201
+STM3494 <-> b3397
+STM3592 <-> b3496
+STM3600 <-> b3374
+STM3815 <-> b2197
+STM3816 <-> b2198
+STM3817 <-> b2199
+STM3818 <-> b2200
+STM3819 <-> b2201
+STM3851 <-> b3714
+STM3962 <-> b3826
+STM3993 <-> b3856
+STM3994 <-> b3857
+STM4023 <-> b3882
+STM4188 <-> b4019
+STM4278 <-> b4071
+STM4383 <-> b4193
+STM4404 <-> b4214
+STM4418 <-> b4031
+STM4479 <-> b4261
+STM4480 <-> b4262
+STM4550 <-> b4367
+STM4559 <-> b4374
+STM4576 <-> b4386
+STM4580 <-> b4390
+
+**********Solution:
+Manually curate the M-model to correct GPRs or incorporate new reactions.
+
+
+
+
+#################### critical@troubleshoot ####################
+********** Some metabolites are necessary for growth
+The following items triggered the warning:
+TS_generic_tRNA_GAC_asp__L_c
+TS_generic_tRNA_GAA_glu__L_c
+TS_generic_tRNA_GAG_glu__L_c
+TS_generic_tRNA_GAU_asp__L_c
+TS_udpgal_c
+TS_4fe4s_c
+
+**********Solution:
+Fix the gaps by adding reactions or solving other warnings. If some items are from the E-matrix, fix these first!
+
+
+

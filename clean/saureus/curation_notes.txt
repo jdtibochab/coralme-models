@@ -1197,3 +1197,57 @@ Map or remove these metabolites in me_metabolites.txt
 
 
 
+
+#################### critical@check_me_coverage ####################
+********** Some genes show homology, but no metabolic function.
+The following items triggered the warning:
+USA300HOU_RS00050 <-> b2682
+USA300HOU_RS00695 <-> b2037
+USA300HOU_RS00910 <-> b0933
+USA300HOU_RS00920 <-> b0934
+USA300HOU_RS00945 <-> b0586
+USA300HOU_RS01195 <-> b1395
+USA300HOU_RS01205 <-> b1805
+USA300HOU_RS01670 <-> b3679
+USA300HOU_RS02590 <-> b2781
+USA300HOU_RS03240 <-> b0158
+USA300HOU_RS03700 <-> b0887
+USA300HOU_RS03705 <-> b0886
+USA300HOU_RS04095 <-> b2291
+USA300HOU_RS04335 <-> b0638
+USA300HOU_RS04670 <-> b4260
+USA300HOU_RS04920 <-> b3541
+USA300HOU_RS04925 <-> b3540
+USA300HOU_RS05005 <-> b0047
+USA300HOU_RS05195 <-> b2263
+USA300HOU_RS05905 <-> b4374
+USA300HOU_RS10125 <-> b0914
+USA300HOU_RS11585 <-> b0752
+USA300HOU_RS12305 <-> b3856
+USA300HOU_RS12500 <-> b4079
+USA300HOU_RS12560 <-> b2690
+USA300HOU_RS13075 <-> b3915
+USA300HOU_RS13435 <-> b1539
+USA300HOU_RS13495 <-> b1759
+USA300HOU_RS13690 <-> b0822
+USA300HOU_RS13895 <-> b2379
+USA300HOU_RS14640 <-> b1463
+USA300HOU_RS15915 <-> b4090
+
+**********Solution:
+Manually curate the M-model to correct GPRs or incorporate new reactions.
+
+
+
+
+#################### critical@troubleshoot ####################
+********** Some metabolites are necessary for growth
+The following items triggered the warning:
+TS_amet_c
+TS_asn__L_c
+
+**********Solution:
+Fix the gaps by adding reactions or solving other warnings. If some items are from the E-matrix, fix these first!
+
+
+

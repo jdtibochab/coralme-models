@@ -1658,3 +1658,86 @@ Map or remove these metabolites in me_metabolites.txt
 
 
 
+
+#################### critical@check_me_coverage ####################
+********** Some genes show homology, but no metabolic function.
+The following items triggered the warning:
+SGL_RS01920 <-> b2411
+SGL_RS01950 <-> b2155
+SGL_RS02025 <-> b0150
+SGL_RS02150 <-> b3794
+SGL_RS02290 <-> b0099
+SGL_RS02490 <-> b3431
+SGL_RS02570 <-> b0655
+SGL_RS02590 <-> b3201
+SGL_RS03275 <-> b2028
+SGL_RS03280 <-> b0662
+SGL_RS03865 <-> b3196
+SGL_RS03890 <-> b3784
+SGL_RS04175 <-> b0837
+SGL_RS04730 <-> b2817
+SGL_RS04870 <-> b1250
+SGL_RS04895 <-> b0355
+SGL_RS05330 <-> b0829
+SGL_RS05425 <-> b0914
+SGL_RS06020 <-> b3452
+SGL_RS07055 <-> b0775
+SGL_RS07305 <-> b2428
+SGL_RS07340 <-> b3579
+SGL_RS07390 <-> b0508
+SGL_RS07570 <-> b3543
+SGL_RS07890 <-> b3544
+SGL_RS07985 <-> b2257
+SGL_RS08095 <-> b0830
+SGL_RS08120 <-> b2435
+SGL_RS09505 <-> b2253
+SGL_RS09605 <-> b2470
+SGL_RS09660 <-> b3650
+SGL_RS09985 <-> b3915
+SGL_RS10185 <-> b0459
+SGL_RS10870 <-> b0149
+SGL_RS11060 <-> b3679
+SGL_RS11135 <-> b1488
+SGL_RS11500 <-> b1107
+SGL_RS12555 <-> b0732
+SGL_RS13395 <-> b2813
+SGL_RS13875 <-> b4042
+SGL_RS14390 <-> b0638
+SGL_RS14785 <-> b0827
+SGL_RS14790 <-> b0781
+SGL_RS14795 <-> b0783
+SGL_RS15105 <-> b0832
+SGL_RS15130 <-> b3788
+SGL_RS15220 <-> b1489
+SGL_RS15285 <-> b0222
+SGL_RS15290 <-> b2765
+SGL_RS15775 <-> b3835
+SGL_RS15975 <-> b0349
+SGL_RS15980 <-> b1539
+SGL_RS16065 <-> b0575
+SGL_RS16620 <-> b0444
+SGL_RS16665 <-> b4392
+SGL_RS16765 <-> b1781
+SGL_RS16860 <-> b4161
+SGL_RS17685 <-> b3502
+SGL_RS18105 <-> b1640
+SGL_RS19985 <-> b3991
+
+**********Solution:
+Manually curate the M-model to correct GPRs or incorporate new reactions.
+
+
+
+
+#################### critical@troubleshoot ####################
+********** Some metabolites are necessary for growth
+The following items triggered the warning:
+TS_4fe4s_c
+TS_thmpp_c
+TS_cbl1_c
+
+**********Solution:
+Fix the gaps by adding reactions or solving other warnings. If some items are from the E-matrix, fix these first!
+
+
+
