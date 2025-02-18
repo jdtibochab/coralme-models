@@ -1206,7 +1206,6 @@
             "msg": "Some metabolites are necessary for growth",
             "triggered_by": [
                 "TS_4fe4s_c",
-                "TS_k_c",
                 "TS_dpm_c"
             ],
             "importance": "critical",

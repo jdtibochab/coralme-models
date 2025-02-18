@@ -1597,7 +1597,7 @@ G185E-4930-MONOMER,probable protease II,Rv0782(),BioCyc
 G185E-6728-MONOMER,hypothetical protein,Rv2492(),BioCyc
 G185E-5308-MONOMER,2-trans-enoyl-ACP isomerase,Rv1141c(),BioCyc
 G185E-7104-MONOMER,PE-PGRS family protein PE_PGRS48,Rv2853(),BioCyc
-G185E-5690-MONOMER,conserved hypothetical protein,Rv1504c(),BioCyc
+G185E-5690-MONOMER,conserved hypothetical protein,Rv1504c(1),BioCyc
 G185E-4285-MONOMER,conserved integral membrane protein,Rv0167(),BioCyc
 G185E-7481-MONOMER,conserved protein,Rv3210c(),BioCyc
 G185E-6062-MONOMER,conserved protein,Rv1867(),BioCyc
@@ -2721,7 +2721,7 @@ G185E-6932-MONOMER,probable arsenic-transport integral membrane protein ArsA,Rv2
 G185E-5515-MONOMER,cysO-thiocarboxylate-dependent cysteine synthase monomer,Rv1336(),BioCyc
 G185E-7308-MONOMER,hypothetical protein,Rv3047c(),BioCyc
 G185E-5888-MONOMER,conserved hypothetical protein,Rv1697(),BioCyc
-G185E-7679-MONOMER,PLP-dependent aminotransferase,Rv3402c(1),BioCyc
+G185E-7679-MONOMER,PLP-dependent aminotransferase,Rv3402c(),BioCyc
 G185E-6262-MONOMER,50S ribosomal protein L28,Rv2058c(1),BioCyc
 G185E-8057-MONOMER,hypothetical protein,Rv3766(),BioCyc
 G185E-6642-MONOMER,30S ribosomal protein S20,Rv2412(1),BioCyc
@@ -3314,7 +3314,7 @@ G185E-5592-MONOMER,probable bifunctional riboflavin biosynthesis protein,Rv1409(
 G185E-4187-MONOMER,probable glutamine-transport transmembrane protein ABC transporter,Rv0072(),BioCyc
 G185E-5962-MONOMER,conserved protein,Rv1766(),BioCyc
 G185E-7384-MONOMER,conserved hypothetical protein,Rv3120(),BioCyc
-G185E-7753-MONOMER,probable dicarboxylic acid transport integral membrane protein,Rv3476c(),BioCyc
+G185E-7753-MONOMER,probable dicarboxylic acid transport integral membrane protein,Rv3476c(1),BioCyc
 G185E-6339-MONOMER,conserved hypothetical protein,Rv2133c(),BioCyc
 G185E-8134-MONOMER,prephenate dehydratase,Rv3838c(2),BioCyc
 G185E-4814-MONOMER,possible conserved lipoprotein,Rv0671(),BioCyc
@@ -3859,7 +3859,7 @@ G185E-7699-MONOMER,tRNA threonylcarbamoyladenosine biosynthesis protein TsaE,Rv3
 G185E-6282-MONOMER,possible conserved transmembrane protein,Rv2077c(),BioCyc
 G185E-8080-MONOMER,"possible dTDP-glucose 4,6-dehydratase",Rv3784(),BioCyc
 G185E-6663-MONOMER,hypothetical protein,Rv2432c(),BioCyc
-G185E-4757-MONOMER,probable galactose-1-phosphate uridylyltransferase,Rv0619(),BioCyc
+G185E-4757-MONOMER,probable galactose-1-phosphate uridylyltransferase,Rv0619(2),BioCyc
 G185E-5138-MONOMER,mycobacterial persistence regulator MRPA (two component response transcriptional regulatory protein),Rv0981(),BioCyc
 G185E-6936-MONOMER,"ABC family efflux transporter, ATP-binding subunit",Rv2688c(),BioCyc
 G185E-5519-MONOMER,,Rv1340(1),BioCyc

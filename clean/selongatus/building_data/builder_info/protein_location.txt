@@ -567,6 +567,7 @@ CPLX490-3518,Inner_Membrane,SYNPCC7942_RS08585(),Inner_Membrane,r
 CPLX_SULabcpp-1,Inner_Membrane,SYNPCC7942_RS08585(),Inner_Membrane,r
 CPLX490-3518,Inner_Membrane,SYNPCC7942_RS08570(),Inner_Membrane,r
 CPLX_SULabcpp-0,Inner_Membrane,SYNPCC7942_RS08570(),Inner_Membrane,r
+SYNPCC7942_B2654-MONOMER,Periplasm,SYNPCC7942_RS13360(),Periplasm,s
 SYNPCC7942_1791-MONOMER,Periplasm,SYNPCC7942_RS09100(),Periplasm,s
 CPLX_MPTG-0,Inner_Membrane,SYNPCC7942_RS10355(),Inner_Membrane,r
 SYNPCC7942_1180-MONOMER,Inner_Membrane,SYNPCC7942_RS06045(),Inner_Membrane,p
@@ -665,8 +666,7 @@ CPLX490-3531,Inner_Membrane,SYNPCC7942_RS07830(),Inner_Membrane,r
 CPLX490-3531,Inner_Membrane,SYNPCC7942_RS07825(),Periplasm,s
 SYNPCC7942_1531-MONOMER,Inner_Membrane,SYNPCC7942_RS07825(),Periplasm,s
 CPLX_OANTS-0,Inner_Membrane,SYNPCC7942_RS01430(),Inner_Membrane,r
-CPLX490-3517,Inner_Membrane,SYNPCC7942_RS10675(),Inner_Membrane,r
-CPLX_CYNTtabcpp-0,Inner_Membrane,SYNPCC7942_RS10675(),Inner_Membrane,r
+CPLX490-3494,Inner_Membrane,SYNPCC7942_RS13455(),Inner_Membrane,r
 SYNPCC7942_0185-MONOMER,Periplasm,SYNPCC7942_RS00940(),Periplasm,s
 CPLX_CLt3_1pp-0,Inner_Membrane,SYNPCC7942_RS08050(),Inner_Membrane,r
 CPLX_G3PAT160-0,Inner_Membrane,SYNPCC7942_RS10435(),Inner_Membrane,r

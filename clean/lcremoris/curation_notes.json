@@ -1799,7 +1799,7 @@
                 "LLMG_RS02260 <-> b2411",
                 "LLMG_RS02270 <-> b3450",
                 "LLMG_RS02515 <-> b1107",
-                "LLMG_RS03055 <-> b3747",
+                "LLMG_RS03050 <-> b3747",
                 "LLMG_RS03915 <-> b0155",
                 "LLMG_RS04055 <-> b3748",
                 "LLMG_RS04425 <-> b4195",
@@ -1813,7 +1813,10 @@
                 "LLMG_RS05225 <-> b0578",
                 "LLMG_RS05310 <-> b3722",
                 "LLMG_RS05900 <-> b3452",
+                "LLMG_RS06015 <-> b2954",
                 "LLMG_RS06180 <-> b4242",
+                "LLMG_RS06515 <-> b0073",
+                "LLMG_RS06520 <-> b0074",
                 "LLMG_RS07200 <-> b2428",
                 "LLMG_RS07375 <-> b1487",
                 "LLMG_RS07515 <-> b2392",
@@ -1821,6 +1824,7 @@
                 "LLMG_RS07745 <-> b3059",
                 "LLMG_RS07795 <-> b0904",
                 "LLMG_RS08205 <-> b0777",
+                "LLMG_RS08505 <-> b3124",
                 "LLMG_RS08590 <-> b3626",
                 "LLMG_RS08690 <-> b0484",
                 "LLMG_RS08730 <-> b0349",
@@ -1833,10 +1837,12 @@
                 "LLMG_RS09770 <-> b0355",
                 "LLMG_RS10135 <-> b0831",
                 "LLMG_RS11015 <-> b4161",
+                "LLMG_RS11230 <-> b3001",
                 "LLMG_RS11235 <-> b4390",
                 "LLMG_RS11675 <-> b1298",
                 "LLMG_RS11760 <-> b0200",
-                "LLMG_RS12915 <-> b0839"
+                "LLMG_RS12915 <-> b0839",
+                "LLMG_RS13430 <-> b3786"
             ],
             "importance": "critical",
             "to_do": "Manually curate the M-model to correct GPRs or incorporate new reactions."
@@ -1847,10 +1853,10 @@
             "msg": "Some metabolites are necessary for growth",
             "triggered_by": [
                 "TS_4fe4s_c",
+                "TS_mg2_c",
                 "TS_k_c",
                 "TS_cobalt2_c",
-                "TS_pydx5p_c",
-                "TS_mg2_c"
+                "TS_pydx5p_c"
             ],
             "importance": "critical",
             "to_do": "Fix the gaps by adding reactions or solving other warnings. If some items are from the E-matrix, fix these first!"

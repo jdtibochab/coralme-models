@@ -2291,6 +2291,16 @@
             "to_do": "Make sure the subsystems of these reactions are correct"
         }
     ],
+    "org.read_gene_dictionary": [
+        {
+            "msg": "Some genes are missing product definition in genes.txt",
+            "triggered_by": [
+                "FY484_RS19460"
+            ],
+            "importance": "medium",
+            "to_do": "Complete products in genes.txt if those genes are important."
+        }
+    ],
     "org.check_gene_overlap": [
         {
             "msg": "M-model has a 21 gene overlap with optional files (BioCyc)",
@@ -4582,176 +4592,276 @@
             "msg": "Some complexes were partial hits in the BLAST",
             "triggered_by": [
                 {
+                    "complex": "FY484_RS04405-MONOMER",
+                    "reference_complex": "Bam-CPLX"
+                },
+                {
+                    "complex": "FY484_RS06200-MONOMER",
+                    "reference_complex": "Phe_RS_tetra"
+                },
+                {
+                    "complex": "FY484_RS04595-MONOMER",
+                    "reference_complex": "THIH-MONOMER_THIF-MONOMER_THII-MONOMER_THIS-MONOMER"
+                },
+                {
+                    "complex": "FY484_RS12735-MONOMER",
+                    "reference_complex": "CPLX0-7428"
+                },
+                {
                     "complex": "FY484_RS12650-MONOMER",
                     "reference_complex": "UBIX-MONOMER_DHHB-METHYLTRANSFER-MONOMER"
+                },
+                {
+                    "complex": "FY484_RS10390-MONOMER",
+                    "reference_complex": "ABC-63-CPLX"
+                },
+                {
+                    "complex": "FY484_RS10045-MONOMER",
+                    "reference_complex": "CPLX-157"
                 },
                 {
                     "complex": "FY484_RS04650-MONOMER",
                     "reference_complex": "METNIQ-METHIONINE-ABC-CPLX"
                 },
                 {
+                    "complex": "CPLX2G6Z-156",
+                    "reference_complex": "NAPAB-CPLX_NAPC-MONOMER"
+                },
+                {
+                    "complex": "CPLX2G6Z-146",
+                    "reference_complex": "CPLX0-1667"
+                },
+                {
+                    "complex": "CPLX2G6Z-146",
+                    "reference_complex": "CPLX0-1666"
+                },
+                {
+                    "complex": "FY484_RS01690-MONOMER",
+                    "reference_complex": "Sec-CPLX"
+                },
+                {
+                    "complex": "FY484_RS01690-MONOMER",
+                    "reference_complex": "SecYE-CPLX"
+                },
+                {
                     "complex": "FY484_RS09750-MONOMER",
                     "reference_complex": "CPLX-63"
+                },
+                {
+                    "complex": "CPLX2G6Z-147",
+                    "reference_complex": "FADB-CPLX"
+                },
+                {
+                    "complex": "CPLX2G6Z-147",
+                    "reference_complex": "FADA-CPLX"
                 },
                 {
                     "complex": "FY484_RS09320-MONOMER",
                     "reference_complex": "ABC-3-CPLX"
                 },
                 {
+                    "complex": "FY484_RS12635-MONOMER",
+                    "reference_complex": "ABC-32-CPLX"
+                },
+                {
+                    "complex": "FY484_RS12345-MONOMER",
+                    "reference_complex": "ACETOLACTSYNIII-CPLX"
+                },
+                {
+                    "complex": "FY484_RS13835-MONOMER",
+                    "reference_complex": "MnmEG_cplx"
+                },
+                {
+                    "complex": "FY484_RS02035-MONOMER",
+                    "reference_complex": "SULFITE-REDUCT-CPLX"
+                },
+                {
+                    "complex": "FY484_RS11255-MONOMER",
+                    "reference_complex": "BamAD-CPLX"
+                },
+                {
+                    "complex": "FY484_RS05580-MONOMER",
+                    "reference_complex": "ABC-22-CPLX"
+                },
+                {
+                    "complex": "FY484_RS07175-MONOMER",
+                    "reference_complex": "ABC-24-CPLX"
+                },
+                {
+                    "complex": "FY484_RS10440-MONOMER",
+                    "reference_complex": "SUCC-DEHASE"
+                },
+                {
                     "complex": "FY484_RS13740-MONOMER",
                     "reference_complex": "TRKA-MONOMER_SAPD-MONOMER_TRKH-MONOMER"
                 },
                 {
-                    "complex": "FY484_RS03705-MONOMER",
-                    "reference_complex": "Bam-CPLX"
+                    "complex": "FY484_RS17710-MONOMER",
+                    "reference_complex": "ANGLYC3PDEHYDROG-CPLX"
                 },
                 {
-                    "complex": "FY484_RS03705-MONOMER",
-                    "reference_complex": "BamAD-CPLX"
+                    "complex": "FY484_RS01525-MONOMER",
+                    "reference_complex": "ACETYL-COA-CARBOXYLMULTI-CPLX"
+                },
+                {
+                    "complex": "FY484_RS17605-MONOMER",
+                    "reference_complex": "ABC-19-CPLX"
+                },
+                {
+                    "complex": "FY484_RS12505-MONOMER",
+                    "reference_complex": "ASPCARBTRANS-CPLX"
+                },
+                {
+                    "complex": "FY484_RS10410-MONOMER",
+                    "reference_complex": "SUCCCOASYN"
+                },
+                {
+                    "complex": "FY484_RS08500-MONOMER",
+                    "reference_complex": "TMAOREDUCTI-CPLX"
+                },
+                {
+                    "complex": "FY484_RS13790-MONOMER",
+                    "reference_complex": "ATPSYN-CPLX"
+                },
+                {
+                    "complex": "FY484_RS04140-MONOMER",
+                    "reference_complex": "CITLY-CPLX"
                 },
                 {
                     "complex": "FY484_RS07805-MONOMER",
                     "reference_complex": "ABC-34-CPLX"
                 },
                 {
+                    "complex": "FY484_RS03185-MONOMER",
+                    "reference_complex": "CPLX0-3951_G6561-MONOMER"
+                },
+                {
+                    "complex": "FY484_RS05990-MONOMER",
+                    "reference_complex": "ABC-6-CPLX"
+                },
+                {
                     "complex": "FY484_RS02875-MONOMER",
                     "reference_complex": "ABC-7-CPLX"
                 },
                 {
-                    "complex": "FY484_RS12645-MONOMER",
-                    "reference_complex": "ABC-32-CPLX"
+                    "complex": "FY484_RS06355-MONOMER",
+                    "reference_complex": "RIBONUCLEOSIDE-DIP-REDUCTI-CPLX"
                 },
                 {
-                    "complex": "FY484_RS05575-MONOMER",
-                    "reference_complex": "ABC-22-CPLX"
+                    "complex": "FY484_RS13115-MONOMER",
+                    "reference_complex": "CPLX0-7717_G6561-MONOMER"
                 },
                 {
-                    "complex": "VC_0003-MONOMER",
-                    "reference_complex": "MnmEG_cplx"
+                    "complex": "FY484_RS15120-MONOMER",
+                    "reference_complex": "GCVMULTI-CPLX"
                 },
                 {
-                    "complex": "VC_0020-MONOMER",
+                    "complex": "FY484_RS06590-MONOMER",
+                    "reference_complex": "PABASYN-CPLX"
+                },
+                {
+                    "complex": "FY484_RS18655-MONOMER",
+                    "reference_complex": "ABC-16-CPLX"
+                },
+                {
+                    "complex": "FY484_RS16620-MONOMER",
+                    "reference_complex": "CPLX-158"
+                },
+                {
+                    "complex": "FY484_RS11810-MONOMER",
+                    "reference_complex": "GLUTAMATESYN-CPLX"
+                },
+                {
+                    "complex": "FY484_RS05945-MONOMER",
+                    "reference_complex": "TRYPSYN"
+                },
+                {
+                    "complex": "FY484_RS01070-MONOMER",
+                    "reference_complex": "ABC-11-CPLX"
+                },
+                {
+                    "complex": "FY484_RS10415-MONOMER",
+                    "reference_complex": "2OXOGLUTARATEDEH-CPLX"
+                },
+                {
+                    "complex": "FY484_RS12385-MONOMER",
+                    "reference_complex": "3-ISOPROPYLMALISOM-CPLX"
+                },
+                {
+                    "complex": "FY484_RS11880-MONOMER",
+                    "reference_complex": "CARBPSYN-CPLX"
+                },
+                {
+                    "complex": "FY484_RS09430-MONOMER",
+                    "reference_complex": "LolCDE-CPLX"
+                },
+                {
+                    "complex": "FY484_RS16845-MONOMER",
+                    "reference_complex": "PYRNUTRANSHYDROGEN-CPLX"
+                },
+                {
+                    "complex": "FY484_RS06715-MONOMER",
+                    "reference_complex": "ABC-18-CPLX"
+                },
+                {
+                    "complex": "FY484_RS00100-MONOMER",
                     "reference_complex": "Gly_RS_tetra"
                 },
                 {
-                    "complex": "VC_0063-MONOMER",
-                    "reference_complex": "THIH-MONOMER_THIF-MONOMER_THII-MONOMER_THIS-MONOMER"
+                    "complex": "FY484_RS13215-MONOMER",
+                    "reference_complex": "FUMARATE-REDUCTASE"
+                },
+                {
+                    "complex": "FY484_RS19110-MONOMER",
+                    "reference_complex": "CPLX-166"
+                },
+                {
+                    "complex": "FY484_RS12795-MONOMER",
+                    "reference_complex": "hRNAP"
+                },
+                {
+                    "complex": "FY484_RS05235-MONOMER",
+                    "reference_complex": "EG11595-MONOMER_EG11666-MONOMER"
+                },
+                {
+                    "complex": "FY484_RS12000-MONOMER",
+                    "reference_complex": "PYRUVATEDEH-CPLX"
+                },
+                {
+                    "complex": "FY484_RS05965-1-MONOMER",
+                    "reference_complex": "ANTHRANSYN-CPLX"
+                },
+                {
+                    "complex": "FY484_RS03920-MONOMER",
+                    "reference_complex": "EG12130-MONOMER_EG12131-MONOMER"
+                },
+                {
+                    "complex": "FY484_RS14435-MONOMER",
+                    "reference_complex": "ABC-28-CPLX_EG10817-MONOMER"
+                },
+                {
+                    "complex": "FY484_RS04940-MONOMER",
+                    "reference_complex": "CPLX0-7"
+                },
+                {
+                    "complex": "FY484_RS04940-MONOMER",
+                    "reference_complex": "CPLX-168"
                 },
                 {
                     "complex": "VC_0087-MONOMER",
                     "reference_complex": "TatBC_octa"
                 },
                 {
-                    "complex": "VC_0201-MONOMER",
-                    "reference_complex": "ABC-11-CPLX"
-                },
-                {
-                    "complex": "VC_0207-MONOMER",
-                    "reference_complex": "CPLX0-7"
-                },
-                {
-                    "complex": "VC_0295-MONOMER",
-                    "reference_complex": "ACETYL-COA-CARBOXYLMULTI-CPLX"
-                },
-                {
-                    "complex": "VC_0322-MONOMER",
-                    "reference_complex": "Sec-CPLX"
-                },
-                {
-                    "complex": "VC_0322-MONOMER",
-                    "reference_complex": "SecYE-CPLX"
-                },
-                {
-                    "complex": "VC_0328-MONOMER",
-                    "reference_complex": "hRNAP"
-                },
-                {
-                    "complex": "VC_0384-MONOMER",
-                    "reference_complex": "SULFITE-REDUCT-CPLX"
-                },
-                {
-                    "complex": "VC_0602-MONOMER",
-                    "reference_complex": "CPLX0-3951_G6561-MONOMER"
-                },
-                {
-                    "complex": "VC_0680-MONOMER",
-                    "reference_complex": "CPLX0-7717_G6561-MONOMER"
-                },
-                {
-                    "complex": "VC_0751-MONOMER",
-                    "reference_complex": "EG12130-MONOMER_EG12131-MONOMER"
-                },
-                {
                     "complex": "VC_0776-MONOMER",
                     "reference_complex": "ABC-10-CPLX"
-                },
-                {
-                    "complex": "VC_0797-MONOMER",
-                    "reference_complex": "CITLY-CPLX"
-                },
-                {
-                    "complex": "VC_0910-MONOMER",
-                    "reference_complex": "CPLX-168"
-                },
-                {
-                    "complex": "VC_0964-MONOMER",
-                    "reference_complex": "CPLX-157"
-                },
-                {
-                    "complex": "VC_0965-MONOMER",
-                    "reference_complex": "CPLX-158"
-                },
-                {
-                    "complex": "VC_0965-MONOMER",
-                    "reference_complex": "CPLX-166"
-                },
-                {
-                    "complex": "VC_1024-MONOMER",
-                    "reference_complex": "EG11595-MONOMER_EG11666-MONOMER"
                 },
                 {
                     "complex": "VC_1136-MONOMER",
                     "reference_complex": "GLUTAMIDOTRANS-CPLX"
                 },
                 {
-                    "complex": "VC_1169-MONOMER",
-                    "reference_complex": "TRYPSYN"
-                },
-                {
-                    "complex": "VC_1172-MONOMER",
-                    "reference_complex": "ANTHRANSYN-CPLX"
-                },
-                {
-                    "complex": "VC_1180-MONOMER",
-                    "reference_complex": "ABC-6-CPLX"
-                },
-                {
-                    "complex": "VC_1219-MONOMER",
-                    "reference_complex": "Phe_RS_tetra"
-                },
-                {
                     "complex": "VC_1244-MONOMER",
                     "reference_complex": "ABC-5-CPLX"
-                },
-                {
-                    "complex": "VC_1255-MONOMER",
-                    "reference_complex": "RIBONUCLEOSIDE-DIP-REDUCTI-CPLX"
-                },
-                {
-                    "complex": "VC_1303-MONOMER",
-                    "reference_complex": "PABASYN-CPLX"
-                },
-                {
-                    "complex": "VC_1325-MONOMER",
-                    "reference_complex": "ABC-18-CPLX"
-                },
-                {
-                    "complex": "VC_1424-MONOMER",
-                    "reference_complex": "ABC-24-CPLX"
-                },
-                {
-                    "complex": "VC_1692-MONOMER",
-                    "reference_complex": "TMAOREDUCTI-CPLX"
                 },
                 {
                     "complex": "VC_1843-MONOMER",
@@ -4762,164 +4872,32 @@
                     "reference_complex": "PYRUVFORMLY-MONOMER_EG11784-MONOMER"
                 },
                 {
-                    "complex": "VC_1882-MONOMER",
-                    "reference_complex": "LolCDE-CPLX"
-                },
-                {
-                    "complex": "VC_2081-MONOMER",
-                    "reference_complex": "ABC-63-CPLX"
-                },
-                {
-                    "complex": "VC_2084-MONOMER",
-                    "reference_complex": "SUCCCOASYN"
-                },
-                {
-                    "complex": "VC_2086-MONOMER",
-                    "reference_complex": "2OXOGLUTARATEDEH-CPLX"
-                },
-                {
-                    "complex": "VC_2088-MONOMER",
-                    "reference_complex": "SUCC-DEHASE"
-                },
-                {
                     "complex": "VC_2309-MONOMER",
                     "reference_complex": "CPLX0-7838_CPLX0-7839"
-                },
-                {
-                    "complex": "VC_2376-MONOMER",
-                    "reference_complex": "GLUTAMATESYN-CPLX"
-                },
-                {
-                    "complex": "VC_2389-MONOMER",
-                    "reference_complex": "CARBPSYN-CPLX"
-                },
-                {
-                    "complex": "VC_2412-MONOMER",
-                    "reference_complex": "PYRUVATEDEH-CPLX"
-                },
-                {
-                    "complex": "VC_2482-MONOMER",
-                    "reference_complex": "ACETOLACTSYNIII-CPLX"
-                },
-                {
-                    "complex": "VC_2492-MONOMER",
-                    "reference_complex": "3-ISOPROPYLMALISOM-CPLX"
                 },
                 {
                     "complex": "VC_2499-MONOMER",
                     "reference_complex": "ABC-53-CPLX"
                 },
                 {
-                    "complex": "VC_2510-MONOMER",
-                    "reference_complex": "ASPCARBTRANS-CPLX"
-                },
-                {
-                    "complex": "VC_2559-MONOMER",
-                    "reference_complex": "CPLX0-7428"
-                },
-                {
-                    "complex": "VC_2656-MONOMER",
-                    "reference_complex": "FUMARATE-REDUCTASE"
-                },
-                {
-                    "complex": "VC_2763-MONOMER",
-                    "reference_complex": "ATPSYN-CPLX"
-                },
-                {
-                    "complex": "VC_A0127-MONOMER",
-                    "reference_complex": "ABC-28-CPLX_EG10817-MONOMER"
-                },
-                {
-                    "complex": "VC_A0563-MONOMER",
-                    "reference_complex": "PYRNUTRANSHYDROGEN-CPLX"
-                },
-                {
-                    "complex": "VC_A0678-MONOMER",
-                    "reference_complex": "NAPAB-CPLX_NAPC-MONOMER"
-                },
-                {
-                    "complex": "VC_A0724-MONOMER",
-                    "reference_complex": "ABC-19-CPLX"
-                },
-                {
-                    "complex": "VC_A0747-MONOMER",
-                    "reference_complex": "ANGLYC3PDEHYDROG-CPLX"
-                },
-                {
-                    "complex": "VC_A0943-MONOMER",
-                    "reference_complex": "ABC-16-CPLX"
-                },
-                {
-                    "complex": "CPLX_ACMANAptspp-0",
-                    "reference_complex": "PTSI-MONOMER"
-                },
-                {
-                    "complex": "CPLX_ACOATA-1",
-                    "reference_complex": "EG50003-MONOMER"
-                },
-                {
-                    "complex": "CPLX_ACOATA-1",
-                    "reference_complex": "CPLX0-252"
-                },
-                {
-                    "complex": "CPLX_ACPPAT120-0",
-                    "reference_complex": "EG11437-MONOMER"
-                },
-                {
                     "complex": "CPLX_ASR-0",
                     "reference_complex": "GRXB-MONOMER"
-                },
-                {
-                    "complex": "CPLX_CITL-0",
-                    "reference_complex": "G6340-MONOMER"
-                },
-                {
-                    "complex": "CPLX_DSBAO1-0",
-                    "reference_complex": "DISULFOXRED-MONOMER"
-                },
-                {
-                    "complex": "CPLX_DSBAO1-0",
-                    "reference_complex": "DSBBPROT-MONOMER"
-                },
-                {
-                    "complex": "CPLX_G3PAT120-0",
-                    "reference_complex": "GLYCEROL-3-P-ACYLTRANSFER-MONOMER"
-                },
-                {
-                    "complex": "CPLX_G3PD5-1",
-                    "reference_complex": "AERGLYC3PDEHYDROG-CPLX"
-                },
-                {
-                    "complex": "CPLX_I2FE2SR-0",
-                    "reference_complex": "IscS"
-                },
-                {
-                    "complex": "CPLX_I2FE2SR-0",
-                    "reference_complex": "IscU"
-                },
-                {
-                    "complex": "CPLX_I2FE2SS-0",
-                    "reference_complex": "EG11653-MONOMER"
                 },
                 {
                     "complex": "CPLX_I2FE2ST-0",
                     "reference_complex": "IscA_tetra"
                 },
                 {
-                    "complex": "CPLX_MCOATA-0",
-                    "reference_complex": "MALONYL-COA-ACP-TRANSACYL-MONOMER"
-                },
-                {
-                    "complex": "CPLX_MECDPDH5-0",
-                    "reference_complex": "FLAVODOXIN2-MONOMER"
-                },
-                {
-                    "complex": "CPLX_MECDPDH5-0",
-                    "reference_complex": "EG10370-MONOMER"
+                    "complex": "CPLX_I2FE2ST-0",
+                    "reference_complex": "IscU"
                 },
                 {
                     "complex": "CPLX_MECDPDH5-1",
                     "reference_complex": "FLAVODOXIN1-MONOMER"
+                },
+                {
+                    "complex": "CPLX_MECDPDH5-1",
+                    "reference_complex": "EG10370-MONOMER"
                 },
                 {
                     "complex": "CPLX_METSOXR1-0",
@@ -4938,12 +4916,12 @@
                     "reference_complex": "EG12394-MONOMER"
                 },
                 {
-                    "complex": "CPLX_MOADSUx-0",
-                    "reference_complex": "EG11597-MONOMER"
+                    "complex": "CPLX_MPTG-1",
+                    "reference_complex": "CPLX0-3951"
                 },
                 {
-                    "complex": "CPLX_MPTG-0",
-                    "reference_complex": "CPLX0-7717"
+                    "complex": "CPLX_MPTS-0",
+                    "reference_complex": "EG11597-MONOMER"
                 },
                 {
                     "complex": "CPLX_MPTS-0",
@@ -4956,10 +4934,6 @@
                 {
                     "complex": "CPLX_OBTFL-0",
                     "reference_complex": "PYRUVFORMLY-INACTIVE-CPLX"
-                },
-                {
-                    "complex": "CPLX_OPHBDC-0",
-                    "reference_complex": "CPLX0-301"
                 },
                 {
                     "complex": "CPLX_PAPSR-0",
@@ -4982,36 +4956,12 @@
                     "reference_complex": "CPLX0-321"
                 },
                 {
-                    "complex": "CPLX_POR5-0",
-                    "reference_complex": "G6701-MONOMER"
-                },
-                {
                     "complex": "CPLX_RNTR1c2-0",
                     "reference_complex": "RIBONUCLEOSIDE-TRIP-REDUCT-CPLX"
                 },
                 {
-                    "complex": "CPLX_TDSR1-0",
-                    "reference_complex": "DSBC-CPLX"
-                },
-                {
-                    "complex": "CPLX_TDSR1-0",
-                    "reference_complex": "DSBD-MONOMER"
-                },
-                {
-                    "complex": "CPLX_THZPSN3-0",
-                    "reference_complex": "ThiI_mono"
-                },
-                {
-                    "complex": "CPLX_TRDR-0",
-                    "reference_complex": "THIOREDOXIN-REDUCT-NADPH-CPLX"
-                },
-                {
-                    "complex": "CPLX_UAGAAT-0",
-                    "reference_complex": "UDPNACETYLGLUCOSAMACYLTRANS-CPLX"
-                },
-                {
-                    "complex": "CPLX_THZPSN-0",
-                    "reference_complex": "THIG-MONOMER"
+                    "complex": "CPLX_S2FE2SS-0",
+                    "reference_complex": "EG11653-MONOMER"
                 }
             ],
             "importance": "medium",
@@ -5045,7 +4995,7 @@
                 {
                     "subreaction": "RbfA_mono_assembly_factor_phase1",
                     "defined_complex": "",
-                    "inferred_complex": "VC_0644-MONOMER"
+                    "inferred_complex": "FY484_RS03410-MONOMER"
                 },
                 {
                     "subreaction": "RimM_mono_assembly_factor_phase1",
@@ -5064,12 +5014,12 @@
                 {
                     "amino_acid": "ala__L_c",
                     "inferred_ligase": "generic_ala_ligase",
-                    "homology_ligase": "VC_0545-MONOMER_mod_zn2(4)"
+                    "homology_ligase": "FY484_RS02895-MONOMER_mod_zn2(4)"
                 },
                 {
                     "amino_acid": "arg__L_c",
                     "inferred_ligase": "generic_arg_ligase",
-                    "homology_ligase": "VC_2074-MONOMER_mod_mg2(1)"
+                    "homology_ligase": "FY484_RS10360-MONOMER_mod_mg2(1)"
                 },
                 {
                     "amino_acid": "asn__L_c",
@@ -5079,17 +5029,17 @@
                 {
                     "amino_acid": "asp__L_c",
                     "inferred_ligase": "generic_asp_ligase",
-                    "homology_ligase": "VC_1166-MONOMER"
+                    "homology_ligase": "FY484_RS05925-MONOMER"
                 },
                 {
                     "amino_acid": "cys__L_c",
                     "inferred_ligase": "generic_cys_ligase",
-                    "homology_ligase": "VC_1848-MONOMER_mod_zn2(1)"
+                    "homology_ligase": "FY484_RS09250-MONOMER_mod_zn2(1)"
                 },
                 {
                     "amino_acid": "gln__L_c",
                     "inferred_ligase": "generic_gln_ligase",
-                    "homology_ligase": "VC_0997-MONOMER"
+                    "homology_ligase": "FY484_RS05095-MONOMER"
                 },
                 {
                     "amino_acid": "glu__L_c",
@@ -5104,7 +5054,7 @@
                 {
                     "amino_acid": "ile__L_c",
                     "inferred_ligase": "generic_ile_ligase",
-                    "homology_ligase": "VC_0682-MONOMER_mod_zn2(2)"
+                    "homology_ligase": "FY484_RS03590-MONOMER_mod_zn2(2)"
                 },
                 {
                     "amino_acid": "leu__L_c",
@@ -5119,27 +5069,32 @@
                 {
                     "amino_acid": "met__L_c",
                     "inferred_ligase": "generic_met_ligase",
-                    "homology_ligase": "VC_1036-MONOMER_mod_zn2(2)"
+                    "homology_ligase": "FY484_RS05280-MONOMER_mod_zn2(2)"
+                },
+                {
+                    "amino_acid": "phe__L_c",
+                    "inferred_ligase": "generic_phe_ligase",
+                    "homology_ligase": "CPLX2G6Z-11_mod_mg2(1)"
                 },
                 {
                     "amino_acid": "ser__L_c",
                     "inferred_ligase": "generic_ser_ligase",
-                    "homology_ligase": "VC_1110-MONOMER_mod_mg2(1)"
+                    "homology_ligase": "FY484_RS05650-MONOMER_mod_mg2(1)"
                 },
                 {
                     "amino_acid": "thr__L_c",
                     "inferred_ligase": "generic_thr_ligase",
-                    "homology_ligase": "VC_A0287-MONOMER_mod_zn2(1)"
+                    "homology_ligase": "FY484_RS15175-MONOMER_mod_zn2(1)"
                 },
                 {
                     "amino_acid": "trp__L_c",
                     "inferred_ligase": "generic_trp_ligase",
-                    "homology_ligase": "VC_2623-MONOMER_mod_mg2(1)"
+                    "homology_ligase": "FY484_RS13055-MONOMER_mod_mg2(1)"
                 },
                 {
                     "amino_acid": "tyr__L_c",
                     "inferred_ligase": "generic_tyr_ligase",
-                    "homology_ligase": "VC_0465-MONOMER"
+                    "homology_ligase": "FY484_RS02495-MONOMER"
                 }
             ],
             "importance": "medium",
@@ -5171,21 +5126,21 @@
         {
             "msg": "Some genes show homology, but no metabolic function.",
             "triggered_by": [
+                "FY484_RS03210 <-> b0451",
+                "FY484_RS06380 <-> b0070",
+                "FY484_RS07610 <-> b4079",
+                "FY484_RS11630 <-> b0344",
+                "FY484_RS14245 <-> b4077",
+                "FY484_RS17705 <-> b3927",
                 "VC_0164 <-> b2470",
                 "VC_0191 <-> b3823",
                 "VC_0225 <-> b3632",
                 "VC_0244 <-> b2253",
                 "VC_0267 <-> b1033",
-                "VC_0602 <-> b0149",
-                "VC_0633 <-> b0241",
-                "VC_0702 <-> b4394",
-                "VC_0723 <-> b2501",
                 "VC_1362 <-> b0655",
-                "VC_1579 <-> b0586",
                 "VC_1712 <-> b2578",
                 "VC_1777 <-> b3578",
                 "VC_1779 <-> b3579",
-                "VC_1840 <-> b0736",
                 "VC_1861 <-> b2307",
                 "VC_1863 <-> b2310",
                 "VC_1945 <-> b0347",
@@ -5194,22 +5149,265 @@
                 "VC_2435 <-> b3034",
                 "VC_2442 <-> b3493",
                 "VC_2479 <-> b2912",
-                "VC_2501 <-> b4260",
-                "VC_A0016 <-> b3432",
                 "VC_A0025 <-> b0612",
-                "VC_A0088 <-> b4077",
                 "VC_A0100 <-> b1308",
                 "VC_A0129 <-> b3750",
-                "VC_A0157 <-> b2278",
+                "VC_A0133 <-> b0751",
                 "VC_A0439 <-> b1192",
                 "VC_A0644 <-> b3365",
                 "VC_A0662 <-> b2690",
                 "VC_A0667 <-> b3679",
                 "VC_A0772 <-> b1907",
-                "VC_A0835 <-> b1473",
                 "VC_A1002 <-> b2682",
                 "VC_A1029 <-> b3431",
-                "VC_A1057 <-> b1539"
+                "VC_A1057 <-> b1539",
+                "accB <-> b3255",
+                "accC <-> b3256",
+                "aceA <-> b4015",
+                "aceE <-> b0114",
+                "ackA1 <-> b2296",
+                "acnD <-> b1276",
+                "acs <-> b4069",
+                "adhE <-> b1241",
+                "amiB <-> b4169",
+                "ansA <-> b1767",
+                "argA <-> b2818",
+                "argC <-> b3958",
+                "argD <-> b3359",
+                "argH <-> b3960",
+                "aroA <-> b0908",
+                "aroB <-> b3389",
+                "aroC <-> b2329",
+                "aroF <-> b2601",
+                "aroG <-> b0754",
+                "asd1 <-> b3433",
+                "asnB <-> b0674",
+                "aspA <-> b4139",
+                "aspC <-> b0928",
+                "astA <-> b1747",
+                "astD <-> b1746",
+                "atpA <-> b3734",
+                "atpD <-> b3732",
+                "bioC <-> b0777",
+                "cadB <-> b4132",
+                "carB <-> b0033",
+                "catB <-> b1732",
+                "citE <-> b0616",
+                "citF <-> b0615",
+                "cls <-> b1249",
+                "coaA <-> b3974",
+                "coaBC <-> b3639",
+                "coaE <-> b0103",
+                "cobA <-> b3368",
+                "cobT <-> b1991",
+                "copA <-> b0484",
+                "cydC <-> b0886",
+                "cydD <-> b0887",
+                "cysD <-> b2752",
+                "cysI <-> b2763",
+                "cysJ <-> b2764",
+                "cysK <-> b2414",
+                "cysN <-> b2751",
+                "cysQ <-> b4214",
+                "dacA1 <-> b0632",
+                "dacB <-> b3182",
+                "dapF <-> b3809",
+                "deoA <-> b4382",
+                "deoB <-> b4383",
+                "dxs <-> b0420",
+                "edd <-> b1851",
+                "eno <-> b2779",
+                "epd <-> b2927",
+                "fadA <-> b3845",
+                "fadB <-> b3846",
+                "fadE <-> b0221",
+                "fadI <-> b2342",
+                "fadJ <-> b2341",
+                "fbaA <-> b2925",
+                "fbp <-> b4232",
+                "feoB <-> b3409",
+                "fhuA <-> b0150",
+                "fhuC <-> b0151",
+                "folB <-> b3058",
+                "folD <-> b0529",
+                "folE <-> b2153",
+                "frdD <-> b4151",
+                "fruA <-> b2167",
+                "ftsI <-> b0084",
+                "galK <-> b0757",
+                "gap <-> b1779",
+                "glgB <-> b3432",
+                "glgP <-> b3417",
+                "glmM <-> b3176",
+                "glmS <-> b3729",
+                "glmU <-> b3730",
+                "glnA <-> b3870",
+                "gloA <-> b1651",
+                "glpA <-> b2241",
+                "glpD <-> b3426",
+                "glpK <-> b3926",
+                "glpT <-> b2240",
+                "glpX <-> b3925",
+                "gltA <-> b0720",
+                "gltB2 <-> b3212",
+                "gltD2 <-> b3213",
+                "gmd <-> b2053",
+                "gmk <-> b3648",
+                "gnd <-> b2029",
+                "gpmM <-> b3612",
+                "gppA <-> b3779",
+                "gpsA <-> b3608",
+                "gshA <-> b2688",
+                "gsk1 <-> b0477",
+                "guaA <-> b2507",
+                "guaB <-> b2508",
+                "hemB <-> b0369",
+                "hemC <-> b3805",
+                "hemL <-> b0154",
+                "hisB <-> b2022",
+                "hisD <-> b2020",
+                "hldE <-> b3052",
+                "ilvA <-> b3772",
+                "ilvC <-> b3774",
+                "ilvD <-> b3771",
+                "ilvE <-> b3770",
+                "ilvI <-> b0077",
+                "ispB <-> b3187",
+                "ispE <-> b1208",
+                "katG <-> b3942",
+                "kdsD <-> b3197",
+                "kdtA <-> b3633",
+                "kefB <-> b3350",
+                "leuA <-> b0074",
+                "leuB <-> b0073",
+                "leuC <-> b0072",
+                "ligA <-> b2411",
+                "lldD <-> b3605",
+                "lpxB <-> b0182",
+                "lpxK <-> b0915",
+                "ltaE <-> b0870",
+                "lysC <-> b4024",
+                "lysS <-> b4129",
+                "malF <-> b4033",
+                "malK <-> b4035",
+                "malQ <-> b3416",
+                "manC <-> b2049",
+                "mazG <-> b2781",
+                "metE <-> b3829",
+                "metF <-> b3941",
+                "metH <-> b4019",
+                "metK <-> b2942",
+                "metQ <-> b0197",
+                "mglC <-> b2148",
+                "mltC <-> b2963",
+                "moaC <-> b0783",
+                "modA <-> b0763",
+                "moeA <-> b0827",
+                "mpl <-> b4233",
+                "mraY <-> b0087",
+                "mrcA <-> b3396",
+                "mrdA <-> b0635",
+                "mrpA' <-> b2278",
+                "msbA <-> b0914",
+                "mtlA <-> b3599",
+                "murA <-> b3189",
+                "murC <-> b0091",
+                "murD <-> b0088",
+                "murE <-> b0085",
+                "murQ1 <-> b2428",
+                "nadA <-> b0750",
+                "nadB <-> b2574",
+                "napA <-> b2206",
+                "napB <-> b2203",
+                "nhaB <-> b1186",
+                "nudC <-> b3996",
+                "nudE <-> b3397",
+                "ompU <-> b0241",
+                "oppF <-> b1247",
+                "opuD <-> b0314",
+                "pabB <-> b1812",
+                "pabC <-> b1096",
+                "pckA <-> b3403",
+                "pdxB <-> b2320",
+                "pepA <-> b4260",
+                "pepB <-> b2523",
+                "pepN <-> b0932",
+                "pgi <-> b4025",
+                "pgm <-> b0688",
+                "pntA <-> b1603",
+                "pntB <-> b1602",
+                "potA <-> b1126",
+                "potB <-> b1125",
+                "potE <-> b0692",
+                "ppc <-> b3956",
+                "ppk1 <-> b2501",
+                "ppx <-> b2502",
+                "proA <-> b0243",
+                "prpB <-> b0331",
+                "pstA2 <-> b3726",
+                "pstC2 <-> b3727",
+                "pta <-> b2297",
+                "ptsG <-> b1101",
+                "ptsI <-> b2416",
+                "purB <-> b1131",
+                "purD <-> b4005",
+                "purF <-> b2312",
+                "purH <-> b4006",
+                "purM <-> b2499",
+                "putA <-> b1014",
+                "pykF <-> b1676",
+                "pyrB <-> b4245",
+                "pyrC <-> b1062",
+                "pyrE <-> b3642",
+                "queF <-> b2794",
+                "rbsA <-> b3749",
+                "relA <-> b2784",
+                "ribA2 <-> b1277",
+                "rpe <-> b3386",
+                "rsgA <-> b4161",
+                "sdhC <-> b0721",
+                "serA <-> b2913",
+                "serB <-> b4388",
+                "speF <-> b0693",
+                "spoT <-> b3650",
+                "sstT <-> b3089",
+                "sthA <-> b3962",
+                "sucA <-> b0726",
+                "sucB <-> b0727",
+                "sucC <-> b0728",
+                "sucD <-> b0729",
+                "suhB <-> b2533",
+                "thiC <-> b3994",
+                "thiQ <-> b0066",
+                "thrA <-> b0002",
+                "thrC <-> b0004",
+                "tnaA <-> b3708",
+                "torA <-> b0997",
+                "tpiA <-> b3919",
+                "treC <-> b4239",
+                "trkA <-> b3290",
+                "trpB <-> b1261",
+                "trpCF <-> b1262",
+                "trpE <-> b1264",
+                "tyrA <-> b2600",
+                "ubiB <-> b3835",
+                "ubiD <-> b3843",
+                "ubiF <-> b0662",
+                "udk <-> b2066",
+                "udp <-> b3831",
+                "ulaG <-> b4192",
+                "upp <-> b2498",
+                "ushA <-> b0480",
+                "vibD <-> b0583",
+                "vibF <-> b0586",
+                "vpsA <-> b3786",
+                "vpsB <-> b3787",
+                "vpsK <-> b3794",
+                "ybgC <-> b0736",
+                "yddG <-> b1473",
+                "yfbR <-> b2291",
+                "yjjX <-> b4394",
+                "znuA <-> b1857"
             ],
             "importance": "critical",
             "to_do": "Manually curate the M-model to correct GPRs or incorporate new reactions."
@@ -5219,8 +5417,7 @@
         {
             "msg": "Some metabolites are necessary for growth",
             "triggered_by": [
-                "TS_4fe4s_c",
-                "TS_dpm_c"
+                "TS_4fe4s_c"
             ],
             "importance": "critical",
             "to_do": "Fix the gaps by adding reactions or solving other warnings. If some items are from the E-matrix, fix these first!"

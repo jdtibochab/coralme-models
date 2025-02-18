@@ -106,9 +106,9 @@ B488_RS02755-MONOMER,alpha/beta fold hydrolase,B488_RS02755(),BioCyc
 B488_RS05465-MONOMER,DUF2125 domain-containing protein,B488_RS05465(),BioCyc
 B488_RS00290-MONOMER,YbaB/EbfC family nucleoid-associated protein,B488_RS00290(),BioCyc
 B488_RS03280-MONOMER,glycosyltransferase family 2 protein,B488_RS03280(),BioCyc
-B488_RS06355-MONOMER,signal peptidase II,B488_RS06355(),BioCyc
+B488_RS06355-MONOMER,signal peptidase II,B488_RS06355(1),BioCyc
 B488_RS04305-MONOMER,helix-turn-helix transcriptional regulator,B488_RS04305(),BioCyc
-B488_RS03830-MONOMER,methionine--tRNA ligase,B488_RS03830(),BioCyc
+B488_RS03830-MONOMER,methionine--tRNA ligase,B488_RS03830(2),BioCyc
 B488_RS06090-MONOMER,HAMP domain-containing histidine kinase,B488_RS06090(),BioCyc
 B488_RS04600-MONOMER,transaldolase,B488_RS04600(2),BioCyc
 B488_RS00690-MONOMER,30S ribosomal protein S21,B488_RS00690(),BioCyc
@@ -881,7 +881,7 @@ B488_RS02150-MONOMER,LL-diaminopimelate aminotransferase,B488_RS02150(2),BioCyc
 B488_RS02510-MONOMER,hypothetical protein,B488_RS02510(),BioCyc
 B488_RS05120-MONOMER,ATP-binding cassette domain-containing protein,B488_RS05120(),BioCyc
 B488_RS05335-MONOMER,transcriptional repressor LexA,B488_RS05335(),BioCyc
-B488_RS00170-MONOMER,30S ribosomal protein S15,B488_RS00170(),BioCyc
+B488_RS00170-MONOMER,30S ribosomal protein S15,B488_RS00170(1),BioCyc
 B488_RS05875-MONOMER,50S ribosomal protein L27,B488_RS05875(1),BioCyc
 B488_RS05645-MONOMER,GTPase HflX,B488_RS05645(),BioCyc
 B488_RS03050-MONOMER,hypothetical protein,B488_RS03050(),BioCyc
@@ -1016,7 +1016,7 @@ B488_RS04300-MONOMER,hypothetical protein,B488_RS04300(),BioCyc
 B488_RS06535-MONOMER,alcohol dehydrogenase,B488_RS06535(),BioCyc
 B488_RS01885-MONOMER,single-stranded DNA-binding protein,B488_RS01885(),BioCyc
 B488_RS05160-MONOMER,porin,B488_RS05160(),BioCyc
-B488_RS01120-MONOMER,pseudouridine synthase,B488_RS01120(),BioCyc
+B488_RS01120-MONOMER,pseudouridine synthase,B488_RS01120(1),BioCyc
 B488_RS02185-MONOMER,50S ribosomal protein L31,B488_RS02185(),BioCyc
 B488_RS02555-MONOMER,multidrug effflux MFS transporter,B488_RS02555(),BioCyc
 B488_RS05365-MONOMER,pyruvate dehydrogenase complex dihydrolipoamide acetyltransferase,B488_RS05365(),BioCyc
@@ -1322,7 +1322,7 @@ B488_RS04185-MONOMER,B488_RS04185-MONOMER,B488_RS04185(2),Sync
 B488_RS03820-MONOMER,B488_RS03820-MONOMER,B488_RS03820(),Sync
 B488_RS00475-MONOMER,B488_RS00475-MONOMER,B488_RS00475(),Sync
 B488_RS05215-MONOMER,B488_RS05215-MONOMER,B488_RS05215(4),Sync
-B488_00330-MONOMER,SSU ribosomal protein S15p (S13e),B488_00330(1),GenBank
+B488_00330-MONOMER,SSU ribosomal protein S15p (S13e),B488_00330(),GenBank
 B488_00340-MONOMER,hypothetical protein,B488_00340(),GenBank
 B488_00660-MONOMER,Glycyl-tRNA synthetase alpha chain,B488_00660(),GenBank
 B488_00670-MONOMER,hypothetical protein,B488_00670(),GenBank
@@ -1339,7 +1339,7 @@ B488_02040-MONOMER,hypothetical protein,B488_02040(),GenBank
 B488_02100-MONOMER,hypothetical protein,B488_02100(),GenBank
 B488_02210-MONOMER,Signal recognition particle GTPase,B488_02210(),GenBank
 B488_02220-MONOMER,hypothetical protein,B488_02220(),GenBank
-B488_02270-MONOMER,Ribosomal large subunit pseudouridine synthase B,B488_02270(1),GenBank
+B488_02270-MONOMER,Ribosomal large subunit pseudouridine synthase B,B488_02270(),GenBank
 B488_02310-MONOMER,hypothetical protein,B488_02310(),GenBank
 B488_02480-MONOMER,hypothetical protein,B488_02480(),GenBank
 B488_02610-MONOMER,NADH-ubiquinone oxidoreductase chain E,B488_02610(),GenBank
@@ -1434,7 +1434,7 @@ B488_07920-MONOMER,hypothetical protein,B488_07920(),GenBank
 B488_07940-MONOMER,"Zinc ABC transporter, ATP-binding protein ZnuC",B488_07940(),GenBank
 B488_07970-MONOMER,Metal-dependent hydrolases of the beta-lactamase superfamily I,B488_07970(),GenBank
 B488_07980-MONOMER,Metal-dependent hydrolases of the beta-lactamase superfamily I,B488_07980(),GenBank
-B488_08000-MONOMER,Methionyl-tRNA synthetase,B488_08000(2),GenBank
+B488_08000-MONOMER,Methionyl-tRNA synthetase,B488_08000(),GenBank
 B488_08010-MONOMER,hypothetical protein,B488_08010(),GenBank
 B488_08040-MONOMER,hypothetical protein,B488_08040(),GenBank
 B488_08050-MONOMER,hypothetical protein,B488_08050(),GenBank
@@ -1494,7 +1494,7 @@ B488_12740-MONOMER,hypothetical protein,B488_12740(),GenBank
 B488_12870-MONOMER,hypothetical protein,B488_12870(),GenBank
 B488_12880-MONOMER,hypothetical protein,B488_12880(),GenBank
 B488_12910-MONOMER,hypothetical protein,B488_12910(),GenBank
-B488_13060-MONOMER,Lipoprotein signal peptidase,B488_13060(1),GenBank
+B488_13060-MONOMER,Lipoprotein signal peptidase,B488_13060(),GenBank
 B488_13160-MONOMER,hypothetical protein,B488_13160(),GenBank
 B488_13400-MONOMER,hypothetical protein,B488_13400(),GenBank
 B488_13460-MONOMER,hypothetical protein,B488_13460(),GenBank

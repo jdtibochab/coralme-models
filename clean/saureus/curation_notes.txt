@@ -910,6 +910,8 @@ The following items triggered the warning:
 
 {"complex": "USA300HOU_RS06970-MONOMER", "reference_complex": "ANTHRANSYN-CPLX"}
 
+{"complex": "USA300HOU_RS14525-MONOMER", "reference_complex": "GLUTAMIDOTRANS-CPLX"}
+
 {"complex": "USA300HOU_RS06985-MONOMER", "reference_complex": "TRYPSYN"}
 
 {"complex": "USA300HOU_RS05690-MONOMER", "reference_complex": "Phe_RS_tetra"}
@@ -1233,6 +1235,7 @@ USA300HOU_RS13690 <-> b0822
 USA300HOU_RS13895 <-> b2379
 USA300HOU_RS14640 <-> b1463
 USA300HOU_RS15915 <-> b4090
+USA300HOU_RS16045 <-> b2025
 
 **********Solution:
 Manually curate the M-model to correct GPRs or incorporate new reactions.
@@ -1244,7 +1247,7 @@ Manually curate the M-model to correct GPRs or incorporate new reactions.
 ********** Some metabolites are necessary for growth
 The following items triggered the warning:
 TS_amet_c
-TS_asn__L_c
+TS_gly_asn__L_c
 
 **********Solution:
 Fix the gaps by adding reactions or solving other warnings. If some items are from the E-matrix, fix these first!

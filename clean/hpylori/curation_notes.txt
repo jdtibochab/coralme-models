@@ -385,7 +385,7 @@ Check whether the genbank was downloaded or constructed correctly.
 
 
 #################### critical@org.get_rpod ####################
-********** RpoD randomly assigned to HP_RS05070-MONOMER
+********** RpoD randomly assigned to HP_RS00445-MONOMER
 
 **********Solution:
 genome.gb does not have a valid annotation for RpoD. A random identified sigma factor in me_builder.org.sigmas was set as RpoD so that the builder can continue running. Set the correct RpoD by running me_builder.org.rpod = correct_rpod
@@ -589,8 +589,8 @@ The following items triggered the warning:
 HP0104 <-> b4213
 HP0138 <-> b0307
 HP0139 <-> b0306
+HP0143 <-> b0612
 HP0172 <-> b0827
-HP0214 <-> b3063
 HP0278 <-> b3779
 HP0298 <-> b3544
 HP0299 <-> b3543
@@ -643,6 +643,7 @@ HP1564 <-> b0197
 HP1565 <-> b0635
 HP1570 <-> b3198
 HP1577 <-> b0198
+HP_RS04415 <-> b2297
 
 **********Solution:
 Manually curate the M-model to correct GPRs or incorporate new reactions.
@@ -655,13 +656,14 @@ Manually curate the M-model to correct GPRs or incorporate new reactions.
 The following items triggered the warning:
 TS_4fe4s_c
 TS_thmpp_c
-TS_fmn_c
+TS_nadh_c
 TS_hco3_c
-TS_mg2_c
-TS_k_c
-TS_zn2_c
-TS_pydx5p_c
+TS_fad_c
 TS_mn2_c
+TS_zn2_c
+TS_k_c
+TS_mg2_c
+TS_pydx5p_c
 TS_cobalt2_c
 
 **********Solution:

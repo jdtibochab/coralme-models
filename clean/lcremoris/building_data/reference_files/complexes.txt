@@ -572,8 +572,8 @@ LLMG_RS03030-MONOMER,prolipoprotein diacylglyceryl transferase,LLMG_RS03030(1),G
 LLMG_RS03035-MONOMER,DUF948 domain-containing protein,LLMG_RS03035(),GenBank
 LLMG_RS03040-MONOMER,YtxH domain-containing protein,LLMG_RS03040(),GenBank
 LLMG_RS03045-MONOMER,NADP-dependent phosphogluconate dehydrogenase,LLMG_RS03045(2),GenBank
-LLMG_RS03050-MONOMER,potassium transporter Kup,LLMG_RS03050(),GenBank
-LLMG_RS03055-MONOMER,potassium transporter Kup,LLMG_RS03055(1),GenBank
+LLMG_RS03050-MONOMER,potassium transporter Kup,LLMG_RS03050(1),GenBank
+LLMG_RS03055-MONOMER,potassium transporter Kup,LLMG_RS03055(),GenBank
 LLMG_RS13055-MONOMER,DUF3042 family protein,LLMG_RS13055(),GenBank
 LLMG_RS03060-MONOMER,YitT family protein,LLMG_RS03060(),GenBank
 LLMG_RS03065-MONOMER,tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA,LLMG_RS03065(2),GenBank
@@ -978,7 +978,7 @@ LLMG_RS05080-MONOMER,HAD-IIB family hydrolase,LLMG_RS05080(),GenBank
 LLMG_RS05085-MONOMER,5-(carboxyamino)imidazole ribonucleotide mutase,LLMG_RS05085(8),GenBank
 LLMG_RS05090-MONOMER,5-(carboxyamino)imidazole ribonucleotide synthase,LLMG_RS05090(2),GenBank
 LLMG_RS05095-MONOMER,AraC family transcriptional regulator,LLMG_RS05095(),GenBank
-LLMG_RS05100-MONOMER,xylose isomerase,LLMG_RS05100(),GenBank
+LLMG_RS05100-MONOMER,xylose isomerase,LLMG_RS05100(4),GenBank
 LLMG_RS05105-MONOMER,IS6-like element IS1216 family transposase,LLMG_RS05105(),GenBank
 LLMG_RS05110-MONOMER,family 1 glycosylhydrolase,LLMG_RS05110(),GenBank
 LLMG_RS05115-MONOMER,ROK family protein,LLMG_RS05115(),GenBank
@@ -1159,7 +1159,7 @@ LLMG_RS05995-MONOMER,glutamate synthase subunit beta,LLMG_RS05995(),GenBank
 LLMG_RS06000-MONOMER,diaminopimelate decarboxylase,LLMG_RS06000(4),GenBank
 LLMG_RS06005-MONOMER,YneF family protein,LLMG_RS06005(),GenBank
 LLMG_RS06010-MONOMER,glutamate racemase,LLMG_RS06010(2),GenBank
-LLMG_RS06015-MONOMER,nucleoside-triphosphate diphosphatase,LLMG_RS06015(),GenBank
+LLMG_RS06015-MONOMER,nucleoside-triphosphate diphosphatase,LLMG_RS06015(2),GenBank
 LLMG_RS06020-MONOMER,metallophosphoesterase,LLMG_RS06020(),GenBank
 LLMG_RS06025-MONOMER,CBS domain-containing protein,LLMG_RS06025(),GenBank
 LLMG_RS06030-MONOMER,site-specific tyrosine recombinase XerD,LLMG_RS06030(),GenBank
@@ -1182,7 +1182,7 @@ LLMG_RS06110-MONOMER,50S ribosomal protein L7/L12,LLMG_RS06110(2),GenBank
 LLMG_RS06115-MONOMER,MarR family transcriptional regulator,LLMG_RS06115(),GenBank
 LLMG_RS06120-MONOMER,MDR family MFS transporter,LLMG_RS06120(),GenBank
 LLMG_RS06125-MONOMER,DUF4811 domain-containing protein,LLMG_RS06125(),GenBank
-LLMG_RS13430-MONOMER,UDP-N-acetylglucosamine 2-epimerase (non-hydrolyzing),LLMG_RS13430(),GenBank
+LLMG_RS13430-MONOMER,UDP-N-acetylglucosamine 2-epimerase (non-hydrolyzing),LLMG_RS13430(1),GenBank
 LLMG_RS13860-MONOMER,hypothetical protein,LLMG_RS13860(),GenBank
 LLMG_RS06140-MONOMER,glycosyltransferase,LLMG_RS06140(),GenBank
 LLMG_RS06145-MONOMER,hydroxyethylthiazole kinase,LLMG_RS06145(1),GenBank
@@ -1257,8 +1257,8 @@ LLMG_RS06495-MONOMER,ABC transporter ATP-binding protein,LLMG_RS06495(),GenBank
 LLMG_RS06500-MONOMER,3-isopropylmalate dehydratase small subunit,LLMG_RS06500(),GenBank
 LLMG_RS06505-MONOMER,hypothetical protein,LLMG_RS06505(),GenBank
 LLMG_RS06510-MONOMER,3-isopropylmalate dehydratase large subunit,LLMG_RS06510(),GenBank
-LLMG_RS06515-MONOMER,3-isopropylmalate dehydrogenase,LLMG_RS06515(),GenBank
-LLMG_RS06520-MONOMER,2-isopropylmalate synthase,LLMG_RS06520(),GenBank
+LLMG_RS06515-MONOMER,3-isopropylmalate dehydrogenase,LLMG_RS06515(2),GenBank
+LLMG_RS06520-MONOMER,2-isopropylmalate synthase,LLMG_RS06520(1),GenBank
 LLMG_RS06525-MONOMER,rhodanese-related sulfurtransferase,LLMG_RS06525(),GenBank
 LLMG_RS06530-MONOMER,histidinol-phosphatase HisJ family protein,LLMG_RS06530(),GenBank
 LLMG_RS06535-MONOMER,bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE,LLMG_RS06535(1),GenBank
@@ -1649,7 +1649,7 @@ LLMG_RS08485-MONOMER,transcriptional regulator,LLMG_RS08485(),GenBank
 LLMG_RS08490-MONOMER,TlyA family RNA methyltransferase,LLMG_RS08490(),GenBank
 LLMG_RS08495-MONOMER,GNAT family N-acetyltransferase,LLMG_RS08495(),GenBank
 LLMG_RS08500-MONOMER,polyprenyl synthetase family protein,LLMG_RS08500(1),GenBank
-LLMG_RS08505-MONOMER,glycerate kinase,LLMG_RS08505(),GenBank
+LLMG_RS08505-MONOMER,glycerate kinase,LLMG_RS08505(1),GenBank
 LLMG_RS08510-MONOMER,exodeoxyribonuclease VII small subunit,LLMG_RS08510(),GenBank
 LLMG_RS08515-MONOMER,exodeoxyribonuclease VII large subunit,LLMG_RS08515(),GenBank
 LLMG_RS08520-MONOMER,bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase,LLMG_RS08520(2),GenBank
@@ -1722,7 +1722,7 @@ LLMG_RS08845-MONOMER,QueT transporter family protein,LLMG_RS08845(),GenBank
 LLMG_RS08850-MONOMER,3-oxoacyl-ACP reductase,LLMG_RS08850(),GenBank
 LLMG_RS08855-MONOMER,DUF2829 domain-containing protein,LLMG_RS08855(),GenBank
 LLMG_RS13935-MONOMER,hypothetical protein,LLMG_RS13935(),GenBank
-LLMG_RS08860-MONOMER,methionine--tRNA ligase,LLMG_RS08860(),GenBank
+LLMG_RS08860-MONOMER,methionine--tRNA ligase,LLMG_RS08860(2),GenBank
 LLMG_RS08865-MONOMER,exodeoxyribonuclease III,LLMG_RS08865(),GenBank
 LLMG_RS08870-MONOMER,GNAT family N-acetyltransferase,LLMG_RS08870(),GenBank
 LLMG_RS08875-MONOMER,DeoR/GlpR family DNA-binding transcription regulator,LLMG_RS08875(),GenBank
@@ -2180,7 +2180,7 @@ LLMG_RS11210-MONOMER,galactokinase,LLMG_RS11210(1),GenBank
 LLMG_RS11215-MONOMER,galactose mutarotase,LLMG_RS11215(1),GenBank
 LLMG_RS11220-MONOMER,glycoside-pentoside-hexuronide (GPH):cation symporter,LLMG_RS11220(1),GenBank
 LLMG_RS11225-MONOMER,MurR/RpiR family transcriptional regulator,LLMG_RS11225(),GenBank
-LLMG_RS11230-MONOMER,L-glyceraldehyde 3-phosphate reductase,LLMG_RS11230(),GenBank
+LLMG_RS11230-MONOMER,L-glyceraldehyde 3-phosphate reductase,LLMG_RS11230(1),GenBank
 LLMG_RS11235-MONOMER,nicotinamide-nucleotide adenylyltransferase,LLMG_RS11235(1),GenBank
 LLMG_RS11240-MONOMER,D-2-hydroxyacid dehydrogenase,LLMG_RS11240(1),GenBank
 LLMG_RS11245-MONOMER,U32 family peptidase,LLMG_RS11245(),GenBank

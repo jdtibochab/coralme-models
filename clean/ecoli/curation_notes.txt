@@ -604,6 +604,107 @@ G0-10698
 **********Solution:
 Complete Accession-1 IDs in genes.txt if those genes are important.
 
+#################### medium@org.read_gene_dictionary ####################
+********** Some genes are missing product definition in genes.txt
+The following items triggered the warning:
+G0-16670
+G0-16667
+G0-10614
+G0-10433
+G0-10697
+G8208
+G0-10557
+EG50008
+G0-10569
+G7149
+G6091
+G0-8898
+EG11213
+G6748
+G6084
+G0-8893
+G7896
+G6687
+G0-9387
+G0-10704
+G7818
+G6516
+G0-8911
+G0-10700
+G7561
+G6336
+G0-8906
+G0-10587
+G7353
+G6179
+G0-8902
+EG11273
+G7034
+G6089
+G0-8894
+G8203
+G6690
+G0-9961
+G0-10705
+G7878
+G6553
+G0-8912
+G0-10702
+G7562
+G6388
+G0-8907
+G0-10597
+G7386
+G6221
+G0-8903
+G0-10202
+G7121
+G6090
+G0-8896
+EG11163
+G6740
+G14
+G0-8869
+G7881
+G6678
+G0-9384
+G0-10703
+G7692
+G6419
+G0-8908
+G0-10698
+G7388
+G6294
+G0-8904
+G0-10586
+EG11708
+G0-16664
+G0-10563
+G0-16660
+G0-10555
+G0-16679
+G0-16657
+G0-16671
+G0-16654
+G0-16668
+G0-10615
+G0-16665
+G0-10567
+G0-16661
+G0-16658
+G0-16655
+G0-16669
+G0-10682
+G0-10604
+G0-16663
+G7222
+G0-16714
+G0-16676
+G0-16656
+
+**********Solution:
+Complete products in genes.txt if those genes are important.
+
 
 
 

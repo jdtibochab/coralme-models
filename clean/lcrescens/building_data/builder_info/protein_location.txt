@@ -138,4 +138,4 @@ B488_RS00235-MONOMER,Outer_Membrane,B488_RS00235(),Outer_Membrane,sb
 B488_RS02920-MONOMER,Outer_Membrane,B488_RS02920(),Outer_Membrane,pla
 B488_RS06430-MONOMER,Inner_Membrane,B488_RS06430(),Inner_Membrane,ra
 B488_RS06050-MONOMER,Inner_Membrane,B488_RS06050(),Inner_Membrane,r
-B488_13060-MONOMER,Inner_Membrane,B488_13060(),Inner_Membrane,r
+B488_RS06355-MONOMER,Inner_Membrane,B488_RS06355(),Inner_Membrane,r

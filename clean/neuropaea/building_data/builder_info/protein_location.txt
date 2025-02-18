@@ -27,6 +27,7 @@ ALW85_RS12535-MONOMER,Inner_Membrane,ALW85_RS12535(),Inner_Membrane,r
 ALW85_RS01860-MONOMER,Outer_Membrane,ALW85_RS01860(),Inner_Membrane,s
 ALW85_RS05445-MONOMER,Inner_Membrane,ALW85_RS05445(),Inner_Membrane,r
 CPLX_SUCDi-0,Inner_Membrane,ALW85_RS05445(),Inner_Membrane,r
+ALW85_RS12630-MONOMER,Inner_Membrane,ALW85_RS12630(),Inner_Membrane,r
 ALW85_RS03155-MONOMER,Inner_Membrane,ALW85_RS03155(),Inner_Membrane,r
 ALW85_RS09250-MONOMER,Inner_Membrane,ALW85_RS09250(),Inner_Membrane,p
 CPLX_NADH17pp-0,Inner_Membrane,ALW85_RS09250(),Inner_Membrane,p
@@ -126,6 +127,7 @@ ALW85_RS08085-MONOMER,Inner_Membrane,ALW85_RS08085(),Inner_Membrane,r
 ALW85_RS07610-MONOMER,Periplasm,ALW85_RS07610(),Periplasm,s
 ALW85_RS03825-MONOMER,Outer_Membrane,ALW85_RS03825(),Outer_Membrane,sb
 ALW85_RS11445-MONOMER,Inner_Membrane,ALW85_RS11445(),Inner_Membrane,p
+ALW85_RS11295-MONOMER,Inner_Membrane,ALW85_RS11295(),Inner_Membrane,r
 ALW85_RS07895-MONOMER,Outer_Membrane,ALW85_RS07895(),Outer_Membrane,pla
 ALW85_RS05140-MONOMER,Inner_Membrane,ALW85_RS05140(),Inner_Membrane,r
 ALW85_RS04190-MONOMER,Inner_Membrane,ALW85_RS04190(),Inner_Membrane,r

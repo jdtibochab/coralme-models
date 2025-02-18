@@ -1,4 +1,4 @@
 ,value
-UAA,{'enzyme': 'generic_RF'}
 UAG,{'enzyme': 'YPO2017-MONOMER'}
 UGA,{'enzyme': 'YPO0889-MONOMER'}
+UAA,{'enzyme': 'generic_RF'}

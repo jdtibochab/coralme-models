@@ -191201,25 +191201,6 @@ ORIGIN
   4215541 gattccttaa ttttacggaa aaaagacaaa ttcaaacaat ttgcccctaa aatcacgcat
   4215601 gtggat
 //
-LOCUS       BSU_misc_RNA_38|BSU_misc_RNA_38|BSU_misc_RNA_38|NIL 102 bp    DNA              UNK 01-JAN-1980
-DEFINITION  BSU_misc_RNA_38|BSU_misc_RNA_38|BSU_misc_RNA_38|NIL.
-ACCESSION   BSU_misc_RNA_38
-VERSION     BSU_misc_RNA_38
-KEYWORDS    .
-SOURCE      .
-  ORGANISM  .
-            .
-FEATURES             Location/Qualifiers
-     source          1..102
-                     /note="Added from BioCyc"
-     RNA             1..102
-                     /old_locus_tag="BSU_misc_RNA_38"
-                     /product="BSU_misc_RNA_38-RNA"
-                     /transl_table=11
-ORIGIN
-        1 atgacagcaa ggggagagac ctgaccgaaa acctcgggat acaggcgccg aaggagcaaa
-       61 ctgcggagtg aatctctcag gcaaaagaac tcttgctcga cg
-//
 LOCUS       rosA|G8J2-183||small     234 bp    DNA              UNK 01-JAN-1980
 DEFINITION  rosA|G8J2-183||small regulatory RNA RosA.
 ACCESSION   G8J2-183

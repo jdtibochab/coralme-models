@@ -238,6 +238,25 @@
             ],
             "importance": "medium",
             "to_do": "Complete Accession-1 IDs in genes.txt if those genes are important."
+        },
+        {
+            "msg": "Some genes are missing product definition in genes.txt",
+            "triggered_by": [
+                "G12WB-4608",
+                "G12WB-4459",
+                "G12WB-4216",
+                "G12WB-2456",
+                "G12WB-4221",
+                "G12WB-261",
+                "G12WB-1964",
+                "G12WB-877",
+                "G12WB-4223",
+                "G12WB-3866",
+                "G12WB-2374",
+                "G12WB-967"
+            ],
+            "importance": "medium",
+            "to_do": "Complete products in genes.txt if those genes are important."
         }
     ],
     "org.generate_complexes_df": [
@@ -673,6 +692,11 @@
                     "inferred_complex": "G12WB-2590-MONOMER"
                 },
                 {
+                    "subreaction": "RbfA_mono_assembly_factor_phase1",
+                    "defined_complex": "",
+                    "inferred_complex": "G12WB-1446-MONOMER"
+                },
+                {
                     "subreaction": "RimM_mono_assembly_factor_phase1",
                     "defined_complex": "",
                     "inferred_complex": "G12WB-1389-MONOMER"
@@ -831,10 +855,10 @@
             "msg": "Some metabolites are necessary for growth",
             "triggered_by": [
                 "TS_accoa_c",
-                "TS_4fe4s_c",
                 "TS_pydx5p_c",
-                "TS_mn2_c",
                 "TS_pan4p_c",
+                "TS_mn2_c",
+                "TS_4fe4s_c",
                 "TS_cbl1_c"
             ],
             "importance": "critical",

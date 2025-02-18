@@ -95,6 +95,64 @@ Make sure the subsystems of these reactions are correct
 
 
 
+#################### medium@org.read_gene_dictionary ####################
+********** Some genes are missing product definition in genes.txt
+The following items triggered the warning:
+PSLT021
+STM3844
+STM1866
+STM0326
+STM3530
+STM1474
+STM0241
+STM3302
+STM1248
+STM2725
+STM1120
+STM4140
+STM2210
+STM0790
+STM3916
+STM1930
+STM0555
+STM3654
+STM1553
+STM0297
+STM3460
+STM1464
+STM2778
+STM1186
+STM4454
+STM2664
+STM0947
+STM3945
+STM2003
+STM0560
+STM3806
+STM1666
+STM0314
+STM3520
+STM1465
+STM2975
+STM1245
+STM2689
+STM1052
+STM4111
+STM2132
+STM0767
+PSLT058
+PSLT065
+STM2768
+PSLT071
+PSLT022
+PSLT109
+
+**********Solution:
+Complete products in genes.txt if those genes are important.
+
+
+
+
 #################### medium@org.generate_complexes_df ####################
 ********** Some proteins have no genes in proteins.txt
 The following items triggered the warning:
@@ -937,22 +995,6 @@ STM4580 <-> b4390
 
 **********Solution:
 Manually curate the M-model to correct GPRs or incorporate new reactions.
-
-
-
-
-#################### critical@troubleshoot ####################
-********** Some metabolites are necessary for growth
-The following items triggered the warning:
-TS_generic_tRNA_GAC_asp__L_c
-TS_generic_tRNA_GAA_glu__L_c
-TS_generic_tRNA_GAG_glu__L_c
-TS_generic_tRNA_GAU_asp__L_c
-TS_udpgal_c
-TS_4fe4s_c
-
-**********Solution:
-Fix the gaps by adding reactions or solving other warnings. If some items are from the E-matrix, fix these first!
 
 
 

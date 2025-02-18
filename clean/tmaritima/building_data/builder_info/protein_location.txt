@@ -118,6 +118,7 @@ TM0444-MONOMER,Membrane,TM0444(),Membrane,s
 TM1867-MONOMER,Membrane,TM1867(),Membrane,s
 TM1504-MONOMER,Membrane,TM1504(),Membrane,s
 TM1085-MONOMER,Membrane,TM1085(),Membrane,s
+TM_RS09715-MONOMER,Membrane,TM_RS09715(),Membrane,s
 TM1177-MONOMER,Inner_Membrane,TM1177(),Inner_Membrane,s
 TM0274-MONOMER,Membrane,TM0274(),Membrane,s
 TM1605-MONOMER,Membrane,TM1605(),Membrane,s

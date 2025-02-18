@@ -487,6 +487,7 @@ TM1666 <-> b2472
 TM1717 <-> b4161
 TM1738 <-> b3040
 TM1743 <-> b1781
+TM_RS00750 <-> b2599
 
 **********Solution:
 Manually curate the M-model to correct GPRs or incorporate new reactions.
@@ -497,12 +498,12 @@ Manually curate the M-model to correct GPRs or incorporate new reactions.
 #################### critical@troubleshoot ####################
 ********** Some metabolites are necessary for growth
 The following items triggered the warning:
-TS_generic_tRNA_AAC_asn__L_c
 TS_generic_tRNA_AAU_asn__L_c
+TS_generic_tRNA_AAC_asn__L_c
 TS_4fe4s_c
-TS_mn2_c
-TS_fe2_c
 TS_asn__L_c
+TS_fe2_c
+TS_mn2_c
 TS_cobalt2_c
 
 **********Solution:

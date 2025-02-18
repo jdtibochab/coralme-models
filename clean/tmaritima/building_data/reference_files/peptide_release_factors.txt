@@ -1,4 +1,4 @@
 codon	enzyme
+UAA	generic_RF
 UAG	TM1363-MONOMER
 UGA	TM1579-MONOMER
-UAA	generic_RF

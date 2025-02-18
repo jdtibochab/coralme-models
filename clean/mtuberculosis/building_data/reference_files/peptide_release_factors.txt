@@ -1,4 +1,4 @@
 codon	enzyme
+UAA	generic_RF
 UAG	G185E-5473-MONOMER
 UGA	G185E-7369-MONOMER
-UAA	generic_RF

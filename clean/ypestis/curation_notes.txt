@@ -645,6 +645,8 @@ The following items triggered the warning:
 
 {"complex": "YPO1159-MONOMER", "reference_complex": "EG11595-MONOMER_EG11666-MONOMER"}
 
+{"complex": "YPO1195-MONOMER", "reference_complex": "ABC-40-CPLX"}
+
 {"complex": "YPO1213-MONOMER", "reference_complex": "RIBONUCLEOSIDE-DIP-REDUCTI-CPLX"}
 
 {"complex": "YPO1215-MONOMER", "reference_complex": "UBIX-MONOMER_DHHB-METHYLTRANSFER-MONOMER"}
@@ -678,6 +680,8 @@ The following items triggered the warning:
 {"complex": "YPO2183-MONOMER", "reference_complex": "CPLX0-3970"}
 
 {"complex": "YPO2203-MONOMER", "reference_complex": "TRYPSYN"}
+
+{"complex": "YPO_RS22170-MONOMER", "reference_complex": "ANTHRANSYN-CPLX"}
 
 {"complex": "YPO2255-MONOMER", "reference_complex": "ABC-2-CPLX"}
 
@@ -758,6 +762,8 @@ The following items triggered the warning:
 {"complex": "YPO3856-MONOMER", "reference_complex": "CPLX0-3976_edit"}
 
 {"complex": "YPO3905-MONOMER", "reference_complex": "ABC-46-CPLX"}
+
+{"complex": "YPO3999-MONOMER", "reference_complex": "ABC-8-CPLX"}
 
 {"complex": "YPO4035-MONOMER", "reference_complex": "ABC-33-CPLX"}
 
@@ -938,6 +944,9 @@ YPO0034 <-> b3654
 YPO0064 <-> b3612
 YPO0077 <-> b3915
 YPO0079 <-> b3917
+YPO0089 <-> b3925
+YPO0090 <-> b3926
+YPO0115 <-> b3939
 YPO0151 <-> b3390
 YPO0166 <-> b1734
 YPO0182 <-> b0365
@@ -951,6 +960,7 @@ YPO0437 <-> b4382
 YPO0454 <-> b4394
 YPO0455 <-> b4395
 YPO0464 <-> b0009
+YPO0526 <-> b0070
 YPO0539 <-> b0077
 YPO0540 <-> b0078
 YPO0580 <-> b1521
@@ -978,9 +988,12 @@ YPO1154 <-> b0778
 YPO1159 <-> b0781
 YPO1160 <-> b0783
 YPO1165 <-> b0311
+YPO1172 <-> b2964
+YPO1195 <-> b2131
 YPO1197 <-> b2130
 YPO1201 <-> b4117
 YPO1205 <-> b0241
+YPO1236 <-> b2738
 YPO1254 <-> b2901
 YPO1276 <-> b2174
 YPO1309 <-> b2156
@@ -1008,6 +1021,7 @@ YPO1859 <-> b4208
 YPO1907 <-> b0594
 YPO1928 <-> b0616
 YPO1937 <-> b1453
+YPO2027 <-> b1206
 YPO2043 <-> b1069
 YPO2064 <-> b1854
 YPO2068 <-> b1600
@@ -1054,11 +1068,15 @@ YPO3006 <-> b1622
 YPO3035 <-> b2467
 YPO3043 <-> b2470
 YPO3086 <-> b0484
+YPO3100 <-> b2052
+YPO3102 <-> b2053
 YPO3133 <-> b0462
 YPO3148 <-> b0446
 YPO3150 <-> b0444
+YPO3198 <-> b3447
 YPO3264 <-> b2682
 YPO3265 <-> b2683
+YPO3281 <-> b2599
 YPO3303 <-> b2690
 YPO3349 <-> b1199
 YPO3350 <-> b1200
@@ -1068,7 +1086,6 @@ YPO3413 <-> b1473
 YPO3421 <-> b0112
 YPO3439 <-> b4262
 YPO3440 <-> b4261
-YPO3450 <-> b1486
 YPO3451 <-> b1485
 YPO3481 <-> b0572
 YPO3529 <-> b4214
@@ -1076,6 +1093,7 @@ YPO3579 <-> b3199
 YPO3580 <-> b3200
 YPO3581 <-> b3201
 YPO3648 <-> b3125
+YPO3687 <-> b2661
 YPO3792 <-> b3449
 YPO3826 <-> b2241
 YPO3829 <-> b3826
@@ -1085,6 +1103,8 @@ YPO3905 <-> b4231
 YPO4013 <-> b3546
 YPO4058 <-> b3894
 YPO4107 <-> b3714
+YPO_RS22170 <-> b1263
+YPO_RS22270 <-> b0480
 
 **********Solution:
 Manually curate the M-model to correct GPRs or incorporate new reactions.
@@ -1096,11 +1116,11 @@ Manually curate the M-model to correct GPRs or incorporate new reactions.
 ********** Some metabolites are necessary for growth
 The following items triggered the warning:
 TS_dhptd_c
-TS_zn2_c
 TS_cobalt2_c
+TS_zn2_c
 TS_4fe4s_c
-TS_dpm_c
 TS_hemed_c
+TS_dpm_c
 
 **********Solution:
 Fix the gaps by adding reactions or solving other warnings. If some items are from the E-matrix, fix these first!

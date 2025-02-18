@@ -147,7 +147,7 @@ TM0150-MONOMER,50S ribosomal protein L32,TM0150(),GenBank
 TM0151-MONOMER,DUF177 domain-containing protein,TM0151(),GenBank
 TM0152-MONOMER,lactate utilization protein,TM0152(),GenBank
 TM0153-MONOMER,DUF4914 family protein,TM0153(),GenBank
-TM_RS00750-MONOMER,prephenate dehydratase,TM_RS00750(),GenBank
+TM_RS00750-MONOMER,prephenate dehydratase,TM_RS00750(2),GenBank
 TM0156-MONOMER,alkaline phosphatase,TM0156(2),GenBank
 TM0157-MONOMER,flavin reductase family protein,TM0157(),GenBank
 TM_RS00765-MONOMER,DUF370 domain-containing protein,TM_RS00765(),GenBank
@@ -368,7 +368,7 @@ TM0373-MONOMER,molecular chaperone DnaK,TM0373(1),GenBank
 TM0374-MONOMER,Hsp20/alpha crystallin family protein,TM0374(),GenBank
 TM0375-MONOMER,phosphate propanoyltransferase,TM0375(),GenBank
 TM0376-MONOMER,sulfite exporter TauE/SafE family protein,TM0376(),GenBank
-TM0378-MONOMER,NAD(P)H-dependent glycerol-3-phosphate dehydrogenase,TM0378(),GenBank
+TM0378-MONOMER,NAD(P)H-dependent glycerol-3-phosphate dehydrogenase,TM0378(2),GenBank
 TM0379-MONOMER,FAD-dependent oxidoreductase,TM0379(),GenBank
 TM0380-MONOMER,carboxymuconolactone decarboxylase family protein,TM0380(),GenBank
 TM0381-MONOMER,dihydrolipoyl dehydrogenase,TM0381(),GenBank
@@ -1426,7 +1426,7 @@ TM1441-MONOMER,aspartate--tRNA ligase,TM1441(2),GenBank
 TM1442-MONOMER,STAS domain-containing protein,TM1442(),GenBank
 TM1443-MONOMER,(d)CMP kinase,TM1443(1),GenBank
 TM1444-MONOMER,4-hydroxy-3-methylbut-2-enyl diphosphate reductase,TM1444(2),GenBank
-TM_RS09715-MONOMER,S1 RNA-binding domain-containing protein,TM_RS09715(),GenBank
+TM_RS09715-MONOMER,S1 RNA-binding domain-containing protein,TM_RS09715(1),GenBank
 TM_RS09720-MONOMER,S1 RNA-binding domain-containing protein,TM_RS09720(),GenBank
 TM1446-MONOMER,ribosome biogenesis GTPase Der,TM1446(),GenBank
 TM1447-MONOMER,glycerol-3-phosphate 1-O-acyltransferase PlsY,TM1447(1),GenBank
@@ -1461,7 +1461,7 @@ TM1473-MONOMER,30S ribosomal protein S4,TM1473(1),GenBank
 TM1474-MONOMER,30S ribosomal protein S11,TM1474(1),GenBank
 TM1475-MONOMER,30S ribosomal protein S13,TM1475(1),GenBank
 TM1476-MONOMER,50S ribosomal protein L36,TM1476(),GenBank
-TM1477-MONOMER,translation initiation factor IF-1,TM1477(),GenBank
+TM1477-MONOMER,translation initiation factor IF-1,TM1477(1),GenBank
 TM1478-MONOMER,type I methionyl aminopeptidase,TM1478(1),GenBank
 TM1479-MONOMER,adenylate kinase,TM1479(1),GenBank
 TM1480-MONOMER,preprotein translocase subunit SecY,TM1480(),GenBank
@@ -1766,7 +1766,7 @@ TM1777-MONOMER,transcription termination factor NusA,TM1777(1),GenBank
 TM1778-MONOMER,ribosome maturation factor RimP,TM1778(),GenBank
 TM1780-MONOMER,argininosuccinate synthase,TM1780(4),GenBank
 TM_RS09730-MONOMER,hypothetical protein,TM_RS09730(),GenBank
-TM1781-MONOMER,argininosuccinate lyase,TM1781(),GenBank
+TM1781-MONOMER,argininosuccinate lyase,TM1781(1),GenBank
 TM1782-MONOMER,N-acetyl-gamma-glutamyl-phosphate reductase,TM1782(1),GenBank
 TM1783-MONOMER,bifunctional glutamate N-acetyltransferase/amino-acid acetyltransferase ArgJ,TM1783(),GenBank
 TM1784-MONOMER,acetylglutamate kinase,TM1784(6),GenBank

@@ -602,6 +602,7 @@ CPLX_NADH10-0,Inner_Membrane,Rv3158(),Inner_Membrane,r
 G185E-6342-MONOMER,Inner_Membrane,Rv2136c(),Inner_Membrane,r
 G185E-5125-MONOMER,Inner_Membrane,Rv0969(),Inner_Membrane,r
 G185E-6199-MONOMER,Inner_Membrane,Rv1997(),Inner_Membrane,r
+G185E-7753-MONOMER,Inner_Membrane,Rv3476c(),Inner_Membrane,r
 G185E-5634-MONOMER,Inner_Membrane,Rv1451(),Inner_Membrane,r
 CPLX_CYO1b-0,Inner_Membrane,Rv1451(),Inner_Membrane,r
 G185E-5811-MONOMER,Inner_Membrane,Rv1623c(),Inner_Membrane,r

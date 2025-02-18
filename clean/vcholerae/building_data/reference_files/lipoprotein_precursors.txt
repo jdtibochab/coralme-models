@@ -2,9 +2,9 @@ name,gene
 BamB,VC_0762
 BamC,VC_2156
 BamD,VC_0708
-BamE,VC_0851
+BamE,bamE
 LolB,VC_2181
-MetQ,VC_0905
+MetQ,metQ
 MltA,VC_2312
 MltB,VC_1956
-MltC,VC_0450
+MltC,mltC

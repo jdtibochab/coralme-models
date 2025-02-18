@@ -2514,10 +2514,15 @@
         {
             "msg": "Some genes show homology, but no metabolic function.",
             "triggered_by": [
+                "ABAYE_RS00205 <-> b0355",
+                "ABAYE_RS00210 <-> b0356",
+                "ABAYE_RS00235 <-> b1473",
+                "ABAYE_RS00540 <-> b0383",
                 "ABAYE_RS00615 <-> b1640",
                 "ABAYE_RS00755 <-> b0207",
                 "ABAYE_RS00820 <-> b0837",
                 "ABAYE_RS01055 <-> b2521",
+                "ABAYE_RS01340 <-> b0150",
                 "ABAYE_RS01435 <-> b0937",
                 "ABAYE_RS01460 <-> b4067",
                 "ABAYE_RS01695 <-> b3747",
@@ -2574,7 +2579,6 @@
                 "ABAYE_RS06835 <-> b3553",
                 "ABAYE_RS06915 <-> b2663",
                 "ABAYE_RS07150 <-> b1661",
-                "ABAYE_RS07195 <-> b1473",
                 "ABAYE_RS07240 <-> b0199",
                 "ABAYE_RS07495 <-> b0698",
                 "ABAYE_RS07500 <-> b0697",
@@ -2634,10 +2638,8 @@
                 "ABAYE_RS12800 <-> b0484",
                 "ABAYE_RS13040 <-> b3714",
                 "ABAYE_RS13150 <-> b0353",
-                "ABAYE_RS13260 <-> b0150",
                 "ABAYE_RS13785 <-> b2912",
                 "ABAYE_RS13840 <-> b0635",
-                "ABAYE_RS13960 <-> b2710",
                 "ABAYE_RS14010 <-> b0494",
                 "ABAYE_RS14030 <-> b0584",
                 "ABAYE_RS14175 <-> b2789",
@@ -2649,7 +2651,6 @@
                 "ABAYE_RS15435 <-> b4267",
                 "ABAYE_RS15495 <-> b0123",
                 "ABAYE_RS15505 <-> b0822",
-                "ABAYE_RS15520 <-> b0355",
                 "ABAYE_RS16195 <-> b4161",
                 "ABAYE_RS16315 <-> b3415",
                 "ABAYE_RS16370 <-> b0805",
@@ -2680,7 +2681,8 @@
                 "ABAYE_RS18960 <-> b0110",
                 "ABAYE_RS19050 <-> b0935",
                 "ABAYE_RS19220 <-> b4233",
-                "ABAYE_RS19230 <-> b0841"
+                "ABAYE_RS19230 <-> b0841",
+                "ABAYE_RS20750 <-> b2710"
             ],
             "importance": "critical",
             "to_do": "Manually curate the M-model to correct GPRs or incorporate new reactions."
@@ -2690,13 +2692,11 @@
         {
             "msg": "Some metabolites are necessary for growth",
             "triggered_by": [
-                "TS_pheme_c",
-                "TS_2fe2s_c",
+                "TS_fe2_c",
                 "TS_4fe4s_c",
-                "TS_fmn_c",
-                "TS_zn2_c",
                 "TS_k_c",
-                "TS_mg2_c"
+                "TS_mg2_c",
+                "TS_zn2_c"
             ],
             "importance": "critical",
             "to_do": "Fix the gaps by adding reactions or solving other warnings. If some items are from the E-matrix, fix these first!"

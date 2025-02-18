@@ -3714,7 +3714,7 @@ CLJU_RS13060-MONOMER,hypothetical protein,CLJU_c26500(),BioCyc
 CLJU_RS02665-MONOMER,DUF1972 domain-containing protein,CLJU_c05420(),BioCyc
 CLJU_RS04260-MONOMER,5-methyltetrahydrofolate--homocysteine methyltransferase,CLJU_c08650(),BioCyc
 CLJU_RS10530-MONOMER,amino acid permease,CLJU_c21450(),BioCyc
-CLJU_RS06125-MONOMER,NAD(P)H-dependent glycerol-3-phosphate dehydrogenase,CLJU_c12480(),BioCyc
+CLJU_RS06125-MONOMER,NAD(P)H-dependent glycerol-3-phosphate dehydrogenase,CLJU_c12480(2),BioCyc
 CLJU_RS07105-MONOMER,hypothetical protein,CLJU_c14480(),BioCyc
 CLJU_RS11130-MONOMER,class I SAM-dependent methyltransferase,CLJU_c22620(),BioCyc
 CLJU_RS06495-MONOMER,YlmC/YmxH family sporulation protein,CLJU_c13230(),BioCyc

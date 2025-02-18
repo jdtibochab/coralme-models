@@ -78,12 +78,12 @@ lipoprotein_precursors:
   BamB: VC_0762
   BamC: VC_2156
   BamD: VC_0708
-  BamE: VC_0851
+  BamE: bamE
   LolB: VC_2181
-  MetQ: VC_0905
+  MetQ: metQ
   MltA: VC_2312
   MltB: VC_1956
-  MltC: VC_0450
+  MltC: mltC
 log_directory: ./vcholerae/
 m-model-path: ./vcholerae//building_data/m_model_modified.json
 ngam: 3.15
@@ -151,14 +151,14 @@ run_bbh_blast: false
 selenocysteine_enzymes:
 - CPLX_dummy
 translocation_multipliers:
-  VC_0004-MONOMER:
-    VC_0212: 2.0
+  FY484_RS00020-MONOMER:
     VC_2763: 2.0
+    lpxN: 2.0
   VC_0086-MONOMER:
     VC_0202: 21.0
     VC_1512: 14.0
-    VC_1692: 13.5
     VC_1950: 26.0
-    VC_A0678: 27.0
     VC_A0815: 6.25
+    napA: 27.0
+    torA: 13.5
 unmodeled_protein_fraction: 0.36

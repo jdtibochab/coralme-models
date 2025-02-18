@@ -1,10 +1,10 @@
 ,value
-bam,{'enzymes': ['CPLX_dummy']}
-lol,{'enzymes': ['CPLX_dummy']}
 sec,{'enzymes': ['JCVISYN3A_0095-MONOMER']}
-secA,{'enzymes': ['JCVISYN3A_0095-MONOMER']}
-srp,{'enzymes': ['JCVISYN3A_0429-MONOMER']}
-srp_yidC,{'enzymes': ['CPLX_dummy']}
 tat,{'enzymes': ['CPLX_dummy']}
 tat_alt,{'enzymes': ['CPLX_dummy']}
+bam,{'enzymes': ['CPLX_dummy']}
+lol,{'enzymes': ['CPLX_dummy']}
 yidC,{'enzymes': ['CPLX_dummy']}
+secA,{'enzymes': ['JCVISYN3A_0095-MONOMER']}
+srp_yidC,{'enzymes': ['CPLX_dummy']}
+srp,{'enzymes': ['JCVISYN3A_0429-MONOMER']}

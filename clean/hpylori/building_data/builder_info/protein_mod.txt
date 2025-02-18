@@ -320,3 +320,4 @@ HP_RS04530-MONOMER_mod_mn2(1),HP_RS04530-MONOMER,mn2(1),Homology
 HP_RS00020-MONOMER_mod_zn2(1),HP_RS00020-MONOMER,zn2(1),Homology
 HP_RS01970-MONOMER_mod_nadph(1)_mod_nadh(1)_mod_fad(1)_mod_cobalt2(1),HP_RS01970-MONOMER,nadph(1) AND nadh(1) AND fad(1) AND cobalt2(1),Homology
 HP_RS01710-MONOMER_mod_mg2(1),HP_RS01710-MONOMER,mg2(1),Homology
+HP_RS04410-MONOMER_mod_mg2(1),HP_RS04410-MONOMER,mg2(1),Homology

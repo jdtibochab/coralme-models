@@ -540,7 +540,7 @@
                 {
                     "amino_acid": "met__L_c",
                     "inferred_ligase": "generic_met_ligase",
-                    "homology_ligase": "B488_08000-MONOMER_mod_zn2(2)"
+                    "homology_ligase": "B488_RS03830-MONOMER_mod_zn2(2)"
                 }
             ],
             "importance": "medium",
@@ -662,13 +662,13 @@
             "msg": "Some metabolites are necessary for growth",
             "triggered_by": [
                 "TS_pydx5p_c",
+                "TS_hco3_c",
                 "TS_k_c",
-                "TS_pi_c",
-                "TS_zn2_c",
                 "TS_mg2_c",
                 "TS_mn2_c",
                 "TS_hemed_c",
-                "TS_dpm_c"
+                "TS_dpm_c",
+                "TS_zn2_c"
             ],
             "importance": "critical",
             "to_do": "Fix the gaps by adding reactions or solving other warnings. If some items are from the E-matrix, fix these first!"

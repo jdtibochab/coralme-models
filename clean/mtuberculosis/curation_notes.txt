@@ -224,6 +224,27 @@ G185E-5493
 **********Solution:
 Complete Accession-1 IDs in genes.txt if those genes are important.
 
+#################### medium@org.read_gene_dictionary ####################
+********** Some genes are missing product definition in genes.txt
+The following items triggered the warning:
+G185E-8383
+G185E-6304
+G185E-5317
+G185E-7600
+G185E-7281
+G185E-6305
+G185E-5987
+G185E-4400
+G185E-7392
+G185E-6658
+G185E-6226
+G185E-5102
+G185E-7487
+G185E-7280
+
+**********Solution:
+Complete products in genes.txt if those genes are important.
+
 
 
 
@@ -387,7 +408,7 @@ Check whether the genbank was downloaded or constructed correctly.
 
 
 #################### critical@org.get_rpod ####################
-********** RpoD randomly assigned to G185E-4880-MONOMER
+********** RpoD randomly assigned to G185E-6951-MONOMER
 
 **********Solution:
 genome.gb does not have a valid annotation for RpoD. A random identified sigma factor in me_builder.org.sigmas was set as RpoD so that the builder can continue running. Set the correct RpoD by running me_builder.org.rpod = correct_rpod
@@ -730,6 +751,7 @@ Rv1272c <-> b0914
 Rv1279 <-> b0311
 Rv1341 <-> b2954
 Rv1442 <-> b3551
+Rv1504c <-> b3791
 Rv1707 <-> b1206
 Rv1751 <-> b0662
 Rv1781c <-> b3416
@@ -750,8 +772,8 @@ Rv3034c <-> b2033
 Rv3228 <-> b4161
 Rv3284 <-> b2811
 Rv3324c <-> b0783
-Rv3402c <-> b2253
 Rv3406 <-> b0368
+Rv3476c <-> b2587
 Rv3554 <-> b1392
 Rv3566c <-> b1463
 Rv3578 <-> b3502
@@ -769,10 +791,10 @@ Manually curate the M-model to correct GPRs or incorporate new reactions.
 #################### critical@troubleshoot ####################
 ********** Some metabolites are necessary for growth
 The following items triggered the warning:
-TS_4fe4s_c
-TS_k_c
-TS_mn2_c
 TS_cobalt2_c
+TS_mn2_c
+TS_k_c
+TS_4fe4s_c
 TS_zn2_c
 
 **********Solution:

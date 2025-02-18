@@ -659,11 +659,15 @@ Check whether the compartment is correct. If not, change it in the reaction ID i
 ********** Some complexes were partial hits in the BLAST
 The following items triggered the warning:
 
+{"complex": "SYNPCC7942_1522-MONOMER", "reference_complex": "hRNAP"}
+
 {"complex": "SYNPCC7942_2457-MONOMER", "reference_complex": "Gly_RS_tetra"}
 
 {"complex": "SYNPCC7942_2064-MONOMER", "reference_complex": "Phe_RS_tetra"}
 
 {"complex": "SYNPCC7942_1680-MONOMER", "reference_complex": "ABC-70-CPLX"}
+
+{"complex": "SYNPCC7942_0139-MONOMER", "reference_complex": "ACETOLACTSYNIII-CPLX"}
 
 {"complex": "SYNPCC7942_1198-MONOMER", "reference_complex": "GCVMULTI-CPLX"}
 
@@ -698,8 +702,6 @@ The following items triggered the warning:
 {"complex": "SYNPCC7942_1334-MONOMER", "reference_complex": "PABASYN-CPLX"}
 
 {"complex": "SYNPCC7942_2571-MONOMER", "reference_complex": "CPLX0-3951_G6561-MONOMER"}
-
-{"complex": "CPLX490-80", "reference_complex": "ACETOLACTSYNIII-CPLX"}
 
 {"complex": "CPLX490-76", "reference_complex": "PURE-CPLX"}
 
@@ -810,6 +812,8 @@ Map or remove these metabolites in me_metabolites.txt
 #################### critical@check_me_coverage ####################
 ********** Some genes show homology, but no metabolic function.
 The following items triggered the warning:
+SYNPCC7942_0139 <-> b0077
+SYNPCC7942_1286 <-> b0827
 SYNPCC7942_RS00350 <-> b2253
 SYNPCC7942_RS00375 <-> b0811
 SYNPCC7942_RS00935 <-> b2987
@@ -830,7 +834,6 @@ SYNPCC7942_RS06485 <-> b2954
 SYNPCC7942_RS06535 <-> b0863
 SYNPCC7942_RS06565 <-> b0781
 SYNPCC7942_RS06580 <-> b0783
-SYNPCC7942_RS06585 <-> b0827
 SYNPCC7942_RS06905 <-> b2690
 SYNPCC7942_RS07045 <-> b3650
 SYNPCC7942_RS07205 <-> b1519
@@ -853,6 +856,9 @@ SYNPCC7942_RS12645 <-> b3454
 SYNPCC7942_RS12650 <-> b3455
 SYNPCC7942_RS12660 <-> b3457
 SYNPCC7942_RS13065 <-> b0149
+SYNPCC7942_RS13360 <-> b1308
+SYNPCC7942_RS13410 <-> b1732
+SYNPCC7942_RS13455 <-> b0367
 
 **********Solution:
 Manually curate the M-model to correct GPRs or incorporate new reactions.
@@ -863,16 +869,19 @@ Manually curate the M-model to correct GPRs or incorporate new reactions.
 #################### critical@troubleshoot ####################
 ********** Some metabolites are necessary for growth
 The following items triggered the warning:
-TS_pi_c
 TS_cl_c
-TS_fmnh2_c
-TS_nadp_c
-TS_ca2_c
-TS_mn2_c
-TS_4fe4s_c
-TS_na1_c
+TS_pheme_c
+TS_thmpp_c
+TS_nad_c
 TS_hco3_c
-TS_dpm_c
+TS_4fe4s_c
+TS_pi_c
+TS_nh4_c
+TS_mg2_c
+TS_k_c
+TS_pydx5p_c
+TS_nadh_c
+TS_cu_c
 TS_cbl1_c
 
 **********Solution:

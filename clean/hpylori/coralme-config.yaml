@@ -44,7 +44,7 @@ complex_cofactors:
     mod_lipoyl_c:
     - lipoyl_denovo
     - lipoyl_scavenging
-default_sigma_factor: HP_RS05070-MONOMER
+default_sigma_factor: HP_RS00445-MONOMER
 defer_to_rxn_matrix:
 - BIOMASS_HP_published
 - FMETTRS

@@ -89,6 +89,7 @@ YPO0313-MONOMER,Inner_Membrane,YPO0313(),Inner_Membrane,r
 YPO2744-MONOMER,Outer_Membrane,YPO2744(),Outer_Membrane,sb
 YPO2782-MONOMER,Inner_Membrane,YPO2782(),Inner_Membrane,r
 YPO2904-MONOMER,Inner_Membrane,YPO2904(),Inner_Membrane,r
+YPO_RS22270-MONOMER,Periplasm,YPO_RS22270(),Periplasm,s
 YPO3837-MONOMER,Inner_Membrane,YPO3837(),Inner_Membrane,p
 YPO0649-MONOMER,Inner_Membrane,YPO0649(),Inner_Membrane,r
 YPO3086-MONOMER,Inner_Membrane,YPO3086(),Inner_Membrane,r
@@ -105,6 +106,7 @@ YPO2361-MONOMER,Inner_Membrane,YPO2361(),Inner_Membrane,r
 YPO2922-MONOMER,Periplasm,YPO2922(),Periplasm,s
 YPO1648-MONOMER,Periplasm,YPO1648(),Periplasm,s
 YPO2982-MONOMER,Inner_Membrane,YPO2982(),Inner_Membrane,r
+YPO1172-MONOMER,Inner_Membrane,YPO1172(),Inner_Membrane,r
 YPO1117-MONOMER,Inner_Membrane,YPO1117(),Inner_Membrane,r
 CPLX_CYTBD2pp-0,Inner_Membrane,YPO1117(),Inner_Membrane,r
 YPO1118-MONOMER,Inner_Membrane,YPO1118(),Inner_Membrane,r
@@ -177,6 +179,7 @@ YPO2512-MONOMER,Inner_Membrane,YPO2512(),Periplasm,s
 CPLX_GLNabcpp-0,Inner_Membrane,YPO2512(),Periplasm,s
 YPO2513-MONOMER,Inner_Membrane,YPO2513(),Inner_Membrane,r
 CPLX_GLNabcpp-0,Inner_Membrane,YPO2513(),Inner_Membrane,r
+YPO0526-MONOMER,Inner_Membrane,YPO0526(),Inner_Membrane,r
 YPO2957-MONOMER,Outer_Membrane,YPO2957(),Outer_Membrane,pla
 YPO2421-MONOMER,Inner_Membrane,YPO2421(),Inner_Membrane,r
 YPO3481-MONOMER,Outer_Membrane,YPO3481(),Outer_Membrane,pla
@@ -193,6 +196,7 @@ YPO3390-MONOMER,Inner_Membrane,YPO3390(),Inner_Membrane,r
 CPLX_FE3DCITabcpp-0,Inner_Membrane,YPO3390(),Inner_Membrane,r
 YPO2774-MONOMER,Inner_Membrane,YPO2774(),Periplasm,s
 CPLX_HISabcpp-0,Inner_Membrane,YPO2774(),Periplasm,s
+YPO2027-MONOMER,Inner_Membrane,YPO2027(),Inner_Membrane,r
 YPO4117-MONOMER,Inner_Membrane,YPO4117(),Periplasm,s
 CPLX_PIuabcpp-0,Inner_Membrane,YPO4117(),Periplasm,s
 YPO4115-MONOMER,Inner_Membrane,YPO4115(),Inner_Membrane,r
@@ -312,12 +316,15 @@ CPLX_ASPabcpp-0,Inner_Membrane,YPO2613(),Inner_Membrane,r
 YPO2601-MONOMER,Inner_Membrane,YPO2601(),Inner_Membrane,r
 YPO4001-MONOMER,Inner_Membrane,YPO4001(),Inner_Membrane,r
 CPLX_ALAALAabcpp-0,Inner_Membrane,YPO4001(),Inner_Membrane,r
+YPO4002-MONOMER,Inner_Membrane,YPO4002(),Inner_Membrane,r
+CPLX_ALAALAabcpp-0,Inner_Membrane,YPO4002(),Inner_Membrane,r
 YPO4003-MONOMER,Inner_Membrane,YPO4003(),Periplasm,s
 CPLX_ALAALAabcpp-0,Inner_Membrane,YPO4003(),Periplasm,s
 YPO1276-MONOMER,Inner_Membrane,YPO1276(),Inner_Membrane,r
 YPO1199-MONOMER,Inner_Membrane,YPO1199(),Inner_Membrane,r
 CPLX_GLYBabcpp-0,Inner_Membrane,YPO1199(),Inner_Membrane,r
 YPO1197-MONOMER,Inner_Membrane,YPO1197(),Inner_Membrane,r
+YPO1195-MONOMER,Inner_Membrane,YPO1195(),Periplasm,s
 YPO2184-MONOMER,Inner_Membrane,YPO2184(),Inner_Membrane,r
 YPO2183-MONOMER,Inner_Membrane,YPO2183(),Inner_Membrane,r
 YPO2182-MONOMER,Inner_Membrane,YPO2182(),Periplasm,s
@@ -394,7 +401,6 @@ YPO0280-MONOMER,Inner_Membrane,YPO0280(),Inner_Membrane,r
 YPO0132-MONOMER,Inner_Membrane,YPO0132(),Inner_Membrane,r
 YPO3866-MONOMER,Inner_Membrane,YPO3866(),Inner_Membrane,r
 YPO0034-MONOMER,Inner_Membrane,YPO0034(),Inner_Membrane,r
-YPO3450-MONOMER,Inner_Membrane,YPO3450(),Inner_Membrane,r
 YPO3451-MONOMER,Inner_Membrane,YPO3451(),Inner_Membrane,r
 YPO2394-MONOMER,Outer_Membrane,YPO2394(),Outer_Membrane,pla
 CPLX_ALPATE160pp-0,Outer_Membrane,YPO2394(),Outer_Membrane,pla
@@ -403,6 +409,7 @@ YPO0182-MONOMER,Inner_Membrane,YPO0182(),Periplasm,s
 YPO0184-MONOMER,Inner_Membrane,YPO0184(),Inner_Membrane,r
 YPO3910-MONOMER,Outer_Membrane,YPO3910(),Outer_Membrane,sb
 CPLX_FE3DCITtonex-0,Outer_Membrane,YPO3910(),Outer_Membrane,sb
+YPO3198-MONOMER,Periplasm,YPO3198(),Periplasm,s
 YPO3388-MONOMER,Inner_Membrane,YPO3388(),Inner_Membrane,r
 YPO1582-MONOMER,Inner_Membrane,YPO1582(),Inner_Membrane,r
 YPO0647-MONOMER,Inner_Membrane,YPO0647(),Inner_Membrane,r

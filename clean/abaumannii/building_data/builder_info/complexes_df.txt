@@ -324,7 +324,7 @@ ABAYE_RS00265-MONOMER,antibiotic biosynthesis monooxygenase,ABAYE_RS00265(),BioC
 ABAYE_RS12920-MONOMER,aspartate carbamoyltransferase,ABAYE_RS12920(4),BioCyc
 ABAYE_RS14070-MONOMER,inorganic phosphate transporter,ABAYE_RS14070(1),BioCyc
 ABAYE_RS19210-MONOMER,5-(carboxyamino)imidazole ribonucleotide mutase,ABAYE_RS19210(8),BioCyc
-ABAYE_RS00205-MONOMER,S-formylglutathione hydrolase,ABAYE_RS00205(),BioCyc
+ABAYE_RS00205-MONOMER,S-formylglutathione hydrolase,ABAYE_RS00205(1),BioCyc
 ABAYE_RS10395-MONOMER,ribonuclease E inhibitor RraA,ABAYE_RS10395(),BioCyc
 ABAYE_RS08350-MONOMER,SulP family inorganic anion transporter,ABAYE_RS08350(1),BioCyc
 ABAYE_RS11180-MONOMER,DUF1427 domain-containing protein,ABAYE_RS11180(),BioCyc
@@ -432,7 +432,7 @@ ABAYE_RS09110-MONOMER,DUF2247 domain-containing protein,ABAYE_RS09110(),BioCyc
 ABAYE_RS12480-MONOMER,DUF1949 domain-containing protein,ABAYE_RS12480(),BioCyc
 ABAYE_RS15960-MONOMER,copper resistance system multicopper oxidase,ABAYE_RS15960(),BioCyc
 ABAYE_RS02245-MONOMER,endonuclease,ABAYE_RS02245(),BioCyc
-ABAYE_RS00235-MONOMER,drug/metabolite DMT transporter permease,ABAYE_RS00235(),BioCyc
+ABAYE_RS00235-MONOMER,drug/metabolite DMT transporter permease,ABAYE_RS00235(1),BioCyc
 ABAYE_RS11175-MONOMER,arsenate reductase (glutaredoxin),ABAYE_RS11175(),BioCyc
 ABAYE_RS01660-MONOMER,hypothetical protein,ABAYE_RS01660(),BioCyc
 ABAYE_RS03570-MONOMER,ATP:cob(I)alamin adenosyltransferase,ABAYE_RS03570(),BioCyc
@@ -522,7 +522,7 @@ ABAYE_RS12275-MONOMER,sel1 repeat family protein,ABAYE_RS12275(),BioCyc
 ABAYE_RS18560-MONOMER,PadR family transcriptional regulator,ABAYE_RS18560(),BioCyc
 ABAYE_RS11640-MONOMER,MFS transporter,ABAYE_RS11640(),BioCyc
 ABAYE_RS10130-MONOMER,DUF937 domain-containing protein,ABAYE_RS10130(),BioCyc
-ABAYE_RS07195-MONOMER,drug/metabolite DMT transporter permease,ABAYE_RS07195(1),BioCyc
+ABAYE_RS07195-MONOMER,drug/metabolite DMT transporter permease,ABAYE_RS07195(),BioCyc
 ABAYE_RS17080-MONOMER,Na+/H+ antiporter subunit G,ABAYE_RS17080(),BioCyc
 ABAYE_RS10220-MONOMER,hypothetical protein,ABAYE_RS10220(),BioCyc
 ABAYE_RS07320-MONOMER,50S ribosomal protein L9,ABAYE_RS07320(1),BioCyc
@@ -534,7 +534,7 @@ ABAYE_RS18945-MONOMER,FKBP-type peptidyl-prolyl cis-trans isomerase,ABAYE_RS1894
 ABAYE_RS05970-MONOMER,uroporphyrinogen decarboxylase,ABAYE_RS05970(1),BioCyc
 ABAYE_RS15495-MONOMER,copper resistance system multicopper oxidase,ABAYE_RS15495(1),BioCyc
 ABAYE_RS03995-MONOMER,P-nitrobenzoate reductase NfnB,ABAYE_RS03995(),BioCyc
-ABAYE_RS00540-MONOMER,hypothetical protein,ABAYE_RS00540(),BioCyc
+ABAYE_RS00540-MONOMER,hypothetical protein,ABAYE_RS00540(2),BioCyc
 ABAYE_RS18730-MONOMER,RidA family protein,ABAYE_RS18730(),BioCyc
 ABAYE_RS16065-MONOMER,tRNA dihydrouridine(20/20a) synthase DusA,ABAYE_RS16065(1),BioCyc
 ABAYE_RS08370-MONOMER,GGDEF domain-containing protein,ABAYE_RS08370(),BioCyc
@@ -1896,7 +1896,7 @@ ABAYE_RS13370-MONOMER,hypothetical protein,ABAYE_RS13370(),BioCyc
 ABAYE_RS08105-MONOMER,molybdenum cofactor biosynthesis protein MoaE,ABAYE_RS08105(1),BioCyc
 ABAYE_RS15475-MONOMER,glycosyl transferase,ABAYE_RS15475(),BioCyc
 ABAYE_RS08205-MONOMER,TetR/AcrR family transcriptional regulator,ABAYE_RS08205(),BioCyc
-ABAYE_RS15520-MONOMER,S-formylglutathione hydrolase,ABAYE_RS15520(1),BioCyc
+ABAYE_RS15520-MONOMER,S-formylglutathione hydrolase,ABAYE_RS15520(),BioCyc
 ABAYE_RS06510-MONOMER,DUF423 domain-containing protein,ABAYE_RS06510(),BioCyc
 ABAYE_RS17060-MONOMER,Na+/H+ antiporter subunit C,ABAYE_RS17060(),BioCyc
 ABAYE_RS10850-MONOMER,biotin synthase,ABAYE_RS10850(2),BioCyc
@@ -2169,7 +2169,7 @@ ABAYE_RS00820-MONOMER,PQQ-dependent sugar dehydrogenase,ABAYE_RS00820(1),BioCyc
 ABAYE_RS02465-MONOMER,magnesium transporter,ABAYE_RS02465(1),BioCyc
 ABAYE_RS15020-MONOMER,GntR family transcriptional regulator,ABAYE_RS15020(),BioCyc
 ABAYE_RS01170-MONOMER,ureidoglycolate lyase,ABAYE_RS01170(1),BioCyc
-ABAYE_RS09595-MONOMER,S-(hydroxymethyl)glutathione dehydrogenase/class III alcohol dehydrogenase,ABAYE_RS09595(2),BioCyc
+ABAYE_RS09595-MONOMER,S-(hydroxymethyl)glutathione dehydrogenase/class III alcohol dehydrogenase,ABAYE_RS09595(),BioCyc
 ABAYE_RS11255-MONOMER,hypothetical protein,ABAYE_RS11255(),BioCyc
 ABAYE_RS05780-MONOMER,BCCT family transporter,ABAYE_RS05780(),BioCyc
 ABAYE_RS13795-MONOMER,23S rRNA (pseudouridine(1915)-N(3))-methyltransferase RlmH,ABAYE_RS13795(2),BioCyc
@@ -2253,7 +2253,7 @@ ABAYE_RS13825-MONOMER,adenylate kinase,ABAYE_RS13825(1),BioCyc
 ABAYE_RS02805-MONOMER,NAD(P)H:quinone oxidoreductase,ABAYE_RS02805(),BioCyc
 ABAYE_RS14815-MONOMER,DNA primase,ABAYE_RS14815(),BioCyc
 ABAYE_RS20020-MONOMER,IS91 family transposase,ABAYE_RS20020(),BioCyc
-ABAYE_RS13960-MONOMER,rubredoxin,ABAYE_RS13960(4),BioCyc
+ABAYE_RS13960-MONOMER,rubredoxin,ABAYE_RS13960(),BioCyc
 ABAYE_RS11730-MONOMER,sulfate ABC transporter ATP-binding protein,ABAYE_RS11730(),BioCyc
 CPLX-9286,diaminobutyrate&mdash;2-oxoglutarate transaminase,ABAYE_RS05585(1),BioCyc
 ABAYE_RS02375-MONOMER,DNA metabolism protein,ABAYE_RS02375(),BioCyc
@@ -2502,7 +2502,7 @@ ABAYE_RS08595-MONOMER,hypothetical protein,ABAYE_RS08595(),BioCyc
 ABAYE_RS04655-MONOMER,molecular chaperone GroEL,ABAYE_RS04655(14),BioCyc
 ABAYE_RS09115-MONOMER,SMI1/KNR4 family protein,ABAYE_RS09115(),BioCyc
 ABAYE_RS12240-MONOMER,DUF1989 domain-containing protein,ABAYE_RS12240(),BioCyc
-ABAYE_RS00210-MONOMER,S-(hydroxymethyl)glutathione dehydrogenase/class III alcohol dehydrogenase,ABAYE_RS00210(),BioCyc
+ABAYE_RS00210-MONOMER,S-(hydroxymethyl)glutathione dehydrogenase/class III alcohol dehydrogenase,ABAYE_RS00210(2),BioCyc
 ABAYE_RS18445-MONOMER,hypothetical protein,ABAYE_RS18445(),BioCyc
 ABAYE_RS09995-MONOMER,transcriptional regulator,ABAYE_RS09995(),BioCyc
 ABAYE_RS06620-MONOMER,hypothetical protein,ABAYE_RS06620(),BioCyc
@@ -3281,7 +3281,7 @@ ABAYE_RS10470-MONOMER,MotA/TolQ/ExbB proton channel family protein,ABAYE_RS10470
 ABAYE_RS13805-MONOMER,META domain-containing protein,ABAYE_RS13805(),BioCyc
 ABAYE_RS19325-MONOMER,membrane protein insertase YidC,ABAYE_RS19325(1),BioCyc
 ABAYE_RS00515-MONOMER,hypothetical protein,ABAYE_RS00515(),BioCyc
-ABAYE_RS02585-MONOMER,30S ribosomal protein S3,ABAYE_RS02585(),BioCyc
+ABAYE_RS02585-MONOMER,30S ribosomal protein S3,ABAYE_RS02585(1),BioCyc
 ABAYE_RS08970-MONOMER,"2,4-dienoyl-CoA reductase",ABAYE_RS08970(),BioCyc
 ABAYE_RS09300-MONOMER,hypothetical protein,ABAYE_RS09300(),BioCyc
 ABAYE_RS07075-MONOMER,hypothetical protein,ABAYE_RS07075(),BioCyc
@@ -3867,7 +3867,7 @@ ABAYE_RS20570-MONOMER,hypothetical protein,ABAYE_RS20570(),GenBank
 ABAYE_RS20890-MONOMER,KGW motif small protein,ABAYE_RS20890(),GenBank
 ABAYE_RS20185-MONOMER,hypothetical protein,ABAYE_RS20185(),GenBank
 ABAYE_RS20190-MONOMER,hypothetical protein,ABAYE_RS20190(),GenBank
-ABAYE_RS20750-MONOMER,rubredoxin,ABAYE_RS20750(),GenBank
+ABAYE_RS20750-MONOMER,rubredoxin,ABAYE_RS20750(4),GenBank
 ABAYE_RS20440-MONOMER,hypothetical protein,ABAYE_RS20440(),GenBank
 ABAYE_RS20195-MONOMER,hypothetical protein,ABAYE_RS20195(),GenBank
 ABAYE_RS20200-MONOMER,hypothetical protein,ABAYE_RS20200(),GenBank

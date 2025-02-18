@@ -2214,6 +2214,7 @@
         {
             "msg": "Some genes show homology, but no metabolic function.",
             "triggered_by": [
+                "SGL_RS01540 <-> b3503",
                 "SGL_RS01920 <-> b2411",
                 "SGL_RS01950 <-> b2155",
                 "SGL_RS02025 <-> b0150",

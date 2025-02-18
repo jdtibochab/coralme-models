@@ -1,4 +1,4 @@
 release_factor	enzyme
+UAA	generic_RF
 UAG	
 UGA	
-UAA	generic_RF

@@ -239,6 +239,25 @@ G12WB-4611
 **********Solution:
 Complete Accession-1 IDs in genes.txt if those genes are important.
 
+#################### medium@org.read_gene_dictionary ####################
+********** Some genes are missing product definition in genes.txt
+The following items triggered the warning:
+G12WB-4608
+G12WB-4459
+G12WB-4216
+G12WB-2456
+G12WB-4221
+G12WB-261
+G12WB-1964
+G12WB-877
+G12WB-4223
+G12WB-3866
+G12WB-2374
+G12WB-967
+
+**********Solution:
+Complete products in genes.txt if those genes are important.
+
 
 
 
@@ -601,6 +620,8 @@ The following items triggered the warning:
 
 {"subreaction": "gtp_bound_30S_assembly_factor_phase1", "defined_complex": "", "inferred_complex": "G12WB-2590-MONOMER"}
 
+{"subreaction": "RbfA_mono_assembly_factor_phase1", "defined_complex": "", "inferred_complex": "G12WB-1446-MONOMER"}
+
 {"subreaction": "RimM_mono_assembly_factor_phase1", "defined_complex": "", "inferred_complex": "G12WB-1389-MONOMER"}
 
 **********Solution:
@@ -748,10 +769,10 @@ Manually curate the M-model to correct GPRs or incorporate new reactions.
 ********** Some metabolites are necessary for growth
 The following items triggered the warning:
 TS_accoa_c
-TS_4fe4s_c
 TS_pydx5p_c
-TS_mn2_c
 TS_pan4p_c
+TS_mn2_c
+TS_4fe4s_c
 TS_cbl1_c
 
 **********Solution:

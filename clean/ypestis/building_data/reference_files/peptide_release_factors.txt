@@ -1,4 +1,4 @@
 codon	enzyme
+UAA	generic_RF
 UAG	YPO2017-MONOMER
 UGA	YPO0889-MONOMER
-UAA	generic_RF

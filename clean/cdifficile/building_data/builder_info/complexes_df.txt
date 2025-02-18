@@ -2647,7 +2647,7 @@ G12WB-1215-MONOMER,excisionase,CD630_10920(),BioCyc
 G12WB-2834-MONOMER,pyruvate-ferredoxin oxidoreductase,CD630_26820(1),BioCyc
 G12WB-862-MONOMER,"amino acid family ABC transporter, substrate-binding protein",CD630_07500(),BioCyc
 G12WB-3170-MONOMER,IclR family transcriptional regulator,CD630_30050(),BioCyc
-G12WB-1446-MONOMER,ribosome-binding factor A,CD630_13100(),BioCyc
+G12WB-1446-MONOMER,ribosome-binding factor A,CD630_13100(1),BioCyc
 G12WB-1792-MONOMER,lipoprotein,CD630_16530(),BioCyc
 G12WB-2150-MONOMER,MarR family transcriptional regulator,CD630_20040(),BioCyc
 G12WB-3684-MONOMER,type IV prepilin leader peptidase,CD630_35030(),BioCyc

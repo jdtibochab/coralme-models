@@ -1,4 +1,4 @@
 codon	enzyme
+UAA	generic_RF
 UAG	SGL_RS18110-MONOMER
 UGA	SGL_RS12270-MONOMER
-UAA	generic_RF

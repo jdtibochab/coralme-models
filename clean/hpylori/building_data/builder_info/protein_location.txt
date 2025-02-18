@@ -376,6 +376,7 @@ CPLX2DNV-964,Inner_Membrane,HP1267(),Inner_Membrane,r
 CPLX2DNV-964,Inner_Membrane,HP1273(),Inner_Membrane,r
 CPLX2DNV-1044,Inner_Membrane,HP0828(),Inner_Membrane,p
 CPLX2DNV-979,Inner_Membrane,HP0828(),Inner_Membrane,p
+HP_RS00705-MONOMER,Inner_Membrane,HP0143(),Inner_Membrane,r
 CPLX2DNV-1041,Inner_Membrane,HP0633(),Inner_Membrane,r
 CPLX_HYDA1-0,Inner_Membrane,HP0633(),Inner_Membrane,r
 CPLX2DNV-1041,Inner_Membrane,HP0631(),Inner_Membrane,t
@@ -396,6 +397,7 @@ CPLX2DNV-1169,Inner_Membrane,HP1331(),Inner_Membrane,r
 CPLX2DNV-1182,Inner_Membrane,HP1564(),Inner_Membrane,pa
 CPLX2DNV-1182,Inner_Membrane,HP1577(),Inner_Membrane,r
 CPLX2DNV-1045,Inner_Membrane,HP0473(),Periplasm,s
+HP_RS03930-MONOMER,Outer_Membrane,HP0807(),Outer_Membrane,sb
 CPLX2DNV-1087,Inner_Membrane,HP0889(),Inner_Membrane,r
 HP_RS05490-MONOMER,Periplasm,HP1118(),Periplasm,s
 MONOMER2DNV-9,Periplasm,HP1118(),Periplasm,s

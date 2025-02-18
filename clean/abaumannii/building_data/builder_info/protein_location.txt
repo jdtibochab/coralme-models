@@ -1054,6 +1054,7 @@ CPLX1SOZ-24,Inner_Membrane,ABAYE_RS18475(),Inner_Membrane,r
 CPLX1SOZ-24,Inner_Membrane,ABAYE_RS18450(),Inner_Membrane,y
 CPLX1SOZ-24,Inner_Membrane,ABAYE_RS18485(),Inner_Membrane,p
 CPLX1SOZ-24,Inner_Membrane,ABAYE_RS18480(),Inner_Membrane,r
+ABAYE_RS01340-MONOMER,Outer_Membrane,ABAYE_RS01340(),Outer_Membrane,sb
 ABAYE_RS01870-MONOMER,Outer_Membrane,ABAYE_RS01870(),Periplasm,s
 CPLX1SOZ-32,Inner_Membrane,ABAYE_RS07495(),Inner_Membrane,r
 CPLX1SOZ-34,Inner_Membrane,ABAYE_RS05625(),Inner_Membrane,r

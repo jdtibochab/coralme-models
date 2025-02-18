@@ -1,4 +1,4 @@
 codon	enzyme
+UAA	generic_RF
 UAG	STM1776-MONOMER
 UGA	STM3041-MONOMER
-UAA	generic_RF

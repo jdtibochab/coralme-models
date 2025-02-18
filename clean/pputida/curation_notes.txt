@@ -206,6 +206,74 @@ Make sure these metabolites are removed or connected properly
 
 
 
+#################### medium@org.read_gene_dictionary ####################
+********** Some genes are missing product definition in genes.txt
+The following items triggered the warning:
+G1G01-5755
+G1G01-4358
+G1G01-3640
+G1G01-2554
+G1G01-548
+G1G01-4352
+G1G01-3437
+G1G01-2031
+G1G01-5218
+G1G01-4290
+G1G01-3300
+G1G01-1241
+G1G01-4842
+G1G01-4050
+G1G01-3146
+G1G01-4630
+G1G01-3927
+G1G01-2758
+G1G01-713
+G1G01-4361
+G1G01-3705
+G1G01-2703
+G1G01-5725
+G1G01-4354
+G1G01-3557
+G1G01-232
+G1G01-5225
+G1G01-4340
+G1G01-3319
+G1G01-1257
+G1G01-4843
+G1G01-4238
+G1G01-3207
+G1G01-4686
+G1G01-4005
+G1G01-2811
+G1G01-4463
+G1G01-3911
+G1G01-2705
+G1G01-5754
+G1G01-4355
+G1G01-3567
+G1G01-233
+G1G01-5474
+G1G01-4348
+G1G01-3328
+G1G01-1899
+G1G01-5079
+G1G01-4249
+G1G01-3261
+G1G01-1058
+G1G01-4717
+G1G01-4049
+G1G01-298
+G1G01-4625
+G1G01-3912
+G1G01-275
+G1G01-5067
+
+**********Solution:
+Complete products in genes.txt if those genes are important.
+
+
+
+
 #################### medium@org.generate_complexes_df ####################
 ********** Some proteins have no genes in proteins.txt
 The following items triggered the warning:

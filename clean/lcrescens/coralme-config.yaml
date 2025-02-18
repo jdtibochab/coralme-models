@@ -93,7 +93,7 @@ percent_dna_data:
 - 0.0208
 pg_pe_160:
 - B488_RS06050-MONOMER
-- B488_13060-MONOMER
+- B488_RS06355-MONOMER
 rna_polymerases:
   RNAP_B488RS05700MONOMER:
     polymerase: CPLX27KH-14_mod_zn2(1)_mod_mg2(2)

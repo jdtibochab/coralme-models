@@ -1,6 +1,6 @@
 Complex,Complex_compartment,Protein,Protein_compartment,translocase_pathway
 LLMG_RS09135-MONOMER,Periplasm,LLMG_RS09135(),Periplasm,s
-LLMG_RS03055-MONOMER,Inner_Membrane,LLMG_RS03055(),Inner_Membrane,r
+LLMG_RS03050-MONOMER,Inner_Membrane,LLMG_RS03050(),Inner_Membrane,r
 LLMG_RS08440-MONOMER,Inner_Membrane,LLMG_RS08440(),Inner_Membrane,r
 LLMG_RS05570-MONOMER,Inner_Membrane,LLMG_RS05570(),Inner_Membrane,r
 LLMG_RS03390-MONOMER,Inner_Membrane,LLMG_RS03390(),Inner_Membrane,r

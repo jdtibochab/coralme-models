@@ -481,7 +481,7 @@ Confirm whether the definitions or homology calls are correct in me_builder.org.
 ********** Some enzymes identified in me_builder.org.amino_acid_trna_synthetase are different from the ones inferred from homology
 The following items triggered the warning:
 
-{"amino_acid": "met__L_c", "inferred_ligase": "generic_met_ligase", "homology_ligase": "B488_08000-MONOMER_mod_zn2(2)"}
+{"amino_acid": "met__L_c", "inferred_ligase": "generic_met_ligase", "homology_ligase": "B488_RS03830-MONOMER_mod_zn2(2)"}
 
 **********Solution:
 Confirm whether the definitions or homology calls are correct in me_builder.org.amino_acid_trna_synthetase. Curate the inputs in amino_acid_trna_synthetase.txt accordingly.
@@ -605,13 +605,13 @@ Manually curate the M-model to correct GPRs or incorporate new reactions.
 ********** Some metabolites are necessary for growth
 The following items triggered the warning:
 TS_pydx5p_c
+TS_hco3_c
 TS_k_c
-TS_pi_c
-TS_zn2_c
 TS_mg2_c
 TS_mn2_c
 TS_hemed_c
 TS_dpm_c
+TS_zn2_c
 
 **********Solution:
 Fix the gaps by adding reactions or solving other warnings. If some items are from the E-matrix, fix these first!

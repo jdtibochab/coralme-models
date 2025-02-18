@@ -961,7 +961,7 @@ BSU40980-MONOMER,putative antibiotic immunity protein,BSU40980(),BioCyc
 BSU12680-MONOMER,phage PBSX; putative tape measure protein,BSU12680(),BioCyc
 BSU01630-MONOMER,ferri-bacillibactin-binding lipoprotein,BSU01630(),BioCyc
 BSU20310-MONOMER,conserved hypothetical protein; phage SPbeta,BSU20310(),BioCyc
-BSU22660-MONOMER,indole-3-glycerol phosphate synthase,BSU22660(),BioCyc
+BSU22660-MONOMER,indole-3-glycerol phosphate synthase,BSU22660(1),BioCyc
 BSU26300-MONOMER,hypothetical protein; skin element,BSU26300(),BioCyc
 BSU37030-MONOMER,chromosome-pole-anchoring protein RacA,BSU37030(),BioCyc
 BSU13890-MONOMER,phosphotransferase system (PTS) glucose-specific enzyme IICBA component,BSU13890(),BioCyc
@@ -1344,7 +1344,7 @@ BSU12672-MONOMER,phage PBSX; conserved hypothetical protein,BSU12672(),BioCyc
 BSU17380-MONOMER,ribonucleoside-diphosphate reductase (major subunit),BSU17380(),BioCyc
 BSU31090-MONOMER,potassium uptake protein,BSU31090(),BioCyc
 BSU10110-MONOMER,penicillin-binding protein 2C (1F class) required for spore germination,BSU10110(),BioCyc
-BSU22650-MONOMER,phosphoribosylanthranilate isomerase,BSU22650(1),BioCyc
+BSU22650-MONOMER,phosphoribosylanthranilate isomerase,BSU22650(),BioCyc
 BSU34660-MONOMER,putative anion transporter,BSU34660(1),BioCyc
 BSU09030-MONOMER,hypothetical membrane protein,BSU09030(),BioCyc
 BSU11110-MONOMER,fatty acid kinase fatty acid binding subunit B,BSU11110(),BioCyc
