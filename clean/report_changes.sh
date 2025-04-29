@@ -9,5 +9,5 @@ do
     
     # Get relevant differences in files
     echo "====================>" $i >> final_output.txt  >> diff_report.txt
-    git diff $i | grep -e "Troubleshooter" -e "Gapfilled" >> diff_report.txt
+    git diff $i | grep -e "Troubleshooter" -e "Gapfilled" -e "Error" >> diff_report.txt
 done
