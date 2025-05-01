@@ -1,5 +1,5 @@
 ,value
-rRNA_containing,"{'enzymes': ['YPO1590-MONOMER_mod_zn2(2)', 'generic_RNase', 'YPO2718-MONOMER_mod_mg2(2)', 'YPO3669-MONOMER', 'YPO2382-MONOMER_mod_mg2(4)']}"
-monocistronic,"{'enzymes': ['YPO1590-MONOMER_mod_zn2(2)', 'generic_RNase']}"
-polycistronic_wout_rRNA,"{'enzymes': ['YPO1590-MONOMER_mod_zn2(2)', 'generic_RNase', 'YPO2718-MONOMER', 'YPO3669-MONOMER', 'YPO2382-MONOMER_mod_mg2(4)']}"
-RNA_degradosome,"{'enzymes': ['YPO3376-MONOMER_mod_mg2(4)', 'YPO3490-MONOMER', 'YPO1590-MONOMER_mod_zn2(2)', 'YPO3869-MONOMER', 'YPO0366-MONOMER_mod_mg2(2)']}"
+rRNA_containing,{'enzymes': ['YPO2718-MONOMER']}
+monocistronic,{'enzymes': ['generic_RNase']}
+polycistronic_wout_rRNA,{'enzymes': ['generic_RNase']}
+RNA_degradosome,"{'enzymes': ['YPO3490-MONOMER', 'YPO0078-MONOMER', 'YPO3376-MONOMER']}"

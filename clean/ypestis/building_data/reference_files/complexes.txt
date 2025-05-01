@@ -1,10 +1,10 @@
 ,name,genes,source
 YPO0001-MONOMER,FMN-binding protein MioC,YPO0001(),GenBank
 YPO0002-MONOMER,transcriptional regulator AsnC,YPO0002(),GenBank
-YPO0003-MONOMER,aspartate--ammonia ligase,YPO0003(2),GenBank
+YPO0003-MONOMER,aspartate--ammonia ligase,YPO0003(),GenBank
 YPO0004-MONOMER,ATPase RavA stimulator ViaA,YPO0004(),GenBank
 YPO0005-MONOMER,ATPase RavA,YPO0005(),GenBank
-YPO0006-MONOMER,low affinity potassium transporter Kup,YPO0006(1),GenBank
+YPO0006-MONOMER,low affinity potassium transporter Kup,YPO0006(),GenBank
 YPO0007-MONOMER,D-ribose pyranase,YPO0007(),GenBank
 YPO0008-MONOMER,ribokinase,YPO0008(2),GenBank
 YPO_RS01050-MONOMER,hypothetical protein,YPO_RS01050(),GenBank
@@ -12,15 +12,15 @@ YPO0009-MONOMER,multidrug transporter subunit MdtD,YPO0009(),GenBank
 YPO0010-MONOMER,FadR/GntR family transcriptional regulator,YPO0010(),GenBank
 YPO0011-MONOMER,IS256 family transposase,YPO0011(),GenBank
 YPO0012-MONOMER,molybdopterin-guanine dinucleotide biosynthesis protein MobB,YPO0012(),GenBank
-YPO0013-MONOMER,molybdenum cofactor guanylyltransferase MobA,YPO0013(1),GenBank
+YPO0013-MONOMER,molybdenum cofactor guanylyltransferase MobA,YPO0013(),GenBank
 YPO0013a-MONOMER,YihD family protein,YPO0013a(),GenBank
 YPO0014-MONOMER,serine/threonine protein kinase,YPO0014(),GenBank
-YPO0015-MONOMER,thiol:disulfide interchange protein DsbA,YPO0015(1),GenBank
+YPO0015-MONOMER,thiol:disulfide interchange protein DsbA,YPO0015(),GenBank
 YPO0017-MONOMER,DNA polymerase I,YPO0017(),GenBank
 YPO0018-MONOMER,IS200/IS605-like element IS1541B family transposase,YPO0018(),GenBank
 YPO0019-MONOMER,ribosome biogenesis GTP-binding protein YihA/YsxC,YPO0019(),GenBank
 YPO0020-MONOMER,Der GTPase-activating protein YihI,YPO0020(),GenBank
-YPO0021-MONOMER,oxygen-independent coproporphyrinogen III oxidase,YPO0021(1),GenBank
+YPO0021-MONOMER,oxygen-independent coproporphyrinogen III oxidase,YPO0021(),GenBank
 YPO0022-MONOMER,nitrogen regulation protein NR(I),YPO0022(),GenBank
 YPO0023-MONOMER,nitrogen regulation protein NR(II),YPO0023(),GenBank
 YPO0024-MONOMER,glutamate--ammonia ligase,YPO0024(12),GenBank
@@ -32,40 +32,40 @@ YPO0030-MONOMER,IS21-like element IS100kyp family helper ATPase IstB,YPO0030(),G
 YPO0031-MONOMER,IS21-like element IS100 family transposase,YPO0031(),GenBank
 YPO0032-MONOMER,fatty acid biosynthesis protein FabY,YPO0032(),GenBank
 YPO0033-MONOMER,hypothetical protein,YPO0033(),GenBank
-YPO0034-MONOMER,uracil-xanthine permease family protein,YPO0034(1),GenBank
-YPO0035-MONOMER,sodium/glutamate symporter,YPO0035(1),GenBank
+YPO0034-MONOMER,uracil-xanthine permease family protein,YPO0034(),GenBank
+YPO0035-MONOMER,sodium/glutamate symporter,YPO0035(),GenBank
 YPO_RS01210-MONOMER,gluconate 5-dehydrogenase,YPO_RS01210(),GenBank
 YPO0036-MONOMER,ATP-dependent DNA helicase RecG,YPO0036(),GenBank
-YPO0037-MONOMER,tRNA (guanosine(18)-2'-O)-methyltransferase TrmH,YPO0037(2),GenBank
+YPO0037-MONOMER,tRNA (guanosine(18)-2'-O)-methyltransferase TrmH,YPO0037(),GenBank
 YPO0038-MONOMER,"bifunctional GTP diphosphokinase/guanosine-3',5'-bis pyrophosphate 3'-pyrophosphohydrolase",YPO0038(1),GenBank
-YPO0039-MONOMER,DNA-directed RNA polymerase subunit omega,YPO0039(1),GenBank
+YPO0039-MONOMER,DNA-directed RNA polymerase subunit omega,YPO0039(),GenBank
 YPO0040-MONOMER,guanylate kinase,YPO0040(2),GenBank
 YPO0041-MONOMER,NAD-dependent DNA ligase LigB,YPO0041(),GenBank
 YPO0042-MONOMER,trimeric intracellular cation channel family protein,YPO0042(),GenBank
 YPO0043-MONOMER,YicC family protein,YPO0043(),GenBank
 YPO0044-MONOMER,ribonuclease PH,YPO0044(1),GenBank
-YPO0045-MONOMER,orotate phosphoribosyltransferase,YPO0045(2),GenBank
+YPO0045-MONOMER,orotate phosphoribosyltransferase,YPO0045(),GenBank
 YPO0046-MONOMER,nucleoid occlusion factor SlmA,YPO0046(),GenBank
-YPO0047-MONOMER,dUTP diphosphatase,YPO0047(3),GenBank
+YPO0047-MONOMER,dUTP diphosphatase,YPO0047(),GenBank
 YPO0048-MONOMER,bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate--cysteine ligase CoaBC,YPO0048(12),GenBank
 YPO0049-MONOMER,DNA repair protein RadC,YPO0049(),GenBank
-YPO0050-MONOMER,50S ribosomal protein L28,YPO0050(1),GenBank
-YPO0051-MONOMER,50S ribosomal protein L33,YPO0051(1),GenBank
+YPO0050-MONOMER,50S ribosomal protein L28,YPO0050(),GenBank
+YPO0051-MONOMER,50S ribosomal protein L33,YPO0051(),GenBank
 YPO0052-MONOMER,bifunctional DNA-formamidopyrimidine glycosylase/DNA-(apurinic or apyrimidinic site) lyase,YPO0052(),GenBank
 YPO0053-MONOMER,pantetheine-phosphate adenylyltransferase,YPO0053(6),GenBank
 YPO0054-MONOMER,glycosyltransferase family 2 protein,YPO0054(),GenBank
-YPO0055-MONOMER,lipid IV(A) 3-deoxy-D-manno-octulosonic acid transferase,YPO0055(1),GenBank
-YPO0056-MONOMER,lipopolysaccharide heptosyltransferase RfaC,YPO0056(1),GenBank
-YPO0057-MONOMER,ADP-heptose--LPS heptosyltransferase RfaF,YPO0057(1),GenBank
-YPO0058-MONOMER,ADP-glyceromanno-heptose 6-epimerase,YPO0058(5),GenBank
+YPO0055-MONOMER,lipid IV(A) 3-deoxy-D-manno-octulosonic acid transferase,YPO0055(),GenBank
+YPO0056-MONOMER,lipopolysaccharide heptosyltransferase RfaC,YPO0056(),GenBank
+YPO0057-MONOMER,ADP-heptose--LPS heptosyltransferase RfaF,YPO0057(),GenBank
+YPO0058-MONOMER,ADP-glyceromanno-heptose 6-epimerase,YPO0058(),GenBank
 YPO0059-MONOMER,glycine C-acetyltransferase,YPO0059(2),GenBank
 YPO0060-MONOMER,L-threonine 3-dehydrogenase,YPO0060(4),GenBank
 YPO0061-MONOMER,divergent polysaccharide deacetylase family protein,YPO0061(),GenBank
 YPO0063-MONOMER,murein hydrolase activator EnvC,YPO0063(),GenBank
 YPO0064-MONOMER,"2,3-bisphosphoglycerate-independent phosphoglycerate mutase",YPO0064(1),GenBank
 YPO0065-MONOMER,rhodanese-like domain-containing protein,YPO0065(),GenBank
-YPO0066-MONOMER,glutaredoxin 3,YPO0066(1),GenBank
-YPO0067-MONOMER,protein-export chaperone SecB,YPO0067(4),GenBank
+YPO0066-MONOMER,glutaredoxin 3,YPO0066(),GenBank
+YPO0067-MONOMER,protein-export chaperone SecB,YPO0067(),GenBank
 YPO0068-MONOMER,NAD(P)H-dependent glycerol-3-phosphate dehydrogenase,YPO0068(2),GenBank
 YPO0070-MONOMER,serine O-acetyltransferase,YPO0070(6),GenBank
 YPO0071-MONOMER,tRNA (uridine(34)/cytosine(34)/5- carboxymethylaminomethyluridine(34)-2'-O)- methyltransferase TrmL,YPO0071(),GenBank
@@ -87,7 +87,7 @@ YPO0084-MONOMER,LysR family transcriptional regulator,YPO0084(),GenBank
 YPO0085-MONOMER,triose-phosphate isomerase,YPO0085(2),GenBank
 YPO0086-MONOMER,DUF1454 family protein,YPO0086(),GenBank
 YPO0087-MONOMER,DUF805 domain-containing protein,YPO0087(),GenBank
-YPO0088-MONOMER,ferredoxin--NADP(+) reductase,YPO0088(1),GenBank
+YPO0088-MONOMER,ferredoxin--NADP(+) reductase,YPO0088(),GenBank
 YPO0089-MONOMER,class II fructose-bisphosphatase,YPO0089(2),GenBank
 YPO0090-MONOMER,glycerol kinase GlpK,YPO0090(4),GenBank
 YPO0091-MONOMER,aquaporin family protein,YPO0091(4),GenBank
@@ -112,24 +112,24 @@ YPO0111-MONOMER,50S ribosomal protein L31,YPO0111(1),GenBank
 YPO0112-MONOMER,inner membrane protein YiaA,YPO0112(),GenBank
 YPO0114-MONOMER,met regulon transcriptional regulator MetJ,YPO0114(),GenBank
 YPO0115-MONOMER,cystathionine gamma-synthase,YPO0115(4),GenBank
-YPO0116-MONOMER,bifunctional aspartate kinase/homoserine dehydrogenase II,YPO0116(2),GenBank
-YPO0117-MONOMER,methylenetetrahydrofolate reductase,YPO0117(4),GenBank
+YPO0116-MONOMER,bifunctional aspartate kinase/homoserine dehydrogenase II,YPO0116(),GenBank
+YPO0117-MONOMER,methylenetetrahydrofolate reductase,YPO0117(),GenBank
 YPO_RS01610-MONOMER,IS3-like element IS1661 family transposase,YPO_RS01610(),GenBank
 YPO0120-MONOMER,DeoR/GlpR family transcriptional regulator,YPO0120(),GenBank
 YPO0121-MONOMER,rhomboid family intramembrane serine protease GlpG,YPO0121(),GenBank
-YPO0122-MONOMER,thiosulfate sulfurtransferase GlpE,YPO0122(2),GenBank
+YPO0122-MONOMER,thiosulfate sulfurtransferase GlpE,YPO0122(),GenBank
 YPO0123-MONOMER,HTH-type transcriptional regulator MalT,YPO0123(),GenBank
 YPO0124-MONOMER,maltodextrin phosphorylase,YPO0124(),GenBank
-YPO0126-MONOMER,4-alpha-glucanotransferase,YPO0126(1),GenBank
+YPO0126-MONOMER,4-alpha-glucanotransferase,YPO0126(),GenBank
 YPO0127-MONOMER,Fe-S biogenesis protein NfuA,YPO0127(),GenBank
 YPO0128-MONOMER,DNA utilization protein GntX,YPO0128(),GenBank
 YPO0129-MONOMER,pimeloyl-ACP methyl ester esterase BioH,YPO0129(1),GenBank
 YPO0130-MONOMER,DUF1471 domain-containing protein,YPO0130(),GenBank
 YPO0131-MONOMER,FeoC-like transcriptional regulator,YPO0131(),GenBank
-YPO0132-MONOMER,Fe(2+) transporter permease subunit FeoB,YPO0132(1),GenBank
+YPO0132-MONOMER,Fe(2+) transporter permease subunit FeoB,YPO0132(),GenBank
 YPO0133-MONOMER,ferrous iron transporter A,YPO0133(),GenBank
 YPO0134-MONOMER,Tex-like N-terminal domain-containing protein,YPO0134(),GenBank
-YPO0135-MONOMER,transcription elongation factor GreB,YPO0135(1),GenBank
+YPO0135-MONOMER,transcription elongation factor GreB,YPO0135(),GenBank
 YPO0136-MONOMER,two-component system response regulator OmpR,YPO0136(),GenBank
 YPO0137-MONOMER,two-component system sensor histidine kinase EnvZ,YPO0137(),GenBank
 YPO0138-MONOMER,phosphoenolpyruvate carboxykinase (ATP),YPO0138(1),GenBank
@@ -137,8 +137,8 @@ YPO0139-MONOMER,Hsp33 family molecular chaperone HslO,YPO0139(),GenBank
 YPO0140-MONOMER,ribosome-associated heat shock protein Hsp15,YPO0140(),GenBank
 YPO0141-MONOMER,GMP/IMP nucleotidase,YPO0141(),GenBank
 YPO0142-MONOMER,intracellular growth attenuator family protein,YPO0142(),GenBank
-YPO0144-MONOMER,ADP compounds hydrolase NudE,YPO0144(2),GenBank
-YPO0145-MONOMER,peptidoglycan glycosyltransferase/peptidoglycan DD-transpeptidase MrcA,YPO0145(2),GenBank
+YPO0144-MONOMER,ADP compounds hydrolase NudE,YPO0144(),GenBank
+YPO0145-MONOMER,peptidoglycan glycosyltransferase/peptidoglycan DD-transpeptidase MrcA,YPO0145(),GenBank
 YPO0146-MONOMER,pilus assembly protein PilM,YPO0146(),GenBank
 YPO0147-MONOMER,PilN domain-containing protein,YPO0147(),GenBank
 YPO0148-MONOMER,hypothetical protein,YPO0148(),GenBank
@@ -156,7 +156,7 @@ YPO0158-MONOMER,siroheme synthase CysG,YPO0158(2),GenBank
 YPO0159-MONOMER,nitrite transporter NirC,YPO0159(1),GenBank
 YPO0160-MONOMER,nitrite reductase small subunit NirD,YPO0160(),GenBank
 YPO0161-MONOMER,nitrite reductase large subunit NirB,YPO0161(),GenBank
-YPO0162-MONOMER,cytosine deaminase,YPO0162(1),GenBank
+YPO0162-MONOMER,cytosine deaminase,YPO0162(),GenBank
 YPO0163-MONOMER,MFS transporter TsgA,YPO0163(),GenBank
 YPO0164-MONOMER,TonB-dependent copper receptor,YPO0164(),GenBank
 YPO0165-MONOMER,LacI family DNA-binding transcriptional regulator,YPO0165(),GenBank
@@ -175,41 +175,41 @@ YPO0177-MONOMER,DUF1240 domain-containing protein,YPO0177(),GenBank
 YPO0178-MONOMER,phosphoribulokinase,YPO0178(),GenBank
 YPO0179-MONOMER,YheU family protein,YPO0179(),GenBank
 YPO0180-MONOMER,hydrolase,YPO0180(),GenBank
-YPO0181-MONOMER,LysE family translocator,YPO0181(1),GenBank
+YPO0181-MONOMER,LysE family translocator,YPO0181(),GenBank
 YPO0182-MONOMER,taurine ABC transporter substrate-binding protein,YPO0182(),GenBank
 YPO0183-MONOMER,taurine ABC transporter ATP-binding subunit,YPO0183(),GenBank
 YPO0184-MONOMER,taurine ABC transporter permease TauC,YPO0184(),GenBank
-YPO0185-MONOMER,taurine dioxygenase,YPO0185(2),GenBank
+YPO0185-MONOMER,taurine dioxygenase,YPO0185(),GenBank
 YPO0186-MONOMER,glycosyltransferase family 9 protein,YPO0186(),GenBank
 YPO0187-MONOMER,glycosyltransferase,YPO0187(),GenBank
 YPO0188-MONOMER,ABC transporter ATP-binding protein,YPO0188(),GenBank
 YPO0190-MONOMER,glutathione-regulated potassium-efflux system ancillary protein KefG,YPO0190(),GenBank
-YPO0191-MONOMER,glutathione-regulated potassium-efflux system protein KefB,YPO0191(1),GenBank
+YPO0191-MONOMER,glutathione-regulated potassium-efflux system protein KefB,YPO0191(2),GenBank
 YPO0192-MONOMER,YheV family putative zinc ribbon protein,YPO0192(),GenBank
 YPO0193-MONOMER,peptidylprolyl isomerase,YPO0193(),GenBank
 YPO0194-MONOMER,SlyX family protein,YPO0194(),GenBank
 YPO0195-MONOMER,FKBP-type peptidyl-prolyl cis-trans isomerase,YPO0195(),GenBank
 YPO0196-MONOMER,transcriptional regulator,YPO0196(),GenBank
-YPO0197-MONOMER,sulfurtransferase complex subunit TusD,YPO0197(1),GenBank
-YPO0198-MONOMER,sulfurtransferase complex subunit TusC,YPO0198(1),GenBank
-YPO0199-MONOMER,sulfurtransferase complex subunit TusB,YPO0199(1),GenBank
+YPO0197-MONOMER,sulfurtransferase complex subunit TusD,YPO0197(),GenBank
+YPO0198-MONOMER,sulfurtransferase complex subunit TusC,YPO0198(),GenBank
+YPO0199-MONOMER,sulfurtransferase complex subunit TusB,YPO0199(),GenBank
 YPO0200-MONOMER,30S ribosomal protein S12,YPO0200(1),GenBank
 YPO0201-MONOMER,30S ribosomal protein S7,YPO0201(1),GenBank
 YPO0202-MONOMER,elongation factor G,YPO0202(1),GenBank
-YPO0203-MONOMER,elongation factor Tu,YPO0203(1),GenBank
+YPO0203-MONOMER,elongation factor Tu,YPO0203(),GenBank
 YPO0204-MONOMER,IS200/IS605-like element IS1541B family transposase,YPO0204(),GenBank
 YPO0205-MONOMER,bacterioferritin-associated ferredoxin,YPO0205(),GenBank
 YPO0206-MONOMER,bacterioferritin,YPO0206(),GenBank
 YPO0209-MONOMER,30S ribosomal protein S10,YPO0209(1),GenBank
 YPO0210-MONOMER,50S ribosomal protein L3,YPO0210(1),GenBank
 YPO0211-MONOMER,50S ribosomal protein L4,YPO0211(1),GenBank
-YPO0212-MONOMER,50S ribosomal protein L23,YPO0212(1),GenBank
+YPO0212-MONOMER,50S ribosomal protein L23,YPO0212(),GenBank
 YPO0213-MONOMER,50S ribosomal protein L2,YPO0213(1),GenBank
 YPO0214-MONOMER,30S ribosomal protein S19,YPO0214(1),GenBank
 YPO0215-MONOMER,50S ribosomal protein L22,YPO0215(1),GenBank
 YPO0216-MONOMER,30S ribosomal protein S3,YPO0216(1),GenBank
 YPO0217-MONOMER,50S ribosomal protein L16,YPO0217(1),GenBank
-YPO0218-MONOMER,50S ribosomal protein L29,YPO0218(1),GenBank
+YPO0218-MONOMER,50S ribosomal protein L29,YPO0218(),GenBank
 YPO0219-MONOMER,30S ribosomal protein S17,YPO0219(1),GenBank
 YPO0220-MONOMER,50S ribosomal protein L14,YPO0220(1),GenBank
 YPO0221-MONOMER,50S ribosomal protein L24,YPO0221(1),GenBank
@@ -219,10 +219,10 @@ YPO0223-MONOMER,30S ribosomal protein S8,YPO0223(1),GenBank
 YPO0224-MONOMER,50S ribosomal protein L6,YPO0224(1),GenBank
 YPO0225-MONOMER,50S ribosomal protein L18,YPO0225(1),GenBank
 YPO0226-MONOMER,30S ribosomal protein S5,YPO0226(1),GenBank
-YPO0227-MONOMER,50S ribosomal protein L30,YPO0227(1),GenBank
+YPO0227-MONOMER,50S ribosomal protein L30,YPO0227(),GenBank
 YPO0228-MONOMER,50S ribosomal protein L15,YPO0228(1),GenBank
 YPO0229-MONOMER,preprotein translocase subunit SecY,YPO0229(),GenBank
-YPO0230-MONOMER,50S ribosomal protein L36,YPO0230(1),GenBank
+YPO0230-MONOMER,50S ribosomal protein L36,YPO0230(),GenBank
 YPO0231-MONOMER,30S ribosomal protein S13,YPO0231(1),GenBank
 YPO0232-MONOMER,30S ribosomal protein S11,YPO0232(1),GenBank
 YPO0233-MONOMER,30S ribosomal protein S4,YPO0233(1),GenBank
@@ -239,7 +239,7 @@ YPO0243-MONOMER,DNA-protecting protein DprA,YPO0243(),GenBank
 YPO0244-MONOMER,DUF494 family protein,YPO0244(),GenBank
 YPO0245-MONOMER,type I DNA topoisomerase,YPO0245(),GenBank
 YPO0245a-MONOMER,L-threonylcarbamoyladenylate synthase type 1 TsaC,YPO0245a(1),GenBank
-YPO0246-MONOMER,shikimate dehydrogenase,YPO0246(1),GenBank
+YPO0246-MONOMER,shikimate dehydrogenase,YPO0246(2),GenBank
 YPO0247-MONOMER,gamma carbonic anhydrase family protein,YPO0247(),GenBank
 YPO0248-MONOMER,IS21-like element IS100kyp family helper ATPase IstB,YPO0248(),GenBank
 YPO0249-MONOMER,IS21-like element IS100 family transposase,YPO0249(),GenBank
@@ -305,30 +305,30 @@ YPO0304-MONOMER,hypothetical protein,YPO0304(),GenBank
 YPO0306-MONOMER,hypothetical protein,YPO0306(),GenBank
 YPO0308-MONOMER,FAD-binding protein,YPO0308(),GenBank
 YPO0309-MONOMER,autotransporter adhesin YapK,YPO0309(),GenBank
-YPO0310-MONOMER,chorismate lyase,YPO0310(1),GenBank
-YPO0311-MONOMER,4-hydroxybenzoate octaprenyltransferase,YPO0311(1),GenBank
-YPO0312-MONOMER,glycerol-3-phosphate 1-O-acyltransferase PlsB,YPO0312(1),GenBank
-YPO0313-MONOMER,diacylglycerol kinase,YPO0313(3),GenBank
+YPO0310-MONOMER,chorismate lyase,YPO0310(),GenBank
+YPO0311-MONOMER,4-hydroxybenzoate octaprenyltransferase,YPO0311(),GenBank
+YPO0312-MONOMER,glycerol-3-phosphate 1-O-acyltransferase PlsB,YPO0312(),GenBank
+YPO0313-MONOMER,diacylglycerol kinase,YPO0313(),GenBank
 YPO0314-MONOMER,transcriptional repressor LexA,YPO0314(),GenBank
 YPO0315-MONOMER,zinc uptake transcriptional repressor Zur,YPO0315(),GenBank
-YPO0316-MONOMER,tRNA dihydrouridine(20/20a) synthase DusA,YPO0316(1),GenBank
+YPO0316-MONOMER,tRNA dihydrouridine(20/20a) synthase DusA,YPO0316(),GenBank
 YPO0318-MONOMER,envelope stress response protein PspG,YPO0318(),GenBank
 YPO0319-MONOMER,quinone oxidoreductase,YPO0319(),GenBank
 YPO0320-MONOMER,replicative DNA helicase,YPO0320(),GenBank
 YPO0321-MONOMER,alanine racemase,YPO0321(1),GenBank
-YPO0322-MONOMER,aspartate/tyrosine/aromatic aminotransferase,YPO0322(2),GenBank
+YPO0322-MONOMER,aspartate/tyrosine/aromatic aminotransferase,YPO0322(),GenBank
 YPO0323-MONOMER,MmcQ/YjbR family DNA-binding protein,YPO0323(),GenBank
 YPO0324-MONOMER,excinuclease ABC subunit UvrA,YPO0324(),GenBank
 YPO0325-MONOMER,single-stranded DNA-binding protein SSB1,YPO0325(),GenBank
 YPO0326-MONOMER,L-rhamnose mutarotase,YPO0326(),GenBank
 YPO0327-MONOMER,lactaldehyde reductase,YPO0327(),GenBank
-YPO0328-MONOMER,rhamnulose-1-phosphate aldolase,YPO0328(4),GenBank
+YPO0328-MONOMER,rhamnulose-1-phosphate aldolase,YPO0328(),GenBank
 YPO0329-MONOMER,L-rhamnose isomerase,YPO0329(4),GenBank
 YPO0330-MONOMER,rhamnulokinase,YPO0330(1),GenBank
 YPO0331-MONOMER,hypothetical protein,YPO0331(),GenBank
 YPO0332-MONOMER,HTH-type transcriptional activator RhaS,YPO0332(),GenBank
 YPO0333-MONOMER,HTH-type transcriptional activator RhaR,YPO0333(),GenBank
-YPO0334-MONOMER,L-rhamnose/proton symporter RhaT,YPO0334(1),GenBank
+YPO0334-MONOMER,L-rhamnose/proton symporter RhaT,YPO0334(),GenBank
 YPO0336-MONOMER,IS1 family transposase,YPO0336(),GenBank
 YPO0337-MONOMER,subtilase family AB5 toxin binding subunit,YPO0337(),GenBank
 YPO0339-MONOMER,putative mucin/carbohydrate-binding domain-containing protein,YPO0339(),GenBank
@@ -337,9 +337,9 @@ YPO_RS21970-MONOMER,hypothetical protein,YPO_RS21970(),GenBank
 YPO0342-MONOMER,formate-dependent uric acid utilization protein AegA,YPO0342(),GenBank
 YPO0343-MONOMER,4Fe-4S dicluster domain-containing protein,YPO0343(),GenBank
 YPO0344-MONOMER,formate dehydrogenase subunit alpha,YPO0344(),GenBank
-YPO0345-MONOMER,protein-disulfide reductase DsbD,YPO0345(1),GenBank
+YPO0345-MONOMER,protein-disulfide reductase DsbD,YPO0345(),GenBank
 YPO0346-MONOMER,divalent cation tolerance protein CutA,YPO0346(),GenBank
-YPO0347-MONOMER,anaerobic C4-dicarboxylate transporter,YPO0347(1),GenBank
+YPO0347-MONOMER,anaerobic C4-dicarboxylate transporter,YPO0347(),GenBank
 YPO0348-MONOMER,aspartate ammonia-lyase,YPO0348(4),GenBank
 YPO0349-MONOMER,membrane protein FxsA,YPO0349(),GenBank
 YPO0350-MONOMER,co-chaperone GroES,YPO0350(7),GenBank
@@ -358,11 +358,11 @@ YPO0362-MONOMER,elongation factor P--(R)-beta-lysine ligase,YPO0362(),GenBank
 YPO0363-MONOMER,miniconductance mechanosensitive channel MscM,YPO0363(),GenBank
 YPO0364-MONOMER,archaetidylserine decarboxylase,YPO0364(1),GenBank
 YPO0365-MONOMER,small ribosomal subunit biogenesis GTPase RsgA,YPO0365(1),GenBank
-YPO0366-MONOMER,oligoribonuclease,YPO0366(2),GenBank
+YPO0366-MONOMER,oligoribonuclease,YPO0366(),GenBank
 YPO0367-MONOMER,tRNA epoxyqueuosine(34) reductase QueG,YPO0367(1),GenBank
 YPO0368-MONOMER,bifunctional ADP-dependent NAD(P)H-hydrate dehydratase/NAD(P)H-hydrate epimerase,YPO0368(),GenBank
 YPO0369-MONOMER,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE,YPO0369(),GenBank
-YPO0370-MONOMER,N-acetylmuramoyl-L-alanine amidase AmiB,YPO0370(1),GenBank
+YPO0370-MONOMER,N-acetylmuramoyl-L-alanine amidase AmiB,YPO0370(),GenBank
 YPO0371-MONOMER,DNA mismatch repair endonuclease MutL,YPO0371(),GenBank
 YPO0372-MONOMER,tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA,YPO0372(2),GenBank
 YPO0373-MONOMER,RNA chaperone Hfq,YPO0373(),GenBank
@@ -407,7 +407,7 @@ YPO0412-MONOMER,autoinducer 2 ABC transporter ATP-binding protein LsrA,YPO0412()
 YPO0413-MONOMER,hypothetical protein,YPO0413(),GenBank
 YPO0414-MONOMER,transcriptional regulator LsrR,YPO0414(),GenBank
 YPO0415-MONOMER,autoinducer-2 kinase,YPO0415(),GenBank
-YPO0416-MONOMER,putative lipopolysaccharide heptosyltransferase III,YPO0416(1),GenBank
+YPO0416-MONOMER,putative lipopolysaccharide heptosyltransferase III,YPO0416(),GenBank
 YPO0417-MONOMER,O-antigen ligase,YPO0417(),GenBank
 YPO0419-MONOMER,LapA family protein,YPO0419(),GenBank
 YPO0420-MONOMER,efflux RND transporter periplasmic adaptor subunit,YPO0420(),GenBank
@@ -417,33 +417,33 @@ YPO0423-MONOMER,hypothetical protein,YPO0423(),GenBank
 YPO0424-MONOMER,pectinesterase family protein,YPO0424(),GenBank
 YPO0425-MONOMER,GGDEF domain-containing protein,YPO0425(),GenBank
 YPO0426-MONOMER,DUF1435 domain-containing protein,YPO0426(),GenBank
-YPO0427-MONOMER,16S rRNA (guanine(1207)-N(2))-methyltransferase RsmC,YPO0427(1),GenBank
+YPO0427-MONOMER,16S rRNA (guanine(1207)-N(2))-methyltransferase RsmC,YPO0427(),GenBank
 YPO0428-MONOMER,DNA polymerase III subunit psi,YPO0428(),GenBank
 YPO0429-MONOMER,ribosomal protein S18-alanine N-acetyltransferase,YPO0429(),GenBank
-YPO0430-MONOMER,peptide chain release factor 3,YPO0430(1),GenBank
+YPO0430-MONOMER,peptide chain release factor 3,YPO0430(),GenBank
 YPO0431-MONOMER,molecular chaperone OsmY,YPO0431(),GenBank
 YPO0432-MONOMER,DUF1328 domain-containing protein,YPO0432(),GenBank
 YPO0433-MONOMER,patatin family protein,YPO0433(),GenBank
 YPO0434-MONOMER,metal-dependent hydrolase,YPO0434(),GenBank
 YPO0435-MONOMER,NupC/NupG family nucleoside CNT transporter,YPO0435(),GenBank
-YPO0436-MONOMER,deoxyribose-phosphate aldolase,YPO0436(1),GenBank
+YPO0436-MONOMER,deoxyribose-phosphate aldolase,YPO0436(),GenBank
 YPO_RS22365-MONOMER,thymidine phosphorylase,YPO_RS22365(),GenBank
 YPO0437-MONOMER,thymidine phosphorylase,YPO0437(2),GenBank
 YPO0439-MONOMER,phosphopentomutase,YPO0439(1),GenBank
 YPO0440-MONOMER,purine-nucleoside phosphorylase,YPO0440(6),GenBank
 YPO0441-MONOMER,YtjB family periplasmic protein,YPO0441(),GenBank
-YPO0442-MONOMER,phosphoserine phosphatase,YPO0442(1),GenBank
+YPO0442-MONOMER,phosphoserine phosphatase,YPO0442(),GenBank
 YPO0443-MONOMER,DNA repair protein RadA,YPO0443(),GenBank
-YPO0444-MONOMER,multifunctional transcriptional regulator/nicotinamide-nucleotide adenylyltransferase/ribosylnicotinamide kinase NadR,YPO0444(1),GenBank
+YPO0444-MONOMER,multifunctional transcriptional regulator/nicotinamide-nucleotide adenylyltransferase/ribosylnicotinamide kinase NadR,YPO0444(),GenBank
 YPO0445-MONOMER,Fic family protein,YPO0445(),GenBank
 YPO0446-MONOMER,energy-dependent translational throttle protein EttA,YPO0446(),GenBank
 YPO0448-MONOMER,OmpA family protein,YPO0448(),GenBank
 YPO0449-MONOMER,diguanylate cyclase,YPO0449(),GenBank
 YPO0450-MONOMER,YfiR family protein,YPO0450(),GenBank
-YPO0451-MONOMER,cation-transporting P-type ATPase,YPO0451(),GenBank
+YPO0451-MONOMER,cation-transporting P-type ATPase,YPO0451(1),GenBank
 YPO0452-MONOMER,murein transglycosylase,YPO0452(1),GenBank
 YPO0453-MONOMER,trp operon repressor,YPO0453(),GenBank
-YPO0454-MONOMER,inosine/xanthosine triphosphatase,YPO0454(2),GenBank
+YPO0454-MONOMER,inosine/xanthosine triphosphatase,YPO0454(),GenBank
 YPO0455-MONOMER,"2,3-diphosphoglycerate-dependent phosphoglycerate mutase GpmB",YPO0455(1),GenBank
 YPO0456-MONOMER,MDR efflux pump AcrAB transcriptional activator RobA,YPO0456(),GenBank
 YPO0457-MONOMER,protein CreA,YPO0457(),GenBank
@@ -452,17 +452,17 @@ YPO_RS21975-MONOMER,hypothetical protein,YPO_RS21975(),GenBank
 YPO_RS03285-MONOMER,thr operon leader peptide,YPO_RS03285(),GenBank
 YPO0459-MONOMER,bifunctional aspartate kinase/homoserine dehydrogenase I,YPO0459(4),GenBank
 YPO0460-MONOMER,homoserine kinase,YPO0460(2),GenBank
-YPO0461-MONOMER,threonine synthase,YPO0461(1),GenBank
+YPO0461-MONOMER,threonine synthase,YPO0461(),GenBank
 YPO0462-MONOMER,peroxide stress protein YaaA,YPO0462(),GenBank
 YPO_RS03310-MONOMER,hypothetical protein,YPO_RS03310(),GenBank
-YPO0463-MONOMER,transaldolase,YPO0463(2),GenBank
-YPO0464-MONOMER,molybdopterin adenylyltransferase,YPO0464(1),GenBank
-YPO0465-MONOMER,MFS transporter,YPO0465(2),GenBank
+YPO0463-MONOMER,transaldolase,YPO0463(),GenBank
+YPO0464-MONOMER,molybdopterin adenylyltransferase,YPO0464(),GenBank
+YPO0465-MONOMER,MFS transporter,YPO0465(),GenBank
 YPO0466-MONOMER,hypothetical protein,YPO0466(),GenBank
 YPO0467-MONOMER,acetate uptake transporter,YPO0467(),GenBank
 YPO0468-MONOMER,molecular chaperone DnaK,YPO0468(1),GenBank
 YPO0469-MONOMER,molecular chaperone DnaJ,YPO0469(2),GenBank
-YPO0470-MONOMER,Na+/H+ antiporter NhaA,YPO0470(2),GenBank
+YPO0470-MONOMER,Na+/H+ antiporter NhaA,YPO0470(),GenBank
 YPO0471-MONOMER,transcriptional activator NhaR,YPO0471(),GenBank
 YPO0472-MONOMER,30S ribosomal protein S20,YPO0472(1),GenBank
 YPO0474-MONOMER,bifunctional riboflavin kinase/FAD synthetase,YPO0474(1),GenBank
@@ -481,14 +481,14 @@ YPO0486-MONOMER,type 3 dihydrofolate reductase,YPO0486(1),GenBank
 YPO0487-MONOMER,IS200/IS605-like element IS1541B family transposase,YPO0487(),GenBank
 YPO0488-MONOMER,DUF3757 domain-containing protein,YPO0488(),GenBank
 YPO0489-MONOMER,DUF3757 domain-containing protein,YPO0489(),GenBank
-YPO0490-MONOMER,bis(5'-nucleosyl)-tetraphosphatase (symmetrical) ApaH,YPO0490(1),GenBank
+YPO0490-MONOMER,bis(5'-nucleosyl)-tetraphosphatase (symmetrical) ApaH,YPO0490(),GenBank
 YPO0491-MONOMER,Co2+/Mg2+ efflux protein ApaG,YPO0491(),GenBank
 YPO0492-MONOMER,16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))- dimethyltransferase RsmA,YPO0492(1),GenBank
-YPO0493-MONOMER,4-hydroxythreonine-4-phosphate dehydrogenase PdxA,YPO0493(2),GenBank
-YPO0494-MONOMER,peptidylprolyl isomerase SurA,YPO0494(1),GenBank
+YPO0493-MONOMER,4-hydroxythreonine-4-phosphate dehydrogenase PdxA,YPO0493(),GenBank
+YPO0494-MONOMER,peptidylprolyl isomerase SurA,YPO0494(),GenBank
 YPO0495-MONOMER,LPS assembly protein LptD,YPO0495(),GenBank
 YPO0496-MONOMER,co-chaperone DjlA,YPO0496(),GenBank
-YPO0497-MONOMER,bifunctional tRNA pseudouridine(32) synthase/23S rRNA pseudouridine(746) synthase RluA,YPO0497(1),GenBank
+YPO0497-MONOMER,bifunctional tRNA pseudouridine(32) synthase/23S rRNA pseudouridine(746) synthase RluA,YPO0497(),GenBank
 YPO0498-MONOMER,hexameric transcriptional regulator RovC,YPO0498(),GenBank
 YPO0499-MONOMER,ImpA family type VI secretion system protein,YPO0499(),GenBank
 YPO0500-MONOMER,type VI secretion system contractile sheath small subunit,YPO0500(),GenBank
@@ -517,7 +517,7 @@ YPO0521-MONOMER,thiamine/thiamine pyrophosphate ABC transporter permease ThiP,YP
 YPO0522-MONOMER,thiamine ABC transporter substrate binding subunit,YPO0522(),GenBank
 YPO0523-MONOMER,hypothetical protein,YPO0523(),GenBank
 YPO0524-MONOMER,HTH-type transcriptional regulator SgrR,YPO0524(),GenBank
-YPO0526-MONOMER,MFS transporter,YPO0526(1),GenBank
+YPO0526-MONOMER,MFS transporter,YPO0526(),GenBank
 YPO0527-MONOMER,IS21-like element IS100kyp family helper ATPase IstB,YPO0527(),GenBank
 YPO0528-MONOMER,IS21-like element IS100 family transposase,YPO0528(),GenBank
 YPO_RS03645-MONOMER,hypothetical protein,YPO_RS03645(),GenBank
@@ -546,16 +546,16 @@ YPO0553-MONOMER,UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase,YPO0553(1),Ge
 YPO0554-MONOMER,cell division protein FtsW,YPO0554(),GenBank
 YPO0555-MONOMER,undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase,YPO0555(1),GenBank
 YPO0556-MONOMER,UDP-N-acetylmuramate--L-alanine ligase,YPO0556(1),GenBank
-YPO0557-MONOMER,D-alanine--D-alanine ligase,YPO0557(2),GenBank
+YPO0557-MONOMER,D-alanine--D-alanine ligase,YPO0557(1),GenBank
 YPO0558-MONOMER,cell division protein FtsQ,YPO0558(),GenBank
 YPO0559-MONOMER,cell division protein FtsA,YPO0559(),GenBank
 YPO0560-MONOMER,cell division protein FtsZ,YPO0560(),GenBank
-YPO0561-MONOMER,UDP-3-O-acyl-N-acetylglucosamine deacetylase,YPO0561(1),GenBank
+YPO0561-MONOMER,UDP-3-O-acyl-N-acetylglucosamine deacetylase,YPO0561(),GenBank
 YPO0562-MONOMER,DUF721 domain-containing protein,YPO0562(),GenBank
 YPO0563-MONOMER,secA translation cis-regulator SecM,YPO0563(),GenBank
 YPO0564-MONOMER,preprotein translocase subunit SecA,YPO0564(1),GenBank
 YPO_RS21770-MONOMER,gluconate 5-dehydrogenase,YPO_RS21770(),GenBank
-YPO0565-MONOMER,8-oxo-dGTP diphosphatase MutT,YPO0565(1),GenBank
+YPO0565-MONOMER,8-oxo-dGTP diphosphatase MutT,YPO0565(),GenBank
 YPO0566-MONOMER,IS21-like element IS100kyp family helper ATPase IstB,YPO0566(),GenBank
 YPO0567-MONOMER,IS21-like element IS100 family transposase,YPO0567(),GenBank
 YPO_RS03830-MONOMER,glutathione S-transferase family protein,YPO_RS03830(),GenBank
@@ -568,13 +568,13 @@ YPO0573-MONOMER,EnvZ/OmpR regulon moderator MzrA,YPO0573(),GenBank
 YPO0574-MONOMER,DedA family protein,YPO0574(),GenBank
 YPO0575-MONOMER,hypothetical protein,YPO0575(),GenBank
 YPO0576-MONOMER,transcriptional regulator ExuR,YPO0576(),GenBank
-YPO0577-MONOMER,MFS transporter,YPO0577(1),GenBank
+YPO0577-MONOMER,MFS transporter,YPO0577(),GenBank
 YPO0579-MONOMER,glucuronate isomerase,YPO0579(1),GenBank
 YPO0580-MONOMER,tagaturonate reductase,YPO0580(1),GenBank
 YPO0581-MONOMER,altronate dehydratase family protein,YPO0581(1),GenBank
 YPO0582-MONOMER,YgjV family protein,YPO0582(),GenBank
 YPO0583-MONOMER,IS200/IS605-like element IS1541B family transposase,YPO0583(),GenBank
-YPO0584-MONOMER,serine/threonine transporter SstT,YPO0584(1),GenBank
+YPO0584-MONOMER,serine/threonine transporter SstT,YPO0584(),GenBank
 YPO0585-MONOMER,Gfo/Idh/MocA family oxidoreductase,YPO0585(),GenBank
 YPO0586-MONOMER,M48 family metallopeptidase,YPO0586(),GenBank
 YPO0587-MONOMER,autotransporter YapG,YPO0587(),GenBank
@@ -639,7 +639,7 @@ YPO0644-MONOMER,DNA primase,YPO0644(),GenBank
 YPO0645-MONOMER,30S ribosomal protein S21,YPO0645(1),GenBank
 YPO0646-MONOMER,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD,YPO0646(),GenBank
 YPO0647-MONOMER,glycerol-3-phosphate 1-O-acyltransferase PlsY,YPO0647(1),GenBank
-YPO0648-MONOMER,"bifunctional dihydroneopterin aldolase/7,8-dihydroneopterin epimerase",YPO0648(8),GenBank
+YPO0648-MONOMER,"bifunctional dihydroneopterin aldolase/7,8-dihydroneopterin epimerase",YPO0648(),GenBank
 YPO0649-MONOMER,undecaprenyl-diphosphate phosphatase,YPO0649(1),GenBank
 YPO0650-MONOMER,multifunctional CCA addition/repair protein,YPO0650(),GenBank
 YPO0651-MONOMER,TIGR04211 family SH3 domain-containing protein,YPO0651(),GenBank
@@ -649,29 +649,29 @@ YPO0654-MONOMER,bifunctional D-glycero-beta-D-manno-heptose-7-phosphate kinase/D
 YPO0655-MONOMER,L-methionine/branched-chain amino acid transporter,YPO0655(),GenBank
 YPO_RS21775-MONOMER,gluconate 5-dehydrogenase,YPO_RS21775(),GenBank
 YPO0656-MONOMER,accessory factor UbiK family protein,YPO0656(),GenBank
-YPO0658-MONOMER,"3,4-dihydroxy-2-butanone-4-phosphate synthase",YPO0658(2),GenBank
+YPO0658-MONOMER,"3,4-dihydroxy-2-butanone-4-phosphate synthase",YPO0658(),GenBank
 YPO0659-MONOMER,"4,5-DOPA dioxygenase extradiol",YPO0659(),GenBank
 YPO0660-MONOMER,glutathionylspermidine synthase family protein,YPO0660(),GenBank
 YPO0661-MONOMER,DUF1190 family protein,YPO0661(),GenBank
-YPO0663-MONOMER,outer membrane channel protein TolC,YPO0663(1),GenBank
-YPO0664-MONOMER,ADP-ribose diphosphatase,YPO0664(2),GenBank
+YPO0663-MONOMER,outer membrane channel protein TolC,YPO0663(),GenBank
+YPO0664-MONOMER,ADP-ribose diphosphatase,YPO0664(),GenBank
 YPO0665-MONOMER,DUF1249 family protein,YPO0665(),GenBank
 YPO0666-MONOMER,"3',5'-cyclic-AMP phosphodiesterase",YPO0666(),GenBank
 YPO0667-MONOMER,esterase YqiA,YPO0667(),GenBank
 YPO0668-MONOMER,DNA topoisomerase IV subunit B,YPO0668(),GenBank
 YPO0669-MONOMER,LysR family transcriptional regulator,YPO0669(),GenBank
-YPO0670-MONOMER,NAD(P)H-dependent oxidoreductase,YPO0670(2),GenBank
+YPO0670-MONOMER,NAD(P)H-dependent oxidoreductase,YPO0670(),GenBank
 YPO_RS04325-MONOMER,hypothetical protein,YPO_RS04325(),GenBank
 YPO0671-MONOMER,DNA topoisomerase IV subunit A,YPO0671(),GenBank
-YPO0672-MONOMER,1-acylglycerol-3-phosphate O-acyltransferase,YPO0672(1),GenBank
-YPO0673-MONOMER,cell division protein FtsP,YPO0673(),GenBank
+YPO0672-MONOMER,1-acylglycerol-3-phosphate O-acyltransferase,YPO0672(),GenBank
+YPO0673-MONOMER,cell division protein FtsP,YPO0673(1),GenBank
 YPO0674-MONOMER,YgiQ family radical SAM protein,YPO0674(),GenBank
-YPO0676-MONOMER,"2,5-didehydrogluconate reductase DkgA",YPO0676(1),GenBank
+YPO0676-MONOMER,"2,5-didehydrogluconate reductase DkgA",YPO0676(),GenBank
 YPO0677-MONOMER,hypothetical protein,YPO0677(),GenBank
 YPO0678-MONOMER,alcohol dehydrogenase,YPO0678(),GenBank
 YPO0679-MONOMER,AraC family transcriptional regulator,YPO0679(),GenBank
 YPO0680-MONOMER,DedA family protein,YPO0680(),GenBank
-YPO0681-MONOMER,cystathionine beta-lyase,YPO0681(4),GenBank
+YPO0681-MONOMER,cystathionine beta-lyase,YPO0681(),GenBank
 YPO0682-MONOMER,tol-pal system-associated acyl-CoA thioesterase,YPO0682(),GenBank
 YPO0683-MONOMER,TonB system transport protein ExbD,YPO0683(),GenBank
 YPO0684-MONOMER,pilus assembly protein,YPO0684(),GenBank
@@ -755,7 +755,7 @@ YPO0763-MONOMER,hypothetical protein,YPO0763(),GenBank
 YPO0764-MONOMER,type VI secretion system tip protein VgrG,YPO0764(),GenBank
 YPO_RS22375-MONOMER,autotransporter outer membrane beta-barrel domain-containing protein,YPO_RS22375(),GenBank
 YPO_RS22380-MONOMER,hypothetical protein,YPO_RS22380(),GenBank
-YPO0767-MONOMER,gluconate permease GntP,YPO0767(1),GenBank
+YPO0767-MONOMER,gluconate permease GntP,YPO0767(),GenBank
 YPO0768-MONOMER,hypothetical protein,YPO0768(),GenBank
 YPO0769-MONOMER,SinI family autotransporter-associated protein,YPO0769(),GenBank
 YPO0770-MONOMER,ABC transporter ATP-binding protein,YPO0770(),GenBank
@@ -765,7 +765,7 @@ YPO0773-MONOMER,thioesterase II family protein,YPO0773(),GenBank
 YPO0774-MONOMER,Gfo/Idh/MocA family oxidoreductase,YPO0774(),GenBank
 YPO0775-MONOMER,NAD-dependent epimerase/dehydratase family protein,YPO0775(),GenBank
 YPO0776-MONOMER,non-ribosomal peptide synthetase,YPO0776(),GenBank
-YPO0777-MONOMER,non-ribosomal peptide synthetase,YPO0777(1),GenBank
+YPO0777-MONOMER,non-ribosomal peptide synthetase,YPO0777(),GenBank
 YPO0778-MONOMER,non-ribosomal peptide synthetase,YPO0778(),GenBank
 YPO_RS22385-MONOMER,hypothetical protein,YPO_RS22385(),GenBank
 YPO0779-MONOMER,IS21-like element IS100kyp family helper ATPase IstB,YPO0779(),GenBank
@@ -779,8 +779,8 @@ YPO0789-MONOMER,DNA mismatch repair endonuclease MutH,YPO0789(),GenBank
 YPO0790-MONOMER,NADP(H)-dependent aldo-keto reductase,YPO0790(),GenBank
 YPO_RS04895-MONOMER,hypothetical protein,YPO_RS04895(),GenBank
 YPO_RS22045-MONOMER,hypothetical protein,YPO_RS22045(),GenBank
-YPO0792-MONOMER,lysophospholipid transporter LplT,YPO0792(1),GenBank
-YPO0793-MONOMER,bifunctional acyl-ACP--phospholipid O-acyltransferase/long-chain-fatty-acid--ACP ligase,YPO0793(1),GenBank
+YPO0792-MONOMER,lysophospholipid transporter LplT,YPO0792(),GenBank
+YPO0793-MONOMER,bifunctional acyl-ACP--phospholipid O-acyltransferase/long-chain-fatty-acid--ACP ligase,YPO0793(),GenBank
 YPO0794-MONOMER,molybdopterin guanine dinucleotide-containing S/N-oxide reductase,YPO0794(),GenBank
 YPO0795-MONOMER,HTH-type transcriptional regulator GalR,YPO0795(),GenBank
 YPO0796-MONOMER,diaminopimelate decarboxylase,YPO0796(4),GenBank
@@ -824,7 +824,7 @@ YPO0834-MONOMER,PTS N-acetylgalactosamine transporter subunit IIB,YPO0834(),GenB
 YPO0835-MONOMER,PTS N-acetylgalactosamine transporter subunit IIC,YPO0835(),GenBank
 YPO0836-MONOMER,PTS system mannose/fructose/sorbose family transporter subunit IID,YPO0836(),GenBank
 YPO0837-MONOMER,PTS galactosamine/N-acetylgalactosamine transporter subunit IIA,YPO0837(),GenBank
-YPO0838-MONOMER,N-acetylglucosamine-6-phosphate deacetylase,YPO0838(),GenBank
+YPO0838-MONOMER,N-acetylglucosamine-6-phosphate deacetylase,YPO0838(4),GenBank
 YPO0839-MONOMER,2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase KduD,YPO0839(),GenBank
 YPO0840-MONOMER,glycoside hydrolase family 105 protein,YPO0840(),GenBank
 YPO0841-MONOMER,anaerobic sulfatase maturase,YPO0841(),GenBank
@@ -878,9 +878,9 @@ YPO0887-MONOMER,tyrosine-type recombinase/integrase,YPO0887(),GenBank
 YPO0888-MONOMER,lysine--tRNA ligase,YPO0888(2),GenBank
 YPO0889-MONOMER,peptide chain release factor 2,YPO0889(1),GenBank
 YPO0890-MONOMER,single-stranded-DNA-specific exonuclease RecJ,YPO0890(),GenBank
-YPO0891-MONOMER,bifunctional protein-disulfide isomerase/oxidoreductase DsbC,YPO0891(2),GenBank
+YPO0891-MONOMER,bifunctional protein-disulfide isomerase/oxidoreductase DsbC,YPO0891(),GenBank
 YPO0892-MONOMER,site-specific tyrosine recombinase XerD,YPO0892(),GenBank
-YPO0893-MONOMER,flavodoxin FldB,YPO0893(1),GenBank
+YPO0893-MONOMER,flavodoxin FldB,YPO0893(),GenBank
 YPO0894-MONOMER,cell envelope integrity protein CreD,YPO0894(),GenBank
 YPO0895-MONOMER,two-component system sensor histidine kinase CreC,YPO0895(),GenBank
 YPO0896-MONOMER,two-component system response regulator CreB,YPO0896(),GenBank
@@ -898,35 +898,35 @@ YPO_RS22060-MONOMER,gluconate 5-dehydrogenase,YPO_RS22060(),GenBank
 YPO0905-MONOMER,aminomethyl-transferring glycine dehydrogenase,YPO0905(),GenBank
 YPO0906-MONOMER,glycine cleavage system protein GcvH,YPO0906(),GenBank
 YPO0907-MONOMER,glycine cleavage system aminomethyltransferase GcvT,YPO0907(),GenBank
-YPO0908-MONOMER,FAD-dependent 2-octaprenylphenol hydroxylase,YPO0908(),GenBank
-YPO0909-MONOMER,2-octaprenyl-6-methoxyphenyl hydroxylase,YPO0909(1),GenBank
+YPO0908-MONOMER,FAD-dependent 2-octaprenylphenol hydroxylase,YPO0908(1),GenBank
+YPO0909-MONOMER,2-octaprenyl-6-methoxyphenyl hydroxylase,YPO0909(),GenBank
 YPO0910-MONOMER,Xaa-Pro aminopeptidase,YPO0910(),GenBank
 YPO0911-MONOMER,YecA family protein,YPO0911(),GenBank
 YPO0912-MONOMER,cell division protein ZapA,YPO0912(),GenBank
 YPO0913-MONOMER,5-formyltetrahydrofolate cyclo-ligase,YPO0913(1),GenBank
 YPO_RS21785-MONOMER,gluconate 5-dehydrogenase,YPO_RS21785(),GenBank
 YPO0914-MONOMER,phosphoglycerate dehydrogenase,YPO0914(4),GenBank
-YPO0915-MONOMER,ribose-5-phosphate isomerase RpiA,YPO0915(2),GenBank
+YPO0915-MONOMER,ribose-5-phosphate isomerase RpiA,YPO0915(),GenBank
 YPO0916-MONOMER,LysR family transcriptional regulator ArgP,YPO0916(),GenBank
 YPO0917-MONOMER,oxidative stress defense protein,YPO0917(),GenBank
 YPO0918-MONOMER,arginine exporter ArgO,YPO0918(1),GenBank
 YPO0919-MONOMER,small-conductance mechanosensitive channel MscS,YPO0919(),GenBank
 YPO_RS21790-MONOMER,gluconate 5-dehydrogenase,YPO_RS21790(),GenBank
-YPO0920-MONOMER,class II fructose-bisphosphate aldolase,YPO0920(2),GenBank
+YPO0920-MONOMER,class II fructose-bisphosphate aldolase,YPO0920(),GenBank
 YPO0921-MONOMER,phosphoglycerate kinase,YPO0921(1),GenBank
-YPO0922-MONOMER,erythrose-4-phosphate dehydrogenase,YPO0922(4),GenBank
+YPO0922-MONOMER,erythrose-4-phosphate dehydrogenase,YPO0922(),GenBank
 YPO0923-MONOMER,IS21-like element IS100kyp family helper ATPase IstB,YPO0923(),GenBank
 YPO0924-MONOMER,IS21-like element IS100 family transposase,YPO0924(),GenBank
 YPO0925-MONOMER,IS200/IS605-like element IS1541A family transposase,YPO0925(),GenBank
 YPO0926-MONOMER,transketolase,YPO0926(2),GenBank
 YPO0927-MONOMER,M48 family metallopeptidase,YPO0927(),GenBank
 YPO0928-MONOMER,non-heme iron oxygenase ferredoxin subunit,YPO0928(),GenBank
-YPO0929-MONOMER,biosynthetic arginine decarboxylase,YPO0929(4),GenBank
+YPO0929-MONOMER,biosynthetic arginine decarboxylase,YPO0929(),GenBank
 YPO0931-MONOMER,methionine adenosyltransferase,YPO0931(4),GenBank
 YPO0932-MONOMER,SprT family zinc-dependent metalloprotease,YPO0932(),GenBank
 YPO0933-MONOMER,deoxyribonuclease I,YPO0933(),GenBank
 YPO0934-MONOMER,16S rRNA (uracil(1498)-N(3))-methyltransferase,YPO0934(2),GenBank
-YPO0935-MONOMER,glutathione synthase,YPO0935(4),GenBank
+YPO0935-MONOMER,glutathione synthase,YPO0935(),GenBank
 YPO0936-MONOMER,YqgE/AlgH family protein,YPO0936(),GenBank
 YPO0937-MONOMER,Holliday junction resolvase RuvX,YPO0937(),GenBank
 YPO0938-MONOMER,N-carbamoylputrescine amidase,YPO0938(),GenBank
@@ -945,13 +945,13 @@ YPO0950-MONOMER,YggL family protein,YPO0950(),GenBank
 YPO0951-MONOMER,tRNA (guanosine(46)-N7)-methyltransferase TrmB,YPO0951(1),GenBank
 YPO0952-MONOMER,A/G-specific adenine glycosylase,YPO0952(),GenBank
 YPO0953-MONOMER,oxidative damage protection protein,YPO0953(),GenBank
-YPO0954-MONOMER,membrane-bound lytic murein transglycosylase MltC,YPO0954(1),GenBank
+YPO0954-MONOMER,membrane-bound lytic murein transglycosylase MltC,YPO0954(),GenBank
 YPO0955-MONOMER,ABC transporter substrate-binding protein,YPO0955(),GenBank
 YPO0956-MONOMER,TonB-dependent siderophore receptor,YPO0956(),GenBank
 YPO0957-MONOMER,ABC transporter permease,YPO0957(),GenBank
 YPO0958-MONOMER,sugar ABC transporter ATP-binding protein,YPO0958(),GenBank
 YPO0959-MONOMER,substrate-binding domain-containing protein,YPO0959(),GenBank
-YPO0960-MONOMER,ornithine decarboxylase SpeF,YPO0960(2),GenBank
+YPO0960-MONOMER,ornithine decarboxylase SpeF,YPO0960(10),GenBank
 YPO0961-MONOMER,site-specific integrase,YPO0961(),GenBank
 YPO0962-MONOMER,DUF2345 domain-containing protein,YPO0962(),GenBank
 YPO_RS05760-MONOMER,IS1-like element ISYps7 family transposase,YPO_RS05760(),GenBank
@@ -985,7 +985,7 @@ YPO0991-MONOMER,GNAT family N-acetyltransferase,YPO0991(),GenBank
 YPO0992-MONOMER,IucA/IucC family siderophore biosynthesis protein,YPO0992(),GenBank
 YPO0993-MONOMER,lysine N(6)-hydroxylase/L-ornithine N(5)-oxygenase family protein,YPO0993(),GenBank
 YPO0994-MONOMER,TonB-dependent siderophore receptor,YPO0994(),GenBank
-YPO0995-MONOMER,MFS transporter,YPO0995(1),GenBank
+YPO0995-MONOMER,MFS transporter,YPO0995(),GenBank
 YPO_RS05915-MONOMER,IS3-like element IS1661 family transposase,YPO_RS05915(),GenBank
 YPO0998-MONOMER,EAL domain-containing protein,YPO0998(),GenBank
 YPO0999-MONOMER,hypothetical protein,YPO0999(),GenBank
@@ -1011,12 +1011,12 @@ YPO1018-MONOMER,exodeoxyribonuclease V subunit gamma,YPO1018(),GenBank
 YPO1019-MONOMER,pitrilysin,YPO1019(),GenBank
 YPO1020-MONOMER,exodeoxyribonuclease V subunit beta,YPO1020(),GenBank
 YPO1021-MONOMER,exodeoxyribonuclease V subunit alpha,YPO1021(),GenBank
-YPO1022-MONOMER,amino-acid N-acetyltransferase,YPO1022(6),GenBank
+YPO1022-MONOMER,amino-acid N-acetyltransferase,YPO1022(),GenBank
 YPO1023-MONOMER,N-acetylmuramoyl-L-alanine amidase AmiC,YPO1023(1),GenBank
-YPO1025-MONOMER,murein transglycosylase A,YPO1025(1),GenBank
+YPO1025-MONOMER,murein transglycosylase A,YPO1025(),GenBank
 YPO1026-MONOMER,tRNA cyclic N6-threonylcarbamoyladenosine(37) synthase TcdA,YPO1026(),GenBank
 YPO1027-MONOMER,cysteine desulfurase sulfur acceptor subunit CsdE,YPO1027(),GenBank
-YPO1028-MONOMER,cysteine desulfurase CsdA,YPO1028(2),GenBank
+YPO1028-MONOMER,cysteine desulfurase CsdA,YPO1028(),GenBank
 YPO_RS06085-MONOMER,DUF903 domain-containing protein,YPO_RS06085(),GenBank
 YPO1029-MONOMER,transcriptional regulator GcvA,YPO1029(),GenBank
 YPO1030-MONOMER,DUF423 domain-containing protein,YPO1030(),GenBank
@@ -1027,7 +1027,7 @@ YPO1034-MONOMER,NADPH-dependent 7-cyano-7-deazaguanine reductase QueF,YPO1034(2)
 YPO1035-MONOMER,SecY-interacting protein,YPO1035(),GenBank
 YPO1036-MONOMER,IS200/IS605-like element IS1541B family transposase,YPO1036(),GenBank
 YPO1037-MONOMER,YqcC family protein,YPO1037(),GenBank
-YPO1038-MONOMER,tRNA pseudouridine(65) synthase TruC,YPO1038(1),GenBank
+YPO1038-MONOMER,tRNA pseudouridine(65) synthase TruC,YPO1038(),GenBank
 YPO1039-MONOMER,flavodoxin,YPO1039(),GenBank
 YPO1040-MONOMER,DUF3461 family protein,YPO1040(),GenBank
 YPO1041-MONOMER,"2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase",YPO1041(2),GenBank
@@ -1043,10 +1043,10 @@ YPO1050-MONOMER,phosphatidate cytidylyltransferase,YPO1050(1),GenBank
 YPO1051-MONOMER,sigma E protease regulator RseP,YPO1051(),GenBank
 YPO1052-MONOMER,outer membrane protein assembly factor BamA,YPO1052(),GenBank
 YPO1053-MONOMER,molecular chaperone Skp,YPO1053(),GenBank
-YPO1054-MONOMER,UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase,YPO1054(1),GenBank
+YPO1054-MONOMER,UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase,YPO1054(),GenBank
 YPO1055-MONOMER,3-hydroxyacyl-ACP dehydratase FabZ,YPO1055(),GenBank
-YPO1056-MONOMER,acyl-ACP--UDP-N-acetylglucosamine O-acyltransferase,YPO1056(3),GenBank
-YPO1057-MONOMER,lipid-A-disaccharide synthase,YPO1057(2),GenBank
+YPO1056-MONOMER,acyl-ACP--UDP-N-acetylglucosamine O-acyltransferase,YPO1056(),GenBank
+YPO1057-MONOMER,lipid-A-disaccharide synthase,YPO1057(),GenBank
 YPO1058-MONOMER,ribonuclease HII,YPO1058(),GenBank
 YPO1059-MONOMER,DNA polymerase III subunit alpha,YPO1059(),GenBank
 YPO1060-MONOMER,acetyl-CoA carboxylase carboxyl transferase subunit alpha,YPO1060(),GenBank
@@ -1064,12 +1064,12 @@ YPO1070-MONOMER,Rcs stress response system protein RcsF,YPO1070(),GenBank
 YPO1071-MONOMER,MetQ/NlpA family lipoprotein,YPO1071(),GenBank
 YPO1072-MONOMER,methionine ABC transporter permease MetI,YPO1072(),GenBank
 YPO1073-MONOMER,methionine ABC transporter ATP-binding protein MetN,YPO1073(),GenBank
-YPO1074-MONOMER,"D-glycero-beta-D-manno-heptose 1,7-bisphosphate 7-phosphatase",YPO1074(1),GenBank
-YPO1075-MONOMER,"2,5-didehydrogluconate reductase DkgB",YPO1075(1),GenBank
+YPO1074-MONOMER,"D-glycero-beta-D-manno-heptose 1,7-bisphosphate 7-phosphatase",YPO1074(),GenBank
+YPO1075-MONOMER,"2,5-didehydrogluconate reductase DkgB",YPO1075(),GenBank
 YPO_RS22070-MONOMER,hypothetical protein,YPO_RS22070(),GenBank
 YPO1077-MONOMER,endonuclease/exonuclease/phosphatase family protein,YPO1077(),GenBank
 YPO1078-MONOMER,murein transglycosylase D,YPO1078(),GenBank
-YPO1079-MONOMER,hydroxyacylglutathione hydrolase,YPO1079(1),GenBank
+YPO1079-MONOMER,hydroxyacylglutathione hydrolase,YPO1079(),GenBank
 YPO1080-MONOMER,class I SAM-dependent methyltransferase,YPO1080(),GenBank
 YPO1081-MONOMER,ribonuclease HI,YPO1081(),GenBank
 YPO1082-MONOMER,DNA polymerase III subunit epsilon,YPO1082(),GenBank
@@ -1099,7 +1099,7 @@ YPO1104-MONOMER,outer membrane protein assembly factor BamE,YPO1104(),GenBank
 YPO1105-MONOMER,DNA repair protein RecN,YPO1105(),GenBank
 YPO1106-MONOMER,NAD(+) kinase,YPO1106(6),GenBank
 YPO1107-MONOMER,nucleotide exchange factor GrpE,YPO1107(2),GenBank
-YPO1108-MONOMER,citrate synthase,YPO1108(6),GenBank
+YPO1108-MONOMER,citrate synthase,YPO1108(2),GenBank
 YPO1109-MONOMER,succinate dehydrogenase cytochrome b556 subunit,YPO1109(),GenBank
 YPO1110-MONOMER,succinate dehydrogenase membrane anchor subunit,YPO1110(),GenBank
 YPO1111-MONOMER,succinate dehydrogenase flavoprotein subunit,YPO1111(),GenBank
@@ -1112,7 +1112,7 @@ YPO1117-MONOMER,cytochrome ubiquinol oxidase subunit I,YPO1117(),GenBank
 YPO1118-MONOMER,cytochrome d ubiquinol oxidase subunit II,YPO1118(),GenBank
 YPO_RS06580-MONOMER,cytochrome bd-I oxidase subunit CydX,YPO_RS06580(),GenBank
 YPO1119-MONOMER,cyd operon protein YbgE,YPO1119(),GenBank
-YPO1120-MONOMER,tol-pal system-associated acyl-CoA thioesterase,YPO1120(1),GenBank
+YPO1120-MONOMER,tol-pal system-associated acyl-CoA thioesterase,YPO1120(),GenBank
 YPO1121-MONOMER,Tol-Pal system protein TolQ,YPO1121(),GenBank
 YPO1122-MONOMER,colicin uptake protein TolR,YPO1122(),GenBank
 YPO1123-MONOMER,cell envelope integrity protein TolA,YPO1123(),GenBank
@@ -1120,18 +1120,18 @@ YPO1124-MONOMER,Tol-Pal system beta propeller repeat protein TolB,YPO1124(),GenB
 YPO1125-MONOMER,peptidoglycan-associated lipoprotein Pal,YPO1125(),GenBank
 YPO1126-MONOMER,cell division protein CpoB,YPO1126(),GenBank
 YPO1127-MONOMER,quinolinate synthase NadA,YPO1127(2),GenBank
-YPO1128-MONOMER,nicotinamide riboside transporter PnuC,YPO1128(1),GenBank
+YPO1128-MONOMER,nicotinamide riboside transporter PnuC,YPO1128(),GenBank
 YPO1129-MONOMER,CDF family zinc transporter ZitB,YPO1129(1),GenBank
-YPO1129a-MONOMER,3-deoxy-7-phosphoheptulonate synthase AroG,YPO1129a(4),GenBank
+YPO1129a-MONOMER,3-deoxy-7-phosphoheptulonate synthase AroG,YPO1129a(),GenBank
 YPO1131-MONOMER,IS21-like element IS100kyp family helper ATPase IstB,YPO1131(),GenBank
 YPO1132-MONOMER,IS21-like element IS100 family transposase,YPO1132(),GenBank
 YPO_RS06670-MONOMER,hypothetical protein,YPO_RS06670(),GenBank
-YPO1133-MONOMER,"2,3-diphosphoglycerate-dependent phosphoglycerate mutase",YPO1133(2),GenBank
+YPO1133-MONOMER,"2,3-diphosphoglycerate-dependent phosphoglycerate mutase",YPO1133(),GenBank
 YPO1134-MONOMER,PsiF family protein,YPO1134(),GenBank
-YPO1135-MONOMER,galactose-1-epimerase,YPO1135(1),GenBank
+YPO1135-MONOMER,galactose-1-epimerase,YPO1135(),GenBank
 YPO_RS06690-MONOMER,hypothetical protein,YPO_RS06690(),GenBank
 YPO1137-MONOMER,galactokinase,YPO1137(1),GenBank
-YPO1138-MONOMER,galactose-1-phosphate uridylyltransferase,YPO1138(2),GenBank
+YPO1138-MONOMER,galactose-1-phosphate uridylyltransferase,YPO1138(),GenBank
 YPO1139-MONOMER,UDP-glucose 4-epimerase GalE,YPO1139(2),GenBank
 YPO1140-MONOMER,CPBP family intramembrane metalloprotease,YPO1140(),GenBank
 YPO1142-MONOMER,molybdate ABC transporter ATP-binding protein ModF,YPO1142(),GenBank
@@ -1144,8 +1144,8 @@ YPO1148-MONOMER,pyridoxal phosphatase,YPO1148(1),GenBank
 YPO1149-MONOMER,6-phosphogluconolactonase,YPO1149(1),GenBank
 YPO1150-MONOMER,adenosylmethionine--8-amino-7-oxononanoate transaminase,YPO1150(2),GenBank
 YPO1151-MONOMER,biotin synthase BioB,YPO1151(2),GenBank
-YPO1152-MONOMER,8-amino-7-oxononanoate synthase,YPO1152(2),GenBank
-YPO1153-MONOMER,malonyl-ACP O-methyltransferase BioC,YPO1153(1),GenBank
+YPO1152-MONOMER,8-amino-7-oxononanoate synthase,YPO1152(),GenBank
+YPO1153-MONOMER,malonyl-ACP O-methyltransferase BioC,YPO1153(),GenBank
 YPO1154-MONOMER,dethiobiotin synthase,YPO1154(2),GenBank
 YPO1155-MONOMER,ABC transporter ATP-binding protein,YPO1155(),GenBank
 YPO1156-MONOMER,excinuclease ABC subunit UvrB,YPO1156(),GenBank
@@ -1157,20 +1157,20 @@ YPO1161-MONOMER,molybdopterin synthase sulfur carrier subunit,YPO1161(1),GenBank
 YPO1162-MONOMER,molybdopterin synthase catalytic subunit MoaE,YPO1162(1),GenBank
 YPO1163-MONOMER,Bax inhibitor-1/YccA family protein,YPO1163(),GenBank
 YPO1164-MONOMER,IS200/IS605-like element IS1541B family transposase,YPO1164(),GenBank
-YPO1165-MONOMER,choline dehydrogenase,YPO1165(1),GenBank
-YPO1166-MONOMER,betaine-aldehyde dehydrogenase,YPO1166(4),GenBank
+YPO1165-MONOMER,choline dehydrogenase,YPO1165(),GenBank
+YPO1166-MONOMER,betaine-aldehyde dehydrogenase,YPO1166(2),GenBank
 YPO1167-MONOMER,transcriptional regulator BetI,YPO1167(),GenBank
 YPO1168-MONOMER,choline transporter,YPO1168(1),GenBank
 YPO1169-MONOMER,LysR family transcriptional regulator,YPO1169(),GenBank
 YPO1170-MONOMER,DMT family transporter,YPO1170(),GenBank
 YPO1171-MONOMER,xanthosine phosphorylase,YPO1171(6),GenBank
-YPO1172-MONOMER,MFS transporter,YPO1172(1),GenBank
+YPO1172-MONOMER,MFS transporter,YPO1172(),GenBank
 YPO1173-MONOMER,IS200/IS605-like element IS1541B family transposase,YPO1173(),GenBank
 YPO1174-MONOMER,DUF4097 domain-containing protein,YPO1174(),GenBank
-YPO1175-MONOMER,tRNA dihydrouridine(16) synthase DusC,YPO1175(1),GenBank
+YPO1175-MONOMER,tRNA dihydrouridine(16) synthase DusC,YPO1175(),GenBank
 YPO1175a-MONOMER,hypothetical protein,YPO1175a(),GenBank
-YPO1176-MONOMER,D-alanyl-D-alanine endopeptidase,YPO1176(1),GenBank
-YPO1177-MONOMER,D-lactate dehydrogenase,YPO1177(1),GenBank
+YPO1176-MONOMER,D-alanyl-D-alanine endopeptidase,YPO1176(),GenBank
+YPO1177-MONOMER,D-lactate dehydrogenase,YPO1177(),GenBank
 YPO1178-MONOMER,class IV adenylate cyclase,YPO1178(),GenBank
 YPO1179-MONOMER,HNH nuclease YajD,YPO1179(),GenBank
 YPO1180-MONOMER,suppressor of fused domain protein,YPO1180(),GenBank
@@ -1187,32 +1187,32 @@ YPO1190-MONOMER,urea ABC transporter ATP-binding protein UrtD,YPO1190(),GenBank
 YPO1191-MONOMER,urea ABC transporter ATP-binding subunit UrtE,YPO1191(),GenBank
 YPO1192-MONOMER,2OG-Fe(II) oxygenase,YPO1192(),GenBank
 YPO1193-MONOMER,aspartate aminotransferase family protein,YPO1193(),GenBank
-YPO1194-MONOMER,3-mercaptopyruvate sulfurtransferase,YPO1194(1),GenBank
+YPO1194-MONOMER,3-mercaptopyruvate sulfurtransferase,YPO1194(),GenBank
 YPO1195-MONOMER,ABC transporter substrate-binding protein,YPO1195(),GenBank
 YPO1197-MONOMER,ABC transporter permease,YPO1197(),GenBank
 YPO1198-MONOMER,ABC transporter ATP-binding protein,YPO1198(),GenBank
 YPO1199-MONOMER,ABC transporter permease,YPO1199(),GenBank
-YPO1200-MONOMER,arginine/agmatine antiporter,YPO1200(2),GenBank
-YPO1201-MONOMER,Orn/Lys/Arg decarboxylase N-terminal domain-containing protein,YPO1201(10),GenBank
+YPO1200-MONOMER,arginine/agmatine antiporter,YPO1200(),GenBank
+YPO1201-MONOMER,Orn/Lys/Arg decarboxylase N-terminal domain-containing protein,YPO1201(),GenBank
 YPO1203a-MONOMER,hypothetical protein,YPO1203a(),GenBank
-YPO1205-MONOMER,porin OmpF2,YPO1205(3),GenBank
+YPO1205-MONOMER,porin OmpF2,YPO1205(),GenBank
 YPO1206-MONOMER,ATP-dependent DNA helicase DinG,YPO1206(),GenBank
-YPO1207-MONOMER,catalase KatA,YPO1207(6),GenBank
+YPO1207-MONOMER,catalase KatA,YPO1207(),GenBank
 YPO1208-MONOMER,YfaZ family protein,YPO1208(),GenBank
-YPO1209-MONOMER,tyrosine transporter TyrP,YPO1209(1),GenBank
+YPO1209-MONOMER,tyrosine transporter TyrP,YPO1209(),GenBank
 YPO1210-MONOMER,nicotinamide mononucleotide deamidase-related protein YfaY,YPO1210(),GenBank
 YPO1211-MONOMER,serine protease inhibitor ecotin,YPO1211(),GenBank
 YPO1212-MONOMER,class I ribonucleotide reductase maintenance protein YfaE,YPO1212(),GenBank
 YPO1213-MONOMER,ribonucleotide-diphosphate reductase subunit beta,YPO1213(),GenBank
 YPO1214-MONOMER,ribonucleoside-diphosphate reductase subunit alpha,YPO1214(),GenBank
-YPO1215-MONOMER,bifunctional 3-demethylubiquinone 3-O-methyltransferase/2-octaprenyl-6-hydroxy phenol methylase,YPO1215(2),GenBank
+YPO1215-MONOMER,bifunctional 3-demethylubiquinone 3-O-methyltransferase/2-octaprenyl-6-hydroxy phenol methylase,YPO1215(),GenBank
 YPO1216-MONOMER,DNA topoisomerase (ATP-hydrolyzing) subunit A,YPO1216(),GenBank
 YPO1217-MONOMER,two-component system sensor histidine kinase RcsC,YPO1217(),GenBank
 YPO1218-MONOMER,response regulator transcription factor RcsB,YPO1218(),GenBank
 YPO_RS07100-MONOMER,Hpt domain-containing protein,YPO_RS07100(),GenBank
 YPO1219-MONOMER,phosphotransferase RcsD,YPO1219(),GenBank
 YPO1221-MONOMER,MFS transporter,YPO1221(),GenBank
-YPO1222-MONOMER,porin OmpC,YPO1222(3),GenBank
+YPO1222-MONOMER,porin OmpC,YPO1222(),GenBank
 YPO1223-MONOMER,IS200/IS605-like element IS1541B family transposase,YPO1223(),GenBank
 YPO1224-MONOMER,D-alanyl-D-alanine- carboxypeptidase/endopeptidase AmpH,YPO1224(),GenBank
 YPO1226-MONOMER,MFS transporter,YPO1226(),GenBank
@@ -1223,7 +1223,7 @@ YPO1232-MONOMER,DinI family protein,YPO1232(),GenBank
 YPO1233-MONOMER,LexA family transcriptional regulator,YPO1233(),GenBank
 YPO1234-MONOMER,antiterminator Q family protein,YPO1234(),GenBank
 YPO1235-MONOMER,four-carbon acid sugar kinase family protein,YPO1235(),GenBank
-YPO1236-MONOMER,aldolase,YPO1236(1),GenBank
+YPO1236-MONOMER,aldolase,YPO1236(),GenBank
 YPO1237-MONOMER,DeoR/GlpR family DNA-binding transcription regulator,YPO1237(),GenBank
 YPO1238-MONOMER,hydroxypyruvate isomerase family protein,YPO1238(),GenBank
 YPO1239-MONOMER,hypothetical protein,YPO1239(),GenBank
@@ -1252,7 +1252,7 @@ YPO1260-MONOMER,LPS biosynthesis-modulating metalloenzyme YejM,YPO1260(),GenBank
 YPO1261-MONOMER,YejL family protein,YPO1261(),GenBank
 YPO1262-MONOMER,nucleoid-associated protein YejK,YPO1262(),GenBank
 YPO1263-MONOMER,IS200/IS605-like element IS1541B family transposase,YPO1263(),GenBank
-YPO1264-MONOMER,50S ribosomal protein L25,YPO1264(1),GenBank
+YPO1264-MONOMER,50S ribosomal protein L25,YPO1264(),GenBank
 YPO1265-MONOMER,DEAD/DEAH box helicase,YPO1265(),GenBank
 YPO1266-MONOMER,16S rRNA pseudouridine(516) synthase RsuA,YPO1266(1),GenBank
 YPO1267-MONOMER,Bcr/CflA family multidrug efflux MFS transporter,YPO1267(),GenBank
@@ -1263,19 +1263,19 @@ YPO1272-MONOMER,microcin C ABC transporter permease YejB,YPO1272(),GenBank
 YPO1273-MONOMER,extracellular solute-binding protein,YPO1273(),GenBank
 YPO1274-MONOMER,cyclic di-GMP phosphodiesterase,YPO1274(),GenBank
 YPO1275-MONOMER,bifunctional murein DD-endopeptidase/murein LD-carboxypeptidase,YPO1275(),GenBank
-YPO1276-MONOMER,phosphatase PAP2 family protein,YPO1276(1),GenBank
+YPO1276-MONOMER,phosphatase PAP2 family protein,YPO1276(),GenBank
 YPO1277-MONOMER,GTP-binding protein,YPO1277(),GenBank
 YPO1279-MONOMER,GntR family transcriptional regulator,YPO1279(),GenBank
 YPO1280-MONOMER,mannitol dehydrogenase family protein,YPO1280(),GenBank
 YPO1283-MONOMER,mannonate dehydratase,YPO1283(1),GenBank
 YPO1284-MONOMER,elongation factor P-like protein YeiP,YPO1284(),GenBank
-YPO1285-MONOMER,tryptophan permease,YPO1285(1),GenBank
+YPO1285-MONOMER,tryptophan permease,YPO1285(),GenBank
 YPO1286-MONOMER,YkgJ family cysteine cluster protein,YPO1286(),GenBank
 YPO1287-MONOMER,SDR family NAD(P)-dependent oxidoreductase,YPO1287(),GenBank
 YPO1288-MONOMER,C-terminal binding protein,YPO1288(),GenBank
 YPO1289-MONOMER,fumarylacetoacetate hydrolase family protein,YPO1289(),GenBank
 YPO1290-MONOMER,NAD-dependent succinate-semialdehyde dehydrogenase,YPO1290(),GenBank
-YPO1291-MONOMER,xylulokinase,YPO1291(),GenBank
+YPO1291-MONOMER,xylulokinase,YPO1291(2),GenBank
 YPO1292-MONOMER,ribose 5-phosphate isomerase A,YPO1292(),GenBank
 YPO1293-MONOMER,sugar ABC transporter substrate-binding protein,YPO1293(),GenBank
 YPO1294-MONOMER,sugar ABC transporter ATP-binding protein,YPO1294(),GenBank
@@ -1292,7 +1292,7 @@ YPO1305-MONOMER,fimbrial usher PsaC,YPO1305(),GenBank
 YPO1306-MONOMER,deoxyribonuclease IV,YPO1306(),GenBank
 YPO1307-MONOMER,YeiH family protein,YPO1307(),GenBank
 YPO1308-MONOMER,DNA-binding transcriptional regulator YeiE,YPO1308(),GenBank
-YPO1309-MONOMER,amino acid permease,YPO1309(1),GenBank
+YPO1309-MONOMER,amino acid permease,YPO1309(),GenBank
 YPO1310-MONOMER,iron-siderophore ABC transporter substrate-binding protein YiuA,YPO1310(),GenBank
 YPO1311-MONOMER,iron ABC transporter permease,YPO1311(),GenBank
 YPO1312-MONOMER,ABC transporter ATP-binding protein,YPO1312(),GenBank
@@ -1304,13 +1304,13 @@ YPO1317-MONOMER,MetQ/NlpA family ABC transporter substrate-binding protein,YPO13
 YPO1318-MONOMER,methionine ABC transporter ATP-binding protein,YPO1318(),GenBank
 YPO1319-MONOMER,ABC transporter permease,YPO1319(),GenBank
 YPO1320-MONOMER,serine hydrolase,YPO1320(1),GenBank
-YPO1321-MONOMER,HAAAP family serine/threonine permease,YPO1321(1),GenBank
+YPO1321-MONOMER,HAAAP family serine/threonine permease,YPO1321(),GenBank
 YPO1322-MONOMER,DNA-binding transcriptional repressor DeoR,YPO1322(),GenBank
-YPO1323-MONOMER,deoxyribose-phosphate aldolase,YPO1323(),GenBank
+YPO1323-MONOMER,deoxyribose-phosphate aldolase,YPO1323(1),GenBank
 YPO1324-MONOMER,undecaprenyl-diphosphate phosphatase,YPO1324(1),GenBank
 YPO1325-MONOMER,phosphatase PAP2 family protein,YPO1325(),GenBank
 YPO1326-MONOMER,aspartate:alanine antiporter,YPO1326(),GenBank
-YPO1327-MONOMER,GrxA family glutaredoxin,YPO1327(1),GenBank
+YPO1327-MONOMER,GrxA family glutaredoxin,YPO1327(),GenBank
 YPO1328-MONOMER,YbjC family protein,YPO1328(),GenBank
 YPO1330-MONOMER,YbjN domain-containing protein,YPO1330(),GenBank
 YPO1331-MONOMER,spermidine/putrescine ABC transporter substrate-binding protein PotF,YPO1331(),GenBank
@@ -1342,7 +1342,7 @@ YPO1353-MONOMER,chorismate mutase,YPO1353(),GenBank
 YPO1354-MONOMER,lipoprotein,YPO1354(),GenBank
 YPO1355-MONOMER,NAD(P)-dependent oxidoreductase,YPO1355(),GenBank
 YPO1356-MONOMER,DUF2867 domain-containing protein,YPO1356(),GenBank
-YPO1357-MONOMER,low-specificity L-threonine aldolase,YPO1357(4),GenBank
+YPO1357-MONOMER,low-specificity L-threonine aldolase,YPO1357(),GenBank
 YPO1358-MONOMER,ubiquinone-dependent pyruvate dehydrogenase,YPO1358(4),GenBank
 YPO1359-MONOMER,NADH oxidoreductase,YPO1359(),GenBank
 YPO1360-MONOMER,hydroxylamine reductase,YPO1360(),GenBank
@@ -1362,14 +1362,14 @@ YPO1373-MONOMER,cysteine/glutathione ABC transporter permease/ATP-binding protei
 YPO1374-MONOMER,thioredoxin-disulfide reductase,YPO1374(),GenBank
 YPO1375-MONOMER,leucine-responsive transcriptional regulator Lrp,YPO1375(),GenBank
 YPO1376-MONOMER,DNA translocase FtsK,YPO1376(),GenBank
-YPO1377-MONOMER,outer membrane lipoprotein chaperone LolA,YPO1377(1),GenBank
+YPO1377-MONOMER,outer membrane lipoprotein chaperone LolA,YPO1377(),GenBank
 YPO1378-MONOMER,replication-associated recombination protein A,YPO1378(),GenBank
 YPO1379-MONOMER,serine--tRNA ligase,YPO1379(2),GenBank
 YPO1380-MONOMER,MFS transporter,YPO1380(),GenBank
-YPO1381-MONOMER,pyruvate formate lyase 1-activating protein,YPO1381(1),GenBank
+YPO1381-MONOMER,pyruvate formate lyase 1-activating protein,YPO1381(),GenBank
 YPO1382-MONOMER,glycosyltransferase family 25 protein,YPO1382(),GenBank
-YPO1383-MONOMER,formate C-acetyltransferase,YPO1383(2),GenBank
-YPO1384-MONOMER,formate transporter FocA,YPO1384(5),GenBank
+YPO1383-MONOMER,formate C-acetyltransferase,YPO1383(),GenBank
+YPO1384-MONOMER,formate transporter FocA,YPO1384(1),GenBank
 YPO1385-MONOMER,30S ribosomal protein S12 methylthiotransferase accessory protein YcaO,YPO1385(),GenBank
 YPO1386-MONOMER,L-asparaginase 2,YPO1386(4),GenBank
 YPO1387-MONOMER,YadA-like family protein,YPO1387(),GenBank
@@ -1380,12 +1380,12 @@ YPO1391-MONOMER,(d)CMP kinase,YPO1391(1),GenBank
 YPO1392-MONOMER,30S ribosomal protein S1,YPO1392(1),GenBank
 YPO1393-MONOMER,integration host factor subunit beta,YPO1393(),GenBank
 YPO1394-MONOMER,ComEC family protein,YPO1394(),GenBank
-YPO1395-MONOMER,lipid A ABC transporter ATP-binding protein/permease MsbA,YPO1395(2),GenBank
-YPO1396-MONOMER,tetraacyldisaccharide 4'-kinase,YPO1396(1),GenBank
+YPO1395-MONOMER,lipid A ABC transporter ATP-binding protein/permease MsbA,YPO1395(),GenBank
+YPO1396-MONOMER,tetraacyldisaccharide 4'-kinase,YPO1396(),GenBank
 YPO1397-MONOMER,VOC family protein,YPO1397(),GenBank
 YPO1398-MONOMER,cold-shock protein,YPO1398(),GenBank
 YPO1399-MONOMER,Trm112 family protein,YPO1399(),GenBank
-YPO1400-MONOMER,3-deoxy-manno-octulosonate cytidylyltransferase,YPO1400(1),GenBank
+YPO1400-MONOMER,3-deoxy-manno-octulosonate cytidylyltransferase,YPO1400(),GenBank
 YPO1401-MONOMER,YcbJ family phosphotransferase,YPO1401(),GenBank
 YPO1402-MONOMER,tRNA uridine 5-oxyacetic acid(34) methyltransferase CmoM,YPO1402(),GenBank
 YPO1403-MONOMER,chromosome partition protein MukF,YPO1403(),GenBank
@@ -1396,12 +1396,12 @@ YPO1407-MONOMER,"L,D-transpeptidase",YPO1407(),GenBank
 YPO1408-MONOMER,YcbK family protein,YPO1408(),GenBank
 YPO1409-MONOMER,MBL fold metallo-hydrolase,YPO1409(),GenBank
 YPO_RS22105-MONOMER,gluconate 5-dehydrogenase,YPO_RS22105(),GenBank
-YPO1410-MONOMER,aspartate/tyrosine/aromatic aminotransferase,YPO1410(2),GenBank
+YPO1410-MONOMER,aspartate/tyrosine/aromatic aminotransferase,YPO1410(),GenBank
 YPO1411-MONOMER,porin OmpF,YPO1411(),GenBank
 YPO1412-MONOMER,asparagine--tRNA ligase,YPO1412(2),GenBank
-YPO1413-MONOMER,nicotinate phosphoribosyltransferase,YPO1413(1),GenBank
-YPO1414-MONOMER,aminopeptidase N,YPO1414(1),GenBank
-YPO1415-MONOMER,quinone-dependent dihydroorotate dehydrogenase,YPO1415(1),GenBank
+YPO1413-MONOMER,nicotinate phosphoribosyltransferase,YPO1413(),GenBank
+YPO1414-MONOMER,aminopeptidase N,YPO1414(),GenBank
+YPO1415-MONOMER,quinone-dependent dihydroorotate dehydrogenase,YPO1415(),GenBank
 YPO1416-MONOMER,cell division protein ZapC,YPO1416(),GenBank
 YPO1417-MONOMER,YcbX family protein,YPO1417(),GenBank
 YPO1418-MONOMER,bifunctional 23S rRNA (guanine(2069)-N(7))-methyltransferase RlmK/23S rRNA (guanine(2445)-N(2))-methyltransferase RlmL,YPO1418(2),GenBank
@@ -1416,11 +1416,11 @@ YPO1426-MONOMER,IS21-like element IS100kyp family helper ATPase IstB,YPO1426(),G
 YPO1427-MONOMER,IS21-like element IS100 family transposase,YPO1427(),GenBank
 YPO1427b-MONOMER,beta-ketoacyl synthase N-terminal-like domain-containing protein,YPO1427b(),GenBank
 YPO1429-MONOMER,hypothetical protein,YPO1429(),GenBank
-YPO1430-MONOMER,bifunctional 3-hydroxydecanoyl-ACP dehydratase/trans-2-decenoyl-ACP isomerase,YPO1430(2),GenBank
+YPO1430-MONOMER,bifunctional 3-hydroxydecanoyl-ACP dehydratase/trans-2-decenoyl-ACP isomerase,YPO1430(),GenBank
 YPO1431-MONOMER,Lon protease family protein,YPO1431(),GenBank
 YPO1433-MONOMER,macrodomain Ter protein MatP,YPO1433(),GenBank
 YPO1434-MONOMER,IS200/IS605-like element IS1541B family transposase,YPO1434(),GenBank
-YPO1435-MONOMER,porin OmpA,YPO1435(1),GenBank
+YPO1435-MONOMER,porin OmpA,YPO1435(),GenBank
 YPO1436-MONOMER,cell division inhibitor SulA,YPO1436(),GenBank
 YPO1437-MONOMER,TfoX/Sxy family DNA transformation protein,YPO1437(),GenBank
 YPO1438-MONOMER,YccS family putative transporter,YPO1438(),GenBank
@@ -1432,7 +1432,7 @@ YPO1443-MONOMER,CoA-binding protein,YPO1443(),GenBank
 YPO1444-MONOMER,heat shock protein HspQ,YPO1444(),GenBank
 YPO1445-MONOMER,23S rRNA (cytosine(1962)-C(5))-methyltransferase RlmI,YPO1445(2),GenBank
 YPO1446-MONOMER,acylphosphatase,YPO1446(1),GenBank
-YPO1447-MONOMER,sulfurtransferase TusE,YPO1447(1),GenBank
+YPO1447-MONOMER,sulfurtransferase TusE,YPO1447(),GenBank
 YPO1448-MONOMER,IS6 family transposase,YPO1448(),GenBank
 YPO1449-MONOMER,cytotoxic necrotizing factor CNFY,YPO1449(),GenBank
 YPO1451-MONOMER,GNAT family N-acetyltransferase,YPO1451(),GenBank
@@ -1476,15 +1476,15 @@ YPO1490-MONOMER,NleF caspase inhibitor,YPO1490(),GenBank
 YPO1491-MONOMER,ABC-F family ATPase,YPO1491(),GenBank
 YPO1492-MONOMER,NleF caspase inhibitor,YPO1492(),GenBank
 YPO1493-MONOMER,IS256 family transposase,YPO1493(),GenBank
-YPO1494-MONOMER,molybdopterin-synthase adenylyltransferase MoeB,YPO1494(1),GenBank
+YPO1494-MONOMER,molybdopterin-synthase adenylyltransferase MoeB,YPO1494(),GenBank
 YPO1495-MONOMER,molybdopterin molybdotransferase MoeA,YPO1495(1),GenBank
 YPO1496-MONOMER,darobactin maturation radical SAM/SPASM protein DarE,YPO1496(),GenBank
 YPO1497-MONOMER,darobactin export ABC transporter ATP-binding protein,YPO1497(),GenBank
 YPO1498-MONOMER,darobactin export ABC transporter periplasmic adaptor subunit,YPO1498(),GenBank
 YPO1499-MONOMER,darobactin export ABC transporter permease subunit,YPO1499(),GenBank
 YPO1500-MONOMER,peptide antibiotic darobactin C,YPO1500(),GenBank
-YPO1501-MONOMER,S-formylglutathione hydrolase,YPO1501(4),GenBank
-YPO1502-MONOMER,S-(hydroxymethyl)glutathione dehydrogenase/class III alcohol dehydrogenase,YPO1502(2),GenBank
+YPO1501-MONOMER,S-formylglutathione hydrolase,YPO1501(),GenBank
+YPO1502-MONOMER,S-(hydroxymethyl)glutathione dehydrogenase/class III alcohol dehydrogenase,YPO1502(),GenBank
 YPO1503-MONOMER,LysR family transcriptional regulator,YPO1503(),GenBank
 YPO1504-MONOMER,YbfB/YjiJ family MFS transporter,YPO1504(),GenBank
 YPO1505-MONOMER,GTP cyclohydrolase I FolE,YPO1505(10),GenBank
@@ -1494,7 +1494,7 @@ YPO1508-MONOMER,galactose/methyl galactoside ABC transporter ATP-binding protein
 YPO1509-MONOMER,galactose/methyl galactoside ABC transporter permease MglC,YPO1509(),GenBank
 YPO1510-MONOMER,outer membrane permeability protein SanA,YPO1510(),GenBank
 YPO1511-MONOMER,NAD-dependent malic enzyme,YPO1511(4),GenBank
-YPO1512-MONOMER,cytidine deaminase,YPO1512(2),GenBank
+YPO1512-MONOMER,cytidine deaminase,YPO1512(),GenBank
 YPO1513-MONOMER,CidB/LrgB family autolysis modulator,YPO1513(),GenBank
 YPO1514-MONOMER,CidA/LrgA family protein,YPO1514(),GenBank
 YPO1515-MONOMER,MFS transporter,YPO1515(),GenBank
@@ -1507,10 +1507,10 @@ YPO1521-MONOMER,IS200/IS605-like element IS1541B family transposase,YPO1521(),Ge
 YPO1522-MONOMER,methionine--tRNA ligase,YPO1522(2),GenBank
 YPO1523-MONOMER,iron-sulfur cluster carrier protein ApbC,YPO1523(),GenBank
 YPO1524-MONOMER,uridine kinase,YPO1524(1),GenBank
-YPO1525-MONOMER,dCTP deaminase,YPO1525(3),GenBank
+YPO1525-MONOMER,dCTP deaminase,YPO1525(),GenBank
 YPO1526-MONOMER,outer membrane assembly protein AsmA,YPO1526(),GenBank
 YPO1527-MONOMER,TerC family protein,YPO1527(),GenBank
-YPO1528-MONOMER,siderophore-iron reductase FhuF,YPO1528(1),GenBank
+YPO1528-MONOMER,siderophore-iron reductase FhuF,YPO1528(),GenBank
 YPO1529-MONOMER,aspartate aminotransferase family protein,YPO1529(),GenBank
 YPO1530-MONOMER,lysine N(6)-hydroxylase/L-ornithine N(5)-oxygenase family protein,YPO1530(),GenBank
 YPO1531-MONOMER,GNAT family N-acetyltransferase,YPO1531(),GenBank
@@ -1551,7 +1551,7 @@ YPO1564-MONOMER,thiol-disulfide oxidoreductase DCC family protein,YPO1564(),GenB
 YPO1565-MONOMER,SDR family oxidoreductase,YPO1565(),GenBank
 YPO1566-MONOMER,fumarylacetoacetate hydrolase family protein,YPO1566(),GenBank
 YPO1567-MONOMER,enolase C-terminal domain-like protein,YPO1567(),GenBank
-YPO1569-MONOMER,FMN-dependent L-lactate dehydrogenase LldD,YPO1569(1),GenBank
+YPO1569-MONOMER,FMN-dependent L-lactate dehydrogenase LldD,YPO1569(),GenBank
 YPO1570-MONOMER,argininosuccinate synthase,YPO1570(4),GenBank
 YPO1571-MONOMER,EmmdR/YeeO family multidrug/toxin efflux MATE transporter,YPO1571(),GenBank
 YPO1572-MONOMER,MFS transporter,YPO1572(),GenBank
@@ -1562,23 +1562,23 @@ YPO1576-MONOMER,response regulator transcription factor,YPO1576(),GenBank
 YPO1577-MONOMER,TRAP transporter large permease,YPO1577(),GenBank
 YPO1578-MONOMER,TRAP transporter small permease,YPO1578(),GenBank
 YPO1579-MONOMER,TRAP transporter substrate-binding protein,YPO1579(),GenBank
-YPO1580-MONOMER,4'-phosphopantetheinyl transferase,YPO1580(1),GenBank
+YPO1580-MONOMER,4'-phosphopantetheinyl transferase,YPO1580(),GenBank
 YPO1580a-MONOMER,hypothetical protein,YPO1580a(),GenBank
 YPO1581-MONOMER,alpha-galactosidase,YPO1581(),GenBank
-YPO1582-MONOMER,MFS transporter,YPO1582(1),GenBank
+YPO1582-MONOMER,MFS transporter,YPO1582(),GenBank
 YPO1583-MONOMER,IS256 family transposase,YPO1583(),GenBank
 YPO1583a-MONOMER,biofilm formation regulator BssS,YPO1583a(),GenBank
 YPO1586-MONOMER,DNA damage-inducible protein I,YPO1586(),GenBank
-YPO1587-MONOMER,dihydroorotase,YPO1587(2),GenBank
+YPO1587-MONOMER,dihydroorotase,YPO1587(),GenBank
 YPO1588-MONOMER,putative quinol monooxygenase,YPO1588(),GenBank
 YPO_RS08935-MONOMER,IS3 family transposase,YPO_RS08935(),GenBank
 YPO1589-MONOMER,IS256 family transposase,YPO1589(),GenBank
-YPO1590-MONOMER,ribonuclease E,YPO1590(4),GenBank
-YPO1591-MONOMER,23S rRNA pseudouridine(955/2504/2580) synthase RluC,YPO1591(1),GenBank
+YPO1590-MONOMER,ribonuclease E,YPO1590(),GenBank
+YPO1591-MONOMER,23S rRNA pseudouridine(955/2504/2580) synthase RluC,YPO1591(),GenBank
 YPO1592-MONOMER,IS200/IS605-like element IS1541A family transposase,YPO1592(),GenBank
 YPO1593-MONOMER,Maf family protein,YPO1593(),GenBank
 YPO1594-MONOMER,23S rRNA accumulation protein YceD,YPO1594(),GenBank
-YPO1595-MONOMER,50S ribosomal protein L32,YPO1595(1),GenBank
+YPO1595-MONOMER,50S ribosomal protein L32,YPO1595(),GenBank
 YPO1596-MONOMER,phosphate acyltransferase PlsX,YPO1596(1),GenBank
 YPO1597-MONOMER,ketoacyl-ACP synthase III,YPO1597(2),GenBank
 YPO1598-MONOMER,ACP S-malonyltransferase,YPO1598(),GenBank
@@ -1586,7 +1586,7 @@ YPO1599-MONOMER,3-oxoacyl-ACP reductase FabG,YPO1599(1),GenBank
 YPO1600-MONOMER,acyl carrier protein,YPO1600(1),GenBank
 YPO1601-MONOMER,beta-ketoacyl-ACP synthase II,YPO1601(2),GenBank
 YPO1602-MONOMER,IS200/IS605-like element IS1541B family transposase,YPO1602(),GenBank
-YPO1603-MONOMER,aminodeoxychorismate lyase,YPO1603(2),GenBank
+YPO1603-MONOMER,aminodeoxychorismate lyase,YPO1603(),GenBank
 YPO_RS22110-MONOMER,gluconate 5-dehydrogenase,YPO_RS22110(),GenBank
 YPO1604-MONOMER,endolytic transglycosylase MltG,YPO1604(),GenBank
 YPO1605-MONOMER,dTMP kinase,YPO1605(1),GenBank
@@ -1594,12 +1594,12 @@ YPO1606-MONOMER,DNA polymerase III subunit delta',YPO1606(),GenBank
 YPO1607-MONOMER,metal-dependent hydrolase,YPO1607(),GenBank
 YPO1608-MONOMER,PTS glucose transporter subunit IIBC,YPO1608(),GenBank
 YPO1609-MONOMER,IS200/IS605-like element IS1541A family transposase,YPO1609(),GenBank
-YPO1610-MONOMER,shikimate 5-dehydrogenase,YPO1610(2),GenBank
+YPO1610-MONOMER,shikimate 5-dehydrogenase,YPO1610(),GenBank
 YPO1611-MONOMER,purine nucleoside phosphoramidase,YPO1611(),GenBank
 YPO1612-MONOMER,YcfL family protein,YPO1612(),GenBank
 YPO1613-MONOMER,penicillin-binding protein activator LpoB,YPO1613(),GenBank
-YPO1614-MONOMER,thiamine kinase,YPO1614(1),GenBank
-YPO1615-MONOMER,beta-N-acetylhexosaminidase,YPO1615(1),GenBank
+YPO1614-MONOMER,thiamine kinase,YPO1614(),GenBank
+YPO1615-MONOMER,beta-N-acetylhexosaminidase,YPO1615(),GenBank
 YPO1616-MONOMER,alpha/beta hydrolase YcfP,YPO1616(),GenBank
 YPO1617-MONOMER,NAD(P)/FAD-dependent oxidoreductase,YPO1617(1),GenBank
 YPO1619-MONOMER,hypothetical protein,YPO1619(),GenBank
@@ -1612,7 +1612,7 @@ YPO1625-MONOMER,transcription-repair coupling factor,YPO1625(1),GenBank
 YPO1626-MONOMER,lipoprotein-releasing ABC transporter permease subunit LolC,YPO1626(),GenBank
 YPO1627-MONOMER,lipoprotein-releasing ABC transporter ATP-binding protein LolD,YPO1627(),GenBank
 YPO1628-MONOMER,lipoprotein-releasing ABC transporter permease subunit LolE,YPO1628(),GenBank
-YPO1629-MONOMER,N-acetylglucosamine kinase,YPO1629(1),GenBank
+YPO1629-MONOMER,N-acetylglucosamine kinase,YPO1629(),GenBank
 YPO_RS22430-MONOMER,hypothetical protein,YPO_RS22430(),GenBank
 YPO1630-MONOMER,NAD-dependent protein deacylase,YPO1630(),GenBank
 YPO1631-MONOMER,peptidase T,YPO1631(),GenBank
@@ -1623,8 +1623,8 @@ YPO1635-MONOMER,outer membrane beta-barrel protein,YPO1635(),GenBank
 YPO1636-MONOMER,adenylosuccinate lyase,YPO1636(1),GenBank
 YPO1637-MONOMER,high frequency lysogenization protein HflD,YPO1637(),GenBank
 YPO1638-MONOMER,tRNA 2-thiouridine(34) synthase MnmA,YPO1638(1),GenBank
-YPO1639-MONOMER,NUDIX hydrolase,YPO1639(1),GenBank
-YPO1640-MONOMER,23S rRNA pseudouridine(2457) synthase RluE,YPO1640(1),GenBank
+YPO1639-MONOMER,NUDIX hydrolase,YPO1639(),GenBank
+YPO1640-MONOMER,23S rRNA pseudouridine(2457) synthase RluE,YPO1640(),GenBank
 YPO1641-MONOMER,NADP-dependent isocitrate dehydrogenase,YPO1641(2),GenBank
 YPO1642-MONOMER,LacI family DNA-binding transcriptional regulator,YPO1642(),GenBank
 YPO1643-MONOMER,hypothetical protein,YPO1643(),GenBank
@@ -1632,18 +1632,18 @@ YPO1644-MONOMER,PAS domain-containing methyl-accepting chemotaxis protein,YPO164
 YPO1645-MONOMER,SDR family oxidoreductase,YPO1645(),GenBank
 YPO1646-MONOMER,helix-turn-helix domain-containing protein,YPO1646(),GenBank
 YPO1647-MONOMER,hypothetical protein,YPO1647(),GenBank
-YPO1648-MONOMER,AppA family phytase/histidine-type acid phosphatase,YPO1648(2),GenBank
+YPO1648-MONOMER,AppA family phytase/histidine-type acid phosphatase,YPO1648(),GenBank
 YPO1649-MONOMER,putative selenium delivery protein YdfZ,YPO1649(),GenBank
 YPO1650-MONOMER,Kdo hydroxylase family protein,YPO1650(),GenBank
 YPO1651-MONOMER,Lrp/AsnC family transcriptional regulator,YPO1651(),GenBank
 YPO1652-MONOMER,YlaC family protein,YPO1652(),GenBank
 YPO1653-MONOMER,NAD(P)H-quinone oxidoreductase,YPO1653(),GenBank
-YPO1654-MONOMER,beta-galactosidase,YPO1654(4),GenBank
+YPO1654-MONOMER,beta-galactosidase,YPO1654(),GenBank
 YPO1655-MONOMER,transcription antiterminator/RNA stability regulator CspE,YPO1655(),GenBank
 YPO1656-MONOMER,protein DsrB,YPO1656(),GenBank
 YPO1657-MONOMER,methyl-accepting chemotaxis protein,YPO1657(),GenBank
 YPO1660-MONOMER,MgtC family protein,YPO1660(),GenBank
-YPO1661-MONOMER,magnesium-translocating P-type ATPase,YPO1661(1),GenBank
+YPO1661-MONOMER,magnesium-translocating P-type ATPase,YPO1661(),GenBank
 YPO1662-MONOMER,flagellar transcriptional regulator FlhD,YPO1662(),GenBank
 YPO1663-MONOMER,flagellar transcriptional regulator FlhC,YPO1663(),GenBank
 YPO1664-MONOMER,flagellar motor stator protein MotA,YPO1664(),GenBank
@@ -1727,7 +1727,7 @@ YPO1740-MONOMER,YebO family protein,YPO1740(),GenBank
 YPO1741-MONOMER,DUF2591 family protein,YPO1741(),GenBank
 YPO1742-MONOMER,DUF4060 family protein,YPO1742(),GenBank
 YPO1743-MONOMER,amino acid permease,YPO1743(),GenBank
-YPO1744-MONOMER,lipid IV(A) palmitoyltransferase PagP,YPO1744(2),GenBank
+YPO1744-MONOMER,lipid IV(A) palmitoyltransferase PagP,YPO1744(),GenBank
 YPO1745-MONOMER,DUF2627 domain-containing protein,YPO1745(),GenBank
 YPO1746-MONOMER,transcription antiterminator/RNA stability regulator CspE,YPO1746(),GenBank
 YPO1747-MONOMER,peptidoglycan editing factor PgeF,YPO1747(),GenBank
@@ -1749,12 +1749,12 @@ YPO1761a-MONOMER,fumarylacetoacetate hydrolase family protein,YPO1761a(),GenBank
 YPO1763-MONOMER,aldehyde dehydrogenase,YPO1763(),GenBank
 YPO1764-MONOMER,"3,4-dihydroxyphenylacetate 2,3-dioxygenase",YPO1764(),GenBank
 YPO1765-MONOMER,5-carboxymethyl-2-hydroxymuconate Delta-isomerase,YPO1765(),GenBank
-YPO1766-MONOMER,"2-oxo-hepta-3-ene-1,7-dioic acid hydratase",YPO1766(1),GenBank
+YPO1766-MONOMER,"2-oxo-hepta-3-ene-1,7-dioic acid hydratase",YPO1766(),GenBank
 YPO1767-MONOMER,4-hydroxy-2-oxoheptanedioate aldolase,YPO1767(),GenBank
 YPO1768-MONOMER,4-hydroxyphenylacetate permease,YPO1768(),GenBank
 YPO1769-MONOMER,"4-hydroxyphenylacetate 3-monooxygenase, oxygenase component",YPO1769(),GenBank
 YPO1770-MONOMER,"4-hydroxyphenylacetate 3-monooxygenase, reductase component",YPO1770(),GenBank
-YPO1771-MONOMER,L-serine ammonia-lyase,YPO1771(1),GenBank
+YPO1771-MONOMER,L-serine ammonia-lyase,YPO1771(2),GenBank
 YPO1772-MONOMER,CoA pyrophosphatase,YPO1772(),GenBank
 YPO1773-MONOMER,aminodeoxychorismate synthase component 1,YPO1773(1),GenBank
 YPO1774-MONOMER,YoaH family protein,YPO1774(),GenBank
@@ -1827,14 +1827,14 @@ YPO1841-MONOMER,flagellar filament capping protein FliD,YPO1841(),GenBank
 YPO1842-MONOMER,FliC/FljB family flagellin,YPO1842(),GenBank
 YPO1843-MONOMER,RNA polymerase sigma factor FliA,YPO1843(1),GenBank
 YPO1844-MONOMER,flagella biosynthesis regulatory protein FliZ,YPO1844(),GenBank
-YPO1845-MONOMER,D-cysteine desulfhydrase,YPO1845(2),GenBank
+YPO1845-MONOMER,D-cysteine desulfhydrase,YPO1845(),GenBank
 YPO1846-MONOMER,cystine ABC transporter substrate-binding protein,YPO1846(),GenBank
 YPO1847-MONOMER,cystine ABC transporter permease,YPO1847(),GenBank
 YPO1848-MONOMER,L-cystine ABC transporter ATP-binding protein YecC,YPO1848(),GenBank
 YPO_RS22125-MONOMER,gluconate 5-dehydrogenase,YPO_RS22125(),GenBank
 YPO1849-MONOMER,HTH domain-containing protein,YPO1849(),GenBank
 YPO1850-MONOMER,DUF6516 family protein,YPO1850(),GenBank
-YPO1851-MONOMER,trifunctional transcriptional regulator/proline dehydrogenase/L-glutamate gamma-semialdehyde dehydrogenase,YPO1851(2),GenBank
+YPO1851-MONOMER,trifunctional transcriptional regulator/proline dehydrogenase/L-glutamate gamma-semialdehyde dehydrogenase,YPO1851(),GenBank
 YPO1852-MONOMER,hypothetical protein,YPO1852(),GenBank
 YPO1853-MONOMER,sodium/proline symporter PutP,YPO1853(1),GenBank
 YPO1854-MONOMER,FTR1 family protein,YPO1854(),GenBank
@@ -1905,7 +1905,7 @@ YPO1922-MONOMER,fimbrial protein,YPO1922(),GenBank
 YPO_RS10605-MONOMER,response regulator,YPO_RS10605(),GenBank
 YPO_RS10610-MONOMER,transporter substrate-binding domain-containing protein,YPO_RS10610(),GenBank
 YPO1925-MONOMER,response regulator transcription factor,YPO1925(),GenBank
-YPO1926-MONOMER,itaconate CoA-transferase RipA/Ict,YPO1926(1),GenBank
+YPO1926-MONOMER,itaconate CoA-transferase RipA/Ict,YPO1926(),GenBank
 YPO1927-MONOMER,(R)-specific enoyl-CoA hydratase RipB/Ich,YPO1927(),GenBank
 YPO1928-MONOMER,itaconate degradation C-C-lyase RipC,YPO1928(),GenBank
 YPO1929-MONOMER,itaconate degradation transcriptional regulator RipR,YPO1929(),GenBank
@@ -1916,10 +1916,10 @@ YPO1933-MONOMER,amidohydrolase,YPO1933(),GenBank
 YPO1934-MONOMER,LysR substrate-binding domain-containing protein,YPO1934(),GenBank
 YPO1935-MONOMER,NADH:ubiquinone reductase (Na(+)-transporting) subunit E,YPO1935(),GenBank
 YPO1936-MONOMER,PLP-dependent aminotransferase family protein,YPO1936(),GenBank
-YPO1937-MONOMER,L-asparagine permease,YPO1937(1),GenBank
+YPO1937-MONOMER,L-asparagine permease,YPO1937(),GenBank
 YPO1938-MONOMER,DNA-binding transcriptional repressor YgbI,YPO1938(),GenBank
 YPO_RS10685-MONOMER,hypothetical protein,YPO_RS10685(),GenBank
-YPO1939-MONOMER,glutaminase A,YPO1939(4),GenBank
+YPO1939-MONOMER,glutaminase A,YPO1939(),GenBank
 YPO1940-MONOMER,MFS transporter,YPO1940(),GenBank
 YPO_RS21830-MONOMER,gluconate 5-dehydrogenase,YPO_RS21830(),GenBank
 YPO1941-MONOMER,FTR1 family iron permease,YPO1941(),GenBank
@@ -1939,15 +1939,15 @@ YPO1954-MONOMER,"poly-beta-1,6-N-acetyl-D-glucosamine biosynthesis protein PgaD"
 YPO1955-MONOMER,GNAT family protein,YPO1955(),GenBank
 YPO1956-MONOMER,hypothetical protein,YPO1956(),GenBank
 YPO1957-MONOMER,phosphate starvation-inducible protein PhoH,YPO1957(),GenBank
-YPO1958-MONOMER,sodium-potassium/proton antiporter ChaA,YPO1958(1),GenBank
+YPO1958-MONOMER,sodium-potassium/proton antiporter ChaA,YPO1958(),GenBank
 YPO1959-MONOMER,nitrate/nitrite two-component system sensor histidine kinase NarX,YPO1959(),GenBank
 YPO_RS22140-MONOMER,hypothetical protein,YPO_RS22140(),GenBank
 YPO1960-MONOMER,PLP-dependent aminotransferase family protein,YPO1960(),GenBank
 YPO1962-MONOMER,aspartate aminotransferase family protein,YPO1962(2),GenBank
-YPO1963-MONOMER,arginine N-succinyltransferase,YPO1963(1),GenBank
-YPO1964-MONOMER,succinylglutamate-semialdehyde dehydrogenase,YPO1964(1),GenBank
-YPO1965-MONOMER,N-succinylarginine dihydrolase,YPO1965(1),GenBank
-YPO1966-MONOMER,succinylglutamate desuccinylase,YPO1966(1),GenBank
+YPO1963-MONOMER,arginine N-succinyltransferase,YPO1963(),GenBank
+YPO1964-MONOMER,succinylglutamate-semialdehyde dehydrogenase,YPO1964(),GenBank
+YPO1965-MONOMER,N-succinylarginine dihydrolase,YPO1965(),GenBank
+YPO1966-MONOMER,succinylglutamate desuccinylase,YPO1966(),GenBank
 YPO1967-MONOMER,porin,YPO1967(),GenBank
 YPO1968-MONOMER,IS21-like element IS100 family transposase,YPO1968(),GenBank
 YPO1969-MONOMER,IS21-like element IS100kyp family helper ATPase IstB,YPO1969(),GenBank
@@ -1997,7 +1997,7 @@ YPO2011-MONOMER,aminoacyl-tRNA hydrolase,YPO2011(),GenBank
 YPO2012-MONOMER,stress-induced protein YchH,YPO2012(),GenBank
 YPO2013-MONOMER,ribose-phosphate diphosphokinase,YPO2013(1),GenBank
 YPO2014-MONOMER,4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase,YPO2014(2),GenBank
-YPO2015-MONOMER,lipoprotein insertase outer membrane protein LolB,YPO2015(1),GenBank
+YPO2015-MONOMER,lipoprotein insertase outer membrane protein LolB,YPO2015(),GenBank
 YPO2016-MONOMER,glutamyl-tRNA reductase,YPO2016(2),GenBank
 YPO2017-MONOMER,peptide chain release factor 1,YPO2017(1),GenBank
 YPO2018-MONOMER,peptide chain release factor N(5)-glutamine methyltransferase,YPO2018(),GenBank
@@ -2031,12 +2031,12 @@ YPO2045-MONOMER,hemagglutinin repeat-containing protein,YPO2045(),GenBank
 YPO2046-MONOMER,arginine--tRNA ligase,YPO2046(1),GenBank
 YPO2047-MONOMER,VOC family protein,YPO2047(),GenBank
 YPO2048-MONOMER,copper homeostasis protein CutC,YPO2048(),GenBank
-YPO2049-MONOMER,tRNA 5-methoxyuridine(34)/uridine 5-oxyacetic acid(34) synthase CmoB,YPO2049(1),GenBank
-YPO2050-MONOMER,carboxy-S-adenosyl-L-methionine synthase CmoA,YPO2050(1),GenBank
+YPO2049-MONOMER,tRNA 5-methoxyuridine(34)/uridine 5-oxyacetic acid(34) synthase CmoB,YPO2049(),GenBank
+YPO2050-MONOMER,carboxy-S-adenosyl-L-methionine synthase CmoA,YPO2050(),GenBank
 YPO2051-MONOMER,MAPEG family protein,YPO2051(),GenBank
 YPO2052-MONOMER,DUF72 domain-containing protein,YPO2052(),GenBank
 YPO2053-MONOMER,aspartate--tRNA ligase,YPO2053(2),GenBank
-YPO2054-MONOMER,dihydroneopterin triphosphate diphosphatase,YPO2054(1),GenBank
+YPO2054-MONOMER,dihydroneopterin triphosphate diphosphatase,YPO2054(),GenBank
 YPO2055-MONOMER,YebC/PmpR family DNA-binding transcriptional regulator,YPO2055(),GenBank
 YPO2056-MONOMER,crossover junction endodeoxyribonuclease RuvC,YPO2056(),GenBank
 YPO2057-MONOMER,Holliday junction branch migration protein RuvA,YPO2057(),GenBank
@@ -2045,9 +2045,9 @@ YPO2059-MONOMER,zinc ABC transporter permease subunit ZnuB,YPO2059(),GenBank
 YPO2060-MONOMER,zinc ABC transporter ATP-binding protein ZnuC,YPO2060(),GenBank
 YPO2061-MONOMER,zinc ABC transporter substrate-binding protein ZnuA,YPO2061(),GenBank
 YPO2062-MONOMER,murein DD-endopeptidase MepM,YPO2062(),GenBank
-YPO2063-MONOMER,lauroyl-Kdo(2)-lipid IV(A) myristoyltransferase,YPO2063(1),GenBank
+YPO2063-MONOMER,lauroyl-Kdo(2)-lipid IV(A) myristoyltransferase,YPO2063(),GenBank
 YPO_RS21845-MONOMER,gluconate 5-dehydrogenase,YPO_RS21845(),GenBank
-YPO2064-MONOMER,pyruvate kinase,YPO2064(4),GenBank
+YPO2064-MONOMER,pyruvate kinase,YPO2064(),GenBank
 YPO2065-MONOMER,MurR/RpiR family transcriptional regulator,YPO2065(),GenBank
 YPO2066-MONOMER,glucose-6-phosphate dehydrogenase,YPO2066(1),GenBank
 YPO2067-MONOMER,bifunctional 4-hydroxy-2-oxoglutarate aldolase/2-dehydro-3-deoxy-phosphogluconate aldolase,YPO2067(3),GenBank
@@ -2059,7 +2059,7 @@ YPO2072-MONOMER,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dim
 YPO2073-MONOMER,Slp family lipoprotein,YPO2073(),GenBank
 YPO_RS11370-MONOMER,gluconate 5-dehydrogenase,YPO_RS11370(),GenBank
 YPO2074-MONOMER,long-chain-fatty-acid--CoA ligase FadD,YPO2074(2),GenBank
-YPO2075-MONOMER,ribonuclease D,YPO2075(1),GenBank
+YPO2075-MONOMER,ribonuclease D,YPO2075(),GenBank
 YPO2076-MONOMER,cell division topological specificity factor MinE,YPO2076(),GenBank
 YPO2077-MONOMER,septum site-determining protein MinD,YPO2077(),GenBank
 YPO2078-MONOMER,septum site-determining protein MinC,YPO2078(),GenBank
@@ -2125,11 +2125,11 @@ YPO2138-MONOMER,cysteine desulfurase family protein,YPO2138(),GenBank
 YPO2139-MONOMER,hypothetical protein,YPO2139(),GenBank
 YPO2140-MONOMER,hypothetical protein,YPO2140(),GenBank
 YPO_RS22165-MONOMER,YnfU family zinc-binding protein,YPO_RS22165(),GenBank
-YPO2141-MONOMER,disulfide bond formation protein DsbB,YPO2141(1),GenBank
-YPO2142-MONOMER,sodium/proton antiporter NhaB,YPO2142(1),GenBank
+YPO2141-MONOMER,disulfide bond formation protein DsbB,YPO2141(),GenBank
+YPO2142-MONOMER,sodium/proton antiporter NhaB,YPO2142(),GenBank
 YPO2144-MONOMER,fatty acid metabolism transcriptional regulator FadR,YPO2144(),GenBank
 YPO2145-MONOMER,SpoVR family protein,YPO2145(),GenBank
-YPO2147-MONOMER,D-amino acid dehydrogenase,YPO2147(1),GenBank
+YPO2147-MONOMER,D-amino acid dehydrogenase,YPO2147(),GenBank
 YPO2148-MONOMER,multidrug effflux MFS transporter,YPO2148(),GenBank
 YPO2149-MONOMER,pirin family protein,YPO2149(),GenBank
 YPO2150-MONOMER,LysR family transcriptional regulator,YPO2150(),GenBank
@@ -2141,26 +2141,26 @@ YPO2156-MONOMER,D-hexose-6-phosphate mutarotase,YPO2156(),GenBank
 YPO2157-MONOMER,glyceraldehyde-3-phosphate dehydrogenase,YPO2157(4),GenBank
 YPO2158-MONOMER,peptide-methionine (R)-S-oxide reductase MsrB,YPO2158(1),GenBank
 YPO2159-MONOMER,YeaC family protein,YPO2159(),GenBank
-YPO2160-MONOMER,bifunctional nicotinamidase/pyrazinamidase,YPO2160(1),GenBank
+YPO2160-MONOMER,bifunctional nicotinamidase/pyrazinamidase,YPO2160(),GenBank
 YPO2161-MONOMER,asparaginase,YPO2161(2),GenBank
 YPO2162-MONOMER,signal peptide peptidase SppA,YPO2162(),GenBank
 YPO2163-MONOMER,NAD(P)H nitroreductase,YPO2163(),GenBank
-YPO2164-MONOMER,"selenide, water dikinase SelD",YPO2164(1),GenBank
+YPO2164-MONOMER,"selenide, water dikinase SelD",YPO2164(),GenBank
 YPO2165-MONOMER,DNA topoisomerase III,YPO2165(),GenBank
 YPO2166-MONOMER,DUF1496 domain-containing protein,YPO2166(),GenBank
-YPO2167-MONOMER,pyrimidine (deoxy)nucleoside triphosphate diphosphatase,YPO2167(1),GenBank
+YPO2167-MONOMER,pyrimidine (deoxy)nucleoside triphosphate diphosphatase,YPO2167(),GenBank
 YPO2168-MONOMER,exodeoxyribonuclease III,YPO2168(),GenBank
 YPO2169-MONOMER,LysR family transcriptional regulator,YPO2169(),GenBank
 YPO2170-MONOMER,IS256 family transposase,YPO2170(),GenBank
 YPO2171-MONOMER,formyltetrahydrofolate deformylase,YPO2171(6),GenBank
 YPO2172-MONOMER,YchJ family protein,YPO2172(),GenBank
 YPO2173-MONOMER,two-component system response regulator RssB,YPO2173(),GenBank
-YPO2174-MONOMER,UDP-glucose/GDP-mannose dehydrogenase family protein,YPO2174(),GenBank
+YPO2174-MONOMER,UDP-glucose/GDP-mannose dehydrogenase family protein,YPO2174(1),GenBank
 YPO2175-MONOMER,DNA-binding transcriptional regulator H-NS,YPO2175(),GenBank
 YPO2176-MONOMER,thymidine kinase,YPO2176(1),GenBank
 YPO2177-MONOMER,IS21-like element IS100kyp family helper ATPase IstB,YPO2177(),GenBank
 YPO2178-MONOMER,IS21-like element IS100 family transposase,YPO2178(),GenBank
-YPO2180-MONOMER,bifunctional acetaldehyde-CoA/alcohol dehydrogenase,YPO2180(40),GenBank
+YPO2180-MONOMER,bifunctional acetaldehyde-CoA/alcohol dehydrogenase,YPO2180(),GenBank
 YPO2181-MONOMER,YchE family NAAT transporter,YPO2181(),GenBank
 YPO2182-MONOMER,oligopeptide ABC transporter substrate-binding protein OppA,YPO2182(),GenBank
 YPO2183-MONOMER,oligopeptide ABC transporter permease OppB,YPO2183(),GenBank
@@ -2189,13 +2189,13 @@ YPO2202-MONOMER,BON domain-containing protein,YPO2202(),GenBank
 YPO2203-MONOMER,tryptophan synthase subunit alpha,YPO2203(),GenBank
 YPO2204-MONOMER,tryptophan synthase subunit beta,YPO2204(),GenBank
 YPO2205-MONOMER,bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF,YPO2205(1),GenBank
-YPO_RS22170-MONOMER,bifunctional anthranilate synthase glutamate amidotransferase component TrpG/anthranilate phosphoribosyltransferase TrpD,YPO_RS22170(1),GenBank
+YPO_RS22170-MONOMER,bifunctional anthranilate synthase glutamate amidotransferase component TrpG/anthranilate phosphoribosyltransferase TrpD,YPO_RS22170(),GenBank
 YPO2208-MONOMER,anthranilate synthase component 1,YPO2208(),GenBank
 YPO2209-MONOMER,trp operon leader peptide,YPO2209(),GenBank
 YPO2211-MONOMER,PHP domain-containing protein,YPO2211(),GenBank
 YPO2212-MONOMER,L-threonylcarbamoyladenylate synthase,YPO2212(),GenBank
 YPO2213-MONOMER,23S rRNA pseudouridine(2605) synthase RluB,YPO2213(1),GenBank
-YPO2214-MONOMER,"cob(I)yrinic acid a,c-diamide adenosyltransferase",YPO2214(1),GenBank
+YPO2214-MONOMER,"cob(I)yrinic acid a,c-diamide adenosyltransferase",YPO2214(),GenBank
 YPO2215-MONOMER,YciK family oxidoreductase,YPO2215(),GenBank
 YPO2216-MONOMER,protease SohB,YPO2216(),GenBank
 YPO2217-MONOMER,YciN family protein,YPO2217(),GenBank
@@ -2205,7 +2205,7 @@ YPO2219-MONOMER,HTH-type transcriptional regulator CysB,YPO2219(),GenBank
 YPO2220-MONOMER,hypothetical protein,YPO2220(),GenBank
 YPO2221-MONOMER,aconitate hydratase AcnA,YPO2221(2),GenBank
 YPO2222-MONOMER,GTP cyclohydrolase II,YPO2222(2),GenBank
-YPO2223-MONOMER,phosphatidylglycerophosphatase B,YPO2223(1),GenBank
+YPO2223-MONOMER,phosphatidylglycerophosphatase B,YPO2223(),GenBank
 YPO2224-MONOMER,LapA family protein,YPO2224(),GenBank
 YPO2225-MONOMER,lipopolysaccharide assembly protein LapB,YPO2225(),GenBank
 YPO2226-MONOMER,hypothetical protein,YPO2226(),GenBank
@@ -2217,7 +2217,7 @@ YPO2231-MONOMER,DUF2164 domain-containing protein,YPO2231(),GenBank
 YPO2232-MONOMER,fructose-6-phosphate aldolase,YPO2232(12),GenBank
 YPO2233-MONOMER,YbdD/YjiX family protein,YPO2233(),GenBank
 YPO2234-MONOMER,carbon starvation CstA family protein,YPO2234(),GenBank
-YPO2235-MONOMER,exoribonuclease II,YPO2235(1),GenBank
+YPO2235-MONOMER,exoribonuclease II,YPO2235(),GenBank
 YPO2237-MONOMER,MFS transporter,YPO2237(),GenBank
 YPO2238-MONOMER,SDR family oxidoreductase,YPO2238(),GenBank
 YPO2239-MONOMER,endonuclease III,YPO2239(),GenBank
@@ -2244,7 +2244,7 @@ YPO2259-MONOMER,oxidoreductase,YPO2259(),GenBank
 YPO2260-MONOMER,bile acid:sodium symporter,YPO2260(),GenBank
 YPO2261-MONOMER,hypothetical protein,YPO2261(),GenBank
 YPO2262-MONOMER,YdgA family protein,YPO2262(),GenBank
-YPO2263-MONOMER,mannose-6-phosphate isomerase,YPO2263(1),GenBank
+YPO2263-MONOMER,mannose-6-phosphate isomerase,YPO2263(),GenBank
 YPO2263a-MONOMER,class II fumarate hydratase,YPO2263a(4),GenBank
 YPO2265-MONOMER,DNA replication terminus site-binding protein,YPO2265(),GenBank
 YPO2266-MONOMER,MFS transporter,YPO2266(),GenBank
@@ -2252,7 +2252,7 @@ YPO_RS12330-MONOMER,LysR family transcriptional regulator,YPO_RS12330(),GenBank
 YPO2267-MONOMER,LysR family substrate-binding domain-containing protein,YPO2267(),GenBank
 YPO2268-MONOMER,ROK family transcriptional regulator,YPO2268(),GenBank
 YPO2269-MONOMER,dethiobiotin synthase,YPO2269(),GenBank
-YPO2270-MONOMER,voltage-gated ClC-type chloride channel ClcB,YPO2270(1),GenBank
+YPO2270-MONOMER,voltage-gated ClC-type chloride channel ClcB,YPO2270(),GenBank
 YPO2271-MONOMER,hypothetical protein,YPO2271(),GenBank
 YPO2272-MONOMER,hypothetical protein,YPO2272(),GenBank
 YPO2273-MONOMER,helix-turn-helix transcriptional regulator,YPO2273(),GenBank
@@ -2272,7 +2272,7 @@ YPO2285-MONOMER,substrate-binding domain-containing protein,YPO2285(),GenBank
 YPO2286-MONOMER,ABC transporter substrate-binding protein,YPO2286(),GenBank
 YPO2287-MONOMER,ABC transporter permease,YPO2287(),GenBank
 YPO_RS22175-MONOMER,ATP-binding cassette domain-containing protein,YPO_RS22175(),GenBank
-YPO2288-MONOMER,AMP nucleosidase,YPO2288(6),GenBank
+YPO2288-MONOMER,AMP nucleosidase,YPO2288(),GenBank
 YPO2289-MONOMER,SrfA family protein,YPO2289(),GenBank
 YPO2290-MONOMER,virulence factor SrfB,YPO2290(),GenBank
 YPO2291-MONOMER,putative virulence factor,YPO2291(),GenBank
@@ -2283,7 +2283,7 @@ YPO2294-MONOMER,acetolactate synthase small subunit,YPO2294(),GenBank
 YPO2295-MONOMER,pyrimidine 5'-nucleotidase,YPO2295(1),GenBank
 YPO2296-MONOMER,tellurite resistance TerB C-terminal domain-containing protein,YPO2296(),GenBank
 YPO2297-MONOMER,TerB N-terminal domain-containing protein,YPO2297(),GenBank
-YPO2298-MONOMER,alkaline phosphatase,YPO2298(2),GenBank
+YPO2298-MONOMER,alkaline phosphatase,YPO2298(),GenBank
 YPO2299-MONOMER,methylated-DNA--[protein]-cysteine S-methyltransferase,YPO2299(),GenBank
 YPO2300-MONOMER,FNR family transcription factor,YPO2300(),GenBank
 YPO2301-MONOMER,universal stress protein UspE,YPO2301(),GenBank
@@ -2313,18 +2313,18 @@ YPO2325-MONOMER,mannitol dehydrogenase family protein,YPO2325(),GenBank
 YPO2326-MONOMER,YdbL family protein,YPO2326(),GenBank
 YPO2327-MONOMER,YnbE family lipoprotein,YPO2327(),GenBank
 YPO2328-MONOMER,YdbH family protein,YPO2328(),GenBank
-YPO2329-MONOMER,2-hydroxyacid dehydrogenase,YPO2329(1),GenBank
+YPO2329-MONOMER,2-hydroxyacid dehydrogenase,YPO2329(),GenBank
 YPO2330-MONOMER,heat shock protein HslJ,YPO2330(),GenBank
 YPO2331-MONOMER,DUF333 domain-containing protein,YPO2331(),GenBank
 YPO2332-MONOMER,MgtC/SapB family protein,YPO2332(),GenBank
 YPO2333-MONOMER,multidrug efflux SMR transporter,YPO2333(),GenBank
-YPO2334-MONOMER,pyruvate:ferredoxin (flavodoxin) oxidoreductase,YPO2334(1),GenBank
-YPO2335-MONOMER,tRNA 2-thiocytidine(32) synthetase TtcA,YPO2335(2),GenBank
+YPO2334-MONOMER,pyruvate:ferredoxin (flavodoxin) oxidoreductase,YPO2334(),GenBank
+YPO2335-MONOMER,tRNA 2-thiocytidine(32) synthetase TtcA,YPO2335(),GenBank
 YPO2336-MONOMER,alpha/beta hydrolase,YPO2336(),GenBank
 YPO2337-MONOMER,MerR family transcriptional regulator,YPO2337(),GenBank
 YPO2338-MONOMER,zinc transporter ZntB,YPO2338(),GenBank
 YPO2339-MONOMER,ABC transporter substrate-binding protein,YPO2339(),GenBank
-YPO2340-MONOMER,murein tripeptide amidase MpaA,YPO2340(1),GenBank
+YPO2340-MONOMER,murein tripeptide amidase MpaA,YPO2340(),GenBank
 YPO2341-MONOMER,L-Ala-D/L-Glu epimerase,YPO2341(1),GenBank
 YPO2342-MONOMER,thiol peroxidase,YPO2342(),GenBank
 YPO2343-MONOMER,IS200/IS605-like element IS1541B family transposase,YPO2343(),GenBank
@@ -2351,11 +2351,11 @@ YPO2363-MONOMER,DUF3811 domain-containing protein,YPO2363(),GenBank
 YPO2364-MONOMER,IS21-like element IS100kyp family helper ATPase IstB,YPO2364(),GenBank
 YPO2365-MONOMER,IS21-like element IS100 family transposase,YPO2365(),GenBank
 YPO2367-MONOMER,glutathione transferase GstA,YPO2367(),GenBank
-YPO2368-MONOMER,pyridoxal kinase PdxY,YPO2368(1),GenBank
+YPO2368-MONOMER,pyridoxal kinase PdxY,YPO2368(),GenBank
 YPO2369-MONOMER,tyrosine--tRNA ligase,YPO2369(2),GenBank
-YPO2370-MONOMER,pyridoxamine 5'-phosphate oxidase,YPO2370(2),GenBank
+YPO2370-MONOMER,pyridoxamine 5'-phosphate oxidase,YPO2370(),GenBank
 YPO2371-MONOMER,MliC family protein,YPO2371(),GenBank
-YPO2372-MONOMER,anhydro-N-acetylmuramic acid kinase,YPO2372(1),GenBank
+YPO2372-MONOMER,anhydro-N-acetylmuramic acid kinase,YPO2372(),GenBank
 YPO2373-MONOMER,glycine zipper 2TM domain-containing protein,YPO2373(),GenBank
 YPO2374-MONOMER,virulence master transcriptional regulator RovA,YPO2374(),GenBank
 YPO2375-MONOMER,aldo/keto reductase family oxidoreductase,YPO2375(),GenBank
@@ -2364,21 +2364,21 @@ YPO2377-MONOMER,phosphoethanolamine transferase EptA,YPO2377(),GenBank
 YPO2378-MONOMER,TetR/AcrR family transcriptional regulator,YPO2378(),GenBank
 YPO2379-MONOMER,alkene reductase,YPO2379(),GenBank
 YPO2380-MONOMER,RHS repeat protein,YPO2380(),GenBank
-YPO2381-MONOMER,lactoylglutathione lyase,YPO2381(2),GenBank
-YPO2382-MONOMER,ribonuclease T,YPO2382(2),GenBank
+YPO2381-MONOMER,lactoylglutathione lyase,YPO2381(),GenBank
+YPO2382-MONOMER,ribonuclease T,YPO2382(),GenBank
 YPO_RS12905-MONOMER,gluconate 5-dehydrogenase,YPO_RS12905(),GenBank
-YPO2383-MONOMER,Grx4 family monothiol glutaredoxin,YPO2383(2),GenBank
+YPO2383-MONOMER,Grx4 family monothiol glutaredoxin,YPO2383(),GenBank
 YPO2385-MONOMER,C40 family peptidase,YPO2385(),GenBank
-YPO2386-MONOMER,superoxide dismutase [Fe],YPO2386(2),GenBank
+YPO2386-MONOMER,superoxide dismutase [Fe],YPO2386(),GenBank
 YPO_RS12925-MONOMER,YnhF family membrane protein,YPO_RS12925(),GenBank
 YPO2387-MONOMER,HTH-type transcriptional repressor PurR,YPO2387(),GenBank
 YPO2388-MONOMER,DNA-binding transcriptional activator PunR,YPO2388(),GenBank
 YPO2389-MONOMER,purine nucleoside transporter PunC,YPO2389(),GenBank
-YPO2390-MONOMER,cyclopropane fatty acyl phospholipid synthase,YPO2390(2),GenBank
+YPO2390-MONOMER,cyclopropane fatty acyl phospholipid synthase,YPO2390(),GenBank
 YPO2391-MONOMER,riboflavin synthase,YPO2391(3),GenBank
 YPO2392-MONOMER,MATE family efflux transporter,YPO2392(),GenBank
 YPO2393-MONOMER,pyruvate kinase PykF,YPO2393(4),GenBank
-YPO2394-MONOMER,major outer membrane lipoprotein,YPO2394(1),GenBank
+YPO2394-MONOMER,major outer membrane lipoprotein,YPO2394(),GenBank
 YPO2395-MONOMER,IS200/IS605-like element IS1541A family transposase,YPO2395(),GenBank
 YPO2396-MONOMER,IS21-like element IS100 family transposase,YPO2396(),GenBank
 YPO2397-MONOMER,IS21-like element IS100kyp family helper ATPase IstB,YPO2397(),GenBank
@@ -2388,23 +2388,23 @@ YPO2400-MONOMER,cysteine desulfurase SufS,YPO2400(),GenBank
 YPO2401-MONOMER,Fe-S cluster assembly protein SufD,YPO2401(),GenBank
 YPO2402-MONOMER,Fe-S cluster assembly ATPase SufC,YPO2402(),GenBank
 YPO2403-MONOMER,Fe-S cluster assembly protein SufB,YPO2403(),GenBank
-YPO2404-MONOMER,Fe-S cluster assembly scaffold SufA,YPO2404(2),GenBank
+YPO2404-MONOMER,Fe-S cluster assembly scaffold SufA,YPO2404(),GenBank
 YPO2406-MONOMER,hotdog fold thioesterase,YPO2406(),GenBank
 YPO2407-MONOMER,FAD-binding and (Fe-S)-binding domain-containing protein,YPO2407(),GenBank
 YPO2408-MONOMER,AI-2E family transporter YdiK,YPO2408(),GenBank
 YPO2409-MONOMER,phosphoenolpyruvate synthase,YPO2409(2),GenBank
 YPO2410-MONOMER,kinase/pyrophosphorylase,YPO2410(),GenBank
-YPO2411-MONOMER,3-deoxy-7-phosphoheptulonate synthase,YPO2411(2),GenBank
+YPO2411-MONOMER,3-deoxy-7-phosphoheptulonate synthase,YPO2411(),GenBank
 YPO2412-MONOMER,YdiU family protein,YPO2412(),GenBank
 YPO2414-MONOMER,lipoate--protein ligase A,YPO2414(1),GenBank
 YPO2415-MONOMER,NlpC/P60 family protein,YPO2415(),GenBank
 YPO_RS13085-MONOMER,hypothetical protein,YPO_RS13085(),GenBank
 YPO2416-MONOMER,4-amino-4-deoxy-L-arabinose-phosphoundecaprenol flippase subunit ArnF,YPO2416(),GenBank
 YPO2417-MONOMER,4-amino-4-deoxy-L-arabinose-phosphoundecaprenol flippase subunit ArnE,YPO2417(),GenBank
-YPO2418-MONOMER,lipid IV(A) 4-amino-4-deoxy-L-arabinosyltransferase,YPO2418(1),GenBank
-YPO2419-MONOMER,4-deoxy-4-formamido-L-arabinose- phosphoundecaprenol deformylase,YPO2419(1),GenBank
-YPO2420-MONOMER,bifunctional UDP-4-amino-4-deoxy-L-arabinose formyltransferase/UDP-glucuronic acid oxidase ArnA,YPO2420(6),GenBank
-YPO2421-MONOMER,undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase,YPO2421(1),GenBank
+YPO2418-MONOMER,lipid IV(A) 4-amino-4-deoxy-L-arabinosyltransferase,YPO2418(),GenBank
+YPO2419-MONOMER,4-deoxy-4-formamido-L-arabinose- phosphoundecaprenol deformylase,YPO2419(),GenBank
+YPO2420-MONOMER,bifunctional UDP-4-amino-4-deoxy-L-arabinose formyltransferase/UDP-glucuronic acid oxidase ArnA,YPO2420(),GenBank
+YPO2421-MONOMER,undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase,YPO2421(),GenBank
 YPO2422-MONOMER,UDP-4-amino-4-deoxy-L-arabinose aminotransferase,YPO2422(1),GenBank
 YPO2423-MONOMER,vitamin B12 ABC transporter ATP-binding protein BtuD,YPO2423(),GenBank
 YPO2424-MONOMER,glutathione peroxidase,YPO2424(1),GenBank
@@ -2420,7 +2420,7 @@ YPO2433-MONOMER,threonine--tRNA ligase,YPO2433(2),GenBank
 YPO2434-MONOMER,KTSC domain-containing protein,YPO2434(),GenBank
 YPO2436-MONOMER,hypothetical protein,YPO2436(),GenBank
 YPO2437-MONOMER,MarC family NAAT transporter,YPO2437(),GenBank
-YPO2438-MONOMER,transglycosylase SLT domain-containing protein,YPO2438(1),GenBank
+YPO2438-MONOMER,transglycosylase SLT domain-containing protein,YPO2438(),GenBank
 YPO2439-MONOMER,iron/manganese ABC transporter substrate-binding protein YfeA,YPO2439(),GenBank
 YPO2440-MONOMER,iron/manganese ABC transporter ATP-binding protein YfeB,YPO2440(),GenBank
 YPO2441-MONOMER,iron/manganese ABC transporter permease subunit YfeC,YPO2441(),GenBank
@@ -2430,7 +2430,7 @@ YPO2444-MONOMER,fructosamine kinase family protein,YPO2444(),GenBank
 YPO2445-MONOMER,YniB family protein,YPO2445(),GenBank
 YPO2446-MONOMER,hexitol phosphatase HxpB,YPO2446(),GenBank
 YPO2447-MONOMER,IS256 family transposase,YPO2447(),GenBank
-YPO2448-MONOMER,N-methyl-L-tryptophan oxidase,YPO2448(1),GenBank
+YPO2448-MONOMER,N-methyl-L-tryptophan oxidase,YPO2448(),GenBank
 YPO2449-MONOMER,LuxR family transcriptional regulator,YPO2449(),GenBank
 YPO_RS13260-MONOMER,DUF2770 family protein,YPO_RS13260(),GenBank
 YPO2450-MONOMER,AI-2E family transporter,YPO2450(),GenBank
@@ -2473,7 +2473,7 @@ YPO2490-MONOMER,contact-dependent inhibition toxin CdiA,YPO2490(),GenBank
 YPO2491-MONOMER,ShlB/FhaC/HecB family hemolysin secretion/activation protein,YPO2491(),GenBank
 YPO2492-MONOMER,PDR/VanB family oxidoreductase,YPO2492(),GenBank
 YPO2493-MONOMER,ring-hydroxylating oxygenase subunit alpha,YPO2493(),GenBank
-YPO2494-MONOMER,BCCT family transporter,YPO2494(1),GenBank
+YPO2494-MONOMER,BCCT family transporter,YPO2494(),GenBank
 YPO_RS21860-MONOMER,gluconate 5-dehydrogenase,YPO_RS21860(),GenBank
 YPO2496-MONOMER,tartrate dehydrogenase,YPO2496(1),GenBank
 YPO2497-MONOMER,LysR substrate-binding domain-containing protein,YPO2497(),GenBank
@@ -2486,9 +2486,9 @@ YPO2503-MONOMER,NleF caspase inhibitor,YPO2503(),GenBank
 YPO2504-MONOMER,NleF caspase inhibitor,YPO2504(),GenBank
 YPO2505-MONOMER,cation diffusion facilitator family transporter,YPO2505(),GenBank
 YPO2506-MONOMER,outer membrane protein OmpX,YPO2506(),GenBank
-YPO2507-MONOMER,threonine/homoserine exporter RhtA,YPO2507(1),GenBank
+YPO2507-MONOMER,threonine/homoserine exporter RhtA,YPO2507(),GenBank
 YPO2508-MONOMER,GNAT family N-acetyltransferase,YPO2508(),GenBank
-YPO2509-MONOMER,trans-aconitate 2-methyltransferase,YPO2509(1),GenBank
+YPO2509-MONOMER,trans-aconitate 2-methyltransferase,YPO2509(),GenBank
 YPO2510-MONOMER,DNA starvation/stationary phase protection protein Dps,YPO2510(),GenBank
 YPO2511-MONOMER,YdcF family protein,YPO2511(),GenBank
 YPO2512-MONOMER,glutamine ABC transporter substrate-binding protein GlnH,YPO2512(),GenBank
@@ -2503,22 +2503,22 @@ YPO2519-MONOMER,23S rRNA (adenine(1618)-N(6))-methyltransferase RlmF,YPO2519(),G
 YPO2521-MONOMER,DUF1471 domain-containing protein,YPO2521(),GenBank
 YPO_RS22200-MONOMER,gluconate 5-dehydrogenase,YPO_RS22200(),GenBank
 YPO2522-MONOMER,DNA-binding protein YbiB,YPO2522(),GenBank
-YPO2523-MONOMER,o-succinylbenzoate--CoA ligase,YPO2523(4),GenBank
-YPO2524-MONOMER,o-succinylbenzoate synthase,YPO2524(1),GenBank
+YPO2523-MONOMER,o-succinylbenzoate--CoA ligase,YPO2523(),GenBank
+YPO2524-MONOMER,o-succinylbenzoate synthase,YPO2524(),GenBank
 YPO2525-MONOMER,"1,4-dihydroxy-2-naphthoyl-CoA synthase",YPO2525(6),GenBank
 YPO2526-MONOMER,"2-succinyl-6-hydroxy-2, 4-cyclohexadiene-1-carboxylate synthase",YPO2526(1),GenBank
 YPO2527-MONOMER,2-succinyl-5-enolpyruvyl-6-hydroxy-3- cyclohexene-1-carboxylic-acid synthase,YPO2527(2),GenBank
-YPO2528-MONOMER,isochorismate synthase MenF,YPO2528(2),GenBank
+YPO2528-MONOMER,isochorismate synthase MenF,YPO2528(),GenBank
 YPO2530-MONOMER,hypothetical protein,YPO2530(),GenBank
 YPO2531-MONOMER,YqjD family protein,YPO2531(),GenBank
-YPO2533-MONOMER,phosphogluconate dehydratase,YPO2533(1),GenBank
+YPO2533-MONOMER,phosphogluconate dehydratase,YPO2533(),GenBank
 YPO2534-MONOMER,heme-degrading domain-containing protein,YPO2534(),GenBank
 YPO2535-MONOMER,MFS transporter,YPO2535(),GenBank
 YPO2536-MONOMER,2-hydroxyacid dehydrogenase,YPO2536(),GenBank
 YPO2537-MONOMER,substrate-binding domain-containing protein,YPO2537(),GenBank
 YPO2538-MONOMER,glycoside hydrolase family 10 protein,YPO2538(),GenBank
-YPO2539-MONOMER,gluconate 5-dehydrogenase,YPO2539(1),GenBank
-YPO2540-MONOMER,gluconokinase,YPO2540(1),GenBank
+YPO2539-MONOMER,gluconate 5-dehydrogenase,YPO2539(),GenBank
+YPO2540-MONOMER,gluconokinase,YPO2540(),GenBank
 YPO2541-MONOMER,YhcH/YjgK/YiaL family protein,YPO2541(),GenBank
 YPO2542-MONOMER,hypothetical protein,YPO2542(),GenBank
 YPO2543-MONOMER,NADH-quinone oxidoreductase subunit NuoN,YPO2543(),GenBank
@@ -2536,13 +2536,13 @@ YPO2554-MONOMER,NADH-quinone oxidoreductase subunit B,YPO2554(),GenBank
 YPO2555-MONOMER,NADH-quinone oxidoreductase subunit A,YPO2555(),GenBank
 YPO2556-MONOMER,virulence transcriptional regulator RovM,YPO2556(),GenBank
 YPO2558-MONOMER,pyridoxal phosphate-dependent aminotransferase,YPO2558(2),GenBank
-YPO2559-MONOMER,5'-deoxynucleotidase,YPO2559(2),GenBank
+YPO2559-MONOMER,5'-deoxynucleotidase,YPO2559(),GenBank
 YPO2561-MONOMER,SLC13 family permease,YPO2561(),GenBank
 YPO2562-MONOMER,sugar phosphatase,YPO2562(),GenBank
 YPO2563-MONOMER,YfbU family protein,YPO2563(),GenBank
 YPO2564-MONOMER,terminus macrodomain insulation protein YfbV,YPO2564(),GenBank
 YPO2566-MONOMER,acetate kinase,YPO2566(1),GenBank
-YPO2567-MONOMER,phosphate acetyltransferase,YPO2567(6),GenBank
+YPO2567-MONOMER,phosphate acetyltransferase,YPO2567(2),GenBank
 YPO_RS22205-MONOMER,gluconate 5-dehydrogenase,YPO_RS22205(),GenBank
 YPO2568-MONOMER,LacI family DNA-binding transcriptional regulator,YPO2568(),GenBank
 YPO2569-MONOMER,PTS sugar transporter subunit IIA,YPO2569(),GenBank
@@ -2559,7 +2559,7 @@ YPO2581-MONOMER,substrate-binding domain-containing protein,YPO2581(),GenBank
 YPO2582-MONOMER,sugar ABC transporter ATP-binding protein,YPO2582(),GenBank
 YPO2583-MONOMER,ABC transporter permease,YPO2583(),GenBank
 YPO2584-MONOMER,Gfo/Idh/MocA family oxidoreductase,YPO2584(),GenBank
-YPO2585-MONOMER,5-dehydro-2-deoxygluconokinase,YPO2585(),GenBank
+YPO2585-MONOMER,5-dehydro-2-deoxygluconokinase,YPO2585(1),GenBank
 YPO2586-MONOMER,myo-inosose-2 dehydratase,YPO2586(),GenBank
 YPO2587-MONOMER,5-deoxy-glucuronate isomerase,YPO2587(),GenBank
 YPO_RS13895-MONOMER,hypothetical protein,YPO_RS13895(),GenBank
@@ -2574,9 +2574,9 @@ YPO2595-MONOMER,transcription antiterminator/RNA stability regulator CspE,YPO259
 YPO2596-MONOMER,fluoride efflux transporter CrcB,YPO2596(),GenBank
 YPO2597-MONOMER,Sec-independent protein translocase subunit TatA,YPO2597(),GenBank
 YPO2598-MONOMER,lipoyl synthase,YPO2598(2),GenBank
-YPO2599-MONOMER,lipoyl(octanoyl) transferase LipB,YPO2599(1),GenBank
+YPO2599-MONOMER,lipoyl(octanoyl) transferase LipB,YPO2599(),GenBank
 YPO2600-MONOMER,DUF493 family protein YbeD,YPO2600(),GenBank
-YPO2601-MONOMER,D-alanyl-D-alanine carboxypeptidase DacA,YPO2601(1),GenBank
+YPO2601-MONOMER,D-alanyl-D-alanine carboxypeptidase DacA,YPO2601(),GenBank
 YPO2602-MONOMER,endolytic peptidoglycan transglycosylase RlpA,YPO2602(),GenBank
 YPO2603-MONOMER,peptidoglycan glycosyltransferase MrdB,YPO2603(),GenBank
 YPO2604-MONOMER,peptidoglycan DD-transpeptidase MrdA,YPO2604(1),GenBank
@@ -2591,20 +2591,20 @@ YPO2612-MONOMER,amino acid ABC transporter ATP-binding protein,YPO2612(),GenBank
 YPO2613-MONOMER,glutamate/aspartate ABC transporter permease GltK,YPO2613(),GenBank
 YPO2614-MONOMER,amino acid ABC transporter permease,YPO2614(),GenBank
 YPO2615-MONOMER,amino acid ABC transporter substrate-binding protein,YPO2615(),GenBank
-YPO2616-MONOMER,apolipoprotein N-acyltransferase,YPO2616(1),GenBank
+YPO2616-MONOMER,apolipoprotein N-acyltransferase,YPO2616(),GenBank
 YPO2617-MONOMER,CNNM family magnesium/cobalt transport protein CorC,YPO2617(),GenBank
 YPO2618-MONOMER,rRNA maturation RNase YbeY,YPO2618(),GenBank
 YPO2619-MONOMER,PhoH family protein,YPO2619(),GenBank
 YPO2620-MONOMER,tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB,YPO2620(1),GenBank
-YPO2621-MONOMER,3-demethoxyubiquinol 3-hydroxylase,YPO2621(1),GenBank
+YPO2621-MONOMER,3-demethoxyubiquinol 3-hydroxylase,YPO2621(),GenBank
 YPO2623-MONOMER,asparagine synthase B,YPO2623(2),GenBank
 YPO2624-MONOMER,HAD-IIA family hydrolase,YPO2624(),GenBank
 YPO2625-MONOMER,ROK family transcriptional regulator,YPO2625(),GenBank
-YPO2626-MONOMER,N-acetylglucosamine-6-phosphate deacetylase,YPO2626(4),GenBank
+YPO2626-MONOMER,N-acetylglucosamine-6-phosphate deacetylase,YPO2626(),GenBank
 YPO2627-MONOMER,glucosamine-6-phosphate deaminase,YPO2627(6),GenBank
 YPO2628-MONOMER,N-acetylglucosamine-specific PTS transporter subunit IIBC,YPO2628(),GenBank
 YPO2629-MONOMER,IS200/IS605-like element IS1541B family transposase,YPO2629(),GenBank
-YPO2630-MONOMER,glutamine--tRNA ligase,YPO2630(1),GenBank
+YPO2630-MONOMER,glutamine--tRNA ligase,YPO2630(),GenBank
 YPO2631-MONOMER,OprD family outer membrane porin,YPO2631(),GenBank
 YPO2632-MONOMER,beta-N-acetylhexosaminidase,YPO2632(),GenBank
 YPO2634-MONOMER,ferric iron uptake transcriptional regulator,YPO2634(),GenBank
@@ -2648,7 +2648,7 @@ YPO_RS22215-MONOMER,hypothetical protein,YPO_RS22215(),GenBank
 YPO2672-MONOMER,urea transporter,YPO2672(),GenBank
 YPO2673-MONOMER,HoxN/HupN/NixA family nickel/cobalt transporter,YPO2673(),GenBank
 YPO2674-MONOMER,acid-activated periplasmic chaperone HdeB,YPO2674(),GenBank
-YPO2675-MONOMER,voltage-gated potassium channel protein,YPO2675(4),GenBank
+YPO2675-MONOMER,voltage-gated potassium channel protein,YPO2675(),GenBank
 YPO2676-MONOMER,fluoride efflux transporter CrcB,YPO2676(),GenBank
 YPO2677-MONOMER,fluoride efflux transporter CrcB,YPO2677(),GenBank
 YPO2677a-MONOMER,hypothetical protein,YPO2677a(),GenBank
@@ -2722,27 +2722,27 @@ YPO2740-MONOMER,DsbE family thiol:disulfide interchange protein,YPO2740(),GenBan
 YPO2741-MONOMER,cytochrome c-type biogenesis protein CcmH,YPO2741(),GenBank
 YP02742-MONOMER,c-type cytochrome biogenesis protein CcmI,YP02742(),GenBank
 YPO2743-MONOMER,phospholipid-binding lipoprotein MlaA,YPO2743(),GenBank
-YPO2744-MONOMER,long-chain fatty acid transporter FadL,YPO2744(1),GenBank
+YPO2744-MONOMER,long-chain fatty acid transporter FadL,YPO2744(),GenBank
 YPO2745-MONOMER,YfcZ/YiiS family protein,YPO2745(),GenBank
 YPO2746-MONOMER,acetyl-CoA C-acyltransferase FadI,YPO2746(),GenBank
-YPO2747-MONOMER,fatty acid oxidation complex subunit alpha FadJ,YPO2747(),GenBank
+YPO2747-MONOMER,fatty acid oxidation complex subunit alpha FadJ,YPO2747(1),GenBank
 YPO2748-MONOMER,phosphohistidine phosphatase SixA,YPO2748(),GenBank
 YPO2749-MONOMER,endonuclease SmrB,YPO2749(),GenBank
 YPO2750-MONOMER,50S ribosomal protein L3 N(5)-glutamine methyltransferase,YPO2750(),GenBank
 YPO2751-MONOMER,chorismate synthase,YPO2751(4),GenBank
-YPO2752-MONOMER,penicillin-insensitive murein endopeptidase,YPO2752(2),GenBank
+YPO2752-MONOMER,penicillin-insensitive murein endopeptidase,YPO2752(),GenBank
 YPO2753-MONOMER,sulfite exporter TauE/SafE family protein,YPO2753(),GenBank
 YPO2754-MONOMER,elongation factor P hydroxylase,YPO2754(),GenBank
 YPO2755-MONOMER,YfcL family protein,YPO2755(),GenBank
-YPO2756-MONOMER,bifunctional tRNA (5-methylaminomethyl-2-thiouridine)(34)-methyltransferase MnmD/FAD-dependent 5-carboxymethylaminomethyl-2-thiouridine(34) oxidoreductase MnmC,YPO2756(1),GenBank
-YPO2757-MONOMER,beta-ketoacyl-ACP synthase I,YPO2757(2),GenBank
+YPO2756-MONOMER,bifunctional tRNA (5-methylaminomethyl-2-thiouridine)(34)-methyltransferase MnmD/FAD-dependent 5-carboxymethylaminomethyl-2-thiouridine(34) oxidoreductase MnmC,YPO2756(),GenBank
+YPO2757-MONOMER,beta-ketoacyl-ACP synthase I,YPO2757(),GenBank
 YPO_RS22225-MONOMER,gluconate 5-dehydrogenase,YPO_RS22225(),GenBank
 YPO2758-MONOMER,aspartate/glutamate racemase family protein,YPO2758(),GenBank
 YPO2759-MONOMER,fimbrial protein,YPO2759(),GenBank
 YPO2760-MONOMER,flagella biosynthesis regulator Flk,YPO2760(),GenBank
 YPO2761-MONOMER,DMT family transporter,YPO2761(),GenBank
 YPO2762-MONOMER,helix-turn-helix transcriptional regulator,YPO2762(),GenBank
-YPO2763-MONOMER,4-phosphoerythronate dehydrogenase PdxB,YPO2763(1),GenBank
+YPO2763-MONOMER,4-phosphoerythronate dehydrogenase PdxB,YPO2763(),GenBank
 YPO2764-MONOMER,IS200/IS605-like element IS1541B family transposase,YPO2764(),GenBank
 YPO2765-MONOMER,aspartate-semialdehyde dehydrogenase,YPO2765(),GenBank
 YPO2766-MONOMER,tRNA pseudouridine(38-40) synthase TruA,YPO2766(2),GenBank
@@ -2781,7 +2781,7 @@ YPO2802-MONOMER,GDYXXLXY domain-containing protein,YPO2802(),GenBank
 YPO2803-MONOMER,glycoside hydrolase family 3 C-terminal domain-containing protein,YPO2803(),GenBank
 YPO2804-MONOMER,hypothetical protein,YPO2804(),GenBank
 YPO_RS22440-MONOMER,hypothetical protein,YPO_RS22440(),GenBank
-YPO2805-MONOMER,aldo/keto reductase,YPO2805(),GenBank
+YPO2805-MONOMER,aldo/keto reductase,YPO2805(1),GenBank
 YPO2806-MONOMER,aldo/keto reductase,YPO2806(),GenBank
 YPO2807-MONOMER,LysR family transcriptional regulator,YPO2807(),GenBank
 YPO2808-MONOMER,IS21-like element IS100 family transposase,YPO2808(),GenBank
@@ -2805,21 +2805,21 @@ YPO2826-MONOMER,IS200/IS605-like element IS1541B family transposase,YPO2826(),Ge
 YPO2827-MONOMER,uracil phosphoribosyltransferase,YPO2827(3),GenBank
 YPO2828-MONOMER,phosphoribosylformylglycinamidine cyclo-ligase,YPO2828(2),GenBank
 YPO2829-MONOMER,phosphoribosylglycinamide formyltransferase,YPO2829(1),GenBank
-YPO2830-MONOMER,spermidine N1-acetyltransferase,YPO2830(4),GenBank
+YPO2830-MONOMER,spermidine N1-acetyltransferase,YPO2830(),GenBank
 YPO2831-MONOMER,flagellin lysine-N-methylase,YPO2831(),GenBank
 YPO_RS22230-MONOMER,flagellin lysine-N-methylase,YPO_RS22230(),GenBank
 YPO2833-MONOMER,phosphate ABC transporter ATP-binding protein PstB,YPO2833(),GenBank
 YPO2834-MONOMER,phosphate ABC transporter permease PstA,YPO2834(),GenBank
 YPO2835-MONOMER,ABC transporter permease subunit,YPO2835(),GenBank
-YPO2836-MONOMER,polyphosphate kinase 1,YPO2836(4),GenBank
-YPO2837-MONOMER,exopolyphosphatase,YPO2837(2),GenBank
+YPO2836-MONOMER,polyphosphate kinase 1,YPO2836(),GenBank
+YPO2837-MONOMER,exopolyphosphatase,YPO2837(),GenBank
 YPO2838-MONOMER,YfgG family protein,YPO2838(),GenBank
 YPO2839-MONOMER,magnesium transporter,YPO2839(),GenBank
 YPO2840-MONOMER,molecular chaperone,YPO2840(),GenBank
 YPO2841-MONOMER,ABC transporter permease,YPO2841(),GenBank
 YPO2842-MONOMER,ABC transporter permease,YPO2842(),GenBank
 YPO2843-MONOMER,ABC transporter substrate-binding protein,YPO2843(),GenBank
-YPO2844-MONOMER,4-aminobutyrate--2-oxoglutarate transaminase,YPO2844(1),GenBank
+YPO2844-MONOMER,4-aminobutyrate--2-oxoglutarate transaminase,YPO2844(2),GenBank
 YPO2845-MONOMER,PLP-dependent aminotransferase family protein,YPO2845(),GenBank
 YPO2846-MONOMER,ABC transporter ATP-binding protein,YPO2846(),GenBank
 YPO2847-MONOMER,MdtA/MuxA family multidrug efflux RND transporter periplasmic adaptor subunit,YPO2847(),GenBank
@@ -2865,29 +2865,29 @@ YPO2886-MONOMER,autotransporter YapA,YPO2886(),GenBank
 YPO2887-MONOMER,autotransporter YapB,YPO2887(),GenBank
 YPO_RS15405-MONOMER,gluconate 5-dehydrogenase,YPO_RS15405(),GenBank
 YPO2888-MONOMER,enhanced serine sensitivity protein SseB,YPO2888(),GenBank
-YPO2889-MONOMER,aminopeptidase PepB,YPO2889(1),GenBank
+YPO2889-MONOMER,aminopeptidase PepB,YPO2889(),GenBank
 YPO2890-MONOMER,Fe-S cluster assembly protein IscX,YPO2890(),GenBank
 YPO2891-MONOMER,ISC system 2Fe-2S type ferredoxin,YPO2891(),GenBank
 YPO2892-MONOMER,Fe-S protein assembly chaperone HscA,YPO2892(),GenBank
 YPO2893-MONOMER,co-chaperone HscB,YPO2893(),GenBank
-YPO2894-MONOMER,iron-sulfur cluster assembly protein IscA,YPO2894(4),GenBank
+YPO2894-MONOMER,iron-sulfur cluster assembly protein IscA,YPO2894(),GenBank
 YPO2895-MONOMER,Fe-S cluster assembly scaffold IscU,YPO2895(2),GenBank
 YPO2896-MONOMER,IscS subfamily cysteine desulfurase,YPO2896(2),GenBank
 YPO2897-MONOMER,Fe-S cluster assembly transcriptional regulator IscR,YPO2897(),GenBank
-YPO2898-MONOMER,tRNA (cytosine(32)/uridine(32)-2'-O)-methyltransferase TrmJ,YPO2898(2),GenBank
+YPO2898-MONOMER,tRNA (cytosine(32)/uridine(32)-2'-O)-methyltransferase TrmJ,YPO2898(),GenBank
 YPO2899-MONOMER,inositol-1-monophosphatase,YPO2899(1),GenBank
 YPO2900-MONOMER,IS200/IS605-like element IS1541B family transposase,YPO2900(),GenBank
 YPO2901-MONOMER,nickel/cobalt transporter,YPO2901(),GenBank
 YPO2902-MONOMER,DUF1007 family protein,YPO2902(),GenBank
 YPO2903-MONOMER,stationary phase inducible protein CsiE,YPO2903(),GenBank
-YPO2904-MONOMER,3-phenylpropionate MFS transporter,YPO2904(1),GenBank
+YPO2904-MONOMER,3-phenylpropionate MFS transporter,YPO2904(),GenBank
 YPO2905-MONOMER,attachment invasion locus protein Ail,YPO2905(),GenBank
 YPO2906-MONOMER,hypothetical protein,YPO2906(),GenBank
 YPO2907-MONOMER,serine hydroxymethyltransferase,YPO2907(2),GenBank
 YPO2908-MONOMER,NO-inducible flavohemoprotein,YPO2908(1),GenBank
 YPO2909-MONOMER,GntR family transcriptional regulator YhfZ,YPO2909(),GenBank
 YPO2911-MONOMER,nitrogen regulatory protein P-II,YPO2911(),GenBank
-YPO2912-MONOMER,NAD+ synthase,YPO2912(),GenBank
+YPO2912-MONOMER,NAD+ synthase,YPO2912(2),GenBank
 YPO2914-MONOMER,two-component system response regulator GlrR,YPO2914(),GenBank
 YPO2915-MONOMER,two-component system QseEF-associated lipoprotein QseG,YPO2915(),GenBank
 YPO2916-MONOMER,HAMP domain-containing sensor histidine kinase,YPO2916(),GenBank
@@ -2897,7 +2897,7 @@ YPO2918-MONOMER,hypothetical protein,YPO2918(),GenBank
 YPO2919-MONOMER,hypothetical protein,YPO2919(),GenBank
 YPO_RS15565-MONOMER,hypothetical protein,YPO_RS15565(),GenBank
 YPO2921-MONOMER,phosphoribosylformylglycinamidine synthase,YPO2921(1),GenBank
-YPO2922-MONOMER,membrane-bound lytic murein transglycosylase MltF,YPO2922(1),GenBank
+YPO2922-MONOMER,membrane-bound lytic murein transglycosylase MltF,YPO2922(),GenBank
 YPO2923-MONOMER,tRNA adenosine(34) deaminase TadA,YPO2923(2),GenBank
 YPO2924-MONOMER,phosphatidylglycerophosphatase C,YPO2924(),GenBank
 YPO2925-MONOMER,N-acetylmuramic acid 6-phosphate etherase,YPO2925(2),GenBank
@@ -2905,7 +2905,7 @@ YPO2926-MONOMER,MurR/RpiR family transcriptional regulator,YPO2926(),GenBank
 YPO2927-MONOMER,YfhL family 4Fe-4S dicluster ferredoxin,YPO2927(),GenBank
 YPO2928-MONOMER,IS200/IS605-like element IS1541B family transposase,YPO2928(),GenBank
 YPO2929-MONOMER,holo-ACP synthase,YPO2929(2),GenBank
-YPO2930-MONOMER,pyridoxine 5'-phosphate synthase,YPO2930(8),GenBank
+YPO2930-MONOMER,pyridoxine 5'-phosphate synthase,YPO2930(),GenBank
 YPO2931-MONOMER,IS21-like element IS100kyp family helper ATPase IstB,YPO2931(),GenBank
 YPO2932-MONOMER,IS21-like element IS100 family transposase,YPO2932(),GenBank
 YPO2933-MONOMER,DotU/TssL family secretion system protein,YPO2933(),GenBank
@@ -2930,7 +2930,7 @@ YPO2952-MONOMER,hypothetical protein,YPO2952(),GenBank
 YPO2953-MONOMER,OmpA family protein,YPO2953(),GenBank
 YPO2954-MONOMER,DcrB-related protein,YPO2954(),GenBank
 YPO2955-MONOMER,LuxR family transcriptional regulator,YPO2955(),GenBank
-YPO2957-MONOMER,lytic murein transglycosylase B,YPO2957(1),GenBank
+YPO2957-MONOMER,lytic murein transglycosylase B,YPO2957(),GenBank
 YPO2958-MONOMER,iron ABC transporter substrate-binding protein,YPO2958(),GenBank
 YPO2959-MONOMER,iron ABC transporter permease,YPO2959(),GenBank
 YPO2960-MONOMER,ABC transporter ATP-binding protein,YPO2960(),GenBank
@@ -2949,10 +2949,10 @@ YPO2973-MONOMER,hypothetical protein,YPO2973(),GenBank
 YPO2974-MONOMER,cytochrome b,YPO2974(),GenBank
 YPO2975-MONOMER,alanine transaminase,YPO2975(2),GenBank
 YPO2976-MONOMER,DUF1479 domain-containing protein,YPO2976(),GenBank
-YPO2977-MONOMER,glucokinase,YPO2977(1),GenBank
+YPO2977-MONOMER,glucokinase,YPO2977(),GenBank
 YPO2978-MONOMER,multidrug/biocide efflux PACE transporter,YPO2978(),GenBank
 YPO2979-MONOMER,LysR family transcriptional regulator,YPO2979(),GenBank
-YPO2980-MONOMER,aldo/keto reductase,YPO2980(1),GenBank
+YPO2980-MONOMER,aldo/keto reductase,YPO2980(),GenBank
 YPO2981-MONOMER,DUF2502 domain-containing protein,YPO2981(),GenBank
 YPO2982-MONOMER,Nramp family divalent metal transporter,YPO2982(1),GenBank
 YPO2983-MONOMER,NupC/NupG family nucleoside CNT transporter,YPO2983(1),GenBank
@@ -2984,33 +2984,33 @@ YPO3008-MONOMER,HAMP domain-containing sensor histidine kinase,YPO3008(),GenBank
 YPO3009-MONOMER,response regulator transcription factor,YPO3009(),GenBank
 YPO_RS22240-MONOMER,IS481 family transposase,YPO_RS22240(),GenBank
 YPO3010-MONOMER,EspK/GogB family type III secretion system effector,YPO3010(),GenBank
-YPO3011-MONOMER,cysteine synthase CysM,YPO3011(2),GenBank
+YPO3011-MONOMER,cysteine synthase CysM,YPO3011(),GenBank
 YPO3012-MONOMER,sulfate/thiosulfate ABC transporter ATP-binding protein CysA,YPO3012(),GenBank
 YPO3013-MONOMER,sulfate/thiosulfate ABC transporter permease CysW,YPO3013(),GenBank
 YPO3014-MONOMER,sulfate/thiosulfate ABC transporter permease CysT,YPO3014(),GenBank
 YPO3015-MONOMER,sulfate ABC transporter substrate-binding protein,YPO3015(),GenBank
-YPO3016-MONOMER,MFS transporter,YPO3016(1),GenBank
+YPO3016-MONOMER,MFS transporter,YPO3016(),GenBank
 YPO3017-MONOMER,MurR/RpiR family transcriptional regulator,YPO3017(),GenBank
 YPO3019-MONOMER,N-acetylneuraminate anomerase,YPO3019(),GenBank
-YPO3020-MONOMER,N-acetylmannosamine kinase,YPO3020(1),GenBank
+YPO3020-MONOMER,N-acetylmannosamine kinase,YPO3020(),GenBank
 YPO_RS22245-MONOMER,leucine-rich repeat domain-containing protein,YPO_RS22245(),GenBank
 YPO_RS22250-MONOMER,hypothetical protein,YPO_RS22250(),GenBank
-YPO3023-MONOMER,N-acetylmannosamine-6-phosphate 2-epimerase,YPO3023(1),GenBank
-YPO3024-MONOMER,dihydrodipicolinate synthase family protein,YPO3024(4),GenBank
+YPO3023-MONOMER,N-acetylmannosamine-6-phosphate 2-epimerase,YPO3023(),GenBank
+YPO3024-MONOMER,dihydrodipicolinate synthase family protein,YPO3024(),GenBank
 YPO3025-MONOMER,Dyp-type peroxidase,YPO3025(),GenBank
 YPO3026-MONOMER,RpoE-regulated lipoprotein,YPO3026(),GenBank
 YPO3027-MONOMER,YgiW/YdeI family stress tolerance OB fold protein,YPO3027(),GenBank
 YPO3028-MONOMER,autotransporter YapL,YPO3028(),GenBank
 YPO3029-MONOMER,hypothetical protein,YPO3029(),GenBank
 YPO3031-MONOMER,GNAT family acetyltransferase,YPO3031(),GenBank
-YPO3032-MONOMER,oxygen-dependent coproporphyrinogen oxidase,YPO3032(2),GenBank
+YPO3032-MONOMER,oxygen-dependent coproporphyrinogen oxidase,YPO3032(),GenBank
 YPO3033-MONOMER,YaiI/YqxD family protein,YPO3033(),GenBank
 YPO3034-MONOMER,NADP-dependent oxaloacetate-decarboxylating malate dehydrogenase,YPO3034(6),GenBank
 YPO3035-MONOMER,GDP-mannose pyrophosphatase NudK,YPO3035(3),GenBank
 YPO3036-MONOMER,cytochrome c-type protein NapC,YPO3036(),GenBank
 YPO3037-MONOMER,nitrate reductase cytochrome c-type subunit,YPO3037(),GenBank
 YPO3038-MONOMER,nitrate reductase catalytic subunit NapA,YPO3038(),GenBank
-YPO3039-MONOMER,chaperone NapD,YPO3039(1),GenBank
+YPO3039-MONOMER,chaperone NapD,YPO3039(),GenBank
 YPO3040-MONOMER,ferredoxin-type protein NapF,YPO3040(),GenBank
 YPO3041-MONOMER,response regulator,YPO3041(),GenBank
 YPO3042-MONOMER,helix-turn-helix domain-containing protein,YPO3042(),GenBank
@@ -3025,7 +3025,7 @@ YPO3049-MONOMER,iron ABC transporter permease,YPO3049(),GenBank
 YPO3050-MONOMER,ABC transporter substrate-binding protein,YPO3050(),GenBank
 YPO3051-MONOMER,tetratricopeptide repeat protein,YPO3051(),GenBank
 YPO3052-MONOMER,ArsC family reductase,YPO3052(),GenBank
-YPO3053-MONOMER,succinyl-diaminopimelate desuccinylase,YPO3053(4),GenBank
+YPO3053-MONOMER,succinyl-diaminopimelate desuccinylase,YPO3053(),GenBank
 YPO3054-MONOMER,M15 family metallopeptidase,YPO3054(),GenBank
 YPO3055-MONOMER,YpfN family protein,YPO3055(),GenBank
 YPO_RS22255-MONOMER,sugar kinase,YPO_RS22255(),GenBank
@@ -3046,13 +3046,13 @@ YPO3071-MONOMER,DnaA inactivator Hda,YPO3071(),GenBank
 YPO3072-MONOMER,IS200/IS605-like element IS1541A family transposase,YPO3072(),GenBank
 YPO3073-MONOMER,cysteine--tRNA ligase,YPO3073(1),GenBank
 YPO3074-MONOMER,peptidylprolyl isomerase B,YPO3074(),GenBank
-YPO3075-MONOMER,"UDP-2,3-diacylglucosamine diphosphatase",YPO3075(1),GenBank
+YPO3075-MONOMER,"UDP-2,3-diacylglucosamine diphosphatase",YPO3075(),GenBank
 YPO3076-MONOMER,5-(carboxyamino)imidazole ribonucleotide mutase,YPO3076(8),GenBank
 YPO3077-MONOMER,5-(carboxyamino)imidazole ribonucleotide synthase,YPO3077(2),GenBank
 YPO3078-MONOMER,ABC transporter permease,YPO3078(),GenBank
 YPO3079-MONOMER,ABC transporter ATP-binding protein,YPO3079(),GenBank
-YPO3080-MONOMER,multifunctional acyl-CoA thioesterase I/protease I/lysophospholipase L1,YPO3080(4),GenBank
-YPO3081-MONOMER,SDR family oxidoreductase,YPO3081(),GenBank
+YPO3080-MONOMER,multifunctional acyl-CoA thioesterase I/protease I/lysophospholipase L1,YPO3080(),GenBank
+YPO3081-MONOMER,SDR family oxidoreductase,YPO3081(4),GenBank
 YPO3082-MONOMER,co-chaperone YbbN,YPO3082(),GenBank
 YPO3083-MONOMER,SPFH/Band 7/PHB domain protein,YPO3083(),GenBank
 YPO3084-MONOMER,NfeD family protein,YPO3084(),GenBank
@@ -3063,17 +3063,17 @@ YPO3088-MONOMER,Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK,YPO3088(),GenBank
 YPO_RS22260-MONOMER,gluconate 5-dehydrogenase,YPO_RS22260(),GenBank
 YPO3089-MONOMER,hypothetical protein,YPO3089(),GenBank
 YPO_RS22265-MONOMER,5'-nucleotidase C-terminal domain-containing protein,YPO_RS22265(),GenBank
-YPO_RS22270-MONOMER,metallophosphoesterase,YPO_RS22270(1),GenBank
+YPO_RS22270-MONOMER,metallophosphoesterase,YPO_RS22270(),GenBank
 YPO_RS22275-MONOMER,hypothetical protein,YPO_RS22275(),GenBank
 YPO3093-MONOMER,MFS transporter,YPO3093(),GenBank
 YPO3094-MONOMER,YbaL family putative K(+) efflux transporter,YPO3094(),GenBank
-YPO3095-MONOMER,inosine/guanosine kinase,YPO3095(2),GenBank
+YPO3095-MONOMER,inosine/guanosine kinase,YPO3095(),GenBank
 YPO3096-MONOMER,LPS O-antigen length regulator Wzz(fepE),YPO3096(),GenBank
-YPO3097-MONOMER,phosphomannomutase CpsG,YPO3097(1),GenBank
+YPO3097-MONOMER,phosphomannomutase CpsG,YPO3097(),GenBank
 YPO3098-MONOMER,glycosyltransferase family 2 protein,YPO3098(),GenBank
-YPO3099-MONOMER,mannose-1-phosphate guanylyltransferase/mannose-6-phosphate isomerase,YPO3099(1),GenBank
-YPO3100-MONOMER,GDP-L-fucose synthase,YPO3100(2),GenBank
-YPO3102-MONOMER,"GDP-mannose 4,6-dehydratase",YPO3102(2),GenBank
+YPO3099-MONOMER,mannose-1-phosphate guanylyltransferase/mannose-6-phosphate isomerase,YPO3099(),GenBank
+YPO3100-MONOMER,GDP-L-fucose synthase,YPO3100(),GenBank
+YPO3102-MONOMER,"GDP-mannose 4,6-dehydratase",YPO3102(),GenBank
 YPO3104-MONOMER,glycosyltransferase family 1 protein,YPO3104(),GenBank
 YPO3105-MONOMER,oligosaccharide repeat unit polymerase,YPO3105(),GenBank
 YPO_RS22280-MONOMER,oligosaccharide repeat unit polymerase,YPO_RS22280(),GenBank
@@ -3086,7 +3086,7 @@ YPO3113-MONOMER,lipopolysaccharide biosynthesis protein RfbH,YPO3113(),GenBank
 YPO3114-MONOMER,"CDP-glucose 4,6-dehydratase",YPO3114(),GenBank
 YPO3115-MONOMER,glucose-1-phosphate cytidylyltransferase,YPO3115(),GenBank
 YPO3116-MONOMER,"CDP-6-deoxy-delta-3,4-glucoseen reductase",YPO3116(),GenBank
-YPO3117-MONOMER,ferrochelatase,YPO3117(1),GenBank
+YPO3117-MONOMER,ferrochelatase,YPO3117(),GenBank
 YPO3118-MONOMER,adenylate kinase,YPO3118(1),GenBank
 YPO3119-MONOMER,molecular chaperone HtpG,YPO3119(),GenBank
 YPO3120-MONOMER,recombination mediator RecR,YPO3120(),GenBank
@@ -3110,14 +3110,14 @@ YPO3137-MONOMER,Hha toxicity modulator TomB,YPO3137(),GenBank
 YPO3138-MONOMER,expression modulating protein YmoA,YPO3138(),GenBank
 YPO3139-MONOMER,MGMT family protein,YPO3139(),GenBank
 YPO3140-MONOMER,YbaY family lipoprotein,YPO3140(),GenBank
-YPO3141-MONOMER,acyl-CoA thioesterase II,YPO3141(4),GenBank
+YPO3141-MONOMER,acyl-CoA thioesterase II,YPO3141(),GenBank
 YPO3142-MONOMER,ammonium transporter AmtB,YPO3142(3),GenBank
 YPO3143-MONOMER,P-II family nitrogen regulator,YPO3143(),GenBank
 YPO3144-MONOMER,SmdB family multidrug efflux ABC transporter permease/ATP-binding protein,YPO3144(),GenBank
 YPO3145-MONOMER,SmdA family multidrug ABC transporter permease/ATP-binding protein,YPO3145(),GenBank
 YPO3146-MONOMER,Lrp/AsnC family transcriptional regulator,YPO3146(),GenBank
 YPO3147-MONOMER,PLP-dependent cysteine synthase family protein,YPO3147(),GenBank
-YPO3148-MONOMER,HMP-PP phosphatase,YPO3148(1),GenBank
+YPO3148-MONOMER,HMP-PP phosphatase,YPO3148(),GenBank
 YPO3149-MONOMER,SgrR family transcriptional regulator,YPO3149(),GenBank
 YPO3150-MONOMER,7-cyano-7-deazaguanine synthase QueC,YPO3150(1),GenBank
 YPO3151-MONOMER,thioesterase family protein,YPO3151(),GenBank
@@ -3130,7 +3130,7 @@ YPO3157-MONOMER,ATP-dependent Clp endopeptidase proteolytic subunit ClpP,YPO3157
 YPO3158-MONOMER,trigger factor,YPO3158(1),GenBank
 YPO3160-MONOMER,transcriptional regulator BolA,YPO3160(),GenBank
 YPO3161-MONOMER,lipoprotein,YPO3161(),GenBank
-YPO3162-MONOMER,muropeptide MFS transporter AmpG,YPO3162(1),GenBank
+YPO3162-MONOMER,muropeptide MFS transporter AmpG,YPO3162(),GenBank
 YPO3163-MONOMER,outer membrane protein OmpK,YPO3163(),GenBank
 YPO3164-MONOMER,cytochrome o ubiquinol oxidase subunit II,YPO3164(),GenBank
 YPO3165-MONOMER,cytochrome o ubiquinol oxidase subunit I,YPO3165(),GenBank
@@ -3146,7 +3146,7 @@ YPO3175-MONOMER,exodeoxyribonuclease VII small subunit,YPO3175(),GenBank
 YPO3176-MONOMER,"(2E,6E)-farnesyl diphosphate synthase",YPO3176(1),GenBank
 YPO3177-MONOMER,1-deoxy-D-xylulose-5-phosphate synthase,YPO3177(2),GenBank
 YPO3178-MONOMER,IS200/IS605-like element IS1541A family transposase,YPO3178(),GenBank
-YPO3179-MONOMER,phosphatidylglycerophosphatase A,YPO3179(1),GenBank
+YPO3179-MONOMER,phosphatidylglycerophosphatase A,YPO3179(),GenBank
 YPO3180-MONOMER,thiamine-phosphate kinase,YPO3180(1),GenBank
 YPO3181-MONOMER,transcription antitermination factor NusB,YPO3181(1),GenBank
 YPO3182-MONOMER,"6,7-dimethyl-8-ribityllumazine synthase",YPO3182(60),GenBank
@@ -3160,7 +3160,7 @@ YPO3189-MONOMER,protein translocase subunit SecD,YPO3189(),GenBank
 YPO3190-MONOMER,preprotein translocase subunit YajC,YPO3190(),GenBank
 YPO3191-MONOMER,tRNA guanosine(34) transglycosylase Tgt,YPO3191(6),GenBank
 YPO3192-MONOMER,tRNA preQ1(34) S-adenosylmethionine ribosyltransferase-isomerase QueA,YPO3192(1),GenBank
-YPO3193-MONOMER,ACP phosphodiesterase,YPO3193(1),GenBank
+YPO3193-MONOMER,ACP phosphodiesterase,YPO3193(),GenBank
 YPO3194-MONOMER,peroxiredoxin C,YPO3194(),GenBank
 YPO3195-MONOMER,IS200/IS605-like element IS1541B family transposase,YPO3195(),GenBank
 YPO3198-MONOMER,gamma-glutamyltransferase,YPO3198(1),GenBank
@@ -3176,10 +3176,10 @@ YPO3206-MONOMER,exonuclease subunit SbcD,YPO3206(),GenBank
 YPO3207-MONOMER,AAA family ATPase,YPO3207(),GenBank
 YPO3208-MONOMER,IS21-like element IS100kyp family helper ATPase IstB,YPO3208(),GenBank
 YPO3209-MONOMER,IS21-like element IS100 family transposase,YPO3209(),GenBank
-YPO3211-MONOMER,fructokinase,YPO3211(1),GenBank
+YPO3211-MONOMER,fructokinase,YPO3211(),GenBank
 YPO3212-MONOMER,recombination-associated protein RdgC,YPO3212(),GenBank
 YPO3213-MONOMER,pyrimidine/purine nucleoside phosphorylase,YPO3213(),GenBank
-YPO3215-MONOMER,shikimate kinase AroL,YPO3215(1),GenBank
+YPO3215-MONOMER,shikimate kinase AroL,YPO3215(),GenBank
 YPO3216-MONOMER,class I SAM-dependent methyltransferase,YPO3216(),GenBank
 YPO3218-MONOMER,class I SAM-dependent methyltransferase,YPO3218(),GenBank
 YPO3219-MONOMER,hypothetical protein,YPO3219(),GenBank
@@ -3188,11 +3188,11 @@ YPO3221-MONOMER,glutamate-5-semialdehyde dehydrogenase,YPO3221(4),GenBank
 YPO3222-MONOMER,glutamate 5-kinase,YPO3222(4),GenBank
 YPO3223-MONOMER,sigma factor-binding protein Crl,YPO3223(),GenBank
 YPO3224-MONOMER,esterase FrsA,YPO3224(),GenBank
-YPO3225-MONOMER,xanthine phosphoribosyltransferase,YPO3225(4),GenBank
+YPO3225-MONOMER,xanthine phosphoribosyltransferase,YPO3225(),GenBank
 YPO3226-MONOMER,phage holin family protein,YPO3226(),GenBank
 YPO3227-MONOMER,lytic polysaccharide monooxygenase,YPO3227(),GenBank
 YPO3228-MONOMER,LysR family transcriptional regulator,YPO3228(),GenBank
-YPO3230-MONOMER,beta-Ala-His dipeptidase,YPO3230(2),GenBank
+YPO3230-MONOMER,beta-Ala-His dipeptidase,YPO3230(),GenBank
 YPO3231-MONOMER,DNA polymerase IV,YPO3231(),GenBank
 YPO3232-MONOMER,glycerophosphodiester phosphodiesterase family protein,YPO3232(),GenBank
 YPO3233-MONOMER,(Na+)-NQR maturation NqrM,YPO3233(),GenBank
@@ -3206,8 +3206,8 @@ YPO3240-MONOMER,Na(+)-translocating NADH-quinone reductase subunit A,YPO3240(),G
 YPO_RS22295-MONOMER,hypothetical protein,YPO_RS22295(),GenBank
 YPO3241-MONOMER,peptidoglycan meso-diaminopimelic acid protein amidase,YPO3241(),GenBank
 YPO3242-MONOMER,class II glutamine amidotransferase,YPO3242(),GenBank
-YPO3243-MONOMER,D-sedoheptulose 7-phosphate isomerase,YPO3243(4),GenBank
-YPO3244-MONOMER,acyl-CoA dehydrogenase FadE,YPO3244(1),GenBank
+YPO3243-MONOMER,D-sedoheptulose 7-phosphate isomerase,YPO3243(),GenBank
+YPO3244-MONOMER,acyl-CoA dehydrogenase FadE,YPO3244(),GenBank
 YPO3245-MONOMER,PapB/FocB family fimbrial expression transcriptional regulator,YPO3245(),GenBank
 YPO3246-MONOMER,glycosyl transferase,YPO3246(),GenBank
 YPO3247-MONOMER,filamentous hemagglutinin N-terminal domain-containing protein,YPO3247(),GenBank
@@ -3233,7 +3233,7 @@ YPO3266-MONOMER,transcriptional repressor MprA,YPO3266(),GenBank
 YPO3267-MONOMER,multidrug efflux MFS transporter periplasmic adaptor subunit EmrA,YPO3267(),GenBank
 YPO3268-MONOMER,multidrug efflux MFS transporter permease subunit EmrB,YPO3268(),GenBank
 YPO3269-MONOMER,tRNA/rRNA methyltransferase,YPO3269(),GenBank
-YPO3270-MONOMER,thioredoxin TrxC,YPO3270(1),GenBank
+YPO3270-MONOMER,thioredoxin TrxC,YPO3270(),GenBank
 YPO3271-MONOMER,DTW domain-containing protein,YPO3271(),GenBank
 YPO3272-MONOMER,bifunctional acetate--CoA ligase family protein/GNAT family N-acetyltransferase,YPO3272(),GenBank
 YPO3273-MONOMER,CDP-diacylglycerol--serine O-phosphatidyltransferase,YPO3273(),GenBank
@@ -3248,8 +3248,8 @@ YPO3281-MONOMER,bifunctional chorismate mutase/prephenate dehydratase,YPO3281(2)
 YPO3282-MONOMER,IS21-like element IS100 family transposase,YPO3282(),GenBank
 YPO3283-MONOMER,IS21-like element IS100kyp family helper ATPase IstB,YPO3283(),GenBank
 YPO_RS17360-MONOMER,hypothetical protein,YPO_RS17360(),GenBank
-YPO3285-MONOMER,bifunctional chorismate mutase/prephenate dehydrogenase,YPO3285(2),GenBank
-YPO3286-MONOMER,3-deoxy-7-phosphoheptulonate synthase,YPO3286(2),GenBank
+YPO3285-MONOMER,bifunctional chorismate mutase/prephenate dehydrogenase,YPO3285(),GenBank
+YPO3286-MONOMER,3-deoxy-7-phosphoheptulonate synthase,YPO3286(),GenBank
 YPO3287-MONOMER,two-component system response regulator BtsR,YPO3287(),GenBank
 YPO3288-MONOMER,anaerobic C4-dicarboxylate transporter,YPO3288(),GenBank
 YPO3290-MONOMER,YdiY family protein,YPO3290(),GenBank
@@ -3263,9 +3263,9 @@ YPO3297-MONOMER,inner membrane protein YpjD,YPO3297(),GenBank
 YPO3298-MONOMER,HlyC/CorC family transporter,YPO3298(),GenBank
 YPO3299-MONOMER,IS200/IS605-like element IS1541A family transposase,YPO3299(),GenBank
 YPO3300-MONOMER,S-ribosylhomocysteine lyase,YPO3300(1),GenBank
-YPO3301-MONOMER,glutamate--cysteine ligase,YPO3301(1),GenBank
+YPO3301-MONOMER,glutamate--cysteine ligase,YPO3301(),GenBank
 YPO3302-MONOMER,YqaA family protein,YPO3302(),GenBank
-YPO3303-MONOMER,fructose-1-phosphate/6-phosphogluconate phosphatase,YPO3303(1),GenBank
+YPO3303-MONOMER,fructose-1-phosphate/6-phosphogluconate phosphatase,YPO3303(),GenBank
 YPO3304-MONOMER,carbon storage regulator CsrA,YPO3304(),GenBank
 YPO3305-MONOMER,alanine--tRNA ligase,YPO3305(4),GenBank
 YPO3306-MONOMER,recombination regulator RecX,YPO3306(),GenBank
@@ -3281,10 +3281,10 @@ YPO3315-MONOMER,ABC transporter permease,YPO3315(),GenBank
 YPO3316-MONOMER,sugar ABC transporter ATP-binding protein,YPO3316(),GenBank
 YPO3317-MONOMER,DUF2291 family protein,YPO3317(),GenBank
 YPO3318-MONOMER,D-ribose ABC transporter substrate-binding protein,YPO3318(),GenBank
-YPO3319-MONOMER,catalase/peroxidase HPI,YPO3319(4),GenBank
+YPO3319-MONOMER,catalase/peroxidase HPI,YPO3319(),GenBank
 YPO3320-MONOMER,cytochrome b562,YPO3320(),GenBank
 YPO3321-MONOMER,cytochrome b561,YPO3321(),GenBank
-YPO3322-MONOMER,Tat proofreading chaperone DmsD,YPO3322(1),GenBank
+YPO3322-MONOMER,Tat proofreading chaperone DmsD,YPO3322(),GenBank
 YPO3323-MONOMER,dimethyl sulfoxide reductase anchor subunit,YPO3323(),GenBank
 YPO3324-MONOMER,dimethylsulfoxide reductase subunit B,YPO3324(),GenBank
 YPO3325-MONOMER,dimethylsulfoxide reductase subunit A,YPO3325(),GenBank
@@ -3296,8 +3296,8 @@ YPO3330-MONOMER,sugar ABC transporter ATP-binding protein,YPO3330(),GenBank
 YPO3331-MONOMER,ABC transporter permease,YPO3331(),GenBank
 YPO3332-MONOMER,ABC transporter permease,YPO3332(),GenBank
 YPO3333-MONOMER,L-ribulose-5-phosphate 3-epimerase,YPO3333(),GenBank
-YPO3334-MONOMER,carbohydrate kinase,YPO3334(2),GenBank
-YPO3335-MONOMER,class I fumarate hydratase FumA,YPO3335(2),GenBank
+YPO3334-MONOMER,carbohydrate kinase,YPO3334(),GenBank
+YPO3335-MONOMER,class I fumarate hydratase FumA,YPO3335(),GenBank
 YPO3336-MONOMER,ParD-like family protein,YPO3336(),GenBank
 YPO3337-MONOMER,type I methionyl aminopeptidase,YPO3337(),GenBank
 YPO3339-MONOMER,ShET2/EspL2 family type III secretion system effector toxin,YPO3339(),GenBank
@@ -3317,11 +3317,11 @@ YPO3351-MONOMER,D-threitol dehydrogenase,YPO3351(),GenBank
 YPO3352-MONOMER,erythritol/L-threitol dehydrogenase,YPO3352(),GenBank
 YPO3353-MONOMER,ribose 5-phosphate isomerase B,YPO3353(2),GenBank
 YPO3354-MONOMER,DNA mismatch repair protein MutS,YPO3354(),GenBank
-YPO3355-MONOMER,RNA polymerase sigma factor RpoS,YPO3355(1),GenBank
+YPO3355-MONOMER,RNA polymerase sigma factor RpoS,YPO3355(),GenBank
 YPO3356-MONOMER,murein hydrolase activator NlpD,YPO3356(),GenBank
 YPO3357-MONOMER,protein-L-isoaspartate(D-aspartate) O-methyltransferase,YPO3357(),GenBank
-YPO3358-MONOMER,5'/3'-nucleotidase SurE,YPO3358(1),GenBank
-YPO3359-MONOMER,tRNA pseudouridine(13) synthase TruD,YPO3359(1),GenBank
+YPO3358-MONOMER,5'/3'-nucleotidase SurE,YPO3358(),GenBank
+YPO3359-MONOMER,tRNA pseudouridine(13) synthase TruD,YPO3359(),GenBank
 YPO3360-MONOMER,"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",YPO3360(3),GenBank
 YPO3361-MONOMER,2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase,YPO3361(2),GenBank
 YPO3362-MONOMER,cell division protein FtsB,YPO3362(),GenBank
@@ -3334,26 +3334,26 @@ YPO3368-MONOMER,hypothetical protein,YPO3368(),GenBank
 YPO3368a-MONOMER,type II toxin-antitoxin system HicA family toxin,YPO3368a(),GenBank
 YPO3369-MONOMER,type II toxin-antitoxin system HicB family antitoxin,YPO3369(),GenBank
 YPO_RS17810-MONOMER,gluconate 5-dehydrogenase,YPO_RS17810(),GenBank
-YPO3370-MONOMER,phosphoadenylyl-sulfate reductase,YPO3370(2),GenBank
+YPO3370-MONOMER,phosphoadenylyl-sulfate reductase,YPO3370(),GenBank
 YPO3371-MONOMER,assimilatory sulfite reductase (NADPH) hemoprotein subunit,YPO3371(),GenBank
 YPO3372-MONOMER,NADPH-dependent assimilatory sulfite reductase flavoprotein subunit,YPO3372(),GenBank
 YPO3373-MONOMER,6-carboxytetrahydropterin synthase QueD,YPO3373(1),GenBank
 YPO3374-MONOMER,7-carboxy-7-deazaguanine synthase QueE,YPO3374(),GenBank
-YPO3375-MONOMER,superoxide dismutase family protein,YPO3375(1),GenBank
+YPO3375-MONOMER,superoxide dismutase family protein,YPO3375(),GenBank
 YPO3376-MONOMER,phosphopyruvate hydratase,YPO3376(2),GenBank
 YPO3377-MONOMER,CTP synthase (glutamine hydrolyzing),YPO3377(4),GenBank
 YPO3378-MONOMER,nucleoside triphosphate pyrophosphohydrolase,YPO3378(2),GenBank
-YPO3380-MONOMER,GTP diphosphokinase,YPO3380(1),GenBank
+YPO3380-MONOMER,GTP diphosphokinase,YPO3380(),GenBank
 YPO_RS17865-MONOMER,hypothetical protein,YPO_RS17865(),GenBank
 YPO_RS17870-MONOMER,hypothetical protein,YPO_RS17870(),GenBank
 YPO3381-MONOMER,two-component sensor histidine kinase BarA,YPO3381(),GenBank
 YPO3382-MONOMER,serine endoprotease DegP,YPO3382(),GenBank
-YPO3383-MONOMER,dGTPase,YPO3383(4),GenBank
+YPO3383-MONOMER,dGTPase,YPO3383(),GenBank
 YPO3384-MONOMER,5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase,YPO3384(2),GenBank
 YPO3385-MONOMER,vitamin B12 ABC transporter substrate-binding protein BtuF,YPO3385(),GenBank
 YPO3386-MONOMER,TRIC cation channel family protein,YPO3386(),GenBank
 YPO3387-MONOMER,iron-sulfur cluster insertion protein ErpA,YPO3387(2),GenBank
-YPO3388-MONOMER,H(+)/Cl(-) exchange transporter ClcA,YPO3388(1),GenBank
+YPO3388-MONOMER,H(+)/Cl(-) exchange transporter ClcA,YPO3388(),GenBank
 YPO3389-MONOMER,"glutamate-1-semialdehyde 2,1-aminomutase",YPO3389(2),GenBank
 YPO3390-MONOMER,Fe(3+)-hydroxamate ABC transporter permease FhuB,YPO3390(),GenBank
 YPO3391-MONOMER,Fe(3+)-hydroxamate ABC transporter substrate-binding protein FhuD,YPO3391(),GenBank
@@ -3373,28 +3373,28 @@ YPO3403-MONOMER,aspartate 1-decarboxylase,YPO3403(1),GenBank
 YPO3404-MONOMER,polysaccharide deacetylase family protein,YPO3404(),GenBank
 YPO3405-MONOMER,ABC transporter permease,YPO3405(),GenBank
 YPO3406-MONOMER,ABC transporter ATP-binding protein,YPO3406(),GenBank
-YPO3407-MONOMER,carbonate dehydratase,YPO3407(4),GenBank
+YPO3407-MONOMER,carbonate dehydratase,YPO3407(),GenBank
 YPO3408-MONOMER,hypoxanthine phosphoribosyltransferase,YPO3408(4),GenBank
-YPO3409-MONOMER,multicopper oxidase CueO,YPO3409(1),GenBank
+YPO3409-MONOMER,multicopper oxidase CueO,YPO3409(),GenBank
 YPO3410-MONOMER,YacC family pilotin-like protein,YPO3410(),GenBank
 YPO3411-MONOMER,polyamine aminopropyltransferase,YPO3411(2),GenBank
-YPO3412-MONOMER,adenosylmethionine decarboxylase,YPO3412(1),GenBank
-YPO3413-MONOMER,aromatic amino acid DMT transporter YddG,YPO3413(1),GenBank
+YPO3412-MONOMER,adenosylmethionine decarboxylase,YPO3412(),GenBank
+YPO3413-MONOMER,aromatic amino acid DMT transporter YddG,YPO3413(),GenBank
 YPO3414-MONOMER,protein YacL,YPO3414(),GenBank
-YPO3415-MONOMER,bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase,YPO3415(2),GenBank
+YPO3415-MONOMER,bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase,YPO3415(),GenBank
 YPO3416-MONOMER,IS200/IS605-like element IS1541B family transposase,YPO3416(),GenBank
 YPO3417-MONOMER,dihydrolipoyl dehydrogenase,YPO3417(),GenBank
 YPO3418-MONOMER,dihydrolipoyllysine-residue acetyltransferase,YPO3418(),GenBank
 YPO3419-MONOMER,"pyruvate dehydrogenase (acetyl-transferring), homodimeric type",YPO3419(),GenBank
 YPO3420-MONOMER,pyruvate dehydrogenase complex transcriptional repressor PdhR,YPO3420(),GenBank
-YPO3421-MONOMER,amino acid permease,YPO3421(1),GenBank
+YPO3421-MONOMER,amino acid permease,YPO3421(),GenBank
 YPO3422-MONOMER,beta-lactamase regulator AmpE,YPO3422(),GenBank
-YPO3423-MONOMER,"1,6-anhydro-N-acetylmuramyl-L-alanine amidase AmpD",YPO3423(1),GenBank
+YPO3423-MONOMER,"1,6-anhydro-N-acetylmuramyl-L-alanine amidase AmpD",YPO3423(),GenBank
 YPO3424-MONOMER,carboxylating nicotinate-nucleotide diphosphorylase,YPO3424(2),GenBank
 YPO3425-MONOMER,prepilin peptidase-dependent pilin,YPO3425(),GenBank
 YPO3426-MONOMER,type II secretion system protein GspE,YPO3426(),GenBank
 YPO3427-MONOMER,protein transport protein HofC,YPO3427(),GenBank
-YPO3428-MONOMER,GMP reductase,YPO3428(4),GenBank
+YPO3428-MONOMER,GMP reductase,YPO3428(),GenBank
 YPO3429-MONOMER,hypothetical protein,YPO3429(),GenBank
 YPO3430-MONOMER,dephospho-CoA kinase,YPO3430(1),GenBank
 YPO3431-MONOMER,cell division protein ZapD,YPO3431(),GenBank
@@ -3419,7 +3419,7 @@ YPO3450-MONOMER,ABC transporter permease,YPO3450(),GenBank
 YPO3451-MONOMER,ABC transporter permease,YPO3451(),GenBank
 YPO3452-MONOMER,ABC transporter ATP-binding protein,YPO3452(),GenBank
 YPO3453-MONOMER,ABC transporter ATP-binding protein,YPO3453(),GenBank
-YPO3454-MONOMER,anaerobic ribonucleoside-triphosphate reductase,YPO3454(2),GenBank
+YPO3454-MONOMER,anaerobic ribonucleoside-triphosphate reductase,YPO3454(),GenBank
 YPO3455-MONOMER,anaerobic ribonucleoside-triphosphate reductase-activating protein,YPO3455(),GenBank
 YPO3456-MONOMER,phosphonate metabolism transcriptional regulator PhnF,YPO3456(),GenBank
 YPO3457-MONOMER,phosphonate C-P lyase system protein PhnG,YPO3457(),GenBank
@@ -3429,7 +3429,7 @@ YPO3460-MONOMER,alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ,YP
 YPO3461-MONOMER,phosphonate C-P lyase system protein PhnK,YPO3461(),GenBank
 YPO3462-MONOMER,phosphonate C-P lyase system protein PhnL,YPO3462(),GenBank
 YPO3463-MONOMER,alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase,YPO3463(),GenBank
-YPO3464-MONOMER,"ribose 1,5-bisphosphokinase",YPO3464(1),GenBank
+YPO3464-MONOMER,"ribose 1,5-bisphosphokinase",YPO3464(),GenBank
 YPO3465-MONOMER,phosphonate metabolism protein PhnP,YPO3465(),GenBank
 YPO3466-MONOMER,hypothetical protein,YPO3466(),GenBank
 YPO3467-MONOMER,YhbP family protein,YPO3467(),GenBank
@@ -3466,7 +3466,7 @@ YPO3499-MONOMER,preprotein translocase subunit SecG,YPO3499(),GenBank
 YPO3500-MONOMER,phosphoglucosamine mutase,YPO3500(1),GenBank
 YPO3501-MONOMER,dihydropteroate synthase,YPO3501(2),GenBank
 YPO3502-MONOMER,ATP-dependent zinc metalloprotease FtsH,YPO3502(),GenBank
-YPO3503-MONOMER,23S rRNA (uridine(2552)-2'-O)-methyltransferase RlmE,YPO3503(1),GenBank
+YPO3503-MONOMER,23S rRNA (uridine(2552)-2'-O)-methyltransferase RlmE,YPO3503(),GenBank
 YPO3504-MONOMER,ribosome assembly RNA-binding protein YhbY,YPO3504(),GenBank
 YPO3505-MONOMER,transcription elongation factor GreA,YPO3505(1),GenBank
 YPO3506-MONOMER,serine-type D-Ala-D-Ala carboxypeptidase,YPO3506(1),GenBank
@@ -3482,9 +3482,9 @@ YPO3514a-MONOMER,helix-turn-helix transcriptional regulator,YPO3514a(),GenBank
 YPO3516-MONOMER,malate dehydrogenase,YPO3516(2),GenBank
 YPO3517-MONOMER,transcriptional regulator ArgR,YPO3517(),GenBank
 YPO3518-MONOMER,peroxide/acid stress response protein YhcN,YPO3518(),GenBank
-YPO3519-MONOMER,UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl- meso-diaminopimelate ligase,YPO3519(1),GenBank
-YPO3520-MONOMER,class 1 fructose-bisphosphatase,YPO3520(4),GenBank
-YPO3521-MONOMER,inorganic diphosphatase,YPO3521(6),GenBank
+YPO3519-MONOMER,UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl- meso-diaminopimelate ligase,YPO3519(),GenBank
+YPO3520-MONOMER,class 1 fructose-bisphosphatase,YPO3520(),GenBank
+YPO3521-MONOMER,inorganic diphosphatase,YPO3521(),GenBank
 YPO3522-MONOMER,gamma-glutamylcyclotransferase,YPO3522(),GenBank
 YPO3523-MONOMER,translocation/assembly module TamB domain-containing protein,YPO3523(),GenBank
 YPO3524-MONOMER,autotransporter assembly complex family protein,YPO3524(),GenBank
@@ -3492,7 +3492,7 @@ YPO3525-MONOMER,peptide-methionine (S)-S-oxide reductase MsrA,YPO3525(1),GenBank
 YPO3526-MONOMER,hemolysin family protein,YPO3526(),GenBank
 YPO3527-MONOMER,DUF1107 domain-containing protein,YPO3527(),GenBank
 YPO3528-MONOMER,YtfJ family protein,YPO3528(),GenBank
-YPO3529-MONOMER,"3'(2'),5'-bisphosphate nucleotidase CysQ",YPO3529(1),GenBank
+YPO3529-MONOMER,"3'(2'),5'-bisphosphate nucleotidase CysQ",YPO3529(),GenBank
 YPO3530-MONOMER,"bifunctional 2',3'-cyclic-nucleotide 2'-phosphodiesterase/3'-nucleotidase",YPO3530(1),GenBank
 YPO3531-MONOMER,iron-sulfur cluster repair protein YtfE,YPO3531(),GenBank
 YPO3532-MONOMER,peptidylprolyl isomerase,YPO3532(),GenBank
@@ -3538,14 +3538,14 @@ YPO3572-MONOMER,phospholipid-binding protein MlaC,YPO3572(),GenBank
 YPO3573-MONOMER,outer membrane lipid asymmetry maintenance protein MlaD,YPO3573(),GenBank
 YPO3574-MONOMER,lipid asymmetry maintenance ABC transporter permease subunit MlaE,YPO3574(),GenBank
 YPO3575-MONOMER,phospholipid ABC transporter ATP-binding protein MlaF,YPO3575(),GenBank
-YPO3576-MONOMER,calcium/sodium antiporter,YPO3576(1),GenBank
-YPO3577-MONOMER,arabinose-5-phosphate isomerase KdsD,YPO3577(4),GenBank
-YPO3578-MONOMER,3-deoxy-manno-octulosonate-8-phosphatase KdsC,YPO3578(4),GenBank
+YPO3576-MONOMER,calcium/sodium antiporter,YPO3576(),GenBank
+YPO3577-MONOMER,arabinose-5-phosphate isomerase KdsD,YPO3577(),GenBank
+YPO3578-MONOMER,3-deoxy-manno-octulosonate-8-phosphatase KdsC,YPO3578(),GenBank
 YPO3579-MONOMER,LPS export ABC transporter periplasmic protein LptC,YPO3579(),GenBank
 YPO3580-MONOMER,lipopolysaccharide ABC transporter substrate-binding protein LptA,YPO3580(),GenBank
 YPO3581-MONOMER,LPS export ABC transporter ATP-binding protein,YPO3581(),GenBank
 YPO3582-MONOMER,RNA polymerase factor sigma-54,YPO3582(1),GenBank
-YPO3583-MONOMER,ribosome hibernation promoting factor,YPO3583(),GenBank
+YPO3583-MONOMER,ribosome hibernation promoting factor,YPO3583(2),GenBank
 YPO3585-MONOMER,PTS IIA-like nitrogen regulatory protein PtsN,YPO3585(),GenBank
 YPO3586-MONOMER,RNase adapter RapZ,YPO3586(),GenBank
 YPO3587-MONOMER,PTS phosphocarrier protein NPr,YPO3587(),GenBank
@@ -3588,7 +3588,7 @@ YPO3619-MONOMER,AraC family transcriptional regulator,YPO3619(),GenBank
 YPO3620-MONOMER,D-ribose pyranase,YPO3620(),GenBank
 YPO3621-MONOMER,ribokinase,YPO3621(),GenBank
 YPO3622-MONOMER,deoxyribose-phosphate aldolase,YPO3622(),GenBank
-YPO3623-MONOMER,NADPH-dependent FMN reductase,YPO3623(2),GenBank
+YPO3623-MONOMER,NADPH-dependent FMN reductase,YPO3623(),GenBank
 YPO3624-MONOMER,sulfonate ABC transporter substrate-binding protein,YPO3624(),GenBank
 YPO3625-MONOMER,FMNH2-dependent alkanesulfonate monooxygenase,YPO3625(4),GenBank
 YPO3626-MONOMER,aliphatic sulfonate ABC transporter permease SsuC,YPO3626(),GenBank
@@ -3599,7 +3599,7 @@ YPO3628-MONOMER,type II toxin-antitoxin system RelB/DinJ family antitoxin,YPO362
 YPO3629-MONOMER,NCS2 family permease,YPO3629(),GenBank
 YPO3630-MONOMER,Na+/H+ antiporter,YPO3630(),GenBank
 YPO3631-MONOMER,hypothetical protein,YPO3631(),GenBank
-YPO3632-MONOMER,kdo(2)-lipid IV(A) palmitoleoyltransferase,YPO3632(1),GenBank
+YPO3632-MONOMER,kdo(2)-lipid IV(A) palmitoleoyltransferase,YPO3632(),GenBank
 YPO3633-MONOMER,autoinducer 2 ABC transporter substrate-binding protein,YPO3633(),GenBank
 YPO3634-MONOMER,sugar ABC transporter ATP-binding protein,YPO3634(),GenBank
 YPO3635-MONOMER,ABC transporter permease,YPO3635(),GenBank
@@ -3624,7 +3624,7 @@ YPO_RS19255-MONOMER,terminase small subunit,YPO_RS19255(),GenBank
 YPO3654-MONOMER,DNA-binding transcriptional regulator Fis,YPO3654(),GenBank
 YPO3655-MONOMER,tRNA dihydrouridine synthase DusB,YPO3655(1),GenBank
 YPO3656-MONOMER,50S ribosomal protein L11 methyltransferase,YPO3656(),GenBank
-YPO3657-MONOMER,sodium/pantothenate symporter,YPO3657(1),GenBank
+YPO3657-MONOMER,sodium/pantothenate symporter,YPO3657(),GenBank
 YPO3657a-MONOMER,YhdT family protein,YPO3657a(),GenBank
 YPO_RS19285-MONOMER,hypothetical protein,YPO_RS19285(),GenBank
 YPO3658-MONOMER,acetyl-CoA carboxylase biotin carboxylase subunit,YPO3658(),GenBank
@@ -3638,7 +3638,7 @@ YPO3665-MONOMER,rod shape-determining protein MreB,YPO3665(),GenBank
 YPO3666-MONOMER,rod shape-determining protein MreC,YPO3666(),GenBank
 YPO3667-MONOMER,rod shape-determining protein MreD,YPO3667(),GenBank
 YPO3668-MONOMER,Maf family protein,YPO3668(),GenBank
-YPO3669-MONOMER,ribonuclease G,YPO3669(2),GenBank
+YPO3669-MONOMER,ribonuclease G,YPO3669(),GenBank
 YPO3670-MONOMER,AsmA2 domain-containing protein YhdP,YPO3670(),GenBank
 YPO3671-MONOMER,carbon-nitrogen hydrolase family protein,YPO3671(),GenBank
 YPO3672-MONOMER,metalloprotease TldD,YPO3672(),GenBank
@@ -3679,7 +3679,7 @@ YPO3707-MONOMER,type VI secretion system contractile sheath small subunit,YPO370
 YPO3708-MONOMER,Hcp family type VI secretion system effector,YPO3708(),GenBank
 YPO3709-MONOMER,hypothetical protein,YPO3709(),GenBank
 YPO3710-MONOMER,maltose operon protein MalM,YPO3710(),GenBank
-YPO3711-MONOMER,maltoporin,YPO3711(3),GenBank
+YPO3711-MONOMER,maltoporin,YPO3711(),GenBank
 YPO3712-MONOMER,maltose/maltodextrin ABC transporter ATP-binding protein MalK,YPO3712(),GenBank
 YPO3713-MONOMER,hypothetical protein,YPO3713(),GenBank
 YPO3714-MONOMER,maltose/maltodextrin ABC transporter substrate-binding protein MalE,YPO3714(),GenBank
@@ -3687,14 +3687,14 @@ YPO3715-MONOMER,maltose ABC transporter permease MalF,YPO3715(),GenBank
 YPO3716-MONOMER,maltose ABC transporter permease MalG,YPO3716(),GenBank
 YPO3717-MONOMER,phosphate-starvation-inducible protein PsiE,YPO3717(),GenBank
 YPO3718-MONOMER,glucose-6-phosphate isomerase,YPO3718(2),GenBank
-YPO3719-MONOMER,lysine-sensitive aspartokinase 3,YPO3719(2),GenBank
+YPO3719-MONOMER,lysine-sensitive aspartokinase 3,YPO3719(),GenBank
 YPO3720-MONOMER,ShlB/FhaC/HecB family hemolysin secretion/activation protein,YPO3720(),GenBank
 YPO3721-MONOMER,hemagglutinin repeat-containing protein,YPO3721(),GenBank
 YPO3722-MONOMER,methionine synthase,YPO3722(1),GenBank
 YPO3723-MONOMER,glyoxylate bypass operon transcriptional repressor IclR,YPO3723(),GenBank
 YPO3724-MONOMER,bifunctional isocitrate dehydrogenase kinase/phosphatase,YPO3724(),GenBank
 YPO3725-MONOMER,isocitrate lyase,YPO3725(4),GenBank
-YPO3726-MONOMER,malate synthase A,YPO3726(1),GenBank
+YPO3726-MONOMER,malate synthase A,YPO3726(),GenBank
 YPO3727-MONOMER,homoserine O-succinyltransferase,YPO3727(2),GenBank
 YPO3728-MONOMER,bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase,YPO3728(1),GenBank
 YPO3729-MONOMER,phosphoribosylamine--glycine ligase,YPO3729(1),GenBank
@@ -3704,7 +3704,7 @@ YPO3732-MONOMER,YjaG family protein,YPO3732(),GenBank
 YPO3733-MONOMER,deoxyribonuclease V,YPO3733(),GenBank
 YPO3734-MONOMER,uroporphyrinogen decarboxylase,YPO3734(1),GenBank
 YPO3735-MONOMER,hypothetical protein,YPO3735(),GenBank
-YPO3736-MONOMER,NAD(+) diphosphatase,YPO3736(1),GenBank
+YPO3736-MONOMER,NAD(+) diphosphatase,YPO3736(),GenBank
 YPO3737-MONOMER,sigma D regulator,YPO3737(),GenBank
 YPO3739-MONOMER,phosphomethylpyrimidine synthase ThiC,YPO3739(1),GenBank
 YPO3740-MONOMER,thiamine phosphate synthase,YPO3740(1),GenBank
@@ -3721,22 +3721,22 @@ YPO3750-MONOMER,50S ribosomal protein L1,YPO3750(1),GenBank
 YPO3751-MONOMER,50S ribosomal protein L11,YPO3751(1),GenBank
 YPO3752-MONOMER,transcription termination/antitermination protein NusG,YPO3752(1),GenBank
 YPO3753-MONOMER,preprotein translocase subunit SecE,YPO3753(),GenBank
-YPO3754-MONOMER,elongation factor Tu,YPO3754(),GenBank
+YPO3754-MONOMER,elongation factor Tu,YPO3754(1),GenBank
 YPO3755-MONOMER,IS21-like element IS100kyp family helper ATPase IstB,YPO3755(),GenBank
 YPO3756-MONOMER,IS21-like element IS100 family transposase,YPO3756(),GenBank
 YPO3757-MONOMER,GNAT family N-acetyltransferase,YPO3757(),GenBank
 YPO3758-MONOMER,type I pantothenate kinase,YPO3758(2),GenBank
 YPO3759-MONOMER,bifunctional biotin--[acetyl-CoA-carboxylase] ligase/biotin operon repressor BirA,YPO3759(),GenBank
 YPO3760-MONOMER,UDP-N-acetylmuramate dehydrogenase,YPO3760(1),GenBank
-YPO3761-MONOMER,menaquinone-dependent protoporphyrinogen IX dehydrogenase,YPO3761(4),GenBank
+YPO3761-MONOMER,menaquinone-dependent protoporphyrinogen IX dehydrogenase,YPO3761(),GenBank
 YPO3762-MONOMER,Trk system potassium transporter TrkH,YPO3762(),GenBank
 YPO3763-MONOMER,YigZ family protein,YPO3763(),GenBank
 YPO3764-MONOMER,IS200/IS605-like element IS1541A family transposase,YPO3764(),GenBank
 YPO_RS19900-MONOMER,YigZ family protein,YPO_RS19900(),GenBank
 YPO3765-MONOMER,Xaa-Pro dipeptidase,YPO3765(),GenBank
-YPO3766-MONOMER,fatty acid oxidation complex subunit alpha FadB,YPO3766(2),GenBank
+YPO3766-MONOMER,fatty acid oxidation complex subunit alpha FadB,YPO3766(),GenBank
 YPO3767-MONOMER,acetyl-CoA C-acyltransferase FadA,YPO3767(2),GenBank
-YPO3768-MONOMER,NAD(P)H-flavin reductase,YPO3768(1),GenBank
+YPO3768-MONOMER,NAD(P)H-flavin reductase,YPO3768(),GenBank
 YPO3769-MONOMER,4-hydroxy-3-polyprenylbenzoate decarboxylase,YPO3769(6),GenBank
 YPO3770-MONOMER,transcription/translation regulatory transformer protein RfaH,YPO3770(),GenBank
 YPO3771-MONOMER,porphobilinogen synthase,YPO3771(8),GenBank
@@ -3746,15 +3746,15 @@ YPO3774-MONOMER,IS21-like element IS100 family transposase,YPO3774(),GenBank
 YPO_RS19955-MONOMER,TatD family hydrolase,YPO_RS19955(),GenBank
 YPO3776-MONOMER,Sec-independent protein translocase subunit TatC,YPO3776(),GenBank
 YPO3777-MONOMER,Sec-independent protein translocase protein TatB,YPO3777(),GenBank
-YPO3778-MONOMER,Sec-independent protein translocase subunit TatA,YPO3778(1),GenBank
-YPO3779-MONOMER,ubiquinone biosynthesis regulatory protein kinase UbiB,YPO3779(1),GenBank
+YPO3778-MONOMER,Sec-independent protein translocase subunit TatA,YPO3778(),GenBank
+YPO3779-MONOMER,ubiquinone biosynthesis regulatory protein kinase UbiB,YPO3779(),GenBank
 YPO3780-MONOMER,SCP2 domain-containing protein,YPO3780(),GenBank
 YPO3781-MONOMER,"bifunctional demethylmenaquinone methyltransferase/2-methoxy-6-polyprenyl-1,4-benzoquinol methylase UbiE",YPO3781(1),GenBank
 YPO3782-MONOMER,DNA recombination protein RmuC,YPO3782(),GenBank
 YPO3783-MONOMER,VTT domain-containing protein,YPO3783(),GenBank
 YPO3784-MONOMER,carbon starvation protein A,YPO3784(),GenBank
 YPO3785-MONOMER,tyrosine-protein phosphatase,YPO3785(),GenBank
-YPO3786-MONOMER,uridine phosphorylase,YPO3786(6),GenBank
+YPO3786-MONOMER,uridine phosphorylase,YPO3786(),GenBank
 YPO3787-MONOMER,dienelactone hydrolase family protein,YPO3787(),GenBank
 YPO3788-MONOMER,5-methyltetrahydropteroyltriglutamate-- homocysteine S-methyltransferase,YPO3788(1),GenBank
 YPO3789-MONOMER,HTH-type transcriptional regulator MetR,YPO3789(),GenBank
@@ -3779,34 +3779,34 @@ YPO3807-MONOMER,high-affinity branched-chain amino acid ABC transporter permease
 YPO3808-MONOMER,branched-chain amino acid ABC transporter substrate-binding protein,YPO3808(),GenBank
 YPO3809-MONOMER,aspartate 1-decarboxylase autocleavage activator PanM,YPO3809(),GenBank
 YPO3810-MONOMER,IS200/IS605-like element IS1541B family transposase,YPO3810(),GenBank
-YPO3811-MONOMER,RNA polymerase sigma factor RpoH,YPO3811(1),GenBank
+YPO3811-MONOMER,RNA polymerase sigma factor RpoH,YPO3811(),GenBank
 YPO3812-MONOMER,permease-like cell division protein FtsX,YPO3812(),GenBank
 YPO3813-MONOMER,cell division ATP-binding protein FtsE,YPO3813(),GenBank
-YPO3814-MONOMER,signal recognition particle-docking protein FtsY,YPO3814(),GenBank
+YPO3814-MONOMER,signal recognition particle-docking protein FtsY,YPO3814(1),GenBank
 YPO3816-MONOMER,16S rRNA (guanine(966)-N(2))-methyltransferase,YPO3816(),GenBank
 YPO3816a-MONOMER,DUF1145 family protein,YPO3816a(),GenBank
 YPO3817-MONOMER,DUF2500 domain-containing protein,YPO3817(),GenBank
 YPO3818-MONOMER,DUF1820 family protein,YPO3818(),GenBank
 YPO3819-MONOMER,lysoplasmalogenase,YPO3819(),GenBank
 YPO3820-MONOMER,zinc/cadmium/mercury/lead-transporting ATPase,YPO3820(1),GenBank
-YPO3821-MONOMER,sulfurtransferase TusA,YPO3821(1),GenBank
+YPO3821-MONOMER,sulfurtransferase TusA,YPO3821(),GenBank
 YPO3822-MONOMER,7-cyano-7-deazaguanine/7-aminomethyl-7- deazaguanine transporter,YPO3822(),GenBank
 YPO3823-MONOMER,DcrB family lipoprotein,YPO3823(),GenBank
 YPO3824-MONOMER,anaerobic glycerol-3-phosphate dehydrogenase subunit GlpC,YPO3824(),GenBank
 YPO3825-MONOMER,glycerol-3-phosphate dehydrogenase subunit GlpB,YPO3825(),GenBank
 YPO3826-MONOMER,anaerobic glycerol-3-phosphate dehydrogenase subunit A,YPO3826(),GenBank
 YPO_RS22325-MONOMER,hypothetical protein,YPO_RS22325(),GenBank
-YPO3827-MONOMER,glycerophosphodiester phosphodiesterase,YPO3827(2),GenBank
+YPO3827-MONOMER,glycerophosphodiester phosphodiesterase,YPO3827(),GenBank
 YPO3828-MONOMER,viral enhancin family protein,YPO3828(),GenBank
-YPO3829-MONOMER,sugar/pyridoxal phosphate phosphatase YigL,YPO3829(1),GenBank
-YPO3830-MONOMER,lysophospholipase L2,YPO3830(1),GenBank
-YPO3831-MONOMER,homoserine/homoserine lactone efflux protein,YPO3831(1),GenBank
-YPO3832-MONOMER,threonine export protein RhtC,YPO3832(1),GenBank
+YPO3829-MONOMER,sugar/pyridoxal phosphate phosphatase YigL,YPO3829(),GenBank
+YPO3830-MONOMER,lysophospholipase L2,YPO3830(),GenBank
+YPO3831-MONOMER,homoserine/homoserine lactone efflux protein,YPO3831(),GenBank
+YPO3832-MONOMER,threonine export protein RhtC,YPO3832(),GenBank
 YPO3833-MONOMER,ATP-dependent DNA helicase RecQ,YPO3833(),GenBank
-YPO3834-MONOMER,phospholipase A,YPO3834(1),GenBank
+YPO3834-MONOMER,phospholipase A,YPO3834(),GenBank
 YPO3835-MONOMER,thioesterase family protein,YPO3835(),GenBank
 YPO3836-MONOMER,EamA family transporter RarD,YPO3836(),GenBank
-YPO3837-MONOMER,magnesium/cobalt transporter CorA,YPO3837(1),GenBank
+YPO3837-MONOMER,magnesium/cobalt transporter CorA,YPO3837(),GenBank
 YPO3838-MONOMER,phosphoenolpyruvate hydrolase family protein,YPO3838(),GenBank
 YPO3839-MONOMER,Tm-1-like ATP-binding domain-containing protein,YPO3839(),GenBank
 YPO3840-MONOMER,TetR/AcrR family transcriptional regulator,YPO3840(),GenBank
@@ -3816,30 +3816,30 @@ YPO3843-MONOMER,tyrosine recombinase XerC,YPO3843(),GenBank
 YPO3844-MONOMER,DUF484 domain-containing protein,YPO3844(),GenBank
 YPO3845-MONOMER,diaminopimelate epimerase,YPO3845(1),GenBank
 YPO3846-MONOMER,lipoprotein,YPO3846(),GenBank
-YPO3847-MONOMER,iron donor protein CyaY,YPO3847(1),GenBank
-YPO3848-MONOMER,class I adenylate cyclase,YPO3848(1),GenBank
+YPO3847-MONOMER,iron donor protein CyaY,YPO3847(),GenBank
+YPO3848-MONOMER,class I adenylate cyclase,YPO3848(),GenBank
 YPO3848a-MONOMER,hypothetical protein,YPO3848a(),GenBank
 YPO3849-MONOMER,hydroxymethylbilane synthase,YPO3849(1),GenBank
-YPO3850-MONOMER,uroporphyrinogen-III synthase,YPO3850(1),GenBank
-YPO3851-MONOMER,uroporphyrinogen-III C-methyltransferase,YPO3851(1),GenBank
+YPO3850-MONOMER,uroporphyrinogen-III synthase,YPO3850(),GenBank
+YPO3851-MONOMER,uroporphyrinogen-III C-methyltransferase,YPO3851(),GenBank
 YPO3852-MONOMER,protoheme IX biogenesis protein HemY,YPO3852(),GenBank
 YPO3853-MONOMER,IS200/IS605-like element IS1541A family transposase,YPO3853(),GenBank
 YPO3854-MONOMER,amino acid permease,YPO3854(),GenBank
 YPO3855-MONOMER,lipopolysaccharide N-acetylmannosaminouronosyltransferase,YPO3855(1),GenBank
 YPO3856-MONOMER,ECA oligosaccharide polymerase,YPO3856(),GenBank
-YPO3857-MONOMER,TDP-N-acetylfucosamine:lipid II N-acetylfucosaminyltransferase,YPO3857(1),GenBank
-YPO3858-MONOMER,lipid III flippase WzxE,YPO3858(1),GenBank
-YPO3859-MONOMER,"dTDP-4-amino-4,6-dideoxygalactose transaminase",YPO3859(1),GenBank
-YPO3860-MONOMER,"dTDP-4-amino-4,6-dideoxy-D-galactose acyltransferase",YPO3860(1),GenBank
+YPO3857-MONOMER,TDP-N-acetylfucosamine:lipid II N-acetylfucosaminyltransferase,YPO3857(),GenBank
+YPO3858-MONOMER,lipid III flippase WzxE,YPO3858(),GenBank
+YPO3859-MONOMER,"dTDP-4-amino-4,6-dideoxygalactose transaminase",YPO3859(),GenBank
+YPO3860-MONOMER,"dTDP-4-amino-4,6-dideoxy-D-galactose acyltransferase",YPO3860(),GenBank
 YPO3861-MONOMER,glucose-1-phosphate thymidylyltransferase RfbA,YPO3861(1),GenBank
 YPO3862-MONOMER,"dTDP-glucose 4,6-dehydratase",YPO3862(1),GenBank
-YPO3863-MONOMER,UDP-N-acetyl-D-mannosamine dehydrogenase,YPO3863(1),GenBank
+YPO3863-MONOMER,UDP-N-acetyl-D-mannosamine dehydrogenase,YPO3863(),GenBank
 YPO3864-MONOMER,UDP-N-acetylglucosamine 2-epimerase (non-hydrolyzing),YPO3864(1),GenBank
 YPO3865-MONOMER,ECA polysaccharide chain length modulation protein,YPO3865(),GenBank
 YPO3866-MONOMER,UDP-N-acetylglucosamine--undecaprenyl-phosphate N-acetylglucosaminephosphotransferase,YPO3866(1),GenBank
 YPO3867-MONOMER,transcription termination factor Rho,YPO3867(6),GenBank
 YPO3868-MONOMER,thioredoxin TrxA,YPO3868(1),GenBank
-YPO3869-MONOMER,ATP-dependent RNA helicase RhlB,YPO3869(2),GenBank
+YPO3869-MONOMER,ATP-dependent RNA helicase RhlB,YPO3869(),GenBank
 YPO3870-MONOMER,"guanosine-5'-triphosphate,3'-diphosphate diphosphatase",YPO3870(),GenBank
 YPO3872-MONOMER,DNA helicase Rep,YPO3872(),GenBank
 YPO_RS20470-MONOMER,hypothetical protein,YPO_RS20470(),GenBank
@@ -3878,10 +3878,10 @@ YPO3907-MONOMER,sugar ABC transporter ATP-binding protein,YPO3907(),GenBank
 YPO3908-MONOMER,ABC transporter substrate-binding protein,YPO3908(),GenBank
 YPO3909-MONOMER,glutamate racemase,YPO3909(2),GenBank
 YPO3910-MONOMER,TonB-dependent vitamin B12 receptor BtuB,YPO3910(),GenBank
-YPO3911-MONOMER,tRNA (uridine(54)-C5)-methyltransferase TrmA,YPO3911(1),GenBank
+YPO3911-MONOMER,tRNA (uridine(54)-C5)-methyltransferase TrmA,YPO3911(),GenBank
 YPO3912-MONOMER,YijD family membrane protein,YPO3912(),GenBank
 YPO3913-MONOMER,HTH-type transcriptional repressor FabR,YPO3913(),GenBank
-YPO3914-MONOMER,Si-specific NAD(P)(+) transhydrogenase,YPO3914(8),GenBank
+YPO3914-MONOMER,Si-specific NAD(P)(+) transhydrogenase,YPO3914(),GenBank
 YPO3915-MONOMER,DNA-binding transcriptional regulator OxyR,YPO3915(),GenBank
 YPO3916-MONOMER,glutathione peroxidase,YPO3916(),GenBank
 YPO3917-MONOMER,dihydrolipoyl dehydrogenase,YPO3917(),GenBank
@@ -3894,7 +3894,7 @@ YPO3924-MONOMER,argininosuccinate lyase,YPO3924(1),GenBank
 YPO3925-MONOMER,acetylglutamate kinase,YPO3925(2),GenBank
 YPO3927-MONOMER,N-acetyl-gamma-glutamyl-phosphate reductase,YPO3927(1),GenBank
 YPO3928-MONOMER,acetylornithine deacetylase,YPO3928(2),GenBank
-YPO3929-MONOMER,phosphoenolpyruvate carboxylase,YPO3929(4),GenBank
+YPO3929-MONOMER,phosphoenolpyruvate carboxylase,YPO3929(),GenBank
 YPO_RS20775-MONOMER,IS3-like element IS1661 family transposase,YPO_RS20775(),GenBank
 YPO3935-MONOMER,DUF943 family protein,YPO3935(),GenBank
 YPO_RS20790-MONOMER,DUF3289 family protein,YPO_RS20790(),GenBank
@@ -3911,12 +3911,12 @@ YPO3946-MONOMER,contact-dependent growth inhibition system immunity protein,YPO3
 YPO3947-MONOMER,contact-dependent growth inhibition system immunity protein,YPO3947(),GenBank
 YPO_RS22330-MONOMER,hypothetical protein,YPO_RS22330(),GenBank
 YPO_RS22335-MONOMER,hypothetical protein,YPO_RS22335(),GenBank
-YPO3949-MONOMER,aspartate-semialdehyde dehydrogenase,YPO3949(2),GenBank
+YPO3949-MONOMER,aspartate-semialdehyde dehydrogenase,YPO3949(),GenBank
 YPO3950-MONOMER,YhgN family NAAT transporter,YPO3950(),GenBank
 YPO3951-MONOMER,immunity protein Tsi6 family protein,YPO3951(),GenBank
 YPO3952-MONOMER,hypothetical protein,YPO3952(),GenBank
 YPO3953-MONOMER,gluconokinase,YPO3953(),GenBank
-YPO3954-MONOMER,gluconate transporter,YPO3954(1),GenBank
+YPO3954-MONOMER,gluconate transporter,YPO3954(),GenBank
 YPO3955-MONOMER,gluconate operon transcriptional repressor GntR,YPO3955(),GenBank
 YPO3956-MONOMER,pirin family protein,YPO3956(),GenBank
 YPO_RS20900-MONOMER,hypothetical protein,YPO_RS20900(),GenBank
@@ -3938,7 +3938,7 @@ YPO3973-MONOMER,M57 family metalloprotease,YPO3973(),GenBank
 YPO3974-MONOMER,16S rRNA (guanine(1516)-N(2))-methyltransferase RsmJ,YPO3974(),GenBank
 YPO3975-MONOMER,oligopeptidase A,YPO3975(),GenBank
 YPO3976-MONOMER,23S rRNA (adenine(2030)-N(6))-methyltransferase RlmJ,YPO3976(),GenBank
-YPO3977-MONOMER,glutathione-disulfide reductase,YPO3977(2),GenBank
+YPO3977-MONOMER,glutathione-disulfide reductase,YPO3977(),GenBank
 YPO3978-MONOMER,sugar diacid recognition domain-containing protein,YPO3978(),GenBank
 YPO_RS21005-MONOMER,hypothetical protein,YPO_RS21005(),GenBank
 YPO3979-MONOMER,GntP family permease,YPO3979(),GenBank
@@ -3948,11 +3948,11 @@ YPO3982-MONOMER,DUF943 family protein,YPO3982(),GenBank
 YPO3983-MONOMER,DUF3289 family protein,YPO3983(),GenBank
 YPO3984-MONOMER,autotransporter adhesin YapE,YPO3984(),GenBank
 YPO3985-MONOMER,inner membrane protein YhjD,YPO3985(),GenBank
-YPO3986-MONOMER,CDP-diacylglycerol diphosphatase,YPO3986(1),GenBank
+YPO3986-MONOMER,CDP-diacylglycerol diphosphatase,YPO3986(),GenBank
 YPO3987-MONOMER,AsmA family protein,YPO3987(),GenBank
 YPO3988-MONOMER,cyclic-guanylate-specific phosphodiesterase,YPO3988(),GenBank
 YPO3989-MONOMER,4-oxalocrotonate tautomerase family protein,YPO3989(),GenBank
-YPO3990-MONOMER,sugar kinase,YPO3990(1),GenBank
+YPO3990-MONOMER,sugar kinase,YPO3990(),GenBank
 YPO3991-MONOMER,pitrilysin family protein,YPO3991(),GenBank
 YPO3992-MONOMER,dicarboxylate/amino acid:cation symporter,YPO3992(1),GenBank
 YPO3993-MONOMER,discoidin domain-containing protein,YPO3993(),GenBank
@@ -3967,13 +3967,13 @@ YPO4002-MONOMER,dipeptide ABC transporter permease DppB,YPO4002(),GenBank
 YPO4003-MONOMER,ABC transporter substrate-binding protein,YPO4003(),GenBank
 YPO4005-MONOMER,ShlB/FhaC/HecB family hemolysin secretion/activation protein,YPO4005(),GenBank
 YPO4006-MONOMER,filamentous hemagglutinin N-terminal domain-containing protein,YPO4006(),GenBank
-YPO4007-MONOMER,MFS transporter,YPO4007(),GenBank
+YPO4007-MONOMER,MFS transporter,YPO4007(1),GenBank
 YPO_RS21155-MONOMER,histidine kinase,YPO_RS21155(),GenBank
 YPO4009-MONOMER,IS21-like element IS100kyp family helper ATPase IstB,YPO4009(),GenBank
 YPO4010-MONOMER,IS21-like element IS100 family transposase,YPO4010(),GenBank
 YPO_RS21170-MONOMER,MASE1 domain-containing protein,YPO_RS21170(),GenBank
 YPO4012-MONOMER,transcriptional regulator UhpA,YPO4012(),GenBank
-YPO4013-MONOMER,kdo(2)-lipid A phosphoethanolamine 7''-transferase,YPO4013(1),GenBank
+YPO4013-MONOMER,kdo(2)-lipid A phosphoethanolamine 7''-transferase,YPO4013(),GenBank
 YPO4014-MONOMER,alpha/beta hydrolase,YPO4014(),GenBank
 YPO4015-MONOMER,amino acid permease,YPO4015(),GenBank
 YPO4016-MONOMER,histidine ammonia-lyase,YPO4016(),GenBank
@@ -4000,7 +4000,7 @@ YPO4035-MONOMER,sugar ABC transporter permease,YPO4035(),GenBank
 YPO4036-MONOMER,xylose ABC transporter ATP-binding protein,YPO4036(),GenBank
 YPO4037-MONOMER,D-xylose ABC transporter substrate-binding protein,YPO4037(),GenBank
 YPO4038-MONOMER,xylose isomerase,YPO4038(4),GenBank
-YPO4039-MONOMER,xylulokinase,YPO4039(2),GenBank
+YPO4039-MONOMER,xylulokinase,YPO4039(),GenBank
 YPO4040-MONOMER,fimbrial protein,YPO4040(),GenBank
 YPO4041-MONOMER,molecular chaperone,YPO4041(),GenBank
 YPO_RS22460-MONOMER,fimbria/pilus outer membrane usher protein,YPO_RS22460(),GenBank
@@ -4009,14 +4009,14 @@ YPO4044-MONOMER,fimbrial protein,YPO4044(),GenBank
 YPO4045-MONOMER,acyltransferase,YPO4045(),GenBank
 YPO_RS21350-MONOMER,hypothetical protein,YPO_RS21350(),GenBank
 YPO_RS21355-MONOMER,IS3-like element IS1661 family transposase,YPO_RS21355(),GenBank
-YPO4048-MONOMER,MFS transporter,YPO4048(1),GenBank
+YPO4048-MONOMER,MFS transporter,YPO4048(),GenBank
 YPO_RS21365-MONOMER,hypothetical protein,YPO_RS21365(),GenBank
 YPO_RS21370-MONOMER,hypothetical protein,YPO_RS21370(),GenBank
 YPO4049-MONOMER,DUF4225 domain-containing protein,YPO4049(),GenBank
 YPO4050-MONOMER,hypothetical protein,YPO4050(),GenBank
 YPO4051-MONOMER,Tn3 family transposase,YPO4051(),GenBank
-YPO4052-MONOMER,selenocysteine-specific translation elongation factor,YPO4052(1),GenBank
-YPO4054-MONOMER,L-seryl-tRNA(Sec) selenium transferase,YPO4054(10),GenBank
+YPO4052-MONOMER,selenocysteine-specific translation elongation factor,YPO4052(),GenBank
+YPO4054-MONOMER,L-seryl-tRNA(Sec) selenium transferase,YPO4054(),GenBank
 YPO4055-MONOMER,formate dehydrogenase accessory protein FdhE,YPO4055(),GenBank
 YPO4056-MONOMER,formate dehydrogenase cytochrome b556 subunit,YPO4056(),GenBank
 YPO4057-MONOMER,formate dehydrogenase subunit beta,YPO4057(),GenBank
@@ -4038,15 +4038,15 @@ YPO4075-MONOMER,N-acetyltransferase,YPO4075(),GenBank
 YPO4076-MONOMER,OmpA family lipoprotein,YPO4076(),GenBank
 YPO4077-MONOMER,transcriptional regulator,YPO4077(),GenBank
 YPO4078-MONOMER,glyoxylate/hydroxypyruvate reductase GhrB,YPO4078(2),GenBank
-YPO4080-MONOMER,alpha-amylase,YPO4080(1),GenBank
+YPO4080-MONOMER,alpha-amylase,YPO4080(),GenBank
 YPO4081-MONOMER,hypothetical protein,YPO4081(),GenBank
-YPO4082-MONOMER,valine--pyruvate transaminase,YPO4082(1),GenBank
+YPO4082-MONOMER,valine--pyruvate transaminase,YPO4082(),GenBank
 YPO4083-MONOMER,putative transporter,YPO4083(),GenBank
 YPO4084-MONOMER,heat shock chaperone IbpB,YPO4084(),GenBank
 YPO4085-MONOMER,heat shock chaperone IbpA,YPO4085(),GenBank
 YPO4086-MONOMER,YceK/YidQ family lipoprotein,YPO4086(),GenBank
 YPO4087-MONOMER,hypothetical protein,YPO4087(),GenBank
-YPO4089-MONOMER,threonine/serine dehydratase,YPO4089(4),GenBank
+YPO4089-MONOMER,threonine/serine dehydratase,YPO4089(),GenBank
 YPO4090-MONOMER,ornithine cyclodeaminase family protein,YPO4090(),GenBank
 YPO_RS21565-MONOMER,IS3-like element IS1661 family transposase,YPO_RS21565(),GenBank
 YPO4093-MONOMER,sugar-phosphatase,YPO4093(),GenBank
@@ -4054,7 +4054,7 @@ YPO4094-MONOMER,DNA topoisomerase (ATP-hydrolyzing) subunit B,YPO4094(),GenBank
 YPO4095-MONOMER,DNA replication/repair protein RecF,YPO4095(),GenBank
 YPO4096-MONOMER,DNA polymerase III subunit beta,YPO4096(),GenBank
 YPO4097-MONOMER,chromosomal replication initiator protein DnaA,YPO4097(),GenBank
-YPO4100-MONOMER,50S ribosomal protein L34,YPO4100(1),GenBank
+YPO4100-MONOMER,50S ribosomal protein L34,YPO4100(),GenBank
 YPO4101-MONOMER,ribonuclease P protein component,YPO4101(),GenBank
 YPO_RS21605-MONOMER,membrane protein insertion efficiency factor YidD,YPO_RS21605(),GenBank
 YPO4102-MONOMER,membrane protein insertase YidC,YPO4102(1),GenBank
@@ -4064,7 +4064,7 @@ YPO_RS21625-MONOMER,DUF1240 domain-containing protein,YPO_RS21625(),GenBank
 YPO4105-MONOMER,hypothetical protein,YPO4105(),GenBank
 YPO4106-MONOMER,hypothetical protein,YPO4106(),GenBank
 YPO_RS22355-MONOMER,IS6 family transposase,YPO_RS22355(),GenBank
-YPO4107-MONOMER,NCS2 family permease,YPO4107(1),GenBank
+YPO4107-MONOMER,NCS2 family permease,YPO4107(),GenBank
 YPO_RS21645-MONOMER,gluconate 5-dehydrogenase,YPO_RS21645(),GenBank
 YPO4108-MONOMER,6-phosphogluconate phosphatase,YPO4108(),GenBank
 YPO4109-MONOMER,amino acid ABC transporter permease,YPO4109(),GenBank
@@ -4093,77 +4093,77 @@ RNAP-CPLX,DNA-directed RNA polymerase,YPO0039() AND YPO0234() AND YPO3746() AND 
 CPLX-tRNA-PHE-LIGASE,tRNA-Phe ligase,YPO2428(2) AND YPO2429(2),Inferred from subunits
 CPLX-tRNA-GLY-LIGASE,tRNA-Gly ligase,YPO4071(2) AND YPO4072(2),Inferred from subunits
 CPLX_GAMptspp-0,D-glucosamine transport via PEP:Pyr PTS (periplasm),YPO1758() AND YPO1757() AND YPO1756() AND YPO2993(),iPC815(GAMptspp)
-CPLX_GLCabcpp-0,D-glucose transport via ABC system (periplasm),YPO1507(1) AND YPO1509(2) AND YPO1508(2),iPC815(GLCabcpp)
+CPLX_GLCabcpp-0,D-glucose transport via ABC system (periplasm),YPO1508() AND YPO1507() AND YPO1509(),iPC815(GLCabcpp)
 CPLX_GLCptspp-0,D-glucose transport via PEP:Pyr PTS (periplasm),YPO2995() AND YPO1608() AND YPO2993(),iPC815(GLCptspp)
 CPLX_GLCptspp-1,D-glucose transport via PEP:Pyr PTS (periplasm),YPO2995() AND YPO2993(),iPC815(GLCptspp)
-CPLX_GLNabcpp-0,L-glutamine transport via ABC system (periplasm),YPO2514(2) AND YPO2512(1) AND YPO2513(2),iPC815(GLNabcpp)
-CPLX_14GLUCANabcpp-0,"1,4-alpha-D-glucan transport via ABC system (periplasm)",YPO3714(1) AND YPO3712(2) AND YPO3715(1) AND YPO3716(1),iPC815(14GLUCANabcpp)
+CPLX_GLNabcpp-0,L-glutamine transport via ABC system (periplasm),YPO2512() AND YPO2513() AND YPO2514(),iPC815(GLNabcpp)
+CPLX_14GLUCANabcpp-0,"1,4-alpha-D-glucan transport via ABC system (periplasm)",YPO3714() AND YPO3715() AND YPO3716() AND YPO3712(),iPC815(14GLUCANabcpp)
 CPLX_AACPS1-0,Acyl-[acyl-carrier-protein] synthetase (n-C14:0),YPO0793() AND YPO1600(),iPC815(AACPS1)
-CPLX_ACCOAC-0,Acetyl-CoA carboxylase,YPO3659(2) AND YPO2768(2) AND YPO1060(2) AND YPO3658(2),iPC815(ACCOAC)
+CPLX_ACCOAC-0,Acetyl-CoA carboxylase,YPO1060() AND YPO2768() AND YPO3659() AND YPO3658(),iPC815(ACCOAC)
 CPLX_ACGAptspp-0,N-Acetyl-D-glucosamine transport via PEP:Pyr PTS  (periplasm),YPO2628() AND YPO2993(),iPC815(ACGAptspp)
-CPLX_ACHBS-0,2-aceto-2-hydroxybutanoate synthase,YPO2293(2) AND YPO2294(2),iPC815(ACHBS)
+CPLX_ACHBS-0,2-aceto-2-hydroxybutanoate synthase,YPO2294() AND YPO2293(),iPC815(ACHBS)
 CPLX_ACOATA-0,Acetyl-CoA ACP transacylase,YPO1600() AND YPO1597(),iPC815(ACOATA)
 CPLX_ADCS-0,4-amino-4-deoxychorismate synthase,YPO0169(1) AND YPO1773(1),iPC815(ADCS)
-CPLX_ADOCBLabcpp-0,Adenosylcobalamin transport via ABC system (periplasm),YPO2423(2) AND YPO3385(1) AND YPO2425(2),iPC815(ADOCBLabcpp)
+CPLX_ADOCBLabcpp-0,Adenosylcobalamin transport via ABC system (periplasm),YPO2425() AND YPO2423() AND YPO3385(),iPC815(ADOCBLabcpp)
 CPLX_ADOCBLtonex-0,Adenosylcobalimin transport via ton system (extermal),YPO2193() AND YPO0683() AND YPO0682(),iPC815(ADOCBLtonex)
-CPLX_ARBabcpp-0,L-arabinose transport via ABC system (periplasm),YPO2256(2) AND YPO2255(1) AND YPO2257(2),iPC815(ARBabcpp)
+CPLX_ARBabcpp-0,L-arabinose transport via ABC system (periplasm),YPO2255() AND YPO2256() AND YPO2257(),iPC815(ARBabcpp)
 CPLX_ARGabcpp-0,L-arginine transport via ABC system (periplasm),YPO2776() AND YPO2777() AND YPO2775(),iPC815(ARGabcpp)
 CPLX_ARGabcpp-1,L-arginine transport via ABC system (periplasm),YPO1351() AND YPO1349() AND YPO1352() AND YPO1350(),iPC815(ARGabcpp)
 CPLX_AKGDH-0,2-Oxogluterate dehydrogenase,YPO1113(12) AND YPO3417(2) AND YPO1114(24),iPC815(AKGDH)
-CPLX_ALAALAabcpp-0,D-alanyl-D-alanine (DalaDala) transport via ABC system (periplasm),YPO3999(1) AND YPO4000(1) AND YPO4001(1) AND YPO4002(1) AND YPO4003(1),iPC815(ALAALAabcpp)
+CPLX_ALAALAabcpp-0,D-alanyl-D-alanine (DalaDala) transport via ABC system (periplasm),YPO4003() AND YPO4002() AND YPO4001() AND YPO4000() AND YPO3999(),iPC815(ALAALAabcpp)
 CPLX_ASPabcpp-0,L-aspartate transport via ABC system (periplasm),YPO2615() AND YPO2614() AND YPO2613() AND YPO2612(),iPC815(ASPabcpp)
-CPLX_ASPCT-0,Aspartate carbamoyltransferase,YPO3588(6) AND YPO3589(6),iPC815(ASPCT)
+CPLX_ASPCT-0,Aspartate carbamoyltransferase,YPO3589() AND YPO3588(),iPC815(ASPCT)
 CPLX_ALPATE160pp-0,"Apolipoprotein N-acyltransferase (phosphatidylethanolamine, periplasm)",YPO2616() AND YPO2394(),iPC815(ALPATE160pp)
-CPLX_ATPS4rpp-0,ATP synthase (four protons for one ATP) (periplasm),YPO4122(1) AND YPO4127(1) AND YPO4121(3) AND YPO4125(2) AND YPO4120(1) AND YPO4124(1) AND YPO4126(10) AND YPO4123(3),iPC815(ATPS4rpp)
-CPLX_ATPS4rpp-1,ATP synthase (four protons for one ATP) (periplasm),YPO4125() AND YPO4120() AND YPO4124() AND YPO4128() AND YPO4123() AND YPO4122() AND YPO4127() AND YPO4126() AND YPO4121(),iPC815(ATPS4rpp)
-CPLX_CRNabcpp-0,L-carnitine transport via ABC system (periplasm),YPO2646(2) AND YPO2647(2) AND YPO2645(1),iPC815(CRNabcpp)
-CPLX_BUTSO3abcpp-0,Butanesulfonate transport via ABC system (periplasm),YPO3626(2) AND YPO3627(2) AND YPO3624(),iPC815(BUTSO3abcpp)
+CPLX_ATPS4rpp-0,ATP synthase (four protons for one ATP) (periplasm),YPO4125() AND YPO4126() AND YPO4127() AND YPO4120() AND YPO4121() AND YPO4122() AND YPO4123() AND YPO4124(),iPC815(ATPS4rpp)
+CPLX_ATPS4rpp-1,ATP synthase (four protons for one ATP) (periplasm),YPO4125() AND YPO4126() AND YPO4127() AND YPO4120() AND YPO4121() AND YPO4122() AND YPO4123() AND YPO4124() AND YPO4128(),iPC815(ATPS4rpp)
+CPLX_CRNabcpp-0,L-carnitine transport via ABC system (periplasm),YPO2647() AND YPO2646() AND YPO2645(),iPC815(CRNabcpp)
+CPLX_BUTSO3abcpp-0,Butanesulfonate transport via ABC system (periplasm),YPO3624() AND YPO3627() AND YPO3626(),iPC815(BUTSO3abcpp)
 CPLX_CBPS-0,Carbamoyl-phosphate synthase (glutamine-hydrolysing),YPO0481(2) AND YPO0482(2),iPC815(CBPS)
 CPLX_CYTBD2pp-0,Cytochrome oxidase bd (menaquinol-8: 2 protons) (periplasm),YPO1117(1) AND YPO1118(1),iPC815(CYTBD2pp)
-CPLX_CYTBO3_4pp-0,Cytochrome oxidase bo3 (ubiquinol-8: 4 protons) (periplasm),YPO3167(1) AND YPO3165(1) AND YPO3166(1) AND YPO3164(1),iPC815(CYTBO3_4pp)
-CPLX_DMSOR1-0,Dimethyl sulfoxide reductase (Menaquinol 8),YPO3323(1) AND YPO3324(1) AND YPO3325(1),iPC815(DMSOR1)
+CPLX_CYTBO3_4pp-0,Cytochrome oxidase bo3 (ubiquinol-8: 4 protons) (periplasm),YPO3167() AND YPO3166() AND YPO3165() AND YPO3164(),iPC815(CYTBO3_4pp)
+CPLX_DMSOR1-0,Dimethyl sulfoxide reductase (Menaquinol 8),YPO3325() AND YPO3324() AND YPO3323(),iPC815(DMSOR1)
 CPLX_FLDR-0,Flavodoxin reductase (NADPH),YPO2635() AND YPO0088(),iPC815(FLDR)
 CPLX_FLDR-1,Flavodoxin reductase (NADPH),YPO0893() AND YPO0088(),iPC815(FLDR)
 CPLX_DSBAO1-0,DsbA protein reoxidation reaction (aerobic),YPO0015() AND YPO2141(),iPC815(DSBAO1)
 CPLX_DSBDR-0,DsbD reductase,YPO0345() AND YPO3868(),iPC815(DSBDR)
 CPLX_DSBDR-1,DsbD reductase,YPO0345() AND YPO3270(),iPC815(DSBDR)
 CPLX_FLVR-0,Flavin reductase,YPO3372(8) AND YPO3371(4),iPC815(FLVR)
-CPLX_ECAP1pp-0,Enterobacterial common antigen polymerase (periplasm),YPO3865() AND YPO3856(),iPC815(ECAP1pp)
+CPLX_ECAP1pp-0,Enterobacterial common antigen polymerase (periplasm),YPO3856() AND YPO3865(),iPC815(ECAP1pp)
 CPLX_FDH4pp-0,Formate dehydrogenase (quinone-8) (periplasm),YPO4056() AND YPO4057(),iPC815(FDH4pp)
-CPLX_FE3DCITabcpp-0,Iron transport from ferric-dicitrate via ABC system (periplasm),YPO3391(1) AND YPO3392(2) AND YPO3390(2),iPC815(FE3DCITabcpp)
+CPLX_FE3DCITabcpp-0,Iron transport from ferric-dicitrate via ABC system (periplasm),YPO3391() AND YPO3390() AND YPO3392(),iPC815(FE3DCITabcpp)
 CPLX_FE3DCITtonex-0,Ferric-dicitrate transport via ton system (extracellular),YPO3910() AND YPO2193() AND YPO0683() AND YPO0682(),iPC815(FE3DCITtonex)
 CPLX_GLUSy-0,Glutamate synthase (NADPH),YPO3558(4) AND YPO3557(4),iPC815(GLUSy)
 CPLX_GLYBabcpp-0,Glycine betaine transport via ABC system (periplasm),YPO1198() AND YPO1199(),iPC815(GLYBabcpp)
-CPLX_FRD2-0,Fumarate reductase,YPO0360(1) AND YPO0358(1) AND YPO0359(1) AND YPO0357(1),iPC815(FRD2)
-CPLX_GLYC3Pabcpp-0,Sn-Glycerol 3-phosphate transport via ABC system (periplasm),YPO3795(1) AND YPO3796(1) AND YPO3794(1) AND YPO3793(2),iPC815(GLYC3Pabcpp)
-CPLX_GLYCL-0,Glycine Cleavage System,YPO0906(1) AND YPO3417(2) AND YPO0907(1) AND YPO0905(2),iPC815(GLYCL)
+CPLX_FRD2-0,Fumarate reductase,YPO0357() AND YPO0358() AND YPO0359() AND YPO0360(),iPC815(FRD2)
+CPLX_GLYC3Pabcpp-0,Sn-Glycerol 3-phosphate transport via ABC system (periplasm),YPO3795() AND YPO3796() AND YPO3793() AND YPO3794(),iPC815(GLYC3Pabcpp)
+CPLX_GLYCL-0,Glycine Cleavage System,YPO0906() AND YPO0905() AND YPO0907() AND YPO3417(),iPC815(GLYCL)
 CPLX_FRUptspp-0,D-fructose transport via PEP:Pyr PTS (periplasm),YPO1300() AND YPO1298() AND YPO2993(),iPC815(FRUptspp)
-CPLX_HISabcpp-0,L-histidine transport via ABC system (periplasm),YPO2774(1) AND YPO2775(1) AND YPO2776(1) AND YPO2777(2),iPC815(HISabcpp)
+CPLX_HISabcpp-0,L-histidine transport via ABC system (periplasm),YPO2774() AND YPO2776() AND YPO2777() AND YPO2775(),iPC815(HISabcpp)
 CPLX_IPPMIa-0,3-isopropylmalate dehydratase,YPO0530(1) AND YPO0531(1),iPC815(IPPMIa)
 CPLX_IG3PS-0,Imidazole-glycerol-3-phosphate synthase,YPO1543(1) AND YPO1545(1),iPC815(IG3PS)
 CPLX_Kabcpp-0,Potassium ABC transporter (periplasm),YPO2692() AND YPO2691() AND YPO2690(),iPC815(Kabcpp)
-CPLX_ILEabcpp-0,L-isoleucine transport via ABC system (periplasm),YPO3808(1) AND YPO3806(1) AND YPO3807(1) AND YPO3804(1) AND YPO3805(1),iPC815(ILEabcpp)
+CPLX_ILEabcpp-0,L-isoleucine transport via ABC system (periplasm),YPO3804() AND YPO3805() AND YPO3807() AND YPO3808() AND YPO3806(),iPC815(ILEabcpp)
 CPLX_Kt2pp-0,Potassium transport in via proton symport (periplasm),YPO0239() AND YPO3762(),iPC815(Kt2pp)
 CPLX_LEUabcpp-0,L-leucine transport via ABC system (periplasm),YPO3804() AND YPO3805() AND YPO3807() AND YPO3806(),iPC815(LEUabcpp)
 CPLX_MCOATA-0,Malonyl-CoA-ACP transacylase,YPO1600() AND YPO1598(),iPC815(MCOATA)
 CPLX_G3PD5-0,Glycerol-3-phosphate dehydrogenase (ubiquinone-8),YPO3825() AND YPO3824(),iPC815(G3PD5)
 CPLX_MNLptspp-0,Mannitol transport via PEP:Pyr PTS (periplasm),YPO4068() AND YPO2993(),iPC815(MNLptspp)
 CPLX_METabcpp-0,L-methionine transport via ABC system (periplasm),YPO1072() AND YPO1073(),iPC815(METabcpp)
-CPLX_MOBDabcpp-0,Molybdate transport via ABC system (periplasm),YPO1146(2) AND YPO1147(2) AND YPO1145(1),iPC815(MOBDabcpp)
-CPLX_MOBDabcpp-1,Molybdate transport via ABC system (periplasm),YPO3012(2) AND YPO3013(1) AND YPO3014(1) AND YPO3015(1),iPC815(MOBDabcpp)
+CPLX_MOBDabcpp-0,Molybdate transport via ABC system (periplasm),YPO1145() AND YPO1146() AND YPO1147(),iPC815(MOBDabcpp)
+CPLX_MOBDabcpp-1,Molybdate transport via ABC system (periplasm),YPO3012() AND YPO3014() AND YPO3013() AND YPO3015(),iPC815(MOBDabcpp)
 CPLX_MOBDabcpp-2,Molybdate transport via ABC system (periplasm),YPO3012() AND YPO3014() AND YPO3013(),iPC815(MOBDabcpp)
 CPLX_METSOXR1-0,L-methionine-S-oxide reductase,YPO3525() AND YPO3270(),iPC815(METSOXR1)
 CPLX_METSOXR1-1,L-methionine-S-oxide reductase,YPO3525() AND YPO3868(),iPC815(METSOXR1)
 CPLX_METSOXR2-0,L-methionine-R-sulfoxide reductase,YPO2158() AND YPO3270(),iPC815(METSOXR2)
 CPLX_METSOXR2-1,L-methionine-R-sulfoxide reductase,YPO2158() AND YPO3868(),iPC815(METSOXR2)
-CPLX_NADH16pp-0,NADH dehydrogenase (ubiquinone-8 & 3 protons) (periplasm),YPO2555(1) AND YPO2550() AND YPO2551() AND YPO2544() AND YPO2547() AND YPO2552() AND YPO2546() AND YPO2548() AND YPO2553() AND YPO2545() AND YPO2549() AND YPO2543() AND YPO2554(),iPC815(NADH16pp)
-CPLX_NADTRHD-0,NAD transhydrogenase,YPO2302(2) AND YPO2303(2),iPC815(NADTRHD)
-CPLX_NO3R1bpp-0,Nitrate reductase (Ubiquinol-8),YPO3036() AND YPO3037() AND YPO3038(),iPC815(NO3R1bpp)
-CPLX_NTRIR2x-0,Nitrite Reductase (NADH),YPO0161(2) AND YPO0160(1),iPC815(NTRIR2x)
-CPLX_PDH-0,Pyruvate dehydrogenase,YPO3419(24) AND YPO3418(24) AND YPO3417(12),iPC815(PDH)
+CPLX_NADH16pp-0,NADH dehydrogenase (ubiquinone-8 & 3 protons) (periplasm),YPO2543() AND YPO2544() AND YPO2545() AND YPO2546() AND YPO2547() AND YPO2548() AND YPO2549() AND YPO2550() AND YPO2551() AND YPO2552() AND YPO2553() AND YPO2554() AND YPO2555(),iPC815(NADH16pp)
+CPLX_NADTRHD-0,NAD transhydrogenase,YPO2302() AND YPO2303(),iPC815(NADTRHD)
+CPLX_NO3R1bpp-0,Nitrate reductase (Ubiquinol-8),YPO3037() AND YPO3038() AND YPO3036(),iPC815(NO3R1bpp)
+CPLX_NTRIR2x-0,Nitrite Reductase (NADH),YPO0161() AND YPO0160(),iPC815(NTRIR2x)
+CPLX_PDH-0,Pyruvate dehydrogenase,YPO3419() AND YPO3418() AND YPO3417(),iPC815(PDH)
 CPLX_PDX5PS-0,Pyridoxine 5'-phosphate synthase,YPO0493() AND YPO2930(),iPC815(PDX5PS)
 CPLX_PFL-0,Pyruvate formate lyase,YPO1383() AND YPO1381(),iPC815(PFL)
-CPLX_PTRCabcpp-0,Putrescine transport via ABC system (periplasm),YPO1334(1) AND YPO1333(1) AND YPO1331(1) AND YPO1332(2),iPC815(PTRCabcpp)
+CPLX_PTRCabcpp-0,Putrescine transport via ABC system (periplasm),YPO1331() AND YPO1332() AND YPO1333() AND YPO1334(),iPC815(PTRCabcpp)
 CPLX_RIBabcpp-0,D-ribose transport via ABC system (periplasm),YPO3906() AND YPO3908() AND YPO3907(),iPC815(RIBabcpp)
 CPLX_RIBabcpp-1,D-ribose transport via ABC system (periplasm),YPO3964() AND YPO3318() AND YPO2499() AND YPO0007(),iPC815(RIBabcpp)
 CPLX_RNDR4b-0,Ribonucleoside-diphosphate reductase (UDP) (glutaredoxin),YPO0066() AND YPO2649() AND YPO2648(),iPC815(RNDR4b)
@@ -4173,13 +4173,13 @@ CPLX_RNTR1c-0,Ribonucleoside-triphosphate reductase (ATP) (flavodoxin),YPO0893()
 CPLX_RNTR1c-1,Ribonucleoside-triphosphate reductase (ATP) (flavodoxin),YPO0893() AND YPO3454(),iPC815(RNTR1c)
 CPLX_RNTR1c-2,Ribonucleoside-triphosphate reductase (ATP) (flavodoxin),YPO2635() AND YPO3454(),iPC815(RNTR1c)
 CPLX_RNTR1c-3,Ribonucleoside-triphosphate reductase (ATP) (flavodoxin),YPO2635() AND YPO0088() AND YPO3454() AND YPO3455(),iPC815(RNTR1c)
-CPLX_SADT2-0,Sulfate adenyltransferase,YPO3365(4) AND YPO3366(4),iPC815(SADT2)
+CPLX_SADT2-0,Sulfate adenyltransferase,YPO3365() AND YPO3366(),iPC815(SADT2)
 CPLX_TDSR1-0,Thiol:disulfide reductase (DsbC),YPO0891() AND YPO0345(),iPC815(TDSR1)
-CPLX_TGBPA-0,Tagatose-bisphosphate aldolase,YPO0844(1) AND YPO0832(1),iPC815(TGBPA)
+CPLX_TGBPA-0,Tagatose-bisphosphate aldolase,YPO0832() AND YPO0844(),iPC815(TGBPA)
 CPLX_THIORDXi-0,Hydrogen peroxide reductase (thioredoxin),YPO3064() AND YPO3270(),iPC815(THIORDXi)
 CPLX_THIORDXi-1,Hydrogen peroxide reductase (thioredoxin),YPO3064() AND YPO3868(),iPC815(THIORDXi)
-CPLX_THMabcpp-0,Thiamine transport via ABC system (periplasm),YPO0521(2) AND YPO0520(2) AND YPO0522(1),iPC815(THMabcpp)
-CPLX_SUCDi-0,Succinate dehydrogenase (irreversible),YPO1109(1) AND YPO1111(1) AND YPO1110(1) AND YPO1112(1),iPC815(SUCDi)
+CPLX_THMabcpp-0,Thiamine transport via ABC system (periplasm),YPO0522() AND YPO0521() AND YPO0520(),iPC815(THMabcpp)
+CPLX_SUCDi-0,Succinate dehydrogenase (irreversible),YPO1109() AND YPO1110() AND YPO1111() AND YPO1112(),iPC815(SUCDi)
 CPLX_SUCOAS-0,Succinyl-CoA synthetase (ADP-forming),YPO1115(2) AND YPO1116(2),iPC815(SUCOAS)
 CPLX_THZPSN-0,Thiazole phosphate synthesis,YPO3172() AND YPO3741() AND YPO3743() AND YPO3742() AND YPO3173(),iPC815(THZPSN)
 CPLX_TRDR-0,Thioredoxin reductase (NADPH),YPO3868() AND YPO1374() AND YPO1374(),iPC815(TRDR)
@@ -4187,11 +4187,11 @@ CPLX_TREptspp-0,Trehalose transport via PEP:Pyr PTS (periplasm),YPO2995() AND YP
 CPLX_PHEMEabcpp-0,Protoheme transport via ABC system (periplasm),YPO2734() AND YPO2735() AND YPO2736(),iPC815(PHEMEabcpp)
 CPLX_TRPS1-0,Tryptophan synthase (indoleglycerol phosphate),YPO2203(2) AND YPO2204(2),iPC815(TRPS1)
 CPLX_UAGAAT-0,UDP-N-acetylglucosamine acyltransferase,YPO1600() AND YPO1056(),iPC815(UAGAAT)
-CPLX_XYLabcpp-0,D-xylose transport via ABC system (periplasm),YPO4037(1) AND YPO4036(2) AND YPO4035(2),iPC815(XYLabcpp)
-CPLX_ZNabcpp-0,Zinc (Zn+2) transport via ABC system (periplasm),YPO2059(2) AND YPO2060(2) AND YPO2061(1),iPC815(ZNabcpp)
+CPLX_XYLabcpp-0,D-xylose transport via ABC system (periplasm),YPO4037() AND YPO4036() AND YPO4035(),iPC815(XYLabcpp)
+CPLX_ZNabcpp-0,Zinc (Zn+2) transport via ABC system (periplasm),YPO2061() AND YPO2059() AND YPO2060(),iPC815(ZNabcpp)
 CPLX_GALUi-0,UTP-glucose-1-phosphate uridylyltransferase (irreversible),YPO1539() AND YPO1540(),iPC815(GALUi)
-CPLX_PIuabcpp-0,"Phosphate transport via ABC system (uptake, periplasm)",YPO4114(2) AND YPO4117(1) AND YPO4115(1) AND YPO4116(1),iPC815(PIuabcpp)
+CPLX_PIuabcpp-0,"Phosphate transport via ABC system (uptake, periplasm)",YPO4115() AND YPO4114() AND YPO4116() AND YPO4117(),iPC815(PIuabcpp)
 CPLX_FEex-0,Iron transporter,YPO1310() AND YPO1311() AND YPO1312(),iPC815(FEex)
 CPLX_FEex-1,Iron transporter,YPO2958() AND YPO2959() AND YPO2960(),iPC815(FEex)
-CPLX_FEex-2,Iron transporter,YPO2439() AND YPO2440() AND YPO2441() AND YPO2442(),iPC815(FEex)
+CPLX_FEex-2,Iron transporter,YPO2441() AND YPO2442() AND YPO2440() AND YPO2439(),iPC815(FEex)
 CPLX_LPS_YPtetra-0,Tetra-acyl LPS biosynthesis,YPO0056() AND YPO0057() AND YPO0416(),iPC815(LPS_YPtetra)

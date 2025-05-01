@@ -1,5 +1,5 @@
 ,value
-rRNA_containing,"{'enzymes': ['S1168-MONOMER_mod_zn2(2)', 'generic_RNase', 'S2802-MONOMER_mod_mg2(2)', 'S3502-MONOMER', 'S1811-MONOMER_mod_mg2(4)']}"
-monocistronic,"{'enzymes': ['S1168-MONOMER_mod_zn2(2)', 'generic_RNase']}"
-polycistronic_wout_rRNA,"{'enzymes': ['S1168-MONOMER_mod_zn2(2)', 'generic_RNase', 'S2802-MONOMER', 'S3502-MONOMER', 'S1811-MONOMER_mod_mg2(4)']}"
-RNA_degradosome,"{'enzymes': ['S2988-MONOMER_mod_mg2(4)', 'S3422-MONOMER', 'S1168-MONOMER_mod_zn2(2)', 'S3906-MONOMER', 'S4584-MONOMER_mod_mg2(2)']}"
+rRNA_containing,{'enzymes': ['S2802-MONOMER']}
+monocistronic,"{'enzymes': ['S2481-MONOMER', 'generic_RNase']}"
+polycistronic_wout_rRNA,"{'enzymes': ['S2481-MONOMER', 'generic_RNase']}"
+RNA_degradosome,"{'enzymes': ['S3422-MONOMER', 'S3753-MONOMER', 'S2988-MONOMER']}"

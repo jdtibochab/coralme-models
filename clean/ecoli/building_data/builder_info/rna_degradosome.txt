@@ -1,2 +1,2 @@
 ,value
-rna_degradosome,"{'enzymes': ['ENOLASE-MONOMER_mod_mg2(4)', 'EG10743-MONOMER', 'EG10859-MONOMER_mod_zn2(2)', 'EG10844-MONOMER', 'G7842-MONOMER_mod_mg2(2)']}"
+rna_degradosome,"{'enzymes': ['EG10743-MONOMER', '6PFK-1-MONOMER', 'ENOLASE-MONOMER']}"

@@ -22,7 +22,7 @@ G185E-7790-MONOMER,probable fatty-acid-CoA ligase,Rv3513c(),BioCyc
 G185E-5599-MONOMER,,Rv1416(60),BioCyc
 G185E-6376-MONOMER,probable transposase,Rv2167c(),BioCyc
 G185E-4194-MONOMER,hypothetical protein,Rv0078A(),BioCyc
-G185E-4476-MONOMER,probable chaperone protein,Rv0352(2),BioCyc
+G185E-4476-MONOMER,probable chaperone protein,Rv0352(),BioCyc
 G185E-5969-MONOMER,probable transcriptional regulatory protein,Rv1773c(),BioCyc
 G185E-8169-MONOMER,ESX conserved component EccCb1. ESX-1 type VII secretion system protein.,Rv3871(),BioCyc
 G185E-7391-MONOMER,conserved protein,Rv3127(),BioCyc
@@ -68,12 +68,12 @@ G185E-6343-MONOMER,conserved hypothetical protein,Rv2137c(),BioCyc
 G185E-5937-MONOMER,unknown protein,Rv1742(),BioCyc
 G185E-4444-MONOMER,possible conserved exported protein,Rv0320(),BioCyc
 G185E-7358-MONOMER,conserved hypothetical protein,Rv3096(),BioCyc
-G185E-8138-MONOMER,probable glycerophosphoryl diester phosphodiesterase,Rv3842c(1),BioCyc
+G185E-8138-MONOMER,probable glycerophosphoryl diester phosphodiesterase,Rv3842c(2),BioCyc
 G185E-7728-MONOMER,probable cutinase precursor,Rv3451(),BioCyc
 G185E-4818-MONOMER,probable enoyl-CoA hydratase,Rv0675(),BioCyc
 G185E-6313-MONOMER,PE family protein PE22,Rv2107(),BioCyc
 G185E-5195-MONOMER,probable transposase (fragment),Rv1035c(),BioCyc
-G185E-8109-MONOMER,conserved protein,Rv3813c(),BioCyc
+G185E-8109-MONOMER,conserved protein,Rv3813c(1),BioCyc
 G185E-6994-MONOMER,transcriptional regulatory protein,Rv2745c(),BioCyc
 G185E-4789-MONOMER,probable lipase/esterase,Rv0646c(),BioCyc
 G185E-5580-MONOMER,possible toxin,Rv1397c(),BioCyc
@@ -94,7 +94,7 @@ G185E-4802-MONOMER,toxin,Rv0659c(),BioCyc
 G185E-6295-MONOMER,dipeptidase,Rv2089c(),BioCyc
 G185E-6978-MONOMER,hypothetical protein,Rv2730(),BioCyc
 G185E-8093-MONOMER,probable acyl-CoA dehydrogenase,Rv3797(),BioCyc
-G185E-5564-MONOMER,probable dihydroorotase,Rv1381(4),BioCyc
+G185E-5564-MONOMER,probable dihydroorotase,Rv1381(),BioCyc
 G185E-4770-MONOMER,probable enoyl-CoA hydratase,Rv0632c(),BioCyc
 G185E-4159-MONOMER,possible hydrolase,Rv0045c(),BioCyc
 G185E-5151-MONOMER,molybdopterin molybdenumtransferase 1,Rv0994(),BioCyc
@@ -122,7 +122,7 @@ G185E-7339-MONOMER,possible hydrolase,Rv3077(),BioCyc
 G185E-5135-MONOMER,hypothetical protein,Rv0979c(),BioCyc
 G185E-5919-MONOMER,probable oxidoreductase,Rv1726(),BioCyc
 G185E-6933-MONOMER,probable arsenic-transport integral membrane protein ArsB1,Rv2685(),BioCyc
-G185E-7709-MONOMER,probable glutamate decarboxylase,Rv3432c(6),BioCyc
+G185E-7709-MONOMER,probable glutamate decarboxylase,Rv3432c(),BioCyc
 G185E-5516-MONOMER,probable integral membrane protein,Rv1337(),BioCyc
 G185E-6292-MONOMER,conserved hypothetical protein,Rv2086(),BioCyc
 G185E-8090-MONOMER,arabinogalactan arabinosyl transferase embA,Rv3794(),BioCyc
@@ -133,7 +133,7 @@ G185E-5148-MONOMER,conserved serine rich protein,Rv0991c(),BioCyc
 G185E-7680-MONOMER,hypothetical protein,Rv3403c(),BioCyc
 G185E-6946-MONOMER,probable conserved alanine rich transmembrane protein,Rv2698(),BioCyc
 G185E-6263-MONOMER,conserved hypothetical protein,Rv2059(),BioCyc
-G185E-5530-MONOMER,probable 3-oxoacyl-[acyl-carrier protein] reductase,Rv1350(),BioCyc
+G185E-5530-MONOMER,probable 3-oxoacyl-[acyl-carrier protein] reductase,Rv1350(1),BioCyc
 G185E-8058-MONOMER,possible S-adenosylmethionine-dependent methyltransferase,Rv3767c(),BioCyc
 G185E-4126-MONOMER,possible anthranilate synthase component II,Rv0013(),BioCyc
 G185E-6643-MONOMER,conserved hypothetical protein,Rv2413c(),BioCyc
@@ -152,7 +152,7 @@ G185E-5872-MONOMER,probable coiled-coil structural protein,Rv1682(),BioCyc
 G185E-4751-MONOMER,conserved hypothetical protein,Rv0614(),BioCyc
 G185E-7664-MONOMER,PE-PGRS family protein PE_PGRS52,Rv3388(),BioCyc
 G185E-5132-MONOMER,conserved hypothetical protein,Rv0976c(),BioCyc
-G185E-6246-MONOMER,pyrazinamidase/nicotinamidase,Rv2043c(1),BioCyc
+G185E-6246-MONOMER,pyrazinamidase/nicotinamidase,Rv2043c(),BioCyc
 G185E-6930-MONOMER,probable 1-deoxy-D-xylulose 5-phosphate synthase,Rv2682c(2),BioCyc
 G185E-8041-MONOMER,probable integrase (fragment),Rv3751(),BioCyc
 G185E-5513-MONOMER,,Rv1334(),BioCyc
@@ -170,7 +170,7 @@ G185E-7272-MONOMER,DNA ligase [NAD dependent],Rv3014c(1),BioCyc
 G185E-6640-MONOMER,conserved protein,Rv2410c(),BioCyc
 G185E-5856-MONOMER,probable cytochrome P450 139,Rv1666c(),BioCyc
 G185E-4734-MONOMER,possible antitoxin,Rv0599c(),BioCyc
-G185E-7648-MONOMER,trehalose 6-phosphate phosphatase,Rv3372(1),BioCyc
+G185E-7648-MONOMER,trehalose 6-phosphate phosphatase,Rv3372(),BioCyc
 G185E-5116-MONOMER,possible toxin,Rv0960(),BioCyc
 G185E-6230-MONOMER,two component sensor histidine kinase,Rv2027c(),BioCyc
 G185E-6914-MONOMER,probable transposase for insertion sequence element IS1081 (fragment),Rv2666(),BioCyc
@@ -237,13 +237,13 @@ G185E-5065-MONOMER,conserved protein,Rv0911(),BioCyc
 G185E-4404-MONOMER,possible S-adenosylmethionine-dependent methyltransferase,Rv0281(),BioCyc
 G185E-6862-MONOMER,conserved hypothetical protein,Rv2618(),BioCyc
 G185E-7599-MONOMER,cyclic pyranopterin monophosphate synthase 3,Rv3324c(),BioCyc
-G185E-5444-MONOMER,"ABC family efflux transporter, ATP-binding/membrane subunit",Rv1272c(2),BioCyc
+G185E-5444-MONOMER,"ABC family efflux transporter, ATP-binding/membrane subunit",Rv1272c(),BioCyc
 G185E-6180-MONOMER,ribonucleoside-diphosphate reductase (beta chain),Rv1981c(),BioCyc
 G185E-7235-MONOMER,possible conserved secreted protein,Rv2980(),BioCyc
 G185E-7975-MONOMER,probable conserved membrane protein,Rv3690(),BioCyc
 G185E-5821-MONOMER,hypothetical protein,Rv1632c(),BioCyc
 G185E-6561-MONOMER,hypothetical protein,Rv2336(),BioCyc
-G185E-4417-MONOMER,malonyl-[acyl-carrier protein] <em>O</em>-methyltransferase,Rv0294(1),BioCyc
+G185E-4417-MONOMER,malonyl-[acyl-carrier protein] <em>O</em>-methyltransferase,Rv0294(),BioCyc
 G185E-4656-MONOMER,"probable glutamate-1-semialdehyde 2,1-aminomutase",Rv0524(2),BioCyc
 G185E-7613-MONOMER,conserved hypothetical protein,Rv3337(),BioCyc
 G185E-5036-MONOMER,probable transmembrane protein,Rv0882(),BioCyc
@@ -279,7 +279,7 @@ G185E-5033-MONOMER,possible conserved transmembrane protein,Rv0879c(),BioCyc
 G185E-6830-MONOMER,probable conserved membrane protein secretion factor,Rv2588c(),BioCyc
 G185E-5411-MONOMER,,Rv1240(),BioCyc
 G185E-7203-MONOMER,chorismate lyase,Rv2949c(),BioCyc
-G185E-5788-MONOMER,probable histidinol-phosphate aminotransferase,Rv1600(2),BioCyc
+G185E-5788-MONOMER,probable histidinol-phosphate aminotransferase,Rv1600(),BioCyc
 G185E-4384-MONOMER,aminoglycoside 2'-N-acetyltransferase,Rv0262c(),BioCyc
 G185E-7580-MONOMER,probable amidohydrolase,Rv3306c(),BioCyc
 G185E-6161-MONOMER,possible antitoxin,Rv1962A(),BioCyc
@@ -291,7 +291,7 @@ G185E-6539-MONOMER,conserved protein,Rv2315c(),BioCyc
 G185E-4634-MONOMER,conserved protein,Rv0502(),BioCyc
 G185E-5014-MONOMER,,Rv0860(),BioCyc
 G185E-6811-MONOMER,conserved hypothetical protein,Rv2569c(),BioCyc
-G185E-5391-MONOMER,alternative RNA polymerase sigma factor,Rv1221(),BioCyc
+G185E-5391-MONOMER,alternative RNA polymerase sigma factor,Rv1221(1),BioCyc
 G185E-7184-MONOMER,phenolpthiocerol synthesis type-I polyketide synthase,Rv2931(),BioCyc
 G185E-5769-MONOMER,probable PhiRv1 phage protein,Rv1581c(),BioCyc
 G185E-4364-MONOMER,probable acetyl-CoA acyltransferase,Rv0243(),BioCyc
@@ -299,7 +299,7 @@ G185E-7561-MONOMER,anti-sigma factor,Rv3287c(),BioCyc
 G185E-6142-MONOMER,conserved hypothetical protein,Rv1945(),BioCyc
 G185E-7934-MONOMER,PE-PGRS family-related protein PE_PGRS61,Rv3653(),BioCyc
 G185E-6522-MONOMER,hypothetical protein,Rv2304c(),BioCyc
-G185E-4618-MONOMER,"2,3-bisphosphoglycerate-dependent phosphoglycerate mutase subunit",Rv0489(2),BioCyc
+G185E-4618-MONOMER,"2,3-bisphosphoglycerate-dependent phosphoglycerate mutase subunit",Rv0489(),BioCyc
 G185E-4998-MONOMER,possible nitrate/nitrite response transcriptional regulatory protein,Rv0844c(),BioCyc
 G185E-6793-MONOMER,probable conserved membrane protein,Rv2553c(),BioCyc
 G185E-5375-MONOMER,Cytokinin riboside 5'-monophosphate phosphoribohydrolase,Rv1205(),BioCyc
@@ -316,12 +316,12 @@ G185E-6777-MONOMER,3-dehydroquinate synthase,Rv2538c(1),BioCyc
 G185E-5358-MONOMER,possible alternative RNA polymerase sigma factor,Rv1189(),BioCyc
 G185E-7151-MONOMER,possible,Rv2899c(),BioCyc
 G185E-5737-MONOMER,possible fatty-acid-CoA ligase,Rv1549(),BioCyc
-G185E-4332-MONOMER,possible transcriptional regulatory protein,Rv0212c(1),BioCyc
-G185E-7529-MONOMER,probable mannose-6-phosphate isomerase,Rv3255c(1),BioCyc
+G185E-4332-MONOMER,possible transcriptional regulatory protein,Rv0212c(),BioCyc
+G185E-7529-MONOMER,probable mannose-6-phosphate isomerase,Rv3255c(),BioCyc
 G185E-6110-MONOMER,conserved hypothetical protein,Rv1913(),BioCyc
 G185E-7900-MONOMER,PPE family protein PPE65,Rv3621c(),BioCyc
 G185E-6490-MONOMER,probable conserved transmembrane protein,Rv2273(),BioCyc
-G185E-4585-MONOMER,probable aldehyde dehydrogenase,Rv0458(4),BioCyc
+G185E-4585-MONOMER,probable aldehyde dehydrogenase,Rv0458(2),BioCyc
 G185E-4961-MONOMER,probable amino acid aminotransferase,Rv0812(),BioCyc
 G185E-6761-MONOMER,holo-[acyl-carrier protein] synthase,Rv2523c(),BioCyc
 G185E-5341-MONOMER,PE family protein PE12,Rv1172c(),BioCyc
@@ -347,7 +347,7 @@ G185E-4553-MONOMER,GCN5-related N-acetyltransferase,Rv0428c(),BioCyc
 G185E-4929-MONOMER,probable protease II,Rv0781(),BioCyc
 G185E-6727-MONOMER,conserved hypothetical protein,Rv2491(),BioCyc
 G185E-5307-MONOMER,probable integral membrane protein,Rv1140(),BioCyc
-G185E-7103-MONOMER,,Rv2852c(1),BioCyc
+G185E-7103-MONOMER,,Rv2852c(),BioCyc
 G185E-5689-MONOMER,conserved hypothetical protein,Rv1503c(),BioCyc
 G185E-4284-MONOMER,probable fatty-acid-CoA ligase,Rv0166(),BioCyc
 G185E-7480-MONOMER,conserved hypothetical threonine and proline rich protein,Rv3209(),BioCyc
@@ -369,7 +369,7 @@ G185E-4521-MONOMER,conserved 13E12 repeat family protein,Rv0397(),BioCyc
 G185E-8214-MONOMER,conserved hypothetical protein,Rv3916c(),BioCyc
 G185E-4895-MONOMER,hypothetical protein (fragment),Rv0749A(),BioCyc
 G185E-6692-MONOMER,probable ATP-dependent CLP protease proteolytic subunit 2,Rv2460c(),BioCyc
-G185E-5275-MONOMER,probable LYTB-related protein,Rv1110(2),BioCyc
+G185E-5275-MONOMER,probable LYTB-related protein,Rv1110(),BioCyc
 G185E-7071-MONOMER,CRISPR type III-associated RAMP protein Csm3,Rv2821c(),BioCyc
 G185E-5657-MONOMER,possible transcriptional regulatory protein,Rv1473A(),BioCyc
 G185E-4252-MONOMER,possible transcriptional regulatory protein,Rv0135c(),BioCyc
@@ -379,8 +379,8 @@ G185E-7819-MONOMER,"3-oxo-23,24-bisnorchol-4,17(20)-dien-22-oyl-CoA hydratase &a
 G185E-6407-MONOMER,probable conserved transmembrane protein,Rv2197c(),BioCyc
 G185E-4505-MONOMER,hypothetical protein,Rv0381c(),BioCyc
 G185E-8198-MONOMER,conserved hypothetical alanine rich protein,Rv3900c(),BioCyc
-G185E-4879-MONOMER,methionyl aminopeptidase 1a,Rv0734(),BioCyc
-G185E-6676-MONOMER,possible ribonuclease E,Rv2444c(2),BioCyc
+G185E-4879-MONOMER,methionyl aminopeptidase 1a,Rv0734(1),BioCyc
+G185E-6676-MONOMER,possible ribonuclease E,Rv2444c(),BioCyc
 G185E-5259-MONOMER,possible acyl-[acyl-carrier protein] desaturase,Rv1094(),BioCyc
 G185E-7055-MONOMER,conserved hypothetical protein,Rv2805(),BioCyc
 G185E-5641-MONOMER,probable unidentified antibiotic-transport ATP-binding protein ABC transporter,Rv1458c(),BioCyc
@@ -394,7 +394,7 @@ G185E-8182-MONOMER,ESX conserved component EccA2. ESX-2 type VII secretion syste
 G185E-4863-MONOMER,50S ribosomal protein L6,Rv0719(1),BioCyc
 G185E-5242-MONOMER,probable transcription elongation factor,Rv1080c(1),BioCyc
 G185E-7039-MONOMER,probable lipid-transfer protein,Rv2790c(),BioCyc
-G185E-5625-MONOMER,probable biotin sulfoxide reductase,Rv1442(1),BioCyc
+G185E-5625-MONOMER,probable biotin sulfoxide reductase,Rv1442(),BioCyc
 G185E-4220-MONOMER,probable cation-transporter P-type ATPase B,Rv0103c(),BioCyc
 G185E-7415-MONOMER,NADH:menaquinone oxidoreductase I chain F,Rv3150(),BioCyc
 G185E-5997-MONOMER,PPE family protein PPE30,Rv1802(),BioCyc
@@ -402,7 +402,7 @@ G185E-7787-MONOMER,conserved protein,Rv3510c(),BioCyc
 G185E-6373-MONOMER,probable conserved proline rich membrane protein,Rv2164c(),BioCyc
 G185E-4473-MONOMER,hypothetical protein,Rv0349(),BioCyc
 G185E-8166-MONOMER,ESX conserved component EccA1. ESX-1 type VII secretion system protein.,Rv3868(),BioCyc
-G185E-4847-MONOMER,50S ribosomal protein L23,Rv0703(1),BioCyc
+G185E-4847-MONOMER,50S ribosomal protein L23,Rv0703(),BioCyc
 G185E-5226-MONOMER,possible lipoprotein,Rv1064c(),BioCyc
 G185E-7023-MONOMER,hypothetical protein,Rv2774c(),BioCyc
 G185E-5609-MONOMER,probable esterase,Rv1426c(),BioCyc
@@ -472,14 +472,14 @@ G185E-5883-MONOMER,probable phosphatase,Rv1692(),BioCyc
 G185E-7674-MONOMER,probable phytoene synthase,Rv3397c(),BioCyc
 G185E-6257-MONOMER,probable transmembrane protein,Rv2053c(),BioCyc
 G185E-8052-MONOMER,possible acyl-CoA dehydrogenase,Rv3761c(),BioCyc
-G185E-6637-MONOMER,Ribonuclease Z,Rv2407(2),BioCyc
+G185E-6637-MONOMER,Ribonuclease Z,Rv2407(),BioCyc
 G185E-4731-MONOMER,possible antitoxin,Rv0596c(),BioCyc
 G185E-5113-MONOMER,possible magnesium chelatase,Rv0958(),BioCyc
 G185E-6911-MONOMER,hypothetical protein,Rv2663(),BioCyc
 G185E-5494-MONOMER,methylated-DNA--protein-cysteine methyltransferase,Rv1316c(),BioCyc
 G185E-7284-MONOMER,probable tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase,Rv3024c(1),BioCyc
 G185E-5866-MONOMER,unknown protein,Rv1676(),BioCyc
-G185E-7658-MONOMER,probable LYTB-related protein,Rv3382c(),BioCyc
+G185E-7658-MONOMER,probable LYTB-related protein,Rv3382c(2),BioCyc
 G185E-6240-MONOMER,conserved transmembrane protein,Rv2037c(),BioCyc
 G185E-8035-MONOMER,conserved hypothetical protein,Rv3745c(),BioCyc
 G185E-6620-MONOMER,probable gamma-glutamyltranspeptidase precursor,Rv2394(1),BioCyc
@@ -498,7 +498,7 @@ G185E-5079-MONOMER,divalent cation-transport integral membrane protein,Rv0924c(1
 G185E-6875-MONOMER,RNA-splicing ligase RtcB,Rv2631(),BioCyc
 G185E-5457-MONOMER,probable sulfate adenylyltransferase subunit 2,Rv1285(),BioCyc
 G185E-7250-MONOMER,"possible 2-hydroxyhepta-2,4-diene-1,7-dioate isomerase",Rv2993c(),BioCyc
-G185E-5834-MONOMER,possible 23S rRNA methyltransferase,Rv1644(2),BioCyc
+G185E-5834-MONOMER,possible 23S rRNA methyltransferase,Rv1644(),BioCyc
 G185E-4430-MONOMER,unknown protein,Rv0307c(),BioCyc
 G185E-7626-MONOMER,PPE family protein PPE56,Rv3350c(),BioCyc
 G185E-6206-MONOMER,conserved protein,Rv2004c(),BioCyc
@@ -548,7 +548,7 @@ G185E-7558-MONOMER,Uncharacterized SufE-like protein Rv3284,Rv3284(),BioCyc
 G185E-6139-MONOMER,possible toxin,Rv1942c(),BioCyc
 G185E-7930-MONOMER,PE family protein PE33,Rv3650(),BioCyc
 G185E-6519-MONOMER,probable cutinase,Rv2301(),BioCyc
-G185E-4615-MONOMER,,Rv0486(1),BioCyc
+G185E-4615-MONOMER,,Rv0486(),BioCyc
 G185E-4995-MONOMER,probable conserved transmembrane protein,Rv0841(),BioCyc
 G185E-6790-MONOMER,possible antitoxin,Rv2550c(),BioCyc
 G185E-5372-MONOMER,probable succinyl-diaminopimelate desuccinylase,Rv1202(),BioCyc
@@ -596,7 +596,7 @@ G185E-4550-MONOMER,possible metal cation transporting P-type ATPase,Rv0425c(),Bi
 G185E-4926-MONOMER,possible cytochrome P450 126,Rv0778(),BioCyc
 G185E-6724-MONOMER,probable transcriptional regulatory protein (LuxR-family),Rv2488c(),BioCyc
 G185E-5304-MONOMER,hypothetical protein,Rv1137c(),BioCyc
-G185E-7100-MONOMER,probable cob(I)alamin adenosyltransferase,Rv2849c(1),BioCyc
+G185E-7100-MONOMER,probable cob(I)alamin adenosyltransferase,Rv2849c(),BioCyc
 G185E-5686-MONOMER,probable glycosyltransferase,Rv1500(),BioCyc
 G185E-4281-MONOMER,conserved protein,Rv0163(),BioCyc
 G185E-7477-MONOMER,conserved protein,Rv3207c(),BioCyc
@@ -604,7 +604,7 @@ G185E-6058-MONOMER,probable conserved integral membrane protein,Rv1863c(),BioCyc
 G185E-7848-MONOMER,"3-hydroxy-9,10-seconandrost-1,3,5(10)-triene-9,17-dione 4-hydroxylase subunit",Rv3570c(),BioCyc
 G185E-6436-MONOMER,3-methyl-2-oxobutanoate hydroxymethyltransferase,Rv2225(10),BioCyc
 G185E-4534-MONOMER,probable acetate kinase,Rv0409(1),BioCyc
-G185E-4909-MONOMER,possible zinc-containing alcohol dehydrogenase NAD dependent,Rv0761c(2),BioCyc
+G185E-4909-MONOMER,possible zinc-containing alcohol dehydrogenase NAD dependent,Rv0761c(),BioCyc
 G185E-6707-MONOMER,conserved hypothetical protein,Rv2472(),BioCyc
 G185E-5288-MONOMER,"probable 6-phosphogluconate dehydrogenase,decarboxylating",Rv1122(),BioCyc
 G185E-7084-MONOMER,probable Sn-glycerol-3-phosphate-binding lipoprotein,Rv2833c(),BioCyc
@@ -613,7 +613,7 @@ G185E-4265-MONOMER,probable short-chain type dehydrogenase/reductase,Rv0148(),Bi
 G185E-7461-MONOMER,possible conserved secreted protein,Rv3194c(),BioCyc
 G185E-6042-MONOMER,Putative esterase Rv1847,Rv1847(),BioCyc
 G185E-7832-MONOMER,conserved protein,Rv3555c(),BioCyc
-G185E-6420-MONOMER,branched-chain amino acid transaminase,Rv2210c(6),BioCyc
+G185E-6420-MONOMER,branched-chain amino acid transaminase,Rv2210c(),BioCyc
 G185E-4518-MONOMER,hyaluronidase,Rv0394c(),BioCyc
 G185E-8211-MONOMER,probable thioredoxin reductase,Rv3913(),BioCyc
 G185E-4892-MONOMER,PE-PGRS family protein PE_PGRS10,Rv0747(),BioCyc
@@ -649,7 +649,7 @@ G185E-7412-MONOMER,NADH:menaquinone oxidoreductase I chain C,Rv3147(),BioCyc
 G185E-5994-MONOMER,probable lipoprotein,Rv1799(),BioCyc
 G185E-7784-MONOMER,PE-PGRS family protein PE_PGRS53,Rv3507(),BioCyc
 G185E-6370-MONOMER,conserved protein,Rv2161c(),BioCyc
-G185E-4470-MONOMER,possible L-asparagine permease,Rv0346c(1),BioCyc
+G185E-4470-MONOMER,possible L-asparagine permease,Rv0346c(),BioCyc
 G185E-8163-MONOMER,ESX-1 secretion-associated protein,Rv3865(),BioCyc
 G185E-4844-MONOMER,30S ribosomal protein S10,Rv0700(1),BioCyc
 G185E-5223-MONOMER,conserved protein,Rv1061(),BioCyc
@@ -658,7 +658,7 @@ G185E-5606-MONOMER,probable transcriptional regulatory protein,Rv1423(),BioCyc
 G185E-4201-MONOMER,putative hydrogenase component,Rv0084(),BioCyc
 G185E-5976-MONOMER,conserved protein,Rv1780(),BioCyc
 G185E-7399-MONOMER,PPE family protein PPE50,Rv3135(),BioCyc
-G185E-7767-MONOMER,"alpha, alpha-trehalose-phosphate synthase [ADP-forming] monomer",Rv3490(1),BioCyc
+G185E-7767-MONOMER,"alpha, alpha-trehalose-phosphate synthase [ADP-forming] monomer",Rv3490(),BioCyc
 G185E-6354-MONOMER,possible conserved transmembrane protein,Rv2146c(),BioCyc
 G185E-4454-MONOMER,hypothetical protein,Rv0330c(),BioCyc
 G185E-8150-MONOMER,histone-like protein,Rv3852(),BioCyc
@@ -666,7 +666,7 @@ G185E-4828-MONOMER,probable iron-regulated elongation factor TU,Rv0685(1),BioCyc
 G185E-5205-MONOMER,hypothetical protein,Rv1045(),BioCyc
 G185E-7004-MONOMER,possible type I restriction/modification system specificity determinant (fragment),Rv2755c(),BioCyc
 G185E-5590-MONOMER,probable,Rv1407(1),BioCyc
-G185E-4185-MONOMER,serine hydroxymethyltransferase,Rv0070c(2),BioCyc
+G185E-4185-MONOMER,serine hydroxymethyltransferase,Rv0070c(),BioCyc
 G185E-5960-MONOMER,conserved hypothetical protein,Rv1765c(),BioCyc
 G185E-7382-MONOMER,conserved hypothetical protein,Rv3118(),BioCyc
 G185E-7751-MONOMER,possible transposase for insertion element IS6110 (fragment),Rv3474(),BioCyc
@@ -704,14 +704,14 @@ G185E-6286-MONOMER,lipoprotein,Rv2080(),BioCyc
 G185E-8084-MONOMER,hypothetical protein,Rv3788(),BioCyc
 G185E-4761-MONOMER,possible antitoxin,Rv0623(),BioCyc
 G185E-5142-MONOMER,possible large-conductance ion mechanosensitive channel,Rv0985c(),BioCyc
-G185E-6940-MONOMER,TRK system potassium uptake protein CeoC,Rv2692(),BioCyc
+G185E-6940-MONOMER,TRK system potassium uptake protein CeoC,Rv2692(2),BioCyc
 G185E-5523-MONOMER,acyl-carrier protein MbtL,Rv1344(),BioCyc
 G185E-4118-MONOMER,possible conserved membrane protein,Rv0007(),BioCyc
 G185E-7316-MONOMER,possible transcriptional regulatory protein (probably TetR-family),Rv3055(),BioCyc
 G185E-5896-MONOMER,PPE family protein PPE22,Rv1705c(),BioCyc
 G185E-7687-MONOMER,probable inosine-5'-monophosphate dehydrogenase,Rv3410c(),BioCyc
 G185E-6270-MONOMER,precorrin-8X methylmutase,Rv2065(),BioCyc
-G185E-8067-MONOMER,probable histidinol-phosphate aminotransferase,Rv3772(),BioCyc
+G185E-8067-MONOMER,probable histidinol-phosphate aminotransferase,Rv3772(2),BioCyc
 G185E-6650-MONOMER,conserved hypothetical protein,Rv2420c(),BioCyc
 G185E-4744-MONOMER,possible toxin VapC28. Contains PIN domain.,Rv0609(),BioCyc
 G185E-5126-MONOMER,probable conserved integral membrane protein,Rv0970(),BioCyc
@@ -802,12 +802,12 @@ G185E-4358-MONOMER,&beta;-<i>N</i>-acetylglucosaminidase,Rv0237(1),BioCyc
 G185E-7555-MONOMER,probable bifunctional protein acetyl-/propionyl-coenzyme A carboxylase (epsilon chain),Rv3281(),BioCyc
 G185E-6136-MONOMER,probable oxidoreductase,Rv1939(),BioCyc
 G185E-7927-MONOMER,conserved hypothetical protein,Rv3647c(),BioCyc
-G185E-6516-MONOMER,Uncharacterized oxidoreductase Rv2298,Rv2298(1),BioCyc
+G185E-6516-MONOMER,Uncharacterized oxidoreductase Rv2298,Rv2298(),BioCyc
 G185E-4611-MONOMER,probable conserved lipoprotein,Rv0483(),BioCyc
-G185E-4992-MONOMER,probable conserved lipoprotein,Rv0838(1),BioCyc
+G185E-4992-MONOMER,probable conserved lipoprotein,Rv0838(),BioCyc
 G185E-6787-MONOMER,possible toxin,Rv2548(),BioCyc
 G185E-5369-MONOMER,possible transposase,Rv1199c(),BioCyc
-G185E-7161-MONOMER,30S ribosomal protein S16,Rv2909c(),BioCyc
+G185E-7161-MONOMER,30S ribosomal protein S16,Rv2909c(1),BioCyc
 G185E-5747-MONOMER,probable threonine dehydratase,Rv1559(4),BioCyc
 G185E-4342-MONOMER,probable enoyl-CoA hydratase,Rv0222(),BioCyc
 G185E-7539-MONOMER,,Rv3265c(),BioCyc
@@ -831,7 +831,7 @@ G185E-6754-MONOMER,unknown protein,Rv2517c(),BioCyc
 G185E-5335-MONOMER,probable conserved lipoprotein,Rv1166(),BioCyc
 G185E-7129-MONOMER,probable conserved integral membrane protein,Rv2877c(),BioCyc
 G185E-5715-MONOMER,probable polyketide synthase,Rv1527c(),BioCyc
-G185E-4310-MONOMER,drug efflux pump,Rv0191(1),BioCyc
+G185E-4310-MONOMER,drug efflux pump,Rv0191(),BioCyc
 G185E-7507-MONOMER,possible triacylglycerol synthase,Rv3233c(),BioCyc
 G185E-6088-MONOMER,conserved protein,Rv1891(),BioCyc
 G185E-7878-MONOMER,hypothetical short protein,Rv3599c(),BioCyc
@@ -841,13 +841,13 @@ G185E-4939-MONOMER,hypothetical protein,Rv0790c(),BioCyc
 G185E-6737-MONOMER,,Rv2501c(),BioCyc
 G185E-5318-MONOMER,transcriptional regulatory protein,Rv1151c(),BioCyc
 G185E-7113-MONOMER,conserved hypothetical protein,Rv2862c(),BioCyc
-G185E-5699-MONOMER,GDP-D-mannose dehydratase,Rv1511(2),BioCyc
+G185E-5699-MONOMER,GDP-D-mannose dehydratase,Rv1511(),BioCyc
 G185E-4294-MONOMER,probable conserved Mce associated transmembrane protein,Rv0176(),BioCyc
 G185E-7491-MONOMER,probable two component sensor kinase,Rv3220c(),BioCyc
 G185E-6071-MONOMER,probable bacterioferritin,Rv1876(),BioCyc
 G185E-7861-MONOMER,possible transcription factor,Rv3583c(),BioCyc
 G185E-6450-MONOMER,conserved protein,Rv2237(),BioCyc
-G185E-4547-MONOMER,probable phosphomethylpyrimidine kinase,Rv0422c(4),BioCyc
+G185E-4547-MONOMER,probable phosphomethylpyrimidine kinase,Rv0422c(),BioCyc
 G185E-4923-MONOMER,conserved hypothetical protein,Rv0775(),BioCyc
 G185E-6720-MONOMER,probable carboxylesterase,Rv2485c(),BioCyc
 G185E-5301-MONOMER,PPE family protein PPE16,Rv1135c(),BioCyc
@@ -857,18 +857,18 @@ G185E-4278-MONOMER,PE family protein PE4,Rv0160c(),BioCyc
 G185E-7474-MONOMER,possible DNA-methyltransferase (modification methylase),Rv3204(),BioCyc
 G185E-6055-MONOMER,alanine and proline rich secreted protein,Rv1860(),BioCyc
 G185E-7845-MONOMER,"3-hydroxy-9,10-seconandrost-1,3,5(10)-triene-9,17-dione 4-hydroxylase reductase component",Rv3567c(),BioCyc
-G185E-6433-MONOMER,probable glutamine synthetase,Rv2222c(),BioCyc
+G185E-6433-MONOMER,probable glutamine synthetase,Rv2222c(12),BioCyc
 G185E-4531-MONOMER,beta lactamase like protein,Rv0406c(),BioCyc
 G185E-4906-MONOMER,possible two component system response sensor kinase membrane associated,Rv0758(),BioCyc
 G185E-6704-MONOMER,conserved hypothetical protein,Rv2469c(),BioCyc
 G185E-5285-MONOMER,hypothetical protein,Rv1119c(),BioCyc
 G185E-7081-MONOMER,possible antitoxin,Rv2830c(),BioCyc
-G185E-5667-MONOMER,3-oxoacyl-[acyl-carrier protein] reductase,Rv1483(1),BioCyc
+G185E-5667-MONOMER,3-oxoacyl-[acyl-carrier protein] reductase,Rv1483(),BioCyc
 G185E-4262-MONOMER,possible S-adenosylmethionine-dependent methyltransferase,Rv0145(),BioCyc
 G185E-7457-MONOMER,probable transposase,Rv3191c(),BioCyc
 G185E-6039-MONOMER,probable 6-phosphogluconate dehydrogenase,Rv1844c(2),BioCyc
 G185E-7829-MONOMER,"3-[(3a<i>S</i>,4<i>S</i>,7a<i>S</i>)-7a-methyl-1,5-dioxo-octahydro-1<i>H</i>-inden-4-yl]propanoyl-CoA ligase &beta; subunit",Rv3552(),BioCyc
-G185E-6417-MONOMER,probable nicotinate-nucleotide-dimethylbenzimidazol phosphoribosyltransferase,Rv2207(2),BioCyc
+G185E-6417-MONOMER,probable nicotinate-nucleotide-dimethylbenzimidazol phosphoribosyltransferase,Rv2207(),BioCyc
 G185E-4515-MONOMER,probable O-succinylhomoserine sulfhydrylase,Rv0391(),BioCyc
 G185E-8208-MONOMER,probable conserved transmembrane protein,Rv3910(),BioCyc
 G185E-4889-MONOMER,possible transcriptional regulatory protein,Rv0744c(),BioCyc
@@ -879,7 +879,7 @@ G185E-5651-MONOMER,polyubiquitin binding protein,Rv1468c(),BioCyc
 G185E-4246-MONOMER,antigen 85C,Rv0129c(),BioCyc
 G185E-7441-MONOMER,probable epoxide hydrolase,Rv3176c(),BioCyc
 G185E-6023-MONOMER,Uncharacterized HTH-type transcriptional regulator Rv1828,Rv1828(),BioCyc
-G185E-7813-MONOMER,,Rv3536c(1),BioCyc
+G185E-7813-MONOMER,,Rv3536c(),BioCyc
 G185E-6400-MONOMER,Probable endopeptidase Rv2190c,Rv2190c(),BioCyc
 G185E-4499-MONOMER,carbon monoxide dehydrogenase subunit M,Rv0375c(),BioCyc
 G185E-8192-MONOMER,ESX conserved component EccC2. ESX-2 type VII secretion system protein. Possible membrane protein.,Rv3894c(),BioCyc
@@ -888,7 +888,7 @@ G185E-6670-MONOMER,conserved hypothetical protein,Rv2438A(),BioCyc
 G185E-5252-MONOMER,PE family protein PE10,Rv1089(),BioCyc
 G185E-7049-MONOMER,possible hydrolase,Rv2800(),BioCyc
 G185E-5635-MONOMER,PE-PGRS family protein PE_PGRS28,Rv1452c(),BioCyc
-G185E-4230-MONOMER,probable sedoheptulose-7-phosphate isomerase,Rv0113(4),BioCyc
+G185E-4230-MONOMER,probable sedoheptulose-7-phosphate isomerase,Rv0113(),BioCyc
 G185E-7425-MONOMER,possible transcriptional regulatory protein (probably TetR-family),Rv3160c(),BioCyc
 G185E-6007-MONOMER,probable dehydrogenase,Rv1812c(),BioCyc
 G185E-7797-MONOMER,possible coenzyme F420-dependent oxidoreductase,Rv3520c(),BioCyc
@@ -896,7 +896,7 @@ G185E-6383-MONOMER,alpha(1->6)mannosyltransferase. Possible conserved integral m
 G185E-4483-MONOMER,probable conserved integral membrane protein,Rv0359(),BioCyc
 G185E-8176-MONOMER,ESX-1 secretion-associated protein EspJ. Conserved alanine rich protein.,Rv3878(),BioCyc
 G185E-4857-MONOMER,probable conserved transmembrane protein,Rv0713(),BioCyc
-G185E-5236-MONOMER,probable beta-ketoacyl CoA thiolase,Rv1074c(),BioCyc
+G185E-5236-MONOMER,probable beta-ketoacyl CoA thiolase,Rv1074c(2),BioCyc
 G185E-7033-MONOMER,probable lipoprotein,Rv2784c(),BioCyc
 G185E-5619-MONOMER,probable glyceraldehyde 3-phosphate dehydrogenase,Rv1436(4),BioCyc
 G185E-4214-MONOMER,(R)-3-[(carboxylmethyl)amino]fatty acid dioxygenase/decarboxylase,Rv0097(),BioCyc
@@ -936,7 +936,7 @@ G185E-7363-MONOMER,conserved protein,Rv3099c(),BioCyc
 G185E-7732-MONOMER,probable tRNA pseudouridine synthase a,Rv3455c(2),BioCyc
 G185E-6318-MONOMER,pup deamidase/depupylase,Rv2112c(),BioCyc
 G185E-8113-MONOMER,possible phosphotransferase,Rv3817(),BioCyc
-G185E-4793-MONOMER,possible sugar kinase,Rv0650(1),BioCyc
+G185E-4793-MONOMER,possible sugar kinase,Rv0650(),BioCyc
 G185E-5172-MONOMER,probable peptidyl-tRNA hydrolase,Rv1014c(),BioCyc
 G185E-6969-MONOMER,possible conserved transmembrane alanine and glycine rich protein,Rv2721c(),BioCyc
 G185E-5554-MONOMER,Alpha-pyrone synthesis polyketide synthase-like Pks18,Rv1372(),BioCyc
@@ -950,7 +950,7 @@ G185E-5156-MONOMER,protein lysine acetyltransferase Pat,Rv0998(),BioCyc
 G185E-6953-MONOMER,conserved hypothetical protein,Rv2705c(),BioCyc
 G185E-5537-MONOMER,conserved hypothetical protein,Rv1357c(),BioCyc
 G185E-4133-MONOMER,"conserved protein with FHA domain,",Rv0020c(),BioCyc
-G185E-7330-MONOMER,phosphoglucomutase,Rv3068c(1),BioCyc
+G185E-7330-MONOMER,phosphoglucomutase,Rv3068c(),BioCyc
 G185E-5909-MONOMER,conserved hypothetical protein,Rv1717(),BioCyc
 G185E-7700-MONOMER,alanine racemase,Rv3423c(1),BioCyc
 G185E-6283-MONOMER,conserved hypothetical protein,Rv2077A(),BioCyc
@@ -974,7 +974,7 @@ G185E-5504-MONOMER,PE-PGRS family protein PE_PGRS24,Rv1325c(),BioCyc
 G185E-7296-MONOMER,conserved protein,Rv3035(),BioCyc
 G185E-5876-MONOMER,probable conserved integral membrane protein ABC transporter,Rv1686c(),BioCyc
 G185E-7668-MONOMER,cyclopropane-fatty-acyl-phospholipid synthase 1,Rv3392c(),BioCyc
-G185E-6250-MONOMER,conserved hypothetical protein,Rv2047c(),BioCyc
+G185E-6250-MONOMER,conserved hypothetical protein,Rv2047c(2),BioCyc
 G185E-8046-MONOMER,conserved protein,Rv3755c(),BioCyc
 G185E-6631-MONOMER,possible conserved membrane protein,Rv2401A(),BioCyc
 G185E-4725-MONOMER,mce-family related protein,Rv0590A(),BioCyc
@@ -1001,7 +1001,7 @@ G185E-6598-MONOMER,Ribosomal RNA small subunit methyltransferase E,Rv2372c(2),Bi
 G185E-4692-MONOMER,possible conserved secreted protein,Rv0559c(),BioCyc
 G185E-5072-MONOMER,conserved protein,Rv0918(),BioCyc
 G185E-6869-MONOMER,probable conserved transmembrane alanine and leucine rich protein,Rv2625c(),BioCyc
-G185E-5451-MONOMER,probable dehydrogenase FAD flavoprotein GMC oxidoreductase,Rv1279(1),BioCyc
+G185E-5451-MONOMER,probable dehydrogenase FAD flavoprotein GMC oxidoreductase,Rv1279(),BioCyc
 G185E-7242-MONOMER,probable 3-isopropylmalate dehydratase (small subunit),Rv2987c(),BioCyc
 G185E-5828-MONOMER,conserved hypothetical protein,Rv1638A(),BioCyc
 G185E-4424-MONOMER,possible toxin,Rv0301(),BioCyc
@@ -1025,7 +1025,7 @@ G185E-5040-MONOMER,probable NADPH:adrenodoxin oxidoreductase,Rv0886(),BioCyc
 G185E-6837-MONOMER,possible antitoxin,Rv2595(),BioCyc
 G185E-5418-MONOMER,antitoxin,Rv1247c(),BioCyc
 G185E-7210-MONOMER,[&alpha;-L-fucopyranosyl-(1&rarr;3)-&alpha;-L-rhamnopyranosyl-(1&rarr;3)-2-<i>O</i>-methyl-&alpha;-L-rhamnopyranosyl] dimycocerosyl phenol-phthiocerol 2'''-<i>O</i>-methyltransferase,Rv2956(),BioCyc
-G185E-5795-MONOMER,probable ionic transporter integral membrane protein,Rv1607(1),BioCyc
+G185E-5795-MONOMER,probable ionic transporter integral membrane protein,Rv1607(),BioCyc
 G185E-4391-MONOMER,conserved hypothetical protein,Rv0269c(),BioCyc
 G185E-7587-MONOMER,secreted protein antigen,Rv3312A(),BioCyc
 G185E-6168-MONOMER,mce-family protein Mce3D,Rv1969(),BioCyc
@@ -1062,7 +1062,7 @@ G185E-5744-MONOMER,possible regulatory protein,Rv1556(),BioCyc
 G185E-4339-MONOMER,probable conserved transmembrane protein,Rv0219(),BioCyc
 G185E-7536-MONOMER,dehydro coenzyme F<sub>420</sub>-0 reductase/coenzyme F<sub>420</sub>:L-glutamate ligase,Rv3262(),BioCyc
 G185E-6117-MONOMER,probable membrane protein,Rv1920(),BioCyc
-G185E-7907-MONOMER,inorganic pyrophosphatase,Rv3628(6),BioCyc
+G185E-7907-MONOMER,inorganic pyrophosphatase,Rv3628(),BioCyc
 G185E-6497-MONOMER,probable transposase,Rv2279(),BioCyc
 G185E-4592-MONOMER,probable transcriptional regulatory protein,Rv0465c(),BioCyc
 G185E-4968-MONOMER,,Rv0819(),BioCyc
@@ -1090,7 +1090,7 @@ G185E-4560-MONOMER,putative conserved ATPase,Rv0435c(),BioCyc
 G185E-4936-MONOMER,conserved protein,Rv0787A(),BioCyc
 G185E-6734-MONOMER,probable citrate (pro-3S)-lyase (beta subunit),Rv2498c(),BioCyc
 G185E-5314-MONOMER,conserved protein,Rv1147(),BioCyc
-G185E-7110-MONOMER,possible amidotransferase,Rv2859c(2),BioCyc
+G185E-7110-MONOMER,possible amidotransferase,Rv2859c(),BioCyc
 G185E-5696-MONOMER,conserved hypothetical protein,Rv1508A(),BioCyc
 G185E-4291-MONOMER,possible Mce-family lipoprotein,Rv0173(),BioCyc
 G185E-7488-MONOMER,probable conserved integral membrane protein,Rv3217c(),BioCyc
@@ -1099,7 +1099,7 @@ G185E-7858-MONOMER,cysteinyl-tRNA synthetase 1,Rv3580c(1),BioCyc
 G185E-6447-MONOMER,phosphotyrosine protein phosphatase,Rv2234(),BioCyc
 G185E-4544-MONOMER,possible lipoprotein peptidase,Rv0419(),BioCyc
 G185E-4920-MONOMER,probable phosphoribosylamine--glycine ligase,Rv0772(1),BioCyc
-G185E-6717-MONOMER,probable glycerol-3-phosphate acyltransferase,Rv2482c(1),BioCyc
+G185E-6717-MONOMER,probable glycerol-3-phosphate acyltransferase,Rv2482c(),BioCyc
 G185E-5298-MONOMER,conserved membrane protein,Rv1132(),BioCyc
 G185E-7094-MONOMER,probable conserved transmembrane alanine rich protein,Rv2843(),BioCyc
 G185E-5680-MONOMER,possible toxin,Rv1495(),BioCyc
@@ -1111,7 +1111,7 @@ G185E-6430-MONOMER,probable conserved membrane protein,Rv2219A(),BioCyc
 G185E-4528-MONOMER,probable conserved membrane protein,Rv0403c(),BioCyc
 G185E-8221-MONOMER,ribonuclease P protein component,Rv3923c(),BioCyc
 G185E-4902-MONOMER,putative transposase (fragment),Rv0755A(),BioCyc
-G185E-6701-MONOMER,probable aminopeptidase N,Rv2467(1),BioCyc
+G185E-6701-MONOMER,probable aminopeptidase N,Rv2467(),BioCyc
 G185E-5282-MONOMER,conserved hypothetical protein (fragment),Rv1116A(),BioCyc
 G185E-7078-MONOMER,conserved hypothetical protein,Rv2828c(),BioCyc
 G185E-5664-MONOMER,conserved protein,Rv1480(),BioCyc
@@ -1126,7 +1126,7 @@ G185E-4886-MONOMER,probable transposase (fragment),Rv0741(),BioCyc
 G185E-6683-MONOMER,hypothetical proline and serine rich protein,Rv2451(),BioCyc
 G185E-5266-MONOMER,conserved membrane protein,Rv1101c(),BioCyc
 G185E-7062-MONOMER,probable transposase,Rv2812(),BioCyc
-G185E-5648-MONOMER,possible nitrogen fixation related protein,Rv1465(),BioCyc
+G185E-5648-MONOMER,possible nitrogen fixation related protein,Rv1465(2),BioCyc
 G185E-4243-MONOMER,trehalose synthase,Rv0126(),BioCyc
 G185E-7438-MONOMER,probable transcriptional regulatory protein (probably TetR/AcrR-family),Rv3173c(),BioCyc
 G185E-6020-MONOMER,conserved protein,Rv1825(),BioCyc
@@ -1138,7 +1138,7 @@ G185E-4870-MONOMER,conserved hypothetical protein,Rv0725c(),BioCyc
 G185E-6667-MONOMER,ribokinase,Rv2436(2),BioCyc
 G185E-5249-MONOMER,PE-PGRS family protein PE_PGRS21,Rv1087(),BioCyc
 G185E-7046-MONOMER,conserved hypothetical protein,Rv2797c(),BioCyc
-G185E-5632-MONOMER,transketolase,Rv1449c(),BioCyc
+G185E-5632-MONOMER,transketolase,Rv1449c(2),BioCyc
 G185E-4227-MONOMER,probable conserved integral membrane protein,Rv0110(),BioCyc
 G185E-7422-MONOMER,NADH:menaquinone oxidoreductase I chain M,Rv3157(),BioCyc
 G185E-6004-MONOMER,PPE family protein PPE33,Rv1809(),BioCyc
@@ -1167,7 +1167,7 @@ G185E-7393-MONOMER,conserved hypothetical protein,Rv3129(),BioCyc
 G185E-7761-MONOMER,possible conserved protein,Rv3484(),BioCyc
 G185E-6347-MONOMER,conserved protein,Rv2141c(),BioCyc
 G185E-4448-MONOMER,possible transcriptional regulatory protein (possibly ArsR-family),Rv0324(),BioCyc
-G185E-8144-MONOMER,superoxide dismutase [FE],Rv3846(2),BioCyc
+G185E-8144-MONOMER,superoxide dismutase [FE],Rv3846(),BioCyc
 G185E-4822-MONOMER,conserved threonine rich protein,Rv0679c(),BioCyc
 G185E-5199-MONOMER,PPE family protein PPE15,Rv1039c(),BioCyc
 G185E-6998-MONOMER,conserved protein,Rv2749(),BioCyc
@@ -1188,7 +1188,7 @@ G185E-7359-MONOMER,"PE-PGRS family protein, triacylglycerol lipase",Rv3097c(),Bi
 G185E-7729-MONOMER,probable cutinase precursor,Rv3452(),BioCyc
 G185E-6314-MONOMER,PPE family protein PPE36,Rv2108(),BioCyc
 G185E-8110-MONOMER,possible acyltransferase,Rv3814c(),BioCyc
-G185E-4790-MONOMER,conserved protein,Rv0647c(1),BioCyc
+G185E-4790-MONOMER,conserved protein,Rv0647c(),BioCyc
 G185E-5169-MONOMER,probable 4-diphosphocytidyl-2-C-methyl-D-erythritol kinase,Rv1011(2),BioCyc
 G185E-6966-MONOMER,probable transcriptional regulatory protein,Rv2718c(),BioCyc
 G185E-5551-MONOMER,probable transposase,Rv1369c(),BioCyc
@@ -1255,7 +1255,7 @@ G185E-4689-MONOMER,probable conserved transmembrane protein,Rv0556(),BioCyc
 G185E-5069-MONOMER,PPE family protein PPE14,Rv0915c(),BioCyc
 G185E-6866-MONOMER,possible methyltransferase (methylase),Rv2622(),BioCyc
 G185E-5448-MONOMER,conserved hypothetical protein,Rv1276c(),BioCyc
-G185E-7239-MONOMER,polyphosphate kinase PPK,Rv2984(4),BioCyc
+G185E-7239-MONOMER,polyphosphate kinase PPK,Rv2984(),BioCyc
 G185E-5825-MONOMER,iron-regulated universal stress protein family protein TB15.3,Rv1636(),BioCyc
 G185E-4421-MONOMER,Antitoxin Rv0298,Rv0298(),BioCyc
 G185E-7617-MONOMER,probable homoserine O-acetyltransferase,Rv3341(),BioCyc
@@ -1264,7 +1264,7 @@ G185E-7992-MONOMER,conserved hypothetical proline rich protein,Rv3705A(),BioCyc
 G185E-6579-MONOMER,PPE family protein PPE39,Rv2353c(),BioCyc
 G185E-4673-MONOMER,conserved hypothetical protein,Rv0540(),BioCyc
 G185E-5053-MONOMER,outer membrane protein A,Rv0899(),BioCyc
-G185E-6850-MONOMER,probable pyridoxamine 5'-phosphate oxidase,Rv2607(2),BioCyc
+G185E-6850-MONOMER,probable pyridoxamine 5'-phosphate oxidase,Rv2607(),BioCyc
 G185E-5431-MONOMER,probable oxidoreductase,Rv1260(),BioCyc
 G185E-7223-MONOMER,possible conserved membrane or secreted protein,Rv2969c(),BioCyc
 G185E-5808-MONOMER,probable 'component linked with the assembly of cytochrome' transport transmembrane ATP-binding protein ABC transporter,Rv1620c(),BioCyc
@@ -1318,7 +1318,7 @@ G185E-5741-MONOMER,putative fumarate reductase [iron-sulfur subunit],Rv1553(),Bi
 G185E-4336-MONOMER,double hotdog hydratase,Rv0216(),BioCyc
 G185E-7533-MONOMER,conserved hypothetical protein,Rv3259(),BioCyc
 G185E-6114-MONOMER,PPE family protein PPE34,Rv1917c(),BioCyc
-G185E-7904-MONOMER,possible cell cycle protein,Rv3625c(),BioCyc
+G185E-7904-MONOMER,possible cell cycle protein,Rv3625c(1),BioCyc
 G185E-6494-MONOMER,mycocyclosin synthase,Rv2276(),BioCyc
 G185E-4589-MONOMER,dihydrolipoamide dehydrogenase subunit,Rv0462(),BioCyc
 G185E-4965-MONOMER,probable thioredoxin,Rv0816c(),BioCyc
@@ -1333,12 +1333,12 @@ G185E-7888-MONOMER,GTP cyclohydrolase I,Rv3609c(10),BioCyc
 G185E-6478-MONOMER,conserved hypothetical protein,Rv2261c(),BioCyc
 G185E-4573-MONOMER,conserved hypothetical protein,Rv0448c(),BioCyc
 G185E-4949-MONOMER,probable aminopeptidase,Rv0800(),BioCyc
-G185E-6747-MONOMER,oligoribonuclease,Rv2511(2),BioCyc
-G185E-5329-MONOMER,probable mutator protein,Rv1160(1),BioCyc
+G185E-6747-MONOMER,oligoribonuclease,Rv2511(),BioCyc
+G185E-5329-MONOMER,probable mutator protein,Rv1160(),BioCyc
 G185E-7123-MONOMER,possible antitoxin,Rv2871(),BioCyc
 G185E-5709-MONOMER,probable fatty-acid-AMP ligase,Rv1521(),BioCyc
-G185E-4304-MONOMER,probable beta-glucosidase,Rv0186(1),BioCyc
-G185E-7501-MONOMER,3-phosphoshikimate 1-carboxyvinyltransferase,Rv3227(1),BioCyc
+G185E-4304-MONOMER,probable beta-glucosidase,Rv0186(),BioCyc
+G185E-7501-MONOMER,3-phosphoshikimate 1-carboxyvinyltransferase,Rv3227(),BioCyc
 G185E-6081-MONOMER,antigen 85B,Rv1886c(),BioCyc
 G185E-7871-MONOMER,probable conserved lipoprotein,Rv3593(),BioCyc
 G185E-6462-MONOMER,meromycolic acid 3-oxoacyl-(acyl carrier protein) synthase II,Rv2246(),BioCyc
@@ -1361,9 +1361,9 @@ G185E-7091-MONOMER,conserved hypothetical protein,Rv2840c(),BioCyc
 G185E-5677-MONOMER,probable methylmalonyl-CoA mutase small subunit,Rv1492(),BioCyc
 G185E-4272-MONOMER,probable NAD(P) transhydrogenase (subunit alpha),Rv0155(),BioCyc
 G185E-7468-MONOMER,possible glutaredoxin protein,Rv3198A(),BioCyc
-G185E-6049-MONOMER,type II NADH:menaquinone oxidoreductase Ndh,Rv1854c(1),BioCyc
+G185E-6049-MONOMER,type II NADH:menaquinone oxidoreductase Ndh,Rv1854c(),BioCyc
 G185E-7839-MONOMER,probable acyl-CoA dehydrogenase,Rv3562(),BioCyc
-G185E-6427-MONOMER,probable lipoate biosynthesis protein B,Rv2217(1),BioCyc
+G185E-6427-MONOMER,probable lipoate biosynthesis protein B,Rv2217(),BioCyc
 G185E-4525-MONOMER,acyl-CoA dehydrogenase,Rv0400c(),BioCyc
 G185E-8218-MONOMER,conserved protein similar to jag protein,Rv3920c(),BioCyc
 G185E-4899-MONOMER,probable methylmalonate-semialdehyde dehydrogenase,Rv0753c(),BioCyc
@@ -1421,7 +1421,7 @@ G185E-5967-MONOMER,"L-gulono-1,4-lactone dehydrogenase",Rv1771(),BioCyc
 G185E-7389-MONOMER,PPE family protein PPE49,Rv3125c(),BioCyc
 G185E-7758-MONOMER,probable integral membrane protein,Rv3481c(),BioCyc
 G185E-6344-MONOMER,probable conserved lipoprotein,Rv2138(),BioCyc
-G185E-4445-MONOMER,probable deoxycytidine triphosphate deaminase,Rv0321(3),BioCyc
+G185E-4445-MONOMER,probable deoxycytidine triphosphate deaminase,Rv0321(),BioCyc
 G185E-8140-MONOMER,probable conserved transmembrane protein,Rv3843c(),BioCyc
 G185E-4819-MONOMER,probable conserved transmembrane transport protein,Rv0676c(),BioCyc
 G185E-5196-MONOMER,probable IS1560 transposase (fragment),Rv1036c(),BioCyc
@@ -1430,7 +1430,7 @@ G185E-5581-MONOMER,possible antitoxin,Rv1398c(),BioCyc
 G185E-4176-MONOMER,possible cellulase,Rv0062(),BioCyc
 G185E-5951-MONOMER,putative transposase,Rv1756c(),BioCyc
 G185E-7373-MONOMER,"GTP 3',8-cyclase 1",Rv3109(),BioCyc
-G185E-7742-MONOMER,"dTDP-4-dehydrorhamnose 3,5-epimerase",Rv3465(1),BioCyc
+G185E-7742-MONOMER,"dTDP-4-dehydrorhamnose 3,5-epimerase",Rv3465(),BioCyc
 G185E-6328-MONOMER,phosphoribosyl-ATP pyrophosphatase,Rv2122c(),BioCyc
 G185E-8123-MONOMER,possible transposase,Rv3827c(),BioCyc
 G185E-4803-MONOMER,possible antitoxin,Rv0660c(),BioCyc
@@ -1442,9 +1442,9 @@ G185E-7356-MONOMER,conserved hypothetical protein,Rv3094c(),BioCyc
 G185E-7726-MONOMER,probable membrane-anchored mycosin,Rv3449(),BioCyc
 G185E-6311-MONOMER,putative transposase for insertion sequence element IS6110 (fragment),Rv2105(),BioCyc
 G185E-8107-MONOMER,conserved hypothetical protein,Rv3811(),BioCyc
-G185E-4787-MONOMER,methoxy mycolic acid synthase 2,Rv0644c(2),BioCyc
+G185E-4787-MONOMER,methoxy mycolic acid synthase 2,Rv0644c(),BioCyc
 G185E-5166-MONOMER,probable deoxyribonuclease,Rv1008(),BioCyc
-G185E-6963-MONOMER,possible hydrolase,Rv2715(1),BioCyc
+G185E-6963-MONOMER,possible hydrolase,Rv2715(),BioCyc
 G185E-5548-MONOMER,conserved protein,Rv1366A(),BioCyc
 G185E-4144-MONOMER,conserved hypothetical protein,Rv0030(),BioCyc
 G185E-7340-MONOMER,probable hydroxylaminobenzene mutase,Rv3078(),BioCyc
@@ -1453,7 +1453,7 @@ G185E-7710-MONOMER,bifunctional NAD(P)H-hydrate repair enzyme Nnr,Rv3433c(),BioC
 G185E-6293-MONOMER,conserved hypothetical protein,Rv2087(),BioCyc
 G185E-8091-MONOMER,arabinogalactan arabinosyl transferase embB,Rv3795(),BioCyc
 G185E-4768-MONOMER,probable exonuclease V (beta chain),Rv0630c(),BioCyc
-G185E-5149-MONOMER,conserved hypothetical protein,Rv0992c(1),BioCyc
+G185E-5149-MONOMER,conserved hypothetical protein,Rv0992c(),BioCyc
 G185E-6947-MONOMER,conserved hypothetical protein,Rv2699c(),BioCyc
 G185E-5531-MONOMER,hypothetical protein,Rv1351(),BioCyc
 G185E-4127-MONOMER,transmembrane serine/threonine-protein kinase B,Rv0014c(),BioCyc
@@ -1490,7 +1490,7 @@ G185E-5478-MONOMER,probable ATP synthase a chain,Rv1304(),BioCyc
 G185E-7270-MONOMER,probable glutamyl-tRNA(GLN) amidotransferase (subunit C),Rv3012c(),BioCyc
 G185E-5854-MONOMER,probable polyketide synthase,Rv1664(),BioCyc
 G185E-7646-MONOMER,probable DNA polymerase III (alpha chain),Rv3370c(),BioCyc
-G185E-6228-MONOMER,conserved membrane protein,Rv2025c(2),BioCyc
+G185E-6228-MONOMER,conserved membrane protein,Rv2025c(),BioCyc
 G185E-8023-MONOMER,conserved hypothetical protein,Rv3733c(),BioCyc
 G185E-6608-MONOMER,polyketide synthetase,Rv2382c(),BioCyc
 G185E-4703-MONOMER,conserved protein,Rv0569(),BioCyc
@@ -1516,19 +1516,19 @@ G185E-6194-MONOMER,Cd<sup>2+</sup> transporting P-type ATPase CtpG,Rv1992c(),Bio
 G185E-7989-MONOMER,Hercynine oxygenase,Rv3703c(),BioCyc
 G185E-6576-MONOMER,membrane-associated phospholipase C 2,Rv2350c(),BioCyc
 G185E-4670-MONOMER,probable integral membrane protein,Rv0537c(),BioCyc
-G185E-5050-MONOMER,,Rv0896(6),BioCyc
+G185E-5050-MONOMER,,Rv0896(),BioCyc
 G185E-6847-MONOMER,probable glutamine amidotransferase,Rv2604c(),BioCyc
 G185E-5428-MONOMER,probable oxidoreductase,Rv1257c(),BioCyc
 G185E-7220-MONOMER,possible methyltransferase (methylase),Rv2966c(),BioCyc
 G185E-5805-MONOMER,probable pyruvate kinase,Rv1617(4),BioCyc
 G185E-4402-MONOMER,PE-PGRS family protein PE_PGRS4,Rv0279c(),BioCyc
 G185E-7597-MONOMER,possible methyltransferase,Rv3322c(),BioCyc
-G185E-6178-MONOMER,possible conserved permease,Rv1979c(),BioCyc
+G185E-6178-MONOMER,possible conserved permease,Rv1979c(1),BioCyc
 G185E-7973-MONOMER,conserved protein,Rv3688c(),BioCyc
 G185E-6559-MONOMER,cysteine synthase a,Rv2334(2),BioCyc
 G185E-4654-MONOMER,probable GABA permease,Rv0522(1),BioCyc
 G185E-5034-MONOMER,possible transcriptional regulatory protein (possibly MarR-family),Rv0880(),BioCyc
-G185E-6831-MONOMER,4-aminobutyrate aminotransferase,Rv2589(1),BioCyc
+G185E-6831-MONOMER,4-aminobutyrate aminotransferase,Rv2589(2),BioCyc
 G185E-5412-MONOMER,possible antitoxin,Rv1241(),BioCyc
 G185E-7204-MONOMER,fatty-acid-AMP ligase,Rv2950c(),BioCyc
 G185E-5789-MONOMER,probable imidazole glycerol-phosphate dehydratase,Rv1601(2),BioCyc
@@ -1558,7 +1558,7 @@ G185E-4349-MONOMER,possible conserved membrane protein with PIN domain,Rv0229c()
 G185E-7546-MONOMER,conserved hypothetical protein,Rv3272(),BioCyc
 G185E-6127-MONOMER,conserved hypothetical protein,Rv1930c(),BioCyc
 G185E-7917-MONOMER,possible transposase,Rv3638(),BioCyc
-G185E-6507-MONOMER,probable CDP-diacylglycerol pyrophosphatase,Rv2289(1),BioCyc
+G185E-6507-MONOMER,probable CDP-diacylglycerol pyrophosphatase,Rv2289(),BioCyc
 G185E-4602-MONOMER,probable transcriptional regulatory protein,Rv0474(),BioCyc
 G185E-4979-MONOMER,possible transposase (fragment),Rv0829(),BioCyc
 G185E-6778-MONOMER,shikimate kinase,Rv2539c(1),BioCyc
@@ -1688,7 +1688,7 @@ G185E-5180-MONOMER,Nucleoside triphosphate pyrophosphohydrolase,Rv1021(2),BioCyc
 G185E-6976-MONOMER,conserved alanine rich protein,Rv2728c(),BioCyc
 G185E-5562-MONOMER,probable pyrimidine operon regulatory protein,Rv1379(),BioCyc
 G185E-4157-MONOMER,probable transcriptional regulatory protein (probably GntR-family),Rv0043c(),BioCyc
-G185E-5932-MONOMER,nitrate:H<sup>+</sup> symporter,Rv1737c(),BioCyc
+G185E-5932-MONOMER,nitrate:H<sup>+</sup> symporter,Rv1737c(1),BioCyc
 G185E-7353-MONOMER,conserved protein,Rv3091(),BioCyc
 G185E-7723-MONOMER,hypothetical alanine and valine rich protein,Rv3446c(),BioCyc
 G185E-6308-MONOMER,conserved hypothetical protein,Rv2102(),BioCyc
@@ -1718,7 +1718,7 @@ G185E-4749-MONOMER,conserved hypothetical protein,Rv0612(),BioCyc
 G185E-5130-MONOMER,probable acetyl-/propionyl-CoA carboxylase (beta subunit),Rv0974c(),BioCyc
 G185E-6928-MONOMER,conserved protein,Rv2680(),BioCyc
 G185E-5511-MONOMER,probable transcriptional regulatory protein,Rv1332(),BioCyc
-G185E-7303-MONOMER,probable phosphoserine phosphatase,Rv3042c(1),BioCyc
+G185E-7303-MONOMER,probable phosphoserine phosphatase,Rv3042c(),BioCyc
 G185E-5884-MONOMER,conserved hypothetical protein,Rv1693(),BioCyc
 G185E-7675-MONOMER,,Rv3398c(),BioCyc
 G185E-6258-MONOMER,conserved protein,Rv2054(),BioCyc
@@ -1747,7 +1747,7 @@ G185E-6605-MONOMER,non-ribosomal peptide synthase MbtF,Rv2379c(),BioCyc
 G185E-4699-MONOMER,conserved protein,Rv0566c(),BioCyc
 G185E-5080-MONOMER,conserved protein,Rv0925c(),BioCyc
 G185E-6876-MONOMER,conserved protein,Rv2632c(),BioCyc
-G185E-5458-MONOMER,probable bifunctional enzyme CysN/CysC: sulfate adenyltransferase (subunit 1) + adenylylsulfate kinase,Rv1286(),BioCyc
+G185E-5458-MONOMER,probable bifunctional enzyme CysN/CysC: sulfate adenyltransferase (subunit 1) + adenylylsulfate kinase,Rv1286(2),BioCyc
 G185E-7251-MONOMER,probable conserved integral membrane protein,Rv2994(),BioCyc
 G185E-5835-MONOMER,conserved hypothetical protein,Rv1645c(),BioCyc
 G185E-4431-MONOMER,probable conserved integral membrane protein,Rv0308(),BioCyc
@@ -1771,7 +1771,7 @@ G185E-5047-MONOMER,possible S-adenosylmethionine-dependent methyltransferase,Rv0
 G185E-6844-MONOMER,possible antitoxin,Rv2601A(),BioCyc
 G185E-5425-MONOMER,probable acyltransferase,Rv1254(),BioCyc
 G185E-7217-MONOMER,probable integral membrane protein,Rv2963(),BioCyc
-G185E-5802-MONOMER,possible prolipoprotein diacylglyceryl transferases,Rv1614(),BioCyc
+G185E-5802-MONOMER,possible prolipoprotein diacylglyceryl transferases,Rv1614(1),BioCyc
 G185E-4398-MONOMER,conserved hypothetical protein,Rv0276(),BioCyc
 G185E-7594-MONOMER,succinate:menaquinone oxidoreductase II subunit B,Rv3319(),BioCyc
 G185E-6175-MONOMER,conserved hypothetical protein,Rv1976c(),BioCyc
@@ -1816,7 +1816,7 @@ G185E-6504-MONOMER,conserved hypothetical protein,Rv2286c(),BioCyc
 G185E-4599-MONOMER,hypothetical protein,Rv0471c(),BioCyc
 G185E-4976-MONOMER,conserved hypothetical protein,Rv0826(),BioCyc
 G185E-6775-MONOMER,probable conserved transmembrane protein,Rv2536(),BioCyc
-G185E-5356-MONOMER,probable pyrroline-5-carboxylate dehydrogenase,Rv1187(2),BioCyc
+G185E-5356-MONOMER,probable pyrroline-5-carboxylate dehydrogenase,Rv1187(),BioCyc
 G185E-7149-MONOMER,conserved hypothetical protein,Rv2897c(),BioCyc
 G185E-5735-MONOMER,probable DNA polymerase III (alpha chain),Rv1547(),BioCyc
 G185E-4330-MONOMER,hypothetical protein,Rv0210(),BioCyc
@@ -1842,7 +1842,7 @@ G185E-5322-MONOMER,possible pyridoxamine 5'-phosphate oxidase,Rv1155(),BioCyc
 G185E-7117-MONOMER,antitoxin,Rv2865(),BioCyc
 G185E-5703-MONOMER,conserved hypothetical protein,Rv1515c(),BioCyc
 G185E-4298-MONOMER,probable conserved transmembrane protein,Rv0180c(),BioCyc
-G185E-7495-MONOMER,alternative RNA polymerase sigma-E factor (sigma-24),Rv3223c(1),BioCyc
+G185E-7495-MONOMER,alternative RNA polymerase sigma-E factor (sigma-24),Rv3223c(),BioCyc
 G185E-6075-MONOMER,probable cytochrome P450 140,Rv1880c(),BioCyc
 G185E-7865-MONOMER,probable conserved membrane protein,Rv3587c(),BioCyc
 G185E-6455-MONOMER,unknown protein,Rv2240c(),BioCyc
@@ -1892,13 +1892,13 @@ G185E-7429-MONOMER,probable methanol dehydrogenase transcriptional regulatory pr
 G185E-6011-MONOMER,possible transcriptional regulatory protein,Rv1816(),BioCyc
 G185E-7801-MONOMER,probable conserved membrane protein,Rv3524(),BioCyc
 G185E-6388-MONOMER,3-deoxy-D-arabino-heptulosonate 7-phosphate synthase,Rv2178c(),BioCyc
-G185E-4487-MONOMER,probable fructose-bisphosphate aldolase,Rv0363c(2),BioCyc
+G185E-4487-MONOMER,probable fructose-bisphosphate aldolase,Rv0363c(),BioCyc
 G185E-8180-MONOMER,ESX conserved component EccE1. ESX-1 type VII secretion system protein. Possible membrane protein.,Rv3882c(),BioCyc
 G185E-4861-MONOMER,30S ribosomal protein S14,Rv0717(),BioCyc
 G185E-5240-MONOMER,probable proline-rich antigen homolog,Rv1078(),BioCyc
 G185E-7037-MONOMER,manganese-dependent transcriptional repressor MntR,Rv2788(),BioCyc
 G185E-5623-MONOMER,probable protein-export membrane protein (translocase subunit),Rv1440(),BioCyc
-G185E-4218-MONOMER,isonitrile lipopeptide synthase,Rv0101(),BioCyc
+G185E-4218-MONOMER,isonitrile lipopeptide synthase,Rv0101(1),BioCyc
 G185E-7413-MONOMER,NADH:menaquinone oxidoreductase I chain D,Rv3148(),BioCyc
 G185E-5995-MONOMER,PPE family protein PPE28,Rv1800(),BioCyc
 G185E-7785-MONOMER,PE-PGRS family protein PE_PGRS54,Rv3508(),BioCyc
@@ -1910,7 +1910,7 @@ G185E-5224-MONOMER,conserved hypothetical protein,Rv1062(),BioCyc
 G185E-7021-MONOMER,probable conserved transmembrane protein,Rv2772c(),BioCyc
 G185E-5607-MONOMER,possible membrane protein,Rv1424c(),BioCyc
 G185E-4202-MONOMER,putative hydrogenase component,Rv0085(),BioCyc
-G185E-5977-MONOMER,probable 4-alpha-glucanotransferase,Rv1781c(1),BioCyc
+G185E-5977-MONOMER,probable 4-alpha-glucanotransferase,Rv1781c(),BioCyc
 G185E-7400-MONOMER,PPE family protein PPE51,Rv3136(),BioCyc
 G185E-7768-MONOMER,unknown protein,Rv3491(),BioCyc
 G185E-6355-MONOMER,Cell division protein SepF,Rv2147c(),BioCyc
@@ -1973,7 +1973,7 @@ G185E-5508-MONOMER,probable ATP-dependent helicase,Rv1329c(),BioCyc
 G185E-7300-MONOMER,probable enoyl-CoA hydratase,Rv3039c(),BioCyc
 G185E-5881-MONOMER,probable lipoprotein,Rv1690(),BioCyc
 G185E-7672-MONOMER,probable membrane protein,Rv3395A(),BioCyc
-G185E-6255-MONOMER,polyprenyl-phosphate &beta;-<small>D</small>-mannosyltransferase,Rv2051c(1),BioCyc
+G185E-6255-MONOMER,polyprenyl-phosphate &beta;-<small>D</small>-mannosyltransferase,Rv2051c(),BioCyc
 G185E-8050-MONOMER,possible osmoprotectant (glycine betaine/carnitine/choline/L-proline) binding lipoprotein,Rv3759c(),BioCyc
 G185E-6635-MONOMER,conserved protein,Rv2405(),BioCyc
 G185E-4729-MONOMER,mce-family protein Mce2F,Rv0594(),BioCyc
@@ -2001,7 +2001,7 @@ G185E-5077-MONOMER,possible transposase,Rv0922(),BioCyc
 G185E-6873-MONOMER,conserved protein,Rv2629(),BioCyc
 G185E-5455-MONOMER,probable oligopeptide-transport integral membrane protein ABC transporter,Rv1283c(),BioCyc
 G185E-7246-MONOMER,conserved protein,Rv2991(),BioCyc
-G185E-5832-MONOMER,50S ribosomal protein L35,Rv1642(),BioCyc
+G185E-5832-MONOMER,50S ribosomal protein L35,Rv1642(1),BioCyc
 G185E-4428-MONOMER,PPE family protein PPE6,Rv0305c(),BioCyc
 G185E-7624-MONOMER,probable transposase,Rv3348(),BioCyc
 G185E-6204-MONOMER,possible 20-beta-hydroxysteroid dehydrogenase,Rv2002(),BioCyc
@@ -2017,7 +2017,7 @@ G185E-4412-MONOMER,ESX-3 secretion-associated protein,Rv0289(),BioCyc
 G185E-7608-MONOMER,probable N-acetylglucosamine-6-phosphate deacetylase,Rv3332(4),BioCyc
 G185E-6188-MONOMER,probable 23S rRNA methyltransferase,Rv1988(),BioCyc
 G185E-7983-MONOMER,possible antitoxin,Rv3697A(),BioCyc
-G185E-6570-MONOMER,probable deoxyguanosine triphosphate triphosphohydrolase,Rv2344c(4),BioCyc
+G185E-6570-MONOMER,probable deoxyguanosine triphosphate triphosphohydrolase,Rv2344c(),BioCyc
 G185E-4664-MONOMER,possible conserved membrane protein,Rv0531(),BioCyc
 G185E-5044-MONOMER,probable transcriptional regulatory protein (probably LuxR-family),Rv0890c(),BioCyc
 G185E-6841-MONOMER,probable conserved membrane protein,Rv2599(),BioCyc
@@ -2053,13 +2053,13 @@ G185E-7556-MONOMER,Maf-like protein Rv3282,Rv3282(),BioCyc
 G185E-6137-MONOMER,probable riboflavin biosynthesis protein,Rv1940(),BioCyc
 G185E-7928-MONOMER,probable cold shock protein A,Rv3648c(),BioCyc
 G185E-6517-MONOMER,probable chaperone protein,Rv2299c(),BioCyc
-G185E-4612-MONOMER,probable short-chain type oxidoreductase,Rv0484c(4),BioCyc
+G185E-4612-MONOMER,probable short-chain type oxidoreductase,Rv0484c(),BioCyc
 G185E-4993-MONOMER,conserved hypothetical protein,Rv0839(),BioCyc
 G185E-6788-MONOMER,conserved protein,Rv2548A(),BioCyc
 G185E-5370-MONOMER,probable conserved integral membrane transport protein,Rv1200(),BioCyc
 G185E-7162-MONOMER,conserved hypothetical protein,Rv2910c(),BioCyc
 G185E-5748-MONOMER,possible antitoxin,Rv1560(),BioCyc
-G185E-4343-MONOMER,probable aldehyde dehydrogenase,Rv0223c(4),BioCyc
+G185E-4343-MONOMER,probable aldehyde dehydrogenase,Rv0223c(),BioCyc
 G185E-7540-MONOMER,dTDP-6-deoxy-L-lyxo-4-hexulose reductase,Rv3266c(1),BioCyc
 G185E-6121-MONOMER,unknown protein,Rv1924c(),BioCyc
 G185E-7911-MONOMER,possible conserved membrane protein,Rv3632(),BioCyc
@@ -2072,7 +2072,7 @@ G185E-7146-MONOMER,probable integrase/recombinase,Rv2894c(),BioCyc
 G185E-5732-MONOMER,possible ketoacyl reductase,Rv1544(),BioCyc
 G185E-4327-MONOMER,conserved hypothetical protein,Rv0207c(),BioCyc
 G185E-7524-MONOMER,rubredoxin 1,Rv3250c(),BioCyc
-G185E-6105-MONOMER,catalase-peroxidase KatG monomer,Rv1908c(4),BioCyc
+G185E-6105-MONOMER,catalase-peroxidase KatG monomer,Rv1908c(),BioCyc
 G185E-7895-MONOMER,"ESX-1 secretion-associated protein A,",Rv3616c(),BioCyc
 G185E-6485-MONOMER,II-dihydromenaquinone-9 &omega;-hydroxylase,Rv2268c(),BioCyc
 G185E-4580-MONOMER,conserved protein,Rv0455c(),BioCyc
@@ -2091,7 +2091,7 @@ G185E-4940-MONOMER,conserved protein,Rv0791c(),BioCyc
 G185E-6738-MONOMER,probable acetyl-/propionyl-CoA carboxylase (beta subunit),Rv2502c(),BioCyc
 G185E-5319-MONOMER,probable transcriptional regulatory protein,Rv1152(),BioCyc
 G185E-7114-MONOMER,possible antitoxin,Rv2862A(),BioCyc
-G185E-5700-MONOMER,probable nucleotide-sugar epimerase,Rv1512(2),BioCyc
+G185E-5700-MONOMER,probable nucleotide-sugar epimerase,Rv1512(),BioCyc
 G185E-4295-MONOMER,probable conserved Mce associated protein,Rv0177(),BioCyc
 G185E-7492-MONOMER,biotinylated protein,Rv3221c(),BioCyc
 G185E-6072-MONOMER,probable conserved integral membrane protein,Rv1877(),BioCyc
@@ -2101,7 +2101,7 @@ G185E-4548-MONOMER,probable thiamine biosynthesis protein,Rv0423c(1),BioCyc
 G185E-4924-MONOMER,conserved hypothetical protein,Rv0776c(),BioCyc
 G185E-6722-MONOMER,probable enoyl-CoA hydratase,Rv2486(),BioCyc
 G185E-5302-MONOMER,possible acetyl-CoA acetyltransferase,Rv1135A(),BioCyc
-G185E-7098-MONOMER,multifunctional siroheme synthase,Rv2847c(2),BioCyc
+G185E-7098-MONOMER,multifunctional siroheme synthase,Rv2847c(),BioCyc
 G185E-5684-MONOMER,dodecin subunit,Rv1498A(),BioCyc
 G185E-4279-MONOMER,,Rv0161(),BioCyc
 G185E-7475-MONOMER,conserved protein,Rv3205c(),BioCyc
@@ -2118,7 +2118,7 @@ G185E-4263-MONOMER,possible S-adenosylmethionine-dependent methyltransferase,Rv0
 G185E-7459-MONOMER,conserved hypothetical alanine and proline-rich protein,Rv3192(),BioCyc
 G185E-6040-MONOMER,possible sensor-transducer protein,Rv1845c(),BioCyc
 G185E-7830-MONOMER,"3-[(3a<i>S</i>,4<i>S</i>,5<i>R</i>,7a<i>S</i>)-5-hydroxy-7a-methyl-1-oxo-octahydro-1<i>H</i>-indene-4-carboxyl-CoA dehydrogenase",Rv3553(),BioCyc
-G185E-6418-MONOMER,probable cobalamin 5'-phosphate synthase,Rv2208(1),BioCyc
+G185E-6418-MONOMER,probable cobalamin 5'-phosphate synthase,Rv2208(),BioCyc
 G185E-4516-MONOMER,type II NADH:menaquinone oxidoreductase NdhA,Rv0392c(),BioCyc
 G185E-8209-MONOMER,possible alternative RNA polymerase sigma factor SigM,Rv3911(),BioCyc
 G185E-4890-MONOMER,conserved hypothetical protein,Rv0745(),BioCyc
@@ -2133,12 +2133,12 @@ G185E-7814-MONOMER,3-oxosteroid 1-dehydrogenase,Rv3537(),BioCyc
 G185E-6401-MONOMER,Putative bifunctional exonuclease/endonuclease protein Rv2191,Rv2191(),BioCyc
 G185E-4500-MONOMER,conserved hypothetical protein,Rv0376c(),BioCyc
 G185E-8193-MONOMER,ESX conserved component EccB2. ESX-2 type VII secretion system protein. Probable membrane protein.,Rv3895c(),BioCyc
-G185E-4874-MONOMER,possible D-xylulose kinase,Rv0729(2),BioCyc
+G185E-4874-MONOMER,possible D-xylulose kinase,Rv0729(),BioCyc
 G185E-6671-MONOMER,probable glutamate 5-kinase protein,Rv2439c(4),BioCyc
 G185E-5253-MONOMER,probable cellulase,Rv1089A(),BioCyc
 G185E-7050-MONOMER,toxin,Rv2801c(),BioCyc
 G185E-5636-MONOMER,possible transcriptional activator protein,Rv1453(),BioCyc
-G185E-4231-MONOMER,"possible D-alpha,beta-D-heptose-1,7-biphosphate phosphatase",Rv0114(1),BioCyc
+G185E-4231-MONOMER,"possible D-alpha,beta-D-heptose-1,7-biphosphate phosphatase",Rv0114(),BioCyc
 G185E-7426-MONOMER,possible dioxygenase,Rv3161c(),BioCyc
 G185E-6008-MONOMER,conserved hypothetical protein,Rv1813c(),BioCyc
 G185E-7798-MONOMER,conserved hypothetical protein,Rv3521(),BioCyc
@@ -2172,7 +2172,7 @@ G185E-7002-MONOMER,probable dihydrodipicolinate synthase,Rv2753c(4),BioCyc
 G185E-5588-MONOMER,putative methyltransferase,Rv1405c(),BioCyc
 G185E-4183-MONOMER,probable oxidoreductase,Rv0068(),BioCyc
 G185E-5958-MONOMER,putative transposase for insertion sequence element IS6110 (fragment),Rv1763(),BioCyc
-G185E-7380-MONOMER,probable molybdenum cofactor biosynthesis protein MoeB2,Rv3116(1),BioCyc
+G185E-7380-MONOMER,probable molybdenum cofactor biosynthesis protein MoeB2,Rv3116(),BioCyc
 G185E-7749-MONOMER,conserved protein,Rv3472(),BioCyc
 G185E-6335-MONOMER,probable oxidoreductase,Rv2129c(),BioCyc
 G185E-8130-MONOMER,SERYL-tRNA synthetase,Rv3834c(2),BioCyc
@@ -2187,7 +2187,7 @@ G185E-7733-MONOMER,50S ribosomal protein L17,Rv3456c(1),BioCyc
 G185E-6319-MONOMER,probable integral membrane protein,Rv2113(),BioCyc
 G185E-8114-MONOMER,Putative Rieske 2Fe-2S iron-sulfur protein Rv3818,Rv3818(),BioCyc
 G185E-4794-MONOMER,50S ribosomal protein L10,Rv0651(1),BioCyc
-G185E-5173-MONOMER,50S ribosomal protein L25,Rv1015c(1),BioCyc
+G185E-5173-MONOMER,50S ribosomal protein L25,Rv1015c(),BioCyc
 G185E-6970-MONOMER,conserved hypothetical protein,Rv2722(),BioCyc
 G185E-5555-MONOMER,glycolipid sulfotransferase,Rv1373(),BioCyc
 G185E-4151-MONOMER,probable conserved integral membrane protein,Rv0037c(),BioCyc
@@ -2224,7 +2224,7 @@ G185E-6922-MONOMER,probable peptide methionine sulfoxide reductase,Rv2674(1),Bio
 G185E-5505-MONOMER,"1,4-alpha-glucan branching enzyme",Rv1326c(1),BioCyc
 G185E-7297-MONOMER,probable conserved secreted protein,Rv3036c(),BioCyc
 G185E-5877-MONOMER,probable conserved ATP-binding protein ABC transporter,Rv1687c(),BioCyc
-G185E-7669-MONOMER,nucleoside hydrolase IunH,Rv3393(1),BioCyc
+G185E-7669-MONOMER,nucleoside hydrolase IunH,Rv3393(),BioCyc
 G185E-6251-MONOMER,mycoketide-CoA synthase,Rv2048c(),BioCyc
 G185E-8047-MONOMER,possible osmoprotectant (glycine betaine/carnitine/choline/L-proline) transport integral membrane protein ABC transporter,Rv3756c(),BioCyc
 G185E-6632-MONOMER,Trehalase,Rv2402(),BioCyc
@@ -2247,7 +2247,7 @@ G185E-5845-MONOMER,probable acetylornithine aminotransferase,Rv1655(2),BioCyc
 G185E-7637-MONOMER,Pentapeptide repeat protein MfpA,Rv3361c(),BioCyc
 G185E-6218-MONOMER,hypothetical protein,Rv2016(),BioCyc
 G185E-8014-MONOMER,probable cutinase [second part],Rv3724B(),BioCyc
-G185E-6599-MONOMER,probable chaperone protein,Rv2373c(),BioCyc
+G185E-6599-MONOMER,probable chaperone protein,Rv2373c(2),BioCyc
 G185E-4693-MONOMER,2-heptyl-1-hydroxy-4(1<i>H</i>)-quinolinone methyltransferase,Rv0560c(),BioCyc
 G185E-5073-MONOMER,GCN5-related N-acetyltransferase,Rv0919(),BioCyc
 G185E-6870-MONOMER,hypoxic response protein 1,Rv2626c(),BioCyc
@@ -2257,7 +2257,7 @@ G185E-5829-MONOMER,conserved hypothetical membrane protein,Rv1639c(),BioCyc
 G185E-4425-MONOMER,probable transcriptional regulatory protein (probably TetR/AcrR-family),Rv0302(),BioCyc
 G185E-7621-MONOMER,PE-PGRS family protein PE_PGRS50,Rv3345c(),BioCyc
 G185E-6201-MONOMER,probable conserved integral membrane protein,Rv1999c(),BioCyc
-G185E-7996-MONOMER,aspartokinase,Rv3709c(4),BioCyc
+G185E-7996-MONOMER,aspartokinase,Rv3709c(),BioCyc
 G185E-6583-MONOMER,probable glycyl-tRNA synthetase,Rv2357c(),BioCyc
 G185E-4677-MONOMER,possible conserved transmembrane protein,Rv0544c(),BioCyc
 G185E-5057-MONOMER,two component response transcriptional regulatory protein,Rv0903c(),BioCyc
@@ -2277,7 +2277,7 @@ G185E-5419-MONOMER,2-hydroxy-3-oxoadipate synthase,Rv1248c(),BioCyc
 G185E-7211-MONOMER,[&alpha;-L-rhamnopyranosyl-(1&rarr;3)-2-<i>O</i>-methyl-&alpha;-L-rhamnopyranosyl] dimycocerosyl phenol-phthiocerol fucosyltransferase,Rv2957(),BioCyc
 G185E-5796-MONOMER,probable peroxidoxin,Rv1608c(),BioCyc
 G185E-4392-MONOMER,probable fatty-acid-CoA ligase,Rv0270(),BioCyc
-G185E-7588-MONOMER,probable adenosine deaminase,Rv3313c(1),BioCyc
+G185E-7588-MONOMER,probable adenosine deaminase,Rv3313c(),BioCyc
 G185E-6169-MONOMER,possible Mce-family lipoprotein,Rv1970(),BioCyc
 G185E-7963-MONOMER,probable anion transporter ATPase,Rv3679(),BioCyc
 G185E-6550-MONOMER,possible transmembrane ATP-binding protein ABC transporter,Rv2326c(),BioCyc
@@ -2287,7 +2287,7 @@ G185E-6822-MONOMER,probable histidyl-tRNA synthetase,Rv2580c(2),BioCyc
 G185E-5403-MONOMER,conserved protein,Rv1232c(),BioCyc
 G185E-7195-MONOMER,phthiocerol dimycocerosate exporter MmpL7,Rv2942(),BioCyc
 G185E-5780-MONOMER,Probable inactive lipase Rv1592c,Rv1592c(),BioCyc
-G185E-4376-MONOMER,probable bifunctional cobalamin biosynthesis protein CobU: cobinamide kinase + cobinamide phosphate guanylyltransferase,Rv0254c(2),BioCyc
+G185E-4376-MONOMER,probable bifunctional cobalamin biosynthesis protein CobU: cobinamide kinase + cobinamide phosphate guanylyltransferase,Rv0254c(),BioCyc
 G185E-7192-MONOMER,phenolphthiocerol/phthiocerol/phthiodiolone dimycocerosyl transferase,Rv2939(),BioCyc
 G185E-5777-MONOMER,probable biotin synthetase,Rv1589(2),BioCyc
 G185E-4373-MONOMER,heat shock protein,Rv0251c(),BioCyc
@@ -2303,7 +2303,7 @@ G185E-7176-MONOMER,conserved protein,Rv2923c(),BioCyc
 G185E-5761-MONOMER,probable PhiRv1 phage protein,Rv1573(),BioCyc
 G185E-4356-MONOMER,possible arabinofuranosyltransferase,Rv0236c(),BioCyc
 G185E-7553-MONOMER,possible bifunctional protein BirA: biotin operon repressor + biotin--[acetyl-CoA-carboxylase] synthetase (biotin--protein ligase),Rv3279c(),BioCyc
-G185E-6134-MONOMER,possible oxygenase,Rv1937(1),BioCyc
+G185E-6134-MONOMER,possible oxygenase,Rv1937(),BioCyc
 G185E-7925-MONOMER,probable conserved transmembrane protein,Rv3645(),BioCyc
 G185E-6514-MONOMER,probable haloalkane dehalogenase,Rv2296(),BioCyc
 G185E-4609-MONOMER,hypothetical protein,Rv0481c(),BioCyc
@@ -2343,7 +2343,7 @@ G185E-4561-MONOMER,probable CDP-diacylglycerol--serine O-phosphatidyltransferase
 G185E-4937-MONOMER,probable phosphoribosylformylglycinamidine synthase I PURG,Rv0788(),BioCyc
 G185E-6735-MONOMER,possible oxidase regulatory-related protein,Rv2499c(),BioCyc
 G185E-5315-MONOMER,conserved hypothetical protein,Rv1148c(),BioCyc
-G185E-7111-MONOMER,probable glutamine synthetase,Rv2860c(12),BioCyc
+G185E-7111-MONOMER,probable glutamine synthetase,Rv2860c(),BioCyc
 G185E-5697-MONOMER,hypothetical protein,Rv1509(),BioCyc
 G185E-4292-MONOMER,mce-family protein Mce1F,Rv0174(),BioCyc
 G185E-7489-MONOMER,conserved protein,Rv3218(),BioCyc
@@ -2352,7 +2352,7 @@ G185E-7859-MONOMER,"probable 2C-methyl-D-erythritol 2,4-cyclodiphosphate synthas
 G185E-6448-MONOMER,probable conserved transmembrane protein,Rv2235(),BioCyc
 G185E-4545-MONOMER,possible transmembrane protein,Rv0420c(),BioCyc
 G185E-4921-MONOMER,probable bifunctional acylase GgtA: cephalosporin acylase (GL-7ACA acylase) + gamma-glutamyltranspeptidase (GGT),Rv0773c(),BioCyc
-G185E-6718-MONOMER,possible transmembrane phospholipid biosynthesis bifunctional enzyme PlsC: putative L-3-phosphoserine phosphatase (O-phosphoserine phosphohydrolase) (PSP) (pspase) + 1-acyl-SN-glycerol-3-phosphate acyltransferase (1-AGP acyltransferase) (1-AGPAT) (lysophosphatidic acid acyltransferase) (LPAAT),Rv2483c(1),BioCyc
+G185E-6718-MONOMER,possible transmembrane phospholipid biosynthesis bifunctional enzyme PlsC: putative L-3-phosphoserine phosphatase (O-phosphoserine phosphohydrolase) (PSP) (pspase) + 1-acyl-SN-glycerol-3-phosphate acyltransferase (1-AGP acyltransferase) (1-AGPAT) (lysophosphatidic acid acyltransferase) (LPAAT),Rv2483c(),BioCyc
 G185E-5299-MONOMER,probable 5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase,Rv1133c(1),BioCyc
 G185E-7095-MONOMER,conserved alanine rich protein,Rv2844(),BioCyc
 G185E-5681-MONOMER,possible transport system kinase,Rv1496(),BioCyc
@@ -2360,7 +2360,7 @@ G185E-4276-MONOMER,probable transcriptional regulatory protein (possibly TetR-fa
 G185E-7472-MONOMER,possible ATP-dependent DNA helicase,Rv3202c(),BioCyc
 G185E-6053-MONOMER,probable molybdenum-transport integral membrane protein ABC transporter,Rv1858(),BioCyc
 G185E-7843-MONOMER,arylamine N-acetyltransferase,Rv3566c(2),BioCyc
-G185E-6431-MONOMER,glutamine synthetase,Rv2220(12),BioCyc
+G185E-6431-MONOMER,glutamine synthetase,Rv2220(),BioCyc
 G185E-4529-MONOMER,fatty-acid-AMP ligase,Rv0404(),BioCyc
 G185E-8222-MONOMER,50S ribosomal protein L34,Rv3924c(),BioCyc
 G185E-4904-MONOMER,unknown protein,Rv0756c(),BioCyc
@@ -2368,7 +2368,7 @@ G185E-6702-MONOMER,conserved protein,Rv2468c(),BioCyc
 G185E-5283-MONOMER,conserved protein,Rv1117(),BioCyc
 G185E-7079-MONOMER,conserved hypothetical protein,Rv2828A(),BioCyc
 G185E-5665-MONOMER,probable membrane protein,Rv1481(),BioCyc
-G185E-4260-MONOMER,probable conserved transmembrane protein,Rv0143c(1),BioCyc
+G185E-4260-MONOMER,probable conserved transmembrane protein,Rv0143c(),BioCyc
 G185E-7455-MONOMER,hypothetical protein,Rv3190c(),BioCyc
 G185E-6037-MONOMER,conserved hypothetical membrane protein,Rv1842c(),BioCyc
 G185E-7827-MONOMER,"(5<i>R</i>,7a<i>S</i>)-7a-methyl-1,5-dioxo-3,5,6,7-tetrahydro-2<i>H</i>-indene-4-carboxyl-CoA hydrolase",Rv3550(),BioCyc
@@ -2383,7 +2383,7 @@ G185E-5649-MONOMER,conserved protein,Rv1466(),BioCyc
 G185E-4244-MONOMER,maltokinase,Rv0127(),BioCyc
 G185E-7439-MONOMER,probable short-chain dehydrogenase/reductase,Rv3174(),BioCyc
 G185E-6021-MONOMER,probable glycine cleavage system H protein,Rv1826(),BioCyc
-G185E-7811-MONOMER,4-hydroxy-2-oxohexanoate aldolase monomer,Rv3534c(1),BioCyc
+G185E-7811-MONOMER,4-hydroxy-2-oxohexanoate aldolase monomer,Rv3534c(),BioCyc
 G185E-6398-MONOMER,phosphatidyl-myo-inositol mannoside synthase 2,Rv2188c(),BioCyc
 G185E-4497-MONOMER,carbon monoxide dehydrogenase subunit L,Rv0373c(),BioCyc
 G185E-8190-MONOMER,PPE family protein PPE69,Rv3892c(),BioCyc
@@ -2435,13 +2435,13 @@ G185E-4807-MONOMER,possible antitoxin,Rv0664(),BioCyc
 G185E-5184-MONOMER,conserved protein,Rv1025(),BioCyc
 G185E-6983-MONOMER,conserved hypothetical protein,Rv2735c(),BioCyc
 G185E-5569-MONOMER,PE family protein PE15,Rv1386(),BioCyc
-G185E-4164-MONOMER,probable bifunctional penicillin-binding protein 1A/1B,Rv0050(2),BioCyc
+G185E-4164-MONOMER,probable bifunctional penicillin-binding protein 1A/1B,Rv0050(),BioCyc
 G185E-5939-MONOMER,probable membrane protein,Rv1744c(),BioCyc
 G185E-7360-MONOMER,hypothetical protein,Rv3098c(),BioCyc
 G185E-7730-MONOMER,possible conserved transmembrane protein,Rv3453(),BioCyc
 G185E-6315-MONOMER,proteasome alpha subunit PrcA; assembles with beta subunit PrcB.,Rv2109c(),BioCyc
 G185E-8111-MONOMER,possible acyltransferase,Rv3815c(),BioCyc
-G185E-4791-MONOMER,alpha-mannosidase,Rv0648(1),BioCyc
+G185E-4791-MONOMER,alpha-mannosidase,Rv0648(),BioCyc
 G185E-5170-MONOMER,hypothetical protein,Rv1012(),BioCyc
 G185E-6967-MONOMER,possible conserved membrane protein,Rv2719c(),BioCyc
 G185E-5552-MONOMER,putative transposase for insertion sequence element IS6110 (fragment),Rv1370c(),BioCyc
@@ -2467,7 +2467,7 @@ G185E-6935-MONOMER,"ABC family efflux transporter, membrane subunit",Rv2687c(),B
 G185E-5518-MONOMER,conserved protein,Rv1339(),BioCyc
 G185E-4113-MONOMER,DNA polymerase III (beta chain),Rv0002(),BioCyc
 G185E-7311-MONOMER,probable transcriptional regulatory protein (probably AsnC-family),Rv3050c(),BioCyc
-G185E-5891-MONOMER,8-oxo-dGDP phosphatase,Rv1700(),BioCyc
+G185E-5891-MONOMER,8-oxo-dGDP phosphatase,Rv1700(3),BioCyc
 G185E-7682-MONOMER,possible transcriptional regulatory protein,Rv3405c(),BioCyc
 G185E-6265-MONOMER,conserved protein,Rv2061c(),BioCyc
 G185E-8060-MONOMER,hypothetical protein,Rv3769(),BioCyc
@@ -2526,12 +2526,12 @@ G185E-6182-MONOMER,possible antitoxin,Rv1982A(),BioCyc
 G185E-7977-MONOMER,probable methanol dehydrogenase transcriptional regulatory protein,Rv3692(),BioCyc
 G185E-6563-MONOMER,possible molybdopterin biosynthesis protein,Rv2338c(),BioCyc
 G185E-4658-MONOMER,possible thioredoxin protein (thiol-disulfide interchange protein),Rv0526(),BioCyc
-G185E-5038-MONOMER,possible phosphoserine aminotransferase,Rv0884c(),BioCyc
+G185E-5038-MONOMER,possible phosphoserine aminotransferase,Rv0884c(2),BioCyc
 G185E-6835-MONOMER,probable holliday junction DNA helicase,Rv2593c(),BioCyc
 G185E-5416-MONOMER,probable short-chain type dehydrogenase/reductase,Rv1245c(),BioCyc
 G185E-7208-MONOMER,"[2,4-di-<i>O</i>-methyl-&alpha;-L-fucopyranosyl-(1&rarr;3)-&alpha;-L-rhamnopyranosyl-(1&rarr;3)-2-<i>O</i>-methyl-&alpha;-L-rhamnopyranosyl] dimycocerosyl phenol-phthiocerol 3'''-<i>O</i>-methyltransferase",Rv2954c(),BioCyc
 G185E-5793-MONOMER,probable cyclase,Rv1605(),BioCyc
-G185E-4389-MONOMER,NarK family protein,Rv0267(1),BioCyc
+G185E-4389-MONOMER,NarK family protein,Rv0267(),BioCyc
 G185E-7585-MONOMER,conserved protein,Rv3311(),BioCyc
 G185E-6166-MONOMER,mce-family protein Mce3B,Rv1967(),BioCyc
 G185E-7960-MONOMER,possible hydrolase,Rv3677c(),BioCyc
@@ -2574,12 +2574,12 @@ G185E-6495-MONOMER,possible glycerolphosphodiesterase,Rv2277c(),BioCyc
 G185E-4590-MONOMER,probable conserved membrane protein,Rv0463(),BioCyc
 G185E-4966-MONOMER,probable conserved exported protein,Rv0817c(),BioCyc
 G185E-6766-MONOMER,probable restriction system protein,Rv2528c(),BioCyc
-G185E-5347-MONOMER,probable aminotransferase,Rv1178(2),BioCyc
+G185E-5347-MONOMER,probable aminotransferase,Rv1178(),BioCyc
 G185E-7140-MONOMER,probable amidase,Rv2888c(),BioCyc
 G185E-5726-MONOMER,probable L-asparaginase,Rv1538c(4),BioCyc
 G185E-4321-MONOMER,conserved protein,Rv0201c(),BioCyc
 G185E-7518-MONOMER,probable conserved lipoprotein,Rv3244c(),BioCyc
-G185E-6099-MONOMER,probable sialic acid-transport integral membrane protein,Rv1902c(1),BioCyc
+G185E-6099-MONOMER,probable sialic acid-transport integral membrane protein,Rv1902c(),BioCyc
 G185E-7889-MONOMER,membrane-bound protease,Rv3610c(),BioCyc
 G185E-6479-MONOMER,conserved hypothetical protein,Rv2262c(),BioCyc
 G185E-4574-MONOMER,conserved hypothetical protein,Rv0449c(),BioCyc
@@ -2600,18 +2600,18 @@ G185E-5312-MONOMER,probable conserved transmembrane transport protein,Rv1145(),B
 G185E-7108-MONOMER,probable short-chain type dehydrogenase/reductase,Rv2857c(),BioCyc
 G185E-5694-MONOMER,hypothetical protein,Rv1507A(),BioCyc
 G185E-4289-MONOMER,mce-family protein Mce1C,Rv0171(),BioCyc
-G185E-7485-MONOMER,acid phosphatase,Rv3214(),BioCyc
+G185E-7485-MONOMER,acid phosphatase,Rv3214(1),BioCyc
 G185E-6066-MONOMER,conserved protein,Rv1871c(),BioCyc
-G185E-7856-MONOMER,possible arsenical pump integral membrane protein,Rv3578(2),BioCyc
+G185E-7856-MONOMER,possible arsenical pump integral membrane protein,Rv3578(),BioCyc
 G185E-6445-MONOMER,possible antitoxin,Rv2231B(),BioCyc
 G185E-4542-MONOMER,probable thiamin biosynthesis protein,Rv0417(1),BioCyc
 G185E-4918-MONOMER,probable dehydrogenase/reductase,Rv0770(),BioCyc
 G185E-6715-MONOMER,possible transposase for insertion sequence element IS6110 (fragment),Rv2480c(),BioCyc
 G185E-5296-MONOMER,possible methylcitrate dehydratase,Rv1130(1),BioCyc
 G185E-7092-MONOMER,probable N utilization substance protein A,Rv2841c(1),BioCyc
-G185E-5678-MONOMER,probable methylmalonyl-CoA mutase large subunit,Rv1493(2),BioCyc
+G185E-5678-MONOMER,probable methylmalonyl-CoA mutase large subunit,Rv1493(),BioCyc
 G185E-4273-MONOMER,probable NAD(P) transhydrogenase (subunit alpha),Rv0156(),BioCyc
-G185E-7469-MONOMER,probable NADH pyrophosphatase,Rv3199c(1),BioCyc
+G185E-7469-MONOMER,probable NADH pyrophosphatase,Rv3199c(),BioCyc
 G185E-6050-MONOMER,possible oxidoreductase,Rv1855c(),BioCyc
 G185E-7840-MONOMER,7-carboxy-5-methyl-4-oxoheptanoyl-CoA dehydrogenase,Rv3563(),BioCyc
 G185E-6428-MONOMER,probable lipoate biosynthesis protein A,Rv2218(2),BioCyc
@@ -2672,8 +2672,8 @@ G185E-4193-MONOMER,probable transcriptional regulatory protein,Rv0078(),BioCyc
 G185E-5968-MONOMER,hypothetical protein,Rv1772(),BioCyc
 G185E-7390-MONOMER,hypothetical protein,Rv3126c(),BioCyc
 G185E-7759-MONOMER,probable conserved membrane protein,Rv3482c(),BioCyc
-G185E-6345-MONOMER,probable dihydroorotate dehydrogenase,Rv2139(1),BioCyc
-G185E-4446-MONOMER,probable UDP-glucose 6-dehydrogenase,Rv0322(1),BioCyc
+G185E-6345-MONOMER,probable dihydroorotate dehydrogenase,Rv2139(),BioCyc
+G185E-4446-MONOMER,probable UDP-glucose 6-dehydrogenase,Rv0322(),BioCyc
 G185E-8142-MONOMER,possible transposase,Rv3844(),BioCyc
 G185E-4820-MONOMER,possible conserved membrane protein,Rv0677c(),BioCyc
 G185E-5197-MONOMER,putative ESAT-6 like protein,Rv1037c(),BioCyc
@@ -2703,9 +2703,9 @@ G185E-7341-MONOMER,conserved protein,Rv3079c(),BioCyc
 G185E-5922-MONOMER,conserved hypothetical protein,Rv1728c(),BioCyc
 G185E-7711-MONOMER,possible conserved transmembrane protein,Rv3434c(),BioCyc
 G185E-6294-MONOMER,transmembrane serine/threonine-protein kinase J,Rv2088(),BioCyc
-G185E-8092-MONOMER,conserved protein,Rv3796(),BioCyc
+G185E-8092-MONOMER,conserved protein,Rv3796(2),BioCyc
 G185E-4769-MONOMER,probable exonuclease V (gamma chain),Rv0631c(),BioCyc
-G185E-5150-MONOMER,UTP--glucose-1-phosphate uridylyltransferase,Rv0993(1),BioCyc
+G185E-5150-MONOMER,UTP--glucose-1-phosphate uridylyltransferase,Rv0993(),BioCyc
 G185E-6948-MONOMER,possible conserved secreted alanine rich protein,Rv2700(),BioCyc
 G185E-5532-MONOMER,conserved protein,Rv1352(),BioCyc
 G185E-4128-MONOMER,transmembrane serine/threonine-protein kinase A,Rv0015c(),BioCyc
@@ -2717,12 +2717,12 @@ G185E-8076-MONOMER,Bacterial proteasome activator,Rv3780(),BioCyc
 G185E-6659-MONOMER,alkyl hydroperoxide reductase C protein,Rv2428(),BioCyc
 G185E-4753-MONOMER,hypothetical protein,Rv0616c(),BioCyc
 G185E-5134-MONOMER,PE-PGRS family protein PE_PGRS17,Rv0978c(),BioCyc
-G185E-6932-MONOMER,probable arsenic-transport integral membrane protein ArsA,Rv2684(),BioCyc
+G185E-6932-MONOMER,probable arsenic-transport integral membrane protein ArsA,Rv2684(2),BioCyc
 G185E-5515-MONOMER,cysO-thiocarboxylate-dependent cysteine synthase monomer,Rv1336(),BioCyc
 G185E-7308-MONOMER,hypothetical protein,Rv3047c(),BioCyc
 G185E-5888-MONOMER,conserved hypothetical protein,Rv1697(),BioCyc
 G185E-7679-MONOMER,PLP-dependent aminotransferase,Rv3402c(),BioCyc
-G185E-6262-MONOMER,50S ribosomal protein L28,Rv2058c(1),BioCyc
+G185E-6262-MONOMER,50S ribosomal protein L28,Rv2058c(),BioCyc
 G185E-8057-MONOMER,hypothetical protein,Rv3766(),BioCyc
 G185E-6642-MONOMER,30S ribosomal protein S20,Rv2412(1),BioCyc
 G185E-4736-MONOMER,two component sensor kinase [first part],Rv0601c(),BioCyc
@@ -2769,7 +2769,7 @@ G185E-7990-MONOMER,glutamate--cysteine ligase,Rv3704c(),BioCyc
 G185E-6577-MONOMER,membrane-associated phospholipase C 1,Rv2351c(),BioCyc
 G185E-4671-MONOMER,possible conserved membrane protein,Rv0538(),BioCyc
 G185E-5051-MONOMER,probable oxidoreductase,Rv0897c(),BioCyc
-G185E-6848-MONOMER,probable acyl-CoA thioesterase II,Rv2605c(4),BioCyc
+G185E-6848-MONOMER,probable acyl-CoA thioesterase II,Rv2605c(),BioCyc
 G185E-5429-MONOMER,probable conserved integral membrane transport protein,Rv1258c(),BioCyc
 G185E-7221-MONOMER,probable pyruvate carboxylase,Rv2967c(),BioCyc
 G185E-5806-MONOMER,probable acyl-CoA thioesterase II,Rv1618(),BioCyc
@@ -2785,12 +2785,12 @@ G185E-5413-MONOMER,possible toxin VapC33. Contains PIN domain.,Rv1242(),BioCyc
 G185E-7205-MONOMER,phthiodiolone ketoreductase,Rv2951c(),BioCyc
 G185E-5790-MONOMER,probable amidotransferase,Rv1602(),BioCyc
 G185E-4386-MONOMER,conserved hypothetical protein,Rv0264c(),BioCyc
-G185E-7582-MONOMER,probable phosphomannomutase,Rv3308(),BioCyc
+G185E-7582-MONOMER,probable phosphomannomutase,Rv3308(1),BioCyc
 G185E-6163-MONOMER,conserved hypothetical integral membrane protein,Rv1964(),BioCyc
 G185E-7957-MONOMER,probable endonuclease III,Rv3674c(),BioCyc
 G185E-6544-MONOMER,probable cationic amino acid transport integral membrane protein,Rv2320c(1),BioCyc
 G185E-4639-MONOMER,probable conserved transmembrane transport protein,Rv0507(),BioCyc
-G185E-5019-MONOMER,probable molybdopterin biosynthesis Mog protein,Rv0865(1),BioCyc
+G185E-5019-MONOMER,probable molybdopterin biosynthesis Mog protein,Rv0865(),BioCyc
 G185E-5016-MONOMER,conserved protein,Rv0862c(),BioCyc
 G185E-6813-MONOMER,probable transmembrane alanine and valine and leucine rich protein,Rv2571c(),BioCyc
 G185E-5394-MONOMER,probable serine protease,Rv1223(),BioCyc
@@ -2802,7 +2802,7 @@ G185E-6144-MONOMER,hypothetical protein,Rv1947(),BioCyc
 G185E-7936-MONOMER,Apoptosis inhibitor Rv3655c,Rv3655c(),BioCyc
 G185E-6524-MONOMER,possible conserved membrane protein,Rv2306A(),BioCyc
 G185E-4620-MONOMER,two component sensory transduction protein,Rv0491(),BioCyc
-G185E-5000-MONOMER,multicopper oxidase,Rv0846c(1),BioCyc
+G185E-5000-MONOMER,multicopper oxidase,Rv0846c(),BioCyc
 G185E-6795-MONOMER,probable alanyl-tRNA synthetase,Rv2555c(4),BioCyc
 G185E-5377-MONOMER,dihydropteroate synthase 2,Rv1207(),BioCyc
 G185E-7169-MONOMER,conserved hypothetical alanine and arginine rich protein,Rv2917(),BioCyc
@@ -2819,12 +2819,12 @@ G185E-5360-MONOMER,conserved protein,Rv1191(),BioCyc
 G185E-7153-MONOMER,conserved protein,Rv2901c(),BioCyc
 G185E-5739-MONOMER,possible acyltransferase,Rv1551(),BioCyc
 G185E-4334-MONOMER,probable fatty-acid-CoA ligase,Rv0214(),BioCyc
-G185E-7531-MONOMER,probable phosphomannomutase,Rv3257c(1),BioCyc
+G185E-7531-MONOMER,probable phosphomannomutase,Rv3257c(),BioCyc
 G185E-6112-MONOMER,probable isocitrate lyase,Rv1915(),BioCyc
 G185E-7902-MONOMER,probable conserved lipoprotein,Rv3623(),BioCyc
 CPLX185E-59,predicted ABC transporter of L-glutamine,Rv2564() AND Rv2563(),BioCyc
 G185E-6492-MONOMER,possible antitoxin,Rv2274A(),BioCyc
-CPLX185E-38,menaquinone:nitrate oxidoreductase,Rv1164() AND Rv1162() AND Rv1161(),BioCyc
+CPLX185E-38,menaquinone:nitrate oxidoreductase,Rv1164(1) AND Rv1162(1) AND Rv1161(1),BioCyc
 G185E-4587-MONOMER,conserved hydrophobic protein,Rv0460(),BioCyc
 CPLX185E-21,succinate:menaquinone oxidoreductase II,Rv3319() AND Rv3318() AND Rv3316() AND Rv3317(),BioCyc
 G185E-4963-MONOMER,conserved protein,Rv0814c(),BioCyc
@@ -2839,11 +2839,11 @@ G185E-5723-MONOMER,unknown protein,Rv1535(),BioCyc
 CPLX-8367,"3-hydroxy-9,10-seconandrost-1,3,5(10)-triene-9,17-dione 4-monooxygenase",Rv3570c(),BioCyc
 G185E-4318-MONOMER,probable zinc metalloprotease,Rv0198c(),BioCyc
 CPLX-3901,,Rv0046c(),BioCyc
-G185E-7515-MONOMER,Ribosome hibernation promotion factor,Rv3241c(),BioCyc
+G185E-7515-MONOMER,Ribosome hibernation promotion factor,Rv3241c(2),BioCyc
 CPLX185E-56,predicted ABC transporter of Mo2+,Rv1859() AND Rv1858(),BioCyc
 G185E-6096-MONOMER,possible lipoprotein,Rv1899c(),BioCyc
 CPLX185E-35,probable succinyl-CoA:3-ketoacid-coenzyme A transferase,Rv2503c(2) AND Rv2504c(2),BioCyc
-G185E-7886-MONOMER,probable dihydroneopterin aldolase,Rv3607c(),BioCyc
+G185E-7886-MONOMER,probable dihydroneopterin aldolase,Rv3607c(8),BioCyc
 CPLX185E-18,probable acetyl-/propionyl-CoA carboxylase,Rv2501c() AND Rv2502c(),BioCyc
 G185E-6476-MONOMER,mycothiol-dependent formaldehyde dehydrogenase subunit,Rv2259(),BioCyc
 CPLX185E-87,<i>S</i>-adenosyl-L-methionine-dependent methyltransferase,Rv2258c(),BioCyc
@@ -2859,25 +2859,25 @@ CPLX185E-53,predicted ABC transporter of an oligopeptide,Rv1281c() AND Rv1283c()
 G185E-5707-MONOMER,conserved hypothetical protein,Rv1519(),BioCyc
 CPLX185E-31,probable exodeoxyribonuclease VII,Rv1107c() AND Rv1108c(),BioCyc
 G185E-4302-MONOMER,conserved hypothetical protein,Rv0184(),BioCyc
-CPLX185E-15,probable,Rv1286(4) AND Rv1285(4),BioCyc
+CPLX185E-15,probable,Rv1285() AND Rv1286(),BioCyc
 G185E-7499-MONOMER,"GCN5-related N-acetyltransferase, phosphorylase",Rv3225c(),BioCyc
 CPLX185E-84,"bifunctional <i>N</i>-acetyltransferase / uridylyltransferase, GlmU",Rv1018c(3),BioCyc
 G185E-6079-MONOMER,probable resuscitation-promoting factor,Rv1884c(),BioCyc
 CPLX-9525,3-oxoacyl-[acyl carrier protein] synthase III,Rv0533c(2),BioCyc
 G185E-7869-MONOMER,possible hydrolase,Rv3591c(),BioCyc
 CPLX185E-69,ABC family efflux transporter,Rv2687c() AND Rv2686c() AND Rv2688c(),BioCyc
-G185E-6460-MONOMER,meromycolate extension acyl carrier protein,Rv2244(),BioCyc
-CPLX-8830,meromycolic acid 3-oxoacyl-[acyl-carrier-protein] reductase,Rv1483(1),BioCyc
+G185E-6460-MONOMER,meromycolate extension acyl carrier protein,Rv2244(1),BioCyc
+CPLX-8830,meromycolic acid 3-oxoacyl-[acyl-carrier-protein] reductase,Rv1483(),BioCyc
 G185E-4555-MONOMER,conserved hypothetical protein,Rv0430(),BioCyc
 CPLX-7953,<i>N</i>-acetyl-1-D-<i>myo</i>-inositol-2-amino-2-deoxy-&alpha;-D-glucopyranoside deacetylase,Rv1170(),BioCyc
 G185E-4931-MONOMER,possible multidrug resistance integral membrane efflux protein,Rv0783c(),BioCyc
 CPLX185E-50,carbon monoxide deydrogenase,Rv0373c() AND Rv0375c() AND Rv0374c(),BioCyc
 G185E-6729-MONOMER,possible antitoxin,Rv2493(),BioCyc
 CPLX185E-28,probable carbamoyl-phosphate synthase,Rv1383(2) AND Rv1384(2),BioCyc
-G185E-5309-MONOMER,2-trans-enoyl-ACP isomerase,Rv1142c(1),BioCyc
+G185E-5309-MONOMER,2-trans-enoyl-ACP isomerase,Rv1142c(),BioCyc
 CPLX185E-97,non-heme di-iron catalase,Rv2633c(),BioCyc
 G185E-7105-MONOMER,unknown protein,Rv2854(),BioCyc
-CPLX185E-12,cytochrome <i>bd</i>-type menaquinol oxidase,Rv1622c() AND Rv1623c(),BioCyc
+CPLX185E-12,cytochrome <i>bd</i>-type menaquinol oxidase,Rv1623c(1) AND Rv1622c(1),BioCyc
 G185E-5691-MONOMER,conserved hypothetical protein,Rv1505c(),BioCyc
 CPLX185E-80,dodecin,Rv1498A(),BioCyc
 G185E-4286-MONOMER,conserved integral membrane protein,Rv0168(),BioCyc
@@ -2896,9 +2896,9 @@ G185E-4915-MONOMER,Uncharacterized HTH-type transcriptional regulator Rv0767c,Rv
 CPLX185E-25,probable NAD(P) transhydrogenase,Rv0155() AND Rv0156() AND Rv0157(),BioCyc
 G185E-6712-MONOMER,probable macrolide-transport ATP-binding protein ABC transporter,Rv2477c(),BioCyc
 CPLX185E-93,ESX-1 secretion system ATPase EccB1,Rv3869(),BioCyc
-G185E-5293-MONOMER,"probable pyruvate, phosphate dikinase",Rv1127c(2),BioCyc
+G185E-5293-MONOMER,"probable pyruvate, phosphate dikinase",Rv1127c(),BioCyc
 CPLX185E-110,ABC family efflux transporter,Rv1273c() AND Rv1272c(),BioCyc
-G185E-7089-MONOMER,probable ribosome-binding factor a,Rv2838c(),BioCyc
+G185E-7089-MONOMER,probable ribosome-binding factor a,Rv2838c(1),BioCyc
 CPLX185E-78,triosephosphate isomerase,Rv1438(2),BioCyc
 G185E-5675-MONOMER,probable membrane protein,Rv1490(),BioCyc
 CPLX-9244,,Rv0946c(2),BioCyc
@@ -2943,7 +2943,7 @@ CPLX-8364,3-ketosteroid 9&alpha;-hydroxylase oxygenase component,Rv3526(),BioCyc
 G185E-4881-MONOMER,anti-sigma factor,Rv0736(),BioCyc
 CPLX185E-54,predicted ATP-driven transporter of a macrolide,Rv1668c() AND Rv1667c(),BioCyc
 G185E-6678-MONOMER,probable conserved integral membrane protein,Rv2446c(),BioCyc
-CPLX185E-32,urease,Rv1848() AND Rv1849() AND Rv1850(),BioCyc
+CPLX185E-32,urease,Rv1850() AND Rv1849() AND Rv1848(),BioCyc
 G185E-5261-MONOMER,possible glycosyl hydrolase,Rv1096(),BioCyc
 CPLX185E-16,putative menaquinol:fumarate oxidoreductase,Rv1552() AND Rv1553() AND Rv1554() AND Rv1555(),BioCyc
 G185E-7057-MONOMER,conserved hypothetical protein,Rv2807(),BioCyc
@@ -2951,7 +2951,7 @@ CPLX185E-85,,Rv3137(),BioCyc
 G185E-5643-MONOMER,<i>suf</i> operon repressor SufR,Rv1460(),BioCyc
 CPLX185E-101,argininosuccinate lyase,Rv1659(1),BioCyc
 G185E-4238-MONOMER,conserved protein,Rv0121c(),BioCyc
-CPLX185E-7,branched-chain keto acid dehydrogenase E1 component,Rv2496c() AND Rv2497c(),BioCyc
+CPLX185E-7,branched-chain keto acid dehydrogenase E1 component,Rv2497c() AND Rv2496c(),BioCyc
 G185E-7433-MONOMER,putative aminoglycoside phosphotransferase,Rv3168(),BioCyc
 CPLX-8831,meromycolic acid enoyl-[acyl-carrier-protein] reductase,Rv1484(1),BioCyc
 G185E-6015-MONOMER,probable acetolactate synthase,Rv1820(),BioCyc
@@ -2961,7 +2961,7 @@ CPLX185E-51,predicted ATP-driven transporter of an anion,Rv3680() AND Rv3679(),B
 G185E-6392-MONOMER,1-acylglycerol-3-phosphate O-acyltransferase,Rv2182c(),BioCyc
 CPLX185E-29,probable tryptophan synthase,Rv1613(2) AND Rv1612(2),BioCyc
 G185E-4491-MONOMER,hypothetical protein,Rv0367c(),BioCyc
-CPLX185E-98,"2,3-bisphosphoglycerate-dependent phosphoglycerate mutase",Rv0489(2),BioCyc
+CPLX185E-98,"2,3-bisphosphoglycerate-dependent phosphoglycerate mutase",Rv0489(),BioCyc
 G185E-8184-MONOMER,probable alanine and proline rich membrane-anchored mycosin,Rv3886c(),BioCyc
 CPLX185E-13,DNA gyrase,Rv0005() AND Rv0006(),BioCyc
 G185E-4865-MONOMER,30S ribosomal protein S5,Rv0721(1),BioCyc
@@ -2982,7 +2982,7 @@ G185E-7789-MONOMER,PE-PGRS family protein PE_PGRS56,Rv3512(),BioCyc
 CPLX185E-26,probable phenylalanyl-tRNA synthetase,Rv1650(2) AND Rv1649(2),BioCyc
 G185E-6375-MONOMER,Transcriptional regulator MraZ,Rv2166c(),BioCyc
 CPLX185E-94,putative tetracycline repressor family transcription regulator Fad35R,Rv2506(),BioCyc
-G185E-4475-MONOMER,probable,Rv0351(),BioCyc
+G185E-4475-MONOMER,probable,Rv0351(2),BioCyc
 CPLX185E-111,ABC family efflux transporter,Rv2938() AND Rv2937() AND Rv2936(),BioCyc
 G185E-8168-MONOMER,ESX conserved component EccCa1. ESX-1 type VII secretion system protein. Possible transmembrane protein.,Rv3870(),BioCyc
 CPLX185E-79,,Rv2466c(),BioCyc
@@ -2990,34 +2990,34 @@ G185E-4849-MONOMER,30S ribosomal protein S19,Rv0705(1),BioCyc
 CPLX-9245,,Rv1213(4),BioCyc
 G185E-5228-MONOMER,conserved hypothetical protein,Rv1066(),BioCyc
 CPLX-8391,"3-oxo-23,24-bisnorchol-4-en-22-oyl-CoA dehydrogenase",Rv3543c() AND Rv3544c(),BioCyc
-G185E-7025-MONOMER,probable oxidoreductase,Rv2776c(),BioCyc
+G185E-7025-MONOMER,probable oxidoreductase,Rv2776c(1),BioCyc
 CPLX-7040,,Rv0467(4),BioCyc
 G185E-5611-MONOMER,conserved hypothetical protein,Rv1428c(),BioCyc
-CPLX185E-61,predicted ATP-driven transporter of K+,Rv1029() AND Rv1030() AND Rv1031(),BioCyc
-G185E-4206-MONOMER,possible methyltransferase/methylase,Rv0089(1),BioCyc
+CPLX185E-61,predicted ATP-driven transporter of K+,Rv1029() AND Rv1031() AND Rv1030(),BioCyc
+G185E-4206-MONOMER,possible methyltransferase/methylase,Rv0089(),BioCyc
 CPLX185E-40,cysO-thiocarboxylate-dependent cysteine synthase,Rv1336(),BioCyc
 G185E-5982-MONOMER,PPE family protein PPE25,Rv1787(),BioCyc
-CPLX185E-23,probable glutamyl-tRNA(GLN) amidotransferase,Rv3009c() AND Rv3011c() AND Rv3012c(),BioCyc
+CPLX185E-23,probable glutamyl-tRNA(GLN) amidotransferase,Rv3012c() AND Rv3011c() AND Rv3009c(),BioCyc
 G185E-7404-MONOMER,probable acyl-CoA dehydrogenase,Rv3139(),BioCyc
 CPLX185E-91,,Rv0435c(),BioCyc
 G185E-7772-MONOMER,possible Mce-family lipoprotein,Rv3495c(),BioCyc
 CPLX185E-109,tuberculosinyl adenosine transferase,Rv3378c(),BioCyc
 G185E-6359-MONOMER,cell division protein FtsQ,Rv2151c(),BioCyc
-CPLX185E-76,"alpha, alpha-trehalose-phosphate synthase [ADP-forming]",Rv3490(1),BioCyc
+CPLX185E-76,"alpha, alpha-trehalose-phosphate synthase [ADP-forming]",Rv3490(),BioCyc
 G185E-4459-MONOMER,PE family protein PE6,Rv0335c(),BioCyc
-CPLX-9239,catalase-peroxidase KatG,Rv1908c(4),BioCyc
+CPLX-9239,catalase-peroxidase KatG,Rv1908c(),BioCyc
 G185E-8152-MONOMER,ethionamide monooxygenase EthA,Rv3854c(),BioCyc
 CPLX-8369,"3,4-dihydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione 4,5-dioxygenase",Rv3568c(),BioCyc
 G185E-4833-MONOMER,conserved hypothetical protein,Rv0690c(),BioCyc
-CPLX-5741,,Rv2855(2),BioCyc
-G185E-5210-MONOMER,probable oxidoreductase,Rv1050(),BioCyc
+CPLX-5741,,Rv2855(),BioCyc
+G185E-5210-MONOMER,probable oxidoreductase,Rv1050(4),BioCyc
 CPLX185E-58,predicted ABC transporter of L-glutamine,Rv0073() AND Rv0072(),BioCyc
 G185E-7009-MONOMER,possible antitoxin,Rv2760c(),BioCyc
 CPLX185E-37,probable ATP-dependent CLP protease,Rv2460c() AND Rv2461c(),BioCyc
 G185E-5595-MONOMER,probable riboflavin synthase alpha chain,Rv1412(3),BioCyc
 CPLX185E-20,steroid 3-ketoacyl-CoA thiolase,Rv3546(),BioCyc
-G185E-4190-MONOMER,probable aminotransferase,Rv0075(),BioCyc
-CPLX185E-89,transcriptional regulatory protein AldR dimer,Rv2779c(2),BioCyc
+G185E-4190-MONOMER,probable aminotransferase,Rv0075(1),BioCyc
+CPLX185E-89,transcriptional regulatory protein AldR dimer,Rv2779c(),BioCyc
 G185E-5965-MONOMER,conserved protein,Rv1769(),BioCyc
 CPLX185E-106,DNA-binding transcriptional activator,Rv1129c(),BioCyc
 G185E-7387-MONOMER,hypothetical protein,Rv3123(),BioCyc
@@ -3047,7 +3047,7 @@ CPLX-8118,thymidylate kinase,Rv3247c(),BioCyc
 G185E-7740-MONOMER,conserved protein,Rv3463(),BioCyc
 CPLX185E-52,predicted ABC transporter of an O-antigen/a lipopolysaccharide,Rv3781() AND Rv3783(),BioCyc
 G185E-6326-MONOMER,probable conserved integral membrane protein,Rv2120c(),BioCyc
-CPLX185E-30,possible anthranilate synthase,Rv0013() AND Rv1609(),BioCyc
+CPLX185E-30,possible anthranilate synthase,Rv1609() AND Rv0013(),BioCyc
 G185E-8121-MONOMER,phthioceranic/hydroxyphthioceranic acid synthase,Rv3825c(),BioCyc
 CPLX185E-99,,Rv2135c(),BioCyc
 G185E-4801-MONOMER,probable conserved integral membrane protein,Rv0658c(),BioCyc
@@ -3068,18 +3068,18 @@ G185E-7724-MONOMER,ESX conserved component EccC4. ESX-4 type VII secretion syste
 CPLX185E-27,probable exonuclease,Rv0629c() AND Rv0630c() AND Rv0631c(),BioCyc
 G185E-6309-MONOMER,possible toxin VapC37. Contains PIN domain.,Rv2103c(),BioCyc
 CPLX185E-95,ParDE2 toxin-antitoxin system,Rv2142c() AND Rv2142A(),BioCyc
-G185E-8105-MONOMER,,Rv3809c(1),BioCyc
+G185E-8105-MONOMER,,Rv3809c(),BioCyc
 CPLX185E-112,mycobactin megasynthase,Rv2377c() AND Rv2379c() AND Rv2380c() AND Rv2381c() AND Rv2382c() AND Rv2383c() AND Rv2384(),BioCyc
 G185E-4785-MONOMER,methoxymycolic acid synthase 4,Rv0642c(),BioCyc
 CPLX185E-8,NADH:menaquinone oxidoreductase I,Rv3145() AND Rv3152() AND Rv3154() AND Rv3155() AND Rv3156() AND Rv3157() AND Rv3158() AND Rv3146() AND Rv3147() AND Rv3148() AND Rv3149() AND Rv3150() AND Rv3151() AND Rv3153(),BioCyc
 G185E-5164-MONOMER,unknown protein,Rv1006(),BioCyc
-CPLX-9300,4-hydroxy-2-oxohexanoate aldolase,Rv3534c(1),BioCyc
-G185E-6961-MONOMER,probable soluble pyridine nucleotide transhydrogenase,Rv2713(8),BioCyc
+CPLX-9300,4-hydroxy-2-oxohexanoate aldolase,Rv3534c(),BioCyc
+G185E-6961-MONOMER,probable soluble pyridine nucleotide transhydrogenase,Rv2713(),BioCyc
 CPLX-8392,"3-oxo-23,24-bisnorchol-4,17(20)-dien-22-oyl-CoA hydratase",Rv3542c() AND Rv3541c(),BioCyc
 G185E-5546-MONOMER,anti-anti-sigma factor,Rv1365c(),BioCyc
 CPLX-7589,naphthoate synthase trimer,Rv0548c(6),BioCyc
 G185E-4142-MONOMER,conserved hypothetical protein,Rv0028(),BioCyc
-CPLX185E-62,sulfate ABC transporter,Rv2400c(1) AND Rv2397c(2) AND Rv2398c(1) AND Rv2399c(1),BioCyc
+CPLX185E-62,sulfate ABC transporter,Rv2397c() AND Rv2399c() AND Rv2398c() AND Rv2400c(),BioCyc
 G185E-7338-MONOMER,conserved hypothetical protein,Rv3076(),BioCyc
 CPLX185E-41,glucose-6-phosphate dehydrogenase (coenzyme-F420),Rv0407(),BioCyc
 G185E-5918-MONOMER,conserved hypothetical protein,Rv1725c(),BioCyc
@@ -3087,14 +3087,14 @@ CPLX185E-24,acetolactate synthase,Rv3002c(2) AND Rv3003c(2),BioCyc
 G185E-7708-MONOMER,possible transposase (fragment),Rv3431c(),BioCyc
 CPLX185E-92,ESX-3 secretion system protein EccA3,Rv0282(),BioCyc
 G185E-6291-MONOMER,conserved hypothetical protein,Rv2085(),BioCyc
-CPLX185E-11,nitrite reductase [NAD(P)H],Rv0252(2) AND Rv0253(1),BioCyc
+CPLX185E-11,nitrite reductase [NAD(P)H],Rv0252() AND Rv0253(),BioCyc
 G185E-8089-MONOMER,arabinogalactan arabinosyl transferase,Rv3793(),BioCyc
 CPLX185E-77,quinolinic acid phosphoribosyltransferase,Rv1596(2),BioCyc
 G185E-4766-MONOMER,conserved hypothetical protein,Rv0628c(),BioCyc
 CPLX-9243,starch synthase (maltosyl-transferring),Rv1327c(),BioCyc
 G185E-5147-MONOMER,heat shock protein 22.5,Rv0990c(),BioCyc
-CPLX-8370,"4,5-9,10-diseco-3-hydroxy-5,9,17-trioxoandrosta-1(10),2-diene-4-oate hydrolase",Rv3569c(1),BioCyc
-G185E-6945-MONOMER,probable deoxyuridine 5'-triphosphate nucleotidohydrolase,Rv2697c(3),BioCyc
+CPLX-8370,"4,5-9,10-diseco-3-hydroxy-5,9,17-trioxoandrosta-1(10),2-diene-4-oate hydrolase",Rv3569c(),BioCyc
+G185E-6945-MONOMER,probable deoxyuridine 5'-triphosphate nucleotidohydrolase,Rv2697c(),BioCyc
 CPLX-5781,,Rv2259(),BioCyc
 G185E-5529-MONOMER,iron import ATP-binding/permease protein IrtB,Rv1349(),BioCyc
 G185E-4125-MONOMER,probable conserved membrane protein,Rv0012(),BioCyc
@@ -3106,7 +3106,7 @@ G185E-8073-MONOMER,probable oxidoreductase,Rv3777(),BioCyc
 G185E-6655-MONOMER,conserved hypothetical protein,Rv2425c(),BioCyc
 G185E-4750-MONOMER,unknown protein,Rv0613c(),BioCyc
 G185E-5131-MONOMER,probable acyl-CoA dehydrogenase,Rv0975c(),BioCyc
-G185E-6929-MONOMER,conserved hypothetical alanine rich protein,Rv2681(1),BioCyc
+G185E-6929-MONOMER,conserved hypothetical alanine rich protein,Rv2681(),BioCyc
 G185E-5512-MONOMER,probable hydrolase,Rv1333(),BioCyc
 G185E-7305-MONOMER,probable FEIII-dicitrate-binding periplasmic lipoprotein,Rv3044(),BioCyc
 G185E-5885-MONOMER,,Rv1694(),BioCyc
@@ -3133,7 +3133,7 @@ G185E-5852-MONOMER,Pks8,Rv1662(),BioCyc
 G185E-7644-MONOMER,possible oxidoreductase,Rv3368c(),BioCyc
 G185E-6225-MONOMER,hypothetical protein,Rv2023c(),BioCyc
 G185E-8021-MONOMER,possible ATP-dependent DNA ligase,Rv3731(),BioCyc
-G185E-6606-MONOMER,non-ribosomal peptide synthase MbtE,Rv2380c(1),BioCyc
+G185E-6606-MONOMER,non-ribosomal peptide synthase MbtE,Rv2380c(),BioCyc
 G185E-4701-MONOMER,probable methyltransferase/methylase,Rv0567(),BioCyc
 G185E-5081-MONOMER,conserved hypothetical protein,Rv0926c(),BioCyc
 G185E-6877-MONOMER,non-heme di-iron catalase subunit,Rv2633c(),BioCyc
@@ -3170,7 +3170,7 @@ G185E-6557-MONOMER,probable [NAD] dependent malate oxidoreductase,Rv2332(4),BioC
 G185E-4652-MONOMER,possible methyltransferase/methylase (fragment),Rv0520(),BioCyc
 G185E-5032-MONOMER,PPE family protein PPE13,Rv0878c(),BioCyc
 G185E-6829-MONOMER,probable protein-export membrane protein,Rv2587c(),BioCyc
-G185E-5410-MONOMER,possible magnesium and cobalt transport transmembrane protein,Rv1239c(1),BioCyc
+G185E-5410-MONOMER,possible magnesium and cobalt transport transmembrane protein,Rv1239c(),BioCyc
 G185E-7202-MONOMER,P-hydroxybenzoyl-AMP ligase,Rv2948c(),BioCyc
 G185E-5787-MONOMER,probable histidinol dehydrogenase,Rv1599(2),BioCyc
 G185E-4383-MONOMER,NarK family protein,Rv0261c(),BioCyc
@@ -3182,17 +3182,17 @@ G185E-4636-MONOMER,conserved protein,Rv0504c(),BioCyc
 G185E-7951-MONOMER,possible protease,Rv3668c(),BioCyc
 G185E-6538-MONOMER,conserved protein,Rv2314c(),BioCyc
 G185E-4633-MONOMER,possible UDP-glucose 4-epimerase,Rv0501(),BioCyc
-G185E-5013-MONOMER,possible acyl-CoA thiolase,Rv0859(1),BioCyc
+G185E-5013-MONOMER,possible acyl-CoA thiolase,Rv0859(),BioCyc
 G185E-6810-MONOMER,conserved hypothetical protein,Rv2568c(),BioCyc
 G185E-5390-MONOMER,probable methyltransferase,Rv1220c(),BioCyc
 G185E-7183-MONOMER,fatty-acid-AMP ligase,Rv2930(),BioCyc
 G185E-5768-MONOMER,probable PhiRv1 phage protein,Rv1580c(),BioCyc
 G185E-4363-MONOMER,probable 3-oxoacyl-[acyl-carrier protein] reductase,Rv0242c(),BioCyc
-G185E-7560-MONOMER,alternative RNA polymerase sigma factor,Rv3286c(1),BioCyc
+G185E-7560-MONOMER,alternative RNA polymerase sigma factor,Rv3286c(),BioCyc
 G185E-6141-MONOMER,conserved protein,Rv1944c(),BioCyc
 G185E-7933-MONOMER,PE-PGRS family-related protein PE_PGRS60,Rv3652(),BioCyc
 G185E-6521-MONOMER,probable antibiotic-resistance protein,Rv2303c(),BioCyc
-G185E-4617-MONOMER,probable conserved integral membrane protein,Rv0488(1),BioCyc
+G185E-4617-MONOMER,probable conserved integral membrane protein,Rv0488(),BioCyc
 G185E-4997-MONOMER,probable dehydrogenase,Rv0843(),BioCyc
 G185E-6792-MONOMER,probable shikimate 5-dehydrogenase,Rv2552c(2),BioCyc
 G185E-5374-MONOMER,conserved hypothetical protein,Rv1204c(),BioCyc
@@ -3234,10 +3234,10 @@ G185E-5704-MONOMER,probable sugar transferase,Rv1516c(),BioCyc
 G185E-4299-MONOMER,"Putative quercetin 2,3-dioxygenase Rv0181c",Rv0181c(),BioCyc
 G185E-7496-MONOMER,possible iron-regulated short-chain dehydrogenase/reductase,Rv3224(),BioCyc
 G185E-6076-MONOMER,possible conserved lipoprotein,Rv1881c(),BioCyc
-G185E-7866-MONOMER,beta-carbonic anhydrase,Rv3588c(4),BioCyc
+G185E-7866-MONOMER,beta-carbonic anhydrase,Rv3588c(),BioCyc
 G185E-6456-MONOMER,pyruvate dehydrogenase E1 component subunit,Rv2241(),BioCyc
 G185E-4552-MONOMER,probable exodeoxyribonuclease III protein,Rv0427c(),BioCyc
-G185E-4928-MONOMER,phosphoribosylaminoimidazole-succinocarboxamide synthase,Rv0780(),BioCyc
+G185E-4928-MONOMER,phosphoribosylaminoimidazole-succinocarboxamide synthase,Rv0780(3),BioCyc
 G185E-6726-MONOMER,PE-PGRS family protein PE_PGRS43,Rv2490c(),BioCyc
 G185E-5306-MONOMER,conserved hypothetical membrane protein,Rv1139c(),BioCyc
 G185E-7102-MONOMER,GCN5-related N-acetyltransferase,Rv2851c(),BioCyc
@@ -3260,7 +3260,7 @@ G185E-7834-MONOMER,transcriptional regulatory protein (probably TetR-family),Rv3
 G185E-6422-MONOMER,adenylyl cyclase,Rv2212(),BioCyc
 G185E-4520-MONOMER,hypothetical protein,Rv0396(),BioCyc
 G185E-7304-MONOMER,cytochrome <i>aa<sub>3</sub></i> complex subunit I,Rv3043c(),BioCyc
-G185E-8213-MONOMER,probable peptidoglycan hydrolase,Rv3915(),BioCyc
+G185E-8213-MONOMER,probable peptidoglycan hydrolase,Rv3915(1),BioCyc
 G185E-4894-MONOMER,possible toxin VapC31. Contains PIN domain.,Rv0749(),BioCyc
 G185E-6691-MONOMER,probable conserved integral membrane transport protein,Rv2459(),BioCyc
 G185E-5274-MONOMER,conserved protein,Rv1109c(),BioCyc
@@ -3276,10 +3276,10 @@ G185E-4504-MONOMER,possible RNA methyltransferase,Rv0380c(),BioCyc
 G185E-8197-MONOMER,conserved hypothetical protein,Rv3899c(),BioCyc
 G185E-4878-MONOMER,adenylate kinase,Rv0733(1),BioCyc
 G185E-6675-MONOMER,probable C4-dicarboxylate-transport transmembrane protein,Rv2443(1),BioCyc
-G185E-5258-MONOMER,serine hydroxymethyltransferase 1,Rv1093(),BioCyc
+G185E-5258-MONOMER,serine hydroxymethyltransferase 1,Rv1093(2),BioCyc
 G185E-7054-MONOMER,hypothetical protein,Rv2804c(),BioCyc
 G185E-5640-MONOMER,probable unidentified antibiotic-transport integral membrane ABC transporter,Rv1457c(),BioCyc
-G185E-4235-MONOMER,probable oxalyl-CoA decarboxylase,Rv0118c(4),BioCyc
+G185E-4235-MONOMER,probable oxalyl-CoA decarboxylase,Rv0118c(),BioCyc
 G185E-7430-MONOMER,unknown protein,Rv3165c(),BioCyc
 G185E-6012-MONOMER,possible flavoprotein,Rv1817(),BioCyc
 G185E-7802-MONOMER,possible siderophore-binding protein,Rv3525c(),BioCyc
@@ -3314,7 +3314,7 @@ G185E-5592-MONOMER,probable bifunctional riboflavin biosynthesis protein,Rv1409(
 G185E-4187-MONOMER,probable glutamine-transport transmembrane protein ABC transporter,Rv0072(),BioCyc
 G185E-5962-MONOMER,conserved protein,Rv1766(),BioCyc
 G185E-7384-MONOMER,conserved hypothetical protein,Rv3120(),BioCyc
-G185E-7753-MONOMER,probable dicarboxylic acid transport integral membrane protein,Rv3476c(1),BioCyc
+G185E-7753-MONOMER,probable dicarboxylic acid transport integral membrane protein,Rv3476c(),BioCyc
 G185E-6339-MONOMER,conserved hypothetical protein,Rv2133c(),BioCyc
 G185E-8134-MONOMER,prephenate dehydratase,Rv3838c(2),BioCyc
 G185E-4814-MONOMER,possible conserved lipoprotein,Rv0671(),BioCyc
@@ -3333,7 +3333,7 @@ G185E-6974-MONOMER,probable diaminopimelate epimerase,Rv2726c(1),BioCyc
 G185E-5560-MONOMER,putative transferase,Rv1377c(),BioCyc
 G185E-4155-MONOMER,probable leucyl-tRNA synthetase,Rv0041(1),BioCyc
 G185E-5930-MONOMER,hypothetical membrane protein,Rv1735c(),BioCyc
-G185E-7351-MONOMER,probable chain-fatty-acid-CoA ligase,Rv3089(1),BioCyc
+G185E-7351-MONOMER,probable chain-fatty-acid-CoA ligase,Rv3089(),BioCyc
 G185E-7721-MONOMER,putative ESAT-6 like protein,Rv3444c(),BioCyc
 G185E-6306-MONOMER,conserved hypothetical protein,Rv2100(),BioCyc
 G185E-8102-MONOMER,DPPR synthase,Rv3806c(),BioCyc
@@ -3438,7 +3438,7 @@ G185E-7576-MONOMER,putative glycerol-3-phosphate dehydrogenase,Rv3302c(2),BioCyc
 G185E-6157-MONOMER,possible toxin,Rv1959c(),BioCyc
 G185E-7948-MONOMER,"heme ABC transporter, membrane subunit DppB",Rv3665c(),BioCyc
 G185E-6535-MONOMER,conserved hypothetical protein,Rv2311(),BioCyc
-G185E-4630-MONOMER,probable pyrroline-5-carboxylate reductase,Rv0500(10),BioCyc
+G185E-4630-MONOMER,probable pyrroline-5-carboxylate reductase,Rv0500(),BioCyc
 G185E-5010-MONOMER,conserved hypothetical protein,Rv0856(),BioCyc
 G185E-6807-MONOMER,Uncharacterized NTE family protein Rv2565,Rv2565(),BioCyc
 G185E-5387-MONOMER,probable tetronasin-transport integral membrane protein ABC transporter,Rv1217c(),BioCyc
@@ -3453,7 +3453,7 @@ G185E-4613-MONOMER,possible transcriptional regulatory protein,Rv0485(),BioCyc
 G185E-4994-MONOMER,probable proline iminopeptidase,Rv0840c(),BioCyc
 G185E-6789-MONOMER,possible toxin,Rv2549c(),BioCyc
 G185E-5371-MONOMER,tetrahydrodipicolinate N-succinyltransferase,Rv1201c(),BioCyc
-G185E-7163-MONOMER,probable penicillin-binding protein,Rv2911(1),BioCyc
+G185E-7163-MONOMER,probable penicillin-binding protein,Rv2911(),BioCyc
 G185E-5749-MONOMER,possible toxin,Rv1561(),BioCyc
 G185E-4344-MONOMER,possible methyltransferase (methylase),Rv0224c(),BioCyc
 G185E-7541-MONOMER,conserved protein (CPSA-related protein),Rv3267(),BioCyc
@@ -3501,15 +3501,15 @@ G185E-7099-MONOMER,"probable cobyrinic acid A,C-diamide synthase",Rv2848c(),BioC
 G185E-5685-MONOMER,hypothetical protein,Rv1499(),BioCyc
 G185E-4280-MONOMER,alcohol dehydrogenase,Rv0162c(),BioCyc
 G185E-7476-MONOMER,[sulfur carrier protein CysO] adenylyltransferase/sulfurtransferase,Rv3206c(),BioCyc
-G185E-6057-MONOMER,probable alcohol dehydrogenase,Rv1862(1),BioCyc
-G185E-7847-MONOMER,"4,5-9,10-diseco-3-hydroxy-5,9,17-trioxoandrosta-1(10),2-diene-4-oate hydrolase monomer",Rv3569c(1),BioCyc
+G185E-6057-MONOMER,probable alcohol dehydrogenase,Rv1862(),BioCyc
+G185E-7847-MONOMER,"4,5-9,10-diseco-3-hydroxy-5,9,17-trioxoandrosta-1(10),2-diene-4-oate hydrolase monomer",Rv3569c(),BioCyc
 G185E-6435-MONOMER,probable carboxylesterase,Rv2224c(),BioCyc
-G185E-4533-MONOMER,probable phosphate acetyltransferase,Rv0408(6),BioCyc
+G185E-4533-MONOMER,probable phosphate acetyltransferase,Rv0408(2),BioCyc
 G185E-4908-MONOMER,conserved protein,Rv0760c(),BioCyc
-G185E-6706-MONOMER,probable alpha-glucosidase,Rv2471(1),BioCyc
+G185E-6706-MONOMER,probable alpha-glucosidase,Rv2471(),BioCyc
 G185E-5287-MONOMER,probable glucose-6-phosphate 1-dehydrogenase,Rv1121(),BioCyc
 G185E-7083-MONOMER,probable Sn-glycerol-3-phosphate transport ATP-binding protein ABC transporter,Rv2832c(),BioCyc
-G185E-5669-MONOMER,ferrochelatase,Rv1485(),BioCyc
+G185E-5669-MONOMER,ferrochelatase,Rv1485(1),BioCyc
 G185E-4264-MONOMER,probable aldehyde dehydrogenase (NAD+) dependent,Rv0147(),BioCyc
 G185E-7460-MONOMER,probable conserved transmembrane protein,Rv3193c(),BioCyc
 G185E-6041-MONOMER,transcriptional repressor,Rv1846c(),BioCyc
@@ -3567,9 +3567,9 @@ G185E-4827-MONOMER,probable elongation factor G,Rv0684(1),BioCyc
 G185E-5204-MONOMER,conserved hypothetical protein,Rv1044(),BioCyc
 G185E-7003-MONOMER,flavin-dependent thymidylate synthase subunit,Rv2754c(),BioCyc
 G185E-5589-MONOMER,probable methionyl-tRNA formyltransferase,Rv1406(1),BioCyc
-G185E-4184-MONOMER,probable L-serine dehydratase,Rv0069c(1),BioCyc
+G185E-4184-MONOMER,probable L-serine dehydratase,Rv0069c(2),BioCyc
 G185E-5959-MONOMER,putative transposase,Rv1764(),BioCyc
-G185E-7381-MONOMER,probable thiosulfate sulfurtransferase,Rv3117(1),BioCyc
+G185E-7381-MONOMER,probable thiosulfate sulfurtransferase,Rv3117(),BioCyc
 G185E-7750-MONOMER,possible peroxidase,Rv3473c(),BioCyc
 G185E-6336-MONOMER,L-cysteine:1-D-myo-inosityl 2-amino-2-deoxy-D-glucopyranoside ligase,Rv2130c(),BioCyc
 G185E-8131-MONOMER,conserved membrane protein,Rv3835(),BioCyc
@@ -3630,7 +3630,7 @@ G185E-5109-MONOMER,probable conserved transmembrane protein,Rv0954(),BioCyc
 G185E-6907-MONOMER,probable PhiRv2 prophage integrase,Rv2659c(),BioCyc
 G185E-5486-MONOMER,conserved hypothetical secreted protein,Rv1312(),BioCyc
 G185E-7278-MONOMER,secreted ESAT-6 like protein,Rv3019c(),BioCyc
-G185E-5862-MONOMER,probable conserved integral membrane transport protein,Rv1672c(),BioCyc
+G185E-5862-MONOMER,probable conserved integral membrane transport protein,Rv1672c(1),BioCyc
 G185E-7654-MONOMER,tuberculosinyl adenosine transferase,Rv3378c(),BioCyc
 G185E-6236-MONOMER,conserved hypothetical protein,Rv2033c(),BioCyc
 G185E-8031-MONOMER,possible oxidoreductase,Rv3741c(),BioCyc
@@ -3638,7 +3638,7 @@ G185E-6616-MONOMER,conserved hypothetical protein,Rv2390c(),BioCyc
 G185E-4711-MONOMER,Putative glyoxylase CFP32,Rv0577(),BioCyc
 G185E-5092-MONOMER,"DNA end-binding protein,",Rv0937c(),BioCyc
 G185E-6887-MONOMER,probable arsenic-transport integral membrane protein,Rv2643(),BioCyc
-G185E-5470-MONOMER,probable homoserine kinase,Rv1296(),BioCyc
+G185E-5470-MONOMER,probable homoserine kinase,Rv1296(2),BioCyc
 G185E-7262-MONOMER,low molecular weight protein antigen 6 (CFP-6),Rv3004(),BioCyc
 G185E-5846-MONOMER,"probable ornithine carbamoyltransferase, anabolic",Rv1656(3),BioCyc
 G185E-7638-MONOMER,probable ATP/GTP-binding protein,Rv3362c(),BioCyc
@@ -3663,8 +3663,8 @@ G185E-5437-MONOMER,unknown protein,Rv1265(),BioCyc
 G185E-7228-MONOMER,probable ATP-dependent DNA helicase,Rv2973c(),BioCyc
 G185E-5813-MONOMER,membrane-anchored adenylyl cyclase,Rv1625c(),BioCyc
 G185E-4410-MONOMER,ESAT-6 like protein,Rv0287(),BioCyc
-G185E-7606-MONOMER,probable penicillin-binding protein,Rv3330(1),BioCyc
-G185E-6186-MONOMER,lysine / arginine exporter,Rv1986(),BioCyc
+G185E-7606-MONOMER,probable penicillin-binding protein,Rv3330(),BioCyc
+G185E-6186-MONOMER,lysine / arginine exporter,Rv1986(1),BioCyc
 G185E-7981-MONOMER,probable glycerol kinase,Rv3696c(4),BioCyc
 G185E-6568-MONOMER,conserved hypothetical protein,Rv2342(),BioCyc
 G185E-4662-MONOMER,conserved protein,Rv0530(),BioCyc
@@ -3742,7 +3742,7 @@ G185E-4562-MONOMER,possible phosphatidylserine decarboxylase,Rv0437c(),BioCyc
 G185E-4938-MONOMER,hypothetical protein,Rv0789c(),BioCyc
 G185E-6736-MONOMER,possible acyl-CoA dehydrogenase,Rv2500c(),BioCyc
 G185E-5316-MONOMER,possible transposase,Rv1149(),BioCyc
-G185E-7112-MONOMER,methionyl aminopeptidase 1c,Rv2861c(1),BioCyc
+G185E-7112-MONOMER,methionyl aminopeptidase 1c,Rv2861c(),BioCyc
 G185E-5698-MONOMER,conserved probable membrane protein,Rv1510(),BioCyc
 G185E-4293-MONOMER,probable conserved Mce associated membrane protein,Rv0175(),BioCyc
 G185E-7490-MONOMER,transcriptional regulatory protein WhiB-like WhiB1. Contains [4FE-4S]2+ cluster.,Rv3219(),BioCyc
@@ -3782,7 +3782,7 @@ G185E-5650-MONOMER,probable acyl-CoA dehydrogenase,Rv1467c(),BioCyc
 G185E-4245-MONOMER,probable conserved transmembrane protein,Rv0128(),BioCyc
 G185E-7440-MONOMER,possible amidase (aminohydrolase),Rv3175(),BioCyc
 G185E-6022-MONOMER,"conserved protein with FHA domain,",Rv1827(),BioCyc
-G185E-7812-MONOMER,propanal dehydrogenase,Rv3535c(1),BioCyc
+G185E-7812-MONOMER,propanal dehydrogenase,Rv3535c(),BioCyc
 G185E-6399-MONOMER,conserved hypothetical protein,Rv2189c(),BioCyc
 G185E-4498-MONOMER,carbon monoxide dehydrogenase subunit S,Rv0374c(),BioCyc
 G185E-8191-MONOMER,PE family protein PE36,Rv3893c(),BioCyc
@@ -3790,7 +3790,7 @@ G185E-4872-MONOMER,possible L-fuculose phosphate aldolase,Rv0727c(4),BioCyc
 G185E-6669-MONOMER,glutamine-dependent NAD(+) synthetase,Rv2438c(),BioCyc
 G185E-5251-MONOMER,PE family protein PE9,Rv1088(),BioCyc
 G185E-7048-MONOMER,probable membrane protein,Rv2799(),BioCyc
-G185E-5634-MONOMER,cytochrome <i>aa<sub>3</sub></i> complex assembly factor,Rv1451(1),BioCyc
+G185E-5634-MONOMER,cytochrome <i>aa<sub>3</sub></i> complex assembly factor,Rv1451(),BioCyc
 G185E-4229-MONOMER,"possible GDP-mannose 4,6-dehydratase",Rv0112(),BioCyc
 G185E-7424-MONOMER,PPE family protein PPE53,Rv3159c(),BioCyc
 G185E-6006-MONOMER,possible Mg2+ transport P-type ATPase C,Rv1811(),BioCyc
@@ -3830,11 +3830,11 @@ G185E-7747-MONOMER,probable acetolactate synthase (large subunit),Rv3470c(),BioC
 G185E-6333-MONOMER,L-asparagine permease,Rv2127(),BioCyc
 G185E-8128-MONOMER,conserved protein,Rv3832c(),BioCyc
 G185E-4808-MONOMER,possible toxin,Rv0665(),BioCyc
-G185E-5185-MONOMER,Exopolyphosphatase 2,Rv1026(2),BioCyc
+G185E-5185-MONOMER,Exopolyphosphatase 2,Rv1026(),BioCyc
 G185E-6984-MONOMER,regulatory protein,Rv2736c(),BioCyc
 G185E-5570-MONOMER,PPE family protein PPE20,Rv1387(),BioCyc
 G185E-4165-MONOMER,probable conserved transmembrane protein,Rv0051(),BioCyc
-G185E-5940-MONOMER,probable isopentenyl-diphosphate delta-isomerase,Rv1745c(1),BioCyc
+G185E-5940-MONOMER,probable isopentenyl-diphosphate delta-isomerase,Rv1745c(),BioCyc
 G185E-7361-MONOMER,pemK-like protein,Rv3098A(),BioCyc
 G185E-7731-MONOMER,probable conserved integral membrane protein,Rv3454(),BioCyc
 G185E-6316-MONOMER,proteasome beta subunit PrcB; assembles with alpha subunit PrcA.,Rv2110c(),BioCyc
@@ -3850,7 +3850,7 @@ G185E-6298-MONOMER,ATP-dependent DNA helicase,Rv2092c(),BioCyc
 G185E-8096-MONOMER,Pks13,Rv3800c(),BioCyc
 G185E-4773-MONOMER,unknown protein,Rv0634A(),BioCyc
 G185E-5155-MONOMER,hypothetical protein,Rv0997(),BioCyc
-G185E-6952-MONOMER,conserved protein,Rv2704(1),BioCyc
+G185E-6952-MONOMER,conserved protein,Rv2704(),BioCyc
 G185E-5536-MONOMER,hypothetical protein,Rv1356c(),BioCyc
 G185E-4132-MONOMER,"conserved protein with FHA domain,",Rv0019c(),BioCyc
 G185E-7328-MONOMER,conserved hypothetical protein,Rv3067(),BioCyc
@@ -3859,14 +3859,14 @@ G185E-7699-MONOMER,tRNA threonylcarbamoyladenosine biosynthesis protein TsaE,Rv3
 G185E-6282-MONOMER,possible conserved transmembrane protein,Rv2077c(),BioCyc
 G185E-8080-MONOMER,"possible dTDP-glucose 4,6-dehydratase",Rv3784(),BioCyc
 G185E-6663-MONOMER,hypothetical protein,Rv2432c(),BioCyc
-G185E-4757-MONOMER,probable galactose-1-phosphate uridylyltransferase,Rv0619(2),BioCyc
+G185E-4757-MONOMER,probable galactose-1-phosphate uridylyltransferase,Rv0619(),BioCyc
 G185E-5138-MONOMER,mycobacterial persistence regulator MRPA (two component response transcriptional regulatory protein),Rv0981(),BioCyc
 G185E-6936-MONOMER,"ABC family efflux transporter, ATP-binding subunit",Rv2688c(),BioCyc
 G185E-5519-MONOMER,,Rv1340(1),BioCyc
 G185E-4114-MONOMER,DNA replication and repair protein,Rv0003(),BioCyc
 G185E-7312-MONOMER,ribonucleoside-diphosphate reductase (alpha chain),Rv3051c(),BioCyc
 G185E-5892-MONOMER,probable integrase/recombinase,Rv1701(),BioCyc
-G185E-7683-MONOMER,alkyl sulfatase,Rv3406(2),BioCyc
+G185E-7683-MONOMER,alkyl sulfatase,Rv3406(),BioCyc
 G185E-6266-MONOMER,cobalamin biosynthesis protein,Rv2062c(),BioCyc
 G185E-8061-MONOMER,hypothetical leucine rich protein,Rv3770c(),BioCyc
 G185E-6646-MONOMER,<i>N</i>-acetyltransferase Eis,Rv2416c(),BioCyc
@@ -3874,7 +3874,7 @@ G185E-4740-MONOMER,possible resolvase,Rv0605(),BioCyc
 G185E-5122-MONOMER,conserved protein,Rv0966c(),BioCyc
 G185E-6920-MONOMER,possible secreted protease,Rv2672(),BioCyc
 G185E-5503-MONOMER,possible thioredoxin,Rv1324(),BioCyc
-G185E-7295-MONOMER,possible transferase,Rv3034c(1),BioCyc
+G185E-7295-MONOMER,possible transferase,Rv3034c(),BioCyc
 G185E-5875-MONOMER,conserved hypothetical protein,Rv1685c(),BioCyc
 G185E-7667-MONOMER,possible multi-functional enzyme with acyl-CoA-reductase activity,Rv3391(),BioCyc
 G185E-6249-MONOMER,probable lipoprotein,Rv2046(),BioCyc
@@ -3951,14 +3951,14 @@ G185E-6799-MONOMER,conserved hypothetical alanine leucine valine rich protein,Rv
 G185E-5381-MONOMER,calmodulin-like-protein,Rv1211(),BioCyc
 G185E-7174-MONOMER,probable chromosome partition protein,Rv2922c(),BioCyc
 G185E-5759-MONOMER,conserved protein,Rv1571(),BioCyc
-G185E-4354-MONOMER,NADP-dependent succinate-semialdehyde dehydrogenase,Rv0234c(2),BioCyc
+G185E-4354-MONOMER,NADP-dependent succinate-semialdehyde dehydrogenase,Rv0234c(),BioCyc
 G185E-7551-MONOMER,probable conserved transmembrane protein,Rv3277(),BioCyc
 G185E-5017-MONOMER,conserved hypothetical protein,Rv0863(),BioCyc
 G185E-6132-MONOMER,possible enoyl-CoA hydratase,Rv1935c(),BioCyc
 G185E-6814-MONOMER,,Rv2572c(2),BioCyc
 G185E-7922-MONOMER,hypothetical protein,Rv3643(),BioCyc
 G185E-5395-MONOMER,probable protein,Rv1224(),BioCyc
-G185E-6512-MONOMER,probable aminotransferase,Rv2294(1),BioCyc
+G185E-6512-MONOMER,probable aminotransferase,Rv2294(),BioCyc
 G185E-7187-MONOMER,phenolpthiocerol synthesis type-I polyketide synthase,Rv2934(),BioCyc
 G185E-4607-MONOMER,probable conserved membrane protein,Rv0479c(),BioCyc
 G185E-5772-MONOMER,possible PhiRv1 phage protein,Rv1584c(),BioCyc
@@ -3983,7 +3983,7 @@ G185E-5378-MONOMER,probable glucosyl-3-phosphoglycerate synthase,Rv1208(),BioCyc
 G185E-6496-MONOMER,putative transposase for insertion sequence element IS6110 (fragment),Rv2278(),BioCyc
 G185E-7170-MONOMER,probable [protein-PII] uridylyltransferase,Rv2918c(),BioCyc
 G185E-4591-MONOMER,conserved protein,Rv0464c(),BioCyc
-G185E-5756-MONOMER,adenosylmethionine-8-amino-7-oxononanoate aminotransferase,Rv1568(2),BioCyc
+G185E-5756-MONOMER,adenosylmethionine-8-amino-7-oxononanoate aminotransferase,Rv1568(),BioCyc
 G185E-4967-MONOMER,DNA-binding transcription regulator GlnR,Rv0818(),BioCyc
 G185E-4351-MONOMER,probable acyl-CoA dehydrogenase,Rv0231(),BioCyc
 G185E-6767-MONOMER,hypothetical protein,Rv2529(),BioCyc
@@ -3992,7 +3992,7 @@ G185E-5348-MONOMER,unknown protein,Rv1179c(),BioCyc
 G185E-6129-MONOMER,probable thiol peroxidase,Rv1932(),BioCyc
 G185E-7141-MONOMER,probable elongation factor,Rv2889c(1),BioCyc
 G185E-7919-MONOMER,probable transposase,Rv3640c(),BioCyc
-G185E-5727-MONOMER,probable lipoprotein signal peptidase,Rv1539(),BioCyc
+G185E-5727-MONOMER,probable lipoprotein signal peptidase,Rv1539(1),BioCyc
 G185E-6509-MONOMER,probable thiosulfate sulfurtransferase,Rv2291(),BioCyc
 G185E-4322-MONOMER,probable conserved transmembrane transport protein,Rv0202c(),BioCyc
 G185E-4604-MONOMER,possible conserved transmembrane protein,Rv0476(),BioCyc
@@ -4034,7 +4034,7 @@ G185E-6733-MONOMER,"branched-chain keto acid dehydrogenase E1 component, alpha s
 G185E-7516-MONOMER,conserved hypothetical protein,Rv3242c(),BioCyc
 G185E-5313-MONOMER,probable conserved transmembrane transport protein,Rv1146(),BioCyc
 G185E-6097-MONOMER,probable lignin peroxidase,Rv1900c(),BioCyc
-G185E-7109-MONOMER,probable aldehyde dehydrogenase,Rv2858c(2),BioCyc
+G185E-7109-MONOMER,probable aldehyde dehydrogenase,Rv2858c(),BioCyc
 G185E-7887-MONOMER,dihydropteroate synthase 1,Rv3608c(2),BioCyc
 G185E-5695-MONOMER,probable membrane protein,Rv1508c(),BioCyc
 G185E-6477-MONOMER,conserved hypothetical protein,Rv2260(),BioCyc
@@ -4042,7 +4042,7 @@ G185E-4290-MONOMER,mce-family protein Mce1D,Rv0172(),BioCyc
 G185E-4572-MONOMER,probable cyclopropane-fatty-acyl-phospholipid synthase,Rv0447c(),BioCyc
 G185E-7486-MONOMER,probable isochorismate synthase,Rv3215(1),BioCyc
 G185E-4948-MONOMER,conserved protein,Rv0799c(),BioCyc
-G185E-6067-MONOMER,quinone-dependent L-lactate dehydrogenase,Rv1872c(1),BioCyc
+G185E-6067-MONOMER,quinone-dependent L-lactate dehydrogenase,Rv1872c(),BioCyc
 G185E-6746-MONOMER,conserved protein,Rv2510c(),BioCyc
 G185E-7857-MONOMER,possible tRNA/rRNA methyltransferase,Rv3579c(2),BioCyc
 G185E-5328-MONOMER,Putative pterin-4-alpha-carbinolamine dehydratase,Rv1159A(),BioCyc
@@ -4069,7 +4069,7 @@ G185E-6730-MONOMER,possible toxin VapC38. Contains PIN domain.,Rv2494(),BioCyc
 G185E-7841-MONOMER,probable acyl-CoA dehydrogenase,Rv3564(),BioCyc
 G185E-5310-MONOMER,&alpha;-methylacyl-CoA racemase,Rv1143(),BioCyc
 G185E-6429-MONOMER,probable conserved transmembrane protein,Rv2219(),BioCyc
-G185E-7106-MONOMER,mycothione reductase subunit,Rv2855(2),BioCyc
+G185E-7106-MONOMER,mycothione reductase subunit,Rv2855(),BioCyc
 G185E-4527-MONOMER,probable conserved transmembrane transport protein,Rv0402c(),BioCyc
 G185E-5692-MONOMER,Putative methyltransferase Rv1506c,Rv1506c(),BioCyc
 G185E-8220-MONOMER,possible hemolysin,Rv3922c(),BioCyc
@@ -4123,12 +4123,12 @@ G185E-4255-MONOMER,conserved hypothetical protein,Rv0138(),BioCyc
 G185E-8188-MONOMER,ESAT-6 like protein,Rv3890c(),BioCyc
 G185E-7450-MONOMER,probable transposase,Rv3185(),BioCyc
 G185E-4869-MONOMER,conserved hypothetical protein,Rv0724A(),BioCyc
-G185E-6032-MONOMER,malate synthase G,Rv1837c(1),BioCyc
+G185E-6032-MONOMER,malate synthase G,Rv1837c(),BioCyc
 G185E-5248-MONOMER,<i>Z</i>-farnesyl diphosphate synthase,Rv1086(),BioCyc
 G185E-7822-MONOMER,cholest-4-en-3-one 26-monooxygenase,Rv3545c(),BioCyc
 G185E-7045-MONOMER,probable conserved lipoprotein,Rv2796c(),BioCyc
 G185E-6410-MONOMER,cytochrome <i>aa<sub>3</sub></i> complex subunit II,Rv2200c(),BioCyc
-G185E-5631-MONOMER,probable transaldolase,Rv1448c(1),BioCyc
+G185E-5631-MONOMER,probable transaldolase,Rv1448c(),BioCyc
 G185E-4508-MONOMER,disaggregase ClpB,Rv0384c(),BioCyc
 G185E-4226-MONOMER,PE-PGRS family protein PE_PGRS1,Rv0109(),BioCyc
 G185E-8201-MONOMER,hypothetical alanine and proline rich protein,Rv3903c(),BioCyc
@@ -4233,7 +4233,7 @@ CPLX_PIabc-0,Phosphate transport via ABC system,Rv0932c() AND Rv0930() AND Rv092
 CPLX_PIabc-1,Phosphate transport via ABC system,Rv0928() AND Rv0930() AND Rv0933(),iEK1008(PIabc)
 CPLX_PIabc-2,Phosphate transport via ABC system,Rv0935() AND Rv0930() AND Rv0933() AND Rv0936() AND Rv0929(),iEK1008(PIabc)
 CPLX_PPCOAC-0,Propionyl-CoA carboxylase,Rv3285() AND Rv3280() AND Rv3281(),iEK1008(PPCOAC)
-CPLX_RNDR1-0,Ribonucleoside-diphosphate reductase (ADP),Rv3048c(2) AND Rv3051c(2),iEK1008(RNDR1)
+CPLX_RNDR1-0,Ribonucleoside-diphosphate reductase (ADP),Rv3051c() AND Rv3048c(),iEK1008(RNDR1)
 CPLX_RNDR1-1,Ribonucleoside-diphosphate reductase (ADP),Rv0570() AND Rv1981c(),iEK1008(RNDR1)
 CPLX_PPTGS-0,Peptidoglycan subunit synthesis,Rv2163c() AND Rv3627c(),iEK1008(PPTGS)
 CPLX_O16RHAT-0,Rhamnosyltransferase (LPS O16 antigen biosynthesis),Rv3265c() AND Rv1525(),iEK1008(O16RHAT)

@@ -1,3 +1,3 @@
 lipid_mod	enzymes
 other_lipids	
-pg_pe_160	
+pg_pe_160	JCVISYN3A_0818-MONOMER

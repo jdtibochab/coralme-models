@@ -135,15 +135,15 @@ trdrd_c	S3905-MONOMER				REPLACE
 trdox_c	S3905-MONOMER_mod_Oxidized(1)				REPLACE
 sufbcd_c	CPLX_S4FE4SR-0				REPLACE
 sufse_c	CPLX_SCYSDS-0_mod_pydx5p(1)				REPLACE
-LI_c					CURATE
 sufbcd_2fe2s_c					CURATE
 sufbcd_2fe2s2_c					CURATE
 sufbcd_4fe4s_c					CURATE
-sufsesh_c					CURATE
-dsbaox_p					CURATE
-3hcpalm9eACP_c					CURATE
-3ocpalm9eACP_c					CURATE
-iscssh_c					CURATE
 iscu_2fe2s_c					CURATE
 iscu_2fe2s2_c					CURATE
 iscu_4fe4s_c					CURATE
+3hcpalm9eACP_c					CURATE
+3ocpalm9eACP_c					CURATE
+LI_c					CURATE
+dsbaox_p					CURATE
+iscssh_c					CURATE
+sufsesh_c					CURATE

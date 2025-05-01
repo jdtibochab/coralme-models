@@ -1,7 +1,7 @@
 ,value
-fes_transfer,{'enzymes': ['SYNPCC7942_0909-MONOMER']}
+fes_transfer,{'enzymes': ['SYNPCC7942_1787-MONOMER']}
 fes_chaperones,{'enzymes': ['CPLX_dummy']}
-generic_2fe2s_transfer_complex,{'enzymes': ['SYNPCC7942_0909-MONOMER_mod_2fe2s(1)']}
-generic_4fe4s_transfer_complex,{'enzymes': ['SYNPCC7942_0909-MONOMER_mod_4fe4s(1)']}
+generic_2fe2s_transfer_complex,{'enzymes': ['SYNPCC7942_1787-MONOMER_mod_2fe2s(1)']}
+generic_4fe4s_transfer_complex,{'enzymes': ['CPLX_dummy']}
 lipoate_modifications,{'enzymes': ['CPLX_dummy']}
 bmocogdp_chaperones,{'enzymes': ['CPLX_dummy']}

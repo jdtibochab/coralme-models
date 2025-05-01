@@ -10,12 +10,12 @@ gly_c	CPLX-tRNA-GLY-LIGASE
 his__L_c	YPO2878-MONOMER_mod_mg2(4)
 ile__L_c	YPO0475-MONOMER_mod_zn2(2)
 leu__L_c	YPO2610-MONOMER
-lys__L_c	YPO0888-MONOMER
+lys__L_c	YPO0888-MONOMER_mod_mg2(6)
 met__L_c	YPO1522-MONOMER_mod_zn2(2)
 phe__L_c	CPLX-tRNA-PHE-LIGASE_mod_mg2(1)
 pro__L_c	YPO1068-MONOMER
 ser__L_c	YPO1379-MONOMER_mod_mg2(1)
-thr__L_c	YPO2433-MONOMER_mod_zn2(1)
+thr__L_c	YPO2433-MONOMER
 trp__L_c	YPO0157-MONOMER_mod_mg2(1)
 tyr__L_c	YPO2369-MONOMER
 val__L_c	YPO3443-MONOMER_mod_mg2(1)

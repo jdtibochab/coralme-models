@@ -1,2 +1,2 @@
 ,value
-rna_degradosome,"{'enzymes': ['LLMG_RS03215-MONOMER_mod_mg2(4)', 'LLMG_RS10215-MONOMER']}"
+rna_degradosome,"{'enzymes': ['LLMG_RS10215-MONOMER', 'LLMG_RS10785-MONOMER', 'LLMG_RS05680-MONOMER', 'LLMG_RS03215-MONOMER']}"

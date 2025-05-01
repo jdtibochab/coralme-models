@@ -1,2 +1,1 @@
 ,value
-BSU41040-MONOMER,{'BSU36800': 2.0}

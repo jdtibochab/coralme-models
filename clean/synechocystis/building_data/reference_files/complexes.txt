@@ -5,7 +5,7 @@ SGL_RS03265-MONOMER,photosystem II complex extrinsic protein PsbU,SGL_RS03265(),
 SGL_RS04050-MONOMER,c-type cytochrome biogenesis protein CcsB,SGL_RS04050(),BioCyc
 SGL_RS10720-MONOMER,threonine synthase,SGL_RS10720(),BioCyc
 SGL_RS14490-MONOMER,hypothetical protein,SGL_RS14490(),BioCyc
-SGL_RS14375-MONOMER,deoxyguanosinetriphosphate triphosphohydrolase,SGL_RS14375(4),BioCyc
+SGL_RS14375-MONOMER,deoxyguanosinetriphosphate triphosphohydrolase,SGL_RS14375(),BioCyc
 SGL_RS16800-MONOMER,ornithine carbamoyltransferase,SGL_RS16800(3),BioCyc
 SGL_RS10925-MONOMER,elongation factor Tu,SGL_RS10925(1),BioCyc
 SGL_RS07130-MONOMER,hypothetical protein,SGL_RS07130(),BioCyc
@@ -25,7 +25,7 @@ SGL_RS15180-MONOMER,CCA tRNA nucleotidyltransferase,SGL_RS15180(),BioCyc
 SGL_RS05850-MONOMER,50S ribosomal protein L3,SGL_RS05850(1),BioCyc
 SGL_RS01275-MONOMER,DUF839 domain-containing protein,SGL_RS01275(),BioCyc
 SGL_RS02115-MONOMER,GNAT family N-acetyltransferase,SGL_RS02115(),BioCyc
-SGL_RS05940-MONOMER,30S ribosomal protein S20,SGL_RS05940(),BioCyc
+SGL_RS05940-MONOMER,30S ribosomal protein S20,SGL_RS05940(1),BioCyc
 SGL_RS10865-MONOMER,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB,SGL_RS10865(),BioCyc
 SGL_RS08220-MONOMER,phosphoribosylglycinamide formyltransferase 2,SGL_RS08220(1),BioCyc
 SGL_RS00695-MONOMER,CRISPR-associated endoribonuclease Cas6,SGL_RS00695(),BioCyc
@@ -36,7 +36,7 @@ SGL_RS02925-MONOMER,hypothetical protein,SGL_RS02925(),BioCyc
 SGL_RS06575-MONOMER,nitrate reductase,SGL_RS06575(),BioCyc
 SGL_RS12605-MONOMER,NYN domain-containing protein,SGL_RS12605(),BioCyc
 SGL_RS10395-MONOMER,hypothetical protein,SGL_RS10395(),BioCyc
-SGL_RS15590-MONOMER,glucokinase,SGL_RS15590(1),BioCyc
+SGL_RS15590-MONOMER,glucokinase,SGL_RS15590(),BioCyc
 SGL_RS16100-MONOMER,cadmium-translocating P-type ATPase,SGL_RS16100(1),BioCyc
 SGL_RS16205-MONOMER,5-oxoprolinase,SGL_RS16205(),BioCyc
 SGL_RS15470-MONOMER,IS5 family transposase,SGL_RS15470(),BioCyc
@@ -46,7 +46,7 @@ SGL_RS03905-MONOMER,DUF928 domain-containing protein,SGL_RS03905(),BioCyc
 SGL_RS00055-MONOMER,DUF4007 family protein,SGL_RS00055(),BioCyc
 SGL_RS10130-MONOMER,delta(12)-fatty-acid desaturase,SGL_RS10130(),BioCyc
 SGL_RS00990-MONOMER,"bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase",SGL_RS00990(),BioCyc
-SGL_RS18120-MONOMER,5'/3'-nucleotidase SurE,SGL_RS18120(1),BioCyc
+SGL_RS18120-MONOMER,5'/3'-nucleotidase SurE,SGL_RS18120(),BioCyc
 SGL_RS15030-MONOMER,acetate--CoA ligase,SGL_RS15030(1),BioCyc
 SGL_RS14350-MONOMER,D-alanyl-D-alanine carboxypeptidase/D-alanyl-D-alanine-endopeptidase,SGL_RS14350(1),BioCyc
 SGL_RS16745-MONOMER,tetratricopeptide repeat protein,SGL_RS16745(),BioCyc
@@ -54,11 +54,11 @@ SGL_RS08880-MONOMER,K(+)-transporting ATPase subunit C,SGL_RS08880(),BioCyc
 SGL_RS00080-MONOMER,DNA polymerase subunit beta,SGL_RS00080(),BioCyc
 SGL_RS03815-MONOMER,hybrid sensor histidine kinase/response regulator,SGL_RS03815(),BioCyc
 SGL_RS01050-MONOMER,type III-B CRISPR-associated protein Cas10/Cmr2,SGL_RS01050(),BioCyc
-SGL_RS17385-MONOMER,2-hydroxyacid dehydrogenase,SGL_RS17385(1),BioCyc
+SGL_RS17385-MONOMER,2-hydroxyacid dehydrogenase,SGL_RS17385(),BioCyc
 SGL_RS07735-MONOMER,DUF1997 domain-containing protein,SGL_RS07735(),BioCyc
 SGL_RS02210-MONOMER,DUF2442 domain-containing protein,SGL_RS02210(),BioCyc
 SGL_RS18330-MONOMER,hypothetical protein,SGL_RS18330(),BioCyc
-SGL_RS08770-MONOMER,nitroreductase family protein,SGL_RS08770(),BioCyc
+SGL_RS08770-MONOMER,nitroreductase family protein,SGL_RS08770(1),BioCyc
 SGL_RS12320-MONOMER,hypothetical protein,SGL_RS12320(),BioCyc
 SGL_RS17275-MONOMER,DUF427 domain-containing protein,SGL_RS17275(),BioCyc
 SGL_RS00320-MONOMER,helix-turn-helix transcriptional regulator,SGL_RS00320(),BioCyc
@@ -87,7 +87,7 @@ SGL_RS09400-MONOMER,GTPase HflX,SGL_RS09400(),BioCyc
 SGL_RS05510-MONOMER,PP2C family protein-serine/threonine phosphatase,SGL_RS05510(),BioCyc
 SGL_RS11785-MONOMER,Uma2 family endonuclease,SGL_RS11785(),BioCyc
 SGL_RS14565-MONOMER,SpoIID/LytB domain-containing protein,SGL_RS14565(),BioCyc
-SGL_RS01900-MONOMER,GDP-L-fucose synthase,SGL_RS01900(2),BioCyc
+SGL_RS01900-MONOMER,GDP-L-fucose synthase,SGL_RS01900(),BioCyc
 SGL_RS07770-MONOMER,hydantoin utilization protein A,SGL_RS07770(),BioCyc
 SGL_RS05970-MONOMER,DUF533 domain-containing protein,SGL_RS05970(),BioCyc
 SGL_RS15290-MONOMER,6-carboxytetrahydropterin synthase QueD,SGL_RS15290(1),BioCyc
@@ -153,7 +153,7 @@ SGL_RS02570-MONOMER,amino acid ABC transporter substrate-binding protein,SGL_RS0
 SGL_RS02045-MONOMER,ABC transporter ATP-binding protein,SGL_RS02045(),BioCyc
 SGL_RS06615-MONOMER,cell division protein FtsZ,SGL_RS06615(),BioCyc
 SGL_RS19085-MONOMER,IS5 family transposase,SGL_RS19085(),BioCyc
-SGL_RS03010-MONOMER,4-alpha-glucanotransferase,SGL_RS03010(1),BioCyc
+SGL_RS03010-MONOMER,4-alpha-glucanotransferase,SGL_RS03010(),BioCyc
 SGL_RS10040-MONOMER,hypothetical protein,SGL_RS10040(),BioCyc
 SGL_RS10400-MONOMER,LCP family protein,SGL_RS10400(),BioCyc
 SGL_RS13140-MONOMER,peroxiredoxin,SGL_RS13140(),BioCyc
@@ -197,7 +197,7 @@ SGL_RS07485-MONOMER,anthranilate phosphoribosyltransferase,SGL_RS07485(1),BioCyc
 SGL_RS18250-MONOMER,ribonucleotide-diphosphate reductase subunit beta,SGL_RS18250(),BioCyc
 SGL_RS02385-MONOMER,hypothetical protein,SGL_RS02385(),BioCyc
 SGL_RS14090-MONOMER,murein biosynthesis integral membrane protein MurJ,SGL_RS14090(),BioCyc
-SGL_RS02280-MONOMER,ribonuclease E/G,SGL_RS02280(4),BioCyc
+SGL_RS02280-MONOMER,ribonuclease E/G,SGL_RS02280(),BioCyc
 SGL_RS02640-MONOMER,hypothetical protein,SGL_RS02640(),BioCyc
 SGL_RS05880-MONOMER,sugar ABC transporter substrate-binding protein,SGL_RS05880(),BioCyc
 SGL_RS08955-MONOMER,alpha/beta hydrolase,SGL_RS08955(),BioCyc
@@ -209,7 +209,7 @@ SGL_RS08155-MONOMER,Spy/CpxP family protein refolding chaperone,SGL_RS08155(),Bi
 SGL_RS17170-MONOMER,chromate transporter,SGL_RS17170(),BioCyc
 SGL_RS06255-MONOMER,Tic20 family protein,SGL_RS06255(),BioCyc
 SGL_RS17510-MONOMER,hypothetical protein,SGL_RS17510(),BioCyc
-SGL_RS03080-MONOMER,transaldolase,SGL_RS03080(2),BioCyc
+SGL_RS03080-MONOMER,transaldolase,SGL_RS03080(12),BioCyc
 SGL_RS16770-MONOMER,YjgP/YjgQ family permease,SGL_RS16770(),BioCyc
 SGL_RS08000-MONOMER,endonuclease III,SGL_RS08000(),BioCyc
 SGL_RS01875-MONOMER,solanesyl diphosphate synthase,SGL_RS01875(2),BioCyc
@@ -244,7 +244,7 @@ SGL_RS09860-MONOMER,carotenoid biosynthesis protein,SGL_RS09860(),BioCyc
 SGL_RS15725-MONOMER,AAA family ATPase,SGL_RS15725(),BioCyc
 SGL_RS10725-MONOMER,NAD(P)H-quinone oxidoreductase subunit 3,SGL_RS10725(),BioCyc
 SGL_RS01970-MONOMER,iron-siderophore ABC transporter substrate-binding protein,SGL_RS01970(),BioCyc
-SGL_RS16695-MONOMER,magnesium/cobalt transporter CorA,SGL_RS16695(1),BioCyc
+SGL_RS16695-MONOMER,magnesium/cobalt transporter CorA,SGL_RS16695(),BioCyc
 SGL_RS10930-MONOMER,elongation factor G,SGL_RS10930(1),BioCyc
 SGL_RS18015-MONOMER,dihydroxy-acid dehydratase,SGL_RS18015(2),BioCyc
 SGL_RS08110-MONOMER,type 1 glutamine amidotransferase,SGL_RS08110(),BioCyc
@@ -258,7 +258,7 @@ SGL_RS04640-MONOMER,cadherin,SGL_RS04640(),BioCyc
 SGL_RS08430-MONOMER,membrane protein,SGL_RS08430(),BioCyc
 SGL_RS08960-MONOMER,flavodoxin FldA,SGL_RS08960(1),BioCyc
 SGL_RS13520-MONOMER,glutamine-hydrolyzing GMP synthase,SGL_RS13520(2),BioCyc
-SGL_RS12900-MONOMER,NAD-dependent succinate-semialdehyde dehydrogenase,SGL_RS12900(2),BioCyc
+SGL_RS12900-MONOMER,NAD-dependent succinate-semialdehyde dehydrogenase,SGL_RS12900(4),BioCyc
 SGL_RS06745-MONOMER,alpha/beta fold hydrolase,SGL_RS06745(),BioCyc
 SGL_RS06230-MONOMER,50S ribosomal protein L19,SGL_RS06230(1),BioCyc
 SGL_RS08225-MONOMER,DUF1232 domain-containing protein,SGL_RS08225(),BioCyc
@@ -280,12 +280,12 @@ SGL_RS04020-MONOMER,hypothetical protein,SGL_RS04020(),BioCyc
 SGL_RS17805-MONOMER,amidohydrolase,SGL_RS17805(),BioCyc
 SGL_RS14510-MONOMER,DUF3177 family protein,SGL_RS14510(),BioCyc
 SGL_RS00995-MONOMER,TIGR03985 family CRISPR-associated protein,SGL_RS00995(),BioCyc
-SGL_RS12080-MONOMER,dihydroorotase,SGL_RS12080(2),BioCyc
+SGL_RS12080-MONOMER,dihydroorotase,SGL_RS12080(),BioCyc
 SGL_RS07265-MONOMER,AarF/ABC1/UbiB kinase family protein,SGL_RS07265(),BioCyc
 SGL_RS15035-MONOMER,hypothetical protein,SGL_RS15035(),BioCyc
 SGL_RS18160-MONOMER,DUF2214 family protein,SGL_RS18160(),BioCyc
 SGL_RS12390-MONOMER,aromatic ring-hydroxylating dioxygenase subunit alpha,SGL_RS12390(),BioCyc
-SGL_RS04100-MONOMER,UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase,SGL_RS04100(1),BioCyc
+SGL_RS04100-MONOMER,UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase,SGL_RS04100(),BioCyc
 SGL_RS18915-MONOMER,DUF29 family protein,SGL_RS18915(),BioCyc
 SGL_RS12530-MONOMER,DUF1830 domain-containing protein,SGL_RS12530(),BioCyc
 SGL_RS11845-MONOMER,primosomal protein N',SGL_RS11845(),BioCyc
@@ -325,7 +325,7 @@ SGL_RS02945-MONOMER,hypothetical protein,SGL_RS02945(),BioCyc
 SGL_RS07225-MONOMER,Uma2 family endonuclease,SGL_RS07225(),BioCyc
 SGL_RS05085-MONOMER,hypothetical protein,SGL_RS05085(),BioCyc
 SGL_RS04205-MONOMER,hypothetical protein,SGL_RS04205(),BioCyc
-SGL_RS03865-MONOMER,calcium/sodium antiporter,SGL_RS03865(1),BioCyc
+SGL_RS03865-MONOMER,calcium/sodium antiporter,SGL_RS03865(),BioCyc
 SGL_RS06585-MONOMER,ABC transporter substrate-binding protein,SGL_RS06585(),BioCyc
 SGL_RS18855-MONOMER,IS630 family transposase,SGL_RS18855(),BioCyc
 SGL_RS03930-MONOMER,hypothetical protein,SGL_RS03930(),BioCyc
@@ -397,7 +397,7 @@ SGL_RS15070-MONOMER,GDP-L-fucose synthase,SGL_RS15070(),BioCyc
 SGL_RS02455-MONOMER,CPBP family intramembrane metalloprotease,SGL_RS02455(),BioCyc
 SGL_RS06125-MONOMER,triacylglycerol lipase,SGL_RS06125(),BioCyc
 SGL_RS10230-MONOMER,orange carotenoid-binding protein,SGL_RS10230(),BioCyc
-SGL_RS07100-MONOMER,glycogen/starch/alpha-glucan phosphorylase,SGL_RS07100(),BioCyc
+SGL_RS07100-MONOMER,glycogen/starch/alpha-glucan phosphorylase,SGL_RS07100(2),BioCyc
 SGL_RS05000-MONOMER,signal peptidase I,SGL_RS05000(),BioCyc
 SGL_RS02800-MONOMER,hypothetical protein,SGL_RS02800(),BioCyc
 SGL_RS04275-MONOMER,magnesium chelatase subunit H,SGL_RS04275(),BioCyc
@@ -428,9 +428,9 @@ SGL_RS07490-MONOMER,deoxyribose-phosphate aldolase,SGL_RS07490(1),BioCyc
 SGL_RS09595-MONOMER,cytochrome b6,SGL_RS09595(),BioCyc
 SGL_RS08280-MONOMER,hypothetical protein,SGL_RS08280(),BioCyc
 SGL_RS17120-MONOMER,response regulator transcription factor,SGL_RS17120(),BioCyc
-SGL_RS15775-MONOMER,AarF/ABC1/UbiB kinase family protein,SGL_RS15775(1),BioCyc
+SGL_RS15775-MONOMER,AarF/ABC1/UbiB kinase family protein,SGL_RS15775(),BioCyc
 SGL_RS07755-MONOMER,UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase,SGL_RS07755(1),BioCyc
-SGL_RS13395-MONOMER,murein transglycosylase A,SGL_RS13395(1),BioCyc
+SGL_RS13395-MONOMER,murein transglycosylase A,SGL_RS13395(),BioCyc
 SGL_RS05820-MONOMER,30S ribosomal protein S3,SGL_RS05820(1),BioCyc
 SGL_RS09540-MONOMER,glycosyltransferase,SGL_RS09540(),BioCyc
 SGL_RS08325-MONOMER,DMT family transporter,SGL_RS08325(),BioCyc
@@ -445,7 +445,7 @@ SGL_RS13335-MONOMER,hypothetical protein,SGL_RS13335(),BioCyc
 SGL_RS05200-MONOMER,DNA ligase,SGL_RS05200(),BioCyc
 SGL_RS16520-MONOMER,sirohydrochlorin chelatase,SGL_RS16520(),BioCyc
 SGL_RS12310-MONOMER,alpha/beta hydrolase,SGL_RS12310(),BioCyc
-SGL_RS17305-MONOMER,pyrroline-5-carboxylate reductase,SGL_RS17305(10),BioCyc
+SGL_RS17305-MONOMER,pyrroline-5-carboxylate reductase,SGL_RS17305(),BioCyc
 SGL_RS10200-MONOMER,heme A synthase,SGL_RS10200(),BioCyc
 SGL_RS07180-MONOMER,carboxynorspermidine decarboxylase,SGL_RS07180(),BioCyc
 SGL_RS00905-MONOMER,MerR family transcriptional regulator,SGL_RS00905(),BioCyc
@@ -455,7 +455,7 @@ SGL_RS06835-MONOMER,type II toxin-antitoxin system HicB family antitoxin,SGL_RS0
 SGL_RS05745-MONOMER,30S ribosomal protein S13,SGL_RS05745(1),BioCyc
 SGL_RS10520-MONOMER,J domain-containing protein,SGL_RS10520(),BioCyc
 SGL_RS08395-MONOMER,phosphate ABC transporter permease subunit PstC,SGL_RS08395(),BioCyc
-SGL_RS18105-MONOMER,anhydro-N-acetylmuramic acid kinase,SGL_RS18105(1),BioCyc
+SGL_RS18105-MONOMER,anhydro-N-acetylmuramic acid kinase,SGL_RS18105(),BioCyc
 SGL_RS02895-MONOMER,glutamate synthase small subunit,SGL_RS02895(),BioCyc
 SGL_RS02505-MONOMER,precorrin-4 C(11)-methyltransferase,SGL_RS02505(),BioCyc
 SGL_RS08505-MONOMER,hypothetical protein,SGL_RS08505(),BioCyc
@@ -510,7 +510,7 @@ SGL_RS06885-MONOMER,c-type cytochrome,SGL_RS06885(),BioCyc
 SGL_RS02120-MONOMER,ABC transporter ATP-binding protein,SGL_RS02120(),BioCyc
 SGL_RS02665-MONOMER,nickel pincer cofactor biosynthesis protein LarC,SGL_RS02665(),BioCyc
 SGL_RS08085-MONOMER,DUF1499 domain-containing protein,SGL_RS08085(),BioCyc
-SGL_RS02150-MONOMER,WecB/TagA/CpsF family glycosyltransferase,SGL_RS02150(1),BioCyc
+SGL_RS02150-MONOMER,WecB/TagA/CpsF family glycosyltransferase,SGL_RS02150(),BioCyc
 SGL_RS08160-MONOMER,hypothetical protein,SGL_RS08160(),BioCyc
 SGL_RS06450-MONOMER,"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",SGL_RS06450(3),BioCyc
 SGL_RS15320-MONOMER,DEAD/DEAH box helicase,SGL_RS15320(),BioCyc
@@ -521,7 +521,7 @@ SGL_RS12615-MONOMER,helix-turn-helix transcriptional regulator,SGL_RS12615(),Bio
 SGL_RS07075-MONOMER,DUF4393 domain-containing protein,SGL_RS07075(),BioCyc
 SGL_RS03820-MONOMER,universal stress protein,SGL_RS03820(),BioCyc
 SGL_RS15475-MONOMER,hypothetical protein,SGL_RS15475(),BioCyc
-SGL_RS16665-MONOMER,transglycosylase SLT domain-containing protein,SGL_RS16665(1),BioCyc
+SGL_RS16665-MONOMER,transglycosylase SLT domain-containing protein,SGL_RS16665(),BioCyc
 SGL_RS04005-MONOMER,EAL domain-containing protein,SGL_RS04005(),BioCyc
 SGL_RS04225-MONOMER,diguanylate cyclase,SGL_RS04225(),BioCyc
 SGL_RS01990-MONOMER,TonB-dependent siderophore receptor,SGL_RS01990(),BioCyc
@@ -533,7 +533,7 @@ SGL_RS15040-MONOMER,acyl-CoA desaturase,SGL_RS15040(),BioCyc
 SGL_RS08605-MONOMER,DUF3120 domain-containing protein,SGL_RS08605(),BioCyc
 SGL_RS00090-MONOMER,aminotransferase class V-fold PLP-dependent enzyme,SGL_RS00090(),BioCyc
 SGL_RS16675-MONOMER,uroporphyrinogen decarboxylase,SGL_RS16675(1),BioCyc
-SGL_RS17330-MONOMER,biosynthetic arginine decarboxylase,SGL_RS17330(4),BioCyc
+SGL_RS17330-MONOMER,biosynthetic arginine decarboxylase,SGL_RS17330(),BioCyc
 SGL_RS06525-MONOMER,Uma2 family endonuclease,SGL_RS06525(),BioCyc
 SGL_RS02215-MONOMER,DUF4160 domain-containing protein,SGL_RS02215(),BioCyc
 SGL_RS18335-MONOMER,hypothetical protein,SGL_RS18335(),BioCyc
@@ -541,10 +541,10 @@ SGL_RS04580-MONOMER,DNA topoisomerase 4 subunit A,SGL_RS04580(),BioCyc
 SGL_RS12325-MONOMER,IS5 family transposase,SGL_RS12325(),BioCyc
 SGL_RS08025-MONOMER,tetratricopeptide repeat protein,SGL_RS08025(),BioCyc
 SGL_RS19365-MONOMER,hypothetical protein,SGL_RS19365(),BioCyc
-SGL_RS04895-MONOMER,S-formylglutathione hydrolase,SGL_RS04895(1),BioCyc
+SGL_RS04895-MONOMER,S-formylglutathione hydrolase,SGL_RS04895(),BioCyc
 SGL_RS09750-MONOMER,Uma2 family endonuclease,SGL_RS09750(),BioCyc
 SGL_RS04345-MONOMER,response regulator,SGL_RS04345(),BioCyc
-SGL_RS14465-MONOMER,acyl-ACP--UDP-N-acetylglucosamine O-acyltransferase,SGL_RS14465(3),BioCyc
+SGL_RS14465-MONOMER,acyl-ACP--UDP-N-acetylglucosamine O-acyltransferase,SGL_RS14465(),BioCyc
 SGL_RS13430-MONOMER,DUF4330 domain-containing protein,SGL_RS13430(),BioCyc
 SGL_RS00625-MONOMER,AAA family ATPase,SGL_RS00625(),BioCyc
 SGL_RS10815-MONOMER,hypothetical protein,SGL_RS10815(),BioCyc
@@ -561,23 +561,23 @@ SGL_RS07570-MONOMER,ABC transporter permease,SGL_RS07570(),BioCyc
 SGL_RS01135-MONOMER,DUF4433 domain-containing protein,SGL_RS01135(),BioCyc
 SGL_RS09410-MONOMER,IS3 family transposase,SGL_RS09410(),BioCyc
 SGL_RS11790-MONOMER,urease subunit beta,SGL_RS11790(),BioCyc
-SGL_RS14580-MONOMER,ribose-5-phosphate isomerase RpiA,SGL_RS14580(2),BioCyc
+SGL_RS14580-MONOMER,ribose-5-phosphate isomerase RpiA,SGL_RS14580(),BioCyc
 SGL_RS05195-MONOMER,ferredoxin,SGL_RS05195(),BioCyc
 SGL_RS08980-MONOMER,UDP-glucose 4-epimerase GalE,SGL_RS08980(2),BioCyc
-SGL_RS01905-MONOMER,"GDP-mannose 4,6-dehydratase",SGL_RS01905(2),BioCyc
+SGL_RS01905-MONOMER,"GDP-mannose 4,6-dehydratase",SGL_RS01905(),BioCyc
 SGL_RS00815-MONOMER,growth inhibitor PemK,SGL_RS00815(),BioCyc
 SGL_RS05975-MONOMER,DUF3531 family protein,SGL_RS05975(),BioCyc
 SGL_RS13530-MONOMER,undecaprenyl-diphosphate phosphatase,SGL_RS13530(1),BioCyc
 SGL_RS15565-MONOMER,tRNA preQ1(34) S-adenosylmethionine ribosyltransferase-isomerase QueA,SGL_RS15565(1),BioCyc
-SGL_RS02730-MONOMER,iron-sulfur cluster assembly accessory protein,SGL_RS02730(4),BioCyc
-SGL_RS08115-MONOMER,NAD(P)/FAD-dependent oxidoreductase,SGL_RS08115(1),BioCyc
+SGL_RS02730-MONOMER,iron-sulfur cluster assembly accessory protein,SGL_RS02730(2),BioCyc
+SGL_RS08115-MONOMER,NAD(P)/FAD-dependent oxidoreductase,SGL_RS08115(),BioCyc
 SGL_RS12355-MONOMER,exodeoxyribonuclease III,SGL_RS12355(),BioCyc
 SGL_RS18185-MONOMER,DUF1269 domain-containing protein,SGL_RS18185(),BioCyc
 SGL_RS17775-MONOMER,hypothetical protein,SGL_RS17775(),BioCyc
 SGL_RS04795-MONOMER,hypothetical protein,SGL_RS04795(),BioCyc
 SGL_RS16900-MONOMER,potassium channel protein,SGL_RS16900(),BioCyc
 SGL_RS16575-MONOMER,iron uptake porin,SGL_RS16575(),BioCyc
-SGL_RS13785-MONOMER,pyridoxal phosphate-dependent aminotransferase,SGL_RS13785(),BioCyc
+SGL_RS13785-MONOMER,pyridoxal phosphate-dependent aminotransferase,SGL_RS13785(2),BioCyc
 SGL_RS13565-MONOMER,glycine--tRNA ligase subunit beta,SGL_RS13565(),BioCyc
 SGL_RS07275-MONOMER,clan AA aspartic protease,SGL_RS07275(),BioCyc
 SGL_RS13670-MONOMER,thioredoxin,SGL_RS13670(),BioCyc
@@ -586,7 +586,7 @@ SGL_RS09815-MONOMER,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex
 SGL_RS17655-MONOMER,ferredoxin:protochlorophyllide reductase (ATP-dependent) iron-sulfur ATP-binding protein,SGL_RS17655(),BioCyc
 SGL_RS04370-MONOMER,class I SAM-dependent methyltransferase,SGL_RS04370(),BioCyc
 SGL_RS11465-MONOMER,hypothetical protein,SGL_RS11465(),BioCyc
-SGL_RS14480-MONOMER,uroporphyrinogen-III C-methyltransferase,SGL_RS14480(2),BioCyc
+SGL_RS14480-MONOMER,uroporphyrinogen-III C-methyltransferase,SGL_RS14480(),BioCyc
 SGL_RS07695-MONOMER,HD domain-containing protein,SGL_RS07695(),BioCyc
 SGL_RS14700-MONOMER,GNAT family N-acetyltransferase,SGL_RS14700(),BioCyc
 SGL_RS15655-MONOMER,asparaginase,SGL_RS15655(),BioCyc
@@ -636,7 +636,7 @@ SGL_RS10055-MONOMER,IS4-like element IS4Sa family transposase,SGL_RS10055(),BioC
 SGL_RS10420-MONOMER,methionine ABC transporter ATP-binding protein,SGL_RS10420(),BioCyc
 SGL_RS13145-MONOMER,30S ribosome-binding factor RbfA,SGL_RS13145(1),BioCyc
 SGL_RS16485-MONOMER,GAF domain-containing protein,SGL_RS16485(),BioCyc
-SGL_RS11100-MONOMER,RNA methyltransferase,SGL_RS11100(2),BioCyc
+SGL_RS11100-MONOMER,RNA methyltransferase,SGL_RS11100(),BioCyc
 SGL_RS02855-MONOMER,prohibitin family protein,SGL_RS02855(),BioCyc
 SGL_RS03540-MONOMER,ABC transporter ATP-binding protein,SGL_RS03540(),BioCyc
 SGL_RS16395-MONOMER,mechanosensitive ion channel family protein,SGL_RS16395(),BioCyc
@@ -666,7 +666,7 @@ SGL_RS03235-MONOMER,"C-3',4' desaturase CrtD",SGL_RS03235(),BioCyc
 SGL_RS03115-MONOMER,thioredoxin family protein,SGL_RS03115(),BioCyc
 SGL_RS13285-MONOMER,hypothetical protein,SGL_RS13285(),BioCyc
 SGL_RS18620-MONOMER,HNH endonuclease,SGL_RS18620(),BioCyc
-SGL_RS12955-MONOMER,lactoylglutathione lyase,SGL_RS12955(2),BioCyc
+SGL_RS12955-MONOMER,lactoylglutathione lyase,SGL_RS12955(),BioCyc
 SGL_RS10295-MONOMER,GAF domain-containing protein,SGL_RS10295(),BioCyc
 SGL_RS04435-MONOMER,FAD-dependent thymidylate synthase,SGL_RS04435(),BioCyc
 SGL_RS18045-MONOMER,hypothetical protein,SGL_RS18045(),BioCyc
@@ -677,7 +677,7 @@ SGL_RS19455-MONOMER,hypothetical protein,SGL_RS19455(),BioCyc
 SGL_RS07495-MONOMER,hypothetical protein,SGL_RS07495(),BioCyc
 SGL_RS02390-MONOMER,NAD(P)/FAD-dependent oxidoreductase,SGL_RS02390(),BioCyc
 SGL_RS06635-MONOMER,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH,SGL_RS06635(),BioCyc
-SGL_RS05885-MONOMER,acetylglutamate kinase,SGL_RS05885(6),BioCyc
+SGL_RS05885-MONOMER,acetylglutamate kinase,SGL_RS05885(2),BioCyc
 SGL_RS14630-MONOMER,tetratricopeptide repeat protein,SGL_RS14630(),BioCyc
 SGL_RS06310-MONOMER,PsaB,SGL_RS06310(),BioCyc
 SGL_RS12860-MONOMER,NCS2 family permease,SGL_RS12860(),BioCyc
@@ -697,17 +697,17 @@ SGL_RS05700-MONOMER,adenylosuccinate synthase,SGL_RS05700(2),BioCyc
 SGL_RS10525-MONOMER,inositol monophosphatase,SGL_RS10525(1),BioCyc
 SGL_RS13860-MONOMER,acetolactate synthase small subunit,SGL_RS13860(),BioCyc
 SGL_RS04320-MONOMER,hypothetical protein,SGL_RS04320(),BioCyc
-SGL_RS15085-MONOMER,alanine racemase,SGL_RS15085(2),BioCyc
+SGL_RS15085-MONOMER,alanine racemase,SGL_RS15085(1),BioCyc
 SGL_RS03785-MONOMER,glycosyltransferase family 2 protein,SGL_RS03785(),BioCyc
 SGL_RS04805-MONOMER,hypothetical protein,SGL_RS04805(),BioCyc
 SGL_RS02180-MONOMER,hypothetical protein,SGL_RS02180(),BioCyc
 SGL_RS12060-MONOMER,phosphoribosylanthranilate isomerase,SGL_RS12060(),BioCyc
 SGL_RS12645-MONOMER,hypothetical protein,SGL_RS12645(),BioCyc
 SGL_RS16370-MONOMER,tRNA guanosine(34) transglycosylase Tgt,SGL_RS16370(6),BioCyc
-SGL_RS14780-MONOMER,cyanase,SGL_RS14780(10),BioCyc
+SGL_RS14780-MONOMER,cyanase,SGL_RS14780(),BioCyc
 SGL_RS06350-MONOMER,BMC domain-containing protein,SGL_RS06350(),BioCyc
 SGL_RS00545-MONOMER,aminoacyl-tRNA hydrolase,SGL_RS00545(),BioCyc
-SGL_RS16270-MONOMER,cation-transporting P-type ATPase,SGL_RS16270(),BioCyc
+SGL_RS16270-MONOMER,cation-transporting P-type ATPase,SGL_RS16270(1),BioCyc
 SGL_RS11655-MONOMER,iron export ABC transporter permease subunit FetB,SGL_RS11655(),BioCyc
 SGL_RS17405-MONOMER,L-2-hydroxyglutarate oxidase,SGL_RS17405(),BioCyc
 SGL_RS03380-MONOMER,"sulfite reductase, ferredoxin dependent",SGL_RS03380(),BioCyc
@@ -738,7 +738,7 @@ SGL_RS01055-MONOMER,hypothetical protein,SGL_RS01055(),BioCyc
 SGL_RS08300-MONOMER,hypothetical protein,SGL_RS08300(),BioCyc
 SGL_RS02975-MONOMER,hypothetical protein,SGL_RS02975(),BioCyc
 SGL_RS07865-MONOMER,signal peptide peptidase SppA,SGL_RS07865(),BioCyc
-SGL_RS16420-MONOMER,pyruvate:ferredoxin (flavodoxin) oxidoreductase,SGL_RS16420(1),BioCyc
+SGL_RS16420-MONOMER,pyruvate:ferredoxin (flavodoxin) oxidoreductase,SGL_RS16420(),BioCyc
 SGL_RS05105-MONOMER,thioredoxin family protein,SGL_RS05105(),BioCyc
 SGL_RS16070-MONOMER,glycoside hydrolase family protein,SGL_RS16070(),BioCyc
 SGL_RS07995-MONOMER,RIP metalloprotease RseP,SGL_RS07995(),BioCyc
@@ -755,7 +755,7 @@ SGL_RS14675-MONOMER,peptidylprolyl isomerase,SGL_RS14675(),BioCyc
 SGL_RS07195-MONOMER,YjgP/YjgQ family permease,SGL_RS07195(),BioCyc
 SGL_RS08165-MONOMER,sigma-70 family RNA polymerase sigma factor,SGL_RS08165(),BioCyc
 SGL_RS00140-MONOMER,DUF89 family protein,SGL_RS00140(),BioCyc
-SGL_RS18715-MONOMER,50S ribosomal protein L36,SGL_RS18715(1),BioCyc
+SGL_RS18715-MONOMER,50S ribosomal protein L36,SGL_RS18715(),BioCyc
 SGL_RS08945-MONOMER,bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate--cysteine ligase CoaBC,SGL_RS08945(12),BioCyc
 SGL_RS14050-MONOMER,photosystem II reaction center X protein,SGL_RS14050(),BioCyc
 SGL_RS15200-MONOMER,hypothetical protein,SGL_RS15200(),BioCyc
@@ -763,11 +763,11 @@ SGL_RS07210-MONOMER,hypothetical protein,SGL_RS07210(),BioCyc
 SGL_RS17490-MONOMER,TIGR00266 family protein,SGL_RS17490(),BioCyc
 SGL_RS13005-MONOMER,cysteine desulfurase,SGL_RS13005(2),BioCyc
 SGL_RS03910-MONOMER,alpha/beta hydrolase,SGL_RS03910(),BioCyc
-SGL_RS03475-MONOMER,tRNA dihydrouridine(20/20a) synthase DusA,SGL_RS03475(1),BioCyc
+SGL_RS03475-MONOMER,tRNA dihydrouridine(20/20a) synthase DusA,SGL_RS03475(),BioCyc
 SGL_RS04105-MONOMER,alpha/beta hydrolase,SGL_RS04105(),BioCyc
 SGL_RS04290-MONOMER,nucleoside triphosphate pyrophosphohydrolase,SGL_RS04290(2),BioCyc
 SGL_RS01005-MONOMER,hypothetical protein,SGL_RS01005(),BioCyc
-SGL_RS05425-MONOMER,ABC transporter ATP-binding protein,SGL_RS05425(2),BioCyc
+SGL_RS05425-MONOMER,ABC transporter ATP-binding protein,SGL_RS05425(),BioCyc
 SGL_RS12550-MONOMER,hybrid sensor histidine kinase/response regulator,SGL_RS12550(),BioCyc
 SGL_RS15045-MONOMER,aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,SGL_RS15045(),BioCyc
 SGL_RS11160-MONOMER,hypothetical protein,SGL_RS11160(),BioCyc
@@ -791,7 +791,7 @@ SGL_RS10820-MONOMER,sigma 54-interacting transcriptional regulator,SGL_RS10820()
 SGL_RS09960-MONOMER,photosystem I assembly protein Ycf3,SGL_RS09960(),BioCyc
 SGL_RS13110-MONOMER,ABC transporter ATP-binding protein,SGL_RS13110(),BioCyc
 SGL_RS08045-MONOMER,succinate dehydrogenase/fumarate reductase iron-sulfur subunit,SGL_RS08045(),BioCyc
-SGL_RS11025-MONOMER,oxidoreductase,SGL_RS11025(8),BioCyc
+SGL_RS11025-MONOMER,oxidoreductase,SGL_RS11025(),BioCyc
 SGL_RS06810-MONOMER,"1,4-dihydroxy-2-naphthoyl-CoA synthase",SGL_RS06810(6),BioCyc
 SGL_RS01320-MONOMER,HNH endonuclease,SGL_RS01320(),BioCyc
 SGL_RS12755-MONOMER,DUF4101 domain-containing protein,SGL_RS12755(),BioCyc
@@ -809,7 +809,7 @@ SGL_RS03870-MONOMER,histidinol dehydrogenase,SGL_RS03870(),BioCyc
 SGL_RS09485-MONOMER,sugar phosphate isomerase/epimerase,SGL_RS09485(),BioCyc
 SGL_RS14020-MONOMER,hypothetical protein,SGL_RS14020(),BioCyc
 SGL_RS13595-MONOMER,sterol desaturase family protein,SGL_RS13595(),BioCyc
-SGL_RS16880-MONOMER,"3'(2'),5'-bisphosphate nucleotidase CysQ",SGL_RS16880(1),BioCyc
+SGL_RS16880-MONOMER,"3'(2'),5'-bisphosphate nucleotidase CysQ",SGL_RS16880(),BioCyc
 SGL_RS13675-MONOMER,hydroxylase,SGL_RS13675(),BioCyc
 SGL_RS16965-MONOMER,type II toxin-antitoxin system VapC family toxin,SGL_RS16965(),BioCyc
 SGL_RS14335-MONOMER,2-succinyl-5-enolpyruvyl-6-hydroxy-3- cyclohexene-1-carboxylic-acid synthase,SGL_RS14335(2),BioCyc
@@ -843,7 +843,7 @@ SGL_RS15910-MONOMER,TVP38/TMEM64 family protein,SGL_RS15910(),BioCyc
 SGL_RS11305-MONOMER,carboxylating nicotinate-nucleotide diphosphorylase,SGL_RS11305(2),BioCyc
 SGL_RS13730-MONOMER,elongation factor P,SGL_RS13730(),BioCyc
 SGL_RS03670-MONOMER,glycosyltransferase,SGL_RS03670(),BioCyc
-SGL_RS04455-MONOMER,Grx4 family monothiol glutaredoxin,SGL_RS04455(2),BioCyc
+SGL_RS04455-MONOMER,Grx4 family monothiol glutaredoxin,SGL_RS04455(),BioCyc
 SGL_RS02430-MONOMER,HAMP domain-containing protein,SGL_RS02430(),BioCyc
 SGL_RS14270-MONOMER,folate-binding protein YgfZ,SGL_RS14270(),BioCyc
 SGL_RS04500-MONOMER,hypothetical protein,SGL_RS04500(),BioCyc
@@ -873,7 +873,7 @@ SGL_RS16935-MONOMER,hypothetical protein,SGL_RS16935(),BioCyc
 SGL_RS13825-MONOMER,glycosyltransferase,SGL_RS13825(),BioCyc
 SGL_RS18275-MONOMER,cyclic nucleotide-binding domain-containing protein,SGL_RS18275(),BioCyc
 SGL_RS06090-MONOMER,hypothetical protein,SGL_RS06090(),BioCyc
-SGL_RS12555-MONOMER,alpha-mannosidase,SGL_RS12555(1),BioCyc
+SGL_RS12555-MONOMER,alpha-mannosidase,SGL_RS12555(),BioCyc
 SGL_RS02460-MONOMER,phosphate signaling complex protein PhoU,SGL_RS02460(),BioCyc
 SGL_RS03895-MONOMER,MBL fold metallo-hydrolase,SGL_RS03895(),BioCyc
 SGL_RS02540-MONOMER,universal stress protein,SGL_RS02540(),BioCyc
@@ -972,7 +972,7 @@ SGL_RS03275-MONOMER,UDP-glucose/GDP-mannose dehydrogenase family protein,SGL_RS0
 SGL_RS05540-MONOMER,cytochrome c oxidase subunit II,SGL_RS05540(),BioCyc
 SGL_RS07650-MONOMER,aminoglycoside phosphotransferase family protein,SGL_RS07650(),BioCyc
 SGL_RS07435-MONOMER,glycogen debranching protein GlgX,SGL_RS07435(),BioCyc
-SGL_RS16335-MONOMER,NADPH-dependent 7-cyano-7-deazaguanine reductase QueF,SGL_RS16335(),BioCyc
+SGL_RS16335-MONOMER,NADPH-dependent 7-cyano-7-deazaguanine reductase QueF,SGL_RS16335(2),BioCyc
 SGL_RS17150-MONOMER,sulfate ABC transporter permease subunit CysT,SGL_RS17150(),BioCyc
 SGL_RS00020-MONOMER,DUF4114 domain-containing protein,SGL_RS00020(),BioCyc
 SGL_RS12625-MONOMER,NADH-quinone oxidoreductase subunit M,SGL_RS12625(),BioCyc
@@ -989,7 +989,7 @@ SGL_RS13365-MONOMER,flavin reductase family protein,SGL_RS13365(),BioCyc
 SGL_RS00945-MONOMER,hypothetical protein,SGL_RS00945(),BioCyc
 SGL_RS04395-MONOMER,DUF5615 family PIN-like protein,SGL_RS04395(),BioCyc
 SGL_RS02930-MONOMER,SulP family inorganic anion transporter,SGL_RS02930(),BioCyc
-SGL_RS08170-MONOMER,H(+)/Cl(-) exchange transporter ClcA,SGL_RS08170(1),BioCyc
+SGL_RS08170-MONOMER,H(+)/Cl(-) exchange transporter ClcA,SGL_RS08170(),BioCyc
 SGL_RS05750-MONOMER,translation initiation factor IF-1,SGL_RS05750(1),BioCyc
 SGL_RS06245-MONOMER,late competence development ComFB family protein,SGL_RS06245(),BioCyc
 CPLX220H-18,ClpP1/P2 protease core,SGL_RS16735() AND SGL_RS16910(),BioCyc
@@ -1010,7 +1010,7 @@ SGL_RS02220-MONOMER,phosphoribosylformylglycinamidine synthase subunit PurL,SGL_
 SGL_RS06360-MONOMER,glycerate kinase,SGL_RS06360(1),BioCyc
 SGL_RS05635-MONOMER,DUF4269 domain-containing protein,SGL_RS05635(),BioCyc
 SGL_RS12330-MONOMER,IS5 family transposase,SGL_RS12330(),BioCyc
-SGL_RS03060-MONOMER,phosphoadenosine phosphosulfate reductase,SGL_RS03060(2),BioCyc
+SGL_RS03060-MONOMER,phosphoadenosine phosphosulfate reductase,SGL_RS03060(),BioCyc
 SGL_RS00330-MONOMER,hypothetical protein,SGL_RS00330(),BioCyc
 SGL_RS17280-MONOMER,GNAT family N-acetyltransferase,SGL_RS17280(),BioCyc
 SGL_RS17570-MONOMER,hypothetical protein,SGL_RS17570(),BioCyc
@@ -1032,7 +1032,7 @@ SGL_RS14590-MONOMER,hypothetical protein,SGL_RS14590(),BioCyc
 SGL_RS12705-MONOMER,recombinase family protein,SGL_RS12705(),BioCyc
 SGL_RS07500-MONOMER,UPF0175 family protein,SGL_RS07500(),BioCyc
 SGL_RS01145-MONOMER,AAA family ATPase,SGL_RS01145(),BioCyc
-SGL_RS14930-MONOMER,type I methionyl aminopeptidase,SGL_RS14930(),BioCyc
+SGL_RS14930-MONOMER,type I methionyl aminopeptidase,SGL_RS14930(1),BioCyc
 SGL_RS17895-MONOMER,DegT/DnrJ/EryC1/StrS family aminotransferase,SGL_RS17895(),BioCyc
 SGL_RS05825-MONOMER,50S ribosomal protein L22,SGL_RS05825(1),BioCyc
 SGL_RS09420-MONOMER,DUF86 domain-containing protein,SGL_RS09420(),BioCyc
@@ -1046,13 +1046,13 @@ SGL_RS15295-MONOMER,type II/IV secretion system protein,SGL_RS15295(),BioCyc
 SGL_RS08235-MONOMER,TldD/PmbA family protein,SGL_RS08235(),BioCyc
 SGL_RS05980-MONOMER,hypothetical protein,SGL_RS05980(),BioCyc
 SGL_RS04590-MONOMER,zinc-dependent peptidase,SGL_RS04590(),BioCyc
-SGL_RS19005-MONOMER,30S ribosomal protein S21,SGL_RS19005(),BioCyc
+SGL_RS19005-MONOMER,30S ribosomal protein S21,SGL_RS19005(1),BioCyc
 SGL_RS18765-MONOMER,chlorophyll A-B-binding protein,SGL_RS18765(),BioCyc
 SGL_RS08090-MONOMER,photosystem II reaction center protein Psb28,SGL_RS08090(),BioCyc
 SGL_RS16905-MONOMER,ClpX,SGL_RS16905(),BioCyc
 SGL_RS17470-MONOMER,nickel pincer cofactor biosynthesis protein LarB,SGL_RS17470(),BioCyc
 SGL_RS13570-MONOMER,type II toxin-antitoxin system VapC family toxin,SGL_RS13570(),BioCyc
-SGL_RS13790-MONOMER,citrate synthase,SGL_RS13790(6),BioCyc
+SGL_RS13790-MONOMER,citrate synthase,SGL_RS13790(2),BioCyc
 SGL_RS13680-MONOMER,chaperonin GroEL,SGL_RS13680(),BioCyc
 SGL_RS03995-MONOMER,FAD-dependent oxidoreductase,SGL_RS03995(),BioCyc
 SGL_RS14205-MONOMER,PstS family phosphate ABC transporter substrate-binding protein,SGL_RS14205(),BioCyc
@@ -1071,13 +1071,13 @@ SGL_RS01535-MONOMER,ParA family protein,SGL_RS01535(),BioCyc
 SGL_RS11585-MONOMER,SsrA-binding protein SmpB,SGL_RS11585(),BioCyc
 SGL_RS04705-MONOMER,DUF4131 domain-containing protein,SGL_RS04705(),BioCyc
 SGL_RS00285-MONOMER,hypothetical protein,SGL_RS00285(),BioCyc
-SGL_RS17740-MONOMER,"phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)",SGL_RS17740(1),BioCyc
+SGL_RS17740-MONOMER,"phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)",SGL_RS17740(),BioCyc
 SGL_RS02355-MONOMER,hypothetical protein,SGL_RS02355(),BioCyc
 SGL_RS12120-MONOMER,hypothetical protein,SGL_RS12120(),BioCyc
 SGL_RS11225-MONOMER,CoA-binding protein,SGL_RS11225(),BioCyc
 SGL_RS09310-MONOMER,glycosyltransferase family 4 protein,SGL_RS09310(),BioCyc
 SGL_RS01745-MONOMER,hypothetical protein,SGL_RS01745(),BioCyc
-SGL_RS15980-MONOMER,SDR family oxidoreductase,SGL_RS15980(4),BioCyc
+SGL_RS15980-MONOMER,SDR family oxidoreductase,SGL_RS15980(),BioCyc
 SGL_RS17920-MONOMER,PIN domain-containing protein,SGL_RS17920(),BioCyc
 SGL_RS05340-MONOMER,MBL fold metallo-hydrolase,SGL_RS05340(),BioCyc
 SGL_RS10105-MONOMER,bifunctional pantoate--beta-alanine ligase/(d)CMP kinase,SGL_RS10105(2),BioCyc
@@ -1098,7 +1098,7 @@ SGL_RS06200-MONOMER,50S ribosomal protein L10,SGL_RS06200(1),BioCyc
 SGL_RS09025-MONOMER,hypothetical protein,SGL_RS09025(),BioCyc
 SGL_RS01235-MONOMER,class I SAM-dependent methyltransferase,SGL_RS01235(),BioCyc
 SGL_RS03015-MONOMER,VOC family protein,SGL_RS03015(),BioCyc
-SGL_RS17040-MONOMER,M1 family metallopeptidase,SGL_RS17040(1),BioCyc
+SGL_RS17040-MONOMER,M1 family metallopeptidase,SGL_RS17040(),BioCyc
 SGL_RS02700-MONOMER,"ATP synthase Fo, a subunit",SGL_RS02700(),BioCyc
 SGL_RS16490-MONOMER,chemotaxis protein CheW,SGL_RS16490(),BioCyc
 SGL_RS12260-MONOMER,serine hydrolase,SGL_RS12260(),BioCyc
@@ -1118,7 +1118,7 @@ SGL_RS10765-MONOMER,serine hydrolase,SGL_RS10765(),BioCyc
 SGL_RS03640-MONOMER,UDP-glucose 4-epimerase GalE,SGL_RS03640(),BioCyc
 SGL_RS13925-MONOMER,patatin-like phospholipase family protein,SGL_RS13925(),BioCyc
 SGL_RS00465-MONOMER,hypothetical protein,SGL_RS00465(),BioCyc
-SGL_RS08700-MONOMER,cation-transporting P-type ATPase,SGL_RS08700(1),BioCyc
+SGL_RS08700-MONOMER,cation-transporting P-type ATPase,SGL_RS08700(),BioCyc
 SGL_RS02825-MONOMER,translational GTPase TypA,SGL_RS02825(),BioCyc
 SGL_RS14840-MONOMER,hypothetical protein,SGL_RS14840(),BioCyc
 SGL_RS12450-MONOMER,"2,3-bisphosphoglycerate-independent phosphoglycerate mutase",SGL_RS12450(1),BioCyc
@@ -1128,7 +1128,7 @@ SGL_RS03125-MONOMER,glycosyltransferase,SGL_RS03125(),BioCyc
 SGL_RS06400-MONOMER,hypothetical protein,SGL_RS06400(),BioCyc
 SGL_RS16995-MONOMER,NAD(P)H-quinone oxidoreductase subunit I,SGL_RS16995(),BioCyc
 SGL_RS13290-MONOMER,energy-coupling factor ABC transporter ATP-binding protein,SGL_RS13290(),BioCyc
-SGL_RS10670-MONOMER,WecB/TagA/CpsF family glycosyltransferase,SGL_RS10670(),BioCyc
+SGL_RS10670-MONOMER,WecB/TagA/CpsF family glycosyltransferase,SGL_RS10670(1),BioCyc
 SGL_RS03240-MONOMER,YggT family protein,SGL_RS03240(),BioCyc
 SGL_RS07290-MONOMER,M67 family metallopeptidase,SGL_RS07290(),BioCyc
 SGL_RS01820-MONOMER,Fic family protein,SGL_RS01820(),BioCyc
@@ -1161,7 +1161,7 @@ SGL_RS04210-MONOMER,HAMP domain-containing protein,SGL_RS04210(),BioCyc
 SGL_RS04110-MONOMER,hypothetical protein,SGL_RS04110(),BioCyc
 SGL_RS16580-MONOMER,bicarbonate transport ATP-binding subunit C,SGL_RS16580(),BioCyc
 SGL_RS16685-MONOMER,hypothetical protein,SGL_RS16685(),BioCyc
-SGL_RS01880-MONOMER,pseudouridine synthase,SGL_RS01880(1),BioCyc
+SGL_RS01880-MONOMER,pseudouridine synthase,SGL_RS01880(),BioCyc
 SGL_RS14035-MONOMER,response regulator,SGL_RS14035(),BioCyc
 SGL_RS10540-MONOMER,C40 family peptidase,SGL_RS10540(),BioCyc
 SGL_RS05410-MONOMER,type II secretion system protein,SGL_RS05410(),BioCyc
@@ -1185,9 +1185,9 @@ SGL_RS04565-MONOMER,hypothetical protein,SGL_RS04565(),BioCyc
 SGL_RS11660-MONOMER,carotenoid oxygenase family protein,SGL_RS11660(),BioCyc
 SGL_RS03310-MONOMER,ergothioneine biosynthesis protein EgtB,SGL_RS03310(),BioCyc
 SGL_RS17205-MONOMER,radical SAM protein,SGL_RS17205(),BioCyc
-SGL_RS15835-MONOMER,TrmJ/YjtD family RNA methyltransferase,SGL_RS15835(2),BioCyc
+SGL_RS15835-MONOMER,TrmJ/YjtD family RNA methyltransferase,SGL_RS15835(),BioCyc
 SGL_RS12195-MONOMER,hypothetical protein,SGL_RS12195(),BioCyc
-SGL_RS06800-MONOMER,,SGL_RS06800(4),BioCyc
+SGL_RS06800-MONOMER,,SGL_RS06800(),BioCyc
 SGL_RS09315-MONOMER,Na+ -ATPase subunit J,SGL_RS09315(),BioCyc
 SGL_RS04890-MONOMER,hypothetical protein,SGL_RS04890(),BioCyc
 SGL_RS15745-MONOMER,bifunctional cobalt-precorrin-7 (C(5))-methyltransferase/cobalt-precorrin-6B (C(15))-methyltransferase,SGL_RS15745(),BioCyc
@@ -1241,7 +1241,7 @@ SGL_RS04955-MONOMER,mechanosensitive ion channel family protein,SGL_RS04955(),Bi
 SGL_RS11855-MONOMER,YtxH domain-containing protein,SGL_RS11855(),BioCyc
 SGL_RS00620-MONOMER,IS4-like element IS4Sa family transposase,SGL_RS00620(),BioCyc
 SGL_RS17355-MONOMER,type II toxin-antitoxin system RelE/ParE family toxin,SGL_RS17355(),BioCyc
-SGL_RS04920-MONOMER,tyrosine--tRNA ligase,SGL_RS04920(2),BioCyc
+SGL_RS04920-MONOMER,tyrosine--tRNA ligase,SGL_RS04920(),BioCyc
 SGL_RS02315-MONOMER,4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase,SGL_RS02315(2),BioCyc
 SGL_RS00250-MONOMER,WecB/TagA/CpsF family glycosyltransferase,SGL_RS00250(),BioCyc
 SGL_RS18340-MONOMER,hypothetical protein,SGL_RS18340(),BioCyc
@@ -1253,7 +1253,7 @@ SGL_RS07745-MONOMER,hypothetical protein,SGL_RS07745(),BioCyc
 SGL_RS15615-MONOMER,mechanosensitive ion channel family protein,SGL_RS15615(),BioCyc
 SGL_RS07535-MONOMER,LysR family transcriptional regulator,SGL_RS07535(),BioCyc
 SGL_RS15875-MONOMER,FHA domain-containing protein,SGL_RS15875(),BioCyc
-SGL_RS10830-MONOMER,pyridoxamine 5'-phosphate oxidase,SGL_RS10830(2),BioCyc
+SGL_RS10830-MONOMER,pyridoxamine 5'-phosphate oxidase,SGL_RS10830(),BioCyc
 SGL_RS07845-MONOMER,DUF427 domain-containing protein,SGL_RS07845(),BioCyc
 SGL_RS09970-MONOMER,DUF29 domain-containing protein,SGL_RS09970(),BioCyc
 SGL_RS06790-MONOMER,hypothetical protein,SGL_RS06790(),BioCyc
@@ -1308,7 +1308,7 @@ SGL_RS16240-MONOMER,IS5 family transposase,SGL_RS16240(),BioCyc
 SGL_RS16140-MONOMER,GNAT family N-acetyltransferase,SGL_RS16140(),BioCyc
 SGL_RS05045-MONOMER,hypothetical protein,SGL_RS05045(),BioCyc
 SGL_RS17945-MONOMER,DUF2887 domain-containing protein,SGL_RS17945(),BioCyc
-SGL_RS15915-MONOMER,"multifunctional 2',3'-cyclic-nucleotide 2'-phosphodiesterase/5'-nucleotidase/3'-nucleotidase",SGL_RS15915(1),BioCyc
+SGL_RS15915-MONOMER,"multifunctional 2',3'-cyclic-nucleotide 2'-phosphodiesterase/5'-nucleotidase/3'-nucleotidase",SGL_RS15915(),BioCyc
 SGL_RS08485-MONOMER,DUF2892 domain-containing protein,SGL_RS08485(),BioCyc
 SGL_RS08510-MONOMER,histidinol-phosphatase,SGL_RS08510(),BioCyc
 SGL_RS06970-MONOMER,hypothetical protein,SGL_RS06970(),BioCyc
@@ -1319,7 +1319,7 @@ SGL_RS06825-MONOMER,nucleotidyltransferase family protein,SGL_RS06825(),BioCyc
 SGL_RS03675-MONOMER,hypothetical protein,SGL_RS03675(),BioCyc
 SGL_RS04505-MONOMER,phospholipid carrier-dependent glycosyltransferase,SGL_RS04505(),BioCyc
 SGL_RS13190-MONOMER,amino acid ABC transporter substrate-binding protein,SGL_RS13190(),BioCyc
-SGL_RS04730-MONOMER,N-acetylmuramoyl-L-alanine amidase,SGL_RS04730(1),BioCyc
+SGL_RS04730-MONOMER,N-acetylmuramoyl-L-alanine amidase,SGL_RS04730(),BioCyc
 SGL_RS06870-MONOMER,hypothetical protein,SGL_RS06870(),BioCyc
 SGL_RS12795-MONOMER,IS4-like element IS4Sa family transposase,SGL_RS12795(),BioCyc
 SGL_RS05860-MONOMER,DUF98 domain-containing protein,SGL_RS05860(),BioCyc
@@ -1388,7 +1388,7 @@ SGL_RS09550-MONOMER,acylneuraminate cytidylyltransferase,SGL_RS09550(),BioCyc
 SGL_RS08335-MONOMER,DUF4079 domain-containing protein,SGL_RS08335(),BioCyc
 SGL_RS00410-MONOMER,SDR family oxidoreductase,SGL_RS00410(),BioCyc
 SGL_RS09050-MONOMER,50S ribosomal protein L7/L12,SGL_RS09050(),BioCyc
-CPLX220H-21,F<sub>1</sub> complex,SGL_RS02675() AND SGL_RS09705() AND SGL_RS02680() AND SGL_RS02670() AND SGL_RS09710(),BioCyc
+CPLX220H-21,F<sub>1</sub> complex,SGL_RS09710() AND SGL_RS09705() AND SGL_RS02670() AND SGL_RS02675() AND SGL_RS02680(),BioCyc
 SGL_RS00850-MONOMER,DUF4386 domain-containing protein,SGL_RS00850(),BioCyc
 SGL_RS15260-MONOMER,Fe-S cluster assembly protein SufD,SGL_RS15260(),BioCyc
 SGL_RS07960-MONOMER,DUF29 domain-containing protein,SGL_RS07960(),BioCyc
@@ -1452,16 +1452,16 @@ SGL_RS09055-MONOMER,hypothetical protein,SGL_RS09055(),BioCyc
 SGL_RS02670-MONOMER,"ATP synthase F1, &gamma; subunit",SGL_RS02670(),BioCyc
 SGL_RS06280-MONOMER,fasciclin domain-containing protein,SGL_RS06280(),BioCyc
 SGL_RS12545-MONOMER,GTPase Era,SGL_RS12545(2),BioCyc
-SGL_RS02155-MONOMER,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB,SGL_RS02155(2),BioCyc
+SGL_RS02155-MONOMER,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB,SGL_RS02155(),BioCyc
 SGL_RS06455-MONOMER,MATE family efflux transporter,SGL_RS06455(),BioCyc
 SGL_RS15325-MONOMER,N-acetyl-gamma-glutamyl-phosphate reductase,SGL_RS15325(1),BioCyc
 SGL_RS04400-MONOMER,carbon-nitrogen hydrolase family protein,SGL_RS04400(),BioCyc
 SGL_RS04820-MONOMER,LysR family transcriptional regulator,SGL_RS04820(),BioCyc
 CPLX220H-17,ClpP1/P2 heptamer,SGL_RS16910() AND SGL_RS16735(),BioCyc
 SGL_RS07510-MONOMER,hypothetical protein,SGL_RS07510(),BioCyc
-SGL_RS03830-MONOMER,alkaline phosphatase,SGL_RS03830(),BioCyc
+SGL_RS03830-MONOMER,alkaline phosphatase,SGL_RS03830(1),BioCyc
 SGL_RS01995-MONOMER,biopolymer transporter ExbD,SGL_RS01995(),BioCyc
-SGL_RS16765-MONOMER,aldo/keto reductase,SGL_RS16765(1),BioCyc
+SGL_RS16765-MONOMER,aldo/keto reductase,SGL_RS16765(),BioCyc
 SGL_RS01020-MONOMER,hypothetical protein,SGL_RS01020(),BioCyc
 SGL_RS07970-MONOMER,pentapeptide repeat-containing protein,SGL_RS07970(),BioCyc
 SGL_RS10145-MONOMER,cytochrome c,SGL_RS10145(),BioCyc
@@ -1514,12 +1514,12 @@ SGL_RS13690-MONOMER,pentapeptide repeat-containing protein,SGL_RS13690(),BioCyc
 SGL_RS14225-MONOMER,PspA/IM30 family protein,SGL_RS14225(),BioCyc
 SGL_RS02085-MONOMER,hypothetical protein,SGL_RS02085(),BioCyc
 SGL_RS09825-MONOMER,SDR family oxidoreductase,SGL_RS09825(),BioCyc
-SGL_RS11485-MONOMER,inorganic diphosphatase,SGL_RS11485(6),BioCyc
+SGL_RS11485-MONOMER,inorganic diphosphatase,SGL_RS11485(),BioCyc
 SGL_RS04375-MONOMER,hypothetical protein,SGL_RS04375(),BioCyc
 SGL_RS14525-MONOMER,hypothetical protein,SGL_RS14525(),BioCyc
 SGL_RS07900-MONOMER,DUF362 domain-containing protein,SGL_RS07900(),BioCyc
 SGL_RS15410-MONOMER,circadian clock protein KaiB,SGL_RS15410(),BioCyc
-SGL_RS14710-MONOMER,methionine synthase,SGL_RS14710(1),BioCyc
+SGL_RS14710-MONOMER,methionine synthase,SGL_RS14710(),BioCyc
 SGL_RS03715-MONOMER,hypothetical protein,SGL_RS03715(),BioCyc
 SGL_RS15660-MONOMER,CGLD27 family protein,SGL_RS15660(),BioCyc
 SGL_RS01550-MONOMER,response regulator transcription factor,SGL_RS01550(),BioCyc
@@ -1546,20 +1546,20 @@ SGL_RS07145-MONOMER,TIGR00297 family protein,SGL_RS07145(),BioCyc
 SGL_RS17065-MONOMER,bacterioferritin,SGL_RS17065(),BioCyc
 SGL_RS00720-MONOMER,DUF262 domain-containing protein,SGL_RS00720(),BioCyc
 SGL_RS07750-MONOMER,7-carboxy-7-deazaguanine synthase QueE,SGL_RS07750(),BioCyc
-SGL_RS14280-MONOMER,adenosylcobinamide-GDP ribazoletransferase,SGL_RS14280(1),BioCyc
+SGL_RS14280-MONOMER,adenosylcobinamide-GDP ribazoletransferase,SGL_RS14280(),BioCyc
 SGL_RS14990-MONOMER,hypothetical protein,SGL_RS14990(),BioCyc
 SGL_RS15400-MONOMER,Uma2 family endonuclease,SGL_RS15400(),BioCyc
 SGL_RS16400-MONOMER,6-phosphofructokinase,SGL_RS16400(),BioCyc
 SGL_RS12805-MONOMER,DNA repair protein RecO,SGL_RS12805(),BioCyc
 SGL_RS13045-MONOMER,sugar porter family MFS transporter,SGL_RS13045(1),BioCyc
-SGL_RS14125-MONOMER,4'-phosphopantetheinyl transferase superfamily protein,SGL_RS14125(1),BioCyc
+SGL_RS14125-MONOMER,4'-phosphopantetheinyl transferase superfamily protein,SGL_RS14125(),BioCyc
 SGL_RS10460-MONOMER,hypothetical protein,SGL_RS10460(),BioCyc
 SGL_RS05925-MONOMER,DNA-directed RNA polymerase subunit beta'',SGL_RS05925(),BioCyc
 SGL_RS17935-MONOMER,hypothetical protein,SGL_RS17935(),BioCyc
 SGL_RS09065-MONOMER,hypothetical protein,SGL_RS09065(),BioCyc
 SGL_RS11825-MONOMER,sodium:proton antiporter,SGL_RS11825(),BioCyc
 SGL_RS03495-MONOMER,metal-binding protein,SGL_RS03495(),BioCyc
-SGL_RS17045-MONOMER,NADP-dependent glyceraldehyde-3-phosphate dehydrogenase monomer,SGL_RS17045(),BioCyc
+SGL_RS17045-MONOMER,NADP-dependent glyceraldehyde-3-phosphate dehydrogenase monomer,SGL_RS17045(4),BioCyc
 SGL_RS05760-MONOMER,preprotein translocase subunit SecY,SGL_RS05760(),BioCyc
 SGL_RS10075-MONOMER,CBS domain-containing protein,SGL_RS10075(),BioCyc
 SGL_RS15310-MONOMER,response regulator transcription factor,SGL_RS15310(),BioCyc
@@ -1663,7 +1663,7 @@ SGL_RS05185-MONOMER,SpoIID/LytB domain-containing protein,SGL_RS05185(),BioCyc
 SGL_RS18030-MONOMER,SRPBCC family protein,SGL_RS18030(),BioCyc
 SGL_RS10960-MONOMER,RpiB/LacA/LacB family sugar-phosphate isomerase,SGL_RS10960(2),BioCyc
 SGL_RS16625-MONOMER,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2, 6-diaminopimelate ligase",SGL_RS16625(1),BioCyc
-SGL_RS13070-MONOMER,50S ribosomal protein L35,SGL_RS13070(),BioCyc
+SGL_RS13070-MONOMER,50S ribosomal protein L35,SGL_RS13070(1),BioCyc
 SGL_RS05545-MONOMER,cytochrome c oxidase subunit I,SGL_RS05545(),BioCyc
 SGL_RS01065-MONOMER,CRISPR-associated endonuclease Cas2,SGL_RS01065(),BioCyc
 SGL_RS14310-MONOMER,DUF2499 domain-containing protein,SGL_RS14310(),BioCyc
@@ -1673,11 +1673,11 @@ SGL_RS06060-MONOMER,DUF433 domain-containing protein,SGL_RS06060(),BioCyc
 SGL_RS16000-MONOMER,endoribonuclease L-PSP,SGL_RS16000(),BioCyc
 SGL_RS16425-MONOMER,Uma2 family endonuclease,SGL_RS16425(),BioCyc
 SGL_RS10990-MONOMER,hypothetical protein,SGL_RS10990(),BioCyc
-CPLX220H-7,cytochrome d ubiquinol oxidase,SGL_RS05010() AND SGL_RS05015(),BioCyc
+CPLX220H-7,cytochrome d ubiquinol oxidase,SGL_RS05010(1) AND SGL_RS05015(1),BioCyc
 SGL_RS07765-MONOMER,insulinase family protein,SGL_RS07765(),BioCyc
 SGL_RS03560-MONOMER,class I SAM-dependent methyltransferase,SGL_RS03560(),BioCyc
 SGL_RS09070-MONOMER,prephenate/arogenate dehydrogenase,SGL_RS09070(),BioCyc
-SGL_RS15280-MONOMER,HAD family hydrolase,SGL_RS15280(1),BioCyc
+SGL_RS15280-MONOMER,HAD family hydrolase,SGL_RS15280(),BioCyc
 SGL_RS00860-MONOMER,recombinase family protein,SGL_RS00860(),BioCyc
 SGL_RS19440-MONOMER,hypothetical protein,SGL_RS19440(),BioCyc
 SGL_RS07205-MONOMER,hypothetical protein,SGL_RS07205(),BioCyc
@@ -1697,10 +1697,10 @@ SGL_RS10265-MONOMER,DUF928 domain-containing protein,SGL_RS10265(),BioCyc
 SGL_RS08405-MONOMER,phosphate ABC transporter ATP-binding protein,SGL_RS08405(),BioCyc
 SGL_RS08210-MONOMER,chromosomal replication initiator protein DnaA,SGL_RS08210(),BioCyc
 SGL_RS00115-MONOMER,DUF4276 family protein,SGL_RS00115(),BioCyc
-SGL_RS11170-MONOMER,L-glutamate gamma-semialdehyde dehydrogenase,SGL_RS11170(2),BioCyc
+SGL_RS11170-MONOMER,L-glutamate gamma-semialdehyde dehydrogenase,SGL_RS11170(),BioCyc
 SGL_RS08415-MONOMER,4a-hydroxytetrahydrobiopterin dehydratase,SGL_RS08415(),BioCyc
 SGL_RS11860-MONOMER,EAL domain-containing protein,SGL_RS11860(),BioCyc
-SGL_RS07720-MONOMER,phosphate acetyltransferase,SGL_RS07720(6),BioCyc
+SGL_RS07720-MONOMER,phosphate acetyltransferase,SGL_RS07720(2),BioCyc
 SGL_RS02325-MONOMER,McrB family protein,SGL_RS02325(),BioCyc
 SGL_RS04595-MONOMER,peptidase,SGL_RS04595(),BioCyc
 SGL_RS00255-MONOMER,glycosyltransferase family 2 protein,SGL_RS00255(),BioCyc
@@ -1719,7 +1719,7 @@ SGL_RS05050-MONOMER,hypothetical protein,SGL_RS05050(),BioCyc
 SGL_RS11045-MONOMER,glutathione peroxidase,SGL_RS11045(1),BioCyc
 SGL_RS07445-MONOMER,SpoIIE family protein phosphatase,SGL_RS07445(),BioCyc
 SGL_RS06815-MONOMER,Re/Si-specific NAD(P)(+) transhydrogenase subunit alpha,SGL_RS06815(),BioCyc
-SGL_RS06955-MONOMER,carbohydrate kinase,SGL_RS06955(1),BioCyc
+SGL_RS06955-MONOMER,carbohydrate kinase,SGL_RS06955(),BioCyc
 SGL_RS08895-MONOMER,FAD-dependent oxidoreductase,SGL_RS08895(),BioCyc
 SGL_RS11370-MONOMER,response regulator transcription factor,SGL_RS11370(),BioCyc
 SGL_RS12725-MONOMER,NAD(P)/FAD-dependent oxidoreductase,SGL_RS12725(),BioCyc
@@ -1736,7 +1736,7 @@ SGL_RS08185-MONOMER,hypothetical protein,SGL_RS08185(),BioCyc
 SGL_RS02690-MONOMER,F0F1 ATP synthase subunit B',SGL_RS02690(),BioCyc
 SGL_RS15345-MONOMER,NAD(P)/FAD-dependent oxidoreductase,SGL_RS15345(),BioCyc
 SGL_RS12465-MONOMER,2-oxo acid dehydrogenase subunit E2,SGL_RS12465(),BioCyc
-SGL_RS17005-MONOMER,quinone-dependent dihydroorotate dehydrogenase,SGL_RS17005(1),BioCyc
+SGL_RS17005-MONOMER,quinone-dependent dihydroorotate dehydrogenase,SGL_RS17005(),BioCyc
 SGL_RS13480-MONOMER,hypothetical protein,SGL_RS13480(),BioCyc
 SGL_RS13695-MONOMER,SIMPL domain-containing protein,SGL_RS13695(),BioCyc
 SGL_RS12040-MONOMER,RdgB/HAM1 family non-canonical purine NTP pyrophosphatase,SGL_RS12040(2),BioCyc
@@ -1764,13 +1764,13 @@ SGL_RS08875-MONOMER,potassium-transporting ATPase subunit F,SGL_RS08875(),BioCyc
 SGL_RS05240-MONOMER,photosystem I reaction center subunit XII,SGL_RS05240(),BioCyc
 SGL_RS06390-MONOMER,IS5 family transposase,SGL_RS06390(),BioCyc
 SGL_RS06610-MONOMER,hypothetical protein,SGL_RS06610(),BioCyc
-SGL_RS03345-MONOMER,oxygen-dependent coproporphyrinogen oxidase,SGL_RS03345(2),BioCyc
+SGL_RS03345-MONOMER,oxygen-dependent coproporphyrinogen oxidase,SGL_RS03345(),BioCyc
 SGL_RS00745-MONOMER,hypothetical protein,SGL_RS00745(),BioCyc
 SGL_RS01760-MONOMER,hypothetical protein,SGL_RS01760(),BioCyc
 SGL_RS10800-MONOMER,3-isopropylmalate dehydratase small subunit,SGL_RS10800(),BioCyc
 SGL_RS07340-MONOMER,TRAP transporter substrate-binding protein,SGL_RS07340(),BioCyc
 SGL_RS05475-MONOMER,glycosyltransferase family 39 protein,SGL_RS05475(),BioCyc
-SGL_RS07390-MONOMER,sugar phosphate isomerase/epimerase,SGL_RS07390(2),BioCyc
+SGL_RS07390-MONOMER,sugar phosphate isomerase/epimerase,SGL_RS07390(),BioCyc
 SGL_RS03605-MONOMER,cephalosporin hydroxylase,SGL_RS03605(),BioCyc
 SGL_RS08610-MONOMER,adenylate/guanylate cyclase domain-containing protein,SGL_RS08610(),BioCyc
 SGL_RS11315-MONOMER,Mur ligase family protein,SGL_RS11315(),BioCyc
@@ -1783,7 +1783,7 @@ SGL_RS05165-MONOMER,hypothetical protein,SGL_RS05165(),BioCyc
 SGL_RS14110-MONOMER,cupin domain-containing protein,SGL_RS14110(),BioCyc
 SGL_RS02790-MONOMER,HEAT repeat domain-containing protein,SGL_RS02790(),BioCyc
 SGL_RS14080-MONOMER,GAF domain-containing protein,SGL_RS14080(),BioCyc
-SGL_RS07595-MONOMER,30S ribosomal protein S6,SGL_RS07595(),BioCyc
+SGL_RS07595-MONOMER,30S ribosomal protein S6,SGL_RS07595(1),BioCyc
 SGL_RS16950-MONOMER,phosphoketolase,SGL_RS16950(),BioCyc
 SGL_RS10475-MONOMER,cytochrome b6-f complex subunit PetG,SGL_RS10475(),BioCyc
 SGL_RS04635-MONOMER,hypothetical protein,SGL_RS04635(),BioCyc
@@ -1817,7 +1817,7 @@ SGL_RS14755-MONOMER,tetratricopeptide repeat protein,SGL_RS14755(),BioCyc
 SGL_RS06530-MONOMER,5'/3'-nucleotidase SurE,SGL_RS06530(),BioCyc
 SGL_RS11630-MONOMER,ferredoxin--NADP(+) reductase,SGL_RS11630(),BioCyc
 SGL_RS06535-MONOMER,peptide deformylase,SGL_RS06535(1),BioCyc
-SGL_RS10610-MONOMER,mannose-1-phosphate guanylyltransferase,SGL_RS10610(1),BioCyc
+SGL_RS10610-MONOMER,mannose-1-phosphate guanylyltransferase,SGL_RS10610(),BioCyc
 SGL_RS06180-MONOMER,NUDIX hydrolase,SGL_RS06180(),BioCyc
 SGL_RS12165-MONOMER,branched-chain amino acid ABC transporter permease,SGL_RS12165(),BioCyc
 SGL_RS12610-MONOMER,Uma2 family endonuclease,SGL_RS12610(),BioCyc
@@ -1825,7 +1825,7 @@ SGL_RS13895-MONOMER,PipX family protein,SGL_RS13895(),BioCyc
 SGL_RS06480-MONOMER,sigma-70 family RNA polymerase sigma factor,SGL_RS06480(1),BioCyc
 SGL_RS15120-MONOMER,replicative DNA helicase,SGL_RS15120(),BioCyc
 SGL_RS17000-MONOMER,NADH-quinone oxidoreductase subunit NuoH,SGL_RS17000(),BioCyc
-SGL_RS06700-MONOMER,peptide chain release factor 3,SGL_RS06700(1),BioCyc
+SGL_RS06700-MONOMER,peptide chain release factor 3,SGL_RS06700(),BioCyc
 SGL_RS19375-MONOMER,hypothetical protein,SGL_RS19375(),BioCyc
 SGL_RS10685-MONOMER,type IV pilus assembly protein PilM,SGL_RS10685(),BioCyc
 SGL_RS01835-MONOMER,type I restriction endonuclease subunit R,SGL_RS01835(),BioCyc
@@ -1837,7 +1837,7 @@ SGL_RS18050-MONOMER,tRNA pseudouridine(55) synthase TruB,SGL_RS18050(1),BioCyc
 SGL_RS06990-MONOMER,photosystem II reaction center protein PsbZ,SGL_RS06990(),BioCyc
 SGL_RS06665-MONOMER,bifunctional nuclease family protein,SGL_RS06665(),BioCyc
 SGL_RS09630-MONOMER,hypothetical protein,SGL_RS09630(),BioCyc
-SGL_RS18255-MONOMER,carbamate kinase,SGL_RS18255(1),BioCyc
+SGL_RS18255-MONOMER,carbamate kinase,SGL_RS18255(),BioCyc
 SGL_RS11910-MONOMER,HlyC/CorC family transporter,SGL_RS11910(),BioCyc
 SGL_RS00730-MONOMER,hypothetical protein,SGL_RS00730(),BioCyc
 SGL_RS08735-MONOMER,DUF3488 domain-containing protein,SGL_RS08735(),BioCyc
@@ -1888,15 +1888,15 @@ SGL_RS00340-MONOMER,VOC family protein,SGL_RS00340(),BioCyc
 SGL_RS02620-MONOMER,RDD family protein,SGL_RS02620(),BioCyc
 SGL_RS08650-MONOMER,S-layer homology domain-containing protein,SGL_RS08650(),BioCyc
 CPLX220H-13,,SGL_RS16565() AND SGL_RS16570() AND SGL_RS16580() AND SGL_RS16585(),BioCyc
-SGL_RS15845-MONOMER,polyphosphate kinase 1,SGL_RS15845(4),BioCyc
+SGL_RS15845-MONOMER,polyphosphate kinase 1,SGL_RS15845(),BioCyc
 SGL_RS15600-MONOMER,MFS transporter,SGL_RS15600(),BioCyc
 SGL_RS09705-MONOMER,"ATP synthase F1, &beta; subunit",SGL_RS09705(),BioCyc
 SGL_RS16045-MONOMER,UmuC protein,SGL_RS16045(),BioCyc
 SGL_RS01085-MONOMER,alpha-ketoglutarate-dependent dioxygenase AlkB,SGL_RS01085(),BioCyc
 SGL_RS09895-MONOMER,DUF177 domain-containing protein,SGL_RS09895(),BioCyc
 SGL_RS10770-MONOMER,hypothetical protein,SGL_RS10770(),BioCyc
-SGL_RS17865-MONOMER,Ppx/GppA family phosphatase,SGL_RS17865(2),BioCyc
-SGL_RS04060-MONOMER,lipoyl synthase,SGL_RS04060(2),BioCyc
+SGL_RS17865-MONOMER,Ppx/GppA family phosphatase,SGL_RS17865(),BioCyc
+SGL_RS04060-MONOMER,lipoyl synthase,SGL_RS04060(),BioCyc
 SGL_RS14500-MONOMER,urea ABC transporter ATP-binding subunit UrtE,SGL_RS14500(),BioCyc
 SGL_RS10975-MONOMER,nucleoside deaminase,SGL_RS10975(),BioCyc
 SGL_RS18245-MONOMER,ABC transporter permease,SGL_RS18245(),BioCyc
@@ -1915,8 +1915,8 @@ SGL_RS02935-MONOMER,CemA-like protein,SGL_RS02935(),BioCyc
 SGL_RS19195-MONOMER,DUF1830 domain-containing protein,SGL_RS19195(),BioCyc
 SGL_RS17495-MONOMER,peptidoglycan editing factor PgeF,SGL_RS17495(),BioCyc
 SGL_RS07575-MONOMER,D-alanine--D-alanine ligase,SGL_RS07575(1),BioCyc
-SGL_RS03840-MONOMER,adenylyl-sulfate kinase,SGL_RS03840(2),BioCyc
-SGL_RS09345-MONOMER,NAD(+) kinase,SGL_RS09345(),BioCyc
+SGL_RS03840-MONOMER,adenylyl-sulfate kinase,SGL_RS03840(),BioCyc
+SGL_RS09345-MONOMER,NAD(+) kinase,SGL_RS09345(6),BioCyc
 SGL_RS00175-MONOMER,hypothetical protein,SGL_RS00175(),BioCyc
 SGL_RS16110-MONOMER,response regulator transcription factor,SGL_RS16110(),BioCyc
 SGL_RS04130-MONOMER,virulence factor,SGL_RS04130(),BioCyc
@@ -1938,15 +1938,15 @@ SGL_RS03000-MONOMER,spore maturation protein,SGL_RS03000(),BioCyc
 SGL_RS09785-MONOMER,hypothetical protein,SGL_RS09785(),BioCyc
 SGL_RS00645-MONOMER,DNA-binding protein,SGL_RS00645(),BioCyc
 SGL_RS14475-MONOMER,alpha/beta hydrolase,SGL_RS14475(),BioCyc
-SGL_RS09985-MONOMER,cation transporter,SGL_RS09985(2),BioCyc
-SGL_RS13445-MONOMER,lipid-A-disaccharide synthase,SGL_RS13445(2),BioCyc
+SGL_RS09985-MONOMER,cation transporter,SGL_RS09985(1),BioCyc
+SGL_RS13445-MONOMER,lipid-A-disaccharide synthase,SGL_RS13445(),BioCyc
 SGL_RS01405-MONOMER,hypothetical protein,SGL_RS01405(),BioCyc
 SGL_RS10935-MONOMER,30S ribosomal protein S7,SGL_RS10935(1),BioCyc
 SGL_RS17720-MONOMER,NYN domain-containing protein,SGL_RS17720(),BioCyc
 SGL_RS14005-MONOMER,hypothetical protein,SGL_RS14005(),BioCyc
 SGL_RS15950-MONOMER,DUF1822 family protein,SGL_RS15950(),BioCyc
 SGL_RS11050-MONOMER,DUF3493 domain-containing protein,SGL_RS11050(),BioCyc
-SGL_RS05125-MONOMER,ferrous iron transport protein B,SGL_RS05125(1),BioCyc
+SGL_RS05125-MONOMER,ferrous iron transport protein B,SGL_RS05125(),BioCyc
 SGL_RS04405-MONOMER,urease accessory protein UreD,SGL_RS04405(),BioCyc
 SGL_RS11280-MONOMER,protein kinase,SGL_RS11280(),BioCyc
 SGL_RS07450-MONOMER,anti-sigma regulatory factor,SGL_RS07450(),BioCyc
@@ -1957,7 +1957,7 @@ SGL_RS14950-MONOMER,membrane protein,SGL_RS14950(),BioCyc
 SGL_RS09445-MONOMER,type II toxin-antitoxin system Phd/YefM family antitoxin,SGL_RS09445(),BioCyc
 SGL_RS01165-MONOMER,DUF433 domain-containing protein,SGL_RS01165(),BioCyc
 SGL_RS01280-MONOMER,NADH-quinone oxidoreductase subunit B,SGL_RS01280(),BioCyc
-SGL_RS09095-MONOMER,catalase/peroxidase HPI,SGL_RS09095(4),BioCyc
+SGL_RS09095-MONOMER,catalase/peroxidase HPI,SGL_RS09095(),BioCyc
 SGL_RS15300-MONOMER,hypothetical protein,SGL_RS15300(),BioCyc
 SGL_RS12145-MONOMER,serine/threonine protein kinase,SGL_RS12145(),BioCyc
 SGL_RS19385-MONOMER,hypothetical protein,SGL_RS19385(),BioCyc
@@ -1996,7 +1996,7 @@ SGL_RS15985-MONOMER,CPBP family intramembrane metalloprotease,SGL_RS15985(),BioC
 SGL_RS01765-MONOMER,hypothetical protein,SGL_RS01765(),BioCyc
 SGL_RS17925-MONOMER,hypothetical protein,SGL_RS17925(),BioCyc
 SGL_RS07395-MONOMER,hypothetical protein,SGL_RS07395(),BioCyc
-SGL_RS10110-MONOMER,carbonic anhydrase,SGL_RS10110(2),BioCyc
+SGL_RS10110-MONOMER,carbonic anhydrase,SGL_RS10110(),BioCyc
 SGL_RS07150-MONOMER,NAD(P)/FAD-dependent oxidoreductase,SGL_RS07150(),BioCyc
 SGL_RS07665-MONOMER,ABC transporter ATP-binding protein,SGL_RS07665(),BioCyc
 SGL_RS08250-MONOMER,glycoside hydrolase family 13 protein,SGL_RS08250(1),BioCyc
@@ -2026,7 +2026,7 @@ SGL_RS08400-MONOMER,phosphate ABC transporter permease PstA,SGL_RS08400(),BioCyc
 SGL_RS19490-MONOMER,hypothetical protein,SGL_RS19490(),BioCyc
 SGL_RS04230-MONOMER,exonuclease subunit SbcC,SGL_RS04230(),BioCyc
 SGL_RS14640-MONOMER,hypothetical protein,SGL_RS14640(),BioCyc
-SGL_RS02965-MONOMER,pyridoxine 5'-phosphate synthase,SGL_RS02965(8),BioCyc
+SGL_RS02965-MONOMER,pyridoxine 5'-phosphate synthase,SGL_RS02965(),BioCyc
 SGL_RS04300-MONOMER,PAS domain S-box protein,SGL_RS04300(),BioCyc
 SGL_RS18095-MONOMER,TIGR03943 family protein,SGL_RS18095(),BioCyc
 SGL_RS10485-MONOMER,ComEA family DNA-binding protein,SGL_RS10485(),BioCyc
@@ -2040,7 +2040,7 @@ SGL_RS15925-MONOMER,ATP-binding protein,SGL_RS15925(),BioCyc
 SGL_RS14850-MONOMER,hypothetical protein,SGL_RS14850(),BioCyc
 SGL_RS05770-MONOMER,30S ribosomal protein S5,SGL_RS05770(1),BioCyc
 SGL_RS11905-MONOMER,hypothetical protein,SGL_RS11905(),BioCyc
-SGL_RS06895-MONOMER,glycogen/starch/alpha-glucan phosphorylase,SGL_RS06895(2),BioCyc
+SGL_RS06895-MONOMER,glycogen/starch/alpha-glucan phosphorylase,SGL_RS06895(),BioCyc
 SGL_RS11725-MONOMER,hypothetical protein,SGL_RS11725(),BioCyc
 SGL_RS17535-MONOMER,DUF2231 domain-containing protein,SGL_RS17535(),BioCyc
 SGL_RS12455-MONOMER,preprotein translocase subunit SecG,SGL_RS12455(),BioCyc
@@ -2051,7 +2051,7 @@ SGL_RS01915-MONOMER,biosynthetic arginine decarboxylase,SGL_RS01915(),BioCyc
 SGL_RS05650-MONOMER,Uma2 family endonuclease,SGL_RS05650(),BioCyc
 SGL_RS13315-MONOMER,hypothetical protein,SGL_RS13315(),BioCyc
 SGL_RS03250-MONOMER,tRNA (guanosine(37)-N1)-methyltransferase TrmD,SGL_RS03250(2),BioCyc
-SGL_RS12025-MONOMER,NAD(+) kinase,SGL_RS12025(6),BioCyc
+SGL_RS12025-MONOMER,NAD(+) kinase,SGL_RS12025(),BioCyc
 SGL_RS01840-MONOMER,M48 family metallopeptidase,SGL_RS01840(),BioCyc
 SGL_RS01430-MONOMER,DUF2357 domain-containing protein,SGL_RS01430(),BioCyc
 SGL_RS10310-MONOMER,hypothetical protein,SGL_RS10310(),BioCyc
@@ -2074,7 +2074,7 @@ SGL_RS01260-MONOMER,"putative toxin-antitoxin system toxin component, PIN family
 SGL_RS05835-MONOMER,50S ribosomal protein L2,SGL_RS05835(1),BioCyc
 SGL_RS12090-MONOMER,DUF4114 domain-containing protein,SGL_RS12090(),BioCyc
 SGL_RS05900-MONOMER,ATP-binding cassette domain-containing protein,SGL_RS05900(),BioCyc
-SGL_RS02290-MONOMER,8-oxo-dGTP diphosphatase MutT,SGL_RS02290(1),BioCyc
+SGL_RS02290-MONOMER,8-oxo-dGTP diphosphatase MutT,SGL_RS02290(),BioCyc
 SGL_RS05170-MONOMER,hypothetical protein,SGL_RS05170(),BioCyc
 SGL_RS05265-MONOMER,hypothetical protein,SGL_RS05265(),BioCyc
 SGL_RS02655-MONOMER,S41 family peptidase,SGL_RS02655(),BioCyc
@@ -2096,13 +2096,13 @@ SGL_RS04330-MONOMER,NAD(P)H-dependent glycerol-3-phosphate dehydrogenase,SGL_RS0
 SGL_RS03565-MONOMER,DUF29 domain-containing protein,SGL_RS03565(),BioCyc
 SGL_RS01885-MONOMER,hypothetical protein,SGL_RS01885(),BioCyc
 SGL_RS05415-MONOMER,prepilin-type N-terminal cleavage/methylation domain-containing protein,SGL_RS05415(),BioCyc
-SGL_RS13875-MONOMER,diacylglycerol kinase,SGL_RS13875(3),BioCyc
+SGL_RS13875-MONOMER,diacylglycerol kinase,SGL_RS13875(),BioCyc
 SGL_RS15100-MONOMER,SulP family inorganic anion transporter,SGL_RS15100(),BioCyc
 SGL_RS08755-MONOMER,3-hydroxyacyl-ACP dehydratase FabZ,SGL_RS08755(),BioCyc
 SGL_RS18295-MONOMER,creatininase family protein,SGL_RS18295(),BioCyc
 SGL_RS08530-MONOMER,type I DNA topoisomerase,SGL_RS08530(),BioCyc
 SGL_RS09360-MONOMER,"putative bicarbonate transporter, IctB family",SGL_RS09360(),BioCyc
-SGL_RS03800-MONOMER,hydroxyacylglutathione hydrolase,SGL_RS03800(1),BioCyc
+SGL_RS03800-MONOMER,hydroxyacylglutathione hydrolase,SGL_RS03800(),BioCyc
 SGL_RS00565-MONOMER,Rpn family recombination-promoting nuclease/putative transposase,SGL_RS00565(),BioCyc
 SGL_RS07905-MONOMER,DUF29 domain-containing protein,SGL_RS07905(),BioCyc
 SGL_RS11900-MONOMER,radical SAM protein,SGL_RS11900(),BioCyc
@@ -2116,7 +2116,7 @@ SGL_RS04570-MONOMER,Uma2 family endonuclease,SGL_RS04570(),BioCyc
 SGL_RS11670-MONOMER,Txe/YoeB family addiction module toxin,SGL_RS11670(),BioCyc
 SGL_RS18965-MONOMER,hypothetical protein,SGL_RS18965(),BioCyc
 SGL_RS03555-MONOMER,"dTDP-4-dehydrorhamnose 3,5-epimerase family protein",SGL_RS03555(),BioCyc
-SGL_RS11775-MONOMER,isoaspartyl peptidase/L-asparaginase,SGL_RS11775(1),BioCyc
+SGL_RS11775-MONOMER,isoaspartyl peptidase/L-asparaginase,SGL_RS11775(),BioCyc
 SGL_RS17565-MONOMER,CPBP family intramembrane metalloprotease,SGL_RS17565(),BioCyc
 SGL_RS15235-MONOMER,16S rRNA (guanine(527)-N(7))-methyltransferase RsmG,SGL_RS15235(),BioCyc
 SGL_RS12205-MONOMER,efflux RND transporter periplasmic adaptor subunit,SGL_RS12205(),BioCyc
@@ -2136,7 +2136,7 @@ SGL_RS07345-MONOMER,hypothetical protein,SGL_RS07345(),BioCyc
 SGL_RS16705-MONOMER,TIGR00159 family protein,SGL_RS16705(),BioCyc
 SGL_RS13970-MONOMER,insulinase family protein,SGL_RS13970(),BioCyc
 SGL_RS10980-MONOMER,hypothetical protein,SGL_RS10980(),BioCyc
-SGL_RS04175-MONOMER,PQQ-dependent sugar dehydrogenase,SGL_RS04175(1),BioCyc
+SGL_RS04175-MONOMER,PQQ-dependent sugar dehydrogenase,SGL_RS04175(),BioCyc
 SGL_RS05070-MONOMER,(2Fe-2S)-binding protein,SGL_RS05070(),BioCyc
 SGL_RS05115-MONOMER,hypothetical protein,SGL_RS05115(),BioCyc
 SGL_RS11245-MONOMER,DNA-formamidopyrimidine glycosylase,SGL_RS11245(),BioCyc
@@ -2216,7 +2216,7 @@ SGL_RS10000-MONOMER,translation elongation factor Ts,SGL_RS10000(1),BioCyc
 SGL_RS02955-MONOMER,aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,SGL_RS02955(10),BioCyc
 SGL_RS15795-MONOMER,hypothetical protein,SGL_RS15795(),BioCyc
 SGL_RS02015-MONOMER,ABC transporter ATP-binding protein,SGL_RS02015(),BioCyc
-SGL_RS11060-MONOMER,sodium:solute symporter,SGL_RS11060(1),BioCyc
+SGL_RS11060-MONOMER,sodium:solute symporter,SGL_RS11060(),BioCyc
 SGL_RS02835-MONOMER,TAXI family TRAP transporter solute-binding subunit,SGL_RS02835(),BioCyc
 SGL_RS16385-MONOMER,UPF0175 family protein,SGL_RS16385(),BioCyc
 SGL_RS05095-MONOMER,response regulator,SGL_RS05095(),BioCyc
@@ -2269,7 +2269,7 @@ SGL_RS10090-MONOMER,tetratricopeptide repeat protein,SGL_RS10090(),BioCyc
 SGL_RS08680-MONOMER,hypothetical protein,SGL_RS08680(),BioCyc
 SGL_RS12070-MONOMER,DUF4281 domain-containing protein,SGL_RS12070(),BioCyc
 SGL_RS05130-MONOMER,high light inducible protein,SGL_RS05130(),BioCyc
-SGL_RS11135-MONOMER,D-alanyl-D-alanine dipeptidase,SGL_RS11135(1),BioCyc
+SGL_RS11135-MONOMER,D-alanyl-D-alanine dipeptidase,SGL_RS11135(),BioCyc
 SGL_RS03920-MONOMER,urease accessory protein UreG,SGL_RS03920(),BioCyc
 SGL_RS14135-MONOMER,phenylalanine--tRNA ligase subunit alpha,SGL_RS14135(),BioCyc
 SGL_RS10275-MONOMER,GAF domain-containing protein,SGL_RS10275(),BioCyc
@@ -2324,9 +2324,9 @@ SGL_RS03440-MONOMER,PAM68 family protein,SGL_RS03440(),BioCyc
 SGL_RS09640-MONOMER,peptide chain release factor N(5)-glutamine methyltransferase,SGL_RS09640(),BioCyc
 SGL_RS07760-MONOMER,insulinase family protein,SGL_RS07760(),BioCyc
 SGL_RS13400-MONOMER,L-threonylcarbamoyladenylate synthase,SGL_RS13400(),BioCyc
-SGL_RS04900-MONOMER,S-(hydroxymethyl)glutathione dehydrogenase,SGL_RS04900(2),BioCyc
+SGL_RS04900-MONOMER,S-(hydroxymethyl)glutathione dehydrogenase,SGL_RS04900(),BioCyc
 SGL_RS09560-MONOMER,SDR family oxidoreductase,SGL_RS09560(),BioCyc
-SGL_RS08120-MONOMER,N-acetylmuramoyl-L-alanine amidase,SGL_RS08120(1),BioCyc
+SGL_RS08120-MONOMER,N-acetylmuramoyl-L-alanine amidase,SGL_RS08120(),BioCyc
 SGL_RS00420-MONOMER,hypothetical protein,SGL_RS00420(),BioCyc
 SGL_RS07975-MONOMER,"RNA polymerase sigma factor, RpoD/SigA family",SGL_RS07975(),BioCyc
 SGL_RS14835-MONOMER,FkbM family methyltransferase,SGL_RS14835(),BioCyc
@@ -2360,15 +2360,15 @@ SGL_RS06465-MONOMER,hypothetical protein,SGL_RS06465(),BioCyc
 SGL_RS16720-MONOMER,arginine--tRNA ligase,SGL_RS16720(1),BioCyc
 SGL_RS17215-MONOMER,ketol-acid reductoisomerase,SGL_RS17215(4),BioCyc
 SGL_RS00225-MONOMER,glycosyltransferase,SGL_RS00225(),BioCyc
-SGL_RS04870-MONOMER,potassium channel protein,SGL_RS04870(4),BioCyc
-SGL_RS04190-MONOMER,AMP-binding protein,SGL_RS04190(),BioCyc
+SGL_RS04870-MONOMER,potassium channel protein,SGL_RS04870(),BioCyc
+SGL_RS04190-MONOMER,AMP-binding protein,SGL_RS04190(2),BioCyc
 SGL_RS16590-MONOMER,NADH-quinone oxidoreductase subunit M,SGL_RS16590(),BioCyc
 SGL_RS08655-MONOMER,cyanophycinase,SGL_RS08655(),BioCyc
 SGL_RS07740-MONOMER,"RNA polymerase sigma factor, RpoD/SigA family",SGL_RS07740(),BioCyc
 SGL_RS15850-MONOMER,hypothetical protein,SGL_RS15850(),BioCyc
 SGL_RS02890-MONOMER,BMC domain-containing protein,SGL_RS02890(),BioCyc
 SGL_RS09715-MONOMER,insulinase family protein,SGL_RS09715(),BioCyc
-SGL_RS09915-MONOMER,isochorismate synthase,SGL_RS09915(2),BioCyc
+SGL_RS09915-MONOMER,isochorismate synthase,SGL_RS09915(),BioCyc
 SGL_RS01935-MONOMER,iron ABC transporter permease,SGL_RS01935(),BioCyc
 SGL_RS05670-MONOMER,acyl carrier protein,SGL_RS05670(1),BioCyc
 SGL_RS07245-MONOMER,3-oxoacyl-[acyl-carrier-protein] reductase,SGL_RS07245(1),BioCyc
@@ -2377,7 +2377,7 @@ SGL_RS08990-MONOMER,DUF2605 domain-containing protein,SGL_RS08990(),BioCyc
 SGL_RS13105-MONOMER,ABC transporter permease,SGL_RS13105(),BioCyc
 SGL_RS10985-MONOMER,porin,SGL_RS10985(),BioCyc
 SGL_RS07400-MONOMER,hypothetical protein,SGL_RS07400(),BioCyc
-SGL_RS16820-MONOMER,4-hydroxybenzoate solanesyltransferase,SGL_RS16820(1),BioCyc
+SGL_RS16820-MONOMER,4-hydroxybenzoate solanesyltransferase,SGL_RS16820(),BioCyc
 SGL_RS09160-MONOMER,thioredoxin fold domain-containing protein,SGL_RS09160(),BioCyc
 SGL_RS19310-MONOMER,hypothetical protein,SGL_RS19310(),BioCyc
 SGL_RS08255-MONOMER,ABC-F family ATP-binding cassette domain-containing protein,SGL_RS08255(),BioCyc
@@ -2437,7 +2437,7 @@ SGL_RS14960-MONOMER,PHP domain-containing protein,SGL_RS14960(),BioCyc
 SGL_RS14065-MONOMER,AAA family ATPase,SGL_RS14065(),BioCyc
 SGL_RS06670-MONOMER,TIGR01777 family protein,SGL_RS06670(),BioCyc
 SGL_RS01185-MONOMER,hypothetical protein,SGL_RS01185(),BioCyc
-SGL_RS17290-MONOMER,aspartate kinase,SGL_RS17290(4),BioCyc
+SGL_RS17290-MONOMER,aspartate kinase,SGL_RS17290(),BioCyc
 SGL_RS11810-MONOMER,urea ABC transporter substrate-binding protein,SGL_RS11810(),BioCyc
 SGL_RS03295-MONOMER,hypothetical protein,SGL_RS03295(),BioCyc
 SGL_RS00795-MONOMER,DUF3854 domain-containing protein,SGL_RS00795(),BioCyc
@@ -2448,7 +2448,7 @@ SGL_RS15575-MONOMER,creatininase family protein,SGL_RS15575(),BioCyc
 SGL_RS19460-MONOMER,hypothetical protein,SGL_RS19460(),BioCyc
 SGL_RS02020-MONOMER,helix-turn-helix transcriptional regulator,SGL_RS02020(),BioCyc
 SGL_RS17235-MONOMER,hypothetical protein,SGL_RS17235(),BioCyc
-SGL_RS13535-MONOMER,bifunctional adenosylcobinamide kinase/adenosylcobinamide-phosphate guanylyltransferase,SGL_RS13535(2),BioCyc
+SGL_RS13535-MONOMER,bifunctional adenosylcobinamide kinase/adenosylcobinamide-phosphate guanylyltransferase,SGL_RS13535(),BioCyc
 SGL_RS12030-MONOMER,extracellular solute-binding protein,SGL_RS12030(),BioCyc
 SGL_RS12365-MONOMER,nucleoside-diphosphate kinase,SGL_RS12365(4),BioCyc
 SGL_RS11065-MONOMER,hypothetical protein,SGL_RS11065(),BioCyc
@@ -2492,10 +2492,10 @@ SGL_RS07460-MONOMER,IS4-like element IS4Sa family transposase,SGL_RS07460(),BioC
 SGL_RS08475-MONOMER,MBL fold metallo-hydrolase,SGL_RS08475(),BioCyc
 SGL_RS14290-MONOMER,glycine--tRNA ligase subunit alpha,SGL_RS14290(),BioCyc
 SGL_RS15000-MONOMER,DUF2752 domain-containing protein,SGL_RS15000(),BioCyc
-SGL_RS13240-MONOMER,ribonuclease D,SGL_RS13240(1),BioCyc
+SGL_RS13240-MONOMER,ribonuclease D,SGL_RS13240(),BioCyc
 SGL_RS12825-MONOMER,MBL fold metallo-hydrolase,SGL_RS12825(),BioCyc
 SGL_RS16410-MONOMER,DUF29 domain-containing protein,SGL_RS16410(),BioCyc
-SGL_RS12505-MONOMER,ribosome-associated translation inhibitor RaiA,SGL_RS12505(),BioCyc
+SGL_RS12505-MONOMER,ribosome-associated translation inhibitor RaiA,SGL_RS12505(2),BioCyc
 SGL_RS14130-MONOMER,hypothetical protein,SGL_RS14130(),BioCyc
 SGL_RS00385-MONOMER,AAA family ATPase,SGL_RS00385(),BioCyc
 SGL_RS05930-MONOMER,DNA-directed RNA polymerase subunit beta,SGL_RS05930(),BioCyc
@@ -2532,7 +2532,7 @@ SGL_RS19425-MONOMER,hypothetical protein,SGL_RS19425(),BioCyc
 SGL_RS02765-MONOMER,DUF429 domain-containing protein,SGL_RS02765(),BioCyc
 SGL_RS14855-MONOMER,endonuclease,SGL_RS14855(),BioCyc
 SGL_RS05775-MONOMER,50S ribosomal protein L18,SGL_RS05775(1),BioCyc
-SGL_RS04550-MONOMER,glutamate 5-kinase,SGL_RS04550(4),BioCyc
+SGL_RS04550-MONOMER,glutamate 5-kinase,SGL_RS04550(),BioCyc
 SGL_RS06900-MONOMER,hypothetical protein,SGL_RS06900(),BioCyc
 SGL_RS11730-MONOMER,type II toxin-antitoxin system prevent-host-death family antitoxin,SGL_RS11730(),BioCyc
 SGL_RS02610-MONOMER,NAD(P)H-quinone oxidoreductase subunit N,SGL_RS02610(),BioCyc
@@ -2565,7 +2565,7 @@ SGL_RS12415-MONOMER,collagen-like protein,SGL_RS12415(),BioCyc
 SGL_RS05220-MONOMER,DUF1995 family protein,SGL_RS05220(),BioCyc
 SGL_RS12945-MONOMER,dTMP kinase,SGL_RS12945(),BioCyc
 SGL_RS17575-MONOMER,DUF1815 family protein,SGL_RS17575(),BioCyc
-SGL_RS05840-MONOMER,50S ribosomal protein L23,SGL_RS05840(1),BioCyc
+SGL_RS05840-MONOMER,50S ribosomal protein L23,SGL_RS05840(),BioCyc
 SGL_RS01415-MONOMER,hypothetical protein,SGL_RS01415(),BioCyc
 SGL_RS06315-MONOMER,phosphotransferase,SGL_RS06315(),BioCyc
 SGL_RS08565-MONOMER,calcium-binding protein,SGL_RS08565(),BioCyc
@@ -2591,7 +2591,7 @@ SGL_RS00970-MONOMER,CRISPR-associated endonuclease Cas2,SGL_RS00970(),BioCyc
 SGL_RS10575-MONOMER,stage II sporulation protein M,SGL_RS10575(),BioCyc
 SGL_RS13880-MONOMER,aminodeoxychorismate/anthranilate synthase component II,SGL_RS13880(),BioCyc
 SGL_RS15005-MONOMER,CD225/dispanin family protein,SGL_RS15005(),BioCyc
-SGL_RS18155-MONOMER,cytochrome b6-f complex iron-sulfur subunit,SGL_RS18155(),BioCyc
+SGL_RS18155-MONOMER,cytochrome b6-f complex iron-sulfur subunit,SGL_RS18155(1),BioCyc
 SGL_RS15105-MONOMER,ABC transporter permease,SGL_RS15105(),BioCyc
 SGL_RS06755-MONOMER,bacterioferritin-associated ferredoxin,SGL_RS06755(),BioCyc
 SGL_RS04480-MONOMER,urease subunit alpha,SGL_RS04480(),BioCyc
@@ -2600,7 +2600,7 @@ SGL_RS04720-MONOMER,iron uptake porin,SGL_RS04720(),BioCyc
 SGL_RS04990-MONOMER,class I SAM-dependent methyltransferase,SGL_RS04990(),BioCyc
 SGL_RS00060-MONOMER,hypothetical protein,SGL_RS00060(),BioCyc
 SGL_RS07710-MONOMER,hydroxymethylbilane synthase,SGL_RS07710(1),BioCyc
-SGL_RS03805-MONOMER,dihydroorotase,SGL_RS03805(4),BioCyc
+SGL_RS03805-MONOMER,dihydroorotase,SGL_RS03805(),BioCyc
 SGL_RS00575-MONOMER,Y-family DNA polymerase,SGL_RS00575(),BioCyc
 SGL_RS07910-MONOMER,DUF29 domain-containing protein,SGL_RS07910(),BioCyc
 SGL_RS04710-MONOMER,GNAT family N-acetyltransferase,SGL_RS04710(),BioCyc
@@ -2650,7 +2650,7 @@ SGL_RS01890-MONOMER,GUN4 domain-containing protein,SGL_RS01890(),BioCyc
 SGL_RS17875-MONOMER,ShlB/FhaC/HecB family hemolysin secretion/activation protein,SGL_RS17875(),BioCyc
 SGL_RS05960-MONOMER,chromosome segregation protein SMC,SGL_RS05960(),BioCyc
 SGL_RS10320-MONOMER,ribosome biogenesis GTPase Der,SGL_RS10320(),BioCyc
-SGL_RS15285-MONOMER,D-sedoheptulose 7-phosphate isomerase,SGL_RS15285(4),BioCyc
+SGL_RS15285-MONOMER,D-sedoheptulose 7-phosphate isomerase,SGL_RS15285(),BioCyc
 SGL_RS04645-MONOMER,PhoH family protein,SGL_RS04645(),BioCyc
 SGL_RS06240-MONOMER,alpha/beta fold hydrolase,SGL_RS06240(),BioCyc
 SGL_RS00160-MONOMER,FAD-dependent oxidoreductase,SGL_RS00160(),BioCyc
@@ -2696,7 +2696,7 @@ SGL_RS07125-MONOMER,hypothetical protein,SGL_RS07125(),BioCyc
 SGL_RS13115-MONOMER,DUF4126 domain-containing protein,SGL_RS13115(),BioCyc
 SGL_RS11380-MONOMER,Uma2 family endonuclease,SGL_RS11380(),BioCyc
 SGL_RS18755-MONOMER,M48 family metallopeptidase,SGL_RS18755(),BioCyc
-SGL_RS06975-MONOMER,HAD-IA family hydrolase,SGL_RS06975(),BioCyc
+SGL_RS06975-MONOMER,HAD-IA family hydrolase,SGL_RS06975(1),BioCyc
 SGL_RS19395-MONOMER,hypothetical protein,SGL_RS19395(),BioCyc
 SGL_RS12750-MONOMER,molecular chaperone DnaK,SGL_RS12750(1),BioCyc
 SGL_RS14965-MONOMER,DUF2779 domain-containing protein,SGL_RS14965(),BioCyc
@@ -2758,7 +2758,7 @@ SGL_RS05110-MONOMER,ATP-dependent zinc metalloprotease FtsH,SGL_RS05110(),BioCyc
 SGL_RS02375-MONOMER,DUF3086 domain-containing protein,SGL_RS02375(),BioCyc
 SGL_RS17850-MONOMER,DUF3172 domain-containing protein,SGL_RS17850(),BioCyc
 SGL_RS07605-MONOMER,HEAT repeat domain-containing protein,SGL_RS07605(),BioCyc
-SGL_RS02635-MONOMER,flavin oxidoreductase,SGL_RS02635(4),BioCyc
+SGL_RS02635-MONOMER,flavin oxidoreductase,SGL_RS02635(),BioCyc
 SGL_RS17345-MONOMER,cytochrome c biogenesis protein CcdA,SGL_RS17345(),BioCyc
 SGL_RS05870-MONOMER,DUF1823 family protein,SGL_RS05870(),BioCyc
 SGL_RS12830-MONOMER,hypothetical protein,SGL_RS12830(),BioCyc
@@ -2796,7 +2796,7 @@ SGL_RS12175-MONOMER,UMP kinase,SGL_RS12175(6),BioCyc
 SGL_RS17240-MONOMER,photosystem I reaction center subunit PsaK,SGL_RS17240(),BioCyc
 SGL_RS15800-MONOMER,PP2C family protein-serine/threonine phosphatase,SGL_RS15800(),BioCyc
 SGL_RS04885-MONOMER,hypothetical protein,SGL_RS04885(),BioCyc
-SGL_RS06795-MONOMER,glutaredoxin 3,SGL_RS06795(1),BioCyc
+SGL_RS06795-MONOMER,glutaredoxin 3,SGL_RS06795(),BioCyc
 SGL_RS17475-MONOMER,M23 family metallopeptidase,SGL_RS17475(),BioCyc
 SGL_RS17735-MONOMER,hypothetical protein,SGL_RS17735(),BioCyc
 SGL_RS08910-MONOMER,hypothetical protein,SGL_RS08910(),BioCyc
@@ -2827,7 +2827,7 @@ SGL_RS01420-MONOMER,thermonuclease family protein,SGL_RS01420(),BioCyc
 SGL_RS13250-MONOMER,4-hydroxy-3-methylbut-2-enyl diphosphate reductase,SGL_RS13250(2),BioCyc
 SGL_RS06740-MONOMER,histidine triad nucleotide-binding protein,SGL_RS06740(),BioCyc
 SGL_RS06220-MONOMER,preprotein translocase subunit SecE,SGL_RS06220(),BioCyc
-SGL_RS04385-MONOMER,glutamate decarboxylase,SGL_RS04385(6),BioCyc
+SGL_RS04385-MONOMER,glutamate decarboxylase,SGL_RS04385(),BioCyc
 SGL_RS13610-MONOMER,plastocyanin,SGL_RS13610(),BioCyc
 SGL_RS18470-MONOMER,HNH endonuclease,SGL_RS18470(),BioCyc
 SGL_RS06445-MONOMER,DUF3782 domain-containing protein,SGL_RS06445(),BioCyc
@@ -2837,7 +2837,7 @@ SGL_RS14665-MONOMER,glutamate--tRNA ligase,SGL_RS14665(1),BioCyc
 SGL_RS03590-MONOMER,ATP-grasp domain-containing protein,SGL_RS03590(),BioCyc
 SGL_RS15185-MONOMER,Ycf34 family protein,SGL_RS15185(),BioCyc
 SGL_RS05515-MONOMER,hypothetical protein,SGL_RS05515(),BioCyc
-SGL_RS04015-MONOMER,Na+/H+ antiporter NhaS4,SGL_RS04015(1),BioCyc
+SGL_RS04015-MONOMER,Na+/H+ antiporter NhaS4,SGL_RS04015(),BioCyc
 SGL_RS14505-MONOMER,glutamate-5-semialdehyde dehydrogenase,SGL_RS14505(4),BioCyc
 SGL_RS10390-MONOMER,magnesium-protoporphyrin IX monomethyl ester (oxidative) cyclase,SGL_RS10390(),BioCyc
 SGL_RS11540-MONOMER,glycosyltransferase,SGL_RS11540(),BioCyc
@@ -2871,7 +2871,7 @@ SGL_RS15855-MONOMER,hypothetical protein,SGL_RS15855(),BioCyc
 SGL_RS06095-MONOMER,type II 3-dehydroquinate dehydratase,SGL_RS06095(),BioCyc
 SGL_RS09725-MONOMER,Ni/Fe hydrogenase subunit alpha,SGL_RS09725(),BioCyc
 SGL_RS04335-MONOMER,N-acetyltransferase,SGL_RS04335(),BioCyc
-SGL_RS09925-MONOMER,apolipoprotein N-acyltransferase,SGL_RS09925(1),BioCyc
+SGL_RS09925-MONOMER,apolipoprotein N-acyltransferase,SGL_RS09925(),BioCyc
 SGL_RS16050-MONOMER,two-component sensor histidine kinase,SGL_RS16050(),BioCyc
 SGL_RS10810-MONOMER,DUF4926 domain-containing protein,SGL_RS10810(),BioCyc
 SGL_RS05190-MONOMER,DUF1350 family protein,SGL_RS05190(),BioCyc
@@ -2890,13 +2890,13 @@ SGL_RS14900-MONOMER,aminoacyl-tRNA hydrolase,SGL_RS14900(),BioCyc
 SGL_RS03455-MONOMER,tetratricopeptide repeat protein,SGL_RS03455(),BioCyc
 SGL_RS16210-MONOMER,CYTH domain-containing protein,SGL_RS16210(),BioCyc
 SGL_RS09385-MONOMER,"2-carboxy-1,4-naphthoquinone phytyltransferase",SGL_RS09385(1),BioCyc
-SGL_RS07805-MONOMER,methylenetetrahydrofolate reductase,SGL_RS07805(),BioCyc
-SGL_RS08905-MONOMER,"cob(I)yrinic acid a,c-diamide adenosyltransferase",SGL_RS08905(1),BioCyc
+SGL_RS07805-MONOMER,methylenetetrahydrofolate reductase,SGL_RS07805(1),BioCyc
+SGL_RS08905-MONOMER,"cob(I)yrinic acid a,c-diamide adenosyltransferase",SGL_RS08905(),BioCyc
 SGL_RS10325-MONOMER,hypothetical protein,SGL_RS10325(),BioCyc
 SGL_RS17130-MONOMER,hypothetical protein,SGL_RS17130(),BioCyc
 SGL_RS02940-MONOMER,magnesium chelatase ATPase subunit D,SGL_RS02940(),BioCyc
 SGL_RS14550-MONOMER,competence/damage-inducible protein A,SGL_RS14550(),BioCyc
-SGL_RS07215-MONOMER,type I glyceraldehyde-3-phosphate dehydrogenase,SGL_RS07215(4),BioCyc
+SGL_RS07215-MONOMER,type I glyceraldehyde-3-phosphate dehydrogenase,SGL_RS07215(),BioCyc
 SGL_RS16840-MONOMER,TMEM165/GDT1 family protein,SGL_RS16840(),BioCyc
 SGL_RS06580-MONOMER,ATP-binding cassette domain-containing protein,SGL_RS06580(),BioCyc
 SGL_RS03850-MONOMER,biopolymer transporter ExbD,SGL_RS03850(),BioCyc
@@ -2946,7 +2946,7 @@ SGL_RS08480-MONOMER,DUF3122 domain-containing protein,SGL_RS08480(),BioCyc
 SGL_RS07635-MONOMER,precorrin-2 C(20)-methyltransferase,SGL_RS07635(),BioCyc
 SGL_RS17810-MONOMER,iron uptake porin,SGL_RS17810(),BioCyc
 SGL_RS05560-MONOMER,DegT/DnrJ/EryC1/StrS family aminotransferase,SGL_RS05560(),BioCyc
-SGL_RS11290-MONOMER,phosphoenolpyruvate carboxylase,SGL_RS11290(4),BioCyc
+SGL_RS11290-MONOMER,phosphoenolpyruvate carboxylase,SGL_RS11290(),BioCyc
 SGL_RS04410-MONOMER,photosystem II protein PsbQ,SGL_RS04410(),BioCyc
 SGL_RS13715-MONOMER,acyl-CoA thioesterase,SGL_RS13715(),BioCyc
 SGL_RS00045-MONOMER,site-specific integrase,SGL_RS00045(),BioCyc
@@ -2965,7 +2965,7 @@ SGL_RS15620-MONOMER,cobyric acid synthase CobQ,SGL_RS15620(),BioCyc
 SGL_RS12200-MONOMER,MMPL family transporter,SGL_RS12200(),BioCyc
 SGL_RS05305-MONOMER,trans-splicing intein-formed DNA polymerase III subunit alpha C-terminal partner DnaE-C,SGL_RS05305(),BioCyc
 SGL_RS11505-MONOMER,NUDIX domain-containing protein,SGL_RS11505(),BioCyc
-SGL_RS07235-MONOMER,lipoyl synthase,SGL_RS07235(),BioCyc
+SGL_RS07235-MONOMER,lipoyl synthase,SGL_RS07235(2),BioCyc
 SGL_RS10015-MONOMER,calcium/proton exchanger,SGL_RS10015(),BioCyc
 SGL_RS02030-MONOMER,iron-siderophore ABC transporter substrate-binding protein,SGL_RS02030(),BioCyc
 SGL_RS02580-MONOMER,DUF1818 family protein,SGL_RS02580(),BioCyc
@@ -2987,14 +2987,14 @@ SGL_RS08940-MONOMER,IS5 family transposase,SGL_RS08940(),BioCyc
 SGL_RS10225-MONOMER,EAL domain-containing protein,SGL_RS10225(),BioCyc
 SGL_RS06000-MONOMER,peroxiredoxin,SGL_RS06000(),BioCyc
 SGL_RS17185-MONOMER,rhomboid family intramembrane serine protease,SGL_RS17185(),BioCyc
-SGL_RS05620-MONOMER,sodium/glutamate symporter,SGL_RS05620(1),BioCyc
+SGL_RS05620-MONOMER,sodium/glutamate symporter,SGL_RS05620(),BioCyc
 SGL_RS14730-MONOMER,hypothetical protein,SGL_RS14730(),BioCyc
 SGL_RS15360-MONOMER,aldehyde dehydrogenase family protein,SGL_RS15360(),BioCyc
 SGL_RS00520-MONOMER,hypothetical protein,SGL_RS00520(),BioCyc
 SGL_RS17425-MONOMER,glutaredoxin 3,SGL_RS17425(),BioCyc
 SGL_RS09205-MONOMER,cupin domain-containing protein,SGL_RS09205(),BioCyc
 SGL_RS11605-MONOMER,glycosyltransferase,SGL_RS11605(),BioCyc
-CPLX220H-5,Re/Si-specific NAD(P)(+) transhydrogenase,SGL_RS06840(2) AND SGL_RS06815(2),BioCyc
+CPLX220H-5,Re/Si-specific NAD(P)(+) transhydrogenase,SGL_RS06815() AND SGL_RS06840(),BioCyc
 SGL_RS10580-MONOMER,bifunctional sterol desaturase/short chain dehydrogenase,SGL_RS10580(),BioCyc
 SGL_RS12140-MONOMER,tetratricopeptide repeat protein,SGL_RS12140(),BioCyc
 SGL_RS06850-MONOMER,class I SAM-dependent methyltransferase,SGL_RS06850(),BioCyc
@@ -3008,7 +3008,7 @@ SGL_RS15990-MONOMER,hypothetical protein,SGL_RS15990(),BioCyc
 SGL_RS01785-MONOMER,hypothetical protein,SGL_RS01785(),BioCyc
 SGL_RS17930-MONOMER,molecular chaperone,SGL_RS17930(),BioCyc
 SGL_RS14530-MONOMER,carbamoyl-phosphate synthase large subunit,SGL_RS14530(),BioCyc
-SGL_RS06770-MONOMER,cytosine deaminase,SGL_RS06770(1),BioCyc
+SGL_RS06770-MONOMER,cytosine deaminase,SGL_RS06770(),BioCyc
 SGL_RS09575-MONOMER,hypothetical protein,SGL_RS09575(),BioCyc
 SGL_RS05355-MONOMER,cation:proton antiporter,SGL_RS05355(),BioCyc
 SGL_RS17115-MONOMER,DUF3370 domain-containing protein,SGL_RS17115(),BioCyc
@@ -3042,7 +3042,7 @@ SGL_RS10500-MONOMER,ribonuclease P protein component,SGL_RS10500(),BioCyc
 SGL_RS18100-MONOMER,SH3 domain-containing protein,SGL_RS18100(),BioCyc
 SGL_RS02495-MONOMER,hypothetical protein,SGL_RS02495(),BioCyc
 SGL_RS13945-MONOMER,nucleotide exchange factor GrpE,SGL_RS13945(2),BioCyc
-SGL_RS11420-MONOMER,class 1 fructose-bisphosphatase,SGL_RS11420(4),BioCyc
+SGL_RS11420-MONOMER,class 1 fructose-bisphosphatase,SGL_RS11420(),BioCyc
 SGL_RS16245-MONOMER,DUF4334 domain-containing protein,SGL_RS16245(),BioCyc
 SGL_RS07880-MONOMER,glutamyl-tRNA reductase,SGL_RS07880(2),BioCyc
 SGL_RS11955-MONOMER,aminomethyl-transferring glycine dehydrogenase,SGL_RS11955(),BioCyc
@@ -3051,7 +3051,7 @@ SGL_RS08795-MONOMER,saccharopine dehydrogenase,SGL_RS08795(),BioCyc
 SGL_RS00195-MONOMER,glycosyltransferase family 2 protein,SGL_RS00195(),BioCyc
 SGL_RS06550-MONOMER,glycosyltransferase,SGL_RS06550(),BioCyc
 SGL_RS04085-MONOMER,hypothetical protein,SGL_RS04085(),BioCyc
-SGL_RS14860-MONOMER,8-amino-7-oxononanoate synthase,SGL_RS14860(2),BioCyc
+SGL_RS14860-MONOMER,8-amino-7-oxononanoate synthase,SGL_RS14860(),BioCyc
 SGL_RS03620-MONOMER,glycosyltransferase,SGL_RS03620(),BioCyc
 SGL_RS06905-MONOMER,Uma2 family endonuclease,SGL_RS06905(),BioCyc
 SGL_RS18935-MONOMER,hypothetical protein,SGL_RS18935(),BioCyc
@@ -3073,7 +3073,7 @@ SGL_RS03260-MONOMER,FUSC family protein,SGL_RS03260(),BioCyc
 SGL_RS01475-MONOMER,hypothetical protein,SGL_RS01475(),BioCyc
 SGL_RS13325-MONOMER,ABC transporter permease,SGL_RS13325(),BioCyc
 SGL_RS10915-MONOMER,TRAP transporter small permease subunit,SGL_RS10915(),BioCyc
-SGL_RS13060-MONOMER,UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase,SGL_RS13060(1),BioCyc
+SGL_RS13060-MONOMER,UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase,SGL_RS13060(),BioCyc
 SGL_RS06045-MONOMER,HlyD family efflux transporter periplasmic adaptor subunit,SGL_RS06045(),BioCyc
 SGL_RS03135-MONOMER,prephenate dehydratase,SGL_RS03135(2),BioCyc
 SGL_RS08710-MONOMER,bifunctional folylpolyglutamate synthase/dihydrofolate synthase,SGL_RS08710(1),BioCyc
@@ -3191,7 +3191,7 @@ SGL_RS15405-MONOMER,class I SAM-dependent methyltransferase,SGL_RS15405(),BioCyc
 SGL_RS03695-MONOMER,type II toxin-antitoxin system HicB family antitoxin,SGL_RS03695(),BioCyc
 SGL_RS10875-MONOMER,NAD(P)H-hydrate dehydratase,SGL_RS10875(),BioCyc
 SGL_RS05015-MONOMER,cytochrome d ubiquinol oxidase subunit II,SGL_RS05015(),BioCyc
-SGL_RS17360-MONOMER,bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase,SGL_RS17360(2),BioCyc
+SGL_RS17360-MONOMER,bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase,SGL_RS17360(),BioCyc
 SGL_RS06290-MONOMER,NADH-quinone oxidoreductase subunit M,SGL_RS06290(),BioCyc
 SGL_RS14015-MONOMER,AI-2E family transporter,SGL_RS14015(),BioCyc
 SGL_RS02340-MONOMER,hypothetical protein,SGL_RS02340(),BioCyc
@@ -3237,7 +3237,7 @@ SGL_RS07840-MONOMER,SDR family oxidoreductase,SGL_RS07840(),BioCyc
 SGL_RS18790-MONOMER,IS1 family transposase,SGL_RS18790(),BioCyc
 SGL_RS15305-MONOMER,ribonuclease HI,SGL_RS15305(),BioCyc
 SGL_RS10020-MONOMER,dCTP deaminase,SGL_RS10020(),BioCyc
-SGL_RS10380-MONOMER,oxygen-independent coproporphyrinogen III oxidase,SGL_RS10380(1),BioCyc
+SGL_RS10380-MONOMER,oxygen-independent coproporphyrinogen III oxidase,SGL_RS10380(),BioCyc
 SGL_RS13135-MONOMER,hypothetical protein,SGL_RS13135(),BioCyc
 SGL_RS03535-MONOMER,Uma2 family endonuclease,SGL_RS03535(),BioCyc
 SGL_RS07940-MONOMER,type II secretion system protein,SGL_RS07940(),BioCyc
@@ -3307,9 +3307,9 @@ SGL_RS03615-MONOMER,type II toxin-antitoxin system PemK/MazF family toxin,SGL_RS
 SGL_RS04090-MONOMER,photosystem I reaction center subunit XII,SGL_RS04090(),BioCyc
 SGL_RS02170-MONOMER,hypothetical protein,SGL_RS02170(),BioCyc
 SGL_RS19355-MONOMER,transposase,SGL_RS19355(),BioCyc
-SGL_RS12595-MONOMER,ROK family protein,SGL_RS12595(1),BioCyc
+SGL_RS12595-MONOMER,ROK family protein,SGL_RS12595(),BioCyc
 SGL_RS06140-MONOMER,"threonine ammonia-lyase, biosynthetic",SGL_RS06140(4),BioCyc
-SGL_RS16360-MONOMER,4-hydroxythreonine-4-phosphate dehydrogenase PdxA,SGL_RS16360(2),BioCyc
+SGL_RS16360-MONOMER,4-hydroxythreonine-4-phosphate dehydrogenase PdxA,SGL_RS16360(),BioCyc
 SGL_RS14770-MONOMER,"endo-1,3-beta-glucanase",SGL_RS14770(),BioCyc
 SGL_RS00540-MONOMER,hypothetical protein,SGL_RS00540(),BioCyc
 SGL_RS17695-MONOMER,DNA adenine methylase,SGL_RS17695(),BioCyc
@@ -3317,7 +3317,7 @@ SGL_RS19435-MONOMER,hypothetical protein,SGL_RS19435(),BioCyc
 SGL_RS19110-MONOMER,IS630 family transposase,SGL_RS19110(),BioCyc
 SGL_RS11645-MONOMER,photosystem II protein Psb27,SGL_RS11645(),BioCyc
 SGL_RS18000-MONOMER,RNA helicase,SGL_RS18000(),BioCyc
-SGL_RS15220-MONOMER,diguanylate cyclase,SGL_RS15220(2),BioCyc
+SGL_RS15220-MONOMER,diguanylate cyclase,SGL_RS15220(),BioCyc
 SGL_RS09250-MONOMER,bile acid:sodium symporter family protein,SGL_RS09250(),BioCyc
 SGL_RS12180-MONOMER,type II toxin-antitoxin system HicB family antitoxin,SGL_RS12180(),BioCyc
 SGL_RS01485-MONOMER,antirestriction protein ArdA,SGL_RS01485(),BioCyc
@@ -3347,7 +3347,7 @@ SGL_RS07250-MONOMER,hypothetical protein,SGL_RS07250(),BioCyc
 SGL_RS09660-MONOMER,RelA/SpoT family protein,SGL_RS09660(1),BioCyc
 SGL_RS12420-MONOMER,hypothetical protein,SGL_RS12420(),BioCyc
 SGL_RS16415-MONOMER,DUF29 domain-containing protein,SGL_RS16415(),BioCyc
-SGL_RS07985-MONOMER,glycosyltransferase family 39 protein,SGL_RS07985(1),BioCyc
+SGL_RS07985-MONOMER,glycosyltransferase family 39 protein,SGL_RS07985(),BioCyc
 SGL_RS08450-MONOMER,MAPEG family protein,SGL_RS08450(),BioCyc
 SGL_RS05505-MONOMER,TIGR03279 family radical SAM protein,SGL_RS05505(),BioCyc
 SGL_RS00855-MONOMER,AbrB/MazE/SpoVT family DNA-binding domain-containing protein,SGL_RS00855(),BioCyc
@@ -3405,7 +3405,7 @@ SGL_RS04755-MONOMER,hypothetical protein,SGL_RS04755(),BioCyc
 SGL_RS06950-MONOMER,DUF2079 domain-containing protein,SGL_RS06950(),BioCyc
 SGL_RS06805-MONOMER,hypothetical protein,SGL_RS06805(),BioCyc
 SGL_RS12680-MONOMER,DUF4114 domain-containing protein,SGL_RS12680(),BioCyc
-SGL_RS06320-MONOMER,ABC transporter ATP-binding protein,SGL_RS06320(),BioCyc
+SGL_RS06320-MONOMER,ABC transporter ATP-binding protein,SGL_RS06320(2),BioCyc
 SGL_RS11350-MONOMER,hypothetical protein,SGL_RS11350(),BioCyc
 SGL_RS16170-MONOMER,DUF1348 family protein,SGL_RS16170(),BioCyc
 SGL_RS13375-MONOMER,ATP-dependent Clp protease ATP-binding subunit,SGL_RS13375(),BioCyc
@@ -3419,7 +3419,7 @@ SGL_RS06560-MONOMER,hypothetical protein,SGL_RS06560(),BioCyc
 SGL_RS07200-MONOMER,LCP family protein,SGL_RS07200(),BioCyc
 SGL_RS17955-MONOMER,nitric-oxide reductase large subunit,SGL_RS17955(),BioCyc
 SGL_RS03610-MONOMER,hypothetical protein,SGL_RS03610(),BioCyc
-SGL_RS15335-MONOMER,threonine--tRNA ligase,SGL_RS15335(2),BioCyc
+SGL_RS15335-MONOMER,threonine--tRNA ligase,SGL_RS15335(),BioCyc
 SGL_RS13630-MONOMER,LON peptidase substrate-binding domain-containing protein,SGL_RS13630(),BioCyc
 SGL_RS09565-MONOMER,DUF115 domain-containing protein,SGL_RS09565(),BioCyc
 SGL_RS10790-MONOMER,DUF4359 domain-containing protein,SGL_RS10790(),BioCyc
@@ -3430,7 +3430,7 @@ SGL_RS12460-MONOMER,matrixin family metalloprotease,SGL_RS12460(),BioCyc
 SGL_RS09460-MONOMER,ATP-binding cassette domain-containing protein,SGL_RS09460(),BioCyc
 SGL_RS11425-MONOMER,sucrose-phosphate phosphatase,SGL_RS11425(),BioCyc
 SGL_RS03990-MONOMER,hypothetical protein,SGL_RS03990(),BioCyc
-SGL_RS14390-MONOMER,histidine phosphatase family protein,SGL_RS14390(1),BioCyc
+SGL_RS14390-MONOMER,histidine phosphatase family protein,SGL_RS14390(),BioCyc
 SGL_RS16955-MONOMER,site-2 protease family protein,SGL_RS16955(),BioCyc
 SGL_RS14325-MONOMER,ABC transporter substrate-binding protein,SGL_RS14325(),BioCyc
 SGL_RS13655-MONOMER,DNA-3-methyladenine glycosylase 2 family protein,SGL_RS13655(),BioCyc
@@ -3474,7 +3474,7 @@ SGL_RS17195-MONOMER,DUF697 domain-containing protein,SGL_RS17195(),BioCyc
 SGL_RS02415-MONOMER,FAD-binding oxidoreductase,SGL_RS02415(),BioCyc
 SGL_RS17760-MONOMER,circadian clock protein KaiC,SGL_RS17760(),BioCyc
 SGL_RS04490-MONOMER,Pr2TM family membrane protein,SGL_RS04490(),BioCyc
-SGL_RS14105-MONOMER,2-succinylbenzoate--CoA ligase,SGL_RS14105(4),BioCyc
+SGL_RS14105-MONOMER,2-succinylbenzoate--CoA ligase,SGL_RS14105(),BioCyc
 SGL_RS10365-MONOMER,hypothetical protein,SGL_RS10365(),BioCyc
 SGL_RS14070-MONOMER,methyltransferase domain-containing protein,SGL_RS14070(),BioCyc
 SGL_RS04625-MONOMER,metal ABC transporter ATP-binding protein,SGL_RS04625(),BioCyc
@@ -3489,7 +3489,7 @@ SGL_RS10690-MONOMER,PilN domain-containing protein,SGL_RS10690(),BioCyc
 SGL_RS13205-MONOMER,cytochrome b6-f complex subunit IV,SGL_RS13205(),BioCyc
 SGL_RS13540-MONOMER,hypothetical protein,SGL_RS13540(),BioCyc
 SGL_RS02585-MONOMER,hypothetical protein,SGL_RS02585(),BioCyc
-SGL_RS11085-MONOMER,glucosylglycerol-phosphate synthase,SGL_RS11085(1),BioCyc
+SGL_RS11085-MONOMER,glucosylglycerol-phosphate synthase,SGL_RS11085(),BioCyc
 SGL_RS16165-MONOMER,GAF domain-containing protein,SGL_RS16165(),BioCyc
 SGL_RS17180-MONOMER,DEAD/DEAH box helicase,SGL_RS17180(),BioCyc
 SGL_RS05385-MONOMER,DUF4040 domain-containing protein,SGL_RS05385(),BioCyc
@@ -3512,7 +3512,7 @@ SGL_RS18710-MONOMER,DUF3155 domain-containing protein,SGL_RS18710(),BioCyc
 SGL_RS11610-MONOMER,methyltransferase domain-containing protein,SGL_RS11610(),BioCyc
 SGL_RS10585-MONOMER,MFS transporter,SGL_RS10585(),BioCyc
 SGL_RS13885-MONOMER,chlorophyll synthase ChlG,SGL_RS13885(),BioCyc
-SGL_RS12510-MONOMER,lipoyl(octanoyl) transferase LipB,SGL_RS12510(1),BioCyc
+SGL_RS12510-MONOMER,lipoyl(octanoyl) transferase LipB,SGL_RS12510(),BioCyc
 SGL_RS12210-MONOMER,type IV pilus twitching motility protein PilT,SGL_RS12210(),BioCyc
 SGL_RS10645-MONOMER,carbamoyltransferase,SGL_RS10645(),BioCyc
 SGL_RS15110-MONOMER,pre-16S rRNA-processing nuclease YqgF,SGL_RS15110(),BioCyc
@@ -3549,7 +3549,7 @@ SGL_RS01100-MONOMER,hypothetical protein,SGL_RS01100(),BioCyc
 SGL_RS04240-MONOMER,50S ribosomal protein L32,SGL_RS04240(),BioCyc
 SGL_RS12230-MONOMER,ATP-dependent Clp protease proteolytic subunit,SGL_RS12230(),BioCyc
 SGL_RS08445-MONOMER,phytoene synthase,SGL_RS08445(),BioCyc
-SGL_RS10510-MONOMER,membrane protein insertase YidC,SGL_RS10510(1),BioCyc
+SGL_RS10510-MONOMER,membrane protein insertase YidC,SGL_RS10510(),BioCyc
 SGL_RS13950-MONOMER,type II/IV secretion system protein,SGL_RS13950(),BioCyc
 SGL_RS15145-MONOMER,phosphoribosylformylglycinamidine cyclo-ligase,SGL_RS15145(2),BioCyc
 SGL_RS05585-MONOMER,hydrogenase maturation nickel metallochaperone HypA,SGL_RS05585(),BioCyc
@@ -3559,8 +3559,8 @@ SGL_RS07885-MONOMER,hypothetical protein,SGL_RS07885(),BioCyc
 SGL_RS00500-MONOMER,cytidine deaminase,SGL_RS00500(),BioCyc
 SGL_RS00200-MONOMER,hypothetical protein,SGL_RS00200(),BioCyc
 SGL_RS11935-MONOMER,cytochrome c-550,SGL_RS11935(),BioCyc
-SGL_RS08620-MONOMER,thiolase family protein,SGL_RS08620(4),BioCyc
-SGL_RS14865-MONOMER,type I methionyl aminopeptidase,SGL_RS14865(1),BioCyc
+SGL_RS08620-MONOMER,thiolase family protein,SGL_RS08620(),BioCyc
+SGL_RS14865-MONOMER,type I methionyl aminopeptidase,SGL_RS14865(),BioCyc
 SGL_RS11805-MONOMER,AAA family ATPase,SGL_RS11805(),BioCyc
 SGL_RS04560-MONOMER,IS4 family transposase,SGL_RS04560(),BioCyc
 SGL_RS06910-MONOMER,DUF2442 domain-containing protein,SGL_RS06910(),BioCyc
@@ -3811,16 +3811,16 @@ CPLX_NO3abcpp-6,Nitrate transport via ABC system (periplasm),SGL_RS06595() AND S
 CPLX_NO3abcpp-7,Nitrate transport via ABC system (periplasm),SGL_RS06595() AND SGL_RS06590() AND SGL_RS06585() AND SGL_RS05565(),iRS795(NO3abcpp)
 CPLX_PIuabcpp-0,"Phosphate transport via ABC system (uptake, periplasm)",SGL_RS15060() AND SGL_RS14205() AND SGL_RS14200() AND SGL_RS14195() AND SGL_RS14190() AND SGL_RS14185() AND SGL_RS14180(),iRS795(PIuabcpp)
 CPLX_PIuabcpp-1,"Phosphate transport via ABC system (uptake, periplasm)",SGL_RS08390() AND SGL_RS08395() AND SGL_RS08400() AND SGL_RS08405(),iRS795(PIuabcpp)
-CPLX_SULabcpp-0,Sulfate transport via ABC system (periplasm),SGL_RS17140(1) AND SGL_RS17160(2) AND SGL_RS17155(1) AND SGL_RS17150(1),iRS795(SULabcpp)
+CPLX_SULabcpp-0,Sulfate transport via ABC system (periplasm),SGL_RS17140() AND SGL_RS17150() AND SGL_RS17155() AND SGL_RS17160(),iRS795(SULabcpp)
 CPLX_UREAabcpp-0,Urea transport via ABC system (periplasm),SGL_RS11810() AND SGL_RS06010() AND SGL_RS06015() AND SGL_RS13090() AND SGL_RS14500(),iRS795(UREAabcpp)
-CPLX_ZNabcpp-0,Zinc (Zn+2) transport via ABC system (periplasm),SGL_RS04630(2) AND SGL_RS04625(2) AND SGL_RS04620(1),iRS795(ZNabcpp)
+CPLX_ZNabcpp-0,Zinc (Zn+2) transport via ABC system (periplasm),SGL_RS04620() AND SGL_RS04625() AND SGL_RS04630(),iRS795(ZNabcpp)
 CPLX_AALACPTD-0,D-alanyl-D-alanine carboxypeptidase,SGL_RS16185() AND SGL_RS14350() AND SGL_RS09795() AND SGL_RS12260() AND SGL_RS04790() AND SGL_RS14090() AND SGL_RS10890(),iRS795(AALACPTD)
-CPLX_ACCOAC-0,Acetyl-CoA carboxylase,SGL_RS13735(2) AND SGL_RS12910(2) AND SGL_RS17700(2) AND SGL_RS13980(2),iRS795(ACCOAC)
+CPLX_ACCOAC-0,Acetyl-CoA carboxylase,SGL_RS13980() AND SGL_RS12910() AND SGL_RS17700() AND SGL_RS13735(),iRS795(ACCOAC)
 CPLX_ACHBS2-0,2-aceto-2-hydroxybutanoate synthase,SGL_RS13860() AND SGL_RS09150() AND SGL_RS09105(),iRS795(ACHBS2)
 CPLX_AMPTASECG-0,Alanyl aminopeptidase (cys-gly),SGL_RS17040() AND SGL_RS09430() AND SGL_RS14865() AND SGL_RS16015() AND SGL_RS14930(),iRS795(AMPTASECG)
 CPLX_ANS-0,Anthranilate synthase,SGL_RS13880() AND SGL_RS02440(),iRS795(ANS)
 CPLX_ARGDC-0,Arginine decarboxylase,SGL_RS17330() AND SGL_RS01915(),iRS795(ARGDC)
-CPLX_ASNTRAT-0,Aspartyl-tRNA(Asn) amidotransferase,SGL_RS10865() AND SGL_RS16515() AND SGL_RS07160(),iRS795(ASNTRAT)
+CPLX_ASNTRAT-0,Aspartyl-tRNA(Asn) amidotransferase,SGL_RS16515() AND SGL_RS07160() AND SGL_RS10865(),iRS795(ASNTRAT)
 CPLX_ATPPRT-0,ATP phosphoribosyltransferase,SGL_RS16845() AND SGL_RS17420(),iRS795(ATPPRT)
 CPLX_CBPS-0,Carbamoyl-phosphate synthase (glutamine-hydrolysing),SGL_RS14530() AND SGL_RS17390() AND SGL_RS03590(),iRS795(CBPS)
 CPLX_FNOR-0,Ferredoxin---NADP+ reductase,SGL_RS13450() AND SGL_RS11630() AND SGL_RS08960(),iRS795(FNOR)
@@ -3828,19 +3828,19 @@ CPLX_FNOR-1,Ferredoxin---NADP+ reductase,SGL_RS10530() AND SGL_RS11630() AND SGL
 CPLX_FNOR-2,Ferredoxin---NADP+ reductase,SGL_RS12135() AND SGL_RS11630() AND SGL_RS08960(),iRS795(FNOR)
 CPLX_FNOR-3,Ferredoxin---NADP+ reductase,SGL_RS06260() AND SGL_RS11630() AND SGL_RS08960(),iRS795(FNOR)
 CPLX_FTR-0,Ferredoxin thioredoxin reductase,SGL_RS14935() AND SGL_RS14680(),iRS795(FTR)
-CPLX_GLUSx-0,Glutamate synthase NADH2 ,SGL_RS02895() AND SGL_RS04160(),iRS795(GLUSx)
+CPLX_GLUSx-0,Glutamate synthase NADH2 ,SGL_RS02895(4) AND SGL_RS04160(4),iRS795(GLUSx)
 CPLX_GLYCLa-0,Glycine Cleavage System,SGL_RS11955() AND SGL_RS07170(),iRS795(GLYCLa)
-CPLX_GLYCLTDx-0,Glycolate dehydrogenase (NAD),SGL_RS04800() AND SGL_RS03315() AND SGL_RS13765(),iRS795(GLYCLTDx)
+CPLX_GLYCLTDx-0,Glycolate dehydrogenase (NAD),SGL_RS13765() AND SGL_RS03315() AND SGL_RS04800(),iRS795(GLYCLTDx)
 CPLX_GLYCLTDx-1,Glycolate dehydrogenase (NAD),SGL_RS09800() AND SGL_RS03315() AND SGL_RS04800(),iRS795(GLYCLTDx)
 CPLX_GTHOr-0,Glutathione oxidoreductase,SGL_RS18325() AND SGL_RS17425() AND SGL_RS06795(),iRS795(GTHOr)
 CPLX_IPPMIa-0,3-isopropylmalate dehydratase,SGL_RS10800(1) AND SGL_RS17620(1),iRS795(IPPMIa)
 CPLX_LPADSS-0,Lipid A disaccaride synthase,SGL_RS13445() AND SGL_RS11120(),iRS795(LPADSS)
 CPLX_MEHLER-0,Mehler reaction,SGL_RS14955() AND SGL_RS11685(),iRS795(MEHLER)
 CPLX_NTP3-0,Nucleoside-triphosphatase (GTP),SGL_RS15140() AND SGL_RS10930() AND SGL_RS10925() AND SGL_RS17200() AND SGL_RS12040(),iRS795(NTP3)
-CPLX_NTPP2-0,Nucleoside triphosphate pyrophosphorylase (gtp),SGL_RS10995(2) AND SGL_RS18250(2),iRS795(NTPP2)
+CPLX_NTPP2-0,Nucleoside triphosphate pyrophosphorylase (gtp),SGL_RS18250(2) AND SGL_RS10995(2),iRS795(NTPP2)
 CPLX_PDH-0,Pyruvate dehydrogenase,SGL_RS06345() AND SGL_RS12345(),iRS795(PDH)
 CPLX_PHBS_syn_1-0,PHB synthetase,SGL_RS06265() AND SGL_RS06270(),iRS795(PHBS_syn_1)
-CPLX_PRFGS-0,Phosphoribosylformylglycinamidine synthase,SGL_RS02220() AND SGL_RS15525() AND SGL_RS15530(),iRS795(PRFGS)
+CPLX_PRFGS-0,Phosphoribosylformylglycinamidine synthase,SGL_RS15530() AND SGL_RS02220() AND SGL_RS15525(),iRS795(PRFGS)
 CPLX_SUCOAS-0,Succinyl-CoA synthetase (ADP-forming),SGL_RS03770(2) AND SGL_RS11225(2),iRS795(SUCOAS)
 CPLX_TDPDRE_1-0,"DTDP-4-dehydrorhamnose 3,5-epimerase",SGL_RS03555() AND SGL_RS02095(),iRS795(TDPDRE_1)
 CPLX_TDPDRE_1-1,"DTDP-4-dehydrorhamnose 3,5-epimerase",SGL_RS12335() AND SGL_RS02095(),iRS795(TDPDRE_1)

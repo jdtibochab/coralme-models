@@ -11,7 +11,7 @@ TM0013-MONOMER,MBL fold metallo-hydrolase,TM0013(),GenBank
 TM0014-MONOMER,methyl-accepting chemotaxis protein,TM0014(),GenBank
 TM0015-MONOMER,pyruvate synthase subunit PorC,TM0015(),GenBank
 TM0016-MONOMER,pyruvate synthase subunit PorD,TM0016(),GenBank
-TM0017-MONOMER,pyruvate synthase subunit PorA,TM0017(1),GenBank
+TM0017-MONOMER,pyruvate synthase subunit PorA,TM0017(),GenBank
 TM0018-MONOMER,thiamine pyrophosphate-dependent enzyme,TM0018(),GenBank
 TM0019-MONOMER,glucose 1-dehydrogenase,TM0019(),GenBank
 TM0020-MONOMER,fluoride efflux transporter CrcB,TM0020(),GenBank
@@ -44,7 +44,7 @@ TM0047-MONOMER,RNA-guided endonuclease TnpB family protein,TM0047(),GenBank
 TM0048-MONOMER,IS200/IS605 family transposase,TM0048(),GenBank
 TM0049-MONOMER,DUF362 domain-containing protein,TM0049(),GenBank
 TM0050-MONOMER,ferrous iron transport protein A,TM0050(),GenBank
-TM0051-MONOMER,ferrous iron transport protein B,TM0051(1),GenBank
+TM0051-MONOMER,ferrous iron transport protein B,TM0051(),GenBank
 TM0052-MONOMER,hypothetical protein,TM0052(),GenBank
 TM0053-MONOMER,alpha/beta hydrolase,TM0053(),GenBank
 TM0054-MONOMER,hypothetical protein,TM0054(),GenBank
@@ -59,9 +59,9 @@ TM0062-MONOMER,carbohydrate binding domain-containing protein,TM0062(),GenBank
 TM0063-MONOMER,hypothetical protein,TM0063(),GenBank
 TM0064-MONOMER,glucuronate isomerase,TM0064(1),GenBank
 TM0065-MONOMER,IclR family transcriptional regulator,TM0065(),GenBank
-TM0066-MONOMER,bifunctional 4-hydroxy-2-oxoglutarate aldolase/2-dehydro-3-deoxy-phosphogluconate aldolase,TM0066(1),GenBank
+TM0066-MONOMER,bifunctional 4-hydroxy-2-oxoglutarate aldolase/2-dehydro-3-deoxy-phosphogluconate aldolase,TM0066(3),GenBank
 TM0067-MONOMER,sugar kinase,TM0067(),GenBank
-TM0068-MONOMER,D-mannonate dehydrogenase UxuB,TM0068(),GenBank
+TM0068-MONOMER,D-mannonate dehydrogenase UxuB,TM0068(1),GenBank
 TM0069-MONOMER,mannonate dehydratase,TM0069(1),GenBank
 TM0070-MONOMER,"endo-1,4-beta-xylanase",TM0070(),GenBank
 TM0071-MONOMER,ABC transporter substrate-binding protein,TM0071(),GenBank
@@ -69,7 +69,7 @@ TM0072-MONOMER,ABC transporter permease,TM0072(),GenBank
 TM0073-MONOMER,ABC transporter permease,TM0073(),GenBank
 TM0074-MONOMER,ABC transporter ATP-binding protein,TM0074(),GenBank
 TM0075-MONOMER,ABC transporter ATP-binding protein,TM0075(),GenBank
-TM0076-MONOMER,glycoside hydrolase family 3 N-terminal domain-containing protein,TM0076(1),GenBank
+TM0076-MONOMER,glycoside hydrolase family 3 N-terminal domain-containing protein,TM0076(),GenBank
 TM0077-MONOMER,cephalosporin-C deacetylase,TM0077(),GenBank
 TM0078-MONOMER,ABC transporter ATP-binding protein,TM0078(),GenBank
 TM0079-MONOMER,iron ABC transporter permease,TM0079(),GenBank
@@ -134,8 +134,8 @@ TM0137-MONOMER,tryptophan synthase subunit alpha,TM0137(),GenBank
 TM0138-MONOMER,tryptophan synthase subunit beta,TM0138(),GenBank
 TM0139-MONOMER,phosphoribosylanthranilate isomerase,TM0139(),GenBank
 TM0140-MONOMER,indole-3-glycerol-phosphate synthase,TM0140(1),GenBank
-TM0141-MONOMER,bifunctional anthranilate synthase component II/anthranilate phosphoribosyltransferase,TM0141(1),GenBank
-TM0142-MONOMER,anthranilate synthase component I family protein,TM0142(),GenBank
+TM0141-MONOMER,bifunctional anthranilate synthase component II/anthranilate phosphoribosyltransferase,TM0141(),GenBank
+TM0142-MONOMER,anthranilate synthase component I family protein,TM0142(1),GenBank
 TM0143-MONOMER,PleD family two-component system response regulator,TM0143(),GenBank
 TM_RS00700-MONOMER,zinc ribbon domain-containing protein,TM_RS00700(),GenBank
 TM0145-MONOMER,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD,TM0145(),GenBank
@@ -217,7 +217,7 @@ TM0221-MONOMER,flagellar basal-body MS-ring/collar protein FliF,TM0221(),GenBank
 TM0222-MONOMER,energy-coupling factor ABC transporter ATP-binding protein EcfA2,TM0222(),GenBank
 TM0223-MONOMER,S4 domain-containing protein,TM0223(),GenBank
 TM0224-MONOMER,biotin--[acetyl-CoA-carboxylase] ligase,TM0224(),GenBank
-TM0225-MONOMER,aminocyclopropane-1-carboxylate deaminase/D-cysteine desulfhydrase family protein,TM0225(2),GenBank
+TM0225-MONOMER,aminocyclopropane-1-carboxylate deaminase/D-cysteine desulfhydrase family protein,TM0225(),GenBank
 TM0226-MONOMER,DUF554 domain-containing protein,TM0226(),GenBank
 TM0227-MONOMER,NAD(P)H-dependent oxidoreductase subunit E,TM0227(),GenBank
 TM0228-MONOMER,NADH-quinone oxidoreductase subunit NuoF,TM0228(),GenBank
@@ -250,9 +250,9 @@ TM0254-MONOMER,SsrA-binding protein SmpB,TM0254(),GenBank
 TM0255-MONOMER,50S ribosomal protein L28,TM0255(),GenBank
 TM0257-MONOMER,HD domain-containing protein,TM0257(),GenBank
 TM0258-MONOMER,type I DNA topoisomerase,TM0258(),GenBank
-TM0259-MONOMER,D-alanine--D-alanine ligase,TM0259(2),GenBank
+TM0259-MONOMER,D-alanine--D-alanine ligase,TM0259(1),GenBank
 TM0260-MONOMER,DUF47 domain-containing protein,TM0260(),GenBank
-TM0261-MONOMER,inorganic phosphate transporter,TM0261(),GenBank
+TM0261-MONOMER,inorganic phosphate transporter,TM0261(1),GenBank
 TM0262-MONOMER,DNA polymerase III subunit beta,TM0262(),GenBank
 TM0263-MONOMER,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG,TM0263(2),GenBank
 TM0264-MONOMER,pseudouridine synthase,TM0264(1),GenBank
@@ -273,15 +273,15 @@ TM0278-MONOMER,sugar ABC transporter permease,TM0278(),GenBank
 TM0279-MONOMER,carbohydrate ABC transporter permease,TM0279(),GenBank
 TM0280-MONOMER,glycoside hydrolase family 127 protein,TM0280(),GenBank
 TM0281-MONOMER,alpha-N-arabinofuranosidase,TM0281(),GenBank
-TM0282-MONOMER,galactose mutarotase,TM0282(1),GenBank
-TM0283-MONOMER,L-ribulose-5-phosphate 4-epimerase,TM0283(1),GenBank
+TM0282-MONOMER,galactose mutarotase,TM0282(),GenBank
+TM0283-MONOMER,L-ribulose-5-phosphate 4-epimerase,TM0283(4),GenBank
 TM0284-MONOMER,FGGY-family carbohydrate kinase,TM0284(),GenBank
 TM0285-MONOMER,sn-glycerol-1-phosphate dehydrogenase,TM0285(),GenBank
 TM0286-MONOMER,PadR family transcriptional regulator,TM0286(),GenBank
 TM0287-MONOMER,ABC transporter ATP-binding protein,TM0287(),GenBank
-TM0288-MONOMER,ABC transporter ATP-binding protein,TM0288(2),GenBank
+TM0288-MONOMER,ABC transporter ATP-binding protein,TM0288(),GenBank
 TM0289-MONOMER,diphosphate--fructose-6-phosphate 1-phosphotransferase,TM0289(),GenBank
-TM0290-MONOMER,citrate synthase/methylcitrate synthase,TM0290(2),GenBank
+TM0290-MONOMER,citrate synthase/methylcitrate synthase,TM0290(),GenBank
 TM0291-MONOMER,3-isopropylmalate dehydratase large subunit,TM0291(),GenBank
 TM0292-MONOMER,3-isopropylmalate dehydratase small subunit,TM0292(),GenBank
 TM0293-MONOMER,glutamate-5-semialdehyde dehydrogenase,TM0293(4),GenBank
@@ -289,7 +289,7 @@ TM0294-MONOMER,glutamate 5-kinase,TM0294(4),GenBank
 TM0295-MONOMER,fructose-6-phosphate aldolase,TM0295(12),GenBank
 TM0296-MONOMER,carbohydrate kinase,TM0296(),GenBank
 TM0297-MONOMER,SDR family oxidoreductase,TM0297(),GenBank
-TM0298-MONOMER,mannitol dehydrogenase,TM0298(1),GenBank
+TM0298-MONOMER,mannitol dehydrogenase,TM0298(),GenBank
 TM0299-MONOMER,LacI family DNA-binding transcriptional regulator,TM0299(),GenBank
 TM0300-MONOMER,ABC transporter substrate-binding protein,TM0300(),GenBank
 TM0301-MONOMER,ABC transporter permease,TM0301(),GenBank
@@ -298,13 +298,13 @@ TM0303-MONOMER,ABC transporter ATP-binding protein,TM0303(),GenBank
 TM0304-MONOMER,ABC transporter ATP-binding protein,TM0304(),GenBank
 TM0305-MONOMER,endoglucanase,TM0305(),GenBank
 TM0306-MONOMER,alpha-L-fucosidase,TM0306(),GenBank
-TM0307-MONOMER,L-fucose/L-arabinose isomerase family protein,TM0307(6),GenBank
+TM0307-MONOMER,L-fucose/L-arabinose isomerase family protein,TM0307(),GenBank
 TM0308-MONOMER,alpha-xylosidase,TM0308(),GenBank
 TM0309-MONOMER,ABC transporter substrate-binding protein,TM0309(),GenBank
 TM0310-MONOMER,beta-galactosidase,TM0310(),GenBank
 TM0311-MONOMER,DUF6512 family protein,TM0311(),GenBank
 TM0312-MONOMER,Gfo/Idh/MocA family oxidoreductase,TM0312(),GenBank
-TM0313-MONOMER,aldo/keto reductase,TM0313(1),GenBank
+TM0313-MONOMER,aldo/keto reductase,TM0313(),GenBank
 TM0314-MONOMER,YHS domain-containing protein,TM0314(),GenBank
 TM0315-MONOMER,SHOCT domain-containing protein,TM0315(),GenBank
 TM0316-MONOMER,carboxymuconolactone decarboxylase family protein,TM0316(),GenBank
@@ -324,7 +324,7 @@ TM0329-MONOMER,hypothetical protein,TM0329(),GenBank
 TM0330-MONOMER,amidohydrolase,TM0330(),GenBank
 TM0331-MONOMER,orotate phosphoribosyltransferase,TM0331(),GenBank
 TM0332-MONOMER,orotidine-5'-phosphate decarboxylase,TM0332(2),GenBank
-TM0333-MONOMER,tRNA-dihydrouridine synthase,TM0333(1),GenBank
+TM0333-MONOMER,tRNA-dihydrouridine synthase,TM0333(),GenBank
 TM0334-MONOMER,dihydroorotate dehydrogenase,TM0334(),GenBank
 TM0335-MONOMER,dihydroorotase,TM0335(),GenBank
 TM0336-MONOMER,esterase EstD,TM0336(),GenBank
@@ -337,7 +337,7 @@ TM0342-MONOMER,MFS transporter,TM0342(),GenBank
 TM0343-MONOMER,3-deoxy-7-phosphoheptulonate synthase,TM0343(4),GenBank
 TM0344-MONOMER,prephenate dehydrogenase,TM0344(),GenBank
 TM0345-MONOMER,3-phosphoshikimate 1-carboxyvinyltransferase,TM0345(1),GenBank
-TM0346-MONOMER,shikimate 5-dehydrogenase,TM0346(1),GenBank
+TM0346-MONOMER,shikimate 5-dehydrogenase,TM0346(2),GenBank
 TM0347-MONOMER,chorismate synthase,TM0347(4),GenBank
 TM0348-MONOMER,bifunctional shikimate kinase AroK/3-dehydroquinate synthase AroB,TM0348(1),GenBank
 TM0349-MONOMER,type II 3-dehydroquinate dehydratase,TM0349(),GenBank
@@ -376,7 +376,7 @@ TM0382-MONOMER,endonuclease III domain-containing protein,TM0382(),GenBank
 TM0383-MONOMER,nitroreductase family protein,TM0383(),GenBank
 TM0384-MONOMER,anaerobic ribonucleoside-triphosphate reductase activating protein,TM0384(),GenBank
 TM0385-MONOMER,anaerobic ribonucleoside-triphosphate reductase,TM0385(),GenBank
-TM0386-MONOMER,nitroreductase family protein,TM0386(),GenBank
+TM0386-MONOMER,nitroreductase family protein,TM0386(1),GenBank
 TM0387-MONOMER,ABC transporter permease,TM0387(),GenBank
 TM0388-MONOMER,ABC transporter permease,TM0388(),GenBank
 TM0389-MONOMER,ABC transporter ATP-binding protein,TM0389(),GenBank
@@ -400,7 +400,7 @@ TM0408-MONOMER,chemotaxis response regulator protein-glutamate methylesterase,TM
 TM0409-MONOMER,M23 family metallopeptidase,TM0409(),GenBank
 TM0410-MONOMER,DUF523 domain-containing protein,TM0410(),GenBank
 TM0411-MONOMER,ROK family transcriptional regulator,TM0411(),GenBank
-TM0412-MONOMER,scyllo-inosose 3-dehydrogenase,TM0412(4),GenBank
+TM0412-MONOMER,scyllo-inosose 3-dehydrogenase,TM0412(),GenBank
 TM0413-MONOMER,3-dehydro-scyllo-inosose hydrolase,TM0413(),GenBank
 TM0414-MONOMER,inositol 2-dehydrogenase,TM0414(),GenBank
 TM0415-MONOMER,PfkB family carbohydrate kinase,TM0415(),GenBank
@@ -411,7 +411,7 @@ TM0419-MONOMER,sugar ABC transporter permease,TM0419(),GenBank
 TM0420-MONOMER,carbohydrate ABC transporter permease,TM0420(),GenBank
 TM0421-MONOMER,ABC transporter ATP-binding protein,TM0421(),GenBank
 TM0422-MONOMER,TIM barrel protein,TM0422(),GenBank
-TM0423-MONOMER,glycerol dehydrogenase,TM0423(8),GenBank
+TM0423-MONOMER,glycerol dehydrogenase,TM0423(),GenBank
 TM0424-MONOMER,AEC family transporter,TM0424(),GenBank
 TM0425-MONOMER,Gfo/Idh/MocA family oxidoreductase,TM0425(),GenBank
 TM0426-MONOMER,Gfo/Idh/MocA family oxidoreductase,TM0426(),GenBank
@@ -424,12 +424,12 @@ TM0432-MONOMER,ABC transporter substrate-binding protein,TM0432(),GenBank
 TM0433-MONOMER,pectate trisaccharide-lyase,TM0433(),GenBank
 TM0434-MONOMER,alpha-glucosidase AglA,TM0434(),GenBank
 TM0435-MONOMER,acetylxylan esterase,TM0435(),GenBank
-TM0436-MONOMER,zinc-binding dehydrogenase,TM0436(),GenBank
+TM0436-MONOMER,zinc-binding dehydrogenase,TM0436(4),GenBank
 TM0437-MONOMER,exopolygalacturonase PelB,TM0437(),GenBank
 TM0438-MONOMER,NADP-dependent phosphogluconate dehydrogenase,TM0438(2),GenBank
 TM0439-MONOMER,GntR family transcriptional regulator,TM0439(),GenBank
 TM0440-MONOMER,D-tagaturonate epimerase UxaE,TM0440(),GenBank
-TM0441-MONOMER,SDR family oxidoreductase,TM0441(1),GenBank
+TM0441-MONOMER,SDR family oxidoreductase,TM0441(),GenBank
 TM0442-MONOMER,lactate racemase domain-containing protein,TM0442(),GenBank
 TM0443-MONOMER,gluconokinase,TM0443(),GenBank
 TM0444-MONOMER,aspartate ammonia-lyase,TM0444(4),GenBank
@@ -463,10 +463,10 @@ TM0471-MONOMER,hypothetical protein,TM0471(),GenBank
 TM0472-MONOMER,pyridoxal 5'-phosphate synthase glutaminase subunit PdxT,TM0472(),GenBank
 TM0473-MONOMER,pyridoxal 5'-phosphate synthase lyase subunit PdxS,TM0473(),GenBank
 TM0474-MONOMER,hypothetical protein,TM0474(),GenBank
-TM0475-MONOMER,cysteine hydrolase,TM0475(1),GenBank
+TM0475-MONOMER,cysteine hydrolase,TM0475(),GenBank
 TM0476-MONOMER,hypothetical protein,TM0476(),GenBank
 TM0477-MONOMER,S-layer homology domain-containing protein,TM0477(),GenBank
-TM0478-MONOMER,tyrosine--tRNA ligase,TM0478(2),GenBank
+TM0478-MONOMER,tyrosine--tRNA ligase,TM0478(),GenBank
 TM0479-MONOMER,preprotein translocase subunit SecG,TM0479(),GenBank
 TM0480-MONOMER,excinuclease ABC subunit UvrA,TM0480(),GenBank
 TM0481-MONOMER,TIGR00529 family membrane protein,TM0481(),GenBank
@@ -492,7 +492,7 @@ TM0500-MONOMER,ABC transporter ATP-binding protein,TM0500(),GenBank
 TM0501-MONOMER,ABC transporter ATP-binding protein,TM0501(),GenBank
 TM0502-MONOMER,ABC transporter permease,TM0502(),GenBank
 TM0503-MONOMER,ABC transporter permease,TM0503(),GenBank
-TM0505-MONOMER,co-chaperone GroES,TM0505(),GenBank
+TM0505-MONOMER,co-chaperone GroES,TM0505(7),GenBank
 TM0506-MONOMER,chaperonin GroEL,TM0506(14),GenBank
 TM0508-MONOMER,AAA family ATPase,TM0508(),GenBank
 TM0509-MONOMER,SDR family oxidoreductase,TM0509(2),GenBank
@@ -527,13 +527,13 @@ TM0537-MONOMER,AAA family ATPase,TM0537(),GenBank
 TM0538-MONOMER,cation diffusion facilitator family transporter,TM0538(1),GenBank
 TM0539-MONOMER,TrpB-like pyridoxal phosphate-dependent enzyme,TM0539(),GenBank
 TM0540-MONOMER,fumarate hydratase,TM0540(),GenBank
-TM0541-MONOMER,FumA C-terminus/TtdB family hydratase beta subunit,TM0541(2),GenBank
+TM0541-MONOMER,FumA C-terminus/TtdB family hydratase beta subunit,TM0541(),GenBank
 TM0542-MONOMER,NADP-dependent malic enzyme,TM0542(6),GenBank
 TM0543-MONOMER,ABC transporter permease,TM0543(),GenBank
 TM0544-MONOMER,ABC transporter ATP-binding protein,TM0544(),GenBank
 TM0545-MONOMER,homoserine kinase,TM0545(2),GenBank
 TM0546-MONOMER,threonine synthase,TM0546(),GenBank
-TM0547-MONOMER,aspartate kinase,TM0547(4),GenBank
+TM0547-MONOMER,aspartate kinase,TM0547(),GenBank
 TM0548-MONOMER,biosynthetic-type acetolactate synthase large subunit,TM0548(),GenBank
 TM0549-MONOMER,acetolactate synthase small subunit,TM0549(),GenBank
 TM0550-MONOMER,ketol-acid reductoisomerase,TM0550(4),GenBank
@@ -547,7 +547,7 @@ TM0557-MONOMER,carbamoyl-phosphate synthase large subunit,TM0557(),GenBank
 TM0558-MONOMER,glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit,TM0558(),GenBank
 TM0559-MONOMER,PHP domain-containing protein,TM0559(),GenBank
 TM0560-MONOMER,DNA protection during starvation protein,TM0560(),GenBank
-TM0561-MONOMER,magnesium/cobalt transporter CorA,TM0561(1),GenBank
+TM0561-MONOMER,magnesium/cobalt transporter CorA,TM0561(),GenBank
 TM0562-MONOMER,hypothetical protein,TM0562(),GenBank
 TM_RS02895-MONOMER,hypothetical protein,TM_RS02895(),GenBank
 TM0563-MONOMER,MFS transporter,TM0563(),GenBank
@@ -559,8 +559,8 @@ TM0568-MONOMER,peptidoglycan DD-metalloendopeptidase family protein,TM0568(),Gen
 TM0569-MONOMER,DUF2225 domain-containing protein,TM0569(),GenBank
 TM0570-MONOMER,signal recognition particle-docking protein FtsY,TM0570(1),GenBank
 TM0571-MONOMER,DegQ family serine endoprotease,TM0571(),GenBank
-TM0572-MONOMER,DegT/DnrJ/EryC1/StrS aminotransferase family protein,TM0572(1),GenBank
-TM0573-MONOMER,apolipoprotein N-acyltransferase,TM0573(1),GenBank
+TM0572-MONOMER,DegT/DnrJ/EryC1/StrS aminotransferase family protein,TM0572(),GenBank
+TM0573-MONOMER,apolipoprotein N-acyltransferase,TM0573(),GenBank
 TM0574-MONOMER,tRNA preQ1(34) S-adenosylmethionine ribosyltransferase-isomerase QueA,TM0574(1),GenBank
 TM0575-MONOMER,crossover junction endodeoxyribonuclease RuvC,TM0575(),GenBank
 TM0576-MONOMER,DNA polymerase III subunit alpha,TM0576(),GenBank
@@ -579,7 +579,7 @@ TM0588-MONOMER,rod shape-determining protein,TM0588(),GenBank
 TM_RS09605-MONOMER,hypothetical protein,TM_RS09605(),GenBank
 TM_RS03035-MONOMER,hypothetical protein,TM_RS03035(),GenBank
 TM_RS03040-MONOMER,hypothetical protein,TM_RS03040(),GenBank
-TM0590-MONOMER,penicillin-binding transpeptidase domain-containing protein,TM0590(1),GenBank
+TM0590-MONOMER,penicillin-binding transpeptidase domain-containing protein,TM0590(),GenBank
 TM0591-MONOMER,amino acid ABC transporter ATP-binding protein,TM0591(),GenBank
 TM0592-MONOMER,amino acid ABC transporter permease,TM0592(),GenBank
 TM0593-MONOMER,transporter substrate-binding domain-containing protein,TM0593(),GenBank
@@ -592,7 +592,7 @@ TM0599-MONOMER,CehA/McbA family metallohydrolase,TM0599(),GenBank
 TM0600-MONOMER,NAD(P)/FAD-dependent oxidoreductase,TM0600(),GenBank
 TM_RS03100-MONOMER,hypothetical protein,TM_RS03100(),GenBank
 TM0602-MONOMER,metal-dependent transcriptional regulator,TM0602(),GenBank
-TM0603-MONOMER,30S ribosomal protein S6,TM0603(),GenBank
+TM0603-MONOMER,30S ribosomal protein S6,TM0603(1),GenBank
 TM0604-MONOMER,single-stranded DNA-binding protein,TM0604(),GenBank
 TM0605-MONOMER,30S ribosomal protein S18,TM0605(1),GenBank
 TM0606-MONOMER,hypothetical protein,TM0606(),GenBank
@@ -655,7 +655,7 @@ TM0664-MONOMER,DUF123 domain-containing protein,TM0664(),GenBank
 TM0665-MONOMER,cysteine synthase A,TM0665(2),GenBank
 TM0666-MONOMER,serine O-acetyltransferase,TM0666(6),GenBank
 TM0667-MONOMER,TatD family hydrolase,TM0667(),GenBank
-TM0668-MONOMER,DegT/DnrJ/EryC1/StrS aminotransferase family protein,TM0668(),GenBank
+TM0668-MONOMER,DegT/DnrJ/EryC1/StrS aminotransferase family protein,TM0668(1),GenBank
 TM0669-MONOMER,hypothetical protein,TM0669(),GenBank
 TM0670-MONOMER,hypothetical protein,TM0670(),GenBank
 TM0671-MONOMER,hypothetical protein,TM0671(),GenBank
@@ -683,7 +683,7 @@ TM0690-MONOMER,GatB/YqeY domain-containing protein,TM0690(),GenBank
 TM0691-MONOMER,tRNA1(Val) (adenine(37)-N6)-methyltransferase,TM0691(),GenBank
 TM0692-MONOMER,holo-[acyl-carrier-protein] synthase,TM0692(2),GenBank
 TM0693-MONOMER,flagellar protein FliT,TM0693(),GenBank
-TM0694-MONOMER,trigger factor,TM0694(),GenBank
+TM0694-MONOMER,trigger factor,TM0694(1),GenBank
 TM0695-MONOMER,ATP-dependent Clp endopeptidase proteolytic subunit ClpP,TM0695(),GenBank
 TM0696-MONOMER,YSC84-related protein,TM0696(),GenBank
 TM0697-MONOMER,flagellar biosynthesis protein FliQ,TM0697(),GenBank
@@ -714,7 +714,7 @@ TM0720-MONOMER,serine hydroxymethyltransferase,TM0720(2),GenBank
 TM0721-MONOMER,uracil phosphoribosyltransferase,TM0721(3),GenBank
 TM0722-MONOMER,ribonuclease R,TM0722(),GenBank
 TM0723-MONOMER,secondary thiamine-phosphate synthase enzyme YjbQ,TM0723(),GenBank
-TM0724-MONOMER,calcium/sodium antiporter,TM0724(1),GenBank
+TM0724-MONOMER,calcium/sodium antiporter,TM0724(),GenBank
 TM0725-MONOMER,PEGA domain-containing protein,TM0725(),GenBank
 TM0726-MONOMER,TldD/PmbA family protein,TM0726(),GenBank
 TM0727-MONOMER,TldD/PmbA family protein,TM0727(),GenBank
@@ -732,7 +732,7 @@ TM0738-MONOMER,hypothetical protein,TM0738(),GenBank
 TM0739-MONOMER,HD-GYP domain-containing protein,TM0739(),GenBank
 TM0740-MONOMER,threonine--tRNA ligase,TM0740(2),GenBank
 TM0741-MONOMER,pantetheine-phosphate adenylyltransferase,TM0741(6),GenBank
-TM0742-MONOMER,metallophosphoesterase family protein,TM0742(),GenBank
+TM0742-MONOMER,metallophosphoesterase family protein,TM0742(1),GenBank
 TM0743-MONOMER,hypothetical protein,TM0743(),GenBank
 TM0744-MONOMER,glycosyltransferase family 4 protein,TM0744(),GenBank
 TM0745-MONOMER,hypothetical protein,TM0745(),GenBank
@@ -741,11 +741,11 @@ TM0747-MONOMER,S41 family peptidase,TM0747(),GenBank
 TM0748-MONOMER,tRNA (adenine-N1)-methyltransferase,TM0748(),GenBank
 TM0749-MONOMER,GerMN domain-containing protein,TM0749(),GenBank
 TM0750-MONOMER,DUF4941 domain-containing protein,TM0750(),GenBank
-TM0751-MONOMER,nucleoside kinase,TM0751(1),GenBank
-TM0752-MONOMER,alpha-glucosidase AglA,TM0752(2),GenBank
+TM0751-MONOMER,nucleoside kinase,TM0751(),GenBank
+TM0752-MONOMER,alpha-glucosidase AglA,TM0752(),GenBank
 TM0753-MONOMER,"bifunctional demethylmenaquinone methyltransferase/2-methoxy-6-polyprenyl-1,4-benzoquinol methylase UbiE",TM0753(1),GenBank
-TM0754-MONOMER,FAD/NAD(P)-binding oxidoreductase,TM0754(1),GenBank
-TM0755-MONOMER,FprA family A-type flavoprotein,TM0755(4),GenBank
+TM0754-MONOMER,FAD/NAD(P)-binding oxidoreductase,TM0754(),GenBank
+TM0755-MONOMER,FprA family A-type flavoprotein,TM0755(),GenBank
 TM0756-MONOMER,glycosyltransferase,TM0756(),GenBank
 TM0757-MONOMER,glycosyltransferase,TM0757(),GenBank
 TM0758-MONOMER,flagellin,TM0758(),GenBank
@@ -759,7 +759,7 @@ TM0765-MONOMER,ABC transporter ATP-binding protein,TM0765(),GenBank
 TM0766-MONOMER,GntR family transcriptional regulator,TM0766(),GenBank
 TM0767-MONOMER,DUF1923 family maltosyltransferase,TM0767(),GenBank
 TM0768-MONOMER,ribosome biogenesis GTPase YlqF,TM0768(),GenBank
-TM0769-MONOMER,phospho-sugar mutase,TM0769(),GenBank
+TM0769-MONOMER,phospho-sugar mutase,TM0769(1),GenBank
 TM0770-MONOMER,TIGR03960 family B12-binding radical SAM protein,TM0770(),GenBank
 TM0771-MONOMER,DNA polymerase III subunit delta',TM0771(),GenBank
 TM0772-MONOMER,stage 0 sporulation family protein,TM0772(),GenBank
@@ -770,7 +770,7 @@ TM0776-MONOMER,RNA-guided endonuclease TnpB family protein,TM0776(),GenBank
 TM0777-MONOMER,IS200/IS605 family transposase,TM0777(),GenBank
 TM0778-MONOMER,hypothetical protein,TM0778(),GenBank
 TM0779-MONOMER,Mut7-C RNAse domain-containing protein,TM0779(),GenBank
-TM0780-MONOMER,peroxiredoxin,TM0780(1),GenBank
+TM0780-MONOMER,peroxiredoxin,TM0780(),GenBank
 TM0781-MONOMER,hypothetical protein,TM0781(),GenBank
 TM0782-MONOMER,glycosidase,TM0782(),GenBank
 TM0784-MONOMER,hypothetical protein,TM0784(),GenBank
@@ -780,7 +780,7 @@ TM0787-MONOMER,sulfide-dependent adenosine diphosphate thiazole synthase,TM0787(
 TM0788-MONOMER,phosphomethylpyrimidine synthase ThiC,TM0788(1),GenBank
 TM0789-MONOMER,sugar phosphate isomerase/epimerase,TM0789(),GenBank
 TM0790-MONOMER,thiamine-phosphate synthase family protein,TM0790(),GenBank
-TM0791-MONOMER,preQ(1) synthase,TM0791(),GenBank
+TM0791-MONOMER,preQ(1) synthase,TM0791(2),GenBank
 TM0792-MONOMER,queuosine precursor transporter,TM0792(),GenBank
 TM0793-MONOMER,ABC transporter ATP-binding protein,TM0793(),GenBank
 TM0794-MONOMER,hypothetical protein,TM0794(),GenBank
@@ -794,7 +794,7 @@ TM0801-MONOMER,3-hydroxyacyl-ACP dehydratase FabZ,TM0801(),GenBank
 TM0802-MONOMER,beta-ketoacyl-ACP synthase II,TM0802(2),GenBank
 TM0803-MONOMER,CTP synthase,TM0803(4),GenBank
 TM0804-MONOMER,PHP domain-containing protein,TM0804(),GenBank
-TM0805-MONOMER,MraY family glycosyltransferase,TM0805(),GenBank
+TM0805-MONOMER,MraY family glycosyltransferase,TM0805(1),GenBank
 TM0806-MONOMER,O-antigen ligase,TM0806(),GenBank
 TM0807-MONOMER,peroxiredoxin,TM0807(),GenBank
 TM0808-MONOMER,ROK family transcriptional regulator,TM0808(),GenBank
@@ -820,7 +820,7 @@ TM0827-MONOMER,ATP-binding cassette domain-containing protein,TM0827(),GenBank
 TM0828-MONOMER,1-phosphofructokinase family hexose kinase,TM0828(2),GenBank
 TM0829-MONOMER,CBS domain-containing protein,TM0829(),GenBank
 TM0830-MONOMER,tRNA (N(6)-L-threonylcarbamoyladenosine(37)-C(2))- methylthiotransferase MtaB,TM0830(),GenBank
-TM0831-MONOMER,aminotransferase class IV,TM0831(6),GenBank
+TM0831-MONOMER,aminotransferase class IV,TM0831(2),GenBank
 TM0832-MONOMER,DciA family protein,TM0832(),GenBank
 TM0833-MONOMER,DNA topoisomerase (ATP-hydrolyzing) subunit B,TM0833(),GenBank
 TM_RS09650-MONOMER,DUF4894 domain-containing protein,TM_RS09650(),GenBank
@@ -852,7 +852,7 @@ TM0859-MONOMER,preprotein translocase subunit YajC,TM0859(),GenBank
 TM0860-MONOMER,protein translocase subunit SecD,TM0860(),GenBank
 TM0861-MONOMER,protein translocase subunit SecF,TM0861(),GenBank
 TM0862-MONOMER,glucose-1-phosphate thymidylyltransferase,TM0862(1),GenBank
-TM0863-MONOMER,50S ribosomal protein L9,TM0863(),GenBank
+TM0863-MONOMER,50S ribosomal protein L9,TM0863(1),GenBank
 TM0864-MONOMER,ribonuclease Z,TM0864(2),GenBank
 TM0865-MONOMER,NfeD family protein,TM0865(),GenBank
 TM0866-MONOMER,SPFH/Band 7/PHB domain protein,TM0866(),GenBank
@@ -865,7 +865,7 @@ TM0872-MONOMER,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH,TM0872(),Ge
 TM0873-MONOMER,ATP-dependent Clp protease ATP-binding subunit,TM0873(),GenBank
 TM0874-MONOMER,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB,TM0874(),GenBank
 TM0875-MONOMER,DUF3855 domain-containing protein,TM0875(),GenBank
-TM0876-MONOMER,cation diffusion facilitator family transporter,TM0876(2),GenBank
+TM0876-MONOMER,cation diffusion facilitator family transporter,TM0876(),GenBank
 TM0877-MONOMER,phosphopyruvate hydratase,TM0877(2),GenBank
 TM0878-MONOMER,2-oxoacid:acceptor oxidoreductase subunit alpha,TM0878(),GenBank
 TM0879-MONOMER,4Fe-4S binding protein,TM0879(),GenBank
@@ -875,7 +875,7 @@ TM0882-MONOMER,O-acetyl-L-homoserine sulfhydrylase,TM0882(4),GenBank
 TM0883-MONOMER,type III pantothenate kinase,TM0883(),GenBank
 TM0884-MONOMER,radical SAM protein,TM0884(),GenBank
 TM0885-MONOMER,pyruvate kinase alpha/beta domain-containing protein,TM0885(),GenBank
-TM0886-MONOMER,transglycosylase domain-containing protein,TM0886(2),GenBank
+TM0886-MONOMER,transglycosylase domain-containing protein,TM0886(),GenBank
 TM0887-MONOMER,methylated-DNA--[protein]-cysteine S-methyltransferase,TM0887(),GenBank
 TM0888-MONOMER,thiamine diphosphokinase,TM0888(),GenBank
 TM0889-MONOMER,1-deoxy-D-xylulose-5-phosphate reductoisomerase,TM0889(2),GenBank
@@ -910,7 +910,7 @@ TM0917-MONOMER,inorganic phosphate transporter,TM0917(),GenBank
 TM0918-MONOMER,methyl-accepting chemotaxis protein,TM0918(),GenBank
 TM0919-MONOMER,OsmC family protein,TM0919(),GenBank
 TM0920-MONOMER,iron-containing alcohol dehydrogenase family protein,TM0920(),GenBank
-TM0921-MONOMER,lytic transglycosylase domain-containing protein,TM0921(),GenBank
+TM0921-MONOMER,lytic transglycosylase domain-containing protein,TM0921(1),GenBank
 TM0922-MONOMER,NAD(P)H-hydrate dehydratase,TM0922(),GenBank
 TM0923-MONOMER,tetratricopeptide repeat protein,TM0923(),GenBank
 TM0924-MONOMER,radical SAM protein,TM0924(),GenBank
@@ -923,13 +923,13 @@ TM0930-MONOMER,MoxR family ATPase,TM0930(),GenBank
 TM0931-MONOMER,hypothetical protein,TM0931(),GenBank
 TM0932-MONOMER,restriction endonuclease,TM0932(),GenBank
 TM0933-MONOMER,PD40 domain-containing protein,TM0933(),GenBank
-TM0934-MONOMER,ArsB/NhaD family transporter,TM0934(),GenBank
+TM0934-MONOMER,ArsB/NhaD family transporter,TM0934(2),GenBank
 TM0935-MONOMER,CBS domain-containing protein,TM0935(),GenBank
 TM0936-MONOMER,5-methylthioadenosine/S-adenosylhomocysteine deaminase,TM0936(),GenBank
 TM0937-MONOMER,PadR family transcriptional regulator,TM0937(),GenBank
-TM0938-MONOMER,class I SAM-dependent methyltransferase,TM0938(2),GenBank
+TM0938-MONOMER,class I SAM-dependent methyltransferase,TM0938(),GenBank
 TM0939-MONOMER,aspartate 1-decarboxylase,TM0939(1),GenBank
-TM0940-MONOMER,RluA family pseudouridine synthase,TM0940(1),GenBank
+TM0940-MONOMER,RluA family pseudouridine synthase,TM0940(),GenBank
 TM0941-MONOMER,hypothetical protein,TM0941(),GenBank
 TM0942-MONOMER,DUF5693 family protein,TM0942(),GenBank
 TM0943-MONOMER,type I glutamate--ammonia ligase,TM0943(12),GenBank
@@ -957,7 +957,7 @@ TM0964-MONOMER,nickel pincer cofactor biosynthesis protein LarC,TM0964(),GenBank
 TM0965-MONOMER,nickel pincer cofactor biosynthesis protein LarB,TM0965(),GenBank
 TM0966-MONOMER,ATP-dependent sacrificial sulfur transferase LarE,TM0966(),GenBank
 TM0967-MONOMER,tyrosine-type recombinase/integrase,TM0967(),GenBank
-TM0968-MONOMER,GNAT family protein,TM0968(4),GenBank
+TM0968-MONOMER,GNAT family protein,TM0968(1),GenBank
 TM0969-MONOMER,hypothetical protein,TM0969(),GenBank
 TM_RS09655-MONOMER,hypothetical protein,TM_RS09655(),GenBank
 TM0972-MONOMER,GGDEF domain-containing protein,TM0972(),GenBank
@@ -994,7 +994,7 @@ TM1004-MONOMER,DUF438 domain-containing protein,TM1004(),GenBank
 TM1005-MONOMER,AraC family transcriptional regulator,TM1005(),GenBank
 TM1006-MONOMER,aldo/keto reductase,TM1006(),GenBank
 TM1007-MONOMER,MFS transporter,TM1007(),GenBank
-TM1009-MONOMER,aldo/keto reductase,TM1009(1),GenBank
+TM1009-MONOMER,aldo/keto reductase,TM1009(),GenBank
 TM1010-MONOMER,cupin domain-containing protein,TM1010(),GenBank
 TM1011-MONOMER,ATP-binding protein,TM1011(),GenBank
 TM1012-MONOMER,hypothetical protein,TM1012(),GenBank
@@ -1016,9 +1016,9 @@ TM1027-MONOMER,hypothetical protein,TM1027(),GenBank
 TM1028-MONOMER,ABC transporter ATP-binding protein,TM1028(),GenBank
 TM1029-MONOMER,ABC transporter permease subunit,TM1029(),GenBank
 TM1030-MONOMER,TetR/AcrR family transcriptional regulator,TM1030(),GenBank
-TM1031-MONOMER,glutaredoxin family protein,TM1031(1),GenBank
+TM1031-MONOMER,glutaredoxin family protein,TM1031(),GenBank
 TM1032-MONOMER,MFS transporter,TM1032(),GenBank
-TM1033-MONOMER,mannose-1-phosphate guanylyltransferase,TM1033(1),GenBank
+TM1033-MONOMER,mannose-1-phosphate guanylyltransferase,TM1033(),GenBank
 TM1034-MONOMER,UDP-N-acetylglucosamine 2-epimerase (non-hydrolyzing),TM1034(1),GenBank
 TM1035-MONOMER,bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE,TM1035(1),GenBank
 TM1036-MONOMER,imidazole glycerol phosphate synthase subunit HisF,TM1036(),GenBank
@@ -1030,7 +1030,7 @@ TM1041-MONOMER,histidinol dehydrogenase,TM1041(2),GenBank
 TM1042-MONOMER,ATP phosphoribosyltransferase,TM1042(2),GenBank
 TM1043-MONOMER,HisS family protein,TM1043(),GenBank
 TM1044-MONOMER,RNA-guided endonuclease TnpB family protein,TM1044(),GenBank
-TM1045-MONOMER,ArsB/NhaD family transporter,TM1045(2),GenBank
+TM1045-MONOMER,ArsB/NhaD family transporter,TM1045(),GenBank
 TM1046-MONOMER,alpha/beta fold hydrolase,TM1046(),GenBank
 TM1047-MONOMER,septum site-determining protein MinC,TM1047(),GenBank
 TM1048-MONOMER,M42 family metallopeptidase,TM1048(),GenBank
@@ -1042,7 +1042,7 @@ TM1053-MONOMER,OmpH family outer membrane protein,TM1053(),GenBank
 TM1054-MONOMER,LPS export ABC transporter ATP-binding protein,TM1054(),GenBank
 TM1055-MONOMER,TIGR00725 family protein,TM1055(),GenBank
 TM1056-MONOMER,divalent-cation tolerance protein CutA,TM1056(),GenBank
-TM1057-MONOMER,potassium channel protein,TM1057(4),GenBank
+TM1057-MONOMER,potassium channel protein,TM1057(),GenBank
 TM1058-MONOMER,FMN-binding glutamate synthase family protein,TM1058(),GenBank
 TM1059-MONOMER,stage V sporulation protein S,TM1059(),GenBank
 TM1060-MONOMER,MFS transporter,TM1060(),GenBank
@@ -1057,7 +1057,7 @@ TM1068-MONOMER,alpha-glucosidase AglA,TM1068(),GenBank
 TM1069-MONOMER,DeoR/GlpR family DNA-binding transcription regulator,TM1069(),GenBank
 TM1070-MONOMER,sensory rhodopsin transducer,TM1070(),GenBank
 TM1071-MONOMER,L-rhamnose isomerase,TM1071(),GenBank
-TM1072-MONOMER,rhamnulose-1-phosphate aldolase,TM1072(4),GenBank
+TM1072-MONOMER,rhamnulose-1-phosphate aldolase,TM1072(),GenBank
 TM1073-MONOMER,rhamnulokinase,TM1073(1),GenBank
 TM1074-MONOMER,alpha-L-rhamnosidase,TM1074(),GenBank
 TM1075-MONOMER,ATP-dependent sacrificial sulfur transferase LarE,TM1075(),GenBank
@@ -1080,7 +1080,7 @@ TM1090-MONOMER,histidine--tRNA ligase,TM1090(2),GenBank
 TM1091-MONOMER,hypothetical protein,TM1091(),GenBank
 TM1092-MONOMER,hypothetical protein,TM1092(),GenBank
 TM1093-MONOMER,arginine--tRNA ligase,TM1093(1),GenBank
-TM1094-MONOMER,23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD,TM1094(1),GenBank
+TM1094-MONOMER,23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD,TM1094(),GenBank
 TM1095-MONOMER,adenylosuccinate lyase,TM1095(1),GenBank
 TM1096-MONOMER,adenylosuccinate synthase,TM1096(2),GenBank
 TM1097-MONOMER,ornithine carbamoyltransferase,TM1097(3),GenBank
@@ -1115,7 +1115,7 @@ TM1125-MONOMER,hypothetical protein,TM1125(),GenBank
 TM1126-MONOMER,hypothetical protein,TM1126(),GenBank
 TM1127-MONOMER,prepilin-type N-terminal cleavage/methylation domain-containing protein,TM1127(),GenBank
 TM1128-MONOMER,ferritin,TM1128(),GenBank
-TM1129-MONOMER,5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase,TM1129(),GenBank
+TM1129-MONOMER,5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase,TM1129(2),GenBank
 TM1130-MONOMER,phosphate acetyltransferase,TM1130(),GenBank
 TM1131-MONOMER,PLP-dependent aminotransferase family protein,TM1131(),GenBank
 TM1132-MONOMER,MoxR family ATPase,TM1132(),GenBank
@@ -1169,7 +1169,7 @@ TM1177-MONOMER,YjjG family noncanonical pyrimidine nucleotidase,TM1177(1),GenBan
 TM1178-MONOMER,GNAT family N-acetyltransferase,TM1178(),GenBank
 TM1179-MONOMER,flagellar export chaperone FliS,TM1179(),GenBank
 TM1180-MONOMER,hypothetical protein,TM1180(),GenBank
-TM1181-MONOMER,NUDIX hydrolase,TM1181(2),GenBank
+TM1181-MONOMER,NUDIX hydrolase,TM1181(3),GenBank
 TM1182-MONOMER,chromosome segregation protein SMC,TM1182(),GenBank
 TM1183-MONOMER,aldo/keto reductase,TM1183(),GenBank
 TM1184-MONOMER,diguanylate cyclase,TM1184(),GenBank
@@ -1179,7 +1179,7 @@ TM1187-MONOMER,AI-2E family transporter,TM1187(),GenBank
 TM1188-MONOMER,acyltransferase family protein,TM1188(),GenBank
 TM1189-MONOMER,KAP family P-loop domain protein,TM1189(),GenBank
 TM1190-MONOMER,galactokinase,TM1190(1),GenBank
-TM1191-MONOMER,galactose-1-phosphate uridylyltransferase,TM1191(2),GenBank
+TM1191-MONOMER,galactose-1-phosphate uridylyltransferase,TM1191(),GenBank
 TM1192-MONOMER,alpha-galactosidase,TM1192(),GenBank
 TM1193-MONOMER,beta-galactosidase LacZ,TM1193(),GenBank
 TM1194-MONOMER,ATP-binding cassette domain-containing protein,TM1194(),GenBank
@@ -1219,7 +1219,7 @@ TM1227-MONOMER,cellulase family glycosylhydrolase,TM1227(),GenBank
 TM1228-MONOMER,MurR/RpiR family transcriptional regulator,TM1228(),GenBank
 TM1229-MONOMER,glycosyltransferase,TM1229(),GenBank
 TM1230-MONOMER,mannosylglucosylglycerate synthase,TM1230(),GenBank
-TM1231-MONOMER,alpha-mannosidase,TM1231(1),GenBank
+TM1231-MONOMER,alpha-mannosidase,TM1231(),GenBank
 TM1232-MONOMER,ABC transporter ATP-binding protein,TM1232(),GenBank
 TM1233-MONOMER,carbohydrate ABC transporter permease,TM1233(),GenBank
 TM1234-MONOMER,sugar ABC transporter permease,TM1234(),GenBank
@@ -1240,8 +1240,8 @@ TM1250-MONOMER,phosphoribosylamine--glycine ligase,TM1250(1),GenBank
 TM1251-MONOMER,phosphoribosylformylglycinamidine cyclo-ligase,TM1251(2),GenBank
 TM1252-MONOMER,hypothetical protein,TM1252(),GenBank
 TM1253-MONOMER,NAD+ synthase,TM1253(),GenBank
-TM1254-MONOMER,HAD family phosphatase,TM1254(1),GenBank
-TM1255-MONOMER,aspartate aminotransferase,TM1255(),GenBank
+TM1254-MONOMER,HAD family phosphatase,TM1254(),GenBank
+TM1255-MONOMER,aspartate aminotransferase,TM1255(2),GenBank
 TM1256-MONOMER,ABC transporter ATP-binding protein,TM1256(),GenBank
 TM1257-MONOMER,ATP-binding protein,TM1257(),GenBank
 TM1258-MONOMER,HAMP domain-containing sensor histidine kinase,TM1258(),GenBank
@@ -1256,7 +1256,7 @@ TM1266-MONOMER,iron-only hydrogenase system regulator,TM1266(),GenBank
 TM1267-MONOMER,[FeFe] hydrogenase H-cluster radical SAM maturase HydG,TM1267(),GenBank
 TM1268-MONOMER,hypothetical protein,TM1268(),GenBank
 TM1269-MONOMER,[FeFe] hydrogenase H-cluster radical SAM maturase HydE,TM1269(2),GenBank
-TM1270-MONOMER,bifunctional L-alanine/L-glutamate racemase,TM1270(4),GenBank
+TM1270-MONOMER,bifunctional L-alanine/L-glutamate racemase,TM1270(),GenBank
 TM1271-MONOMER,type II secretion system protein,TM1271(),GenBank
 TM1272-MONOMER,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA,TM1272(),GenBank
 TM1273-MONOMER,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB,TM1273(),GenBank
@@ -1362,7 +1362,7 @@ TM1376-MONOMER,ABC transporter ATP-binding protein,TM1376(),GenBank
 TM1377-MONOMER,ABC transporter permease,TM1377(),GenBank
 TM1378-MONOMER,ABC transporter permease,TM1378(),GenBank
 TM1379-MONOMER,serine--tRNA ligase,TM1379(2),GenBank
-TM1380-MONOMER,16S rRNA (uracil(1498)-N(3))-methyltransferase,TM1380(),GenBank
+TM1380-MONOMER,16S rRNA (uracil(1498)-N(3))-methyltransferase,TM1380(2),GenBank
 TM1381-MONOMER,hypothetical protein,TM1381(),GenBank
 TM1382-MONOMER,NUDIX domain-containing protein,TM1382(),GenBank
 TM1383-MONOMER,4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase,TM1383(2),GenBank
@@ -1379,11 +1379,11 @@ TM1393-MONOMER,2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase,TM1393(2
 TM1394-MONOMER,Hsp33 family molecular chaperone HslO,TM1394(),GenBank
 TM1395-MONOMER,hypothetical protein,TM1395(),GenBank
 TM1396-MONOMER,alanine--tRNA ligase,TM1396(4),GenBank
-TM1397-MONOMER,phosphatidate cytidylyltransferase,TM1397(),GenBank
+TM1397-MONOMER,phosphatidate cytidylyltransferase,TM1397(1),GenBank
 TM1398-MONOMER,isoprenyl transferase,TM1398(2),GenBank
 TM1399-MONOMER,ribosome recycling factor,TM1399(1),GenBank
 TM1400-MONOMER,serine-pyruvate aminotransferase,TM1400(),GenBank
-TM1401-MONOMER,hydroxypyruvate reductase,TM1401(1),GenBank
+TM1401-MONOMER,hydroxypyruvate reductase,TM1401(4),GenBank
 TM1402-MONOMER,hypothetical protein,TM1402(),GenBank
 TM1403-MONOMER,ATP-binding cassette domain-containing protein,TM1403(),GenBank
 TM1404-MONOMER,ABC transporter permease,TM1404(),GenBank
@@ -1443,12 +1443,12 @@ TM1457-MONOMER,ribosomal-processing cysteine protease Prp,TM1457(),GenBank
 TM1458-MONOMER,50S ribosomal protein L21,TM1458(1),GenBank
 TM1459-MONOMER,cupin domain-containing protein,TM1459(),GenBank
 TM1460-MONOMER,protein jag,TM1460(),GenBank
-TM1461-MONOMER,membrane protein insertase YidC,TM1461(1),GenBank
+TM1461-MONOMER,membrane protein insertase YidC,TM1461(),GenBank
 TM1462-MONOMER,membrane protein insertion efficiency factor YidD,TM1462(),GenBank
 TM1463-MONOMER,ribonuclease P protein component,TM1463(),GenBank
 TM1463a-MONOMER,50S ribosomal protein L34,TM1463a(),GenBank
 TM1464-MONOMER,pseudouridine-5'-phosphate glycosidase,TM1464(),GenBank
-TM1465-MONOMER,"cob(I)yrinic acid a,c-diamide adenosyltransferase",TM1465(1),GenBank
+TM1465-MONOMER,"cob(I)yrinic acid a,c-diamide adenosyltransferase",TM1465(),GenBank
 TM1466-MONOMER,ribosome biogenesis GTP-binding protein YihA/YsxC,TM1466(),GenBank
 TM1467-MONOMER,HD-GYP domain-containing protein,TM1467(),GenBank
 TM_RS07445-MONOMER,DUF5317 domain-containing protein,TM_RS07445(),GenBank
@@ -1466,12 +1466,12 @@ TM1478-MONOMER,type I methionyl aminopeptidase,TM1478(1),GenBank
 TM1479-MONOMER,adenylate kinase,TM1479(1),GenBank
 TM1480-MONOMER,preprotein translocase subunit SecY,TM1480(),GenBank
 TM1481-MONOMER,50S ribosomal protein L15,TM1481(1),GenBank
-TM1482-MONOMER,50S ribosomal protein L30,TM1482(),GenBank
+TM1482-MONOMER,50S ribosomal protein L30,TM1482(1),GenBank
 TM1483-MONOMER,30S ribosomal protein S5,TM1483(1),GenBank
 TM1484-MONOMER,50S ribosomal protein L18,TM1484(1),GenBank
 TM1485-MONOMER,50S ribosomal protein L6,TM1485(1),GenBank
 TM1486-MONOMER,30S ribosomal protein S8,TM1486(1),GenBank
-TM1487-MONOMER,type Z 30S ribosomal protein S14,TM1487(1),GenBank
+TM1487-MONOMER,type Z 30S ribosomal protein S14,TM1487(),GenBank
 TM1488-MONOMER,50S ribosomal protein L5,TM1488(1),GenBank
 TM1489-MONOMER,50S ribosomal protein L24,TM1489(1),GenBank
 TM1490-MONOMER,50S ribosomal protein L14,TM1490(1),GenBank
@@ -1482,7 +1482,7 @@ TM1494-MONOMER,30S ribosomal protein S3,TM1494(1),GenBank
 TM1495-MONOMER,50S ribosomal protein L22,TM1495(1),GenBank
 TM1496-MONOMER,30S ribosomal protein S19,TM1496(1),GenBank
 TM1497-MONOMER,50S ribosomal protein L2,TM1497(1),GenBank
-TM1498-MONOMER,50S ribosomal protein L23,TM1498(1),GenBank
+TM1498-MONOMER,50S ribosomal protein L23,TM1498(),GenBank
 TM1499-MONOMER,50S ribosomal protein L4,TM1499(1),GenBank
 TM1500-MONOMER,50S ribosomal protein L3,TM1500(1),GenBank
 TM1501-MONOMER,30S ribosomal protein S10,TM1501(1),GenBank
@@ -1519,7 +1519,7 @@ TM1531-MONOMER,electron transfer flavoprotein subunit alpha/FixB family protein,
 TM1532-MONOMER,NAD(P)/FAD-dependent oxidoreductase,TM1532(),GenBank
 TM1533-MONOMER,ferredoxin family protein,TM1533(),GenBank
 TM1534-MONOMER,50S ribosomal protein L31,TM1534(),GenBank
-TM1535-MONOMER,polyprenyl synthetase family protein,TM1535(2),GenBank
+TM1535-MONOMER,polyprenyl synthetase family protein,TM1535(),GenBank
 TM1536-MONOMER,DUF981 family protein,TM1536(),GenBank
 TM1537-MONOMER,radical SAM protein,TM1537(),GenBank
 TM1538-MONOMER,rod-binding protein,TM1538(),GenBank
@@ -1533,10 +1533,10 @@ TM1545-MONOMER,RuvX/YqgF family protein,TM1545(),GenBank
 TM1546-MONOMER,single-stranded-DNA-specific exonuclease RecJ,TM1546(),GenBank
 TM1547-MONOMER,HD domain-containing protein,TM1547(),GenBank
 TM1548-MONOMER,polysaccharide biosynthesis protein,TM1548(),GenBank
-TM1549-MONOMER,glycosyltransferase family 4 protein,TM1549(1),GenBank
+TM1549-MONOMER,glycosyltransferase family 4 protein,TM1549(),GenBank
 TM1550-MONOMER,DUF1385 domain-containing protein,TM1550(),GenBank
 TM1551-MONOMER,AmmeMemoRadiSam system protein A,TM1551(),GenBank
-TM1552-MONOMER,AmmeMemoRadiSam system radical SAM enzyme,TM1552(1),GenBank
+TM1552-MONOMER,AmmeMemoRadiSam system radical SAM enzyme,TM1552(),GenBank
 TM1553-MONOMER,FAD:protein FMN transferase,TM1553(),GenBank
 TM1554-MONOMER,NusG domain II-containing protein,TM1554(),GenBank
 TM1555-MONOMER,Gx transporter family protein,TM1555(),GenBank
@@ -1576,7 +1576,7 @@ TM1587-MONOMER,hypothetical protein,TM1587(),GenBank
 TM1588-MONOMER,GGDEF domain-containing protein,TM1588(),GenBank
 TM1589-MONOMER,clostripain-related cysteine peptidase,TM1589(),GenBank
 TM1590-MONOMER,translation initiation factor IF-3,TM1590(1),GenBank
-TM1591-MONOMER,50S ribosomal protein L35,TM1591(),GenBank
+TM1591-MONOMER,50S ribosomal protein L35,TM1591(1),GenBank
 TM1592-MONOMER,50S ribosomal protein L20,TM1592(1),GenBank
 TM1593-MONOMER,Mrp/NBP35 family ATP-binding protein,TM1593(),GenBank
 TM1594-MONOMER,diguanylate cyclase,TM1594(),GenBank
@@ -1591,8 +1591,8 @@ TM1602-MONOMER,transcription repressor NadR,TM1602(),GenBank
 TM1603-MONOMER,MFS transporter,TM1603(),GenBank
 TM1604-MONOMER,UMP kinase,TM1604(6),GenBank
 TM1605-MONOMER,translation elongation factor Ts,TM1605(1),GenBank
-TM1606-MONOMER,ribonuclease E/G,TM1606(2),GenBank
-TM1607-MONOMER,ribosome-associated translation inhibitor RaiA,TM1607(),GenBank
+TM1606-MONOMER,ribonuclease E/G,TM1606(),GenBank
+TM1607-MONOMER,ribosome-associated translation inhibitor RaiA,TM1607(2),GenBank
 TM1608-MONOMER,DegV family protein,TM1608(),GenBank
 TM1609-MONOMER,F0F1 ATP synthase subunit epsilon,TM1609(),GenBank
 TM1610-MONOMER,F0F1 ATP synthase subunit beta,TM1610(),GenBank
@@ -1627,8 +1627,8 @@ TM1637-MONOMER,hypothetical protein,TM1637(),GenBank
 TM1638-MONOMER,ABC transporter ATP-binding protein,TM1638(),GenBank
 TM1639-MONOMER,sulfide/dihydroorotate dehydrogenase-like FAD/NAD-binding protein,TM1639(),GenBank
 TM1640-MONOMER,NADPH-dependent glutamate synthase,TM1640(),GenBank
-TM1641-MONOMER,dihydrofolate reductase,TM1641(),GenBank
-TM1642-MONOMER,bifunctional aspartate carbamoyltransferase catalytic subunit/aspartate carbamoyltransferase regulatory subunit,TM1642(3),GenBank
+TM1641-MONOMER,dihydrofolate reductase,TM1641(1),GenBank
+TM1642-MONOMER,bifunctional aspartate carbamoyltransferase catalytic subunit/aspartate carbamoyltransferase regulatory subunit,TM1642(),GenBank
 TM1643-MONOMER,aspartate dehydrogenase,TM1643(),GenBank
 TM1644-MONOMER,quinolinate synthase NadA,TM1644(2),GenBank
 TM1645-MONOMER,carboxylating nicotinate-nucleotide diphosphorylase,TM1645(2),GenBank
@@ -1648,11 +1648,11 @@ TM1658-MONOMER,methionine adenosyltransferase,TM1658(4),GenBank
 TM1659-MONOMER,hypothetical protein,TM1659(),GenBank
 TM1660-MONOMER,M23 family metallopeptidase,TM1660(),GenBank
 TM1661-MONOMER,peptide deformylase,TM1661(1),GenBank
-TM1662-MONOMER,5'/3'-nucleotidase SurE,TM1662(1),GenBank
+TM1662-MONOMER,5'/3'-nucleotidase SurE,TM1662(),GenBank
 TM1663-MONOMER,energy-coupling factor ABC transporter ATP-binding protein EcfA1,TM1663(),GenBank
-TM1664-MONOMER,class I SAM-dependent methyltransferase,TM1664(1),GenBank
+TM1664-MONOMER,class I SAM-dependent methyltransferase,TM1664(),GenBank
 TM1665-MONOMER,HAMP domain-containing sensor histidine kinase,TM1665(),GenBank
-TM1666-MONOMER,M20 family metallo-hydrolase,TM1666(4),GenBank
+TM1666-MONOMER,M20 family metallo-hydrolase,TM1666(2),GenBank
 TM1667-MONOMER,xylose isomerase,TM1667(4),GenBank
 TM1668-MONOMER,DUF192 domain-containing protein,TM1668(),GenBank
 TM1670-MONOMER,hypothetical protein,TM1670(),GenBank
@@ -1677,7 +1677,7 @@ TM1689-MONOMER,guanylate kinase,TM1689(2),GenBank
 TM1690-MONOMER,DUF370 domain-containing protein,TM1690(),GenBank
 TM1691-MONOMER,YicC family protein,TM1691(),GenBank
 TM1692-MONOMER,cysteine desulfurase family protein,TM1692(2),GenBank
-TM1693-MONOMER,lysophospholipid acyltransferase family protein,TM1693(1),GenBank
+TM1693-MONOMER,lysophospholipid acyltransferase family protein,TM1693(),GenBank
 TM1694-MONOMER,tRNA 4-thiouridine(8) synthase ThiI,TM1694(1),GenBank
 TM1695-MONOMER,tetratricopeptide repeat protein,TM1695(),GenBank
 TM1696-MONOMER,A24 family peptidase,TM1696(),GenBank
@@ -1722,13 +1722,13 @@ TM1734-MONOMER,phosphate signaling complex protein PhoU,TM1734(),GenBank
 TM1735-MONOMER,LptF/LptG family permease,TM1735(),GenBank
 TM1736-MONOMER,replicative DNA helicase,TM1736(),GenBank
 TM1737-MONOMER,purine-nucleoside phosphorylase,TM1737(6),GenBank
-TM1738-MONOMER,ZIP family metal transporter,TM1738(1),GenBank
+TM1738-MONOMER,ZIP family metal transporter,TM1738(),GenBank
 TM1739-MONOMER,DNA double-strand break repair nuclease NurA,TM1739(),GenBank
 TM1740-MONOMER,Mini-ribonuclease 3,TM1740(),GenBank
 TM1741-MONOMER,23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB,TM1741(2),GenBank
 TM1742-MONOMER,HAD-IIA family hydrolase,TM1742(),GenBank
-TM1743-MONOMER,aldo/keto reductase,TM1743(1),GenBank
-TM1744-MONOMER,low-specificity L-threonine aldolase,TM1744(4),GenBank
+TM1743-MONOMER,aldo/keto reductase,TM1743(),GenBank
+TM1744-MONOMER,low-specificity L-threonine aldolase,TM1744(),GenBank
 TM1745-MONOMER,hypothetical protein,TM1745(),GenBank
 TM1746-MONOMER,ABC transporter substrate-binding protein,TM1746(),GenBank
 TM1747-MONOMER,ABC transporter permease,TM1747(),GenBank
@@ -1739,7 +1739,7 @@ TM1751-MONOMER,glycoside hydrolase family 5 protein,TM1751(),GenBank
 TM1752-MONOMER,glycoside hydrolase family 5 protein,TM1752(),GenBank
 TM1753-MONOMER,hypothetical protein,TM1753(),GenBank
 TM1754-MONOMER,butyrate kinase,TM1754(),GenBank
-TM1755-MONOMER,phosphate acyltransferase,TM1755(2),GenBank
+TM1755-MONOMER,phosphate acyltransferase,TM1755(),GenBank
 TM1756-MONOMER,butyrate kinase,TM1756(),GenBank
 TM1757-MONOMER,hypothetical protein,TM1757(),GenBank
 TM1758-MONOMER,ferredoxin family protein,TM1758(),GenBank
@@ -1747,7 +1747,7 @@ TM1759-MONOMER,3-methyl-2-oxobutanoate dehydrogenase subunit VorB,TM1759(),GenBa
 TM_RS08950-MONOMER,thiamine pyrophosphate-dependent enzyme,TM_RS08950(),GenBank
 TM_RS08955-MONOMER,2-oxoacid:acceptor oxidoreductase family protein,TM_RS08955(),GenBank
 TM1761-MONOMER,excinuclease ABC subunit UvrB,TM1761(),GenBank
-TM1762-MONOMER,transketolase,TM1762(),GenBank
+TM1762-MONOMER,transketolase,TM1762(2),GenBank
 TM1763-MONOMER,elongation factor P,TM1763(),GenBank
 TM1764-MONOMER,Asp23/Gls24 family envelope stress response protein,TM1764(),GenBank
 TM1765-MONOMER,transcription antitermination factor NusB,TM1765(1),GenBank
@@ -1769,7 +1769,7 @@ TM_RS09730-MONOMER,hypothetical protein,TM_RS09730(),GenBank
 TM1781-MONOMER,argininosuccinate lyase,TM1781(1),GenBank
 TM1782-MONOMER,N-acetyl-gamma-glutamyl-phosphate reductase,TM1782(1),GenBank
 TM1783-MONOMER,bifunctional glutamate N-acetyltransferase/amino-acid acetyltransferase ArgJ,TM1783(),GenBank
-TM1784-MONOMER,acetylglutamate kinase,TM1784(6),GenBank
+TM1784-MONOMER,acetylglutamate kinase,TM1784(2),GenBank
 TM1785-MONOMER,acetylornithine transaminase,TM1785(2),GenBank
 TM1786-MONOMER,hypothetical protein,TM1786(),GenBank
 TM1787-MONOMER,DMT family transporter,TM1787(),GenBank
@@ -1819,7 +1819,7 @@ TM1830-MONOMER,GGDEF domain-containing protein,TM1830(),GenBank
 TM1831-MONOMER,RNA-guided endonuclease TnpB family protein,TM1831(),GenBank
 TM1832-MONOMER,IS200/IS605 family transposase,TM1832(),GenBank
 TM1833-MONOMER,cache domain-containing protein,TM1833(),GenBank
-TM1834-MONOMER,alpha-glucosidase AglA,TM1834(),GenBank
+TM1834-MONOMER,alpha-glucosidase AglA,TM1834(2),GenBank
 TM1835-MONOMER,cyclomaltodextrinase,TM1835(1),GenBank
 TM1836-MONOMER,sugar ABC transporter permease,TM1836(),GenBank
 TM1837-MONOMER,ABC transporter permease subunit,TM1837(),GenBank
@@ -1853,7 +1853,7 @@ TM1863-MONOMER,DUF4416 family protein,TM1863(),GenBank
 TM1864-MONOMER,helix-turn-helix domain-containing protein,TM1864(),GenBank
 TM1865-MONOMER,endonuclease V,TM1865(),GenBank
 TM1866-MONOMER,LCP family protein,TM1866(),GenBank
-TM1867-MONOMER,L-lactate dehydrogenase,TM1867(2),GenBank
+TM1867-MONOMER,L-lactate dehydrogenase,TM1867(),GenBank
 TM1868-MONOMER,energy-coupling factor transporter transmembrane protein EcfT,TM1868(),GenBank
 TM1869-MONOMER,ATP-binding protein,TM1869(),GenBank
 TM1870-MONOMER,septum site-determining protein MinD,TM1870(),GenBank
@@ -1876,7 +1876,7 @@ CPLX_CBPS-0,Carbamoyl-phosphate synthase (glutamine-hydrolysing),TM0558(2) AND T
 CPLX_CEL6abc-0,Oligo-cellulose (6) transport via ABC system,TM1226() AND TM1222() AND TM1221() AND TM1220() AND TM1219(),iLJ478(CEL6abc)
 CPLX_CELLBabc-0,Cellobiose transport via ATP transporter,TM0031() AND TM0030() AND TM0029() AND TM0028() AND TM0027(),iLJ478(CELLBabc)
 CPLX_AIRCr-0,Phosphoribosylaminoimidazole carboxylase,TM0446() AND TM0447(),iLJ478(AIRCr)
-CPLX_ALAabc-0,L-alanine transport via ABC system,TM1135(1) AND TM1137(1) AND TM1136(1) AND TM1139(1) AND TM1138(1),iLJ478(ALAabc)
+CPLX_ALAabc-0,L-alanine transport via ABC system,TM1139() AND TM1138() AND TM1136() AND TM1135() AND TM1137(),iLJ478(ALAabc)
 CPLX_DDPGA-0,2-dehydro-3-deoxy-phosphogluconate aldolase,TM0128() AND TM0880(),iLJ478(DDPGA)
 CPLX_DHORD_NAD-0,Dihydoorotic acid dehydrogenase,TM0333() AND TM0334(),iLJ478(DHORD_NAD)
 CPLX_AMYe-0,"Starch hydrolysis by alpha-1,4-amylase and alpha-1,6 pullulanase",TM1840() AND TM1845(),iLJ478(AMYe)
@@ -1891,7 +1891,7 @@ CPLX_GALMAN4-0,Hydrolysis of galactomannan,TM1751() AND TM1752() AND TM1192() AN
 CPLX_GALabc-0,D-galactose transport via ABC system,TM1204() AND TM1203() AND TM1202(),iLJ478(GALabc)
 CPLX_GLUCAN2abc-0,Glucan transport via ATP transporter,TM0300() AND TM0301() AND TM0302() AND TM0303() AND TM0304(),iLJ478(GLUCAN2abc)
 CPLX_GLUSy-0,Glutamate synthase (NADPH),TM0397() AND TM1217(),iLJ478(GLUSy)
-CPLX_GLUSy-1,Glutamate synthase (NADPH),TM0397() AND TM1640(),iLJ478(GLUSy)
+CPLX_GLUSy-1,Glutamate synthase (NADPH),TM1640(4) AND TM0397(4),iLJ478(GLUSy)
 CPLX_GLYC3Pabc-0,Sn-Glycerol 3-phosphate transport via ABC system,TM1121() AND TM1120() AND TM1122(),iLJ478(GLYC3Pabc)
 CPLX_MALTTRabc-0,Maltotriose transport via ABC system,TM1839() AND TM1836(),iLJ478(MALTTRabc)
 CPLX_HCO3abc-0,Bicarbonate transport via ABC,TM0202() AND TM0204() AND TM0203(),iLJ478(HCO3abc)
@@ -1922,4 +1922,4 @@ CPLX_TRPS1-0,Tryptophan synthase (indoleglycerol phosphate),TM0137() AND TM0138(
 CPLX_XYL3abc-0,Xylotriose ABC transport,TM0071() AND TM0072() AND TM0073() AND TM0074() AND TM0075(),iLJ478(XYL3abc)
 CPLX_XYLANabc-0,Oligo-xylan ABC transport,TM0060() AND TM0056() AND TM0057() AND TM0058() AND TM0059(),iLJ478(XYLANabc)
 CPLX_XYLabc-0,D-xylose transport via ABC system,TM0112() AND TM0114() AND TM0115(),iLJ478(XYLabc)
-CPLX_ZNabc-0,Zinc transport via ABC system,TM0125(2) AND TM0124(2) AND TM0123(1),iLJ478(ZNabc)
+CPLX_ZNabc-0,Zinc transport via ABC system,TM0123() AND TM0125() AND TM0124(),iLJ478(ZNabc)

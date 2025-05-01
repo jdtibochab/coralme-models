@@ -21,6 +21,7 @@ def build_model(args):
             config['run_bbh_blast'] = False
         else:
             config['run_bbh_blast'] = True
+        config['dev_reference'] = "iJT964"
         builder = MEBuilder(*['{:s}/organism.json'.format(org)], **config)
         builder.generate_files(overwrite = True)
         builder.save_builder_info()

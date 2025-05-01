@@ -10,12 +10,12 @@ gly_c,CPLX12WB-7
 his__L_c,G12WB-2898-MONOMER_mod_mg2(4)
 ile__L_c,G12WB-2769-MONOMER_mod_zn2(2)
 leu__L_c,G12WB-2676-MONOMER
-lys__L_c,G12WB-3738-MONOMER
+lys__L_c,G12WB-3738-MONOMER_mod_mg2(6)
 met__L_c,G12WB-3721-MONOMER_mod_zn2(2)
 phe__L_c,CPLX12WB-8_mod_mg2(1)
 pro__L_c,generic_pro_ligase
 ser__L_c,generic_ser_ligase
-thr__L_c,G12WB-685-MONOMER_mod_zn2(1)
+thr__L_c,G12WB-685-MONOMER
 trp__L_c,G12WB-2761-MONOMER_mod_mg2(1)
 tyr__L_c,G12WB-1659-MONOMER
 val__L_c,G12WB-3423-MONOMER_mod_mg2(1)

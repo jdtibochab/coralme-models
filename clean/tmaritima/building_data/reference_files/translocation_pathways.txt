@@ -1,10 +1,12 @@
 pathway	enzyme
 bam	CPLX_dummy
 lol	CPLX_dummy
+sec	TM0860-MONOMER
 sec	TM1578-MONOMER
 secA	TM1578-MONOMER
 srp	TM0570-MONOMER
-srp_yidC	TM1461-MONOMER
+srp	TM1578-MONOMER
+srp_yidC	CPLX_dummy
 tat	CPLX_dummy
 tat_alt	CPLX_dummy
-yidC	TM1461-MONOMER
+yidC	CPLX_dummy

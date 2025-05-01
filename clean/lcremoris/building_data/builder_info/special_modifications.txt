@@ -1,7 +1,7 @@
 ,value
-fes_transfer,{'enzymes': ['CPLX_dummy']}
+fes_transfer,{'enzymes': ['LLMG_RS09870-MONOMER']}
 fes_chaperones,{'enzymes': ['CPLX_dummy']}
-generic_2fe2s_transfer_complex,{'enzymes': ['CPLX_dummy']}
+generic_2fe2s_transfer_complex,{'enzymes': ['LLMG_RS09870-MONOMER_mod_2fe2s(1)']}
 generic_4fe4s_transfer_complex,{'enzymes': ['CPLX_dummy']}
-lipoate_modifications,"{'enzymes': ['LLMG_RS00410-MONOMER'], 'stoich': 'lipoamp_c:-1,amp_c:1'}"
+lipoate_modifications,{'enzymes': ['LLMG_RS00410-MONOMER']}
 bmocogdp_chaperones,{'enzymes': ['CPLX_dummy']}

@@ -1,10 +1,10 @@
 ,value
-sec,{'enzymes': ['SYNPCC7942_0289-MONOMER']}
-tat,{'enzymes': ['CPLX_dummy']}
-tat_alt,{'enzymes': ['CPLX_dummy']}
 bam,{'enzymes': ['CPLX_dummy']}
 lol,{'enzymes': ['CPLX_dummy']}
-yidC,{'enzymes': ['SYNPCC7942_1617-MONOMER']}
+sec,"{'enzymes': ['SYNPCC7942_0142-MONOMER', 'SYNPCC7942_0289-MONOMER']}"
 secA,{'enzymes': ['SYNPCC7942_0289-MONOMER']}
-srp_yidC,{'enzymes': ['SYNPCC7942_1617-MONOMER']}
-srp,{'enzymes': ['SYNPCC7942_2472-MONOMER']}
+srp,"{'enzymes': ['SYNPCC7942_2472-MONOMER', 'SYNPCC7942_0289-MONOMER']}"
+srp_yidC,{'enzymes': ['CPLX_dummy']}
+tat,"{'enzymes': ['SYNPCC7942_0226-MONOMER', 'SYNPCC7942_1578-MONOMER']}"
+tat_alt,{'enzymes': ['CPLX_dummy']}
+yidC,{'enzymes': ['CPLX_dummy']}

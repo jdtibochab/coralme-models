@@ -1,4 +1,4 @@
 type	enzymes
-monocistronic	generic_RNase
-polycistronic_wout_rRNA	generic_RNase,G12WB-1381-MONOMER,G12WB-1290-MONOMER
-rRNA_containing	generic_RNase,G12WB-1381-MONOMER_mod_mg2(2),G12WB-1290-MONOMER
+monocistronic	G12WB-3872-MONOMER,G12WB-2694-MONOMER,generic_RNase
+polycistronic_wout_rRNA	G12WB-3872-MONOMER,G12WB-2694-MONOMER,generic_RNase
+rRNA_containing	G12WB-1423-MONOMER,G12WB-1381-MONOMER,G12WB-3705-MONOMER

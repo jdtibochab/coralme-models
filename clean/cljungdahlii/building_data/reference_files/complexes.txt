@@ -38,7 +38,7 @@ CLJU_RS16460-MONOMER,hypothetical protein,CLJU_c33390(),BioCyc
 CLJU_RS02110-MONOMER,hypothetical protein,CLJU_c04320(),BioCyc
 CLJU_RS17760-MONOMER,MFS transporter,CLJU_c36100(),BioCyc
 CLJU_RS06105-MONOMER,DUF47 domain-containing protein,CLJU_c12440(),BioCyc
-CLJU_RS19520-MONOMER,fructose-6-phosphate aldolase,CLJU_c39640(),BioCyc
+CLJU_RS19520-MONOMER,fructose-6-phosphate aldolase,CLJU_c39640(12),BioCyc
 CLJU_RS05735-MONOMER,imidazoleglycerol-phosphate dehydratase HisB,CLJU_c11690(2),BioCyc
 CLJU_RS10600-MONOMER,electron transfer flavoprotein subunit beta/FixA family protein,CLJU_c21590(),BioCyc
 CLJU_RS05135-MONOMER,putative manganese-dependent inorganic diphosphatase,CLJU_c10470(),BioCyc
@@ -65,7 +65,7 @@ CLJU_RS20875-MONOMER,aspartate ammonia-lyase,CLJU_c42370(),BioCyc
 CLJU_RS03330-MONOMER,XdhC family protein,CLJU_c06770(),BioCyc
 CLJU_RS16465-MONOMER,spore coat associated protein CotJA,CLJU_c33400(),BioCyc
 CLJU_RS12315-MONOMER,hypothetical protein,CLJU_c25000(),BioCyc
-CLJU_RS02610-MONOMER,mannose-1-phosphate guanylyltransferase/mannose-6-phosphate isomerase,CLJU_c05310(1),BioCyc
+CLJU_RS02610-MONOMER,mannose-1-phosphate guanylyltransferase/mannose-6-phosphate isomerase,CLJU_c05310(),BioCyc
 CLJU_RS14830-MONOMER,HD-GYP domain-containing protein,CLJU_c30060(),BioCyc
 CLJU_RS02310-MONOMER,hypothetical protein,CLJU_c04720(),BioCyc
 CLJU_RS21875-MONOMER,YvrJ family protein,CLJU_c36070(),BioCyc
@@ -98,7 +98,7 @@ CLJU_RS01450-MONOMER,YgiQ family radical SAM protein,CLJU_c02960(),BioCyc
 CLJU_RS04740-MONOMER,flagellar filament capping protein FliD,CLJU_c09610(),BioCyc
 CLJU_RS18570-MONOMER,transcriptional repressor,CLJU_c37710(),BioCyc
 CLJU_RS15880-MONOMER,DUF975 family protein,CLJU_c32220(),BioCyc
-CPLX271D-11,aminodeoxychorismate/anthranilate synthase,CLJU_c36010() AND CLJU_c36020(),BioCyc
+CPLX271D-11,aminodeoxychorismate/anthranilate synthase,CLJU_c36020(1) AND CLJU_c36010(1),BioCyc
 CLJU_RS05530-MONOMER,CCA tRNA nucleotidyltransferase,CLJU_c11280(),BioCyc
 CLJU_RS02685-MONOMER,asparagine synthase,CLJU_c05460(),BioCyc
 CLJU_RS16470-MONOMER,spore coat protein CotJB,CLJU_c33410(),BioCyc
@@ -148,7 +148,7 @@ CLJU_RS03145-MONOMER,GNAT family N-acetyltransferase,CLJU_c06400(),BioCyc
 CLJU_RS14855-MONOMER,D-2-hydroxyacid dehydrogenase,CLJU_c30120(),BioCyc
 CLJU_RS21710-MONOMER,cyclic lactone autoinducer peptide,CLJU_RS21710(),BioCyc
 CLJU_RS12200-MONOMER,methyl-accepting chemotaxis protein,CLJU_c24770(),BioCyc
-CLJU_RS17470-MONOMER,cation transporter,CLJU_c35480(2),BioCyc
+CLJU_RS17470-MONOMER,cation transporter,CLJU_c35480(),BioCyc
 CLJU_RS17030-MONOMER,aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,CLJU_c34540(),BioCyc
 CLJU_RS21110-MONOMER,hypothetical protein,CLJU_c42850(),BioCyc
 CLJU_RS13205-MONOMER,DegT/DnrJ/EryC1/StrS family aminotransferase,CLJU_c26790(),BioCyc
@@ -170,12 +170,12 @@ CLJU_RS20000-MONOMER,methylaspartate ammonia-lyase,CLJU_c40610(),BioCyc
 CLJU_RS14860-MONOMER,HAMP domain-containing histidine kinase,CLJU_c30130(),BioCyc
 CLJU_RS07820-MONOMER,DedA family protein,CLJU_c15950(),BioCyc
 CLJU_RS19525-MONOMER,hypothetical protein,CLJU_c39650(),BioCyc
-CLJU_RS05835-MONOMER,aquaporin,CLJU_c11890(4),BioCyc
+CLJU_RS05835-MONOMER,aquaporin,CLJU_c11890(),BioCyc
 CLJU_RS14480-MONOMER,glycoside hydrolase family 28 protein,CLJU_c29360(),BioCyc
 CLJU_RS13315-MONOMER,tyrosine-type recombinase/integrase,CLJU_c27020(),BioCyc
 CLJU_RS00250-MONOMER,hypothetical protein,CLJU_c00520(),BioCyc
 CLJU_RS19635-MONOMER,BMC domain-containing protein,CLJU_c39860(),BioCyc
-CLJU_RS06565-MONOMER,adenylosuccinate lyase,CLJU_c13370(),BioCyc
+CLJU_RS06565-MONOMER,adenylosuccinate lyase,CLJU_c13370(1),BioCyc
 CLJU_RS07690-MONOMER,serpin family protein,CLJU_c15690(),BioCyc
 CLJU_RS14865-MONOMER,response regulator transcription factor,CLJU_c30140(),BioCyc
 CLJU_RS12530-MONOMER,LysR family transcriptional regulator,CLJU_c25430(),BioCyc
@@ -258,7 +258,7 @@ CLJU_RS19125-MONOMER,spore germination protein,CLJU_c38850(),BioCyc
 CLJU_RS05190-MONOMER,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2, 6-diaminopimelate ligase",CLJU_c10570(1),BioCyc
 CLJU_RS12705-MONOMER,6-phosphofructokinase,CLJU_c25790(),BioCyc
 CLJU_RS09525-MONOMER,DUF1848 domain-containing protein,CLJU_c19440(),BioCyc
-CLJU_RS03385-MONOMER,"calcium-translocating P-type ATPase, PMCA-type",CLJU_c06890(1),BioCyc
+CLJU_RS03385-MONOMER,"calcium-translocating P-type ATPase, PMCA-type",CLJU_c06890(),BioCyc
 CLJU_RS04175-MONOMER,spore germination protein,CLJU_c08490(),BioCyc
 CLJU_RS06785-MONOMER,response regulator transcription factor,CLJU_c13820(),BioCyc
 CLJU_RS01475-MONOMER,bifunctional ADP-dependent NAD(P)H-hydrate dehydratase/NAD(P)H-hydrate epimerase,CLJU_c03010(),BioCyc
@@ -293,7 +293,7 @@ CLJU_RS17480-MONOMER,DUF1858 domain-containing protein,CLJU_c35500(),BioCyc
 CLJU_RS21115-MONOMER,DUF4446 family protein,CLJU_c42860(),BioCyc
 CLJU_RS17040-MONOMER,4-hydroxy-tetrahydrodipicolinate synthase,CLJU_c34560(4),BioCyc
 CLJU_RS05045-MONOMER,flagellar basal body rod modification protein FlgD,CLJU_c10280(),BioCyc
-CLJU_RS00350-MONOMER,AarF/ABC1/UbiB kinase family protein,CLJU_c00730(1),BioCyc
+CLJU_RS00350-MONOMER,AarF/ABC1/UbiB kinase family protein,CLJU_c00730(),BioCyc
 CPLX271D-29,predicted ABC transporter of an amino acid,CLJU_c28940() AND CLJU_c28950(),BioCyc
 CLJU_RS04755-MONOMER,glycosyltransferase,CLJU_c09640(),BioCyc
 CLJU_RS09530-MONOMER,response regulator transcription factor,CLJU_c19450(),BioCyc
@@ -410,7 +410,7 @@ CLJU_RS12710-MONOMER,sugar:sodium symporter,CLJU_c25800(),BioCyc
 CLJU_RS08945-MONOMER,EamA family transporter,CLJU_c18210(),BioCyc
 CLJU_RS20195-MONOMER,30S ribosomal protein S19,CLJU_c41000(1),BioCyc
 CLJU_RS09545-MONOMER,flavin reductase-like protein,CLJU_c19480(),BioCyc
-CLJU_RS01495-MONOMER,transketolase,CLJU_c03050(),BioCyc
+CLJU_RS01495-MONOMER,transketolase,CLJU_c03050(2),BioCyc
 CLJU_RS09640-MONOMER,glycosyltransferase family 4 protein,CLJU_c19670(),BioCyc
 CLJU_RS15935-MONOMER,hypothetical protein,CLJU_c32320(),BioCyc
 CLJU_RS05620-MONOMER,Cof-type HAD-IIB family hydrolase,CLJU_c11460(),BioCyc
@@ -437,7 +437,7 @@ CLJU_RS14935-MONOMER,DNA metabolism protein,CLJU_c30280(),BioCyc
 CPLX271D-31,predicted ABC transporter of molybdate,CLJU_c22160() AND CLJU_c22170(),BioCyc
 CLJU_RS21715-MONOMER,MFS transporter,CLJU_c27550(),BioCyc
 CLJU_RS12205-MONOMER,flavodoxin family protein,CLJU_c24780(),BioCyc
-CLJU_RS17490-MONOMER,bifunctional adenosylcobinamide kinase/adenosylcobinamide-phosphate guanylyltransferase,CLJU_c35520(2),BioCyc
+CLJU_RS17490-MONOMER,bifunctional adenosylcobinamide kinase/adenosylcobinamide-phosphate guanylyltransferase,CLJU_c35520(),BioCyc
 CLJU_RS21120-MONOMER,ParB/RepB/Spo0J family partition protein,CLJU_c42870(),BioCyc
 CLJU_RS17050-MONOMER,alpha/beta-type small acid-soluble spore protein,CLJU_c34580(),BioCyc
 CLJU_RS07940-MONOMER,DUF4179 domain-containing protein,CLJU_c16200(),BioCyc
@@ -458,7 +458,7 @@ CLJU_RS03810-MONOMER,response regulator transcription factor,CLJU_c07750(),BioCy
 CLJU_RS15940-MONOMER,N-acetyltransferase,CLJU_c32330(),BioCyc
 CLJU_RS08270-MONOMER,zinc ribbon domain-containing protein,CLJU_c16850(),BioCyc
 CLJU_RS21270-MONOMER,S8 family serine peptidase,CLJU_c13490(),BioCyc
-CLJU_RS16525-MONOMER,UDP-galactopyranose mutase,CLJU_c33530(1),BioCyc
+CLJU_RS16525-MONOMER,UDP-galactopyranose mutase,CLJU_c33530(),BioCyc
 CLJU_RS07205-MONOMER,2Fe-2S iron-sulfur cluster binding domain-containing protein,CLJU_c14700(),BioCyc
 CLJU_RS20005-MONOMER,methylaspartate mutase subunit E,CLJU_c40620(),BioCyc
 CLJU_RS14940-MONOMER,hypothetical protein,CLJU_c30290(),BioCyc
@@ -467,7 +467,7 @@ CLJU_RS03845-MONOMER,response regulator transcription factor,CLJU_c07820(),BioCy
 CLJU_RS19540-MONOMER,iron-containing alcohol dehydrogenase,CLJU_c39670(),BioCyc
 CLJU_RS00410-MONOMER,DNA polymerase III subunit gamma/tau,CLJU_c00850(),BioCyc
 CLJU_RS10655-MONOMER,UDP-glucose 4-epimerase GalE,CLJU_c21710(2),BioCyc
-CLJU_RS04315-MONOMER,23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD,CLJU_c08750(1),BioCyc
+CLJU_RS04315-MONOMER,23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD,CLJU_c08750(),BioCyc
 CLJU_RS14485-MONOMER,AAA family ATPase,CLJU_c29370(),BioCyc
 CLJU_RS18980-MONOMER,helix-turn-helix transcriptional regulator,CLJU_c38540(),BioCyc
 CLJU_RS09655-MONOMER,rubrerythrin,CLJU_c19700(),BioCyc
@@ -524,7 +524,7 @@ CLJU_RS05830-MONOMER,iron-containing alcohol dehydrogenase,CLJU_c11880(),BioCyc
 CLJU_RS14955-MONOMER,lamin tail domain-containing protein,CLJU_c30320(),BioCyc
 CLJU_RS05425-MONOMER,stage III sporulation protein AE,CLJU_c11070(),BioCyc
 CLJU_RS13610-MONOMER,uroporphyrinogen III decarboxylase,CLJU_c27560(),BioCyc
-CLJU_RS17495-MONOMER,adenosylcobinamide-GDP ribazoletransferase,CLJU_c35530(1),BioCyc
+CLJU_RS17495-MONOMER,adenosylcobinamide-GDP ribazoletransferase,CLJU_c35530(),BioCyc
 CLJU_RS05500-MONOMER,sporulation transcription factor Spo0A,CLJU_c11220(),BioCyc
 CLJU_RS20385-MONOMER,elongation factor G,CLJU_c41380(),BioCyc
 CLJU_RS17055-MONOMER,class I SAM-dependent methyltransferase,CLJU_c34590(),BioCyc
@@ -535,7 +535,7 @@ CLJU_RS05430-MONOMER,stage III sporulation protein AF,CLJU_c11080(),BioCyc
 CLJU_RS11200-MONOMER,radical SAM protein,CLJU_c22770(),BioCyc
 CLJU_RS13245-MONOMER,AbrB/MazE/SpoVT family DNA-binding domain-containing protein,CLJU_c26870(),BioCyc
 CLJU_RS04470-MONOMER,3-isopropylmalate dehydratase small subunit,CLJU_c09070(),BioCyc
-CLJU_RS09560-MONOMER,NAD(+) diphosphatase,CLJU_c19510(1),BioCyc
+CLJU_RS09560-MONOMER,NAD(+) diphosphatase,CLJU_c19510(),BioCyc
 CLJU_RS09670-MONOMER,hypothetical protein,CLJU_c19730(),BioCyc
 CLJU_RS15950-MONOMER,sigma-70 family RNA polymerase sigma factor,CLJU_c32350(),BioCyc
 CLJU_RS18650-MONOMER,permease,CLJU_c37870(),BioCyc
@@ -564,7 +564,7 @@ CLJU_RS19660-MONOMER,PLP-dependent aminotransferase family protein,CLJU_c39910()
 CLJU_RS02970-MONOMER,PDZ domain-containing protein,CLJU_c06040(),BioCyc
 CLJU_RS00300-MONOMER,GntP family permease,CLJU_c00620(),BioCyc
 CLJU_RS03925-MONOMER,molecular chaperone DnaK,CLJU_c07980(1),BioCyc
-CLJU_RS06865-MONOMER,ferrous iron transport protein B,CLJU_c13980(1),BioCyc
+CLJU_RS06865-MONOMER,ferrous iron transport protein B,CLJU_c13980(),BioCyc
 CLJU_RS14965-MONOMER,hypothetical protein,CLJU_c30340(),BioCyc
 CLJU_RS20050-MONOMER,50S ribosomal protein L13,CLJU_c40710(1),BioCyc
 CLJU_RS19145-MONOMER,glycosyltransferase family 2 protein,CLJU_c38890(),BioCyc
@@ -587,7 +587,7 @@ CLJU_RS02050-MONOMER,sigma-70 family RNA polymerase sigma factor,CLJU_c04200(),B
 CLJU_RS07365-MONOMER,NUDIX hydrolase,CLJU_c15020(),BioCyc
 CLJU_RS14970-MONOMER,GNAT family N-acetyltransferase,CLJU_c30350(),BioCyc
 CLJU_RS19885-MONOMER,hypothetical protein,CLJU_c40380(),BioCyc
-CLJU_RS02345-MONOMER,tRNA 2-thiocytidine(32) synthetase TtcA,CLJU_c04790(2),BioCyc
+CLJU_RS02345-MONOMER,tRNA 2-thiocytidine(32) synthetase TtcA,CLJU_c04790(),BioCyc
 CLJU_RS06445-MONOMER,YlxR family protein,CLJU_c13130(),BioCyc
 CLJU_RS00440-MONOMER,NUDIX domain-containing protein,CLJU_c00910(),BioCyc
 CLJU_RS11860-MONOMER,hypothetical protein,CLJU_c24110(),BioCyc
@@ -610,7 +610,7 @@ CLJU_RS21130-MONOMER,nucleoid occlusion protein,CLJU_c42890(),BioCyc
 CLJU_RS00445-MONOMER,hydrolase,CLJU_c00920(),BioCyc
 CLJU_RS09570-MONOMER,spore coat protein,CLJU_c19530(),BioCyc
 CLJU_RS11205-MONOMER,transcriptional regulator,CLJU_c22780(),BioCyc
-CLJU_RS08970-MONOMER,galactose mutarotase,CLJU_c18270(1),BioCyc
+CLJU_RS08970-MONOMER,galactose mutarotase,CLJU_c18270(),BioCyc
 CLJU_RS16820-MONOMER,murein biosynthesis integral membrane protein MurJ,CLJU_c34120(),BioCyc
 CLJU_RS04475-MONOMER,3-isopropylmalate dehydrogenase,CLJU_c09080(2),BioCyc
 CLJU_RS09690-MONOMER,molecular chaperone HtpG,CLJU_c19770(),BioCyc
@@ -635,7 +635,7 @@ CLJU_RS07050-MONOMER,HAMP domain-containing histidine kinase,CLJU_c14370(),BioCy
 CLJU_RS04880-MONOMER,glycosyltransferase,CLJU_c09940(),BioCyc
 CLJU_RS18990-MONOMER,LysR family transcriptional regulator,CLJU_c38560(),BioCyc
 CLJU_RS09695-MONOMER,amino acid permease,CLJU_c19780(),BioCyc
-CLJU_RS19665-MONOMER,LysE family transporter,CLJU_c39920(1),BioCyc
+CLJU_RS19665-MONOMER,LysE family transporter,CLJU_c39920(),BioCyc
 CLJU_RS00310-MONOMER,helix-turn-helix domain-containing protein,CLJU_c00640(),BioCyc
 CLJU_RS03565-MONOMER,rod shape-determining protein MreD,CLJU_c07240(),BioCyc
 CLJU_RS20625-MONOMER,HAD family phosphatase,CLJU_c41860(),BioCyc
@@ -657,7 +657,7 @@ CLJU_RS03405-MONOMER,NfeD family protein,CLJU_c06930(),BioCyc
 CLJU_RS20895-MONOMER,M18 family aminopeptidase,CLJU_c42410(),BioCyc
 CLJU_RS03305-MONOMER,DUF378 domain-containing protein,CLJU_c06720(),BioCyc
 CLJU_RS03340-MONOMER,beta-lactam sensor/signal transducer,CLJU_c06790(),BioCyc
-CLJU_RS16555-MONOMER,lytic transglycosylase domain-containing protein,CLJU_c33590(1),BioCyc
+CLJU_RS16555-MONOMER,lytic transglycosylase domain-containing protein,CLJU_c33590(),BioCyc
 CLJU_RS03610-MONOMER,TIGR03960 family B12-binding radical SAM protein,CLJU_c07330(),BioCyc
 CLJU_RS12335-MONOMER,MOSC domain-containing protein,CLJU_c25040(),BioCyc
 CLJU_RS15000-MONOMER,LysR family transcriptional regulator,CLJU_c30420(),BioCyc
@@ -665,7 +665,7 @@ CPLX271D-30,predicted ABC transporter of an amino acid,CLJU_c27630() AND CLJU_c2
 CLJU_RS02350-MONOMER,hypothetical protein,CLJU_c04800(),BioCyc
 CLJU_RS06450-MONOMER,50S ribosomal protein L7ae-like protein,CLJU_c13140(),BioCyc
 CLJU_RS11775-MONOMER,adenine deaminase,CLJU_c23940(2),BioCyc
-CLJU_RS13960-MONOMER,adenosine deaminase,CLJU_c28280(1),BioCyc
+CLJU_RS13960-MONOMER,adenosine deaminase,CLJU_c28280(),BioCyc
 CLJU_RS00460-MONOMER,hypothetical protein,CLJU_c00950(),BioCyc
 CLJU_RS17785-MONOMER,tetratricopeptide repeat protein,CLJU_c36150(),BioCyc
 CLJU_RS10680-MONOMER,ABC transporter ATP-binding protein,CLJU_c21760(),BioCyc
@@ -678,9 +678,9 @@ CLJU_RS09705-MONOMER,hypothetical protein,CLJU_c19800(),BioCyc
 CLJU_RS17065-MONOMER,"2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase",CLJU_c34610(2),BioCyc
 CLJU_RS14395-MONOMER,3-deoxy-7-phosphoheptulonate synthase,CLJU_c29180(4),BioCyc
 CLJU_RS13455-MONOMER,glycine/betaine reductase C,CLJU_c27290(),BioCyc
-CLJU_RS17225-MONOMER,3-oxoacyl-[acyl-carrier-protein] reductase,CLJU_c34940(1),BioCyc
+CLJU_RS17225-MONOMER,3-oxoacyl-[acyl-carrier-protein] reductase,CLJU_c34940(),BioCyc
 CLJU_RS12135-MONOMER,TetM/TetW/TetO/TetS family tetracycline resistance ribosomal protection protein,CLJU_c24640(),BioCyc
-CLJU_RS00315-MONOMER,Cof-type HAD-IIB family hydrolase,CLJU_c00650(1),BioCyc
+CLJU_RS00315-MONOMER,Cof-type HAD-IIB family hydrolase,CLJU_c00650(),BioCyc
 CLJU_RS15010-MONOMER,methyl-accepting chemotaxis protein,CLJU_c30430(),BioCyc
 CLJU_RS03475-MONOMER,4Fe-4S dicluster domain-containing protein,CLJU_c07060(),BioCyc
 CLJU_RS17505-MONOMER,transcriptional repressor,CLJU_c35550(),BioCyc
@@ -692,13 +692,13 @@ CLJU_RS02705-MONOMER,GNAT family N-acetyltransferase,CLJU_c05500(),BioCyc
 CLJU_RS12940-MONOMER,DeoR/GlpR transcriptional regulator,CLJU_c26260(),BioCyc
 CLJU_RS11210-MONOMER,propanediol utilization microcompartment protein PduB,CLJU_c22790(),BioCyc
 CLJU_RS09580-MONOMER,spore coat protein,CLJU_c19550(),BioCyc
-CLJU_RS04480-MONOMER,NAD(P)/FAD-dependent oxidoreductase,CLJU_c09090(1),BioCyc
+CLJU_RS04480-MONOMER,NAD(P)/FAD-dependent oxidoreductase,CLJU_c09090(),BioCyc
 CLJU_RS03830-MONOMER,FtsX-like permease family protein,CLJU_c07790(),BioCyc
 CLJU_RS09710-MONOMER,response regulator transcription factor,CLJU_c19810(),BioCyc
 CLJU_RS01530-MONOMER,excinuclease ABC subunit UvrA,CLJU_c03120(),BioCyc
 CLJU_RS11510-MONOMER,ECF transporter S component,CLJU_c23410(),BioCyc
 CLJU_RS15970-MONOMER,EamA family transporter,CLJU_c32400(),BioCyc
-CLJU_RS18635-MONOMER,"dTDP-4-dehydrorhamnose 3,5-epimerase family protein",CLJU_c37840(),BioCyc
+CLJU_RS18635-MONOMER,"dTDP-4-dehydrorhamnose 3,5-epimerase family protein",CLJU_c37840(1),BioCyc
 CLJU_RS08640-MONOMER,DJ-1/PfpI family protein,CLJU_c17590(),BioCyc
 CLJU_RS16560-MONOMER,dephospho-CoA kinase,CLJU_c33600(1),BioCyc
 CLJU_RS04035-MONOMER,hypothetical protein,CLJU_c08190(),BioCyc
@@ -722,7 +722,7 @@ CLJU_RS15020-MONOMER,hypothetical protein,CLJU_c30450(),BioCyc
 CLJU_RS22575-MONOMER,hypothetical protein,CLJU_c18530(),BioCyc
 CLJU_RS07110-MONOMER,DNA phosphorothioation-dependent restriction protein DptF,CLJU_c14490(),BioCyc
 CLJU_RS19155-MONOMER,hypothetical protein,CLJU_c38910(),BioCyc
-CLJU_RS20665-MONOMER,glutamate racemase,CLJU_c41940(2),BioCyc
+CLJU_RS20665-MONOMER,glutamate racemase,CLJU_c41940(),BioCyc
 CLJU_RS00475-MONOMER,DUF1015 domain-containing protein,CLJU_c00980(),BioCyc
 CLJU_RS12720-MONOMER,transketolase,CLJU_c25820(),BioCyc
 CLJU_RS09585-MONOMER,spore coat protein,CLJU_c19560(),BioCyc
@@ -757,7 +757,7 @@ CLJU_RS17230-MONOMER,MBL fold metallo-hydrolase,CLJU_c34950(),BioCyc
 CLJU_RS04970-MONOMER,hypothetical protein,CLJU_c10130(),BioCyc
 CLJU_RS09110-MONOMER,FAD-dependent oxidoreductase,CLJU_c18570(),BioCyc
 CLJU_RS03155-MONOMER,VWA domain-containing protein,CLJU_c06420(),BioCyc
-CLJU_RS00330-MONOMER,2-hydroxy-3-oxopropionate reductase,CLJU_c00680(),BioCyc
+CLJU_RS00330-MONOMER,2-hydroxy-3-oxopropionate reductase,CLJU_c00680(1),BioCyc
 CLJU_RS15030-MONOMER,citrate lyase subunit alpha,CLJU_c30470(),BioCyc
 CLJU_RS08585-MONOMER,MarR family transcriptional regulator,CLJU_c17480(),BioCyc
 CLJU_RS13625-MONOMER,hypothetical protein,CLJU_c27590(),BioCyc
@@ -796,7 +796,7 @@ CLJU_RS10695-MONOMER,winged helix-turn-helix transcriptional regulator,CLJU_c217
 CLJU_RS04320-MONOMER,hypothetical protein,CLJU_c08760(),BioCyc
 CLJU_RS07390-MONOMER,ATP-binding cassette domain-containing protein,CLJU_c15080(),BioCyc
 CLJU_RS14490-MONOMER,IclR family transcriptional regulator,CLJU_c29380(),BioCyc
-CLJU_RS19000-MONOMER,NAD(P)-dependent alcohol dehydrogenase,CLJU_c38580(2),BioCyc
+CLJU_RS19000-MONOMER,NAD(P)-dependent alcohol dehydrogenase,CLJU_c38580(),BioCyc
 CLJU_RS04610-MONOMER,DUF1292 domain-containing protein,CLJU_c09350(),BioCyc
 CLJU_RS07360-MONOMER,transcriptional regulator,CLJU_c15010(),BioCyc
 CLJU_RS09735-MONOMER,chitinase,CLJU_c19860(),BioCyc
@@ -828,7 +828,7 @@ CLJU_RS12340-MONOMER,cyclic pyranopterin monophosphate synthase MoaC,CLJU_c25050
 CLJU_RS15045-MONOMER,malate dehydrogenase,CLJU_c30500(),BioCyc
 CLJU_RS14265-MONOMER,hypothetical protein,CLJU_c28910(),BioCyc
 CLJU_RS02360-MONOMER,cell wall hydrolase,CLJU_c04820(),BioCyc
-CLJU_RS11780-MONOMER,NCS2 family permease,CLJU_c23950(1),BioCyc
+CLJU_RS11780-MONOMER,NCS2 family permease,CLJU_c23950(),BioCyc
 CLJU_RS13965-MONOMER,GGDEF domain-containing protein,CLJU_c28290(),BioCyc
 CLJU_RS00520-MONOMER,ABC transporter ATP-binding protein,CLJU_c01070(),BioCyc
 CLJU_RS17795-MONOMER,chromate transporter,CLJU_c36170(),BioCyc
@@ -962,12 +962,12 @@ CLJU_RS18670-MONOMER,LysR family transcriptional regulator,CLJU_c37910(),BioCyc
 CLJU_RS20905-MONOMER,cupin domain-containing protein,CLJU_c42430(),BioCyc
 CLJU_RS03345-MONOMER,hypothetical protein,CLJU_c06800(),BioCyc
 CLJU_RS16595-MONOMER,histidine--tRNA ligase,CLJU_c33670(2),BioCyc
-CLJU_RS02075-MONOMER,HAD-IA family hydrolase,CLJU_c04250(1),BioCyc
-CLJU_RS12345-MONOMER,MogA/MoaB family molybdenum cofactor biosynthesis protein,CLJU_c25060(1),BioCyc
+CLJU_RS02075-MONOMER,HAD-IA family hydrolase,CLJU_c04250(),BioCyc
+CLJU_RS12345-MONOMER,MogA/MoaB family molybdenum cofactor biosynthesis protein,CLJU_c25060(),BioCyc
 CLJU_RS21785-MONOMER,hypothetical protein,CLJU_c30570(),BioCyc
 CLJU_RS02370-MONOMER,cell wall-binding repeat-containing protein,CLJU_c04840(),BioCyc
 CLJU_RS06470-MONOMER,tRNA pseudouridine(55) synthase TruB,CLJU_c13180(1),BioCyc
-CLJU_RS11785-MONOMER,guanine deaminase,CLJU_c23960(1),BioCyc
+CLJU_RS11785-MONOMER,guanine deaminase,CLJU_c23960(),BioCyc
 CLJU_RS03870-MONOMER,cation-transporting P-type ATPase,CLJU_c07870(),BioCyc
 CLJU_RS00580-MONOMER,galactose mutarotase,CLJU_c01190(),BioCyc
 CLJU_RS17805-MONOMER,hypothetical protein,CLJU_c36190(),BioCyc
@@ -994,7 +994,7 @@ CLJU_RS21155-MONOMER,membrane protein insertase YidC,CLJU_c42940(1),BioCyc
 CLJU_RS00585-MONOMER,L-arabinose isomerase,CLJU_c01200(6),BioCyc
 CLJU_RS02715-MONOMER,"UDP-2,4-diacetamido-2,4, 6-trideoxy-beta-L-altropyranose hydrolase",CLJU_c05520(),BioCyc
 CLJU_RS11230-MONOMER,MarR family transcriptional regulator,CLJU_c22830(),BioCyc
-CLJU_RS04500-MONOMER,magnesium/cobalt transporter CorA,CLJU_c09130(1),BioCyc
+CLJU_RS04500-MONOMER,magnesium/cobalt transporter CorA,CLJU_c09130(),BioCyc
 CLJU_RS08435-MONOMER,hypothetical protein,CLJU_c17190(),BioCyc
 CLJU_RS09785-MONOMER,GTP pyrophosphokinase family protein,CLJU_c19960(),BioCyc
 CLJU_RS01570-MONOMER,YvcK family protein,CLJU_c03200(),BioCyc
@@ -1008,11 +1008,11 @@ CLJU_RS19410-MONOMER,acyl-CoA dehydrogenase,CLJU_c39420(),BioCyc
 CLJU_RS21415-MONOMER,hypothetical protein,CLJU_c30580(),BioCyc
 CLJU_RS10265-MONOMER,DUF421 domain-containing protein,CLJU_c20900(),BioCyc
 CLJU_RS05390-MONOMER,aminopeptidase P family protein,CLJU_c11000(),BioCyc
-CLJU_RS00590-MONOMER,L-ribulose-5-phosphate 4-epimerase,CLJU_c01210(1),BioCyc
+CLJU_RS00590-MONOMER,L-ribulose-5-phosphate 4-epimerase,CLJU_c01210(4),BioCyc
 CLJU_RS10725-MONOMER,hypothetical protein,CLJU_c21850(),BioCyc
 CLJU_RS07925-MONOMER,LysR family transcriptional regulator,CLJU_c16170(),BioCyc
 CLJU_RS07010-MONOMER,FtsX-like permease family protein,CLJU_c14290(),BioCyc
-CLJU_RS07630-MONOMER,aquaporin family protein,CLJU_c15570(),BioCyc
+CLJU_RS07630-MONOMER,aquaporin family protein,CLJU_c15570(4),BioCyc
 CLJU_RS19015-MONOMER,TetR/AcrR family transcriptional regulator,CLJU_c38610(),BioCyc
 CLJU_RS07610-MONOMER,S8/S53 family peptidase,CLJU_c15530(),BioCyc
 CLJU_RS09790-MONOMER,methyl-accepting chemotaxis protein,CLJU_c19970(),BioCyc
@@ -1023,10 +1023,10 @@ CLJU_RS05895-MONOMER,alanine racemase,CLJU_c12010(),BioCyc
 CLJU_RS19175-MONOMER,glucose 1-dehydrogenase,CLJU_c38950(),BioCyc
 CLJU_RS20670-MONOMER,glutamine synthetase,CLJU_c41950(12),BioCyc
 CLJU_RS00595-MONOMER,FGGY-family carbohydrate kinase,CLJU_c01220(),BioCyc
-CLJU_RS12730-MONOMER,alcohol dehydrogenase catalytic domain-containing protein,CLJU_c25840(4),BioCyc
+CLJU_RS12730-MONOMER,alcohol dehydrogenase catalytic domain-containing protein,CLJU_c25840(),BioCyc
 CLJU_RS08990-MONOMER,ABC transporter permease,CLJU_c18310(),BioCyc
 CLJU_RS09030-MONOMER,hypothetical protein,CLJU_c18390(),BioCyc
-CLJU_RS20205-MONOMER,50S ribosomal protein L23,CLJU_c41020(1),BioCyc
+CLJU_RS20205-MONOMER,50S ribosomal protein L23,CLJU_c41020(),BioCyc
 CLJU_RS09795-MONOMER,ADP-ribosylglycohydrolase family protein,CLJU_c19980(),BioCyc
 CLJU_RS01575-MONOMER,DNA-binding protein WhiA,CLJU_c03210(),BioCyc
 CLJU_RS16005-MONOMER,helix-turn-helix transcriptional regulator,CLJU_c32480(),BioCyc
@@ -1052,7 +1052,7 @@ CLJU_RS15090-MONOMER,chemotaxis protein,CLJU_c30600(),BioCyc
 CLJU_RS13645-MONOMER,amino acid ABC transporter permease,CLJU_c27630(),BioCyc
 CLJU_RS17530-MONOMER,CPBP family intramembrane metalloprotease,CLJU_c35600(),BioCyc
 CLJU_RS12215-MONOMER,helix-turn-helix transcriptional regulator,CLJU_c24800(),BioCyc
-CLJU_RS02630-MONOMER,"dTDP-4-dehydrorhamnose 3,5-epimerase",CLJU_c05350(1),BioCyc
+CLJU_RS02630-MONOMER,"dTDP-4-dehydrorhamnose 3,5-epimerase",CLJU_c05350(),BioCyc
 CLJU_RS21160-MONOMER,membrane protein insertion efficiency factor YidD,CLJU_c42950(),BioCyc
 CLJU_RS11235-MONOMER,DUF218 domain-containing protein,CLJU_c22840(),BioCyc
 CLJU_RS04505-MONOMER,lantibiotic protection ABC transporter ATP-binding protein,CLJU_c09140(),BioCyc
@@ -1076,8 +1076,8 @@ CLJU_RS00610-MONOMER,MFS transporter,CLJU_c01250(),BioCyc
 CLJU_RS10735-MONOMER,PHP domain-containing protein,CLJU_c21870(),BioCyc
 CLJU_RS04325-MONOMER,LTA synthase family protein,CLJU_c08770(),BioCyc
 CLJU_RS06425-MONOMER,RIP metalloprotease RseP,CLJU_c13090(),BioCyc
-CLJU_RS07810-MONOMER,penicillin-binding protein,CLJU_c15930(2),BioCyc
-CLJU_RS05810-MONOMER,glycyl-radical enzyme activating protein,CLJU_c11840(1),BioCyc
+CLJU_RS07810-MONOMER,penicillin-binding protein,CLJU_c15930(),BioCyc
+CLJU_RS05810-MONOMER,glycyl-radical enzyme activating protein,CLJU_c11840(),BioCyc
 CLJU_RS14495-MONOMER,pyridoxal phosphate-dependent aminotransferase,CLJU_c29390(),BioCyc
 CLJU_RS08530-MONOMER,glutamate synthase large subunit,CLJU_c17370(),BioCyc
 CLJU_RS19020-MONOMER,FtsX-like permease family protein,CLJU_c38620(),BioCyc
@@ -1087,7 +1087,7 @@ CLJU_RS19695-MONOMER,response regulator transcription factor,CLJU_c39980(),BioCy
 CLJU_RS05455-MONOMER,exodeoxyribonuclease VII large subunit,CLJU_c11130(),BioCyc
 CLJU_RS15105-MONOMER,response regulator transcription factor,CLJU_c30630(),BioCyc
 CLJU_RS12480-MONOMER,citrate (pro-3S)-lyase subunit beta,CLJU_c25330(),BioCyc
-CLJU_RS19180-MONOMER,APC family permease,CLJU_c38960(1),BioCyc
+CLJU_RS19180-MONOMER,APC family permease,CLJU_c38960(),BioCyc
 CLJU_RS12665-MONOMER,ATP-binding cassette domain-containing protein,CLJU_c25710(),BioCyc
 CLJU_RS00615-MONOMER,sugar ABC transporter substrate-binding protein,CLJU_c01260(),BioCyc
 CLJU_RS14340-MONOMER,cadmium-translocating P-type ATPase,CLJU_c29070(1),BioCyc
@@ -1170,7 +1170,7 @@ CLJU_RS00655-MONOMER,hypothetical protein,CLJU_c01340(),BioCyc
 CLJU_RS12735-MONOMER,SDR family oxidoreductase,CLJU_c25850(),BioCyc
 CLJU_RS06800-MONOMER,pyridoxamine 5'-phosphate oxidase family protein,CLJU_c13850(),BioCyc
 CLJU_RS09840-MONOMER,HesA/MoeB/ThiF family protein,CLJU_c20060(),BioCyc
-CLJU_RS01600-MONOMER,23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD,CLJU_c03270(),BioCyc
+CLJU_RS01600-MONOMER,23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD,CLJU_c03270(1),BioCyc
 CLJU_RS16025-MONOMER,DnaD domain protein,CLJU_c32520(),BioCyc
 CLJU_RS12525-MONOMER,tryptophan-rich sensory protein,CLJU_c25420(),BioCyc
 CLJU_RS04290-MONOMER,MerR family transcriptional regulator,CLJU_c08700(),BioCyc
@@ -1189,7 +1189,7 @@ CLJU_RS13265-MONOMER,ATP-binding cassette domain-containing protein,CLJU_c26910(
 CLJU_RS00660-MONOMER,LD-carboxypeptidase,CLJU_c01350(1),BioCyc
 CLJU_RS11880-MONOMER,aminomethyl-transferring glycine dehydrogenase subunit GcvPB,CLJU_c24150(),BioCyc
 CLJU_RS17990-MONOMER,DUF2815 family protein,CLJU_c36560(),BioCyc
-CLJU_RS10750-MONOMER,5-formyltetrahydrofolate cyclo-ligase,CLJU_c21900(),BioCyc
+CLJU_RS10750-MONOMER,5-formyltetrahydrofolate cyclo-ligase,CLJU_c21900(1),BioCyc
 CLJU_RS08810-MONOMER,BMC domain-containing protein,CLJU_c17930(),BioCyc
 CLJU_RS14760-MONOMER,xanthine dehydrogenase family protein subunit M,CLJU_c29920(),BioCyc
 CLJU_RS18195-MONOMER,sigma 54-interacting transcriptional regulator,CLJU_c36950(),BioCyc
@@ -1201,7 +1201,7 @@ CPLX271D-4,carbamoyl-phosphate synthase (glutamine-hydrolyzing),CLJU_c25210() AN
 CLJU_RS15140-MONOMER,type 1 glutamine amidotransferase-like domain-containing protein,CLJU_c30700(),BioCyc
 CLJU_RS12840-MONOMER,PTS fructose transporter subunit EIIC,CLJU_c26060(),BioCyc
 CLJU_RS06270-MONOMER,DUF177 domain-containing protein,CLJU_c12790(),BioCyc
-CLJU_RS13655-MONOMER,mandelate racemase/muconate lactonizing enzyme family protein,CLJU_c27650(1),BioCyc
+CLJU_RS13655-MONOMER,mandelate racemase/muconate lactonizing enzyme family protein,CLJU_c27650(),BioCyc
 CLJU_RS17540-MONOMER,endopeptidase La,CLJU_c35620(),BioCyc
 CLJU_RS02635-MONOMER,hypothetical protein,CLJU_c05360(),BioCyc
 CLJU_RS21170-MONOMER,50S ribosomal protein L34,CLJU_c42970(),BioCyc
@@ -1209,7 +1209,7 @@ CLJU_RS00665-MONOMER,magnesium transporter CorA family protein,CLJU_c01360(),Bio
 CLJU_RS03495-MONOMER,EutN/CcmL family microcompartment protein,CLJU_c07100(),BioCyc
 CLJU_RS11245-MONOMER,hypothetical protein,CLJU_c22860(),BioCyc
 CLJU_RS04515-MONOMER,lantibiotic immunity ABC transporter MutG family permease subunit,CLJU_c09160(),BioCyc
-CLJU_RS10565-MONOMER,acetylglutamate kinase,CLJU_c21520(6),BioCyc
+CLJU_RS10565-MONOMER,acetylglutamate kinase,CLJU_c21520(2),BioCyc
 CLJU_RS09850-MONOMER,iron ABC transporter permease,CLJU_c20080(),BioCyc
 CLJU_RS02870-MONOMER,sporulation membrane protein YtaF,CLJU_c05850(),BioCyc
 CLJU_RS11545-MONOMER,S-ribosylhomocysteine lyase,CLJU_c23480(1),BioCyc
@@ -1220,7 +1220,7 @@ CLJU_RS16630-MONOMER,protein translocase subunit SecF,CLJU_c33740(),BioCyc
 CLJU_RS15145-MONOMER,hypothetical protein,CLJU_c30710(),BioCyc
 CLJU_RS05540-MONOMER,segregation/condensation protein B,CLJU_c11300(),BioCyc
 CLJU_RS00670-MONOMER,sigma factor G inhibitor Gin,CLJU_c01370(),BioCyc
-CLJU_RS04200-MONOMER,hydrolase,CLJU_c08530(4),BioCyc
+CLJU_RS04200-MONOMER,hydrolase,CLJU_c08530(),BioCyc
 CLJU_RS10755-MONOMER,HPr kinase/phosphorylase,CLJU_c21910(),BioCyc
 CLJU_RS07060-MONOMER,response regulator transcription factor,CLJU_c14390(),BioCyc
 CLJU_RS07645-MONOMER,endospore germination permease,CLJU_c15600(),BioCyc
@@ -1268,7 +1268,7 @@ CLJU_RS04820-MONOMER,tyrosine-type recombinase/integrase,CLJU_c09770(),BioCyc
 CLJU_RS15160-MONOMER,iron-containing alcohol dehydrogenase,CLJU_c30740(),BioCyc
 CLJU_RS13660-MONOMER,ABC transporter periplasmic protein,CLJU_c27660(),BioCyc
 CLJU_RS17545-MONOMER,ATP-dependent Clp protease ATP-binding subunit ClpX,CLJU_c35630(),BioCyc
-CLJU_RS08700-MONOMER,asparagine synthase B,CLJU_c17710(2),BioCyc
+CLJU_RS08700-MONOMER,asparagine synthase B,CLJU_c17710(),BioCyc
 CLJU_RS08045-MONOMER,dipeptide epimerase,CLJU_c16410(1),BioCyc
 CLJU_RS20445-MONOMER,hypothetical protein,CLJU_c41500(),BioCyc
 CLJU_RS00685-MONOMER,hypothetical protein,CLJU_c01400(),BioCyc
@@ -1326,7 +1326,7 @@ CLJU_RS01605-MONOMER,hypothetical protein,CLJU_c03280(),BioCyc
 CLJU_RS00700-MONOMER,heavy-metal-associated domain-containing protein,CLJU_c01430(),BioCyc
 CLJU_RS11885-MONOMER,aminomethyl-transferring glycine dehydrogenase subunit GcvPA,CLJU_c24160(),BioCyc
 CLJU_RS17835-MONOMER,radical SAM protein,CLJU_c36250(),BioCyc
-CLJU_RS10765-MONOMER,arginase,CLJU_c21930(2),BioCyc
+CLJU_RS10765-MONOMER,arginase,CLJU_c21930(),BioCyc
 CLJU_RS18205-MONOMER,NAD-dependent DNA ligase LigA,CLJU_c36970(1),BioCyc
 CLJU_RS09885-MONOMER,ABC transporter permease,CLJU_c20150(),BioCyc
 CLJU_RS17110-MONOMER,hypothetical protein,CLJU_c34700(),BioCyc
@@ -1363,7 +1363,7 @@ CLJU_RS15185-MONOMER,hypothetical protein,CLJU_c30790(),BioCyc
 CLJU_RS00605-MONOMER,alpha-N-arabinofuranosidase,CLJU_c01240(),BioCyc
 CLJU_RS00710-MONOMER,flagellar motor protein,CLJU_c01450(),BioCyc
 CLJU_RS05920-MONOMER,ABC transporter ATP-binding protein,CLJU_c12070(),BioCyc
-CLJU_RS10770-MONOMER,FprA family A-type flavoprotein,CLJU_c21940(4),BioCyc
+CLJU_RS10770-MONOMER,FprA family A-type flavoprotein,CLJU_c21940(),BioCyc
 CLJU_RS04330-MONOMER,TatD family hydrolase,CLJU_c08780(),BioCyc
 CLJU_RS08390-MONOMER,ABC transporter substrate-binding protein,CLJU_c17100(),BioCyc
 CLJU_RS14500-MONOMER,4Fe-4S dicluster domain-containing protein,CLJU_c29400(),BioCyc
@@ -1398,7 +1398,7 @@ CLJU_RS15195-MONOMER,alpha/beta hydrolase,CLJU_c30810(1),BioCyc
 CLJU_RS22055-MONOMER,reverse transcriptase/maturase,CLJU_RS22055(),BioCyc
 CLJU_RS02400-MONOMER,nitrogenase iron protein,CLJU_c04900(),BioCyc
 CLJU_RS06500-MONOMER,Clp protease,CLJU_c13240(),BioCyc
-CLJU_RS11800-MONOMER,NTP transferase domain-containing protein,CLJU_c23990(1),BioCyc
+CLJU_RS11800-MONOMER,NTP transferase domain-containing protein,CLJU_c23990(),BioCyc
 CLJU_RS13975-MONOMER,DUF1987 domain-containing protein,CLJU_c28310(),BioCyc
 CLJU_RS00720-MONOMER,tRNA1(Val) (adenine(37)-N6)-methyltransferase,CLJU_c01470(),BioCyc
 CLJU_RS17840-MONOMER,class I SAM-dependent methyltransferase,CLJU_c36260(),BioCyc
@@ -1409,7 +1409,7 @@ CLJU_RS14105-MONOMER,ATP-binding cassette domain-containing protein,CLJU_c28590(
 CLJU_RS12040-MONOMER,biotin transporter BioY,CLJU_c24470(),BioCyc
 CLJU_RS14610-MONOMER,4Fe-4S binding protein,CLJU_c29630(),BioCyc
 CLJU_RS18210-MONOMER,DNA helicase PcrA,CLJU_c36980(),BioCyc
-CLJU_RS13485-MONOMER,BCCT family transporter,CLJU_c27340(),BioCyc
+CLJU_RS13485-MONOMER,BCCT family transporter,CLJU_c27340(1),BioCyc
 CLJU_RS17115-MONOMER,ABC transporter substrate-binding protein,CLJU_c34710(),BioCyc
 CLJU_RS14080-MONOMER,30S ribosomal protein S1,CLJU_c28540(1),BioCyc
 CLJU_RS17265-MONOMER,GNAT family N-acetyltransferase,CLJU_c35040(),BioCyc
@@ -1470,14 +1470,14 @@ CLJU_RS00740-MONOMER,AbrB/MazE/SpoVT family DNA-binding domain-containing protei
 CLJU_RS11890-MONOMER,glycine cleavage system protein GcvH,CLJU_c24170(),BioCyc
 CLJU_RS17845-MONOMER,Na+/H+ antiporter NhaC family protein,CLJU_c36290(),BioCyc
 CLJU_RS22230-MONOMER,DUF2087 domain-containing protein,CLJU_RS22230(),BioCyc
-CLJU_RS14365-MONOMER,shikimate dehydrogenase,CLJU_c29120(),BioCyc
+CLJU_RS14365-MONOMER,shikimate dehydrogenase,CLJU_c29120(2),BioCyc
 CLJU_RS18215-MONOMER,hypothetical protein,CLJU_c36990(),BioCyc
 CLJU_RS09925-MONOMER,HesA/MoeB/ThiF family protein,CLJU_c20230(),BioCyc
 CLJU_RS18710-MONOMER,DUF421 domain-containing protein,CLJU_c37990(),BioCyc
 CLJU_RS17120-MONOMER,hypothetical protein,CLJU_c34720(),BioCyc
-CLJU_RS13080-MONOMER,NDP-sugar synthase,CLJU_c26540(),BioCyc
+CLJU_RS13080-MONOMER,NDP-sugar synthase,CLJU_c26540(4),BioCyc
 CLJU_RS17270-MONOMER,energy coupling factor transporter S component ThiW,CLJU_c35050(),BioCyc
-CLJU_RS13675-MONOMER,selenocysteine-specific translation elongation factor,CLJU_c27700(1),BioCyc
+CLJU_RS13675-MONOMER,selenocysteine-specific translation elongation factor,CLJU_c27700(),BioCyc
 CLJU_RS12925-MONOMER,ABC transporter ATP-binding protein,CLJU_c26230(),BioCyc
 CLJU_RS17560-MONOMER,sugar phosphate isomerase/epimerase,CLJU_c35660(),BioCyc
 CLJU_RS02645-MONOMER,IS66 family transposase,CLJU_c05380(),BioCyc
@@ -1525,7 +1525,7 @@ CLJU_RS16670-MONOMER,Holliday junction branch migration DNA helicase RuvB,CLJU_c
 CLJU_RS12365-MONOMER,response regulator transcription factor,CLJU_c25100(),BioCyc
 CLJU_RS15225-MONOMER,LysR family transcriptional regulator,CLJU_c30860(),BioCyc
 CLJU_RS11805-MONOMER,XdhC family protein,CLJU_c24000(),BioCyc
-CLJU_RS04605-MONOMER,pyruvate:ferredoxin (flavodoxin) oxidoreductase,CLJU_c09340(1),BioCyc
+CLJU_RS04605-MONOMER,pyruvate:ferredoxin (flavodoxin) oxidoreductase,CLJU_c09340(),BioCyc
 CLJU_RS13980-MONOMER,hypothetical protein,CLJU_c28320(),BioCyc
 CLJU_RS00760-MONOMER,hypothetical protein,CLJU_c01550(),BioCyc
 CLJU_RS17850-MONOMER,sigma 54-interacting transcriptional regulator,CLJU_c36300(),BioCyc
@@ -1539,7 +1539,7 @@ CLJU_RS13495-MONOMER,glycine/betaine/sarcosine/D-proline family reductase seleno
 CLJU_RS17275-MONOMER,hydroxyethylthiazole kinase,CLJU_c35060(),BioCyc
 CLJU_RS12150-MONOMER,ATP-binding cassette domain-containing protein,CLJU_c24670(),BioCyc
 CLJU_RS13175-MONOMER,polysaccharide deacetylase,CLJU_c26730(),BioCyc
-CLJU_RS13680-MONOMER,L-seryl-tRNA(Sec) selenium transferase,CLJU_c27710(10),BioCyc
+CLJU_RS13680-MONOMER,L-seryl-tRNA(Sec) selenium transferase,CLJU_c27710(),BioCyc
 CLJU_RS17565-MONOMER,hypothetical protein,CLJU_c35670(),BioCyc
 CLJU_RS14175-MONOMER,sugar phosphate isomerase/epimerase,CLJU_c28730(),BioCyc
 CLJU_RS03260-MONOMER,isocitrate/isopropylmalate dehydrogenase family protein,CLJU_c06630(2),BioCyc
@@ -1550,7 +1550,7 @@ CLJU_RS20455-MONOMER,type III pantothenate kinase,CLJU_c41520(),BioCyc
 CLJU_RS00765-MONOMER,DUF1836 domain-containing protein,CLJU_c01560(),BioCyc
 CLJU_RS02735-MONOMER,glucose-1-phosphate thymidylyltransferase RfbA,CLJU_c05560(),BioCyc
 CLJU_RS11270-MONOMER,methyl-accepting chemotaxis protein,CLJU_c22910(),BioCyc
-CLJU_RS04540-MONOMER,lipoate--protein ligase,CLJU_c09210(1),BioCyc
+CLJU_RS04540-MONOMER,lipoate--protein ligase,CLJU_c09210(),BioCyc
 CLJU_RS01655-MONOMER,DNA polymerase,CLJU_c03390(),BioCyc
 CLJU_RS18190-MONOMER,gamma-glutamyl-gamma-aminobutyrate hydrolase family protein,CLJU_c36940(),BioCyc
 CLJU_RS11570-MONOMER,nitrogenase iron protein,CLJU_c23530(),BioCyc
@@ -1567,7 +1567,7 @@ CLJU_RS00770-MONOMER,"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",CLJ
 CLJU_RS07525-MONOMER,NCS1 family nucleobase:cation symporter-1,CLJU_c15350(1),BioCyc
 CLJU_RS10795-MONOMER,B12-binding domain-containing radical SAM protein,CLJU_c22000(),BioCyc
 CLJU_RS06130-MONOMER,stage IV sporulation protein A,CLJU_c12490(),BioCyc
-CPLX271D-9,ATP-dependent Clp,CLJU_c35630() AND CLJU_c35640(),BioCyc
+CPLX271D-9,ATP-dependent Clp,CLJU_c35640() AND CLJU_c35630(),BioCyc
 CLJU_RS07660-MONOMER,C-GCAxxG-C-C family protein,CLJU_c15630(),BioCyc
 CLJU_RS09955-MONOMER,4Fe-4S binding protein,CLJU_c20290(),BioCyc
 CLJU_RS12605-MONOMER,hypothetical protein,CLJU_c25590(),BioCyc
@@ -1597,9 +1597,9 @@ CLJU_RS00775-MONOMER,polysaccharide deacetylase,CLJU_c01600(),BioCyc
 CLJU_RS11895-MONOMER,glycine cleavage system aminomethyltransferase GcvT,CLJU_c24180(),BioCyc
 CLJU_RS17855-MONOMER,methyladenine DNA glycosylase,CLJU_c36310(),BioCyc
 CLJU_RS10800-MONOMER,hypothetical protein,CLJU_c22010(),BioCyc
-CLJU_RS18225-MONOMER,lytic transglycosylase domain-containing protein,CLJU_c37010(),BioCyc
+CLJU_RS18225-MONOMER,lytic transglycosylase domain-containing protein,CLJU_c37010(1),BioCyc
 CLJU_RS09965-MONOMER,exonuclease SbcCD subunit D,CLJU_c20310(),BioCyc
-CLJU_RS17130-MONOMER,5'/3'-nucleotidase SurE,CLJU_c34740(1),BioCyc
+CLJU_RS17130-MONOMER,5'/3'-nucleotidase SurE,CLJU_c34740(),BioCyc
 CLJU_RS12080-MONOMER,hypothetical protein,CLJU_RS12080(),BioCyc
 CLJU_RS21460-MONOMER,MerR family transcriptional regulator,CLJU_c35070(),BioCyc
 CLJU_RS07895-MONOMER,phosphoribosylanthranilate isomerase,CLJU_c16110(),BioCyc
@@ -1634,7 +1634,7 @@ CLJU_RS10805-MONOMER,phospholipase,CLJU_c22020(),BioCyc
 CLJU_RS04335-MONOMER,ABC transporter permease,CLJU_c08790(),BioCyc
 CLJU_RS14505-MONOMER,MaoC family dehydratase,CLJU_c29410(),BioCyc
 CLJU_RS07665-MONOMER,winged helix-turn-helix transcriptional regulator,CLJU_c15640(),BioCyc
-CLJU_RS12490-MONOMER,[citrate (pro-3S)-lyase] ligase,CLJU_c25350(1),BioCyc
+CLJU_RS12490-MONOMER,[citrate (pro-3S)-lyase] ligase,CLJU_c25350(),BioCyc
 CLJU_RS09975-MONOMER,electron transfer flavoprotein subunit beta/FixA family protein,CLJU_c20330(),BioCyc
 CLJU_RS12675-MONOMER,CDP-alcohol phosphatidyltransferase family protein,CLJU_c25730(),BioCyc
 CLJU_RS19730-MONOMER,ABC-F family ATP-binding cassette domain-containing protein,CLJU_c40060(),BioCyc
@@ -1663,8 +1663,8 @@ CLJU_RS12905-MONOMER,TetR family transcriptional regulator,CLJU_c26190(),BioCyc
 CLJU_RS15255-MONOMER,DUF4829 domain-containing protein,CLJU_c30930(),BioCyc
 CLJU_RS02420-MONOMER,nitrogenase molybdenum-iron protein subunit beta,CLJU_c04940(),BioCyc
 CLJU_RS06520-MONOMER,recombinase RecA,CLJU_c13280(),BioCyc
-CLJU_RS07240-MONOMER,3-deoxy-7-phosphoheptulonate synthase,CLJU_c14780(4),BioCyc
-CLJU_RS11810-MONOMER,phenylacetate--CoA ligase family protein,CLJU_c24010(1),BioCyc
+CLJU_RS07240-MONOMER,3-deoxy-7-phosphoheptulonate synthase,CLJU_c14780(),BioCyc
+CLJU_RS11810-MONOMER,phenylacetate--CoA ligase family protein,CLJU_c24010(),BioCyc
 CLJU_RS13985-MONOMER,DUF4317 domain-containing protein,CLJU_c28330(),BioCyc
 CLJU_RS00795-MONOMER,radical SAM protein,CLJU_c01640(),BioCyc
 CLJU_RS17860-MONOMER,ATP-binding protein,CLJU_c36320(),BioCyc
@@ -1677,7 +1677,7 @@ CLJU_RS18230-MONOMER,two component regulator three Y motif protein,CLJU_c37020()
 CLJU_RS09985-MONOMER,FAD-binding oxidoreductase,CLJU_c20350(),BioCyc
 CLJU_RS22435-MONOMER,hypothetical protein,CLJU_RS22435(),BioCyc
 CLJU_RS13500-MONOMER,glycine/betaine reductase B,CLJU_c27360(),BioCyc
-CLJU_RS01390-MONOMER,nucleoside kinase,CLJU_c02840(1),BioCyc
+CLJU_RS01390-MONOMER,nucleoside kinase,CLJU_c02840(),BioCyc
 CLJU_RS17285-MONOMER,GNAT family N-acetyltransferase,CLJU_c35080(),BioCyc
 CLJU_RS15260-MONOMER,hypothetical protein,CLJU_c30940(),BioCyc
 CLJU_RS17575-MONOMER,dihydroorotate dehydrogenase,CLJU_c35690(),BioCyc
@@ -1698,7 +1698,7 @@ CLJU_RS04985-MONOMER,methyl-accepting chemotaxis protein,CLJU_c10160(),BioCyc
 CLJU_RS04065-MONOMER,Nif3-like dinuclear metal center hexameric protein,CLJU_c08250(),BioCyc
 CLJU_RS15265-MONOMER,hypothetical protein,CLJU_c30950(),BioCyc
 CLJU_RS06980-MONOMER,metallophosphoesterase,CLJU_c14230(),BioCyc
-CLJU_RS13095-MONOMER,glycerol dehydrogenase,CLJU_c26570(8),BioCyc
+CLJU_RS13095-MONOMER,glycerol dehydrogenase,CLJU_c26570(),BioCyc
 CLJU_RS05945-MONOMER,Fe-S cluster assembly scaffold protein NifU,CLJU_c12120(2),BioCyc
 CLJU_RS10815-MONOMER,iron-binding protein,CLJU_c22040(),BioCyc
 CLJU_RS09995-MONOMER,4Fe-4S dicluster domain-containing protein,CLJU_c20370(),BioCyc
@@ -1822,7 +1822,7 @@ CLJU_RS04790-MONOMER,flagellin,CLJU_c09710(),BioCyc
 CLJU_RS10030-MONOMER,hypothetical protein,CLJU_c20440(),BioCyc
 CLJU_RS01695-MONOMER,HNH endonuclease,CLJU_c03470(),BioCyc
 CLJU_RS16120-MONOMER,DUF1788 domain-containing protein,CLJU_c32710(),BioCyc
-CLJU_RS11595-MONOMER,uracil permease,CLJU_c23580(1),BioCyc
+CLJU_RS11595-MONOMER,uracil permease,CLJU_c23580(),BioCyc
 CLJU_RS06325-MONOMER,KH domain-containing protein,CLJU_c12900(),BioCyc
 CLJU_RS04070-MONOMER,hypothetical protein,CLJU_c08260(),BioCyc
 CLJU_RS19440-MONOMER,hypothetical protein,CLJU_c39480(),BioCyc
@@ -1838,7 +1838,7 @@ CLJU_RS10035-MONOMER,ATP-grasp domain-containing protein,CLJU_c20450(),BioCyc
 CLJU_RS19745-MONOMER,MerR family transcriptional regulator,CLJU_c40090(),BioCyc
 CLJU_RS12610-MONOMER,antibiotic biosynthesis monooxygenase,CLJU_c25600(),BioCyc
 CLJU_RS05245-MONOMER,RNA-binding protein,CLJU_c10680(),BioCyc
-CLJU_RS20680-MONOMER,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,CLJU_c41980(1),BioCyc
+CLJU_RS20680-MONOMER,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,CLJU_c41980(),BioCyc
 CLJU_RS00850-MONOMER,DUF348 domain-containing protein,CLJU_c01750(),BioCyc
 CLJU_RS12760-MONOMER,anti-sigma factor,CLJU_c25900(),BioCyc
 CLJU_RS09145-MONOMER,thioredoxin domain-containing protein,CLJU_c18640(),BioCyc
@@ -1884,7 +1884,7 @@ CLJU_RS13220-MONOMER,diguanylate cyclase,CLJU_c26820(),BioCyc
 CLJU_RS08060-MONOMER,endospore germination permease,CLJU_c16440(),BioCyc
 CLJU_RS00860-MONOMER,16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))- dimethyltransferase RsmA,CLJU_c01770(1),BioCyc
 CLJU_RS11295-MONOMER,HAMP domain-containing histidine kinase,CLJU_c22960(),BioCyc
-CLJU_RS09155-MONOMER,cell wall-binding repeat-containing protein,CLJU_c18660(),BioCyc
+CLJU_RS09155-MONOMER,cell wall-binding repeat-containing protein,CLJU_c18660(1),BioCyc
 CLJU_RS04340-MONOMER,ABC transporter substrate-binding protein,CLJU_c08800(),BioCyc
 CLJU_RS08535-MONOMER,glutamate synthase subunit beta,CLJU_c17380(),BioCyc
 CLJU_RS04565-MONOMER,amino acid permease,CLJU_c09260(),BioCyc
@@ -1911,7 +1911,7 @@ CLJU_RS07675-MONOMER,arsenical pump-driving ATPase,CLJU_c15660(),BioCyc
 CLJU_RS10055-MONOMER,biotin-dependent carboxyltransferase,CLJU_c20490(),BioCyc
 CLJU_RS12680-MONOMER,DUF5391 family protein,CLJU_c25740(),BioCyc
 CLJU_RS19750-MONOMER,M28 family peptidase,CLJU_c40100(),BioCyc
-CLJU_RS06580-MONOMER,type I glyceraldehyde-3-phosphate dehydrogenase,CLJU_c13400(4),BioCyc
+CLJU_RS06580-MONOMER,type I glyceraldehyde-3-phosphate dehydrogenase,CLJU_c13400(),BioCyc
 CLJU_RS15320-MONOMER,hypothetical protein,CLJU_c31070(),BioCyc
 CLJU_RS00870-MONOMER,hypothetical protein,CLJU_c01790(),BioCyc
 CLJU_RS08430-MONOMER,ABC transporter substrate-binding protein,CLJU_c17180(),BioCyc
@@ -1977,7 +1977,7 @@ CLJU_RS13100-MONOMER,SDR family oxidoreductase,CLJU_c26580(),BioCyc
 CLJU_RS10855-MONOMER,chemotaxis protein CheA,CLJU_c22120(),BioCyc
 CLJU_RS03700-MONOMER,corrinoid protein,CLJU_c07510(),BioCyc
 CLJU_RS03645-MONOMER,nicotinate-nucleotide adenylyltransferase,CLJU_c07400(1),BioCyc
-CLJU_RS10075-MONOMER,sodium/proline symporter PutP,CLJU_c20530(1),BioCyc
+CLJU_RS10075-MONOMER,sodium/proline symporter PutP,CLJU_c20530(),BioCyc
 CLJU_RS05825-MONOMER,propanediol utilization microcompartment protein PduB,CLJU_c11870(),BioCyc
 CLJU_RS22695-MONOMER,hypothetical protein,CLJU_RS22695(),BioCyc
 CLJU_RS19755-MONOMER,MerR family transcriptional regulator,CLJU_c40110(),BioCyc
@@ -2002,7 +2002,7 @@ CLJU_RS16730-MONOMER,PBP1A family penicillin-binding protein,CLJU_c33940(2),BioC
 CLJU_RS15345-MONOMER,hypothetical protein,CLJU_c31120(),BioCyc
 CLJU_RS04215-MONOMER,amidophosphoribosyltransferase,CLJU_c08560(4),BioCyc
 CLJU_RS02445-MONOMER,cell wall-binding repeat-containing protein,CLJU_c04990(),BioCyc
-CLJU_RS00895-MONOMER,anaerobic ribonucleoside triphosphate reductase,CLJU_c01840(2),BioCyc
+CLJU_RS00895-MONOMER,anaerobic ribonucleoside triphosphate reductase,CLJU_c01840(),BioCyc
 CLJU_RS12540-MONOMER,4Fe-4S dicluster domain-containing protein,CLJU_c25450(),BioCyc
 CLJU_RS11910-MONOMER,hypothetical protein,CLJU_c24210(),BioCyc
 CLJU_RS17885-MONOMER,hypothetical protein,CLJU_c36370(),BioCyc
@@ -2024,7 +2024,7 @@ CLJU_RS06550-MONOMER,pyridoxal phosphate-dependent aminotransferase,CLJU_c13340(
 CLJU_RS11305-MONOMER,type IA DNA topoisomerase,CLJU_c22980(),BioCyc
 CLJU_RS04345-MONOMER,ABC transporter ATP-binding protein,CLJU_c08810(),BioCyc
 CLJU_RS18260-MONOMER,two component regulator three Y motif protein,CLJU_c37080(),BioCyc
-CLJU_RS04575-MONOMER,ornithine carbamoyltransferase,CLJU_c09280(3),BioCyc
+CLJU_RS04575-MONOMER,ornithine carbamoyltransferase,CLJU_c09280(),BioCyc
 CLJU_RS10095-MONOMER,cobalamin-binding protein,CLJU_c20560(),BioCyc
 CLJU_RS12565-MONOMER,ACT domain-containing protein,CLJU_c25500(),BioCyc
 CLJU_RS21200-MONOMER,cell wall-binding protein,CLJU_c05900(),BioCyc
@@ -2033,7 +2033,7 @@ CLJU_RS16160-MONOMER,MFS transporter,CLJU_c32790(),BioCyc
 CLJU_RS11610-MONOMER,xanthine dehydrogenase family protein subunit M,CLJU_c23610(),BioCyc
 CLJU_RS18755-MONOMER,ATP-binding cassette domain-containing protein,CLJU_c38080(),BioCyc
 CLJU_RS19595-MONOMER,EutN/CcmL family microcompartment protein,CLJU_c39780(),BioCyc
-CLJU_RS06685-MONOMER,MFS transporter,CLJU_c13620(1),BioCyc
+CLJU_RS06685-MONOMER,MFS transporter,CLJU_c13620(),BioCyc
 CLJU_RS06375-MONOMER,DNA-protecting protein DprA,CLJU_c12990(),BioCyc
 CLJU_RS16735-MONOMER,RNA polymerase sporulation sigma factor SigF,CLJU_c33950(),BioCyc
 CLJU_RS21420-MONOMER,hypothetical protein,CLJU_c31140(),BioCyc
@@ -2055,7 +2055,7 @@ CLJU_RS20640-MONOMER,TIGR01212 family radical SAM protein,CLJU_c41890(),BioCyc
 CLJU_RS21425-MONOMER,hypothetical protein,CLJU_c31150(),BioCyc
 CLJU_RS05525-MONOMER,D-alanyl-D-alanine carboxypeptidase,CLJU_c11270(1),BioCyc
 CLJU_RS00910-MONOMER,MBL fold metallo-hydrolase,CLJU_c01870(),BioCyc
-CLJU_RS20150-MONOMER,type Z 30S ribosomal protein S14,CLJU_c40910(1),BioCyc
+CLJU_RS20150-MONOMER,type Z 30S ribosomal protein S14,CLJU_c40910(),BioCyc
 CLJU_RS18265-MONOMER,YaiI/YqxD family protein,CLJU_c37090(),BioCyc
 CLJU_RS10105-MONOMER,uroporphyrinogen-III decarboxylase-like protein,CLJU_c20580(),BioCyc
 CLJU_RS05480-MONOMER,NAD(+)/NADH kinase,CLJU_c11180(6),BioCyc
@@ -2084,7 +2084,7 @@ CLJU_RS08875-MONOMER,GntR family transcriptional regulator,CLJU_c18060(),BioCyc
 CLJU_RS17315-MONOMER,site-2 protease family protein,CLJU_c35140(),BioCyc
 CLJU_RS12160-MONOMER,cation transporter,CLJU_c24690(),BioCyc
 CLJU_RS13720-MONOMER,glycine/sarcosine/betaine reductase complex component A2,CLJU_c27790(),BioCyc
-CLJU_RS13180-MONOMER,glutamine--tRNA ligase/YqeY domain fusion protein,CLJU_c26740(1),BioCyc
+CLJU_RS13180-MONOMER,glutamine--tRNA ligase/YqeY domain fusion protein,CLJU_c26740(),BioCyc
 CLJU_RS20955-MONOMER,amidohydrolase family protein,CLJU_c42530(),BioCyc
 CLJU_RS15365-MONOMER,hypothetical protein,CLJU_c31170(),BioCyc
 CLJU_RS17605-MONOMER,DUF3343 domain-containing protein,CLJU_c35750(),BioCyc
@@ -2125,7 +2125,7 @@ CLJU_RS05255-MONOMER,5'-methylthioadenosine/adenosylhomocysteine nucleosidase,CL
 CLJU_RS12770-MONOMER,DUF2164 domain-containing protein,CLJU_c25920(),BioCyc
 CLJU_RS09200-MONOMER,glycoside hydrolase family 18,CLJU_c18760(),BioCyc
 CLJU_RS18270-MONOMER,hypothetical protein,CLJU_c37100(),BioCyc
-CLJU_RS20765-MONOMER,3-oxoacyl-[acyl-carrier-protein] reductase,CLJU_c42160(),BioCyc
+CLJU_RS20765-MONOMER,3-oxoacyl-[acyl-carrier-protein] reductase,CLJU_c42160(1),BioCyc
 CLJU_RS10125-MONOMER,methyltetrahydrofolate cobalamin methyltransferase,CLJU_c20620(),BioCyc
 CLJU_RS07185-MONOMER,EAL domain-containing protein,CLJU_c14650(),BioCyc
 CLJU_RS20225-MONOMER,elongation factor Tu,CLJU_c41060(),BioCyc
@@ -2237,7 +2237,7 @@ CLJU_RS00960-MONOMER,radical SAM protein,CLJU_c01970(),BioCyc
 CLJU_RS20505-MONOMER,RNA-binding protein S1,CLJU_c41620(),BioCyc
 CLJU_RS02760-MONOMER,methyltransferase,CLJU_c05620(),BioCyc
 CLJU_RS11320-MONOMER,Tm-1-like ATP-binding domain-containing protein,CLJU_c23010(),BioCyc
-CLJU_RS18285-MONOMER,glucose-6-phosphate isomerase,CLJU_c37130(),BioCyc
+CLJU_RS18285-MONOMER,glucose-6-phosphate isomerase,CLJU_c37130(2),BioCyc
 CLJU_RS10155-MONOMER,uroporphyrinogen III decarboxylase,CLJU_c20680(),BioCyc
 CLJU_RS06525-MONOMER,ribonuclease Y,CLJU_c13290(),BioCyc
 CLJU_RS03525-MONOMER,homoserine kinase,CLJU_c07160(2),BioCyc
@@ -2262,7 +2262,7 @@ CLJU_RS03580-MONOMER,septum site-determining protein MinD,CLJU_c07270(),BioCyc
 CLJU_RS06390-MONOMER,30S ribosomal protein S2,CLJU_c13020(1),BioCyc
 CLJU_RS15415-MONOMER,hypothetical protein,CLJU_c31260(),BioCyc
 CLJU_RS20080-MONOMER,DNA-directed RNA polymerase subunit alpha,CLJU_c40770(),BioCyc
-CLJU_RS00970-MONOMER,glycosyltransferase family 4 protein,CLJU_c01990(1),BioCyc
+CLJU_RS00970-MONOMER,glycosyltransferase family 4 protein,CLJU_c01990(),BioCyc
 CLJU_RS07015-MONOMER,ABC transporter ATP-binding protein,CLJU_c14300(),BioCyc
 CLJU_RS05260-MONOMER,signal peptidase II,CLJU_c10710(1),BioCyc
 CLJU_RS12775-MONOMER,pentapeptide repeat-containing protein,CLJU_c25930(),BioCyc
@@ -2280,11 +2280,11 @@ CLJU_RS16195-MONOMER,hypothetical protein,CLJU_c32860(),BioCyc
 CLJU_RS01760-MONOMER,phage head closure protein,CLJU_c03610(),BioCyc
 CLJU_RS06040-MONOMER,sigma-E processing peptidase SpoIIGA,CLJU_c12310(),BioCyc
 CLJU_RS19265-MONOMER,triose-phosphate isomerase,CLJU_c39130(2),BioCyc
-CLJU_RS05685-MONOMER,decarboxylating 6-phosphogluconate dehydrogenase,CLJU_c11590(2),BioCyc
+CLJU_RS05685-MONOMER,decarboxylating 6-phosphogluconate dehydrogenase,CLJU_c11590(),BioCyc
 CLJU_RS07395-MONOMER,threonine ammonia-lyase,CLJU_c15090(4),BioCyc
 CLJU_RS02170-MONOMER,response regulator transcription factor,CLJU_c04440(),BioCyc
 CLJU_RS16770-MONOMER,sugar transferase,CLJU_c34020(),BioCyc
-CLJU_RS05140-MONOMER,"calcium-translocating P-type ATPase, PMCA-type",CLJU_c10480(),BioCyc
+CLJU_RS05140-MONOMER,"calcium-translocating P-type ATPase, PMCA-type",CLJU_c10480(1),BioCyc
 CLJU_RS15420-MONOMER,hypothetical protein,CLJU_c31270(),BioCyc
 CLJU_RS19935-MONOMER,hydrolase,CLJU_c40480(),BioCyc
 CLJU_RS00975-MONOMER,CotS family spore coat protein,CLJU_c02000(),BioCyc
@@ -2302,7 +2302,7 @@ CLJU_RS20970-MONOMER,putrescine carbamoyltransferase,CLJU_c42560(),BioCyc
 CLJU_RS15425-MONOMER,hypothetical protein,CLJU_c31280(),BioCyc
 CLJU_RS12860-MONOMER,hypothetical protein,CLJU_c26100(),BioCyc
 CLJU_RS20290-MONOMER,50S ribosomal protein L33,CLJU_c41190(),BioCyc
-CLJU_RS13740-MONOMER,BCCT family transporter,CLJU_c27820(1),BioCyc
+CLJU_RS13740-MONOMER,BCCT family transporter,CLJU_c27820(),BioCyc
 CLJU_RS00980-MONOMER,hypothetical protein,CLJU_c02010(),BioCyc
 CLJU_RS06240-MONOMER,pantetheine-phosphate adenylyltransferase,CLJU_c12720(6),BioCyc
 CLJU_RS11325-MONOMER,helix-turn-helix domain-containing protein,CLJU_c23020(),BioCyc
@@ -2378,7 +2378,7 @@ CLJU_RS10195-MONOMER,translation initiation factor IF-3,CLJU_c20760(),BioCyc
 CLJU_RS04795-MONOMER,glycosyltransferase,CLJU_c09720(),BioCyc
 CLJU_RS04600-MONOMER,undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase,CLJU_c09330(1),BioCyc
 CLJU_RS01775-MONOMER,phage protein,CLJU_c03640(),BioCyc
-CLJU_RS16210-MONOMER,aspartate kinase,CLJU_c32890(),BioCyc
+CLJU_RS16210-MONOMER,aspartate kinase,CLJU_c32890(4),BioCyc
 CLJU_RS11640-MONOMER,acyl-CoA synthetase FdrA,CLJU_c23670(),BioCyc
 CLJU_RS22700-MONOMER,hypothetical protein,CLJU_RS22700(),BioCyc
 CLJU_RS05570-MONOMER,electron transport complex subunit RsxC,CLJU_c11360(),BioCyc
@@ -2412,10 +2412,10 @@ CLJU_RS20230-MONOMER,elongation factor G,CLJU_c41070(1),BioCyc
 CLJU_RS16215-MONOMER,isoprenylcysteine carboxylmethyltransferase family protein,CLJU_c32900(),BioCyc
 CLJU_RS01780-MONOMER,hypothetical protein,CLJU_c03650(),BioCyc
 CLJU_RS12250-MONOMER,sigma-54-dependent Fis family transcriptional regulator,CLJU_c24870(),BioCyc
-CLJU_RS19275-MONOMER,type I glyceraldehyde-3-phosphate dehydrogenase,CLJU_c39150(),BioCyc
+CLJU_RS19275-MONOMER,type I glyceraldehyde-3-phosphate dehydrogenase,CLJU_c39150(4),BioCyc
 CLJU_RS06355-MONOMER,ribonuclease HII,CLJU_c12960(),BioCyc
 CLJU_RS14220-MONOMER,response regulator,CLJU_c28820(),BioCyc
-CLJU_RS04310-MONOMER,branched-chain amino acid aminotransferase,CLJU_c08740(6),BioCyc
+CLJU_RS04310-MONOMER,branched-chain amino acid aminotransferase,CLJU_c08740(),BioCyc
 CLJU_RS02180-MONOMER,GtrA family protein,CLJU_c04460(),BioCyc
 CLJU_RS16790-MONOMER,polymerase,CLJU_c34060(),BioCyc
 CLJU_RS15460-MONOMER,DUF4926 domain-containing protein,CLJU_c31350(),BioCyc
@@ -2483,7 +2483,7 @@ CLJU_RS13535-MONOMER,alpha/beta fold hydrolase,CLJU_c27410(),BioCyc
 CLJU_RS10465-MONOMER,bifunctional 4-hydroxy-3-methylbut-2-enyl diphosphate reductase/30S ribosomal protein S1,CLJU_c21320(),BioCyc
 CLJU_RS02055-MONOMER,hypothetical protein,CLJU_c04210(),BioCyc
 CLJU_RS02780-MONOMER,ABC transporter ATP-binding protein,CLJU_c05660(),BioCyc
-CLJU_RS16800-MONOMER,N-acetyltransferase,CLJU_c34080(1),BioCyc
+CLJU_RS16800-MONOMER,N-acetyltransferase,CLJU_c34080(),BioCyc
 CLJU_RS12420-MONOMER,carbamoyl-phosphate synthase (glutamine-hydrolyzing) large subunit,CLJU_c25210(),BioCyc
 CLJU_RS21390-MONOMER,hypothetical protein,CLJU_c28980(),BioCyc
 CLJU_RS01040-MONOMER,spore germination protein,CLJU_c02130(),BioCyc
@@ -2494,14 +2494,14 @@ CLJU_RS04210-MONOMER,phosphoribosylaminoimidazolesuccinocarboxamide synthase,CLJ
 CLJU_RS17925-MONOMER,phage-like protein,CLJU_c36440(),BioCyc
 CLJU_RS10930-MONOMER,hypothetical protein,CLJU_c22270(),BioCyc
 CLJU_RS10230-MONOMER,hypothetical protein,CLJU_c20830(),BioCyc
-CLJU_RS12075-MONOMER,class I SAM-dependent methyltransferase,CLJU_c24540(2),BioCyc
+CLJU_RS12075-MONOMER,class I SAM-dependent methyltransferase,CLJU_c24540(),BioCyc
 CLJU_RS21755-MONOMER,cell wall-binding repeat-containing protein,CLJU_c28610(),BioCyc
 CLJU_RS03510-MONOMER,hypothetical protein,CLJU_c07130(),BioCyc
 CLJU_RS14655-MONOMER,PhoH family protein,CLJU_c29710(),BioCyc
 CLJU_RS06245-MONOMER,hypothetical protein,CLJU_c12730(),BioCyc
 CLJU_RS05345-MONOMER,type II secretion system F family protein,CLJU_c10910(),BioCyc
 CLJU_RS17345-MONOMER,hypothetical protein,CLJU_c35200(),BioCyc
-CLJU_RS20985-MONOMER,rhamnulose-1-phosphate aldolase,CLJU_c42590(4),BioCyc
+CLJU_RS20985-MONOMER,rhamnulose-1-phosphate aldolase,CLJU_c42590(),BioCyc
 CLJU_RS21435-MONOMER,phage-like endonuclease,CLJU_c31390(),BioCyc
 CLJU_RS13760-MONOMER,TetR/AcrR family transcriptional regulator,CLJU_c27850(),BioCyc
 CLJU_RS01045-MONOMER,Ger(x)C family spore germination protein,CLJU_c02140(),BioCyc
@@ -2522,11 +2522,11 @@ CLJU_RS04095-MONOMER,transcriptional regulator,CLJU_c08320(),BioCyc
 CLJU_RS16805-MONOMER,Gfo/Idh/MocA family oxidoreductase,CLJU_c34090(),BioCyc
 CLJU_RS19465-MONOMER,hypothetical protein,CLJU_c39530(),BioCyc
 CLJU_RS01050-MONOMER,stage II sporulation protein R,CLJU_c02150(),BioCyc
-CLJU_RS02910-MONOMER,Ldh family oxidoreductase,CLJU_c05920(),BioCyc
+CLJU_RS02910-MONOMER,Ldh family oxidoreductase,CLJU_c05920(1),BioCyc
 CLJU_RS06005-MONOMER,U32 family peptidase,CLJU_c12240(),BioCyc
 CLJU_RS04865-MONOMER,nucleotidyltransferase domain-containing protein,CLJU_c09910(),BioCyc
 CLJU_RS13110-MONOMER,hypothetical protein,CLJU_c26600(),BioCyc
-CLJU_RS07500-MONOMER,carbamate kinase,CLJU_c15300(1),BioCyc
+CLJU_RS07500-MONOMER,carbamate kinase,CLJU_c15300(),BioCyc
 CLJU_RS21300-MONOMER,cell wall-binding protein,CLJU_c22280(),BioCyc
 CLJU_RS03710-MONOMER,DUF4445 domain-containing protein,CLJU_c07530(),BioCyc
 CLJU_RS10240-MONOMER,cysteine--tRNA ligase,CLJU_c20850(),BioCyc
@@ -2538,7 +2538,7 @@ CLJU_RS03945-MONOMER,tRNA (N(6)-L-threonylcarbamoyladenosine(37)-C(2))- methylth
 CLJU_RS15485-MONOMER,phage portal protein,CLJU_c31400(),BioCyc
 CLJU_RS20085-MONOMER,30S ribosomal protein S4,CLJU_c40780(1),BioCyc
 CLJU_RS06015-MONOMER,RNA polymerase sporulation sigma factor SigK,CLJU_c12260(),BioCyc
-CLJU_RS05270-MONOMER,uracil permease,CLJU_c10730(),BioCyc
+CLJU_RS05270-MONOMER,uracil permease,CLJU_c10730(1),BioCyc
 CLJU_RS12785-MONOMER,rubrerythrin family protein,CLJU_c25950(),BioCyc
 CLJU_RS09260-MONOMER,MarR family transcriptional regulator,CLJU_c18890(),BioCyc
 CLJU_RS07550-MONOMER,HlyD family efflux transporter periplasmic adaptor subunit,CLJU_c15410(),BioCyc
@@ -2663,7 +2663,7 @@ CLJU_RS08335-MONOMER,DUF1858 domain-containing protein,CLJU_c16990(),BioCyc
 CLJU_RS18690-MONOMER,NifB/NifX family molybdenum-iron cluster-binding protein,CLJU_c37950(),BioCyc
 CLJU_RS10960-MONOMER,energy-coupling factor transporter transmembrane protein EcfT,CLJU_c22320(),BioCyc
 CLJU_RS10285-MONOMER,DUF1657 domain-containing protein,CLJU_c20950(),BioCyc
-CLJU_RS07025-MONOMER,(deoxy)nucleoside triphosphate pyrophosphohydrolase,CLJU_c14320(1),BioCyc
+CLJU_RS07025-MONOMER,(deoxy)nucleoside triphosphate pyrophosphohydrolase,CLJU_c14320(),BioCyc
 CLJU_RS09935-MONOMER,helix-turn-helix domain-containing protein,CLJU_c20250(),BioCyc
 CLJU_RS19810-MONOMER,electron transfer flavoprotein subunit beta/FixA family protein,CLJU_c40230(),BioCyc
 CLJU_RS12625-MONOMER,hypothetical protein,CLJU_c25630(),BioCyc
@@ -2672,7 +2672,7 @@ CLJU_RS07165-MONOMER,hypothetical protein,CLJU_c14600(),BioCyc
 CLJU_RS01095-MONOMER,DUF1385 domain-containing protein,CLJU_c02240(),BioCyc
 CLJU_RS20690-MONOMER,hypothetical protein,CLJU_c42010(),BioCyc
 CLJU_RS06335-MONOMER,tRNA (guanosine(37)-N1)-methyltransferase TrmD,CLJU_c12920(2),BioCyc
-CLJU_RS12790-MONOMER,fructose-6-phosphate aldolase,CLJU_c25960(12),BioCyc
+CLJU_RS12790-MONOMER,fructose-6-phosphate aldolase,CLJU_c25960(),BioCyc
 CLJU_RS21615-MONOMER,hypothetical protein,CLJU_c18930(),BioCyc
 CLJU_RS01690-MONOMER,hypothetical protein,CLJU_c03460(),BioCyc
 CLJU_RS18350-MONOMER,ABC transporter permease subunit,CLJU_c37270(),BioCyc
@@ -2691,7 +2691,7 @@ CLJU_RS08055-MONOMER,serine hydrolase,CLJU_c16430(),BioCyc
 CLJU_RS02200-MONOMER,DUF2837 family protein,CLJU_c04500(),BioCyc
 CLJU_RS16830-MONOMER,oligosaccharide repeat unit polymerase,CLJU_c34140(),BioCyc
 CLJU_RS12415-MONOMER,aldo/keto reductase,CLJU_c25200(),BioCyc
-CLJU_RS03675-MONOMER,"selenide, water dikinase SelD",CLJU_c07460(1),BioCyc
+CLJU_RS03675-MONOMER,"selenide, water dikinase SelD",CLJU_c07460(),BioCyc
 CLJU_RS15510-MONOMER,hypothetical protein,CLJU_c31460(),BioCyc
 CLJU_RS19950-MONOMER,tetratricopeptide repeat protein,CLJU_c40510(),BioCyc
 CLJU_RS02510-MONOMER,cell wall-binding repeat-containing protein,CLJU_c05120(),BioCyc
@@ -2744,16 +2744,16 @@ CLJU_RS19815-MONOMER,heavy metal transporter,CLJU_c40240(),BioCyc
 CLJU_RS21445-MONOMER,Com family DNA-binding transcriptional regulator,CLJU_c31490(),BioCyc
 CLJU_RS18515-MONOMER,dihydrolipoyl dehydrogenase,CLJU_c37600(),BioCyc
 CLJU_RS05635-MONOMER,threonine/serine exporter family protein,CLJU_c11490(),BioCyc
-CLJU_RS01115-MONOMER,ZIP family metal transporter,CLJU_c02280(1),BioCyc
+CLJU_RS01115-MONOMER,ZIP family metal transporter,CLJU_c02280(),BioCyc
 CLJU_RS06025-MONOMER,glycosyltransferase family 2 protein,CLJU_c12280(),BioCyc
 CLJU_RS09290-MONOMER,collagen-like protein,CLJU_c18950(),BioCyc
-CLJU_RS08905-MONOMER,cytidine deaminase,CLJU_c18120(2),BioCyc
+CLJU_RS08905-MONOMER,cytidine deaminase,CLJU_c18120(),BioCyc
 CLJU_RS10310-MONOMER,2-hydroxyglutaryl-CoA dehydratase,CLJU_c21000(),BioCyc
 CLJU_RS06915-MONOMER,TetR/AcrR family transcriptional regulator,CLJU_c14100(),BioCyc
 CLJU_RS16265-MONOMER,ABC transporter permease,CLJU_c33000(),BioCyc
 CLJU_RS21530-MONOMER,hypothetical protein,CLJU_c03750(),BioCyc
 CLJU_RS06035-MONOMER,cell division protein FtsZ,CLJU_c12300(),BioCyc
-CLJU_RS19300-MONOMER,N-acetylmuramoyl-L-alanine amidase,CLJU_c39200(1),BioCyc
+CLJU_RS19300-MONOMER,N-acetylmuramoyl-L-alanine amidase,CLJU_c39200(),BioCyc
 CLJU_RS05075-MONOMER,flagellar type III secretion system pore protein FliP,CLJU_c10340(),BioCyc
 CLJU_RS13545-MONOMER,cell wall-binding repeat-containing protein,CLJU_c27430(),BioCyc
 CLJU_RS07055-MONOMER,VanR-ABDEGLN family response regulator transcription factor,CLJU_c14380(),BioCyc
@@ -2790,7 +2790,7 @@ CLJU_RS10320-MONOMER,hypothetical protein,CLJU_c21020(),BioCyc
 CLJU_RS06085-MONOMER,phosphate ABC transporter permease subunit PstC,CLJU_c12400(),BioCyc
 CLJU_RS16270-MONOMER,ABC transporter ATP-binding protein,CLJU_c33010(),BioCyc
 CLJU_RS11670-MONOMER,molybdopterin-dependent oxidoreductase,CLJU_c23730(),BioCyc
-CLJU_RS18810-MONOMER,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB,CLJU_c38190(2),BioCyc
+CLJU_RS18810-MONOMER,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB,CLJU_c38190(),BioCyc
 CLJU_RS00805-MONOMER,IS110 family transposase,CLJU_c01660(),BioCyc
 CLJU_RS19475-MONOMER,potassium-transporting ATPase subunit KdpB,CLJU_c39550(),BioCyc
 CLJU_RS15545-MONOMER,hypothetical protein,CLJU_c31520(),BioCyc
@@ -2801,7 +2801,7 @@ CLJU_RS13115-MONOMER,protein kinase-like protein,CLJU_c26610(),BioCyc
 CLJU_RS10995-MONOMER,AP2 domain-containing protein,CLJU_c22370(),BioCyc
 CLJU_RS10325-MONOMER,transcriptional repressor LexA,CLJU_c21030(),BioCyc
 CLJU_RS04635-MONOMER,chemotaxis protein CheD,CLJU_c09400(),BioCyc
-CLJU_RS08095-MONOMER,bifunctional acetaldehyde-CoA/alcohol dehydrogenase,CLJU_c16510(40),BioCyc
+CLJU_RS08095-MONOMER,bifunctional acetaldehyde-CoA/alcohol dehydrogenase,CLJU_c16510(),BioCyc
 CLJU_RS06055-MONOMER,YlmC/YmxH family sporulation protein,CLJU_c12340(),BioCyc
 CLJU_RS19820-MONOMER,OsmC family protein,CLJU_c40250(),BioCyc
 CLJU_RS06410-MONOMER,isoprenyl transferase,CLJU_c13060(2),BioCyc
@@ -2817,9 +2817,9 @@ CLJU_RS18370-MONOMER,thiamine-binding protein,CLJU_c37310(),BioCyc
 CLJU_RS10330-MONOMER,DNA polymerase IV,CLJU_c21040(),BioCyc
 CLJU_RS20790-MONOMER,nitronate monooxygenase,CLJU_c42210(),BioCyc
 CLJU_RS06830-MONOMER,FadR family transcriptional regulator,CLJU_c13910(),BioCyc
-CLJU_RS05705-MONOMER,bifunctional 4-hydroxy-2-oxoglutarate aldolase/2-dehydro-3-deoxy-phosphogluconate aldolase,CLJU_c11630(1),BioCyc
+CLJU_RS05705-MONOMER,bifunctional 4-hydroxy-2-oxoglutarate aldolase/2-dehydro-3-deoxy-phosphogluconate aldolase,CLJU_c11630(3),BioCyc
 CLJU_RS00205-MONOMER,phage tail tape measure protein,CLJU_c00400(),BioCyc
-CLJU_RS16275-MONOMER,spore photoproduct lyase,CLJU_c33020(),BioCyc
+CLJU_RS16275-MONOMER,spore photoproduct lyase,CLJU_c33020(2),BioCyc
 CLJU_RS01835-MONOMER,recombinase family protein,CLJU_c03760(),BioCyc
 CPLX271D-14,acetyl-CoA decarbonylase/synthase complex,CLJU_c37570() AND CLJU_c37580(),BioCyc
 CLJU_RS19305-MONOMER,nucleotidase,CLJU_c39210(),BioCyc
@@ -2835,14 +2835,14 @@ CLJU_RS19955-MONOMER,DUF4652 domain-containing protein,CLJU_c40520(),BioCyc
 CLJU_RS01140-MONOMER,dCMP deaminase family protein,CLJU_c02330(),BioCyc
 CLJU_RS02505-MONOMER,cell wall-binding repeat-containing protein,CLJU_c05110(),BioCyc
 CLJU_RS12555-MONOMER,anaerobic sulfite reductase subunit AsrB,CLJU_c25480(),BioCyc
-CLJU_RS06260-MONOMER,phosphate acetyltransferase,CLJU_c12770(6),BioCyc
+CLJU_RS06260-MONOMER,phosphate acetyltransferase,CLJU_c12770(2),BioCyc
 CLJU_RS11940-MONOMER,metallophosphoesterase,CLJU_c24270(),BioCyc
 CLJU_RS17945-MONOMER,helix-turn-helix domain-containing protein,CLJU_c36480(),BioCyc
 CLJU_RS11000-MONOMER,hypothetical protein,CLJU_c22380(),BioCyc
 CLJU_RS13380-MONOMER,hypothetical protein,CLJU_c27140(),BioCyc
 CLJU_RS13285-MONOMER,threonylcarbamoyl-AMP synthase,CLJU_c26950(),BioCyc
 CLJU_RS10335-MONOMER,Lrp/AsnC family transcriptional regulator,CLJU_c21050(),BioCyc
-CLJU_RS01205-MONOMER,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,CLJU_c02460(),BioCyc
+CLJU_RS01205-MONOMER,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,CLJU_c02460(1),BioCyc
 CLJU_RS14155-MONOMER,alpha/beta hydrolase fold domain-containing protein,CLJU_c28690(),BioCyc
 CLJU_RS17370-MONOMER,hypothetical protein,CLJU_c35250(),BioCyc
 CLJU_RS08635-MONOMER,chromate transporter,CLJU_c17580(),BioCyc
@@ -2873,14 +2873,14 @@ CLJU_RS05580-MONOMER,RnfABCDGE type electron transport complex subunit G,CLJU_c1
 CLJU_RS21325-MONOMER,DUF4430 domain-containing protein,CLJU_c22390(),BioCyc
 CLJU_RS18405-MONOMER,pyrroline-5-carboxylate reductase,CLJU_c37380(10),BioCyc
 CLJU_RS07090-MONOMER,DUF429 domain-containing protein,CLJU_c14450(),BioCyc
-CLJU_RS10345-MONOMER,uroporphyrinogen decarboxylase,CLJU_c21070(1),BioCyc
+CLJU_RS10345-MONOMER,uroporphyrinogen decarboxylase,CLJU_c21070(),BioCyc
 CLJU_RS03490-MONOMER,sigma 54-interacting transcriptional regulator,CLJU_c07090(),BioCyc
 CLJU_RS00005-MONOMER,chromosomal replication initiator protein DnaA,CLJU_c00010(),BioCyc
 CLJU_RS04955-MONOMER,DUF441 domain-containing protein,CLJU_c10100(),BioCyc
 CLJU_RS15560-MONOMER,hypothetical protein,CLJU_c31560(),BioCyc
-CLJU_RS12500-MONOMER,triphosphoribosyl-dephospho-CoA synthase CitG,CLJU_c25370(1),BioCyc
+CLJU_RS12500-MONOMER,triphosphoribosyl-dephospho-CoA synthase CitG,CLJU_c25370(),BioCyc
 CLJU_RS01155-MONOMER,hypothetical protein,CLJU_c02360(),BioCyc
-CPLX271D-13,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase,CLJU_c36910() AND CLJU_c36920() AND CLJU_c36930(),BioCyc
+CPLX271D-13,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase,CLJU_c36930() AND CLJU_c36920() AND CLJU_c36910(),BioCyc
 CLJU_RS20165-MONOMER,50S ribosomal protein L14,CLJU_c40940(1),BioCyc
 CLJU_RS09315-MONOMER,ATP-binding cassette domain-containing protein,CLJU_c19000(),BioCyc
 CLJU_RS18380-MONOMER,histidine kinase,CLJU_c37330(),BioCyc
@@ -2889,7 +2889,7 @@ CLJU_RS03380-MONOMER,YaaR family protein,CLJU_c06870(),BioCyc
 CLJU_RS01590-MONOMER,6-phosphofructokinase,CLJU_c03250(4),BioCyc
 CLJU_RS16285-MONOMER,bifunctional hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase,CLJU_c33040(4),BioCyc
 CLJU_RS01845-MONOMER,patatin-like phospholipase family protein,CLJU_c03780(),BioCyc
-CLJU_RS05805-MONOMER,glycyl radical protein,CLJU_c11830(2),BioCyc
+CLJU_RS05805-MONOMER,glycyl radical protein,CLJU_c11830(),BioCyc
 CLJU_RS19310-MONOMER,DMT family transporter,CLJU_c39220(),BioCyc
 CLJU_RS19825-MONOMER,HAMP domain-containing histidine kinase,CLJU_c40260(),BioCyc
 CLJU_RS21375-MONOMER,type IV secretory system conjugative DNA transfer family protein,CLJU_c27440(),BioCyc
@@ -2951,7 +2951,7 @@ CLJU_RS01175-MONOMER,F0F1 ATP synthase subunit delta,CLJU_c02400(),BioCyc
 CLJU_RS20695-MONOMER,DUF4434 domain-containing protein,CLJU_c42020(),BioCyc
 CLJU_RS05285-MONOMER,diaminopimelate epimerase,CLJU_c10760(1),BioCyc
 CLJU_RS04805-MONOMER,glycosyltransferase,CLJU_c09740(),BioCyc
-CLJU_RS09330-MONOMER,gamma-glutamyltransferase,CLJU_c19030(1),BioCyc
+CLJU_RS09330-MONOMER,gamma-glutamyltransferase,CLJU_c19030(),BioCyc
 CLJU_RS05710-MONOMER,DctP family TRAP transporter solute-binding subunit,CLJU_c11640(),BioCyc
 CLJU_RS00690-MONOMER,DNA polymerase III subunit delta',CLJU_c01410(),BioCyc
 CLJU_RS06745-MONOMER,AI-2E family transporter,CLJU_c13750(),BioCyc
@@ -2992,7 +2992,7 @@ CLJU_RS20325-MONOMER,hypothetical protein,CLJU_c41260(),BioCyc
 CLJU_RS21030-MONOMER,Hsp20/alpha crystallin family protein,CLJU_c42690(),BioCyc
 CLJU_RS15590-MONOMER,MBL fold metallo-hydrolase,CLJU_c31620(),BioCyc
 CLJU_RS17665-MONOMER,NCS1 family nucleobase:cation symporter-1,CLJU_c35900(),BioCyc
-CLJU_RS13795-MONOMER,nitroreductase family protein,CLJU_c27930(),BioCyc
+CLJU_RS13795-MONOMER,nitroreductase family protein,CLJU_c27930(1),BioCyc
 CLJU_RS01185-MONOMER,F0F1 ATP synthase subunit gamma,CLJU_c02420(),BioCyc
 CLJU_RS13230-MONOMER,GNAT family N-acetyltransferase,CLJU_c26840(),BioCyc
 CLJU_RS08315-MONOMER,SdpI family protein,CLJU_c16940(),BioCyc
@@ -3062,7 +3062,7 @@ CLJU_RS06275-MONOMER,50S ribosomal protein L32,CLJU_c12800(),BioCyc
 CLJU_RS21035-MONOMER,Hsp20/alpha crystallin family protein,CLJU_c42700(),BioCyc
 CLJU_RS15610-MONOMER,hypothetical protein,CLJU_c31660(),BioCyc
 CLJU_RS17670-MONOMER,Zn-dependent hydrolase,CLJU_c35910(),BioCyc
-CLJU_RS13800-MONOMER,cytosine permease,CLJU_c27940(1),BioCyc
+CLJU_RS13800-MONOMER,cytosine permease,CLJU_c27940(),BioCyc
 CLJU_RS03290-MONOMER,amino acid ABC transporter ATP-binding protein,CLJU_c06690(),BioCyc
 CLJU_RS08795-MONOMER,amino acid permease,CLJU_c17900(),BioCyc
 CLJU_RS09345-MONOMER,hypothetical protein,CLJU_c19060(),BioCyc
@@ -3141,7 +3141,7 @@ CLJU_RS09355-MONOMER,GTP-binding protein,CLJU_c19080(),BioCyc
 CLJU_RS11385-MONOMER,helix-turn-helix domain-containing protein,CLJU_c23140(),BioCyc
 CLJU_RS04655-MONOMER,chemotaxis protein CheC,CLJU_c09440(),BioCyc
 CLJU_RS10420-MONOMER,tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA,CLJU_c21220(2),BioCyc
-CLJU_RS01880-MONOMER,4-hydroxythreonine-4-phosphate dehydrogenase PdxA,CLJU_c03850(2),BioCyc
+CLJU_RS01880-MONOMER,4-hydroxythreonine-4-phosphate dehydrogenase PdxA,CLJU_c03850(),BioCyc
 CLJU_RS02940-MONOMER,signal peptidase I,CLJU_c05980(),BioCyc
 CLJU_RS01905-MONOMER,hypothetical protein,CLJU_c03900(),BioCyc
 CLJU_RS16320-MONOMER,MarR family transcriptional regulator,CLJU_c33110(),BioCyc
@@ -3184,12 +3184,12 @@ CLJU_RS01265-MONOMER,ATP-dependent RecD-like DNA helicase,CLJU_c02590(),BioCyc
 CLJU_RS02530-MONOMER,CpsD/CapB family tyrosine-protein kinase,CLJU_c05160(),BioCyc
 CLJU_RS19335-MONOMER,endonuclease III,CLJU_c39270(),BioCyc
 CLJU_RS11055-MONOMER,hypothetical protein,CLJU_c22480(),BioCyc
-CLJU_RS14030-MONOMER,class I SAM-dependent methyltransferase,CLJU_c28420(2),BioCyc
+CLJU_RS14030-MONOMER,class I SAM-dependent methyltransferase,CLJU_c28420(),BioCyc
 CLJU_RS17965-MONOMER,VRR-NUC domain-containing protein,CLJU_c36520(),BioCyc
 CLJU_RS15760-MONOMER,hydroxymethylbilane synthase,CLJU_c31980(1),BioCyc
 CLJU_RS03960-MONOMER,GatB/YqeY domain-containing protein,CLJU_c08050(),BioCyc
 CLJU_RS10435-MONOMER,tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB,CLJU_c21250(1),BioCyc
-CLJU_RS12100-MONOMER,sugar O-acetyltransferase,CLJU_c24570(),BioCyc
+CLJU_RS12100-MONOMER,sugar O-acetyltransferase,CLJU_c24570(2),BioCyc
 CLJU_RS00070-MONOMER,UPF0182 family protein,CLJU_c00140(),BioCyc
 CLJU_RS03125-MONOMER,HD domain-containing protein,CLJU_c06360(),BioCyc
 CLJU_RS08000-MONOMER,MarR family transcriptional regulator,CLJU_c16320(),BioCyc
@@ -3201,15 +3201,15 @@ CLJU_RS21045-MONOMER,"ATP-dependent protease, Lon family",CLJU_c42720(),BioCyc
 CLJU_RS13195-MONOMER,methyltransferase domain-containing protein,CLJU_c26770(),BioCyc
 CLJU_RS15620-MONOMER,hypothetical protein,CLJU_c31680(),BioCyc
 CLJU_RS06020-MONOMER,type IV pilus twitching motility protein PilT,CLJU_c12270(),BioCyc
-CLJU_RS17680-MONOMER,iron-containing alcohol dehydrogenase,CLJU_c35930(2),BioCyc
-CLJU_RS14185-MONOMER,shikimate dehydrogenase,CLJU_c28750(2),BioCyc
+CLJU_RS17680-MONOMER,iron-containing alcohol dehydrogenase,CLJU_c35930(),BioCyc
+CLJU_RS14185-MONOMER,shikimate dehydrogenase,CLJU_c28750(),BioCyc
 CLJU_RS01270-MONOMER,hypothetical protein,CLJU_c02600(),BioCyc
 CLJU_RS06295-MONOMER,radical SAM protein,CLJU_c12840(),BioCyc
 CLJU_RS03465-MONOMER,4Fe-4S binding protein,CLJU_c07040(),BioCyc
 CLJU_RS09365-MONOMER,uroporphyrinogen decarboxylase,CLJU_c19100(),BioCyc
 CLJU_RS20540-MONOMER,polysaccharide biosynthesis protein,CLJU_c41690(),BioCyc
 CLJU_RS02795-MONOMER,hypothetical protein,CLJU_c05690(),BioCyc
-CLJU_RS11390-MONOMER,isochorismatase family protein,CLJU_c23150(1),BioCyc
+CLJU_RS11390-MONOMER,isochorismatase family protein,CLJU_c23150(),BioCyc
 CLJU_RS18425-MONOMER,lantibiotic immunity ABC transporter MutE/EpiE family permease subunit,CLJU_c37420(),BioCyc
 CLJU_RS05780-MONOMER,HAMP domain-containing histidine kinase,CLJU_c11780(),BioCyc
 CLJU_RS04660-MONOMER,response regulator,CLJU_c09450(),BioCyc
@@ -3233,7 +3233,7 @@ CLJU_RS00075-MONOMER,FAD-dependent oxidoreductase,CLJU_c00150(),BioCyc
 CLJU_RS15665-MONOMER,metal ABC transporter ATP-binding protein,CLJU_c31790(),BioCyc
 CLJU_RS12635-MONOMER,carboxymuconolactone decarboxylase family protein,CLJU_c25650(),BioCyc
 CLJU_RS05295-MONOMER,nitroreductase family protein,CLJU_c10780(),BioCyc
-CLJU_RS01280-MONOMER,ribosome-associated translation inhibitor RaiA,CLJU_c02620(),BioCyc
+CLJU_RS01280-MONOMER,ribosome-associated translation inhibitor RaiA,CLJU_c02620(2),BioCyc
 CLJU_RS20700-MONOMER,asparagine--tRNA ligase,CLJU_c42030(2),BioCyc
 CLJU_RS09370-MONOMER,corrinoid protein,CLJU_c19110(),BioCyc
 CLJU_RS18430-MONOMER,lantibiotic immunity ABC transporter MutG family permease subunit,CLJU_c37430(),BioCyc
@@ -3244,7 +3244,7 @@ CLJU_RS01900-MONOMER,YkuS family protein,CLJU_c03890(),BioCyc
 CLJU_RS20245-MONOMER,hypothetical protein,CLJU_c41100(),BioCyc
 CLJU_RS16330-MONOMER,amino acid ABC transporter substrate-binding protein,CLJU_c33130(),BioCyc
 CPLX271D-8,F0F1 ATP synthase,CLJU_c02370() AND CLJU_c02380() AND CLJU_c02390() AND CLJU_c02400() AND CLJU_c02410() AND CLJU_c02420() AND CLJU_c02430() AND CLJU_c02440(),BioCyc
-CLJU_RS18855-MONOMER,peptide chain release factor 3,CLJU_c38280(1),BioCyc
+CLJU_RS18855-MONOMER,peptide chain release factor 3,CLJU_c38280(),BioCyc
 CLJU_RS07960-MONOMER,peptidase S41,CLJU_c16240(),BioCyc
 CLJU_RS14235-MONOMER,pilus assembly protein,CLJU_c28850(),BioCyc
 CLJU_RS06370-MONOMER,YifB family Mg chelatase-like AAA ATPase,CLJU_c12980(),BioCyc
@@ -3261,7 +3261,7 @@ CLJU_RS17970-MONOMER,phage-like protein,CLJU_c36530(),BioCyc
 CLJU_RS14545-MONOMER,CoA-disulfide reductase,CLJU_c29490(),BioCyc
 CLJU_RS07730-MONOMER,DeoR/GlpR transcriptional regulator,CLJU_c15770(),BioCyc
 CLJU_RS13395-MONOMER,response regulator transcription factor,CLJU_c27170(),BioCyc
-CLJU_RS10450-MONOMER,pyridoxal phosphate-dependent aminotransferase,CLJU_c21290(2),BioCyc
+CLJU_RS10450-MONOMER,pyridoxal phosphate-dependent aminotransferase,CLJU_c21290(),BioCyc
 CLJU_RS05325-MONOMER,hypothetical protein,CLJU_c10860(),BioCyc
 CLJU_RS00080-MONOMER,DUF1667 domain-containing protein,CLJU_c00160(),BioCyc
 CLJU_RS05730-MONOMER,histidinol dehydrogenase,CLJU_c11680(2),BioCyc
@@ -3290,7 +3290,7 @@ CLJU_RS07805-MONOMER,undecaprenyl-diphosphatase UppP,CLJU_c15920(),BioCyc
 CLJU_RS08320-MONOMER,DUF3784 domain-containing protein,CLJU_c16960(),BioCyc
 CLJU_RS07130-MONOMER,hypothetical protein,CLJU_c14530(),BioCyc
 CLJU_RS02890-MONOMER,potassium channel family protein,CLJU_c05890(),BioCyc
-CLJU_RS15680-MONOMER,"cob(I)yrinic acid a,c-diamide adenosyltransferase",CLJU_c31820(1),BioCyc
+CLJU_RS15680-MONOMER,"cob(I)yrinic acid a,c-diamide adenosyltransferase",CLJU_c31820(),BioCyc
 CLJU_RS16900-MONOMER,hypothetical protein,CLJU_c34280(),BioCyc
 CLJU_RS03640-MONOMER,GTPase ObgE,CLJU_c07390(),BioCyc
 CLJU_RS07485-MONOMER,hypothetical protein,CLJU_c15270(),BioCyc
@@ -3298,7 +3298,7 @@ CLJU_RS13050-MONOMER,AEC family transporter,CLJU_c26480(),BioCyc
 CLJU_RS04845-MONOMER,IS66 family insertion sequence hypothetical protein,CLJU_c09840(),BioCyc
 CLJU_RS01295-MONOMER,MFS transporter,CLJU_c02650(),BioCyc
 CLJU_RS06060-MONOMER,transcriptional repressor NrdR,CLJU_c12350(),BioCyc
-CLJU_RS03620-MONOMER,ribonuclease E/G,CLJU_c07350(2),BioCyc
+CLJU_RS03620-MONOMER,ribonuclease E/G,CLJU_c07350(),BioCyc
 CLJU_RS22250-MONOMER,hypothetical protein,CLJU_RS22250(),BioCyc
 CLJU_RS10460-MONOMER,S-adenosylmethionine decarboxylase proenzyme,CLJU_c21310(),BioCyc
 CLJU_RS00085-MONOMER,serine--tRNA ligase,CLJU_c00170(2),BioCyc
@@ -3332,7 +3332,7 @@ CLJU_RS03965-MONOMER,sporulation protein YqfC,CLJU_c08060(),BioCyc
 CLJU_RS07735-MONOMER,sugar porter family MFS transporter,CLJU_c15780(),BioCyc
 CLJU_RS10470-MONOMER,(d)CMP kinase,CLJU_c21330(1),BioCyc
 CLJU_RS00105-MONOMER,site-specific integrase,CLJU_c00210(),BioCyc
-CLJU_RS02945-MONOMER,glutamate 5-kinase,CLJU_c05990(4),BioCyc
+CLJU_RS02945-MONOMER,glutamate 5-kinase,CLJU_c05990(),BioCyc
 CLJU_RS06900-MONOMER,B12-binding domain-containing radical SAM protein,CLJU_c14070(),BioCyc
 CLJU_RS18885-MONOMER,AAA family ATPase,CLJU_c38340(),BioCyc
 CLJU_RS12805-MONOMER,DUF2149 domain-containing protein,CLJU_c25990(),BioCyc
@@ -3408,7 +3408,7 @@ CLJU_RS08820-MONOMER,molybdopterin-binding protein,CLJU_c17950(),BioCyc
 CLJU_RS12880-MONOMER,ABC transporter ATP-binding protein,CLJU_c26140(),BioCyc
 CLJU_RS20340-MONOMER,PIN/TRAM domain-containing protein,CLJU_c41290(),BioCyc
 CLJU_RS10485-MONOMER,rRNA pseudouridine synthase,CLJU_c21360(1),BioCyc
-CLJU_RS04400-MONOMER,ABC transporter ATP-binding protein,CLJU_c08920(2),BioCyc
+CLJU_RS04400-MONOMER,ABC transporter ATP-binding protein,CLJU_c08920(),BioCyc
 CLJU_RS09395-MONOMER,hypothetical protein,CLJU_c19160(),BioCyc
 CLJU_RS11405-MONOMER,sodium:solute symporter family protein,CLJU_c23180(),BioCyc
 CLJU_RS18450-MONOMER,FAD-dependent oxidoreductase,CLJU_c37470(),BioCyc
@@ -3419,7 +3419,7 @@ CLJU_RS00905-MONOMER,winged helix-turn-helix transcriptional regulator,CLJU_c018
 CLJU_RS16350-MONOMER,GGDEF domain-containing protein,CLJU_c33170(),BioCyc
 CLJU_RS11715-MONOMER,putative aminohydrolase SsnA,CLJU_c23820(),BioCyc
 CLJU_RS05100-MONOMER,MinD/ParA family protein,CLJU_c10390(),BioCyc
-CLJU_RS18875-MONOMER,aspartate kinase,CLJU_c38320(4),BioCyc
+CLJU_RS18875-MONOMER,aspartate kinase,CLJU_c38320(),BioCyc
 CLJU_RS07420-MONOMER,hypothetical protein,CLJU_c15140(),BioCyc
 CLJU_RS15720-MONOMER,"precorrin-6Y C5,15-methyltransferase (decarboxylating) subunit CbiT",CLJU_c31900(),BioCyc
 CLJU_RS16915-MONOMER,serine hydrolase family protein,CLJU_c34310(),BioCyc
@@ -3445,7 +3445,7 @@ CLJU_RS22585-MONOMER,hypothetical protein,CLJU_c19170(),BioCyc
 CLJU_RS18455-MONOMER,NAD(P)/FAD-dependent oxidoreductase,CLJU_c37480(),BioCyc
 CLJU_RS01930-MONOMER,methyl-accepting chemotaxis protein,CLJU_c03950(),BioCyc
 CLJU_RS06300-MONOMER,chromosome segregation protein SMC,CLJU_c12850(),BioCyc
-CLJU_RS16355-MONOMER,threonine synthase,CLJU_c33180(1),BioCyc
+CLJU_RS16355-MONOMER,threonine synthase,CLJU_c33180(),BioCyc
 CLJU_RS19350-MONOMER,serine O-acetyltransferase,CLJU_c39300(6),BioCyc
 CLJU_RS13560-MONOMER,histidine phosphatase family protein,CLJU_c27470(),BioCyc
 CLJU_RS02255-MONOMER,ABC transporter permease,CLJU_c04610(),BioCyc
@@ -3473,7 +3473,7 @@ CLJU_RS10495-MONOMER,sulfurtransferase-like selenium metabolism protein YedF,CLJ
 CLJU_RS08220-MONOMER,hypothetical protein,CLJU_c16750(),BioCyc
 CLJU_RS22030-MONOMER,hypothetical protein,CLJU_c19180(),BioCyc
 CLJU_RS20550-MONOMER,peptidylprolyl isomerase,CLJU_c41710(),BioCyc
-CLJU_RS18460-MONOMER,formate/nitrite transporter family protein,CLJU_c37490(5),BioCyc
+CLJU_RS18460-MONOMER,formate/nitrite transporter family protein,CLJU_c37490(1),BioCyc
 CLJU_RS21980-MONOMER,YtxH domain-containing protein,CLJU_c06140(),BioCyc
 CLJU_RS11410-MONOMER,FAD-binding oxidoreductase,CLJU_c23190(),BioCyc
 CLJU_RS04680-MONOMER,flagellar biosynthesis anti-sigma factor FlgM,CLJU_c09490(),BioCyc
@@ -3482,10 +3482,10 @@ CLJU_RS16360-MONOMER,aminotransferase class V-fold PLP-dependent enzyme,CLJU_c33
 CLJU_RS11720-MONOMER,putative selenate reductase subunit YgfK,CLJU_c23830(),BioCyc
 CLJU_RS02100-MONOMER,4-hydroxy-tetrahydrodipicolinate synthase,CLJU_c04300(),BioCyc
 CLJU_RS03860-MONOMER,hypothetical protein,CLJU_c07850(),BioCyc
-CLJU_RS15740-MONOMER,nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase,CLJU_c31940(2),BioCyc
+CLJU_RS15740-MONOMER,nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase,CLJU_c31940(),BioCyc
 CLJU_RS16925-MONOMER,PadR family transcriptional regulator,CLJU_c34330(),BioCyc
 CLJU_RS19495-MONOMER,pyridoxal 5'-phosphate synthase glutaminase subunit PdxT,CLJU_c39590(),BioCyc
-CPLX271D-12,pyridoxal 5'-phosphate synthase,CLJU_c39580() AND CLJU_c39590(),BioCyc
+CPLX271D-12,pyridoxal 5'-phosphate synthase,CLJU_c39590() AND CLJU_c39580(),BioCyc
 CLJU_RS08695-MONOMER,LysR family transcriptional regulator,CLJU_c17700(),BioCyc
 CLJU_RS21400-MONOMER,AraC family transcriptional regulator,CLJU_c29330(),BioCyc
 CLJU_RS11100-MONOMER,ABC transporter ATP-binding protein,CLJU_c22560(),BioCyc
@@ -3501,7 +3501,7 @@ CLJU_RS20705-MONOMER,CopG family transcriptional regulator,CLJU_c42040(),BioCyc
 CLJU_RS03905-MONOMER,elongation factor 4,CLJU_c07940(),BioCyc
 CLJU_RS09400-MONOMER,helix-turn-helix domain-containing protein,CLJU_c19190(),BioCyc
 CLJU_RS18465-MONOMER,DUF3786 domain-containing protein,CLJU_c37500(),BioCyc
-CLJU_RS05690-MONOMER,idonate transporter,CLJU_c11600(1),BioCyc
+CLJU_RS05690-MONOMER,idonate transporter,CLJU_c11600(),BioCyc
 CLJU_RS06750-MONOMER,hypothetical protein,CLJU_RS06750(),BioCyc
 CLJU_RS20850-MONOMER,NAD(P)/FAD-dependent oxidoreductase,CLJU_c42330(),BioCyc
 CLJU_RS12290-MONOMER,PadR family transcriptional regulator,CLJU_c24950(),BioCyc
@@ -3523,18 +3523,18 @@ CLJU_RS02555-MONOMER,sugar transferase,CLJU_c05210(),BioCyc
 CLJU_RS14550-MONOMER,class I SAM-dependent methyltransferase,CLJU_c29500(),BioCyc
 CLJU_RS01340-MONOMER,GTP pyrophosphokinase family protein,CLJU_c02740(),BioCyc
 CLJU_RS11105-MONOMER,ABC transporter ATP-binding protein,CLJU_c22570(),BioCyc
-CLJU_RS11965-MONOMER,APC family permease,CLJU_c24320(),BioCyc
+CLJU_RS11965-MONOMER,APC family permease,CLJU_c24320(1),BioCyc
 CLJU_RS18360-MONOMER,dihydroorotase,CLJU_c37290(),BioCyc
 CLJU_RS13405-MONOMER,ABC transporter ATP-binding protein,CLJU_c27190(),BioCyc
 CLJU_RS08485-MONOMER,4Fe-4S binding protein,CLJU_c17280(),BioCyc
 CLJU_RS08680-MONOMER,DUF4386 domain-containing protein,CLJU_c17670(),BioCyc
 CLJU_RS00140-MONOMER,hypothetical protein,CLJU_c00270(),BioCyc
 CLJU_RS05750-MONOMER,histidinol-phosphate transaminase,CLJU_c11720(2),BioCyc
-CLJU_RS13835-MONOMER,ornithine carbamoyltransferase,CLJU_c28010(),BioCyc
+CLJU_RS13835-MONOMER,ornithine carbamoyltransferase,CLJU_c28010(3),BioCyc
 CLJU_RS05490-MONOMER,DNA repair protein RecN,CLJU_c11200(),BioCyc
 CLJU_RS17415-MONOMER,ABC transporter permease,CLJU_c35350(),BioCyc
 CLJU_RS08830-MONOMER,MerR family transcriptional regulator,CLJU_c17970(),BioCyc
-CLJU_RS15755-MONOMER,uroporphyrinogen-III C-methyltransferase,CLJU_c31970(2),BioCyc
+CLJU_RS15755-MONOMER,uroporphyrinogen-III C-methyltransferase,CLJU_c31970(),BioCyc
 CLJU_RS21065-MONOMER,hypothetical protein,CLJU_c42760(),BioCyc
 CLJU_RS03235-MONOMER,EamA family transporter,CLJU_c06580(),BioCyc
 CLJU_RS20345-MONOMER,hypothetical protein,CLJU_c41300(),BioCyc
@@ -3553,19 +3553,19 @@ CLJU_RS06230-MONOMER,ATP-dependent DNA helicase RecG,CLJU_c12700(),BioCyc
 CLJU_RS11725-MONOMER,knotted carbamoyltransferase YgeW,CLJU_c23840(),BioCyc
 CLJU_RS00890-MONOMER,hypothetical protein,CLJU_c01830(),BioCyc
 CLJU_RS18895-MONOMER,proline--tRNA ligase,CLJU_c38360(2),BioCyc
-CLJU_RS04975-MONOMER,dUTP diphosphatase,CLJU_c10140(3),BioCyc
+CLJU_RS04975-MONOMER,dUTP diphosphatase,CLJU_c10140(),BioCyc
 CLJU_RS08330-MONOMER,hypothetical protein,CLJU_c16980(),BioCyc
 CLJU_RS06595-MONOMER,nicotinate phosphoribosyltransferase,CLJU_c13430(),BioCyc
 CLJU_RS16935-MONOMER,transcriptional regulator MntR,CLJU_c34350(),BioCyc
 CLJU_RS06970-MONOMER,MerR family transcriptional regulator,CLJU_c14210(),BioCyc
-CLJU_RS13055-MONOMER,RNA polymerase sigma factor,CLJU_c26490(1),BioCyc
+CLJU_RS13055-MONOMER,RNA polymerase sigma factor,CLJU_c26490(),BioCyc
 CLJU_RS02660-MONOMER,sugar transferase,CLJU_c05410(),BioCyc
 CLJU_RS11110-MONOMER,ABC transporter substrate-binding protein,CLJU_c22580(),BioCyc
 CLJU_RS01345-MONOMER,leucine--tRNA ligase,CLJU_c02750(1),BioCyc
 CLJU_RS05410-MONOMER,stage III sporulation protein SpoAB,CLJU_c11040(),BioCyc
 CLJU_RS07745-MONOMER,response regulator transcription factor,CLJU_c15800(),BioCyc
 CLJU_RS00145-MONOMER,hypothetical protein,CLJU_c00280(),BioCyc
-CLJU_RS10510-MONOMER,molybdenum cofactor guanylyltransferase,CLJU_c21410(1),BioCyc
+CLJU_RS10510-MONOMER,molybdenum cofactor guanylyltransferase,CLJU_c21410(),BioCyc
 CLJU_RS21385-MONOMER,methyl-accepting chemotaxis protein,CLJU_c28020(),BioCyc
 CLJU_RS20030-MONOMER,sigma 54-interacting transcriptional regulator,CLJU_c40670(),BioCyc
 CLJU_RS07885-MONOMER,anthranilate phosphoribosyltransferase,CLJU_c16090(1),BioCyc
@@ -3580,7 +3580,7 @@ CLJU_RS12495-MONOMER,malate dehydrogenase,CLJU_c25360(),BioCyc
 CLJU_RS08100-MONOMER,bifunctional acetaldehyde-CoA/alcohol dehydrogenase,CLJU_c16520(),BioCyc
 CLJU_RS03545-MONOMER,Maf-like protein,CLJU_c07200(),BioCyc
 CLJU_RS01950-MONOMER,exosortase family protein XrtG,CLJU_c03990(),BioCyc
-CLJU_RS16375-MONOMER,lipoate--protein ligase,CLJU_c33220(),BioCyc
+CLJU_RS16375-MONOMER,lipoate--protein ligase,CLJU_c33220(1),BioCyc
 CLJU_RS18900-MONOMER,protein phosphatase,CLJU_c38370(),BioCyc
 CLJU_RS04220-MONOMER,phosphoribosylformylglycinamidine cyclo-ligase,CLJU_c08570(2),BioCyc
 CLJU_RS05090-MONOMER,flagellar biosynthesis protein FlhA,CLJU_c10370(),BioCyc
@@ -3591,12 +3591,12 @@ CLJU_RS13565-MONOMER,DUF3788 domain-containing protein,CLJU_c27480(),BioCyc
 CLJU_RS02265-MONOMER,GntR family transcriptional regulator,CLJU_c04630(),BioCyc
 CLJU_RS08645-MONOMER,flavodoxin,CLJU_c17600(),BioCyc
 CLJU_RS15765-MONOMER,NAD(P)-dependent oxidoreductase,CLJU_c31990(),BioCyc
-CLJU_RS16940-MONOMER,alpha-hydroxy-acid oxidizing protein,CLJU_c34360(1),BioCyc
+CLJU_RS16940-MONOMER,alpha-hydroxy-acid oxidizing protein,CLJU_c34360(),BioCyc
 CLJU_RS12440-MONOMER,class I SAM-dependent methyltransferase,CLJU_c25250(),BioCyc
 CLJU_RS22670-MONOMER,hypothetical protein,CLJU_c35990(),BioCyc
 CLJU_RS08010-MONOMER,MFS transporter,CLJU_c16340(),BioCyc
 CLJU_RS14320-MONOMER,HNH endonuclease,CLJU_c29030(),BioCyc
-CLJU_RS10515-MONOMER,formimidoylglutamase,CLJU_c21420(),BioCyc
+CLJU_RS10515-MONOMER,formimidoylglutamase,CLJU_c21420(2),BioCyc
 CLJU_RS02560-MONOMER,glycosyltransferase family 4 protein,CLJU_c05220(),BioCyc
 CLJU_RS11115-MONOMER,ABC transporter permease subunit,CLJU_c22590(),BioCyc
 CLJU_RS14060-MONOMER,accessory gene regulator B family protein,CLJU_c28480(),BioCyc
@@ -3653,7 +3653,7 @@ CLJU_RS03020-MONOMER,helix-turn-helix transcriptional regulator,CLJU_c06150(),Bi
 CLJU_RS19065-MONOMER,M56 family metallopeptidase,CLJU_c38710(),BioCyc
 CLJU_RS20105-MONOMER,translation initiation factor IF-1,CLJU_c40820(1),BioCyc
 CLJU_RS07570-MONOMER,MarR family transcriptional regulator,CLJU_c15450(),BioCyc
-CLJU_RS09420-MONOMER,cytosine deaminase,CLJU_c19230(1),BioCyc
+CLJU_RS09420-MONOMER,cytosine deaminase,CLJU_c19230(),BioCyc
 CLJU_RS01365-MONOMER,hypothetical protein,CLJU_c02790(),BioCyc
 CLJU_RS18485-MONOMER,glycine cleavage system protein GcvH,CLJU_c37540(),BioCyc
 CLJU_RS03400-MONOMER,NAD(+) synthase,CLJU_c06920(),BioCyc
@@ -3704,7 +3704,7 @@ CLJU_RS17155-MONOMER,metallo-dependent hydrolase,CLJU_c34790(),BioCyc
 CLJU_RS01965-MONOMER,6-pyruvoyl tetrahydrobiopterin synthase,CLJU_c04020(),BioCyc
 CLJU_RS16390-MONOMER,"L-serine ammonia-lyase, iron-sulfur-dependent, subunit alpha",CLJU_c33250(2),BioCyc
 CLJU_RS04905-MONOMER,SDR family NAD(P)-dependent oxidoreductase,CLJU_c10000(),BioCyc
-CLJU_RS11735-MONOMER,diaminopropionate ammonia-lyase,CLJU_c23860(2),BioCyc
+CLJU_RS11735-MONOMER,diaminopropionate ammonia-lyase,CLJU_c23860(),BioCyc
 CLJU_RS14690-MONOMER,superoxide dismutase family protein,CLJU_c29780(1),BioCyc
 CLJU_RS09100-MONOMER,siphovirus Gp157 family protein,CLJU_c18550(),BioCyc
 CLJU_RS05890-MONOMER,replication-associated recombination protein A,CLJU_c12000(),BioCyc
@@ -3737,7 +3737,7 @@ CLJU_RS01975-MONOMER,ammonium transporter,CLJU_c04040(3),BioCyc
 CLJU_RS16395-MONOMER,"L-serine ammonia-lyase, iron-sulfur-dependent, subunit beta",CLJU_c33260(),BioCyc
 CLJU_RS04140-MONOMER,hypothetical protein,CLJU_c08420(),BioCyc
 CLJU_RS21765-MONOMER,hypothetical protein,CLJU_c29800(),BioCyc
-CLJU_RS19850-MONOMER,polyprenyl synthetase family protein,CLJU_c40310(2),BioCyc
+CLJU_RS19850-MONOMER,polyprenyl synthetase family protein,CLJU_c40310(),BioCyc
 CLJU_RS18910-MONOMER,MFS transporter,CLJU_c38390(),BioCyc
 CLJU_RS21695-MONOMER,hypothetical protein,CLJU_RS21695(),BioCyc
 CLJU_RS02275-MONOMER,pyridoxal phosphate-dependent aminotransferase,CLJU_c04650(),BioCyc
@@ -3796,7 +3796,7 @@ CLJU_RS14715-MONOMER,SDR family oxidoreductase,CLJU_c29830(),BioCyc
 CLJU_RS13865-MONOMER,hypothetical protein,CLJU_RS13865(),BioCyc
 CLJU_RS19075-MONOMER,IS982 family transposase,CLJU_c38730(),BioCyc
 CLJU_RS12640-MONOMER,LysR family transcriptional regulator,CLJU_c25660(),BioCyc
-CLJU_RS05315-MONOMER,class I SAM-dependent methyltransferase,CLJU_c10840(1),BioCyc
+CLJU_RS05315-MONOMER,class I SAM-dependent methyltransferase,CLJU_c10840(),BioCyc
 CLJU_RS05395-MONOMER,elongation factor P,CLJU_c11010(),BioCyc
 CLJU_RS20710-MONOMER,hypothetical protein,CLJU_c42050(),BioCyc
 CLJU_RS05465-MONOMER,polyprenyl synthetase family protein,CLJU_c11150(1),BioCyc
@@ -3814,9 +3814,9 @@ CLJU_RS18920-MONOMER,four-carbon acid sugar kinase family protein,CLJU_c38410(),
 CLJU_RS14245-MONOMER,response regulator transcription factor,CLJU_c28870(),BioCyc
 CLJU_RS02280-MONOMER,LysM peptidoglycan-binding domain-containing protein,CLJU_c04660(),BioCyc
 CLJU_RS16970-MONOMER,phenylalanine--tRNA ligase subunit alpha,CLJU_c34420(),BioCyc
-CLJU_RS13930-MONOMER,aldo/keto reductase,CLJU_c28210(1),BioCyc
+CLJU_RS13930-MONOMER,aldo/keto reductase,CLJU_c28210(),BioCyc
 CLJU_RS17720-MONOMER,aminodeoxychorismate/anthranilate synthase component II,CLJU_c36020(),BioCyc
-CLJU_RS19990-MONOMER,Fe-S-containing hydro-lyase,CLJU_c40590(2),BioCyc
+CLJU_RS19990-MONOMER,Fe-S-containing hydro-lyase,CLJU_c40590(),BioCyc
 CLJU_RS10545-MONOMER,urocanate hydratase,CLJU_c21480(),BioCyc
 CLJU_RS02575-MONOMER,glycosyltransferase family 2 protein,CLJU_c05250(),BioCyc
 CLJU_RS18760-MONOMER,ABC transporter permease subunit,CLJU_c38090(),BioCyc
@@ -3835,7 +3835,7 @@ CLJU_RS12965-MONOMER,nucleotide pyrophosphatase,CLJU_c26310(),BioCyc
 CLJU_RS11145-MONOMER,ABC transporter permease,CLJU_c22650(),BioCyc
 CLJU_RS21215-MONOMER,methyl-accepting chemotaxis protein,CLJU_c08960(),BioCyc
 CLJU_RS02410-MONOMER,P-II family nitrogen regulator,CLJU_c04920(),BioCyc
-CLJU_RS11435-MONOMER,ClC family H(+)/Cl(-) exchange transporter,CLJU_c23240(1),BioCyc
+CLJU_RS11435-MONOMER,ClC family H(+)/Cl(-) exchange transporter,CLJU_c23240(),BioCyc
 CLJU_RS09440-MONOMER,OsmC family protein,CLJU_c19270(),BioCyc
 CLJU_RS18510-MONOMER,AAA family ATPase,CLJU_c37590(),BioCyc
 CLJU_RS04705-MONOMER,carbon storage regulator CsrA,CLJU_c09540(),BioCyc
@@ -3862,8 +3862,8 @@ CLJU_RS00190-MONOMER,hypothetical protein,CLJU_c00370(),BioCyc
 CLJU_RS07180-MONOMER,serine dehydratase subunit alpha family protein,CLJU_c14640(),BioCyc
 CLJU_RS14730-MONOMER,protease complex subunit PrcB family protein,CLJU_c29860(),BioCyc
 CLJU_RS05840-MONOMER,ethanolamine utilization protein,CLJU_c11900(),BioCyc
-CLJU_RS20035-MONOMER,gamma-glutamyl-gamma-aminobutyrate hydrolase family protein,CLJU_c40680(2),BioCyc
-CLJU_RS13875-MONOMER,2-hydroxy-3-oxopropionate reductase,CLJU_c28090(1),BioCyc
+CLJU_RS20035-MONOMER,gamma-glutamyl-gamma-aminobutyrate hydrolase family protein,CLJU_c40680(),BioCyc
+CLJU_RS13875-MONOMER,2-hydroxy-3-oxopropionate reductase,CLJU_c28090(),BioCyc
 CLJU_RS04015-MONOMER,TetR/AcrR family transcriptional regulator,CLJU_c08150(),BioCyc
 CLJU_RS19080-MONOMER,methyl-accepting chemotaxis protein,CLJU_c38740(),BioCyc
 CLJU_RS12685-MONOMER,response regulator transcription factor,CLJU_c25750(),BioCyc
@@ -3873,7 +3873,7 @@ CLJU_RS18620-MONOMER,YeiH family putative sulfate export transporter,CLJU_c37810
 CLJU_RS06775-MONOMER,ABC transporter permease subunit,CLJU_c13800(),BioCyc
 CLJU_RS01395-MONOMER,nickel pincer cofactor biosynthesis protein LarB,CLJU_c02850(),BioCyc
 CLJU_RS09445-MONOMER,D-2-hydroxyacid dehydrogenase,CLJU_c19280(),BioCyc
-CLJU_RS15825-MONOMER,D-alanine--D-alanine ligase,CLJU_c32110(2),BioCyc
+CLJU_RS15825-MONOMER,D-alanine--D-alanine ligase,CLJU_c32110(1),BioCyc
 CLJU_RS06920-MONOMER,methyl-accepting chemotaxis protein,CLJU_c14110(),BioCyc
 CLJU_RS16415-MONOMER,LysR family transcriptional regulator,CLJU_c33300(),BioCyc
 CLJU_RS14735-MONOMER,DUF4367 domain-containing protein,CLJU_c29870(),BioCyc
@@ -4010,7 +4010,7 @@ CLJU_RS05600-MONOMER,Gx transporter family protein,CLJU_c11420(),BioCyc
 CLJU_RS01100-MONOMER,peptide chain release factor N(5)-glutamine methyltransferase,CLJU_c02250(),BioCyc
 CLJU_RS16435-MONOMER,hypothetical protein,CLJU_c33340(),BioCyc
 CLJU_RS06940-MONOMER,Crp/Fnr family transcriptional regulator,CLJU_c14150(),BioCyc
-CLJU_RS14775-MONOMER,YgeY family selenium metabolism-linked hydrolase,CLJU_c29950(),BioCyc
+CLJU_RS14775-MONOMER,YgeY family selenium metabolism-linked hydrolase,CLJU_c29950(2),BioCyc
 CLJU_RS03110-MONOMER,DMT family transporter,CLJU_c06330(),BioCyc
 CLJU_RS19860-MONOMER,4Fe-4S binding protein,CLJU_c40330(),BioCyc
 CLJU_RS18935-MONOMER,2-hydroxycarboxylate transporter family protein,CLJU_c38450(),BioCyc
@@ -4066,7 +4066,7 @@ CLJU_RS07865-MONOMER,flavodoxin family protein,CLJU_c16050(),BioCyc
 CLJU_RS19615-MONOMER,choline TMA-lyase-activating enzyme,CLJU_c39820(),BioCyc
 CLJU_RS08690-MONOMER,2-dehydropantoate 2-reductase,CLJU_c17690(1),BioCyc
 CLJU_RS14790-MONOMER,ABC transporter permease,CLJU_c29980(),BioCyc
-CLJU_RS12460-MONOMER,citrate lyase holo-[acyl-carrier protein] synthase,CLJU_c25290(1),BioCyc
+CLJU_RS12460-MONOMER,citrate lyase holo-[acyl-carrier protein] synthase,CLJU_c25290(),BioCyc
 CLJU_RS19095-MONOMER,tRNA-dihydrouridine synthase family protein,CLJU_c38790(),BioCyc
 CLJU_RS14330-MONOMER,fructose-bisphosphatase class III,CLJU_c29050(),BioCyc
 CLJU_RS20715-MONOMER,DMT family transporter,CLJU_c42060(),BioCyc
@@ -4118,7 +4118,7 @@ CLJU_RS04725-MONOMER,flagellar filament capping protein FliD,CLJU_c09580(),BioCy
 CLJU_RS02680-MONOMER,hypothetical protein,CLJU_c05450(),BioCyc
 CLJU_RS20575-MONOMER,response regulator transcription factor,CLJU_c41760(),BioCyc
 CLJU_RS16450-MONOMER,hypothetical protein,CLJU_c33370(),BioCyc
-CPLX271D-2,"L-serine ammonia-lyase, iron-sulfur-dependent",CLJU_c33250() AND CLJU_c33260(),BioCyc
+CPLX271D-2,"L-serine ammonia-lyase, iron-sulfur-dependent",CLJU_c33260() AND CLJU_c33250(),BioCyc
 CLJU_RS04235-MONOMER,phosphoribosylamine--glycine ligase,CLJU_c08600(1),BioCyc
 CLJU_RS14805-MONOMER,hypothetical protein,CLJU_c30010(),BioCyc
 CLJU_RS19375-MONOMER,thioesterase,CLJU_c39350(),BioCyc
@@ -4145,7 +4145,7 @@ CLJU_RS09485-MONOMER,hypothetical protein,CLJU_c19360(),BioCyc
 CLJU_RS01435-MONOMER,CBS domain-containing protein,CLJU_c02930(),BioCyc
 CLJU_RS18555-MONOMER,universal stress protein,CLJU_c37680(),BioCyc
 CLJU_RS12505-MONOMER,ABC transporter substrate-binding protein,CLJU_c25380(),BioCyc
-CLJU_RS15865-MONOMER,lactate dehydrogenase,CLJU_c32190(1),BioCyc
+CLJU_RS15865-MONOMER,lactate dehydrogenase,CLJU_c32190(),BioCyc
 CLJU_RS21760-MONOMER,CLJU_RS21760-MONOMER,CLJU_RS21760(),Sync
 CLJU_RS11615-MONOMER,CLJU_RS11615-MONOMER,CLJU_c23620(),Sync
 CLJU_RS15125-MONOMER,CLJU_RS15125-MONOMER,CLJU_c30670(),Sync
@@ -4306,7 +4306,7 @@ CLJU_c09990-MONOMER,ATP-grasp domain-containing protein,CLJU_c09990(),GenBank
 CLJU_RS22865-MONOMER,Protein of unknown function DUF3793,CLJU_RS22865(),GenBank
 CLJU_c14010-MONOMER,DUF3793 family protein,CLJU_c14010(),GenBank
 CLJU_c14760-MONOMER,hypothetical protein,CLJU_c14760(),GenBank
-CLJU_c14770-MONOMER,hypothetical protein,CLJU_c14770(10),GenBank
+CLJU_c14770-MONOMER,hypothetical protein,CLJU_c14770(),GenBank
 CLJU_RS22885-MONOMER,LysR family transcriptional regulator,CLJU_RS22885(),GenBank
 CLJU_RS22890-MONOMER,mucin 17-like protein,CLJU_RS22890(),GenBank
 CLJU_RS22895-MONOMER,DNRLRE domain-containing protein,CLJU_RS22895(),GenBank
@@ -4349,14 +4349,14 @@ CLJU_c40150-MONOMER,hypothetical protein,CLJU_c40150(),GenBank
 CLJU_RS23105-MONOMER,recombinase family protein,CLJU_RS23105(),GenBank
 CLJU_c42100-MONOMER,acetyl-CoA carboxylase carboxyltransferase subunit alpha,CLJU_c42100(),GenBank
 CLJU_c42110-MONOMER,"acetyl-CoA carboxylase, carboxyltransferase subunit beta",CLJU_c42110(),GenBank
-CPLX_ACCOAC-0,acetyl-CoA carboxylase,CLJU_c42140(2) AND CLJU_c42110(2) AND CLJU_c42100(2) AND CLJU_c42120(2),CL_Auto(ACCOAC)
+CPLX_ACCOAC-0,acetyl-CoA carboxylase,CLJU_c42100() AND CLJU_c42110() AND CLJU_c42120() AND CLJU_c42140(),CL_Auto(ACCOAC)
 CPLX_ACHBS-0,2-aceto-2-hydroxybutanoate synthase,CLJU_c20430(2) AND CLJU_c23420(2),CL_Auto(ACHBS)
 CPLX_ACHBS-1,2-aceto-2-hydroxybutanoate synthase,CLJU_c38920() AND CLJU_c20430(),CL_Auto(ACHBS)
 CPLX_ACOAD1z-0,"acyl-CoA dehydrogenase (butanoyl-CoA), ferredoxin coupled",CLJU_c39420() AND CLJU_c39400() AND CLJU_c39410(),CL_Auto(ACOAD1z)
 CPLX_ACOATA-0,Acetyl-CoA ACP transacylase,CLJU_c12820() AND CLJU_c42190(),CL_Auto(ACOATA)
 CPLX_ANS-0,anthranilate synthase,CLJU_c16070() AND CLJU_c16080(),CL_Auto(ANS)
 CPLX_ARGt2r-0,L-arganine reversible transport via proton symport,CLJU_c04750() AND CLJU_c04760(),CL_Auto(ARGt2r)
-CPLX_ASPCT-0,aspartate carbamoyltransferase,CLJU_c35730(6) AND CLJU_c35720(6),CL_Auto(ASPCT)
+CPLX_ASPCT-0,aspartate carbamoyltransferase,CLJU_c35730() AND CLJU_c35720(),CL_Auto(ASPCT)
 CPLX_ATPS4r-0,ATP synthase (four protons for one ATP),CLJU_c02370() AND CLJU_c02380() AND CLJU_c02390() AND CLJU_c02400() AND CLJU_c02410() AND CLJU_c02420() AND CLJU_c02430() AND CLJU_c02440() AND CLJU_c02360(),CL_Auto(ATPS4r)
 CPLX_CITL-0,Citrate lyase,CLJU_c25340() AND CLJU_c30480() AND CLJU_c25320(),CL_Auto(CITL)
 CPLX_CITL-1,Citrate lyase,CLJU_c25340() AND CLJU_c30480() AND CLJU_c40560(),CL_Auto(CITL)
@@ -4378,7 +4378,7 @@ CPLX_CITL-16,Citrate lyase,CLJU_c40580() AND CLJU_c40570() AND CLJU_c40560(),CL_
 CPLX_CITL-17,Citrate lyase,CLJU_c40580() AND CLJU_c40570() AND CLJU_c30470(),CL_Auto(CITL)
 CPLX_CITL-18,Citrate lyase,CLJU_c30490() AND CLJU_c30480() AND CLJU_c25320(),CL_Auto(CITL)
 CPLX_CITL-19,Citrate lyase,CLJU_c30490() AND CLJU_c30480() AND CLJU_c40560(),CL_Auto(CITL)
-CPLX_CITL-20,Citrate lyase,CLJU_c30480(6) AND CLJU_c30490(6) AND CLJU_c30470(6),CL_Auto(CITL)
+CPLX_CITL-20,Citrate lyase,CLJU_c30490() AND CLJU_c30480() AND CLJU_c30470(),CL_Auto(CITL)
 CPLX_CITL-21,Citrate lyase,CLJU_c30490() AND CLJU_c25330() AND CLJU_c25320(),CL_Auto(CITL)
 CPLX_CITL-22,Citrate lyase,CLJU_c30490() AND CLJU_c25330() AND CLJU_c40560(),CL_Auto(CITL)
 CPLX_CITL-23,Citrate lyase,CLJU_c30490() AND CLJU_c25330() AND CLJU_c30470(),CL_Auto(CITL)
@@ -4388,7 +4388,7 @@ CPLX_CITL-26,Citrate lyase,CLJU_c30490() AND CLJU_c40570() AND CLJU_c30470(),CL_
 CPLX_CODH4-0,carbon monoxide dehydrogenase / acetyl-CoA synthase 2,CLJU_c09090() AND CLJU_c09100() AND CLJU_c09110(),CL_Auto(CODH4)
 CPLX_CODH_ACS-0,CODH/Acetyl-CoA synthase (Wood-Ljundahl),CLJU_c37500() AND CLJU_c37530() AND CLJU_c37550() AND CLJU_c37570() AND CLJU_c37580() AND CLJU_c37590() AND CLJU_c37660() AND CLJU_c37670(),CL_Auto(CODH_ACS)
 CPLX_CPC5MT-0,precorrin-5 C1-methyltransferase,CLJU_c31920() AND CLJU_c31870(),CL_Auto(CPC5MT)
-CPLX_DHORD5-0,dihydroorotic acid (menaquinone-8),CLJU_c35690() AND CLJU_c35700(),CL_Auto(DHORD5)
+CPLX_DHORD5-0,dihydroorotic acid (menaquinone-8),CLJU_c35700() AND CLJU_c35690(),CL_Auto(DHORD5)
 CPLX_FE2abc-0,iron (II) transport via ABC system,CLJU_c21650() AND CLJU_c21660(),CL_Auto(FE2abc)
 CPLX_FE2abc-1,iron (II) transport via ABC system,CLJU_c13960() AND CLJU_c13980(),CL_Auto(FE2abc)
 CPLX_FRD2-0,fumarate reductase,CLJU_c22800() AND CLJU_c22820(),CL_Auto(FRD2)
@@ -4426,11 +4426,11 @@ CPLX_NIT1b-6,nitrogenase,CLJU_c04930() AND CLJU_c23530() AND CLJU_c04940(),CL_Au
 CPLX_NIT1b-7,nitrogenase,CLJU_c04930() AND CLJU_c23530() AND CLJU_c23510(),CL_Auto(NIT1b)
 CPLX_NTRARf-0,nitrate reductase (ferredoxin),CLJU_c23730() AND CLJU_c23720() AND CLJU_c23710(),CL_Auto(NTRARf)
 CPLX_NTRIR5-0,nitrite Reductase (hydroxylamine forming),CLJU_c23750() AND CLJU_c23760() AND CLJU_c23770(),CL_Auto(NTRIR5)
-CPLX_OBTFL-0,2-Oxobutanoate formate lyase,CLJU_c11830(2) AND CLJU_c11840(1),CL_Auto(OBTFL)
+CPLX_OBTFL-0,2-Oxobutanoate formate lyase,CLJU_c11830() AND CLJU_c11840(),CL_Auto(OBTFL)
 CPLX_OBTFL-1,2-Oxobutanoate formate lyase,CLJU_c25970() AND CLJU_c25980(),CL_Auto(OBTFL)
 CPLX_OBTFL-2,2-Oxobutanoate formate lyase,CLJU_c39820() AND CLJU_c39830(),CL_Auto(OBTFL)
-CPLX_PTRCabc-0,putrescine transport via ABC system,CLJU_c21740(1) AND CLJU_c21750(1) AND CLJU_c21760(2) AND CLJU_c21730(1),CL_Auto(PTRCabc)
-CPLX_RIBabc-0,D-ribose transport via ABC system,CLJU_c01270() AND CLJU_c01260() AND CLJU_c01280(),CL_Auto(RIBabc)
+CPLX_PTRCabc-0,putrescine transport via ABC system,CLJU_c21760() AND CLJU_c21750() AND CLJU_c21740() AND CLJU_c21730(),CL_Auto(PTRCabc)
+CPLX_RIBabc-0,D-ribose transport via ABC system,CLJU_c01260() AND CLJU_c01280() AND CLJU_c01270(),CL_Auto(RIBabc)
 CPLX_RNF-0,Ferredoxin:NAD oxidoreductase ( 2 protons traslocation),CLJU_c11400() AND CLJU_c11410() AND CLJU_c11360() AND CLJU_c11370() AND CLJU_c11390() AND CLJU_c11380(),CL_Auto(RNF)
 CPLX_TAURabc-0,taurine transport via ABC system,CLJU_c26510() AND CLJU_c26520() AND CLJU_c26530(),CL_Auto(TAURabc)
 CPLX_TKT1-0,transketolase,CLJU_c03050() AND CLJU_c03060(),CL_Auto(TKT1)

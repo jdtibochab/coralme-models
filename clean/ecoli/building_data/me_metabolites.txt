@@ -134,15 +134,15 @@ iscs_c	G7325-MONOMER_mod_pydx5p(2)				REPLACE
 iscu_c	G7324-MONOMER				REPLACE
 trdrd_c	OX-THIOREDOXIN-MONOMER				REPLACE
 trdox_c	OX-THIOREDOXIN-MONOMER_mod_Oxidized(1)				REPLACE
-LI_c					CURATE
 sufbcd__2fe2s_c					CURATE
 sufbcd__2fe2s2_c					CURATE
 sufbcd__4fe4s_c					CURATE
-sufsesh_c					CURATE
-dsbaox_p					CURATE
-3hcpalm9eACP_c					CURATE
-3ocpalm9eACP_c					CURATE
-iscssh_c					CURATE
 iscu__2fe2s_c					CURATE
 iscu__2fe2s2_c					CURATE
 iscu__4fe4s_c					CURATE
+3hcpalm9eACP_c					CURATE
+3ocpalm9eACP_c					CURATE
+LI_c					CURATE
+dsbaox_p					CURATE
+iscssh_c					CURATE
+sufsesh_c					CURATE

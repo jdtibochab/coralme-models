@@ -1,4 +1,4 @@
 type	enzymes
-monocistronic	generic_RNase
-polycistronic_wout_rRNA	generic_RNase,LLMG_RS08810-MONOMER
-rRNA_containing	generic_RNase,LLMG_RS08810-MONOMER_mod_mg2(2)
+monocistronic	LLMG_RS00770-MONOMER,LLMG_RS03145-MONOMER,generic_RNase
+polycistronic_wout_rRNA	LLMG_RS00770-MONOMER,LLMG_RS03145-MONOMER,generic_RNase
+rRNA_containing	LLMG_RS01580-MONOMER,LLMG_RS08810-MONOMER,LLMG_RS09425-MONOMER

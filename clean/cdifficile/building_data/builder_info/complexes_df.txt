@@ -17,7 +17,7 @@ G12WB-3038-MONOMER,"putative iron(III)-hydroxamate ABC transporter, substrate-bi
 G12WB-1647-MONOMER,spore outer coat layer protein CotB,CD630_15110(),BioCyc
 G12WB-3549-MONOMER,magnesium-transporting ATPase protein C,CD630_33750(),BioCyc
 G12WB-2010-MONOMER,HTH-type transcriptional regulator,CD630_18640(),BioCyc
-G12WB-892-MONOMER,peptidoglycan glycosyltransferase / peptidoglycan DD-transpeptidase,CD630_07810(),BioCyc
+G12WB-892-MONOMER,peptidoglycan glycosyltransferase / peptidoglycan DD-transpeptidase,CD630_07810(2),BioCyc
 G12WB-2351-MONOMER,ferredoxin/flavodoxin oxidoreductase subunit gamma,CD630_21970(),BioCyc
 G12WB-1065-MONOMER,hypothetical protein,CD630_09520(),BioCyc
 G12WB-398-MONOMER,hypothetical protein,CD630_02921(),BioCyc
@@ -25,7 +25,7 @@ G12WB-715-MONOMER,hypothetical protein,CD630_06040(),BioCyc
 G12WB-2689-MONOMER,"ABC transporter, ATP-binding protein",CD630_25340(),BioCyc
 G12WB-3023-MONOMER,sigma-54 dependent transcriptional regulator,CD630_28630(),BioCyc
 G12WB-3358-MONOMER,cell wall protein 21,CD630_31920(),BioCyc
-G12WB-1632-MONOMER,pyrroline-5-carboxylate reductase,CD630_14950(10),BioCyc
+G12WB-1632-MONOMER,pyrroline-5-carboxylate reductase,CD630_14950(),BioCyc
 G12WB-3534-MONOMER,diguanylate kinase signaling protein,CD630_33650(),BioCyc
 G12WB-1995-MONOMER,single-strand DNA-binding protein,CD630_18510(),BioCyc
 G12WB-2337-MONOMER,DEAD/DEAH box helicase,CD630_21800(),BioCyc
@@ -38,7 +38,7 @@ G12WB-3343-MONOMER,xanthine dehydrogenase,CD630_31770(),BioCyc
 G12WB-1618-MONOMER,tryptophan RNA-binding attenuation protein,CD630_14810(),BioCyc
 G12WB-352-MONOMER,flagellar motor switch protein FliG,CD630_02490(),BioCyc
 G12WB-1979-MONOMER,3-phosphoshikimate 1-carboxyvinyltransferase,CD630_18340(1),BioCyc
-G12WB-2322-MONOMER,L-lactate dehydrogenase,CD630_21640(2),BioCyc
+G12WB-2322-MONOMER,L-lactate dehydrogenase,CD630_21640(),BioCyc
 G12WB-1036-MONOMER,hypothetical protein,CD630_09260(),BioCyc
 G12WB-3863-MONOMER,stage 0 sporulation protein J,CD630_36710(),BioCyc
 G12WB-684-MONOMER,membrane protein,CD630_05730(),BioCyc
@@ -63,7 +63,7 @@ G12WB-2073-MONOMER,LexA transcriptional regulator,CD630_19310(),BioCyc
 G12WB-1007-MONOMER,DNA polymerase IV,CD630_08990(),BioCyc
 G12WB-2807-MONOMER,peptidoglycan DD-transpeptidase,CD630_26560(1),BioCyc
 G12WB-3830-MONOMER,dihydroorotase,CD630_36430(),BioCyc
-G12WB-1278-MONOMER,peptidoglycan DD-transpeptidase,CD630_11480(1),BioCyc
+G12WB-1278-MONOMER,peptidoglycan DD-transpeptidase,CD630_11480(),BioCyc
 G12WB-652-MONOMER,chemotaxis protein CheW,CD630_05400(),BioCyc
 G12WB-1360-MONOMER,peptidoglycan DD-transpeptidase,CD630_12290(),BioCyc
 G12WB-263-MONOMER,two-component response regulator,CD630_01600(),BioCyc
@@ -93,7 +93,7 @@ G12WB-1317-MONOMER,sigma-54 dependent transcriptional regulator,CD630_11860(),Bi
 G12WB-2937-MONOMER,glycosyl transferase family protein,CD630_27780(),BioCyc
 G12WB-963-MONOMER,"putative oligopeptide ABC transporter, membrane subunit",CD630_08530(),BioCyc
 G12WB-3270-MONOMER,membrane protein,CD630_31080(),BioCyc
-G12WB-1546-MONOMER,D-alanine--D-alanine ligase,CD630_14080(2),BioCyc
+G12WB-1546-MONOMER,D-alanine--D-alanine ligase,CD630_14080(),BioCyc
 G12WB-3447-MONOMER,PTS operon transcription antiterminator,CD630_32800(),BioCyc
 G12WB-1901-MONOMER,HTH-type transcriptional regulator,CD630_17551(),BioCyc
 G12WB-225-MONOMER,thiosulfate sulfurtransferase,CD630_01210(),BioCyc
@@ -139,7 +139,7 @@ CPLX12WB-88,putative ribose ABC transporter,CD630_03020() AND CD630_03010() AND 
 G12WB-2206-MONOMER,hypothetical protein,CD630_20550(),BioCyc
 CPLX12WB-73,D-proline reductase complex,CD630_32410() AND CD630_32440(),BioCyc
 G12WB-3743-MONOMER,peptidase,CD630_35570(),BioCyc
-CPLX12WB-57,phosphate ABC transporter,CD630_32610(2) AND CD630_32680(1) AND CD630_32620(1) AND CD630_32630(1),BioCyc
+CPLX12WB-57,phosphate ABC transporter,CD630_32630() AND CD630_32620() AND CD630_32610() AND CD630_32680(),BioCyc
 G12WB-556-MONOMER,D-ornithine aminomutase S component,CD630_04450(),BioCyc
 CPLX12WB-41,K<sup>+</sup>-transporting P-type ATPase,CD630_15910() AND CD630_15920() AND CD630_15930(),BioCyc
 G12WB-2541-MONOMER,beta-lactams repressor,CD630_23900(),BioCyc
@@ -152,9 +152,9 @@ G12WB-905-MONOMER,NH3-dependent NAD(+) synthetase,CD630_07940(2),BioCyc
 CPLX12WB-7,glycine--tRNA ligase,CD630_24320(2) AND CD630_24330(2),BioCyc
 G12WB-3212-MONOMER,membrane protein,CD630_30500(),BioCyc
 CPLX12WB-53,putative xyloside-specific PTS enzyme II,CD630_30700() AND CD630_30690() AND CD630_30680() AND CD630_30670(),BioCyc
-G12WB-1488-MONOMER,phosphomethylpyrimidine kinase,CD630_13530(4),BioCyc
+G12WB-1488-MONOMER,phosphomethylpyrimidine kinase,CD630_13530(),BioCyc
 CPLX12WB-39,xanthine dehydrogenase,CD630_20990() AND CD630_21000() AND CD630_21010(),BioCyc
-G12WB-3389-MONOMER,L-serine dehydratase,CD630_32220(1),BioCyc
+G12WB-3389-MONOMER,L-serine dehydratase,CD630_32220(2),BioCyc
 CPLX12WB-24,3-isopropylmalate dehydratase,CD630_09910(1) AND CD630_09900(1),BioCyc
 G12WB-1838-MONOMER,"putative transporter, alanine:cation symporter family",CD630_16960(1),BioCyc
 CPLX12WB-105,putative cobalamin ABC transporter,CD630_29990() AND CD630_29980() AND CD630_29970(),BioCyc
@@ -164,12 +164,12 @@ G12WB-3726-MONOMER,hypothetical protein,CD630_35450(),BioCyc
 CPLX12WB-82,putative maltose-specific PTS enzyme II,CD630_08630() AND CD630_08620() AND CD630_08610(),BioCyc
 G12WB-540-MONOMER,"multidrug family ABC transporter, membrane protein",CD630_04320(),BioCyc
 CPLX12WB-67,,CD630_16310(2),BioCyc
-G12WB-2527-MONOMER,NUDIX family hydrolase,CD630_23770(1),BioCyc
+G12WB-2527-MONOMER,NUDIX family hydrolase,CD630_23770(),BioCyc
 CPLX12WB-50,glucose-glucoside family PTS enzyme II,CD630_30300() AND CD630_30270(),BioCyc
 G12WB-1242-MONOMER,conjugative transfer protein,CD630_11150(),BioCyc
 CPLX12WB-36,imidazole glycerol phosphate synthase,CD630_15530(1) AND CD630_15510(1),BioCyc
-G12WB-2861-MONOMER,shikimate 5-dehydrogenase,CD630_27080(2),BioCyc
-CPLX12WB-21,ethanolamine ammonia lyase,CD630_19130(6) AND CD630_19140(6),BioCyc
+G12WB-2861-MONOMER,shikimate 5-dehydrogenase,CD630_27080(),BioCyc
+CPLX12WB-21,ethanolamine ammonia lyase,CD630_19130() AND CD630_19140(),BioCyc
 G12WB-890-MONOMER,amidohydrolase,CD630_07790(),BioCyc
 CPLX12WB-102,molybdate family ABC transporter,CD630_23130() AND CD630_23120() AND CD630_23110(),BioCyc
 G12WB-3198-MONOMER,"putative transporter, major facilitator superfamily",CD630_30360(),BioCyc
@@ -243,7 +243,7 @@ CPLX12WB-65,putative oligopeptide ABC transporter,CD630_26700() AND CD630_26710(
 G12WB-3668-MONOMER,transcription termination factor Rho,CD630_34870(6),BioCyc
 CPLX12WB-49,putative mannose-specific PTS enzyme II,CD630_30150() AND CD630_30140() AND CD630_30130(),BioCyc
 G12WB-2469-MONOMER,two-component sensor histidine kinase,CD630_23170(),BioCyc
-CPLX12WB-34,carbamoyl-phosphate synthase,CD630_35880() AND CD630_35890(),BioCyc
+CPLX12WB-34,carbamoyl-phosphate synthase,CD630_35890(2) AND CD630_35880(2),BioCyc
 G12WB-1184-MONOMER,hypothetical protein,CD630_10631(),BioCyc
 CPLX12WB-2,putative mannitol-specific PTS enzyme II,CD630_23320() AND CD630_23340(),BioCyc
 G12WB-2802-MONOMER,UDP-N-acetylglucosamine-N-acetylmuramyl- (pentapeptide) pyrophosphoryl-undecaprenol N- acetylglucosamine transferase,CD630_26510(1),BioCyc
@@ -261,7 +261,7 @@ CPLX12WB-31,transketolase,CD630_23210() AND CD630_23220(),BioCyc
 G12WB-2119-MONOMER,DNA mismatch repair protein MutS,CD630_19770(),BioCyc
 CPLX12WB-17,indolepyruvate oxidoreductase,CD630_23800() AND CD630_23810(),BioCyc
 G12WB-3653-MONOMER,"F<sub>o</sub>F<sub>1</sub> ATP synthase, subunit c",CD630_34730(),BioCyc
-CPLX-9456,queuosine hydrolase,CD630_16820(4),BioCyc
+CPLX-9456,queuosine hydrolase,CD630_16820(),BioCyc
 G12WB-2453-MONOMER,hypothetical protein,CD630_22991(),BioCyc
 CPLX12WB-90,amino acid family ABC transporter,CD630_07520() AND CD630_07510() AND CD630_07500(),BioCyc
 G12WB-117-MONOMER,50S ribosomal protein L10,CD630_00630(1),BioCyc
@@ -274,12 +274,12 @@ G12WB-816-MONOMER,Fe-S domain-containing protein,CD630_07060(),BioCyc
 CPLX12WB-29,glycine reductase complex component C,CD630_23480() AND CD630_23490(),BioCyc
 G12WB-3125-MONOMER,V-type ATP synthase subunit I,CD630_29600(),BioCyc
 CPLX12WB-14,acetoin dehydrogenase E1,CD630_00360() AND CD630_00370(),BioCyc
-G12WB-140-MONOMER,30S ribosomal protein S14,CD630_00841(1),BioCyc
+G12WB-140-MONOMER,30S ribosomal protein S14,CD630_00841(),BioCyc
 CPLX12WB-87,putative lichenan-specific PTS enzyme II,CD630_36480() AND CD630_36470() AND CD630_36450(),BioCyc
 G12WB-1742-MONOMER,"multidrug family ABC transporter, membrane protein",CD630_16030(),BioCyc
 CPLX12WB-72,butyryl-CoA dehydrogenase complex,CD630_10560() AND CD630_10550() AND CD630_10540(),BioCyc
 G12WB-2103-MONOMER,"ABC transporter, ATP-binding protein",CD630_19610(),BioCyc
-CPLX12WB-56,putative polyamine ABC transporter,CD630_10260(1) AND CD630_10250(1) AND CD630_10240(2) AND CD630_10270(1),BioCyc
+CPLX12WB-56,putative polyamine ABC transporter,CD630_10270() AND CD630_10260() AND CD630_10250() AND CD630_10240(),BioCyc
 G12WB-3639-MONOMER,transketolase pyridine binding subunit,CD630_34590(),BioCyc
 CPLX12WB-40,DNA gyrase,CD630_00050() AND CD630_00060(),BioCyc
 G12WB-2439-MONOMER,"putative transporter, branched chain amino acid exporter family",CD630_22860(),BioCyc
@@ -317,15 +317,15 @@ CPLX12WB-94,putative nitrate/sulfonate/taurine ABC transporter,CD630_10010() AND
 G12WB-1370-MONOMER,hypothetical protein,CD630_12371(),BioCyc
 CPLX12WB-79,Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex,CD630_11390() AND CD630_11400() AND CD630_11380() AND CD630_11370() AND CD630_11420() AND CD630_11410(),BioCyc
 G12WB-1710-MONOMER,HTH-type transcriptional regulator,CD630_15730(),BioCyc
-CPLX12WB-63,dihydroorotate dehydrogenase,CD630_01860() AND CD630_01850(),BioCyc
+CPLX12WB-63,dihydroorotate dehydrogenase,CD630_01850() AND CD630_01860(),BioCyc
 G12WB-2071-MONOMER,membrane protein,CD630_19290(),BioCyc
 CPLX12WB-47,mannose-fructose-sorbose family PTS enzyme II,CD630_32790() AND CD630_32780() AND CD630_32770() AND CD630_32760(),BioCyc
 G12WB-361-MONOMER,flagellar motor rotation protein MotB,CD630_02570(),BioCyc
 CPLX12WB-32,transketolase,CD630_34590() AND CD630_34600(),BioCyc
 G12WB-241-MONOMER,"lactose-<i>N,N'</i>-diacetylchitobiose-&beta;-glucoside family PTS, enzyme IIC component",CD630_01370(),BioCyc
-CPLX12WB-18,acetyl-CoA carboxylase,CD630_19390(2) AND CD630_19370(2) AND CD630_19360(2) AND CD630_19380(2),BioCyc
+CPLX12WB-18,acetyl-CoA carboxylase,CD630_19360() AND CD630_19370() AND CD630_19380() AND CD630_19390(),BioCyc
 G12WB-1122-MONOMER,hypothetical protein,CD630_10070(),BioCyc
-CPLX12WB-1,DNA-directed RNA polymerase,CD630_00670(1) AND CD630_00980(2) AND CD630_00660(1),BioCyc
+CPLX12WB-1,DNA-directed RNA polymerase,CD630_00660() AND CD630_00670() AND CD630_00980(),BioCyc
 G12WB-2744-MONOMER,DNA-directed RNA polymerase subunit omega,CD630_25871(),BioCyc
 G12WB-4391-MONOMER,Conserved hypothetical protein,CD630_12332(),BioCyc
 G12WB-773-MONOMER,toxin gene expression negative regulator,CD630_06640(),BioCyc
@@ -333,7 +333,7 @@ G12WB-3081-MONOMER,hypothetical protein,CD630_29190(),BioCyc
 G12WB-1695-MONOMER,peptidoglycan deacetylase,CD630_15560(),BioCyc
 G12WB-2055-MONOMER,ethanolamine specific two-component sensor histidine kinase,CD630_19110(),BioCyc
 G12WB-3595-MONOMER,precorrin-2 dehydrogenase,CD630_34180(),BioCyc
-G12WB-2396-MONOMER,N-acetylmannosamine-6-phosphate 2-epimerase,CD630_22410(1),BioCyc
+G12WB-2396-MONOMER,N-acetylmannosamine-6-phosphate 2-epimerase,CD630_22410(),BioCyc
 G12WB-1108-MONOMER,thioesterase,CD630_09930(),BioCyc
 G12WB-273-MONOMER,cyclic nucleotide-binding protein,CD630_01680(),BioCyc
 G12WB-2393-MONOMER,hypothetical protein,CD630_22380(),BioCyc
@@ -362,7 +362,7 @@ G12WB-2700-MONOMER,cellulose synthase catalytic subunit,CD630_25450(),BioCyc
 G12WB-3035-MONOMER,"putative iron(III)-hydroxamate ABC transporter, ATP-binding subunit",CD630_28750(),BioCyc
 G12WB-337-MONOMER,carbon storage regulator CsrA,CD630_02340(),BioCyc
 G12WB-1644-MONOMER,iron-sulfur binding protein,CD630_15080(),BioCyc
-G12WB-3546-MONOMER,putative Mg<sup>2+</sup>-transporting P-type ATPase,CD630_33730(1),BioCyc
+G12WB-3546-MONOMER,putative Mg<sup>2+</sup>-transporting P-type ATPase,CD630_33730(),BioCyc
 G12WB-2007-MONOMER,conjugative transposon protein,CD630_18610(),BioCyc
 G12WB-2349-MONOMER,ferritin,CD630_21950(),BioCyc
 G12WB-1062-MONOMER,hypothetical protein,CD630_09490(),BioCyc
@@ -389,7 +389,7 @@ G12WB-1033-MONOMER,hypothetical protein,CD630_09240(),BioCyc
 G12WB-3860-MONOMER,TPR family transcriptional regulator,CD630_36680(),BioCyc
 G12WB-681-MONOMER,lipoprotein,CD630_05700(),BioCyc
 G12WB-2657-MONOMER,predicted cation-transporting P-type ATPase,CD630_25030(),BioCyc
-G12WB-2992-MONOMER,cation efflux protein,CD630_28320(2),BioCyc
+G12WB-2992-MONOMER,cation efflux protein,CD630_28320(),BioCyc
 G12WB-3326-MONOMER,"multidrug family ABC transporter, membrane protein",CD630_31610(),BioCyc
 G12WB-1600-MONOMER,hypothetical protein,CD630_14630(),BioCyc
 G12WB-3502-MONOMER,conjugative transposon protein,CD630_33331(),BioCyc
@@ -455,7 +455,7 @@ G12WB-377-MONOMER,hypothetical protein,CD630_02720(),BioCyc
 G12WB-585-MONOMER,MarR family transcriptional regulator,CD630_04730(),BioCyc
 G12WB-2568-MONOMER,"glucitol family PTS, enzyme IIB component",CD630_24170(),BioCyc
 G12WB-1285-MONOMER,hypothetical protein,CD630_11550(),BioCyc
-G12WB-2905-MONOMER,ubiquinone biosynthesis protein,CD630_27470(1),BioCyc
+G12WB-2905-MONOMER,ubiquinone biosynthesis protein,CD630_27470(),BioCyc
 G12WB-931-MONOMER,two-component sensor histidine kinase,CD630_08210(),BioCyc
 G12WB-3239-MONOMER,membrane protein,CD630_30780(),BioCyc
 G12WB-1514-MONOMER,transcriptional regulator,CD630_13780(),BioCyc
@@ -466,7 +466,7 @@ G12WB-3755-MONOMER,sporulation-specific protease,CD630_35690(),BioCyc
 G12WB-569-MONOMER,membrane protein,CD630_04570(),BioCyc
 G12WB-2553-MONOMER,cell wall hydrolase,CD630_24020(),BioCyc
 G12WB-127-MONOMER,50S ribosomal protein L3,CD630_00730(1),BioCyc
-G12WB-2890-MONOMER,pyridoxal phosphate-dependent transferase,CD630_27330(),BioCyc
+G12WB-2890-MONOMER,pyridoxal phosphate-dependent transferase,CD630_27330(1),BioCyc
 G12WB-917-MONOMER,sigma-54 dependent transcriptional regulator,CD630_08060(),BioCyc
 G12WB-3224-MONOMER,peptidase,CD630_30630(),BioCyc
 G12WB-150-MONOMER,50S ribosomal protein L14E/L6E/L27E-like protein,CD630_00930(),BioCyc
@@ -490,7 +490,7 @@ G12WB-2524-MONOMER,hypothetical protein,CD630_23740(),BioCyc
 G12WB-124-MONOMER,elongation factor G,CD630_00700(1),BioCyc
 G12WB-2859-MONOMER,hypothetical protein,CD630_27060(),BioCyc
 G12WB-888-MONOMER,membrane protein,CD630_07770(),BioCyc
-G12WB-3195-MONOMER,thioredoxin,CD630_30330(1),BioCyc
+G12WB-3195-MONOMER,thioredoxin,CD630_30330(),BioCyc
 G12WB-1470-MONOMER,MarR family transcriptional regulator,CD630_13350(),BioCyc
 G12WB-3371-MONOMER,nitroreductase,CD630_32050(),BioCyc
 G12WB-1819-MONOMER,membrane protein,CD630_16770(),BioCyc
@@ -500,15 +500,15 @@ G12WB-521-MONOMER,conjugative transposon protein,CD630_04140(),BioCyc
 G12WB-251-MONOMER,"putative riboflavin ECF transporter, S component",CD630_01470(),BioCyc
 G12WB-1225-MONOMER,mobilization protein,CD630_11010(),BioCyc
 G12WB-2844-MONOMER,hypoxanthine phosphoribosyltransferase,CD630_26910(4),BioCyc
-G12WB-872-MONOMER,putative Ca<sup>2</sup>:Na<sup>+</sup> antiporter,CD630_07600(1),BioCyc
+G12WB-872-MONOMER,putative Ca<sup>2</sup>:Na<sup>+</sup> antiporter,CD630_07600(),BioCyc
 G12WB-3180-MONOMER,PTS operon transcription antiterminator,CD630_30160(),BioCyc
 G12WB-1456-MONOMER,sporulation protein,CD630_13210(),BioCyc
 G12WB-1803-MONOMER,hypothetical protein,CD630_16620(),BioCyc
 G12WB-2160-MONOMER,dihydroxy-acid dehydratase,CD630_20140(2),BioCyc
 G12WB-3694-MONOMER,pilin protein,CD630_35130(),BioCyc
-G12WB-2495-MONOMER,succinyl-CoA:coenzyme A transferase,CD630_23430(1),BioCyc
-G12WB-1210-MONOMER,putative Zn<sup>2+</sup>/Fe<sup>2+</sup> transporter ZupT,CD630_10870(1),BioCyc
-G12WB-283-MONOMER,cyclopropane-fatty-acyl-phospholipid synthase,CD630_01770(2),BioCyc
+G12WB-2495-MONOMER,succinyl-CoA:coenzyme A transferase,CD630_23430(),BioCyc
+G12WB-1210-MONOMER,putative Zn<sup>2+</sup>/Fe<sup>2+</sup> transporter ZupT,CD630_10870(),BioCyc
+G12WB-283-MONOMER,cyclopropane-fatty-acyl-phospholipid synthase,CD630_01770(),BioCyc
 G12WB-508-MONOMER,sigma-54 dependent transcriptional regulator,CD630_04020(),BioCyc
 G12WB-858-MONOMER,membrane protein,CD630_07460(),BioCyc
 G12WB-3166-MONOMER,hydrolase/isomerase/hydratase,CD630_30010(),BioCyc
@@ -521,7 +521,7 @@ G12WB-1196-MONOMER,GntR family transcriptional regulator,CD630_10730(),BioCyc
 G12WB-2815-MONOMER,"UDP-N-acetylmuramoylalanyl-D-glutamate--2, 6-diaminopimelate ligase",CD630_26640(1),BioCyc
 G12WB-493-MONOMER,glucose-glucoside family PTS enzyme II,CD630_03880(),BioCyc
 G12WB-842-MONOMER,radical SAM superfamily protein,CD630_07310(),BioCyc
-G12WB-3151-MONOMER,undecaprenyl pyrophosphate phosphatase,CD630_29860(1),BioCyc
+G12WB-3151-MONOMER,undecaprenyl pyrophosphate phosphatase,CD630_29860(),BioCyc
 G12WB-1427-MONOMER,AraC family transcriptional regulator,CD630_12930(),BioCyc
 G12WB-1771-MONOMER,asparagine synthetase,CD630_16320(2),BioCyc
 G12WB-2131-MONOMER,membrane protein,CD630_19890(),BioCyc
@@ -542,7 +542,7 @@ G12WB-2785-MONOMER,hypothetical protein,CD630_26340(),BioCyc
 G12WB-461-MONOMER,membrane protein,CD630_03541(),BioCyc
 G12WB-813-MONOMER,U32 family peptidase,CD630_07030(),BioCyc
 G12WB-3122-MONOMER,V-type ATP synthase subunit C,CD630_29570(),BioCyc
-G12WB-1397-MONOMER,FMN-dependent dehydrogenase,CD630_12630(1),BioCyc
+G12WB-1397-MONOMER,FMN-dependent dehydrogenase,CD630_12630(),BioCyc
 G12WB-1739-MONOMER,hydroxyethylthiazole kinase,CD630_16000(1),BioCyc
 G12WB-2100-MONOMER,4Fe-4S binding protein,CD630_19580(),BioCyc
 G12WB-3636-MONOMER,5-formyltetrahydrofolate cyclo-ligase,CD630_34560(1),BioCyc
@@ -582,7 +582,7 @@ G12WB-2724-MONOMER,"putative 2-<i>O</i>-&alpha;-mannosyl-D-glycerate specific PT
 G12WB-432-MONOMER,hypothetical protein,CD630_03230(),BioCyc
 G12WB-753-MONOMER,two-component sensor histidine kinase,CD630_06440(),BioCyc
 G12WB-3061-MONOMER,tail protein,CD630_29000(),BioCyc
-G12WB-1673-MONOMER,3-mercaptopyruvate sulfurtransferase,CD630_15350(1),BioCyc
+G12WB-1673-MONOMER,3-mercaptopyruvate sulfurtransferase,CD630_15350(),BioCyc
 G12WB-3572-MONOMER,NUDIX family hydrolase,CD630_33980(),BioCyc
 G12WB-2036-MONOMER,"multidrug family ABC transporter, membrane protein",CD630_18900(),BioCyc
 G12WB-2376-MONOMER,hypothetical protein,CD630_22220(),BioCyc
@@ -657,7 +657,7 @@ G12WB-3294-MONOMER,AraC family transcriptional regulator,CD630_31310(),BioCyc
 G12WB-157-MONOMER,50S ribosomal protein L17,CD630_00990(1),BioCyc
 G12WB-3470-MONOMER,chromate transport protein ChrA',CD630_33030(),BioCyc
 G12WB-1925-MONOMER,hypothetical protein,CD630_17780(),BioCyc
-G12WB-2273-MONOMER,threonine synthase,CD630_21180(1),BioCyc
+G12WB-2273-MONOMER,threonine synthase,CD630_21180(),BioCyc
 G12WB-3810-MONOMER,"ABC transporter, membrane protein",CD630_36240(),BioCyc
 G12WB-630-MONOMER,membrane protein,CD630_05170(),BioCyc
 G12WB-2609-MONOMER,CRISPR-associated protein,CD630_24550(),BioCyc
@@ -676,7 +676,7 @@ G12WB-1311-MONOMER,enoyl-(acyl-carrier-protein) reductase II,CD630_11800(),BioCy
 G12WB-2931-MONOMER,family 2 glycosyl transferase,CD630_27720(),BioCyc
 G12WB-958-MONOMER,hypothetical protein,CD630_08480(),BioCyc
 G12WB-3265-MONOMER,"glucose-glucoside family PTS, enzyme IIA component",CD630_31030(),BioCyc
-G12WB-1540-MONOMER,synthetase,CD630_14030(1),BioCyc
+G12WB-1540-MONOMER,synthetase,CD630_14030(),BioCyc
 G12WB-3441-MONOMER,ferrous iron transport protein B,CD630_32740(),BioCyc
 G12WB-1896-MONOMER,hypothetical protein,CD630_17511(),BioCyc
 G12WB-2244-MONOMER,sigma-54 dependent transcriptional regulator,CD630_20920(),BioCyc
@@ -712,7 +712,7 @@ G12WB-3221-MONOMER,phospho-alpha-glucosidase,CD630_30600(),BioCyc
 G12WB-1497-MONOMER,hypothetical protein,CD630_13610(),BioCyc
 G12WB-3398-MONOMER,hypoxanthine phosphoribosyltransferase,CD630_32310(),BioCyc
 G12WB-1848-MONOMER,thiamine biosynthesis protein ThiH,CD630_17050(),BioCyc
-G12WB-2200-MONOMER,23S rRNA pseudouridine synthase,CD630_20500(),BioCyc
+G12WB-2200-MONOMER,23S rRNA pseudouridine synthase,CD630_20500(1),BioCyc
 G12WB-3738-MONOMER,lysine--tRNA ligase,CD630_35520(2),BioCyc
 G12WB-550-MONOMER,cell wall protein 27,CD630_04400(),BioCyc
 G12WB-2536-MONOMER,hypothetical protein,CD630_23860(),BioCyc
@@ -722,7 +722,7 @@ G12WB-90-MONOMER,acetoin dehydrogenase E2 component dihydrolipoamide acetyltrans
 G12WB-3207-MONOMER,BadF/BadG/BcrA/BcrD type ATPase,CD630_30450(),BioCyc
 G12WB-1482-MONOMER,hypothetical protein,CD630_13470(),BioCyc
 G12WB-3383-MONOMER,"glycine betaine/carnitine/choline ABC transporter, ATP-binding protein",CD630_32170(),BioCyc
-G12WB-1832-MONOMER,thioredoxin,CD630_16900(),BioCyc
+G12WB-1832-MONOMER,thioredoxin,CD630_16900(1),BioCyc
 G12WB-2187-MONOMER,hypothetical protein,CD630_20390(),BioCyc
 G12WB-3720-MONOMER,deoxyribonuclease,CD630_35390(),BioCyc
 G12WB-534-MONOMER,conjugative transposon protein,CD630_04260(),BioCyc
@@ -823,7 +823,7 @@ G12WB-750-MONOMER,membrane protein,CD630_06410(),BioCyc
 G12WB-3059-MONOMER,tail fiber protein,CD630_28980(),BioCyc
 G12WB-1670-MONOMER,"ABC transporter, ATP-binding protein",CD630_15320(),BioCyc
 G12WB-357-MONOMER,basal-body rod modification protein FlgD,CD630_02540(),BioCyc
-G12WB-2033-MONOMER,ECF RNA polymerase sigma factor CsfU,CD630_18870(),BioCyc
+G12WB-2033-MONOMER,ECF RNA polymerase sigma factor CsfU,CD630_18870(1),BioCyc
 G12WB-2372-MONOMER,hypothetical protein,CD630_22160(),BioCyc
 G12WB-1086-MONOMER,hypothetical protein,CD630_09700(),BioCyc
 G12WB-4229-MONOMER,RNA polymerase sigma-28 factor SigK,CD630_12300(),BioCyc
@@ -856,7 +856,7 @@ G12WB-1986-MONOMER,two-component sensor histidine kinase,CD630_18410(),BioCyc
 G12WB-2329-MONOMER,"cystine/amino acid family ABC transporter, ATP-binding protein",CD630_21720(),BioCyc
 G12WB-1042-MONOMER,hypothetical protein,CD630_09310(),BioCyc
 G12WB-3870-MONOMER,sporulation membrane protein SpoIIIJ,CD630_36780(1),BioCyc
-G12WB-691-MONOMER,glyceraldehyde-3-phosphate dehydrogenase,CD630_05800(4),BioCyc
+G12WB-691-MONOMER,glyceraldehyde-3-phosphate dehydrogenase,CD630_05800(),BioCyc
 G12WB-2666-MONOMER,"glucose-glucoside family PTS, enzyme IIA component",CD630_25120(),BioCyc
 G12WB-3000-MONOMER,serine--tRNA ligase,CD630_28400(),BioCyc
 G12WB-3335-MONOMER,protein-export membrane protein SecG,CD630_31691(),BioCyc
@@ -867,7 +867,7 @@ G12WB-2314-MONOMER,hypothetical protein,CD630_21570(),BioCyc
 G12WB-1028-MONOMER,hypothetical protein,CD630_09200(),BioCyc
 G12WB-3855-MONOMER,30S ribosomal protein S6,CD630_36630(1),BioCyc
 G12WB-675-MONOMER,epoxyqueuosine reductase,CD630_05630(1),BioCyc
-G12WB-2650-MONOMER,"selenide, water dikinase",CD630_24960(1),BioCyc
+G12WB-2650-MONOMER,"selenide, water dikinase",CD630_24960(),BioCyc
 G12WB-2987-MONOMER,MarR family transcriptional regulator,CD630_28270(),BioCyc
 G12WB-3320-MONOMER,hypothetical protein,CD630_31563(),BioCyc
 G12WB-1596-MONOMER,5-nitroimidazole antibiotic resistance protein,CD630_14590(),BioCyc
@@ -879,7 +879,7 @@ G12WB-3837-MONOMER,"lactose-N,N'-diacetylchitobiose-&beta;-glucoside family PTS,
 G12WB-659-MONOMER,beta-lactams repressor,CD630_05470(),BioCyc
 G12WB-2636-MONOMER,uracil-DNA glycosylase,CD630_24810(),BioCyc
 G12WB-1352-MONOMER,membrane protein,CD630_12210(),BioCyc
-G12WB-2972-MONOMER,"putative transporter, gluconate:H<sup>+</sup> symporter family",CD630_28120(1),BioCyc
+G12WB-2972-MONOMER,"putative transporter, gluconate:H<sup>+</sup> symporter family",CD630_28120(),BioCyc
 G12WB-3306-MONOMER,DeoR family transcriptional regulator,CD630_31440(),BioCyc
 G12WB-1581-MONOMER,exported polysaccharide deacetylase,CD630_14440(),BioCyc
 G12WB-3482-MONOMER,oxidoreductase Fe-S subunit,CD630_33150(),BioCyc
@@ -901,7 +901,7 @@ G12WB-3808-MONOMER,hypothetical protein,CD630_36220(),BioCyc
 G12WB-626-MONOMER,hypothetical protein,CD630_05130(),BioCyc
 G12WB-2606-MONOMER,CRISPR-associated protein,CD630_24520(),BioCyc
 G12WB-1323-MONOMER,stage III sporulation protein AA,CD630_11920(),BioCyc
-G12WB-2943-MONOMER,putative N-acetylmuramoyl-L-alanine amidase,CD630_27840(),BioCyc
+G12WB-2943-MONOMER,putative N-acetylmuramoyl-L-alanine amidase,CD630_27840(1),BioCyc
 G12WB-970-MONOMER,"putative maltose-specific PTS, enzyme IIC component",CD630_08620(),BioCyc
 G12WB-3277-MONOMER,6-phospho-beta-glucosidase,CD630_31150(),BioCyc
 G12WB-1552-MONOMER,oxidoreductase Fe-S subunit,CD630_14140(),BioCyc
@@ -930,7 +930,7 @@ G12WB-1523-MONOMER,putative metal ion transporter,CD630_13850(),BioCyc
 G12WB-3424-MONOMER,hypothetical protein,CD630_32561(),BioCyc
 G12WB-1877-MONOMER,uroporphyrinogen decarboxylase,CD630_17330(),BioCyc
 G12WB-2227-MONOMER,hypothetical protein,CD630_20751(),BioCyc
-G12WB-3764-MONOMER,methionine gamma-lyase,CD630_35770(),BioCyc
+G12WB-3764-MONOMER,methionine gamma-lyase,CD630_35770(4),BioCyc
 G12WB-579-MONOMER,HAD superfamily hydrolase,CD630_04670(),BioCyc
 G12WB-2562-MONOMER,PEP synthetase regulatory protein,CD630_24110(),BioCyc
 G12WB-128-MONOMER,50S ribosomal protein L4,CD630_00740(1),BioCyc
@@ -944,7 +944,7 @@ G12WB-2212-MONOMER,hypothetical protein,CD630_20610(),BioCyc
 G12WB-375-MONOMER,flagellar motor switch protein FliM,CD630_02700(),BioCyc
 G12WB-563-MONOMER,NUDIX family hydrolase,CD630_04520(),BioCyc
 G12WB-2548-MONOMER,exonuclease,CD630_23970(),BioCyc
-G12WB-1264-MONOMER,lactoylglutathione lyase,CD630_11340(2),BioCyc
+G12WB-1264-MONOMER,lactoylglutathione lyase,CD630_11340(),BioCyc
 G12WB-2885-MONOMER,membrane protein,CD630_27280(),BioCyc
 G12WB-911-MONOMER,3-hydroxybutyryl-CoA dehydratase,CD630_08000(1),BioCyc
 G12WB-3219-MONOMER,"glucose-glucoside family PTS, enzyme IIA component",CD630_30580(),BioCyc
@@ -956,7 +956,7 @@ G12WB-3732-MONOMER,arginine decarboxylase,CD630_35510(),BioCyc
 G12WB-547-MONOMER,recombinase,CD630_04360(),BioCyc
 G12WB-2533-MONOMER,sigma-54 dependent transcriptional regulator,CD630_23830(),BioCyc
 G12WB-1249-MONOMER,transcriptional regulator,CD630_11220(),BioCyc
-G12WB-2868-MONOMER,UTP--glucose-1-phosphate uridylyltransferase,CD630_27150(),BioCyc
+G12WB-2868-MONOMER,UTP--glucose-1-phosphate uridylyltransferase,CD630_27150(1),BioCyc
 G12WB-898-MONOMER,metal-binding protein,CD630_07870(),BioCyc
 G12WB-3204-MONOMER,membrane protein,CD630_30420(),BioCyc
 G12WB-148-MONOMER,adenylate kinase,CD630_00910(1),BioCyc
@@ -994,7 +994,7 @@ G12WB-1436-MONOMER,hypothetical protein,CD630_13011(),BioCyc
 G12WB-1781-MONOMER,hypothetical protein,CD630_16420(),BioCyc
 G12WB-2140-MONOMER,hypothetical protein,CD630_19942(),BioCyc
 G12WB-3674-MONOMER,membrane protein,CD630_34930(),BioCyc
-G12WB-2475-MONOMER,sugar-phosphate dehydrogenase,CD630_23230(4),BioCyc
+G12WB-2475-MONOMER,sugar-phosphate dehydrogenase,CD630_23230(),BioCyc
 G12WB-1190-MONOMER,exosporium cysteine-rich protein,CD630_10670(),BioCyc
 G12WB-281-MONOMER,oxidoreductase Fe-S subunit,CD630_01750(),BioCyc
 G12WB-487-MONOMER,replication initiation factor,CD630_03810(),BioCyc
@@ -1009,7 +1009,7 @@ G12WB-1176-MONOMER,electron transfer flavoprotein subunit alpha,CD630_10560(),Bi
 G12WB-2794-MONOMER,sporulation sigma factor SigE,CD630_26430(),BioCyc
 G12WB-471-MONOMER,"multidrug family ABC transporter, membrane protein",CD630_03650(),BioCyc
 G12WB-822-MONOMER,hypothetical protein,CD630_07120(),BioCyc
-G12WB-3131-MONOMER,bifunctional acetaldehyde-CoA/alcohol dehydrogenase,CD630_29660(40),BioCyc
+G12WB-3131-MONOMER,bifunctional acetaldehyde-CoA/alcohol dehydrogenase,CD630_29660(),BioCyc
 G12WB-1406-MONOMER,magnesium chelatase,CD630_12720(),BioCyc
 G12WB-1749-MONOMER,hypothetical protein,CD630_16100(),BioCyc
 G12WB-2110-MONOMER,membrane protein,CD630_19680(),BioCyc
@@ -1033,7 +1033,7 @@ G12WB-3102-MONOMER,hypothetical protein,CD630_29390(),BioCyc
 G12WB-1377-MONOMER,hypothetical protein,CD630_12440(),BioCyc
 G12WB-1717-MONOMER,homoserine dehydrogenase,CD630_15800(),BioCyc
 G12WB-2079-MONOMER,acetyl-CoA carboxylase carboxyl transferase subunit beta,CD630_19370(),BioCyc
-G12WB-3616-MONOMER,nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase,CD630_34390(2),BioCyc
+G12WB-3616-MONOMER,nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase,CD630_34390(),BioCyc
 G12WB-2416-MONOMER,M24 family peptidase,CD630_22610(),BioCyc
 G12WB-1129-MONOMER,two-component sensor histidine kinase,CD630_10140(),BioCyc
 G12WB-2750-MONOMER,"pristinamycin/multidrug family ABC transporter, ATP-binding protein",CD630_25930(),BioCyc
@@ -1071,7 +1071,7 @@ G12WB-3041-MONOMER,cellobiose-phosphate degrading protein,CD630_28810(),BioCyc
 G12WB-1651-MONOMER,putative ketopantoate reductase,CD630_15140(),BioCyc
 G12WB-3552-MONOMER,conjugative transposon protein,CD630_33780(),BioCyc
 G12WB-2014-MONOMER,conjugative transposon protein,CD630_18680(),BioCyc
-G12WB-2355-MONOMER,histidinol-phosphate aminotransferase,CD630_22000(),BioCyc
+G12WB-2355-MONOMER,histidinol-phosphate aminotransferase,CD630_22000(2),BioCyc
 G12WB-1069-MONOMER,hypothetical protein,CD630_09550(),BioCyc
 G12WB-402-MONOMER,hypothetical protein,CD630_02960(),BioCyc
 G12WB-719-MONOMER,two-component sensor histidine kinase,CD630_06100(),BioCyc
@@ -1105,7 +1105,7 @@ G12WB-2311-MONOMER,ATP/GTP-binding protein,CD630_21540(),BioCyc
 G12WB-1025-MONOMER,recombination protein Bet,CD630_09170(),BioCyc
 G12WB-3852-MONOMER,hypothetical protein,CD630_36610(),BioCyc
 G12WB-672-MONOMER,endonuclease IV,CD630_05600(),BioCyc
-G12WB-2648-MONOMER,selenocysteinyl-tRNA-specific translation factor,CD630_24930(1),BioCyc
+G12WB-2648-MONOMER,selenocysteinyl-tRNA-specific translation factor,CD630_24930(),BioCyc
 G12WB-2984-MONOMER,hypothetical protein,CD630_28230(),BioCyc
 G12WB-3318-MONOMER,Fic/Doc-related protein,CD630_31550(),BioCyc
 G12WB-1593-MONOMER,SAM-dependent methyltransferase,CD630_14560(),BioCyc
@@ -1117,7 +1117,7 @@ G12WB-3834-MONOMER,"putative lichenan-specific PTS, enzyme IIA component",CD630_
 G12WB-656-MONOMER,ornithine cyclodeaminase,CD630_05440(),BioCyc
 G12WB-2633-MONOMER,MBL fold metallo-hydolase,CD630_24780(),BioCyc
 G12WB-135-MONOMER,50S ribosomal protein L29,CD630_00801(),BioCyc
-G12WB-297-MONOMER,cardiolipin synthetase 1,CD630_01920(1),BioCyc
+G12WB-297-MONOMER,cardiolipin synthetase 1,CD630_01920(),BioCyc
 G12WB-997-MONOMER,S-adenosylmethionine decarboxylase,CD630_08890(),BioCyc
 G12WB-3303-MONOMER,membrane protein,CD630_31400(),BioCyc
 G12WB-1579-MONOMER,MORN repeat-containing protein,CD630_14420(),BioCyc
@@ -1133,17 +1133,17 @@ G12WB-982-MONOMER,"sugar-family ABC transporter, ATP-binding subunit",CD630_0874
 G12WB-3289-MONOMER,PTS operon transcription antiterminator,CD630_31260(),BioCyc
 G12WB-1564-MONOMER,putative magnesium transporter,CD630_14250(),BioCyc
 G12WB-3465-MONOMER,ATP/GTP-binding protein,CD630_32980(),BioCyc
-G12WB-192-MONOMER,anaerobic ribonucleoside triphosphate reductase,CD630_01080(2),BioCyc
+G12WB-192-MONOMER,anaerobic ribonucleoside triphosphate reductase,CD630_01080(),BioCyc
 G12WB-2268-MONOMER,putative Cu<sup>2+</sup>-exporting P-type ATPase,CD630_21150(1),BioCyc
 G12WB-3805-MONOMER,acyl-CoA N-acyltransferase,CD630_36190(),BioCyc
 G12WB-623-MONOMER,conjugative transposon protein,CD630_05101(),BioCyc
 G12WB-2603-MONOMER,rRNA small subunit methyltransferase E,CD630_24490(2),BioCyc
-G12WB-1320-MONOMER,putative amino acid/polyamine transporter,CD630_11890(2),BioCyc
+G12WB-1320-MONOMER,putative amino acid/polyamine transporter,CD630_11890(),BioCyc
 G12WB-2940-MONOMER,lipid II flippase MurJ,CD630_27810(),BioCyc
 G12WB-968-MONOMER,hypothetical protein,CD630_08600(),BioCyc
 G12WB-3274-MONOMER,peptidase,CD630_31120(),BioCyc
 G12WB-155-MONOMER,30S ribosomal protein S4,CD630_00970(1),BioCyc
-G12WB-3450-MONOMER,pyruvate formate-lyase activating enzyme,CD630_32830(1),BioCyc
+G12WB-3450-MONOMER,pyruvate formate-lyase activating enzyme,CD630_32830(),BioCyc
 G12WB-1905-MONOMER,SAM-dependent methyltransferase,CD630_17590(),BioCyc
 G12WB-2253-MONOMER,xanthine dehydrogenase FAD-binding subunit XdhB,CD630_21010(),BioCyc
 G12WB-3790-MONOMER,phosphoesterase,CD630_36030(),BioCyc
@@ -1155,7 +1155,7 @@ G12WB-952-MONOMER,hypothetical protein,CD630_08420(),BioCyc
 G12WB-326-MONOMER,bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase,CD630_02230(1),BioCyc
 G12WB-1535-MONOMER,peptidase,CD630_13980(),BioCyc
 G12WB-3436-MONOMER,oligoendopeptidase F,CD630_32690(),BioCyc
-G12WB-1890-MONOMER,putative glutamate:Na<sup>+</sup> symporter,CD630_17460(1),BioCyc
+G12WB-1890-MONOMER,putative glutamate:Na<sup>+</sup> symporter,CD630_17460(),BioCyc
 G12WB-2239-MONOMER,xanthine dehydrogenase,CD630_20870(),BioCyc
 G12WB-3776-MONOMER,carbamoyl-phosphate synthase small subunit,CD630_35890(),BioCyc
 G12WB-592-MONOMER,"multidrug family ABC transporter, membrane protein",CD630_04800(),BioCyc
@@ -1212,7 +1212,7 @@ G12WB-1462-MONOMER,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransf
 G12WB-1810-MONOMER,membrane protein,CD630_16680(),BioCyc
 G12WB-2167-MONOMER,"putative transporter, major facilitator superfamily",CD630_20190(),BioCyc
 G12WB-3700-MONOMER,hypothetical protein,CD630_35190(),BioCyc
-G12WB-512-MONOMER,tRNA (Uracil-5-)-methyltransferase,CD630_04060(1),BioCyc
+G12WB-512-MONOMER,tRNA (Uracil-5-)-methyltransferase,CD630_04060(),BioCyc
 G12WB-2500-MONOMER,glycine reductase complex component C subunit alpha,CD630_23480(),BioCyc
 G12WB-1217-MONOMER,RNA polymerase sigma factor,CD630_10940(),BioCyc
 G12WB-2836-MONOMER,flavodoxin-related protein,CD630_26840(),BioCyc
@@ -1275,7 +1275,7 @@ G12WB-2762-MONOMER,MTA/SAH nucleosidase,CD630_26110(2),BioCyc
 G12WB-1095-MONOMER,beta-lactams repressor,CD630_09790(),BioCyc
 G12WB-4483-MONOMER,Conserved hypothetical protein,CD630_21241(),BioCyc
 G12WB-2716-MONOMER,phosphatase,CD630_25610(),BioCyc
-G12WB-791-MONOMER,putative solute:Na<sup>+</sup> symporter,CD630_06820(1),BioCyc
+G12WB-791-MONOMER,putative solute:Na<sup>+</sup> symporter,CD630_06820(),BioCyc
 G12WB-428-MONOMER,two-component sensor histidine kinase,CD630_03190(),BioCyc
 G12WB-310-MONOMER,"fructose-mannitol family PTS, enzyme IIC component",CD630_02070(),BioCyc
 G12WB-745-MONOMER,radical SAM superfamily protein,CD630_06360(),BioCyc
@@ -1289,9 +1289,9 @@ G12WB-3613-MONOMER,cobalamin biosynthesis phosphoglycerate mutase CobC,CD630_343
 G12WB-2027-MONOMER,hypothetical protein,CD630_18800(),BioCyc
 G12WB-2413-MONOMER,hypothetical protein,CD630_22580(),BioCyc
 G12WB-2367-MONOMER,MarR family transcriptional regulator,CD630_22120(),BioCyc
-G12WB-1126-MONOMER,glucosamine-6-phosphate deaminase,CD630_10110(6),BioCyc
+G12WB-1126-MONOMER,glucosamine-6-phosphate deaminase,CD630_10110(),BioCyc
 G12WB-1080-MONOMER,baseplate assembly protein,CD630_09640(),BioCyc
-G12WB-2748-MONOMER,low specificity L-threonine aldolase,CD630_25910(4),BioCyc
+G12WB-2748-MONOMER,low specificity L-threonine aldolase,CD630_25910(),BioCyc
 G12WB-415-MONOMER,HAD superfamily hydrolase,CD630_03090(),BioCyc
 G12WB-4402-MONOMER,Putative phage protein,CD630_13750(),BioCyc
 G12WB-730-MONOMER,hypothetical protein,CD630_06220(),BioCyc
@@ -1316,7 +1316,7 @@ G12WB-716-MONOMER,hypothetical protein,CD630_06052(),BioCyc
 G12WB-435-MONOMER,"putative cobalt-specific ECF transporter, T component CbiQ",CD630_03260(),BioCyc
 G12WB-269-MONOMER,membrane protein,CD630_01640(),BioCyc
 G12WB-762-MONOMER,"multidrug family ABC transporter, ATP-binding protein",CD630_06530(),BioCyc
-G12WB-3024-MONOMER,hydrolase,CD630_28640(),BioCyc
+G12WB-3024-MONOMER,hydrolase,CD630_28640(1),BioCyc
 G12WB-3070-MONOMER,hypothetical protein,CD630_29080(),BioCyc
 G12WB-3359-MONOMER,hypothetical protein,CD630_31930(),BioCyc
 G12WB-1633-MONOMER,hypothetical protein,CD630_14960(),BioCyc
@@ -1328,7 +1328,7 @@ G12WB-388-MONOMER,PTS operon transcription antiterminator,CD630_02830(),BioCyc
 G12WB-700-MONOMER,hypothetical protein,CD630_05880(),BioCyc
 G12WB-2675-MONOMER,conjugative transposon antibiotic resistance protein,CD630_25200(),BioCyc
 G12WB-301-MONOMER,GMP synthase,CD630_01980(2),BioCyc
-G12WB-3344-MONOMER,D-hydantoinase,CD630_31780(),BioCyc
+G12WB-3344-MONOMER,D-hydantoinase,CD630_31780(4),BioCyc
 G12WB-1619-MONOMER,"sulfonate family ABC transporter, membrane subunit",CD630_14820(),BioCyc
 G12WB-3520-MONOMER,ATP-dependent Clp protease proteolytic subunit 2,CD630_33510(),BioCyc
 G12WB-1980-MONOMER,chorismate synthase,CD630_18350(4),BioCyc
@@ -1349,7 +1349,7 @@ G12WB-669-MONOMER,uridine kinase,CD630_05570(),BioCyc
 G12WB-2645-MONOMER,peptidase,CD630_24900(),BioCyc
 G12WB-2981-MONOMER,hypothetical protein,CD630_28200(),BioCyc
 G12WB-3315-MONOMER,transcriptional regulator,CD630_31521(),BioCyc
-G12WB-1590-MONOMER,phospho-2-dehydro-3-deoxyheptonate aldolase,CD630_14530(),BioCyc
+G12WB-1590-MONOMER,phospho-2-dehydro-3-deoxyheptonate aldolase,CD630_14530(4),BioCyc
 G12WB-3491-MONOMER,hypothetical protein,CD630_33240(),BioCyc
 G12WB-1947-MONOMER,tellurium resistance protein,CD630_18000(),BioCyc
 G12WB-2294-MONOMER,ribosome recycling factor,CD630_21370(1),BioCyc
@@ -1359,7 +1359,7 @@ G12WB-653-MONOMER,methyl-accepting chemotaxix methyltransferase,CD630_05410(),Bi
 G12WB-2630-MONOMER,membrane protein,CD630_24750(),BioCyc
 G12WB-1347-MONOMER,hypothetical protein,CD630_12160(),BioCyc
 G12WB-2967-MONOMER,crossover junction endodeoxyribonuclease RuvC,CD630_28070(),BioCyc
-G12WB-994-MONOMER,alpha-amylase,CD630_08860(1),BioCyc
+G12WB-994-MONOMER,alpha-amylase,CD630_08860(),BioCyc
 G12WB-3300-MONOMER,putative &beta;-glucoside-specific PTS enzyme II,CD630_31370(),BioCyc
 G12WB-1576-MONOMER,"putative transporter, LrgA family",CD630_14390(),BioCyc
 G12WB-3477-MONOMER,D-isomer specific 2-hydroxyacid dehydrogenase,CD630_33100(),BioCyc
@@ -1368,7 +1368,7 @@ G12WB-228-MONOMER,stage II sporulation protein D,CD630_01240(),BioCyc
 G12WB-3817-MONOMER,PTS operon transcription antiterminator,CD630_36310(),BioCyc
 G12WB-637-MONOMER,transcriptional regulator,CD630_05230(),BioCyc
 G12WB-2616-MONOMER,chaperone DnaK,CD630_24610(1),BioCyc
-G12WB-1332-MONOMER,N utilization substance protein B,CD630_12010(),BioCyc
+G12WB-1332-MONOMER,N utilization substance protein B,CD630_12010(1),BioCyc
 G12WB-2952-MONOMER,S-layer protein,CD630_27930(),BioCyc
 G12WB-98-MONOMER,lipoate-protein ligase,CD630_00460(),BioCyc
 G12WB-3286-MONOMER,Fe-S binding domain-containing protein,CD630_31230(),BioCyc
@@ -1380,18 +1380,18 @@ G12WB-3802-MONOMER,putative Na<sup>+</sup>:H<sup>+</sup> antiporter,CD630_36160(
 G12WB-620-MONOMER,HTH-type transcriptional regulator,CD630_05090(),BioCyc
 G12WB-2600-MONOMER,30S ribosomal protein S21,CD630_24461(1),BioCyc
 G12WB-1318-MONOMER,hypothetical protein,CD630_11870(),BioCyc
-G12WB-2938-MONOMER,mannose-1-phosphate guanylyltransferase,CD630_27790(1),BioCyc
+G12WB-2938-MONOMER,mannose-1-phosphate guanylyltransferase,CD630_27790(),BioCyc
 G12WB-964-MONOMER,"putative oligopeptide ABC transporter, membrane subunit",CD630_08540(),BioCyc
 G12WB-3271-MONOMER,pentose-5-phosphate 3-epimerase,CD630_31090(),BioCyc
 G12WB-1547-MONOMER,competence damage-inducible protein A,CD630_14090(),BioCyc
-G12WB-3448-MONOMER,pyrroline-5-carboxylate reductase,CD630_32810(),BioCyc
+G12WB-3448-MONOMER,pyrroline-5-carboxylate reductase,CD630_32810(10),BioCyc
 G12WB-1902-MONOMER,peptide deformylase 1,CD630_17560(),BioCyc
 G12WB-2250-MONOMER,hypothetical protein,CD630_20980(),BioCyc
 G12WB-3788-MONOMER,D-alanyl-D-alanine carboxypeptidase,CD630_36010(),BioCyc
 G12WB-604-MONOMER,"putative ribitol-specific PTS, enzyme IIB component",CD630_04920(),BioCyc
 G12WB-2586-MONOMER,hypothetical protein,CD630_24340(),BioCyc
 G12WB-1303-MONOMER,FAD-linked oxidase,CD630_11730(),BioCyc
-G12WB-2923-MONOMER,HAD superfamily hydrolase,CD630_27640(1),BioCyc
+G12WB-2923-MONOMER,HAD superfamily hydrolase,CD630_27640(),BioCyc
 G12WB-95-MONOMER,"galactitol family PTS, enzyme IIC component",CD630_00430(),BioCyc
 G12WB-3257-MONOMER,6-phospho-beta-glucosidase,CD630_30950(),BioCyc
 G12WB-1532-MONOMER,membrane protein,CD630_13950(),BioCyc
@@ -1418,7 +1418,7 @@ G12WB-920-MONOMER,flavodoxin/nitric oxide synthase,CD630_08100(),BioCyc
 G12WB-3228-MONOMER,"putative xyloside-specific PTS, enzyme IIA component",CD630_30670(),BioCyc
 G12WB-1503-MONOMER,tail protein,CD630_13660(),BioCyc
 G12WB-3404-MONOMER,proline racemase,CD630_32370(),BioCyc
-G12WB-1855-MONOMER,molybdenum cofactor biosynthesis protein MoaB,CD630_17120(1),BioCyc
+G12WB-1855-MONOMER,molybdenum cofactor biosynthesis protein MoaB,CD630_17120(),BioCyc
 G12WB-2207-MONOMER,hypothetical protein,CD630_20560(),BioCyc
 G12WB-3744-MONOMER,bifunctional biotin operon repressor/biotin--[acetyl-CoA-carboxylase] synthetase,CD630_35580(),BioCyc
 G12WB-557-MONOMER,D-ornithine aminomutase E component,CD630_04460(),BioCyc
@@ -1426,7 +1426,7 @@ G12WB-2542-MONOMER,membrane protein,CD630_23910(),BioCyc
 G12WB-1259-MONOMER,dephospho-CoA kinase,CD630_11290(1),BioCyc
 G12WB-288-MONOMER,cell wall hydrolase,CD630_01830(),BioCyc
 G12WB-906-MONOMER,DNA-binding regulatory protein,CD630_07950(),BioCyc
-G12WB-3213-MONOMER,anhydro-N-acetylmuramic acid kinase,CD630_30510(1),BioCyc
+G12WB-3213-MONOMER,anhydro-N-acetylmuramic acid kinase,CD630_30510(),BioCyc
 G12WB-1489-MONOMER,hypothetical protein,CD630_13540(),BioCyc
 G12WB-339-MONOMER,flagellar protein FliS2,CD630_02360(),BioCyc
 G12WB-1839-MONOMER,"6,7-dimethyl-8-ribityllumazine synthase",CD630_16970(60),BioCyc
@@ -1446,11 +1446,11 @@ G12WB-3712-MONOMER,predicted cyclic phosphate dihydrolase,CD630_35310(),BioCyc
 G12WB-525-MONOMER,conjugative transposon protein,CD630_04180(),BioCyc
 G12WB-2513-MONOMER,hypothetical protein,CD630_23630(),BioCyc
 G12WB-1229-MONOMER,conjugative transposon protein,CD630_11041(),BioCyc
-G12WB-2848-MONOMER,aspartate--ammonia ligase,CD630_26950(2),BioCyc
+G12WB-2848-MONOMER,aspartate--ammonia ligase,CD630_26950(),BioCyc
 G12WB-876-MONOMER,"glucitol family PTS, enzyme IIC component",CD630_07640(),BioCyc
 G12WB-3184-MONOMER,hypothetical protein,CD630_30220(),BioCyc
 G12WB-146-MONOMER,50S ribosomal protein L15,CD630_00890(1),BioCyc
-G12WB-1807-MONOMER,membrane glycerophosphoryl diester phosphodiesterase,CD630_16660(1),BioCyc
+G12WB-1807-MONOMER,membrane glycerophosphoryl diester phosphodiesterase,CD630_16660(),BioCyc
 G12WB-2164-MONOMER,HTH-type transcriptional regulator,CD630_20170(),BioCyc
 G12WB-3698-MONOMER,pur operon repressor,CD630_35170(),BioCyc
 G12WB-2499-MONOMER,Xaa-Pro dipeptidase,CD630_23470(),BioCyc
@@ -1471,7 +1471,7 @@ G12WB-3155-MONOMER,"sulfonate family ABC transporter, ATP-binding subunit",CD630
 G12WB-1430-MONOMER,segregation and condensation protein B,CD630_12960(),BioCyc
 G12WB-1775-MONOMER,tellurium resistance protein,CD630_16360(),BioCyc
 G12WB-2135-MONOMER,lipoprotein,CD630_19920(),BioCyc
-G12WB-3669-MONOMER,UTP--glucose-1-phosphate uridylyltransferase,CD630_34880(1),BioCyc
+G12WB-3669-MONOMER,UTP--glucose-1-phosphate uridylyltransferase,CD630_34880(),BioCyc
 G12WB-247-MONOMER,protein translocase subunit SecA1,CD630_01430(1),BioCyc
 G12WB-1185-MONOMER,hypothetical protein,CD630_10632(),BioCyc
 G12WB-2803-MONOMER,,CD630_26520(),BioCyc
@@ -1479,7 +1479,7 @@ G12WB-481-MONOMER,conjugative transposon protein,CD630_03750(),BioCyc
 G12WB-831-MONOMER,"bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase/5,10-methenyl-tetrahydrofolate cyclohydrolase FolD",CD630_07200(2),BioCyc
 G12WB-3140-MONOMER,CRISPR-associated endoribonuclease Cas2,CD630_29750(),BioCyc
 G12WB-1415-MONOMER,tRNA-specific 2-thiouridylase MnmA,CD630_12810(1),BioCyc
-G12WB-1759-MONOMER,"putative transporter, major facilitator superfamily",CD630_16200(1),BioCyc
+G12WB-1759-MONOMER,"putative transporter, major facilitator superfamily",CD630_16200(),BioCyc
 G12WB-2120-MONOMER,"ABC transporter, ATP-binding subunit",CD630_19780(),BioCyc
 G12WB-3654-MONOMER,"F<sub>o</sub>F<sub>1</sub> ATP synthase, subunit a",CD630_34740(),BioCyc
 G12WB-2454-MONOMER,hypothetical protein,CD630_23000(),BioCyc
@@ -1569,9 +1569,9 @@ G12WB-698-MONOMER,hypothetical protein,CD630_05860(),BioCyc
 G12WB-2672-MONOMER,hypothetical protein,CD630_25171(),BioCyc
 G12WB-3007-MONOMER,hypothetical protein,CD630_28470(),BioCyc
 G12WB-3341-MONOMER,SorC family transcriptional regulator,CD630_31750(),BioCyc
-G12WB-1616-MONOMER,ferrous iron transport protein B,CD630_14790(1),BioCyc
+G12WB-1616-MONOMER,ferrous iron transport protein B,CD630_14790(),BioCyc
 G12WB-3518-MONOMER,exosporium glycoprotein BclA3,CD630_33490(),BioCyc
-G12WB-1977-MONOMER,phospho-2-dehydro-3-deoxyheptonate aldolase,CD630_18320(4),BioCyc
+G12WB-1977-MONOMER,phospho-2-dehydro-3-deoxyheptonate aldolase,CD630_18320(),BioCyc
 G12WB-2320-MONOMER,alanine--tRNA ligase,CD630_21630(),BioCyc
 G12WB-1034-MONOMER,hypothetical protein,CD630_09241(),BioCyc
 G12WB-3861-MONOMER,hypothetical protein,CD630_36690(),BioCyc
@@ -1608,7 +1608,7 @@ G12WB-1929-MONOMER,two-component response regulator WalR,CD630_17820(),BioCyc
 G12WB-2277-MONOMER,putative metal ion transporter,CD630_21220(),BioCyc
 G12WB-3814-MONOMER,phosphosugar isomerase,CD630_36280(),BioCyc
 G12WB-634-MONOMER,two-component response regulator,CD630_05210(),BioCyc
-G12WB-2613-MONOMER,ROK family glucokinase,CD630_24590(1),BioCyc
+G12WB-2613-MONOMER,ROK family glucokinase,CD630_24590(),BioCyc
 G12WB-133-MONOMER,30S ribosomal protein S3,CD630_00790(1),BioCyc
 G12WB-295-MONOMER,membrane protein,CD630_01900(),BioCyc
 G12WB-977-MONOMER,"putative molybdate ABC transporter, substrate-binding protein",CD630_08690(),BioCyc
@@ -1617,7 +1617,7 @@ G12WB-1559-MONOMER,diguanylate cyclase,CD630_14200(),BioCyc
 G12WB-346-MONOMER,predicted methyltransferase,CD630_02430(),BioCyc
 G12WB-1914-MONOMER,hypothetical protein,CD630_17671(),BioCyc
 G12WB-2262-MONOMER,"putative transporter, divalent anion:Na<sup>+</sup> symporter family",CD630_21090(),BioCyc
-G12WB-380-MONOMER,spore photoproduct lyase,CD630_02750(),BioCyc
+G12WB-380-MONOMER,spore photoproduct lyase,CD630_02750(2),BioCyc
 G12WB-617-MONOMER,conjugative transposon protein,CD630_05070(),BioCyc
 G12WB-2598-MONOMER,transmembrane signaling protein,CD630_24450(),BioCyc
 G12WB-1315-MONOMER,3-oxoacyl-ACP synthase,CD630_11840(2),BioCyc
@@ -1632,7 +1632,7 @@ G12WB-3785-MONOMER,S-ribosylhomocysteine lyase,CD630_35980(1),BioCyc
 G12WB-601-MONOMER,phosphoribosylaminoimidazolesuccinocarboxamide synthase,CD630_04890(),BioCyc
 G12WB-2583-MONOMER,nitrite/sulfite reductase,CD630_24310(),BioCyc
 G12WB-1300-MONOMER,hypothetical protein,CD630_11700(),BioCyc
-G12WB-2920-MONOMER,N-acetylmuramoyl-L-alanine amidase,CD630_27610(1),BioCyc
+G12WB-2920-MONOMER,N-acetylmuramoyl-L-alanine amidase,CD630_27610(),BioCyc
 G12WB-947-MONOMER,nitroreductase,CD630_08370(),BioCyc
 G12WB-3254-MONOMER,gamma-glutamyl-gamma-aminobutyrate hydrolase,CD630_30930(),BioCyc
 G12WB-153-MONOMER,30S ribosomal protein S13,CD630_00950(1),BioCyc
@@ -1652,7 +1652,7 @@ G12WB-1868-MONOMER,hypothetical protein,CD630_17260(),BioCyc
 G12WB-2219-MONOMER,"ABC transporter, ATP-binding protein",CD630_20680(),BioCyc
 G12WB-3756-MONOMER,peptidase,CD630_35700(),BioCyc
 G12WB-570-MONOMER,beta-lactamase,CD630_04580(),BioCyc
-G12WB-2554-MONOMER,deoxyuridine 5'-triphosphate nucleotidohydrolase,CD630_24030(3),BioCyc
+G12WB-2554-MONOMER,deoxyuridine 5'-triphosphate nucleotidohydrolase,CD630_24030(),BioCyc
 G12WB-1270-MONOMER,electron transport complex protein RnfE,CD630_11400(),BioCyc
 G12WB-2891-MONOMER,putative Na<sup></sup>:H<sup>+</sup> antiporter,CD630_27340(),BioCyc
 G12WB-918-MONOMER,hypothetical protein,CD630_08070(),BioCyc
@@ -1660,7 +1660,7 @@ G12WB-3225-MONOMER,xylose isomerase,CD630_30640(4),BioCyc
 G12WB-1500-MONOMER,XkdM-like protein,CD630_13640(),BioCyc
 G12WB-3401-MONOMER,hypothetical protein,CD630_32340(),BioCyc
 G12WB-1852-MONOMER,molybdopterin-guanine dinucleotide biosynthesis protein MobA,CD630_17090(1),BioCyc
-G12WB-2204-MONOMER,aspartokinase,CD630_20540(4),BioCyc
+G12WB-2204-MONOMER,aspartokinase,CD630_20540(),BioCyc
 G12WB-3741-MONOMER,pantothenate kinase,CD630_35550(),BioCyc
 G12WB-554-MONOMER,2-amino-4-ketopentanoate thiolase subunit alpha,CD630_04430(),BioCyc
 G12WB-254-MONOMER,peptidase,CD630_01500(),BioCyc
@@ -1691,7 +1691,7 @@ G12WB-2845-MONOMER,threonine-phosphate decarboxylase,CD630_26920(),BioCyc
 G12WB-873-MONOMER,ATP-dependent RNA helicase,CD630_07610(),BioCyc
 G12WB-3181-MONOMER,glucose uptake protein,CD630_30170(),BioCyc
 G12WB-1457-MONOMER,aspartate kinase I,CD630_13220(),BioCyc
-G12WB-1804-MONOMER,guanine deaminase,CD630_16630(1),BioCyc
+G12WB-1804-MONOMER,guanine deaminase,CD630_16630(),BioCyc
 G12WB-2161-MONOMER,hypothetical protein,CD630_20141(),BioCyc
 G12WB-3695-MONOMER,ribose-phosphate pyrophosphokinase,CD630_35140(1),BioCyc
 G12WB-2496-MONOMER,putative succinate transporter,CD630_23440(),BioCyc
@@ -1704,7 +1704,7 @@ G12WB-1442-MONOMER,transcription elongation protein,CD630_13070(1),BioCyc
 G12WB-1788-MONOMER,"putative iron-siderophore ABC transporter, ATP-binding subunit",CD630_16490(),BioCyc
 G12WB-2147-MONOMER,hypothetical protein,CD630_20010(),BioCyc
 G12WB-3680-MONOMER,stage V sporulation protein T,CD630_34990(),BioCyc
-G12WB-2481-MONOMER,translaldolase,CD630_23290(),BioCyc
+G12WB-2481-MONOMER,translaldolase,CD630_23290(12),BioCyc
 G12WB-1197-MONOMER,"mannose-fructose-sorbose family PTS, enzyme IIA component",CD630_10740(),BioCyc
 G12WB-2816-MONOMER,AraC family transcriptional regulator,CD630_26650(),BioCyc
 G12WB-494-MONOMER,6-phospho-beta-glucosidase,CD630_03890(),BioCyc
@@ -1725,7 +1725,7 @@ G12WB-1756-MONOMER,GntR family transcriptional regulator,CD630_16170(),BioCyc
 G12WB-2117-MONOMER,RNA dimethylallyltransferase,CD630_19750(2),BioCyc
 G12WB-3651-MONOMER,"F<sub>o</sub>F<sub>1</sub> ATP synthase, &delta; subunit",CD630_34710(),BioCyc
 G12WB-2451-MONOMER,regulatory protein,CD630_22970(),BioCyc
-G12WB-1168-MONOMER,inorganic polyphosphate/ATP-NAD kinase,CD630_10490(6),BioCyc
+G12WB-1168-MONOMER,inorganic polyphosphate/ATP-NAD kinase,CD630_10490(),BioCyc
 G12WB-2786-MONOMER,hypothetical protein,CD630_26350(),BioCyc
 G12WB-462-MONOMER,integrase,CD630_03550(),BioCyc
 G12WB-814-MONOMER,metal-dependent phosphohydrolase,CD630_07040(),BioCyc
@@ -1772,7 +1772,7 @@ G12WB-754-MONOMER,"multidrug family ABC transporter, ATP-binding protein",CD630_
 G12WB-3062-MONOMER,hypothetical protein,CD630_29010(),BioCyc
 G12WB-1674-MONOMER,ferredoxin-NADP(+) reductase subunit alpha,CD630_15360(),BioCyc
 G12WB-3573-MONOMER,hypothetical protein,CD630_33990(),BioCyc
-G12WB-2037-MONOMER,type 11 family methyltransferase,CD630_18920(1),BioCyc
+G12WB-2037-MONOMER,type 11 family methyltransferase,CD630_18920(),BioCyc
 G12WB-2377-MONOMER,hypothetical protein,CD630_22221(),BioCyc
 G12WB-109-MONOMER,ribonuclease,CD630_00560(),BioCyc
 G12WB-424-MONOMER,"ABC transporter, membrane protein",CD630_03160(),BioCyc
@@ -1879,7 +1879,7 @@ G12WB-1527-MONOMER,hypothetical protein,CD630_13900(),BioCyc
 G12WB-3428-MONOMER,phosphate uptake regulator PhoU,CD630_32600(),BioCyc
 G12WB-1881-MONOMER,"putative transporter, gluconate:H<sup>+</sup> symporter family",CD630_17370(),BioCyc
 G12WB-2230-MONOMER,S-adenosylhomocysteine deaminase,CD630_20780(),BioCyc
-G12WB-3768-MONOMER,hypothetical protein,CD630_35810(2),BioCyc
+G12WB-3768-MONOMER,hypothetical protein,CD630_35810(),BioCyc
 G12WB-583-MONOMER,penicillinase transcriptional regulator,CD630_04710(),BioCyc
 G12WB-2566-MONOMER,sorbitol-like operon activator protein,CD630_24150(),BioCyc
 G12WB-1283-MONOMER,methylglyoxal synthase,CD630_11530(6),BioCyc
@@ -1916,10 +1916,10 @@ G12WB-3721-MONOMER,methionine--tRNA ligase,CD630_35400(2),BioCyc
 G12WB-535-MONOMER,HTH-type transcriptional regulator,CD630_04270(),BioCyc
 G12WB-2522-MONOMER,quinolinate synthetase,CD630_23720(2),BioCyc
 G12WB-1238-MONOMER,hydrolase,CD630_11100(),BioCyc
-G12WB-2857-MONOMER,"putative transporter, nucleobase:cation symporter-2 family",CD630_27040(1),BioCyc
+G12WB-2857-MONOMER,"putative transporter, nucleobase:cation symporter-2 family",CD630_27040(),BioCyc
 G12WB-886-MONOMER,stage V sporulation protein AE,CD630_07750(),BioCyc
 G12WB-3193-MONOMER,PTS operon transcription antiterminator,CD630_30310(),BioCyc
-G12WB-1469-MONOMER,adenylosuccinate lyase,CD630_13340(),BioCyc
+G12WB-1469-MONOMER,adenylosuccinate lyase,CD630_13340(1),BioCyc
 G12WB-1817-MONOMER,HxlR family transcriptional regulator,CD630_16750(),BioCyc
 G12WB-2173-MONOMER,"ABC transporter, membrane protein",CD630_20250(),BioCyc
 G12WB-3707-MONOMER,"iron family ABC transporter, membrane protein",CD630_35260(),BioCyc
@@ -1927,7 +1927,7 @@ G12WB-519-MONOMER,conjugative transposon protein,CD630_04121(),BioCyc
 G12WB-2508-MONOMER,oligoendopeptidase-like protein,CD630_23580(),BioCyc
 G12WB-1223-MONOMER,conjugative transposon protein,CD630_10991(),BioCyc
 G12WB-2842-MONOMER,lipoprotein,CD630_26890(),BioCyc
-G12WB-870-MONOMER,pyruvate formate-lyase activating enzyme,CD630_07580(1),BioCyc
+G12WB-870-MONOMER,pyruvate formate-lyase activating enzyme,CD630_07580(),BioCyc
 G12WB-3179-MONOMER,"putative mannose-specific PTS, enzyme IIA component",CD630_30150(),BioCyc
 G12WB-1454-MONOMER,polysaccharide deacetylase,CD630_13190(),BioCyc
 G12WB-1801-MONOMER,transposase-like protein A,CD630_16601(),BioCyc
@@ -1957,7 +1957,7 @@ G12WB-2464-MONOMER,"molybdate family ABC transporter, membrane subunit",CD630_23
 G12WB-118-MONOMER,50S ribosomal protein L7/L12,CD630_00640(2),BioCyc
 G12WB-2798-MONOMER,membrane protein,CD630_26470(),BioCyc
 G12WB-475-MONOMER,conjugative transposon protein,CD630_03690(),BioCyc
-G12WB-826-MONOMER,phosphate butyryltransferase,CD630_07150(6),BioCyc
+G12WB-826-MONOMER,phosphate butyryltransferase,CD630_07150(),BioCyc
 G12WB-3135-MONOMER,AMP-binding protein,CD630_29690(),BioCyc
 G12WB-141-MONOMER,30S ribosomal protein S8,CD630_00850(1),BioCyc
 G12WB-1753-MONOMER,"ABC transporter, ATP-binding protein",CD630_16140(),BioCyc
@@ -2029,7 +2029,7 @@ G12WB-722-MONOMER,"ABC transporter, ATP-binding protein",CD630_06130(),BioCyc
 G12WB-2696-MONOMER,putative cystine:cation symporter,CD630_25410(),BioCyc
 G12WB-3030-MONOMER,putative 2-keto-3-deoxygluconate transporter,CD630_28700(1),BioCyc
 G12WB-3365-MONOMER,"multidrug family ABC transporter, membrane protein",CD630_31990(),BioCyc
-G12WB-164-MONOMER,germination-specific N-acetylmuramoyl-L-alanine amidase,CD630_01060(1),BioCyc
+G12WB-164-MONOMER,germination-specific N-acetylmuramoyl-L-alanine amidase,CD630_01060(),BioCyc
 G12WB-3541-MONOMER,recombinase,CD630_33700(),BioCyc
 G12WB-2002-MONOMER,conjugative transposon protein,CD630_18571(),BioCyc
 G12WB-2344-MONOMER,beta-phosphoglucomutase,CD630_21890(),BioCyc
@@ -2038,7 +2038,7 @@ G12WB-390-MONOMER,"mannose/fructose/sorbose family PTS, enzyme IIB component",CD
 G12WB-707-MONOMER,hypothetical protein,CD630_05940(),BioCyc
 G12WB-2681-MONOMER,"1,4-alpha-glucan-branching protein",CD630_25260(1),BioCyc
 G12WB-3016-MONOMER,membrane protein,CD630_28560(),BioCyc
-G12WB-3350-MONOMER,diaminopropionate ammonia-lyase,CD630_31840(2),BioCyc
+G12WB-3350-MONOMER,diaminopropionate ammonia-lyase,CD630_31840(),BioCyc
 G12WB-1625-MONOMER,DeoR family transcriptional regulator,CD630_14880(),BioCyc
 G12WB-3527-MONOMER,hypothetical protein,CD630_33581(),BioCyc
 G12WB-1987-MONOMER,hypothetical protein,CD630_18420(),BioCyc
@@ -2057,7 +2057,7 @@ G12WB-1029-MONOMER,hypothetical protein,CD630_09210(),BioCyc
 G12WB-3856-MONOMER,aminotransferase,CD630_36640(),BioCyc
 G12WB-676-MONOMER,ATP-dependent protease,CD630_05640(),BioCyc
 G12WB-2651-MONOMER,competence protein ComEA,CD630_24970(),BioCyc
-G12WB-2988-MONOMER,aspartate aminotransferase,CD630_28280(2),BioCyc
+G12WB-2988-MONOMER,aspartate aminotransferase,CD630_28280(),BioCyc
 G12WB-3321-MONOMER,hypothetical protein,CD630_31562(),BioCyc
 G12WB-1597-MONOMER,phosphohydrolase,CD630_14600(),BioCyc
 G12WB-3498-MONOMER,HTH-type transcriptional regulator,CD630_33300(),BioCyc
@@ -2102,7 +2102,7 @@ G12WB-3794-MONOMER,hydrolase,CD630_36060(),BioCyc
 G12WB-611-MONOMER,conjugative transposon protein,CD630_04991(),BioCyc
 G12WB-2592-MONOMER,diacylglycerol kinase,CD630_24390(),BioCyc
 G12WB-131-MONOMER,30S ribosomal protein S19,CD630_00770(1),BioCyc
-G12WB-293-MONOMER,2-dehydropantoate 2-reductase,CD630_01880(1),BioCyc
+G12WB-293-MONOMER,2-dehydropantoate 2-reductase,CD630_01880(),BioCyc
 G12WB-956-MONOMER,hypothetical protein,CD630_08460(),BioCyc
 G12WB-3263-MONOMER,"glucose-glucoside family PTS, enzyme IIBC component",CD630_31010(),BioCyc
 G12WB-1539-MONOMER,glycerophosphoryl diester phosphodiesterase,CD630_14020(),BioCyc
@@ -2159,7 +2159,7 @@ G12WB-252-MONOMER,hypothetical protein,CD630_01480(),BioCyc
 G12WB-1235-MONOMER,conjugative transposon protein,CD630_11071(),BioCyc
 G12WB-2854-MONOMER,lipoprotein,CD630_27010(),BioCyc
 G12WB-883-MONOMER,RNA polymerase sigma factor SigF,CD630_07720(),BioCyc
-G12WB-3190-MONOMER,phosphosugar isomerase,CD630_30280(4),BioCyc
+G12WB-3190-MONOMER,phosphosugar isomerase,CD630_30280(),BioCyc
 G12WB-1466-MONOMER,signal peptidase I,CD630_13310(),BioCyc
 G12WB-1814-MONOMER,two-component sensor histidine kinase,CD630_16720(),BioCyc
 G12WB-2170-MONOMER,hypothetical protein,CD630_20220(),BioCyc
@@ -2214,7 +2214,7 @@ G12WB-1392-MONOMER,ribosome biogenesis GTPase,CD630_12580(),BioCyc
 G12WB-1734-MONOMER,ferredoxin,CD630_15951(),BioCyc
 G12WB-2096-MONOMER,"ABC transporter, membrane protein",CD630_19540(),BioCyc
 G12WB-3631-MONOMER,GntR family transcriptional regulator,CD630_34520(),BioCyc
-G12WB-2431-MONOMER,L-ribulose-5-phosphate 4-epimerase,CD630_22780(1),BioCyc
+G12WB-2431-MONOMER,L-ribulose-5-phosphate 4-epimerase,CD630_22780(4),BioCyc
 G12WB-1144-MONOMER,cell wall anchored protein,CD630_10290(),BioCyc
 G12WB-2766-MONOMER,TetR family transcriptional regulator,CD630_26150(),BioCyc
 G12WB-449-MONOMER,hypothetical protein,CD630_03400(),BioCyc
@@ -2289,12 +2289,12 @@ G12WB-3-MONOMER,RNA-binding mediating protein,CD630_00030(),BioCyc
 G12WB-3333-MONOMER,hypothetical protein,CD630_31680(),BioCyc
 G12WB-1608-MONOMER,membrane protein,CD630_14710(),BioCyc
 G12WB-351-MONOMER,flagellar MS-ring protein,CD630_02480(),BioCyc
-G12WB-1968-MONOMER,putative Ca<sup>2+</sup>-transporting P-type ATPase,CD630_18240(),BioCyc
+G12WB-1968-MONOMER,putative Ca<sup>2+</sup>-transporting P-type ATPase,CD630_18240(1),BioCyc
 G12WB-2312-MONOMER,biotin synthase,CD630_21550(),BioCyc
 G12WB-1026-MONOMER,hypothetical protein,CD630_09180(),BioCyc
 G12WB-3853-MONOMER,30S ribosomal protein S18,CD630_36611(1),BioCyc
 G12WB-673-MONOMER,aldo/keto reductase ferredoxin,CD630_05610(),BioCyc
-G12WB-2649-MONOMER,L-seryl-tRNA(Sec) selenium transferase,CD630_24950(10),BioCyc
+G12WB-2649-MONOMER,L-seryl-tRNA(Sec) selenium transferase,CD630_24950(),BioCyc
 G12WB-2985-MONOMER,flavodoxin,CD630_28250(),BioCyc
 G12WB-3319-MONOMER,phage integrase,CD630_31560(),BioCyc
 G12WB-1594-MONOMER,hypothetical protein,CD630_14570(),BioCyc
@@ -2319,7 +2319,7 @@ G12WB-262-MONOMER,hypothetical protein,CD630_01590(),BioCyc
 G12WB-1336-MONOMER,geranyltranstransferase,CD630_12050(1),BioCyc
 G12WB-2956-MONOMER,calcium-binding adhesion protein,CD630_27970(),BioCyc
 G12WB-983-MONOMER,"sugar-family ABC transporter, membrane subunit",CD630_08750(),BioCyc
-G12WB-329-MONOMER,lytic transglycosylase,CD630_02260(),BioCyc
+G12WB-329-MONOMER,lytic transglycosylase,CD630_02260(1),BioCyc
 G12WB-1565-MONOMER,HxlR family transcriptional regulator,CD630_14280(),BioCyc
 G12WB-3466-MONOMER,"putative riboflavin transporter, major facilitator superfamily",CD630_32990(),BioCyc
 G12WB-1920-MONOMER,hypothetical protein,CD630_17730(),BioCyc
@@ -2344,7 +2344,7 @@ G12WB-953-MONOMER,group 1 glycosyl transferase,CD630_08430(),BioCyc
 G12WB-3260-MONOMER,PTS operon transcription antiterminator,CD630_30980(),BioCyc
 G12WB-1536-MONOMER,muramoyltetrapeptide carboxypeptidase,CD630_13990(1),BioCyc
 G12WB-3437-MONOMER,MgtC/SapB family magnesium transport ATPase,CD630_32700(),BioCyc
-G12WB-1891-MONOMER,adenosine deaminase,CD630_17470(1),BioCyc
+G12WB-1891-MONOMER,adenosine deaminase,CD630_17470(),BioCyc
 G12WB-224-MONOMER,glucosamine--fructose-6-phosphate aminotransferase,CD630_01200(2),BioCyc
 G12WB-3777-MONOMER,carbamoyl-phosphate synthase large subunit,CD630_35900(),BioCyc
 G12WB-593-MONOMER,two-component response regulator,CD630_04810(),BioCyc
@@ -2352,7 +2352,7 @@ G12WB-2575-MONOMER,pyridoxal phosphate-dependent transferase,CD630_24240(),BioCy
 G12WB-1292-MONOMER,ribosome-associated protein,CD630_11620(),BioCyc
 G12WB-2912-MONOMER,signaling protein,CD630_27530(),BioCyc
 G12WB-939-MONOMER,metallo-beta-lactamase superfamily protein,CD630_08290(),BioCyc
-G12WB-3246-MONOMER,alpha-mannosidase,CD630_30850(1),BioCyc
+G12WB-3246-MONOMER,alpha-mannosidase,CD630_30850(),BioCyc
 G12WB-1521-MONOMER,GntR family transcriptional regulator,CD630_13830(),BioCyc
 G12WB-3422-MONOMER,VirR-like two-component response regulator RgaR,CD630_32550(),BioCyc
 G12WB-1875-MONOMER,acetyltransferase,CD630_17310(),BioCyc
@@ -2367,7 +2367,7 @@ G12WB-3231-MONOMER,"putative xyloside-specific PTS, enzyme IIC component",CD630_
 G12WB-1507-MONOMER,XkdS-like protein,CD630_13700(),BioCyc
 G12WB-3408-MONOMER,proline reductase,CD630_32410(),BioCyc
 G12WB-1859-MONOMER,hypothetical protein,CD630_17151(),BioCyc
-G12WB-2210-MONOMER,glutamine--tRNA ligase,CD630_20590(1),BioCyc
+G12WB-2210-MONOMER,glutamine--tRNA ligase,CD630_20590(),BioCyc
 G12WB-3748-MONOMER,glutamate racemase,CD630_35620(2),BioCyc
 G12WB-561-MONOMER,transcriptional regulator,CD630_04500(),BioCyc
 G12WB-2546-MONOMER,hypothetical protein,CD630_23950(),BioCyc
@@ -2382,7 +2382,7 @@ G12WB-2197-MONOMER,two-component response regulator,CD630_20470(),BioCyc
 G12WB-3730-MONOMER,DNA polymerase III subunit delta',CD630_35490(),BioCyc
 G12WB-545-MONOMER,conjugative transposon protein,CD630_04351(),BioCyc
 G12WB-2531-MONOMER,indolepyruvate oxidoreductase subunit IorA,CD630_23810(),BioCyc
-G12WB-1247-MONOMER,formate acetyltransferase,CD630_11200(2),BioCyc
+G12WB-1247-MONOMER,formate acetyltransferase,CD630_11200(),BioCyc
 G12WB-2866-MONOMER,"L,D-transpeptidase",CD630_27130(),BioCyc
 G12WB-896-MONOMER,"ABC transporter, ATP-binding protein",CD630_07850(),BioCyc
 G12WB-3202-MONOMER,hypothetical protein,CD630_30400(),BioCyc
@@ -2400,7 +2400,7 @@ G12WB-3188-MONOMER,hypothetical protein,CD630_30260(),BioCyc
 G12WB-1463-MONOMER,recombinase A,CD630_13280(),BioCyc
 G12WB-1811-MONOMER,"multidrug family ABC transporter, ATP-binding protein",CD630_16690(),BioCyc
 G12WB-2168-MONOMER,chaperone protein,CD630_20200(),BioCyc
-G12WB-3701-MONOMER,cation efflux protein,CD630_35200(),BioCyc
+G12WB-3701-MONOMER,cation efflux protein,CD630_35200(2),BioCyc
 G12WB-513-MONOMER,hypothetical protein,CD630_04080(),BioCyc
 G12WB-2501-MONOMER,glycine reductase complex component C subunit beta,CD630_23490(),BioCyc
 G12WB-1218-MONOMER,"multidrug family ABC transporter, membrane protein",CD630_10950(),BioCyc
@@ -2414,13 +2414,13 @@ G12WB-3687-MONOMER,minor pilin PilK,CD630_35060(),BioCyc
 G12WB-2488-MONOMER,toxic anion resistance protein,CD630_23360(),BioCyc
 G12WB-1203-MONOMER,lipoprotein,CD630_10800(),BioCyc
 G12WB-2822-MONOMER,"putative oligopeptide ABC transporter, ATP-binding subunit",CD630_26710(),BioCyc
-G12WB-500-MONOMER,4-methyl-2-oxopentanoate reductase,CD630_03940(1),BioCyc
+G12WB-500-MONOMER,4-methyl-2-oxopentanoate reductase,CD630_03940(),BioCyc
 G12WB-85-MONOMER,glycoside hydrolase,CD630_00330(),BioCyc
 G12WB-3159-MONOMER,ribonucleoside-diphosphate reductase subunit beta,CD630_29940(),BioCyc
 G12WB-1434-MONOMER,cytosol aminopeptidase,CD630_13000(6),BioCyc
 G12WB-1779-MONOMER,hypothetical protein,CD630_16400(),BioCyc
 G12WB-2139-MONOMER,ArsR family transcriptional regulator,CD630_19941(),BioCyc
-G12WB-3672-MONOMER,exopolyphosphatase,CD630_34910(2),BioCyc
+G12WB-3672-MONOMER,exopolyphosphatase,CD630_34910(),BioCyc
 G12WB-2473-MONOMER,transketolase,CD630_23210(),BioCyc
 G12WB-1189-MONOMER,hypothetical protein,CD630_10660(),BioCyc
 G12WB-2808-MONOMER,hypothetical protein,CD630_26570(),BioCyc
@@ -2460,7 +2460,7 @@ G12WB-3100-MONOMER,hypothetical protein,CD630_29370(),BioCyc
 G12WB-1375-MONOMER,hypothetical protein,CD630_12420(),BioCyc
 G12WB-1715-MONOMER,membrane-associated ribonuclease,CD630_15780(),BioCyc
 G12WB-2077-MONOMER,stage V sporulation protein S,CD630_19350(),BioCyc
-G12WB-3614-MONOMER,cobalamin synthase CobS,CD630_34370(1),BioCyc
+G12WB-3614-MONOMER,cobalamin synthase CobS,CD630_34370(),BioCyc
 G12WB-2414-MONOMER,hypothetical protein,CD630_22590(),BioCyc
 G12WB-1127-MONOMER,membrane protein,CD630_10120(),BioCyc
 G12WB-2749-MONOMER,fibronectin-binding protein A,CD630_25920(),BioCyc
@@ -2567,7 +2567,7 @@ G12WB-2266-MONOMER,two-component sensor histidine kinase,CD630_21130(),BioCyc
 G12WB-3803-MONOMER,hypothetical protein,CD630_36170(),BioCyc
 G12WB-621-MONOMER,conjugative transposon protein,CD630_05091(),BioCyc
 G12WB-2601-MONOMER,histidine triad (HIT) protein,CD630_24470(),BioCyc
-G12WB-1319-MONOMER,gamma-glutamyl-gamma-aminobutyrate hydrolase,CD630_11880(2),BioCyc
+G12WB-1319-MONOMER,gamma-glutamyl-gamma-aminobutyrate hydrolase,CD630_11880(),BioCyc
 G12WB-2939-MONOMER,phosphoglucomutase,CD630_27800(1),BioCyc
 G12WB-965-MONOMER,"putative oligopeptide ABC transporter, substrate-binding protein",CD630_08550(),BioCyc
 G12WB-3272-MONOMER,6-phosphofructokinase,CD630_31100(),BioCyc
@@ -2575,7 +2575,7 @@ G12WB-1548-MONOMER,HAD superfamily hydrolase,CD630_14100(),BioCyc
 G12WB-3449-MONOMER,<i>trans</i>-4-hydroxy-L-proline dehydratase,CD630_32820(),BioCyc
 G12WB-1903-MONOMER,hypothetical protein,CD630_17570(),BioCyc
 G12WB-2251-MONOMER,xanthine dehydrogenase molybdenum binding subunit XdhA,CD630_20990(),BioCyc
-G12WB-3789-MONOMER,ATPase,CD630_36020(2),BioCyc
+G12WB-3789-MONOMER,ATPase,CD630_36020(),BioCyc
 G12WB-605-MONOMER,"putative ribitol-specific PTS, enzyme IIC component",CD630_04930(),BioCyc
 G12WB-2587-MONOMER,DNA repair protein RecO,CD630_24350(),BioCyc
 G12WB-1304-MONOMER,hypothetical protein,CD630_11740(),BioCyc
@@ -2589,7 +2589,7 @@ G12WB-2237-MONOMER,diaminopropionate ammonia-lyase,CD630_20850(),BioCyc
 G12WB-3774-MONOMER,CheY family two-component response regulator,CD630_35870(),BioCyc
 G12WB-590-MONOMER,"multidrug family ABC transporter, ATP-binding protein",CD630_04780(),BioCyc
 G12WB-2572-MONOMER,amidohydrolase,CD630_24210(),BioCyc
-G12WB-129-MONOMER,50S ribosomal protein L23,CD630_00750(1),BioCyc
+G12WB-129-MONOMER,50S ribosomal protein L23,CD630_00750(),BioCyc
 G12WB-291-MONOMER,dihydroorotate dehydrogenase catalytic subunit,CD630_01860(),BioCyc
 G12WB-936-MONOMER,ferric-uptake regulator,CD630_08260(),BioCyc
 G12WB-3243-MONOMER,"putative &beta;-glycoside-specific PTS, enzyme IIB component",CD630_30820(),BioCyc
@@ -2615,7 +2615,7 @@ G12WB-126-MONOMER,30S ribosomal protein S10,CD630_00720(1),BioCyc
 G12WB-2880-MONOMER,membrane protein,CD630_27230(),BioCyc
 G12WB-907-MONOMER,LacI family transcriptional regulator,CD630_07960(),BioCyc
 G12WB-3214-MONOMER,two-component sensor histidine kinase,CD630_30530(),BioCyc
-G12WB-149-MONOMER,methionine aminopeptidase,CD630_00920(),BioCyc
+G12WB-149-MONOMER,methionine aminopeptidase,CD630_00920(1),BioCyc
 G12WB-3390-MONOMER,dihydrodipicolinate synthase 2,CD630_32230(4),BioCyc
 G12WB-1840-MONOMER,"riboflavin biosynthesis bifunctional 3,4-dihydroxy-2-butanone 4-phosphate synthase/GTP cyclohydrolase",CD630_16980(2),BioCyc
 G12WB-2194-MONOMER,HTH-type transcriptional regulator,CD630_20450(),BioCyc
@@ -2626,9 +2626,9 @@ G12WB-1244-MONOMER,conjugative transposon protein,CD630_11170(),BioCyc
 G12WB-2863-MONOMER,sugar phosphate epimerase/isomerase,CD630_27100(),BioCyc
 G12WB-893-MONOMER,sporulation protein YunB,CD630_07820(),BioCyc
 G12WB-320-MONOMER,nitroreductase,CD630_02170(),BioCyc
-G12WB-1475-MONOMER,galactose-1-phosphate uridylyltransferase,CD630_13400(2),BioCyc
+G12WB-1475-MONOMER,galactose-1-phosphate uridylyltransferase,CD630_13400(),BioCyc
 G12WB-3376-MONOMER,hypothetical protein,CD630_32100(),BioCyc
-G12WB-1824-MONOMER,queuosine hydrolase monomer,CD630_16820(4),BioCyc
+G12WB-1824-MONOMER,queuosine hydrolase monomer,CD630_16820(),BioCyc
 G12WB-218-MONOMER,hypothetical protein,CD630_01140(),BioCyc
 G12WB-3713-MONOMER,phosphonate metabolism protein PhnM,CD630_35320(),BioCyc
 G12WB-526-MONOMER,conjugative transposon protein,CD630_04190(),BioCyc
@@ -2644,7 +2644,7 @@ G12WB-3699-MONOMER,UDP-N-acetylmuramate--L-alanine ligase,CD630_35180(1),BioCyc
 G12WB-510-MONOMER,hypothetical protein,CD630_04040(),BioCyc
 G12WB-25-MONOMER,glycosyl transferase family protein,CD630_00190(),BioCyc
 G12WB-1215-MONOMER,excisionase,CD630_10920(),BioCyc
-G12WB-2834-MONOMER,pyruvate-ferredoxin oxidoreductase,CD630_26820(1),BioCyc
+G12WB-2834-MONOMER,pyruvate-ferredoxin oxidoreductase,CD630_26820(),BioCyc
 G12WB-862-MONOMER,"amino acid family ABC transporter, substrate-binding protein",CD630_07500(),BioCyc
 G12WB-3170-MONOMER,IclR family transcriptional regulator,CD630_30050(),BioCyc
 G12WB-1446-MONOMER,ribosome-binding factor A,CD630_13100(1),BioCyc
@@ -2675,12 +2675,12 @@ G12WB-2455-MONOMER,hypothetical protein,CD630_23010(),BioCyc
 G12WB-1171-MONOMER,hypothetical protein,CD630_10520(),BioCyc
 G12WB-279-MONOMER,lipoprotein,CD630_01730(),BioCyc
 G12WB-466-MONOMER,GntR family transcriptional regulator,CD630_03600(),BioCyc
-G12WB-818-MONOMER,peptidase D,CD630_07080(2),BioCyc
+G12WB-818-MONOMER,peptidase D,CD630_07080(),BioCyc
 G12WB-3127-MONOMER,hypothetical protein,CD630_29620(),BioCyc
 G12WB-1401-MONOMER,"multidrug family ABC transporter, membrane protein",CD630_12670(),BioCyc
 G12WB-1744-MONOMER,transcriptional regulator,CD630_16050(),BioCyc
 G12WB-2105-MONOMER,methyltransferase,CD630_19630(),BioCyc
-G12WB-3640-MONOMER,transketolase thiamine diphosphate-binding subunit,CD630_34600(),BioCyc
+G12WB-3640-MONOMER,transketolase thiamine diphosphate-binding subunit,CD630_34600(2),BioCyc
 G12WB-2440-MONOMER,"putative transporter, branched chain amino acid exporter family",CD630_22870(),BioCyc
 G12WB-1157-MONOMER,UvrD-family helicase,CD630_10380(),BioCyc
 G12WB-2775-MONOMER,hypothetical protein,CD630_26240(),BioCyc
@@ -2709,7 +2709,7 @@ G12WB-775-MONOMER,hypothetical protein,CD630_06642(),BioCyc
 G12WB-3083-MONOMER,portal protein,CD630_29210(),BioCyc
 G12WB-1697-MONOMER,ECF RNA polymerase sigma factor CsfV,CD630_15580(),BioCyc
 G12WB-2057-MONOMER,ethanolamine ammonia lyase large subunit,CD630_19130(),BioCyc
-G12WB-3597-MONOMER,bifunctional uroporphyrinogen-III methyltransferase/uroporphyrinogen-III synthase,CD630_34200(2),BioCyc
+G12WB-3597-MONOMER,bifunctional uroporphyrinogen-III methyltransferase/uroporphyrinogen-III synthase,CD630_34200(),BioCyc
 G12WB-2398-MONOMER,membrane protein,CD630_22430(),BioCyc
 G12WB-111-MONOMER,elongation factor Tu,CD630_00580(),BioCyc
 G12WB-2731-MONOMER,ribulose-phosphate 3-epimerase,CD630_25750(1),BioCyc
@@ -2719,7 +2719,7 @@ G12WB-4336-MONOMER,Putative membrane protein,CD630_06210(),BioCyc
 G12WB-758-MONOMER,peptidase,CD630_06500(),BioCyc
 G12WB-3066-MONOMER,tail tape measure protein,CD630_29050(),BioCyc
 G12WB-1678-MONOMER,"ABC transporter, membrane protein",CD630_15400(),BioCyc
-G12WB-3577-MONOMER,putative formate/nitrite transporter,CD630_34030(5),BioCyc
+G12WB-3577-MONOMER,putative formate/nitrite transporter,CD630_34030(1),BioCyc
 G12WB-2041-MONOMER,hypothetical protein,CD630_18960(),BioCyc
 G12WB-2380-MONOMER,hypothetical protein,CD630_22240(),BioCyc
 G12WB-1093-MONOMER,hypothetical protein,CD630_09772(),BioCyc
@@ -2802,7 +2802,7 @@ G12WB-3284-MONOMER,flavodoxin/nitric oxide synthase,CD630_31210(),BioCyc
 G12WB-156-MONOMER,DNA-directed RNA polymerase subunit alpha,CD630_00980(),BioCyc
 G12WB-3460-MONOMER,pilus assembly protein,CD630_32930(),BioCyc
 G12WB-1915-MONOMER,membrane protein,CD630_17680(),BioCyc
-G12WB-2263-MONOMER,transaldolaseC-like,CD630_21100(12),BioCyc
+G12WB-2263-MONOMER,transaldolaseC-like,CD630_21100(),BioCyc
 G12WB-3800-MONOMER,hypothetical protein,CD630_36140(),BioCyc
 G12WB-618-MONOMER,tetracycline resistance protein TetM,CD630_05080(),BioCyc
 G12WB-2599-MONOMER,hypothetical protein,CD630_24460(),BioCyc
@@ -2815,7 +2815,7 @@ G12WB-3446-MONOMER,"mannose-fructose-sorbose family PTS, enzyme IIB component",C
 G12WB-1900-MONOMER,"multidrug family ABC transporter, membrane protein",CD630_17550(),BioCyc
 G12WB-2249-MONOMER,putative queuosine precursor ECF transporter S-component,CD630_20970(),BioCyc
 G12WB-3786-MONOMER,two-component sensor histidine kinase,CD630_35990(),BioCyc
-G12WB-602-MONOMER,sugar-phosphate dehydrogenase,CD630_04900(1),BioCyc
+G12WB-602-MONOMER,sugar-phosphate dehydrogenase,CD630_04900(),BioCyc
 G12WB-2584-MONOMER,glycine--tRNA ligase subunit beta,CD630_24320(),BioCyc
 G12WB-1301-MONOMER,electron transfer flavoprotein subunit alpha,CD630_11710(),BioCyc
 G12WB-2921-MONOMER,undecaprenyl pyrophosphate synthetase,CD630_27620(),BioCyc
@@ -2828,7 +2828,7 @@ G12WB-2234-MONOMER,amidohydrolase,CD630_20820(),BioCyc
 G12WB-3771-MONOMER,"ABC transporter, membrane protein",CD630_35840(),BioCyc
 G12WB-587-MONOMER,hypothetical protein,CD630_04750(),BioCyc
 G12WB-257-MONOMER,4-hydroxyphenylacetate decarboxylase catalytic subunit HpdB,CD630_01530(),BioCyc
-G12WB-1287-MONOMER,anaerobic nitric oxide reductase flavorubredoxin,CD630_11570(4),BioCyc
+G12WB-1287-MONOMER,anaerobic nitric oxide reductase flavorubredoxin,CD630_11570(),BioCyc
 G12WB-2907-MONOMER,radical SAM family protein,CD630_27490(),BioCyc
 G12WB-933-MONOMER,"multidrug family ABC transporter, membrane protein",CD630_08230(),BioCyc
 G12WB-3240-MONOMER,6-phospho-beta-glucosidase,CD630_30790(),BioCyc
@@ -2873,7 +2873,7 @@ G12WB-3710-MONOMER,"iron family ABC transporter, membrane protein",CD630_35290()
 G12WB-523-MONOMER,conjugative transposon protein,CD630_04160(),BioCyc
 G12WB-2511-MONOMER,hypothetical protein,CD630_23600(),BioCyc
 G12WB-1227-MONOMER,conjugative transposon protein,CD630_11030(),BioCyc
-G12WB-2846-MONOMER,"putative transporter, dicarboxylate/amino acid:cation symporter family",CD630_26930(1),BioCyc
+G12WB-2846-MONOMER,"putative transporter, dicarboxylate/amino acid:cation symporter family",CD630_26930(),BioCyc
 G12WB-874-MONOMER,PTS operon transcription antiterminator,CD630_07620(),BioCyc
 G12WB-3182-MONOMER,oxidoreductase,CD630_30180(),BioCyc
 G12WB-1458-MONOMER,protein export-enhancing factor,CD630_13230(),BioCyc
@@ -2933,7 +2933,7 @@ G12WB-2423-MONOMER,fructose 1-phosphate kinase,CD630_22700(2),BioCyc
 G12WB-1136-MONOMER,spore coat protein,CD630_10210(),BioCyc
 G12WB-2758-MONOMER,two-component response regulator,CD630_26010(),BioCyc
 G12WB-446-MONOMER,"ABC transporter, membrane protein",CD630_03370(),BioCyc
-G12WB-787-MONOMER,ECF RNA polymerase sigma factor CsfT,CD630_06770(1),BioCyc
+G12WB-787-MONOMER,ECF RNA polymerase sigma factor CsfT,CD630_06770(),BioCyc
 G12WB-3095-MONOMER,hypothetical protein,CD630_29330(),BioCyc
 G12WB-137-MONOMER,50S ribosomal protein L14,CD630_00820(1),BioCyc
 G12WB-1709-MONOMER,transposase-like protein B,CD630_15720(),BioCyc
@@ -2945,10 +2945,10 @@ G12WB-2743-MONOMER,coenzyme A biosynthesis bifunctional phosphopantothenoylcyste
 G12WB-439-MONOMER,hypothetical protein,CD630_03300(),BioCyc
 G12WB-772-MONOMER,toxin A,CD630_06630(),BioCyc
 G12WB-3080-MONOMER,scaffold protein,CD630_29170(),BioCyc
-G12WB-1694-MONOMER,putative serine/threonine exchanger,CD630_15550(1),BioCyc
+G12WB-1694-MONOMER,putative serine/threonine exchanger,CD630_15550(),BioCyc
 G12WB-2054-MONOMER,ethanolamine specific two-component response regulator,CD630_19100(),BioCyc
 G12WB-3591-MONOMER,"putative <i>sn</i>-glycerol 3-phosphate ABC transporter, ATP-binding subunit",CD630_34170(),BioCyc
-G12WB-2395-MONOMER,N-acetylneuraminate lyase,CD630_22400(4),BioCyc
+G12WB-2395-MONOMER,N-acetylneuraminate lyase,CD630_22400(),BioCyc
 G12WB-1107-MONOMER,3-isopropylmalate dehydrogenase,CD630_09920(2),BioCyc
 G12WB-3589-MONOMER,"putative <i>sn</i>-glycerol 3-phosphate ABC transporter, membrane subunit",CD630_34150(),BioCyc
 G12WB-2392-MONOMER,hypothetical protein,CD630_22370(),BioCyc
@@ -2965,7 +2965,7 @@ G12WB-1090-MONOMER,hypothetical protein,CD630_09750(),BioCyc
 G12WB-4246-MONOMER,hydantoinase,CD630_17180(),BioCyc
 G12WB-740-MONOMER,transcriptional regulator,CD630_06310(),BioCyc
 G12WB-3049-MONOMER,hypothetical protein,CD630_28890(),BioCyc
-G12WB-1659-MONOMER,tyrosine--tRNA ligase,CD630_15210(2),BioCyc
+G12WB-1659-MONOMER,tyrosine--tRNA ligase,CD630_15210(),BioCyc
 G12WB-356-MONOMER,flagellar hook-length control protein FliK,CD630_02530(),BioCyc
 G12WB-2022-MONOMER,"ABC transporter, membrane protein",CD630_18750(),BioCyc
 G12WB-2362-MONOMER,flavodoxin,CD630_22070(),BioCyc
@@ -3033,7 +3033,7 @@ G12WB-1571-MONOMER,spore coat protein CotE; peroxiredoxin/chitinase,CD630_14330(
 G12WB-3472-MONOMER,ATP-dependent Clp protease proteolytic subunit 1,CD630_33050(),BioCyc
 G12WB-1927-MONOMER,methylase,CD630_17800(2),BioCyc
 G12WB-2275-MONOMER,2-nitropropane dioxygenase,CD630_21200(),BioCyc
-G12WB-3812-MONOMER,4-hydroxy-2-oxoglutarate aldolase,CD630_36260(1),BioCyc
+G12WB-3812-MONOMER,4-hydroxy-2-oxoglutarate aldolase,CD630_36260(3),BioCyc
 G12WB-632-MONOMER,hypothetical protein,CD630_05190(),BioCyc
 G12WB-2611-MONOMER,hypothetical protein,CD630_24570(),BioCyc
 G12WB-1328-MONOMER,stage III sporulation protein AF,CD630_11970(),BioCyc
@@ -3114,7 +3114,7 @@ G12WB-520-MONOMER,single-strand DNA-binding protein,CD630_04130(),BioCyc
 G12WB-2509-MONOMER,HAD superfamily hydrolase,CD630_23590(),BioCyc
 G12WB-1224-MONOMER,HTH-type transcriptional regulator,CD630_11000(),BioCyc
 G12WB-2843-MONOMER,membrane-associated phosphatase,CD630_26900(),BioCyc
-G12WB-871-MONOMER,pyruvate formate-lyase,CD630_07590(2),BioCyc
+G12WB-871-MONOMER,pyruvate formate-lyase,CD630_07590(),BioCyc
 G12WB-318-MONOMER,transposase IS200/IS605-like OrfA,CD630_02150(),BioCyc
 G12WB-1455-MONOMER,M16 family peptidase,CD630_13200(),BioCyc
 G12WB-1802-MONOMER,transposase-like protein B,CD630_16610(),BioCyc
@@ -3181,7 +3181,7 @@ G12WB-1706-MONOMER,hypothetical protein,CD630_15680(),BioCyc
 G12WB-2067-MONOMER,ethanolamine utilization protein,CD630_19230(),BioCyc
 G12WB-3606-MONOMER,cobalt-precorrin-5B C(1)-methyltransferase,CD630_34290(),BioCyc
 G12WB-2406-MONOMER,membrane protein,CD630_22500(),BioCyc
-G12WB-1119-MONOMER,fumarate hydratase subunit B,CD630_10040(2),BioCyc
+G12WB-1119-MONOMER,fumarate hydratase subunit B,CD630_10040(),BioCyc
 G12WB-2740-MONOMER,methionyl-tRNA formyltransferase,CD630_25840(1),BioCyc
 G12WB-438-MONOMER,aminopeptidase 2,CD630_03290(),BioCyc
 G12WB-77-MONOMER,ATP:guanido phosphotransferase,CD630_00250(),BioCyc
@@ -3196,7 +3196,7 @@ G12WB-2723-MONOMER,"putative 2-<i>O</i>-&alpha;-mannosyl-D-glycerate specific PT
 G12WB-4317-MONOMER,"Putative conjugative transposon protein Tn5397, CTn3-Orf20.1",CD630_04981(),BioCyc
 G12WB-752-MONOMER,two-component response regulator,CD630_06430(),BioCyc
 G12WB-3060-MONOMER,hypothetical protein,CD630_28990(),BioCyc
-G12WB-1672-MONOMER,gamma-glutamyltranspeptidase,CD630_15340(1),BioCyc
+G12WB-1672-MONOMER,gamma-glutamyltranspeptidase,CD630_15340(),BioCyc
 G12WB-3571-MONOMER,sporulation transcriptional regulator whiA,CD630_33970(),BioCyc
 G12WB-2035-MONOMER,"multidrug family ABC transporter, ATP-binding protein",CD630_18890(),BioCyc
 G12WB-2375-MONOMER,cyclic nucleotides-binding protein,CD630_22200(),BioCyc
@@ -3218,12 +3218,12 @@ G12WB-3366-MONOMER,"multidrug family ABC transporter, membrane protein",CD630_32
 G12WB-1640-MONOMER,"multidrug family ABC transporter, membrane protein",CD630_15050(),BioCyc
 G12WB-3542-MONOMER,conjugative transposon protein,CD630_33701(),BioCyc
 G12WB-2003-MONOMER,cell surface protein,CD630_18580(),BioCyc
-G12WB-2345-MONOMER,cyclomaltodextrinase,CD630_21900(),BioCyc
+G12WB-2345-MONOMER,cyclomaltodextrinase,CD630_21900(1),BioCyc
 G12WB-1059-MONOMER,hypothetical protein,CD630_09461(),BioCyc
 G12WB-391-MONOMER,"mannose-fructose-sorbose family PTS, enzyme IIA component",CD630_02860(),BioCyc
 G12WB-708-MONOMER,ParB-like nuclease,CD630_05950(),BioCyc
 G12WB-2682-MONOMER,TetR family transcriptional regulator,CD630_25270(),BioCyc
-G12WB-3017-MONOMER,HAD superfamily hydrolase,CD630_28570(1),BioCyc
+G12WB-3017-MONOMER,HAD superfamily hydrolase,CD630_28570(),BioCyc
 G12WB-3351-MONOMER,sigma-54 dependent transcriptional regulator,CD630_31860(),BioCyc
 G12WB-1626-MONOMER,"putative methionine ABC transporter, ATP-binding subunit",CD630_14890(),BioCyc
 G12WB-3528-MONOMER,"ABC transporter, ATP-binding protein",CD630_33590(),BioCyc
@@ -3231,7 +3231,7 @@ G12WB-1988-MONOMER,hypothetical protein,CD630_18430(),BioCyc
 G12WB-2330-MONOMER,peptidase,CD630_21730(),BioCyc
 G12WB-1044-MONOMER,hypothetical protein,CD630_09330(),BioCyc
 G12WB-3872-MONOMER,ribonuclease P protein component,CD630_36790(),BioCyc
-G12WB-693-MONOMER,pyruvate phosphate dikinase,CD630_05820(2),BioCyc
+G12WB-693-MONOMER,pyruvate phosphate dikinase,CD630_05820(),BioCyc
 G12WB-2668-MONOMER,threonine dehydratase II,CD630_25140(4),BioCyc
 G12WB-3002-MONOMER,nitrilase,CD630_28420(),BioCyc
 G12WB-3337-MONOMER,"2,3-bisphosphoglycerate-independent phosphoglycerate mutase",CD630_31710(1),BioCyc
@@ -3282,13 +3282,13 @@ G12WB-972-MONOMER,maltose-6'-phosphate glucosidase,CD630_08640(),BioCyc
 G12WB-3279-MONOMER,PTS operon transcription antiterminator,CD630_31170(),BioCyc
 G12WB-1554-MONOMER,membrane protein,CD630_14160(),BioCyc
 G12WB-3455-MONOMER,hypothetical protein,CD630_32880(),BioCyc
-G12WB-191-MONOMER,aspartate aminotransferase,CD630_01070(),BioCyc
+G12WB-191-MONOMER,aspartate aminotransferase,CD630_01070(2),BioCyc
 G12WB-2258-MONOMER,"multidrug family ABC transporter, ATP-binding protein",CD630_21050(),BioCyc
 G12WB-3795-MONOMER,iron-sulfur assembly protein,CD630_36070(),BioCyc
 G12WB-612-MONOMER,antirestriction protein,CD630_05000(),BioCyc
 G12WB-2593-MONOMER,rRNA maturation factor YbeY,CD630_24400(),BioCyc
 G12WB-1310-MONOMER,3-oxoacyl-ACP synthase,CD630_11790(2),BioCyc
-G12WB-2930-MONOMER,UDP-glucose 6-dehydrogenase,CD630_27710(1),BioCyc
+G12WB-2930-MONOMER,UDP-glucose 6-dehydrogenase,CD630_27710(),BioCyc
 G12WB-957-MONOMER,hypothetical protein,CD630_08470(),BioCyc
 G12WB-3264-MONOMER,peptidase,CD630_31020(),BioCyc
 G12WB-154-MONOMER,30S ribosomal protein S11,CD630_00960(1),BioCyc
@@ -3345,8 +3345,8 @@ G12WB-2520-MONOMER,nicotinate-nucleotide pyrophosphorylase,CD630_23700(2),BioCyc
 G12WB-1236-MONOMER,conjugative transposon protein,CD630_11080(),BioCyc
 G12WB-2855-MONOMER,putative branched-chain amino acid transporter BrnQ,CD630_27020(),BioCyc
 G12WB-884-MONOMER,stage V sporulation protein AC,CD630_07730(),BioCyc
-G12WB-3191-MONOMER,bifunctional cystathionine beta-lyase/maltose regulon repressor,CD630_30290(1),BioCyc
-G12WB-1467-MONOMER,undecaprenyl pyrophosphate phosphatase,CD630_13320(),BioCyc
+G12WB-3191-MONOMER,bifunctional cystathionine beta-lyase/maltose regulon repressor,CD630_30290(),BioCyc
+G12WB-1467-MONOMER,undecaprenyl pyrophosphate phosphatase,CD630_13320(1),BioCyc
 G12WB-1815-MONOMER,protein TraX,CD630_16730(),BioCyc
 G12WB-2171-MONOMER,GntR family transcriptional regulator,CD630_20230(),BioCyc
 G12WB-3705-MONOMER,ribonuclease M5,CD630_35240(),BioCyc
@@ -3358,10 +3358,10 @@ G12WB-869-MONOMER,diguanylate kinase signaling protein,CD630_07570(),BioCyc
 G12WB-3177-MONOMER,"putative mannose-specific PTS, enzyme IIC component",CD630_30130(),BioCyc
 G12WB-1452-MONOMER,hypothetical protein,CD630_13170(),BioCyc
 G12WB-18-MONOMER,serine--tRNA ligase,CD630_00140(2),BioCyc
-G12WB-2157-MONOMER,hydrolase,CD630_20120(1),BioCyc
+G12WB-2157-MONOMER,hydrolase,CD630_20120(),BioCyc
 G12WB-3690-MONOMER,type IV pilus assembly protein,CD630_35090(),BioCyc
 G12WB-2491-MONOMER,4-hydroxybutyrate CoA-transferase,CD630_23390(),BioCyc
-G12WB-1207-MONOMER,"multidrug family ABC transporter, ATP-binding/membrane protein",CD630_10840(2),BioCyc
+G12WB-1207-MONOMER,"multidrug family ABC transporter, ATP-binding/membrane protein",CD630_10840(),BioCyc
 G12WB-2826-MONOMER,LysR family transcriptional regulator,CD630_26750(),BioCyc
 G12WB-504-MONOMER,2-hydroxyisocaproyl-CoA dehydratase subunit C,CD630_03980(),BioCyc
 G12WB-853-MONOMER,ethanolamine utilization protein EutH,CD630_07420(),BioCyc
@@ -3397,7 +3397,7 @@ G12WB-4592-MONOMER,"Putative conjugative transposon protein Tn916-like, CTn7-Orf
 G12WB-81-MONOMER,membrane protein,CD630_00290(),BioCyc
 G12WB-3119-MONOMER,V-type ATP synthase subunit B,CD630_29550(),BioCyc
 G12WB-1393-MONOMER,putative branched-chain amino acid transporter BrnQ-1,CD630_12590(),BioCyc
-G12WB-1735-MONOMER,methionine aminopeptidase,CD630_15960(1),BioCyc
+G12WB-1735-MONOMER,methionine aminopeptidase,CD630_15960(),BioCyc
 G12WB-2097-MONOMER,"ABC transporter, ATP-binding protein",CD630_19550(),BioCyc
 G12WB-3632-MONOMER,N-acetylglucosamine-6-phosphate deacetylase,CD630_34530(),BioCyc
 G12WB-2432-MONOMER,sugar-phosphate dehydrogenase,CD630_22790(),BioCyc
@@ -3426,7 +3426,7 @@ G12WB-2738-MONOMER,metal-dependent peptidase,CD630_25820(),BioCyc
 G12WB-437-MONOMER,UvrD/REP type DNA helicase,CD630_03280(),BioCyc
 G12WB-767-MONOMER,beta-lactams repressor,CD630_06580(),BioCyc
 G12WB-3075-MONOMER,hypothetical protein,CD630_29120(),BioCyc
-G12WB-1688-MONOMER,histidinol-phosphate aminotransferase,CD630_15490(2),BioCyc
+G12WB-1688-MONOMER,histidinol-phosphate aminotransferase,CD630_15490(),BioCyc
 G12WB-1685-MONOMER,hypothetical protein,CD630_15461(),BioCyc
 G12WB-3583-MONOMER,HPr kinase/phosphorylase,CD630_34090(),BioCyc
 G12WB-2387-MONOMER,anaerobic sulfite reductase subunit B,CD630_22320(),BioCyc
@@ -3447,7 +3447,7 @@ G12WB-3043-MONOMER,"putative cellobiose-specifc PTS, enzyme IIC component",CD630
 G12WB-1653-MONOMER,hypothetical protein,CD630_15152(),BioCyc
 G12WB-3554-MONOMER,cell wall hydrolase,CD630_33800(),BioCyc
 G12WB-2016-MONOMER,conjugative transposon protein,CD630_18700(),BioCyc
-G12WB-2357-MONOMER,"putative transporter, solute:Na<sup>+</sup> symporter family",CD630_22020(1),BioCyc
+G12WB-2357-MONOMER,"putative transporter, solute:Na<sup>+</sup> symporter family",CD630_22020(),BioCyc
 G12WB-1070-MONOMER,XkdN-like phage protein,CD630_09560(),BioCyc
 G12WB-404-MONOMER,LacI family transcriptional regulator,CD630_02980(),BioCyc
 G12WB-720-MONOMER,two-component response regulator,CD630_06110(),BioCyc
@@ -3476,7 +3476,7 @@ G12WB-300-MONOMER,NCAIR-mutase PurE-like protein,CD630_01950(),BioCyc
 G12WB-3334-MONOMER,putative malate transporter,CD630_31690(),BioCyc
 G12WB-1609-MONOMER,"multidrug family ABC transporter, ATP-binding/membrane protein",CD630_14720(),BioCyc
 G12WB-3510-MONOMER,conjugative transposon protein,CD630_33420(),BioCyc
-G12WB-1969-MONOMER,O-acetylhomoserine sulfhydrylase,CD630_18250(4),BioCyc
+G12WB-1969-MONOMER,O-acetylhomoserine sulfhydrylase,CD630_18250(),BioCyc
 G12WB-2313-MONOMER,thiamine biosynthesis protein ThiH,CD630_21560(),BioCyc
 G12WB-1027-MONOMER,hypothetical protein,CD630_09190(),BioCyc
 G12WB-3854-MONOMER,single-strand DNA-binding protein,CD630_36620(),BioCyc
@@ -3492,7 +3492,7 @@ G12WB-1012-MONOMER,hypothetical protein,CD630_09050(),BioCyc
 G12WB-3836-MONOMER,rRNA large subunit methyltransferase,CD630_36490(2),BioCyc
 G12WB-658-MONOMER,membrane protein,CD630_05460(),BioCyc
 G12WB-2635-MONOMER,hydrolase,CD630_24800(),BioCyc
-G12WB-1351-MONOMER,NUDIX family hydrolase,CD630_12200(),BioCyc
+G12WB-1351-MONOMER,NUDIX family hydrolase,CD630_12200(3),BioCyc
 G12WB-2971-MONOMER,hypothetical protein,CD630_28110(),BioCyc
 G12WB-999-MONOMER,agmatinase,CD630_08910(2),BioCyc
 G12WB-3305-MONOMER,ThiJ/pfpI family protein,CD630_31430(),BioCyc
@@ -3503,7 +3503,7 @@ G12WB-2284-MONOMER,hypothetical protein,CD630_21270(),BioCyc
 G12WB-1-MONOMER,chromosomal replication initiation protein DnaA,CD630_00010(),BioCyc
 G12WB-3821-MONOMER,hypothetical protein,CD630_36350(),BioCyc
 G12WB-642-MONOMER,membrane protein,CD630_05300(),BioCyc
-G12WB-2620-MONOMER,putative serine/threonine exchanger,CD630_24650(),BioCyc
+G12WB-2620-MONOMER,putative serine/threonine exchanger,CD630_24650(1),BioCyc
 G12WB-1337-MONOMER,membrane protein,CD630_12060(),BioCyc
 G12WB-2957-MONOMER,cell wall protein 9,CD630_27980(),BioCyc
 G12WB-984-MONOMER,"sugar-family ABC transporter, substrate-binding protein",CD630_08760(),BioCyc
@@ -3520,7 +3520,7 @@ G12WB-2942-MONOMER,glycosyl transferase family protein,CD630_27830(),BioCyc
 G12WB-97-MONOMER,sugar-phosphate aldolase,CD630_00450(),BioCyc
 G12WB-3276-MONOMER,membrane protein,CD630_31140(),BioCyc
 G12WB-1551-MONOMER,membrane protein,CD630_14130(),BioCyc
-G12WB-3452-MONOMER,glucose-6-phosphate isomerase,CD630_32850(),BioCyc
+G12WB-3452-MONOMER,glucose-6-phosphate isomerase,CD630_32850(2),BioCyc
 G12WB-1907-MONOMER,phenazine biosynthesis PhzC/PhzF protein,CD630_17610(),BioCyc
 G12WB-2255-MONOMER,hypothetical protein,CD630_21021(),BioCyc
 G12WB-3792-MONOMER,phosphatase,CD630_36050(1),BioCyc
@@ -3536,7 +3536,7 @@ G12WB-1892-MONOMER,hypothetical protein,CD630_17480(),BioCyc
 G12WB-2240-MONOMER,xanthine dehydrogenase iron-sulfur binding subunit XdhC,CD630_20880(),BioCyc
 G12WB-3778-MONOMER,carbamoyl-phosphate synthase small subunit,CD630_35910(),BioCyc
 G12WB-594-MONOMER,two-component sensor histidine kinase,CD630_04820(),BioCyc
-G12WB-2576-MONOMER,phosphate butyryltransferase,CD630_24250(2),BioCyc
+G12WB-2576-MONOMER,phosphate butyryltransferase,CD630_24250(),BioCyc
 G12WB-1293-MONOMER,50S ribosomal protein L27,CD630_11630(1),BioCyc
 G12WB-2913-MONOMER,diguanylate kinase signaling protein,CD630_27540(),BioCyc
 G12WB-94-MONOMER,galactitol family PTS enzyme IIB component,CD630_00420(),BioCyc
@@ -3544,7 +3544,7 @@ G12WB-3247-MONOMER,putative 2-<i>O</i>-&alpha;-mannosyl-D-glycerate specific PTS
 G12WB-1522-MONOMER,LamB/YcsF family protein,CD630_13840(),BioCyc
 G12WB-3423-MONOMER,valine--tRNA ligase,CD630_32560(1),BioCyc
 G12WB-1876-MONOMER,cobalamin-binding protein,CD630_17320(),BioCyc
-G12WB-2226-MONOMER,"putative transporter, nucleobase:cation symporter-2 family",CD630_20750(1),BioCyc
+G12WB-2226-MONOMER,"putative transporter, nucleobase:cation symporter-2 family",CD630_20750(),BioCyc
 G12WB-3763-MONOMER,"putative transporter, major facilitator superfamily",CD630_35760(),BioCyc
 G12WB-578-MONOMER,RpiR family transcriptional regulator,CD630_04660(),BioCyc
 G12WB-2561-MONOMER,pyruvate phosphate dikinase,CD630_24100(),BioCyc
@@ -3569,7 +3569,7 @@ G12WB-1844-MONOMER,phosphomethylpyrimidine synthase ThiC,CD630_17020(1),BioCyc
 G12WB-2198-MONOMER,RpiR family transcriptional regulator,CD630_20480(),BioCyc
 G12WB-3731-MONOMER,thymidylate kinase,CD630_35500(),BioCyc
 G12WB-546-MONOMER,conjugative transposon protein,CD630_04352(),BioCyc
-G12WB-2532-MONOMER,pyridoxal phosphate-dependent transferase,CD630_23820(2),BioCyc
+G12WB-2532-MONOMER,pyridoxal phosphate-dependent transferase,CD630_23820(),BioCyc
 G12WB-1248-MONOMER,pyruvate formate-lyase 2-activating enzyme,CD630_11210(),BioCyc
 G12WB-2867-MONOMER,UDP-glucose 4-epimerase,CD630_27140(2),BioCyc
 G12WB-897-MONOMER,membrane protein,CD630_07860(),BioCyc
@@ -3595,7 +3595,7 @@ G12WB-1219-MONOMER,"multidrug family ABC transporter, membrane protein",CD630_10
 G12WB-2838-MONOMER,membrane protein,CD630_26860(),BioCyc
 G12WB-866-MONOMER,tRNA sulfurtransferase,CD630_07540(1),BioCyc
 G12WB-3174-MONOMER,cytochrome C assembly protein,CD630_30100(),BioCyc
-G12WB-145-MONOMER,50S ribosomal protein L30,CD630_00881(),BioCyc
+G12WB-145-MONOMER,50S ribosomal protein L30,CD630_00881(1),BioCyc
 G12WB-1797-MONOMER,bifunctional glycine dehydrogenase/aminomethyl transferase,CD630_16570(),BioCyc
 G12WB-2154-MONOMER,hypothetical protein,CD630_20091(),BioCyc
 G12WB-3688-MONOMER,type IV pilin,CD630_35070(),BioCyc
@@ -3609,7 +3609,7 @@ G12WB-1435-MONOMER,membrane protein,CD630_13010(),BioCyc
 G12WB-1780-MONOMER,hypothetical protein,CD630_16410(),BioCyc
 G12WB-214-MONOMER,hypothetical protein,CD630_01110(),BioCyc
 G12WB-3673-MONOMER,septum formation initiation protein,CD630_34920(),BioCyc
-G12WB-2474-MONOMER,transketolase,CD630_23220(2),BioCyc
+G12WB-2474-MONOMER,transketolase,CD630_23220(),BioCyc
 G12WB-119-MONOMER,NADP-dependent dehydrogenase,CD630_00650(),BioCyc
 G12WB-2809-MONOMER,rRNA small subunit methyltransferase,CD630_26580(),BioCyc
 G12WB-486-MONOMER,conjugative transposon protein,CD630_03800(),BioCyc
@@ -3619,7 +3619,7 @@ G12WB-142-MONOMER,50S ribosomal protein L6,CD630_00860(1),BioCyc
 G12WB-1764-MONOMER,two-component sensor histidine kinase,CD630_16250(),BioCyc
 G12WB-2125-MONOMER,NUDIX family hydrolase,CD630_19840(),BioCyc
 G12WB-3659-MONOMER,uracil phosphoribosyltransferase,CD630_34790(3),BioCyc
-G12WB-246-MONOMER,RNA-binding protein,CD630_01420(),BioCyc
+G12WB-246-MONOMER,RNA-binding protein,CD630_01420(2),BioCyc
 G12WB-1175-MONOMER,electron transfer flavoprotein subunit beta,CD630_10550(),BioCyc
 G12WB-2793-MONOMER,sporulation sigma factor SigG,CD630_26420(),BioCyc
 G12WB-470-MONOMER,"ABC transporter, ATP-binding protein",CD630_03640(),BioCyc
@@ -3639,7 +3639,7 @@ G12WB-1390-MONOMER,transfer RNA (guanine-N(1)-)-methyltransferase,CD630_12560(2)
 G12WB-1732-MONOMER,O-acetyl-serine thiol-lyase A,CD630_15940(2),BioCyc
 G12WB-2094-MONOMER,LysR family transcriptional regulator,CD630_19520(),BioCyc
 G12WB-363-MONOMER,flagellar protein FliZ,CD630_02590(),BioCyc
-G12WB-243-MONOMER,N(4)-(beta-N-acetylglucosaminyl)-L-asparaginase,CD630_01390(1),BioCyc
+G12WB-243-MONOMER,N(4)-(beta-N-acetylglucosaminyl)-L-asparaginase,CD630_01390(),BioCyc
 G12WB-1142-MONOMER,"putative polyamine ABC transporter, substrate-binding protein",CD630_10270(),BioCyc
 G12WB-2764-MONOMER,M24 family peptidase,CD630_26130(),BioCyc
 G12WB-4488-MONOMER,Putative N-acetylmuramoyl-L-alanine amidase,CD630_21840(),BioCyc
@@ -3648,7 +3648,7 @@ G12WB-3101-MONOMER,hypothetical protein,CD630_29380(),BioCyc
 G12WB-1376-MONOMER,hypothetical protein,CD630_12430(),BioCyc
 G12WB-1716-MONOMER,sporulation-associated two-component sensor histidine kinase,CD630_15790(),BioCyc
 G12WB-2078-MONOMER,acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha,CD630_19360(),BioCyc
-G12WB-3615-MONOMER,bifunctional adenosylcobalamin biosynthesis adenosylcobinamide kinase/adenosylcobinamide-phosphate guanylyltransferase,CD630_34380(2),BioCyc
+G12WB-3615-MONOMER,bifunctional adenosylcobalamin biosynthesis adenosylcobinamide kinase/adenosylcobinamide-phosphate guanylyltransferase,CD630_34380(),BioCyc
 G12WB-2415-MONOMER,"putative transporter, major facilitator superfamily",CD630_22600(),BioCyc
 G12WB-1128-MONOMER,two-component response regulator,CD630_10130(),BioCyc
 G12WB-275-MONOMER,"ABC transporter, ATP-binding protein",CD630_01700(),BioCyc
@@ -3706,7 +3706,7 @@ G12WB-3011-MONOMER,D-alanine--poly(phosphoribitol) ligase subunit 2,CD630_28510(
 G12WB-3346-MONOMER,"putative transporter, nucleobase:cation symporter-2 family",CD630_31800(),BioCyc
 G12WB-1620-MONOMER,"sulfonate family ABC transporter, ATP-binding subunit",CD630_14830(),BioCyc
 G12WB-3522-MONOMER,GntR family transcriptional regulator,CD630_33530(),BioCyc
-G12WB-1982-MONOMER,shikimate dehydrogenase 1,CD630_18370(),BioCyc
+G12WB-1982-MONOMER,shikimate dehydrogenase 1,CD630_18370(2),BioCyc
 G12WB-2325-MONOMER,acyl transferase/acyl hydrolase/lysophospholipase,CD630_21670(),BioCyc
 G12WB-1039-MONOMER,hypothetical protein,CD630_09290(),BioCyc
 G12WB-3867-MONOMER,tRNA uridine 5-carboxymethylaminomethyl modification protein GidA,CD630_36750(2),BioCyc
@@ -3776,7 +3776,7 @@ G12WB-2238-MONOMER,NAD(P)H-dependent FMN reductase,CD630_20860(),BioCyc
 G12WB-3775-MONOMER,carbamoyl-phosphate synthase large subunit,CD630_35880(),BioCyc
 G12WB-591-MONOMER,"multidrug family ABC transporter, membrane protein",CD630_04790(),BioCyc
 G12WB-2573-MONOMER,"putative transporter, alanine:cation symporter family",CD630_24220(),BioCyc
-G12WB-1290-MONOMER,ribonuclease G,CD630_11600(2),BioCyc
+G12WB-1290-MONOMER,ribonuclease G,CD630_11600(),BioCyc
 G12WB-2910-MONOMER,hypothetical protein,CD630_27510(),BioCyc
 G12WB-937-MONOMER,rubredoxin oxidoreductase,CD630_08270(),BioCyc
 G12WB-3244-MONOMER,PTS operon transcription antiterminator,CD630_30830(),BioCyc
@@ -3788,7 +3788,7 @@ G12WB-3760-MONOMER,hypothetical protein,CD630_35730(),BioCyc
 G12WB-575-MONOMER,TetR family transcriptional regulator,CD630_04630(),BioCyc
 G12WB-2559-MONOMER,multidrug efflux pump,CD630_24080(),BioCyc
 G12WB-1275-MONOMER,cell shape-determining protein MreB,CD630_11450(),BioCyc
-G12WB-2896-MONOMER,putative cytosine transporter,CD630_27380(1),BioCyc
+G12WB-2896-MONOMER,putative cytosine transporter,CD630_27380(),BioCyc
 G12WB-922-MONOMER,universal stress protein A,CD630_08120(),BioCyc
 G12WB-323-MONOMER,amidophosphoribosyltransferase,CD630_02200(4),BioCyc
 G12WB-1505-MONOMER,cell wall XkdQ-like hydrolase,CD630_13680(),BioCyc
@@ -3797,8 +3797,8 @@ G12WB-1857-MONOMER,molybdenum cofactor biosynthesis protein MoaC,CD630_17140(),B
 G12WB-2209-MONOMER,hypothetical protein,CD630_20580(),BioCyc
 G12WB-3746-MONOMER,tRNA(Ile)-lysidine synthase,CD630_35600(1),BioCyc
 G12WB-559-MONOMER,ornithine racemase,CD630_04480(),BioCyc
-G12WB-2544-MONOMER,glycosyl transferase family protein,CD630_23930(2),BioCyc
-G12WB-1260-MONOMER,lytic transglycosylase-like protein,CD630_11300(1),BioCyc
+G12WB-2544-MONOMER,glycosyl transferase family protein,CD630_23930(),BioCyc
+G12WB-1260-MONOMER,lytic transglycosylase-like protein,CD630_11300(),BioCyc
 G12WB-2881-MONOMER,polysaccharide deacetylase,CD630_27240(),BioCyc
 G12WB-908-MONOMER,pyruvate carboxyltransferase,CD630_07970(),BioCyc
 G12WB-3215-MONOMER,two-component response regulator,CD630_30540(),BioCyc
@@ -3816,13 +3816,13 @@ G12WB-3200-MONOMER,hypothetical protein,CD630_30380(),BioCyc
 G12WB-1476-MONOMER,exodeoxyribonuclease,CD630_13410(),BioCyc
 G12WB-3377-MONOMER,hypothetical protein,CD630_32110(),BioCyc
 G12WB-1825-MONOMER,queuosine-specific ECF transporter S-component,CD630_16830(),BioCyc
-G12WB-2180-MONOMER,acetylglutamate kinase,CD630_20320(6),BioCyc
+G12WB-2180-MONOMER,acetylglutamate kinase,CD630_20320(2),BioCyc
 G12WB-3714-MONOMER,"phosphonate-specific ABC transporter, ATP-binding protein",CD630_35330(),BioCyc
 G12WB-527-MONOMER,conjugative transposon protein,CD630_04191(),BioCyc
 G12WB-2515-MONOMER,"nitrate/sulfonate/taurine ABC transporter, substrate-binding protein",CD630_23650(),BioCyc
 G12WB-1230-MONOMER,conjugative transposon protein,CD630_11042(),BioCyc
 G12WB-285-MONOMER,NAD-specific glutamate dehydrogenase,CD630_01790(6),BioCyc
-G12WB-879-MONOMER,sorbitol-6-phosphate dehydrogenase,CD630_07680(4),BioCyc
+G12WB-879-MONOMER,sorbitol-6-phosphate dehydrogenase,CD630_07680(),BioCyc
 G12WB-3186-MONOMER,hypothetical protein,CD630_30240(),BioCyc
 G12WB-1461-MONOMER,30S ribosomal protein S12 methylthiotransferase,CD630_13260(),BioCyc
 G12WB-1809-MONOMER,hypothetical protein,CD630_16671(),BioCyc
@@ -3885,7 +3885,7 @@ G12WB-448-MONOMER,two-component response regulator,CD630_03390(),BioCyc
 G12WB-790-MONOMER,"putative transporter, major facilitator superfamily",CD630_06810(),BioCyc
 G12WB-3099-MONOMER,hypothetical protein,CD630_29360(),BioCyc
 G12WB-1373-MONOMER,teicoplanin resistance protein,CD630_12400(),BioCyc
-G12WB-1713-MONOMER,esterase,CD630_15760(4),BioCyc
+G12WB-1713-MONOMER,esterase,CD630_15760(),BioCyc
 G12WB-2075-MONOMER,membrane protein,CD630_19330(),BioCyc
 G12WB-3612-MONOMER,cobyric acid synthase,CD630_34350(),BioCyc
 G12WB-2412-MONOMER,"PTS, enzyme IIC component",CD630_22560(),BioCyc
@@ -3912,7 +3912,7 @@ G12WB-759-MONOMER,putative uncharacterized membrane protein,CD630_06510(),BioCyc
 G12WB-3067-MONOMER,hypothetical protein,CD630_29060(),BioCyc
 G12WB-1679-MONOMER,MATE family efflux transporter,CD630_15410(),BioCyc
 CPLX12WB-89,putative cobalt-specific ECF transporter,CD630_03270() AND CD630_03260() AND CD630_03250() AND CD630_03240(),BioCyc
-G12WB-3578-MONOMER,cardiolipin synthetase,CD630_34040(),BioCyc
+G12WB-3578-MONOMER,cardiolipin synthetase,CD630_34040(1),BioCyc
 G12WB-2042-MONOMER,hypothetical protein,CD630_18970(),BioCyc
 CD630_01570-MONOMER,putative membrane protein,CD630_01570(),GenBank
 CD630_01800-MONOMER,Fragment of conserved hypothetical protein (N-terminal region),CD630_01800(),GenBank
@@ -3930,7 +3930,7 @@ CD630_05822-MONOMER,Fragment of putative signaling protein precursor (N-terminal
 CD630_05990-MONOMER,"Fragment of transcriptional regulator, AraC family (C-terminal region)",CD630_05990(),GenBank
 CD630_06030-MONOMER,Fragment of putative membrane protein (C-terminal region),CD630_06030(),GenBank
 CD630_06050-MONOMER,Fragment of conserved hypothetical protein (N-terminal region),CD630_06050(),GenBank
-CD630_06060-MONOMER,chloride ion channel protein,CD630_06060(1),GenBank
+CD630_06060-MONOMER,chloride ion channel protein,CD630_06060(),GenBank
 CD630_06071-MONOMER,Fragment of transposase-like protein B (C-terminal region),CD630_06071(),GenBank
 CD630_06470-MONOMER,Fragment of putative fic family protein (C-terminal region),CD630_06470(),GenBank
 CD630_06780-MONOMER,Fragment of conserved hypothetical protein (C-terminal region),CD630_06780(),GenBank
@@ -3974,7 +3974,7 @@ CD630_20071-MONOMER,Fragment of conserved hypothetical protein (N-terminal regio
 CD630_20090-MONOMER,Fragment of putative topoisomerase (C-terminal region),CD630_20090(),GenBank
 CD630_20102-MONOMER,Fragment of putative transcriptional regulator (C-terminal region),CD630_20102(),GenBank
 CD630_20103-MONOMER,Fragment of conserved hypothetical protein (Central region),CD630_20103(),GenBank
-CD630_21710-MONOMER,Fragment of putative sodium:dicarboxylate symporter,CD630_21710(),GenBank
+CD630_21710-MONOMER,Fragment of putative sodium:dicarboxylate symporter,CD630_21710(1),GenBank
 CD630_21820-MONOMER,Fragment of conserved hypothetical protein (C-terminal region),CD630_21820(),GenBank
 CD630_22180-MONOMER,Fragment of putative integrase (C-terminal region),CD630_22180(),GenBank
 CD630_22190-MONOMER,Fragment of conjugative transposon protein (central region),CD630_22190(),GenBank
@@ -3995,7 +3995,7 @@ CD630_26040-MONOMER,Fragment of ADP-ribosyltransferase CdtAB,CD630_26040(),GenBa
 CD630_26050-MONOMER,Fragment of ADP-ribosyltransferase CdtAB,CD630_26050(),GenBank
 CD630_28240-MONOMER,Fragment of putative membrane protein (C-terminal region),CD630_28240(),GenBank
 CD630_29521-MONOMER,"ABC-type transport system,ATP-binding protein",CD630_29521(),GenBank
-CD630_29721-MONOMER,Fragment of conserved hypothetical protein (Central region),CD630_29721(),GenBank
+CD630_29721-MONOMER,Fragment of conserved hypothetical protein (Central region),CD630_29721(2),GenBank
 CD630_30080-MONOMER,Fragment of conserved hypothetical protein (N-terminal region),CD630_30080(),GenBank
 CD630_30200-MONOMER,"Fragment of conserved hypothetical protein,DUF1848 family",CD630_30200(),GenBank
 CD630_31001-MONOMER,conserved hypothetical protein,CD630_31001(),GenBank
@@ -4020,7 +4020,7 @@ CPLX_AHSERL-0,O acetylhomoserine  thiol  lyase,CD630_18250() AND CD630_15940(),i
 CPLX_GLYCL_copy2-0,Glycine Cleavage System,CD630_16570() AND CD630_07290(),iCN900(GLYCL_copy2)
 CPLX_ATPPRT-0,ATP phosphoribosyltransferase,CD630_15470() AND CD630_15480(),iCN900(ATPPRT)
 CPLX_H2CD-0,,CD630_03960() AND CD630_03970() AND CD630_03980(),iCN900(H2CD)
-CPLX_BUTCT2-0,,CD630_26780(2) AND CD630_26770(2),iCN900(BUTCT2)
+CPLX_BUTCT2-0,,CD630_26770() AND CD630_26780(),iCN900(BUTCT2)
 CPLX_MANpts-0,D-mannose transport via PEP:Pyr PTS,CD630_02860() AND CD630_02870() AND CD630_02880() AND CD630_02890(),iCN900(MANpts)
 CPLX_MANpts-1,D-mannose transport via PEP:Pyr PTS,CD630_02840() AND CD630_02850(),iCN900(MANpts)
 CPLX_CELLBpts_2-0,,CD630_30800() AND CD630_30490() AND CD630_30480(),iCN900(CELLBpts_2)
@@ -4031,7 +4031,7 @@ CPLX_NAabcO-0,Sodium transport out via ABC system,CD630_29540() AND CD630_29550(
 CPLX_PDH-0,Pyruvate dehydrogenase,CD630_07230() AND CD630_00360() AND CD630_00370(),iCN900(PDH)
 CPLX_ATPS4r-0,ATP synthase (four protons for one ATP),CD630_34700() AND CD630_34740() AND CD630_34720() AND CD630_34710() AND CD630_34690() AND CD630_34680() AND CD630_29570() AND CD630_29600() AND CD630_34760(),iCN900(ATPS4r)
 CPLX_ATPS4r-1,ATP synthase (four protons for one ATP),CD630_34700() AND CD630_34740() AND CD630_34720() AND CD630_34710() AND CD630_34690() AND CD630_34680() AND CD630_34730() AND CD630_29600() AND CD630_34760() AND CD630_02510(),iCN900(ATPS4r)
-CPLX_RBFSb-0,Riboflavin synthase,CD630_16970() AND CD630_16990(),iCN900(RBFSb)
+CPLX_RBFSb-0,Riboflavin synthase,CD630_16990() AND CD630_16970(),iCN900(RBFSb)
 CPLX_M45TB-0,,CD630_17030() AND CD630_17021() AND CD630_17040() AND CD630_17050() AND CD630_07540(),iCN900(M45TB)
 CPLX_M45TB-1,,CD630_17030() AND CD630_17021() AND CD630_17040() AND CD630_21560() AND CD630_07540(),iCN900(M45TB)
 CPLX_BMOC-0,,CD630_11790() AND CD630_11840(),iCN900(BMOC)
@@ -4046,7 +4046,7 @@ CPLX_GLYBabc-0,Glycine betaine transport via ABC system,CD630_09000() AND CD630_
 CPLX_METDabc-0,D-methionine transport via ABC system,CD630_14890() AND CD630_14900() AND CD630_14910() AND CD630_16530(),iCN900(METDabc)
 CPLX_AKGDH-0,2-Oxogluterate dehydrogenase,CD630_07230() AND CD630_00390(),iCN900(AKGDH)
 CPLX_GAL6PI-0,Galactose-6-phosphate isomerase,CD630_23200() AND CD630_34800(),iCN900(GAL6PI)
-CPLX_GCCa-0,Glycine-cleavage complex,CD630_16570() AND CD630_16580(),iCN900(GCCa)
+CPLX_GCCa-0,Glycine-cleavage complex,CD630_16580() AND CD630_16570(),iCN900(GCCa)
 CPLX_POR_syn-0,Pyruvate-ferredoxin oxidoreductase,CD630_01180() AND CD630_21990() AND CD630_21980() AND CD630_26820(),iCN900(POR_syn)
 CPLX_FRUpts2-0,Fructose transport via PEP:Pyr PTS (f6p generating),CD630_02840() AND CD630_02850() AND CD630_22690(),iCN900(FRUpts2)
 CPLX_GALTpts-0,Galactitol transport via PEP:Pyr PTS,CD630_10830() AND CD630_22800() AND CD630_22820(),iCN900(GALTpts)

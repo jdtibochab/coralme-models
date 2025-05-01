@@ -1,7 +1,7 @@
 ,value
-fes_transfer,"{'enzymes': ['ALW85_RS07475-MONOMER', 'ALW85_RS07590-MONOMER']}"
+fes_transfer,{'enzymes': ['ALW85_RS07565-MONOMER']}
 fes_chaperones,{'enzymes': ['CPLX_dummy']}
-generic_2fe2s_transfer_complex,"{'enzymes': ['ALW85_RS07475-MONOMER_mod_2fe2s(1)', 'ALW85_RS07590-MONOMER_mod_2fe2s(1)']}"
-generic_4fe4s_transfer_complex,"{'enzymes': ['ALW85_RS07475-MONOMER_mod_4fe4s(1)', 'ALW85_RS07590-MONOMER_mod_4fe4s(1)']}"
+generic_2fe2s_transfer_complex,{'enzymes': ['ALW85_RS07565-MONOMER_mod_2fe2s(1)']}
+generic_4fe4s_transfer_complex,{'enzymes': ['CPLX_dummy']}
 lipoate_modifications,{'enzymes': ['CPLX_dummy']}
 bmocogdp_chaperones,{'enzymes': ['CPLX_dummy']}

@@ -1,5 +1,5 @@
 ,value
-rRNA_containing,"{'enzymes': ['generic_RNase', 'BSU15930-MONOMER_mod_mg2(2)']}"
-monocistronic,{'enzymes': ['generic_RNase']}
-polycistronic_wout_rRNA,"{'enzymes': ['generic_RNase', 'BSU15930-MONOMER']}"
-RNA_degradosome,"{'enzymes': ['BSU33900-MONOMER_mod_mg2(4)', 'BSU16690-MONOMER']}"
+rRNA_containing,"{'enzymes': ['BSU14530-MONOMER', 'BSU15930-MONOMER', 'BSU00410-MONOMER']}"
+monocistronic,"{'enzymes': ['CPLX8J2-62', 'BSU23840-MONOMER', 'generic_RNase']}"
+polycistronic_wout_rRNA,"{'enzymes': ['CPLX8J2-62', 'BSU23840-MONOMER', 'generic_RNase']}"
+RNA_degradosome,"{'enzymes': ['BSU16690-MONOMER', 'BSU16960-MONOMER', 'BSU29190-MONOMER', 'BSU33900-MONOMER', 'CPLX8J2-39']}"

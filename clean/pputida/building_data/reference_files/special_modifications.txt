@@ -1,7 +1,7 @@
 modification	enzymes
 bmocogdp_chaperones	CPLX_dummy
-fes_chaperones	G1G01-3504-MONOMER
-fes_transfer	G1G01-469-MONOMER,G1G01-919-MONOMER
-generic_2fe2s_transfer_complex	G1G01-469-MONOMER_mod_2fe2s(1),G1G01-919-MONOMER_mod_2fe2s(1)
-generic_4fe4s_transfer_complex	G1G01-469-MONOMER_mod_4fe4s(1),G1G01-919-MONOMER_mod_4fe4s(1)
+fes_chaperones	CPLX_dummy
+fes_transfer	G1G01-918-MONOMER
+generic_2fe2s_transfer_complex	G1G01-918-MONOMER_mod_2fe2s(1)
+generic_4fe4s_transfer_complex	CPLX_dummy
 lipoate_modifications	CPLX_dummy

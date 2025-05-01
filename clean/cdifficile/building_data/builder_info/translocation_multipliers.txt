@@ -1,2 +1,1 @@
 ,value
-G12WB-3870-MONOMER,{}

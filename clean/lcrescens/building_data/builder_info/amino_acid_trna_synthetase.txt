@@ -10,12 +10,12 @@ gly_c,B488_00660-MONOMER
 his__L_c,B488_RS04795-MONOMER_mod_mg2(4)
 ile__L_c,B488_RS00620-MONOMER_mod_zn2(2)
 leu__L_c,B488_RS00040-MONOMER
-lys__L_c,generic_LYSINEaaRS
+lys__L_c,B488_RS03110-MONOMER
 met__L_c,generic_met_ligase
 phe__L_c,CPLX27KH-8_mod_mg2(1)
 pro__L_c,B488_RS01365-MONOMER
 ser__L_c,B488_RS05405-MONOMER_mod_mg2(1)
-thr__L_c,B488_RS03145-MONOMER_mod_zn2(1)
+thr__L_c,B488_RS03145-MONOMER
 trp__L_c,B488_RS00110-MONOMER_mod_mg2(1)
 tyr__L_c,B488_RS02775-MONOMER
 val__L_c,B488_RS04645-MONOMER_mod_mg2(1)

@@ -135,22 +135,22 @@ iscs_c	G1G01-917-MONOMER_mod_pydx5p(2)				REPLACE
 iscu_c	G1G01-918-MONOMER				REPLACE
 trdrd_c	G1G01-5565-MONOMER				REPLACE
 trdox_c	G1G01-5565-MONOMER_mod_Oxidized(1)				REPLACE
-LI_c					CURATE
-sufbcd_c					CURATE
-sufse_c					CURATE
-sufsesh_c					CURATE
-dsbaox_p					CURATE
-lpp_p					CURATE
-alpp_p					CURATE
-3hcpalm9eACP_c					CURATE
-3ocpalm9eACP_c					CURATE
-flxr_c					CURATE
-fldrd_c					CURATE
-flxso_c					CURATE
-fldox_c					CURATE
-grxrd_c					CURATE
-grxox_c					CURATE
-iscssh_c					CURATE
 iscu_2fe2s_c					CURATE
 iscu_2fe2s2_c					CURATE
 iscu_4fe4s_c					CURATE
+3hcpalm9eACP_c					CURATE
+3ocpalm9eACP_c					CURATE
+LI_c					CURATE
+alpp_p					CURATE
+dsbaox_p					CURATE
+fldox_c					CURATE
+fldrd_c					CURATE
+flxr_c					CURATE
+flxso_c					CURATE
+grxox_c					CURATE
+grxrd_c					CURATE
+iscssh_c					CURATE
+lpp_p					CURATE
+sufbcd_c					CURATE
+sufse_c					CURATE
+sufsesh_c					CURATE

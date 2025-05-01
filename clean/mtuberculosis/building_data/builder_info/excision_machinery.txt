@@ -1,5 +1,5 @@
 ,value
-rRNA_containing,"{'enzymes': ['generic_RNase', 'G185E-7178-MONOMER_mod_mg2(2)', 'G185E-6676-MONOMER']}"
-monocistronic,{'enzymes': ['generic_RNase']}
-polycistronic_wout_rRNA,"{'enzymes': ['generic_RNase', 'G185E-7178-MONOMER', 'G185E-6676-MONOMER']}"
-RNA_degradosome,"{'enzymes': ['G185E-5182-MONOMER_mod_mg2(4)', 'G185E-7032-MONOMER', 'G185E-6747-MONOMER_mod_mg2(2)']}"
+rRNA_containing,"{'enzymes': ['G185E-7001-MONOMER', 'G185E-7178-MONOMER']}"
+monocistronic,"{'enzymes': ['G185E-8221-MONOMER', 'G185E-8092-MONOMER', 'generic_RNase']}"
+polycistronic_wout_rRNA,"{'enzymes': ['G185E-8221-MONOMER', 'G185E-8092-MONOMER', 'generic_RNase']}"
+RNA_degradosome,"{'enzymes': ['G185E-7032-MONOMER', 'G185E-7268-MONOMER', 'G185E-5182-MONOMER']}"

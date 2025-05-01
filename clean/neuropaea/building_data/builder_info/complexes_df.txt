@@ -7,10 +7,10 @@ ALW85_RS07070-MONOMER,type II toxin-antitoxin system RelE/ParE family toxin,ALW8
 ALW85_RS01395-MONOMER,metalloregulator ArsR/SmtB family transcription factor,ALW85_RS01395(),BioCyc
 ALW85_RS08175-MONOMER,SDR family oxidoreductase,ALW85_RS08175(),BioCyc
 ALW85_RS04125-MONOMER,C39 family peptidase,ALW85_RS04125(),BioCyc
-ALW85_RS11550-MONOMER,protein-export chaperone SecB,ALW85_RS11550(4),BioCyc
+ALW85_RS11550-MONOMER,protein-export chaperone SecB,ALW85_RS11550(),BioCyc
 ALW85_RS03225-MONOMER,4-hydroxy-tetrahydrodipicolinate reductase,ALW85_RS03225(4),BioCyc
 ALW85_RS05400-MONOMER,50S ribosomal protein L31,ALW85_RS05400(1),BioCyc
-ALW85_RS11555-MONOMER,glutaredoxin 3,ALW85_RS11555(1),BioCyc
+ALW85_RS11555-MONOMER,glutaredoxin 3,ALW85_RS11555(),BioCyc
 ALW85_RS09465-MONOMER,IS3 family transposase,ALW85_RS09465(),BioCyc
 ALW85_RS14305-MONOMER,type II toxin-antitoxin system RelE/ParE family toxin,ALW85_RS14305(),BioCyc
 ALW85_RS01605-MONOMER,flagellar basal body rod protein FlgC,ALW85_RS01605(),BioCyc
@@ -24,14 +24,14 @@ ALW85_RS11570-MONOMER,ATP-binding protein,ALW85_RS11570(),BioCyc
 ALW85_RS00565-MONOMER,thioredoxin domain-containing protein,ALW85_RS00565(),BioCyc
 ALW85_RS09470-MONOMER,helix-turn-helix domain-containing protein,ALW85_RS09470(),BioCyc
 ALW85_RS14310-MONOMER,DUF2442 domain-containing protein,ALW85_RS14310(),BioCyc
-ALW85_RS11575-MONOMER,Nudix family hydrolase,ALW85_RS11575(1),BioCyc
+ALW85_RS11575-MONOMER,Nudix family hydrolase,ALW85_RS11575(),BioCyc
 ALW85_RS08180-MONOMER,Gfo/Idh/MocA family oxidoreductase,ALW85_RS08180(),BioCyc
 ALW85_RS04410-MONOMER,mercuric ion transporter MerT,ALW85_RS04410(),BioCyc
 ALW85_RS11580-MONOMER,FAD-dependent oxidoreductase,ALW85_RS11580(),BioCyc
 ALW85_RS05415-MONOMER,hypothetical protein,ALW85_RS05415(),BioCyc
 ALW85_RS00205-MONOMER,protein-L-isoaspartate O-methyltransferase,ALW85_RS00205(),BioCyc
 ALW85_RS01090-MONOMER,YebC/PmpR family DNA-binding transcriptional regulator,ALW85_RS01090(),BioCyc
-ALW85_RS11585-MONOMER,UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl- meso-diaminopimelate ligase,ALW85_RS11585(1),BioCyc
+ALW85_RS11585-MONOMER,UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl- meso-diaminopimelate ligase,ALW85_RS11585(),BioCyc
 ALW85_RS07085-MONOMER,DUF4160 domain-containing protein,ALW85_RS07085(),BioCyc
 ALW85_RS08185-MONOMER,acylneuraminate cytidylyltransferase family protein,ALW85_RS08185(),BioCyc
 ALW85_RS11590-MONOMER,hypothetical protein,ALW85_RS11590(),BioCyc
@@ -46,7 +46,7 @@ ALW85_RS08190-MONOMER,N-acetylneuraminate synthase family protein,ALW85_RS08190(
 ALW85_RS04130-MONOMER,hypothetical protein,ALW85_RS04130(),BioCyc
 ALW85_RS01480-MONOMER,copper resistance protein B,ALW85_RS01480(),BioCyc
 ALW85_RS03080-MONOMER,type 1 glutamine amidotransferase,ALW85_RS03080(),BioCyc
-ALW85_RS11605-MONOMER,quinone-dependent dihydroorotate dehydrogenase,ALW85_RS11605(1),BioCyc
+ALW85_RS11605-MONOMER,quinone-dependent dihydroorotate dehydrogenase,ALW85_RS11605(),BioCyc
 ALW85_RS05420-MONOMER,FecR domain-containing protein,ALW85_RS05420(),BioCyc
 ALW85_RS05235-MONOMER,NAD(P)H-dependent oxidoreductase,ALW85_RS05235(),BioCyc
 ALW85_RS11610-MONOMER,RnfABCDGE type electron transport complex subunit B,ALW85_RS11610(),BioCyc
@@ -74,7 +74,7 @@ ALW85_RS11640-MONOMER,IS481 family transposase,ALW85_RS11640(),BioCyc
 ALW85_RS01245-MONOMER,recombinase family protein,ALW85_RS01245(),BioCyc
 ALW85_RS08205-MONOMER,Co2+/Mg2+ efflux protein ApaG,ALW85_RS08205(),BioCyc
 ALW85_RS00420-MONOMER,alpha-glucan family phosphorylase,ALW85_RS00420(),BioCyc
-ALW85_RS09510-MONOMER,50S ribosomal protein L25/general stress protein Ctc,ALW85_RS09510(1),BioCyc
+ALW85_RS09510-MONOMER,50S ribosomal protein L25/general stress protein Ctc,ALW85_RS09510(),BioCyc
 ALW85_RS11645-MONOMER,hypothetical protein,ALW85_RS11645(),BioCyc
 ALW85_RS04870-MONOMER,autotransporter assembly complex protein TamA,ALW85_RS04870(),BioCyc
 ALW85_RS11650-MONOMER,hypothetical protein,ALW85_RS11650(),BioCyc
@@ -90,13 +90,13 @@ ALW85_RS05160-MONOMER,UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase,ALW85_R
 ALW85_RS03230-MONOMER,outer membrane protein assembly factor BamE,ALW85_RS03230(),BioCyc
 ALW85_RS05430-MONOMER,cell division protein FtsB,ALW85_RS05430(),BioCyc
 ALW85_RS13760-MONOMER,DUF86 domain-containing protein,ALW85_RS13760(),BioCyc
-ALW85_RS09530-MONOMER,lipoprotein insertase outer membrane protein LolB,ALW85_RS09530(1),BioCyc
+ALW85_RS09530-MONOMER,lipoprotein insertase outer membrane protein LolB,ALW85_RS09530(),BioCyc
 ALW85_RS07120-MONOMER,hypothetical protein,ALW85_RS07120(),BioCyc
 ALW85_RS01615-MONOMER,flagellar hook protein FlgE,ALW85_RS01615(),BioCyc
 ALW85_RS02350-MONOMER,uroporphyrinogen decarboxylase,ALW85_RS02350(1),BioCyc
 ALW85_RS08215-MONOMER,PEP-CTERM sorting domain-containing protein,ALW85_RS08215(),BioCyc
 ALW85_RS11670-MONOMER,fatty acid desaturase,ALW85_RS11670(),BioCyc
-ALW85_RS00425-MONOMER,oligoribonuclease,ALW85_RS00425(2),BioCyc
+ALW85_RS00425-MONOMER,oligoribonuclease,ALW85_RS00425(),BioCyc
 ALW85_RS03610-MONOMER,tRNA pseudouridine(38-40) synthase TruA,ALW85_RS03610(2),BioCyc
 ALW85_RS09535-MONOMER,cell division topological specificity factor MinE,ALW85_RS09535(),BioCyc
 ALW85_RS11675-MONOMER,SDR family oxidoreductase,ALW85_RS11675(),BioCyc
@@ -156,10 +156,10 @@ ALW85_RS11745-MONOMER,YajQ family cyclic di-GMP-binding protein,ALW85_RS11745(),
 ALW85_RS04875-MONOMER,uracil-DNA glycosylase,ALW85_RS04875(),BioCyc
 ALW85_RS11750-MONOMER,UDP-N-acetylglucosamine 2-epimerase (non-hydrolyzing),ALW85_RS11750(),BioCyc
 ALW85_RS13510-MONOMER,IS5 family transposase,ALW85_RS13510(),BioCyc
-ALW85_RS09580-MONOMER,4-hydroxybenzoate octaprenyltransferase,ALW85_RS09580(1),BioCyc
-ALW85_RS13475-MONOMER,50S ribosomal protein L34,ALW85_RS13475(1),BioCyc
+ALW85_RS09580-MONOMER,4-hydroxybenzoate octaprenyltransferase,ALW85_RS09580(),BioCyc
+ALW85_RS13475-MONOMER,50S ribosomal protein L34,ALW85_RS13475(),BioCyc
 ALW85_RS07160-MONOMER,glycosyl transferase,ALW85_RS07160(),BioCyc
-ALW85_RS11755-MONOMER,mannose-1-phosphate guanylyltransferase/mannose-6-phosphate isomerase,ALW85_RS11755(1),BioCyc
+ALW85_RS11755-MONOMER,mannose-1-phosphate guanylyltransferase/mannose-6-phosphate isomerase,ALW85_RS11755(),BioCyc
 ALW85_RS01400-MONOMER,SRPBCC family protein,ALW85_RS01400(),BioCyc
 ALW85_RS05460-MONOMER,ankyrin repeat domain-containing protein,ALW85_RS05460(),BioCyc
 ALW85_RS08250-MONOMER,type II toxin-antitoxin system Phd/YefM family antitoxin,ALW85_RS08250(),BioCyc
@@ -173,13 +173,13 @@ ALW85_RS01625-MONOMER,flagellar basal-body rod protein FlgG,ALW85_RS01625(),BioC
 ALW85_RS05470-MONOMER,DNA translocase FtsK,ALW85_RS05470(),BioCyc
 ALW85_RS02355-MONOMER,VOC family protein,ALW85_RS02355(),BioCyc
 ALW85_RS08255-MONOMER,type II toxin-antitoxin system RelE/ParE family toxin,ALW85_RS08255(),BioCyc
-ALW85_RS11770-MONOMER,dihydroneopterin triphosphate diphosphatase,ALW85_RS11770(1),BioCyc
+ALW85_RS11770-MONOMER,dihydroneopterin triphosphate diphosphatase,ALW85_RS11770(),BioCyc
 ALW85_RS03995-MONOMER,heme ABC transporter permease CcmC,ALW85_RS03995(),BioCyc
 ALW85_RS03615-MONOMER,phosphoribosylanthranilate isomerase,ALW85_RS03615(),BioCyc
 ALW85_RS11780-MONOMER,guanylate kinase,ALW85_RS11780(2),BioCyc
 ALW85_RS00575-MONOMER,prolipoprotein diacylglyceryl transferase,ALW85_RS00575(1),BioCyc
 ALW85_RS09590-MONOMER,IS481 family transposase,ALW85_RS09590(),BioCyc
-ALW85_RS11785-MONOMER,DNA-directed RNA polymerase subunit omega,ALW85_RS11785(1),BioCyc
+ALW85_RS11785-MONOMER,DNA-directed RNA polymerase subunit omega,ALW85_RS11785(),BioCyc
 ALW85_RS07170-MONOMER,CDP-glycerol glycerophosphotransferase family protein,ALW85_RS07170(),BioCyc
 ALW85_RS13655-MONOMER,IS5-like element ISNeu3 family transposase,ALW85_RS13655(),BioCyc
 ALW85_RS04425-MONOMER,CRISPR-associated endonuclease Cas2,ALW85_RS04425(),BioCyc
@@ -190,7 +190,7 @@ ALW85_RS01100-MONOMER,Holliday junction branch migration protein RuvA,ALW85_RS01
 ALW85_RS09595-MONOMER,cytochrome c,ALW85_RS09595(),BioCyc
 ALW85_RS07180-MONOMER,helix-turn-helix domain-containing protein,ALW85_RS07180(),BioCyc
 ALW85_RS11800-MONOMER,hypothetical protein,ALW85_RS11800(),BioCyc
-ALW85_RS05475-MONOMER,outer membrane lipoprotein chaperone LolA,ALW85_RS05475(1),BioCyc
+ALW85_RS05475-MONOMER,outer membrane lipoprotein chaperone LolA,ALW85_RS05475(),BioCyc
 ALW85_RS08270-MONOMER,transcriptional regulator,ALW85_RS08270(),BioCyc
 ALW85_RS05030-MONOMER,hydroxylamine oxidoreductase,ALW85_RS05030(),BioCyc
 ALW85_RS11805-MONOMER,type 1 glutamine amidotransferase domain-containing protein,ALW85_RS11805(),BioCyc
@@ -205,8 +205,8 @@ ALW85_RS08275-MONOMER,type II toxin-antitoxin system HigB family toxin,ALW85_RS0
 ALW85_RS04150-MONOMER,"glycosyltransferase, exosortase A system-associated",ALW85_RS04150(),BioCyc
 ALW85_RS01485-MONOMER,hypothetical protein,ALW85_RS01485(),BioCyc
 ALW85_RS03090-MONOMER,DUF3482 domain-containing protein,ALW85_RS03090(),BioCyc
-ALW85_RS11820-MONOMER,acetyl-CoA C-acyltransferase family protein,ALW85_RS11820(4),BioCyc
-ALW85_RS05240-MONOMER,acetylglutamate kinase,ALW85_RS05240(),BioCyc
+ALW85_RS11820-MONOMER,acetyl-CoA C-acyltransferase family protein,ALW85_RS11820(),BioCyc
+ALW85_RS05240-MONOMER,acetylglutamate kinase,ALW85_RS05240(2),BioCyc
 ALW85_RS11825-MONOMER,glucose-6-phosphate isomerase,ALW85_RS11825(2),BioCyc
 ALW85_RS02510-MONOMER,"ribbon-helix-helix protein, CopG family",ALW85_RS02510(),BioCyc
 ALW85_RS09610-MONOMER,IS481-like element ISNe2 family transposase,ALW85_RS09610(),BioCyc
@@ -233,7 +233,7 @@ ALW85_RS07200-MONOMER,AbrB/MazE/SpoVT family DNA-binding domain-containing prote
 ALW85_RS05495-MONOMER,lipoprotein-releasing ABC transporter ATP-binding protein LolD,ALW85_RS05495(),BioCyc
 ALW85_RS13820-MONOMER,hypothetical protein,ALW85_RS13820(),BioCyc
 ALW85_RS08295-MONOMER,Arc family DNA-binding protein,ALW85_RS08295(),BioCyc
-ALW85_RS11855-MONOMER,glycosyltransferase,ALW85_RS11855(1),BioCyc
+ALW85_RS11855-MONOMER,glycosyltransferase,ALW85_RS11855(),BioCyc
 ALW85_RS03400-MONOMER,4-hydroxy-3-methylbut-2-enyl diphosphate reductase,ALW85_RS03400(2),BioCyc
 ALW85_RS11860-MONOMER,hypothetical protein,ALW85_RS11860(),BioCyc
 ALW85_RS00895-MONOMER,polyribonucleotide nucleotidyltransferase,ALW85_RS00895(3),BioCyc
@@ -255,13 +255,13 @@ ALW85_RS01635-MONOMER,flagellar basal body P-ring protein FlgI,ALW85_RS01635(),B
 ALW85_RS05505-MONOMER,PEP-CTERM sorting domain-containing protein,ALW85_RS05505(),BioCyc
 ALW85_RS02360-MONOMER,DNA-3-methyladenine glycosylase I,ALW85_RS02360(),BioCyc
 ALW85_RS08305-MONOMER,type II toxin-antitoxin system RelE/ParE family toxin,ALW85_RS08305(),BioCyc
-ALW85_RS03405-MONOMER,glycine oxidase ThiO,ALW85_RS03405(1),BioCyc
+ALW85_RS03405-MONOMER,glycine oxidase ThiO,ALW85_RS03405(),BioCyc
 ALW85_RS03620-MONOMER,tryptophan synthase subunit beta,ALW85_RS03620(),BioCyc
-ALW85_RS11885-MONOMER,oligosaccharide flippase family protein,ALW85_RS11885(1),BioCyc
+ALW85_RS11885-MONOMER,oligosaccharide flippase family protein,ALW85_RS11885(),BioCyc
 ALW85_RS00900-MONOMER,30S ribosomal protein S15,ALW85_RS00900(1),BioCyc
-ALW85_RS11890-MONOMER,Vi polysaccharide biosynthesis UDP-N-acetylglucosamine C-6 dehydrogenase TviB,ALW85_RS11890(1),BioCyc
+ALW85_RS11890-MONOMER,Vi polysaccharide biosynthesis UDP-N-acetylglucosamine C-6 dehydrogenase TviB,ALW85_RS11890(),BioCyc
 ALW85_RS00580-MONOMER,ABC transporter permease,ALW85_RS00580(),BioCyc
-ALW85_RS09630-MONOMER,transcription elongation factor GreB,ALW85_RS09630(1),BioCyc
+ALW85_RS09630-MONOMER,transcription elongation factor GreB,ALW85_RS09630(),BioCyc
 ALW85_RS07215-MONOMER,IS481 family transposase,ALW85_RS07215(),BioCyc
 ALW85_RS05510-MONOMER,urea transporter,ALW85_RS05510(),BioCyc
 ALW85_RS11895-MONOMER,NAD-dependent epimerase,ALW85_RS11895(),BioCyc
@@ -285,7 +285,7 @@ ALW85_RS09640-MONOMER,ATP-dependent DNA helicase RecG,ALW85_RS09640(),BioCyc
 ALW85_RS07225-MONOMER,STAS-like domain-containing protein,ALW85_RS07225(),BioCyc
 ALW85_RS13770-MONOMER,CDGSH iron-sulfur domain-containing protein,ALW85_RS13770(),BioCyc
 ALW85_RS05520-MONOMER,IS481-like element ISNe2 family transposase,ALW85_RS05520(),BioCyc
-ALW85_RS04160-MONOMER,AMP-binding protein,ALW85_RS04160(1),BioCyc
+ALW85_RS04160-MONOMER,AMP-binding protein,ALW85_RS04160(),BioCyc
 ALW85_RS03095-MONOMER,integrase,ALW85_RS03095(),BioCyc
 ALW85_RS09645-MONOMER,RidA family protein,ALW85_RS09645(),BioCyc
 ALW85_RS11920-MONOMER,cell division protein FtsZ,ALW85_RS11920(),BioCyc
@@ -297,7 +297,7 @@ ALW85_RS01640-MONOMER,flagellar assembly peptidoglycan hydrolase FlgJ,ALW85_RS01
 ALW85_RS03920-MONOMER,recombinase family protein,ALW85_RS03920(),BioCyc
 ALW85_RS05535-MONOMER,type II toxin-antitoxin system VapC family toxin,ALW85_RS05535(),BioCyc
 ALW85_RS08320-MONOMER,flagellar protein FlaG,ALW85_RS08320(),BioCyc
-ALW85_RS11930-MONOMER,preQ(1) synthase,ALW85_RS11930(),BioCyc
+ALW85_RS11930-MONOMER,preQ(1) synthase,ALW85_RS11930(2),BioCyc
 ALW85_RS03415-MONOMER,acetyl-CoA carboxylase biotin carboxyl carrier protein,ALW85_RS03415(),BioCyc
 ALW85_RS11935-MONOMER,class II fumarate hydratase,ALW85_RS11935(4),BioCyc
 ALW85_RS00910-MONOMER,phosphocholine cytidylyltransferase family protein,ALW85_RS00910(),BioCyc
@@ -319,7 +319,7 @@ ALW85_RS09665-MONOMER,fructosamine kinase family protein,ALW85_RS09665(),BioCyc
 ALW85_RS11965-MONOMER,TerC family protein,ALW85_RS11965(),BioCyc
 ALW85_RS00915-MONOMER,HIT family protein,ALW85_RS00915(),BioCyc
 ALW85_RS04885-MONOMER,excinuclease ABC subunit UvrC,ALW85_RS04885(),BioCyc
-ALW85_RS02755-MONOMER,class 1 fructose-bisphosphatase,ALW85_RS02755(4),BioCyc
+ALW85_RS02755-MONOMER,class 1 fructose-bisphosphatase,ALW85_RS02755(),BioCyc
 ALW85_RS11970-MONOMER,patatin-like phospholipase family protein,ALW85_RS11970(),BioCyc
 ALW85_RS09670-MONOMER,dynamin family protein,ALW85_RS09670(),BioCyc
 ALW85_RS02075-MONOMER,DUF2905 domain-containing protein,ALW85_RS02075(),BioCyc
@@ -330,15 +330,15 @@ ALW85_RS11975-MONOMER,prolyl aminopeptidase,ALW85_RS11975(),BioCyc
 ALW85_RS04165-MONOMER,exopolysaccharide biosynthesis protein,ALW85_RS04165(),BioCyc
 ALW85_RS11980-MONOMER,dethiobiotin synthase,ALW85_RS11980(2),BioCyc
 ALW85_RS03245-MONOMER,cation-transporting P-type ATPase,ALW85_RS03245(1),BioCyc
-ALW85_RS11985-MONOMER,malonyl-ACP O-methyltransferase BioC,ALW85_RS11985(1),BioCyc
+ALW85_RS11985-MONOMER,malonyl-ACP O-methyltransferase BioC,ALW85_RS11985(),BioCyc
 ALW85_RS11990-MONOMER,pimeloyl-ACP methyl ester esterase BioH,ALW85_RS11990(1),BioCyc
-ALW85_RS09675-MONOMER,class I SAM-dependent RNA methyltransferase,ALW85_RS09675(1),BioCyc
+ALW85_RS09675-MONOMER,class I SAM-dependent RNA methyltransferase,ALW85_RS09675(),BioCyc
 ALW85_RS07255-MONOMER,ABC transporter permease,ALW85_RS07255(),BioCyc
 ALW85_RS01645-MONOMER,flagellar hook-associated protein FlgK,ALW85_RS01645(),BioCyc
 ALW85_RS14295-MONOMER,PIN domain-containing protein,ALW85_RS14295(),BioCyc
 ALW85_RS02365-MONOMER,ammonium transporter,ALW85_RS02365(),BioCyc
 ALW85_RS08330-MONOMER,flagellar export chaperone FliS,ALW85_RS08330(),BioCyc
-ALW85_RS11995-MONOMER,8-amino-7-oxononanoate synthase,ALW85_RS11995(2),BioCyc
+ALW85_RS11995-MONOMER,8-amino-7-oxononanoate synthase,ALW85_RS11995(),BioCyc
 ALW85_RS03425-MONOMER,50S ribosomal protein L11 methyltransferase,ALW85_RS03425(),BioCyc
 ALW85_RS04000-MONOMER,heme exporter protein CcmD,ALW85_RS04000(),BioCyc
 ALW85_RS03625-MONOMER,tryptophan synthase subunit alpha,ALW85_RS03625(),BioCyc
@@ -355,7 +355,7 @@ ALW85_RS04435-MONOMER,polysaccharide deacetylase family protein,ALW85_RS04435(),
 ALW85_RS12020-MONOMER,hydrolase,ALW85_RS12020(),BioCyc
 ALW85_RS12025-MONOMER,DUF488 domain-containing protein,ALW85_RS12025(),BioCyc
 ALW85_RS00215-MONOMER,undecaprenyl-diphosphate phosphatase,ALW85_RS00215(1),BioCyc
-ALW85_RS01110-MONOMER,tol-pal system-associated acyl-CoA thioesterase,ALW85_RS01110(1),BioCyc
+ALW85_RS01110-MONOMER,tol-pal system-associated acyl-CoA thioesterase,ALW85_RS01110(),BioCyc
 ALW85_RS09685-MONOMER,chemotaxis response regulator protein-glutamate methylesterase,ALW85_RS09685(),BioCyc
 ALW85_RS12030-MONOMER,DEAD/DEAH box helicase family protein,ALW85_RS12030(),BioCyc
 ALW85_RS07265-MONOMER,aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,ALW85_RS07265(),BioCyc
@@ -376,7 +376,7 @@ ALW85_RS05565-MONOMER,type II toxin-antitoxin system RelE/ParE family toxin,ALW8
 ALW85_RS12055-MONOMER,DEAD/DEAH box helicase,ALW85_RS12055(),BioCyc
 ALW85_RS04170-MONOMER,hypothetical protein,ALW85_RS04170(),BioCyc
 ALW85_RS01490-MONOMER,LemA family protein,ALW85_RS01490(),BioCyc
-ALW85_RS03100-MONOMER,phosphoenolpyruvate carboxylase,ALW85_RS03100(4),BioCyc
+ALW85_RS03100-MONOMER,phosphoenolpyruvate carboxylase,ALW85_RS03100(),BioCyc
 ALW85_RS09700-MONOMER,hypothetical protein,ALW85_RS09700(),BioCyc
 ALW85_RS12060-MONOMER,type IV pilus secretin PilQ,ALW85_RS12060(),BioCyc
 ALW85_RS12065-MONOMER,pilus assembly protein PilP,ALW85_RS12065(),BioCyc
@@ -388,7 +388,7 @@ ALW85_RS07280-MONOMER,exonuclease SbcCD subunit D C-terminal domain-containing p
 ALW85_RS01650-MONOMER,flagellar hook-associated protein FlgL,ALW85_RS01650(),BioCyc
 ALW85_RS05570-MONOMER,FecR domain-containing protein,ALW85_RS05570(),BioCyc
 ALW85_RS12075-MONOMER,PilN domain-containing protein,ALW85_RS12075(),BioCyc
-ALW85_RS03435-MONOMER,N-acetylmuramoyl-L-alanine amidase,ALW85_RS03435(1),BioCyc
+ALW85_RS03435-MONOMER,N-acetylmuramoyl-L-alanine amidase,ALW85_RS03435(),BioCyc
 ALW85_RS12080-MONOMER,pilus assembly protein PilM,ALW85_RS12080(),BioCyc
 ALW85_RS00930-MONOMER,hypothetical protein,ALW85_RS00930(),BioCyc
 ALW85_RS03780-MONOMER,putative sulfate exporter family transporter,ALW85_RS03780(),BioCyc
@@ -396,15 +396,15 @@ ALW85_RS12085-MONOMER,penicillin-binding protein 1A,ALW85_RS12085(2),BioCyc
 ALW85_RS09710-MONOMER,methyl-accepting chemotaxis protein,ALW85_RS09710(),BioCyc
 ALW85_RS12090-MONOMER,hypothetical protein,ALW85_RS12090(),BioCyc
 ALW85_RS07285-MONOMER,dienelactone hydrolase family protein,ALW85_RS07285(),BioCyc
-ALW85_RS00730-MONOMER,hydroxyacylglutathione hydrolase,ALW85_RS00730(1),BioCyc
+ALW85_RS00730-MONOMER,hydroxyacylglutathione hydrolase,ALW85_RS00730(),BioCyc
 ALW85_RS05575-MONOMER,sigma-70 family RNA polymerase sigma factor,ALW85_RS05575(),BioCyc
 ALW85_RS08340-MONOMER,hypothetical protein,ALW85_RS08340(),BioCyc
 ALW85_RS12095-MONOMER,dihydrolipoyl dehydrogenase,ALW85_RS12095(),BioCyc
-ALW85_RS04565-MONOMER,FAD-dependent monooxygenase,ALW85_RS04565(1),BioCyc
+ALW85_RS04565-MONOMER,FAD-dependent monooxygenase,ALW85_RS04565(),BioCyc
 ALW85_RS12100-MONOMER,beta-N-acetylhexosaminidase,ALW85_RS12100(1),BioCyc
 ALW85_RS12105-MONOMER,holo-ACP synthase,ALW85_RS12105(2),BioCyc
 ALW85_RS09715-MONOMER,chemotaxis protein CheW,ALW85_RS09715(),BioCyc
-ALW85_RS12110-MONOMER,pyridoxine 5'-phosphate synthase,ALW85_RS12110(8),BioCyc
+ALW85_RS12110-MONOMER,pyridoxine 5'-phosphate synthase,ALW85_RS12110(),BioCyc
 ALW85_RS14270-MONOMER,hypothetical protein,ALW85_RS14270(),BioCyc
 ALW85_RS05580-MONOMER,TonB-dependent receptor,ALW85_RS05580(),BioCyc
 ALW85_RS01260-MONOMER,IS481 family transposase,ALW85_RS01260(),BioCyc
@@ -430,7 +430,7 @@ ALW85_RS09725-MONOMER,hypothetical protein,ALW85_RS09725(),BioCyc
 ALW85_RS07295-MONOMER,outer membrane protein transport protein,ALW85_RS07295(),BioCyc
 ALW85_RS01655-MONOMER,hypothetical protein,ALW85_RS01655(),BioCyc
 ALW85_RS05590-MONOMER,nucleotidyltransferase,ALW85_RS05590(),BioCyc
-ALW85_RS02370-MONOMER,glutamate racemase,ALW85_RS02370(2),BioCyc
+ALW85_RS02370-MONOMER,glutamate racemase,ALW85_RS02370(),BioCyc
 ALW85_RS08355-MONOMER,type II secretion system protein,ALW85_RS08355(),BioCyc
 ALW85_RS12145-MONOMER,DegQ family serine endoprotease,ALW85_RS12145(),BioCyc
 ALW85_RS03445-MONOMER,SDR family oxidoreductase,ALW85_RS03445(),BioCyc
@@ -438,7 +438,7 @@ ALW85_RS03630-MONOMER,"acetyl-CoA carboxylase, carboxyltransferase subunit beta"
 ALW85_RS12150-MONOMER,sigma-E factor negative regulatory protein,ALW85_RS12150(),BioCyc
 ALW85_RS00940-MONOMER,adenine phosphoribosyltransferase,ALW85_RS00940(2),BioCyc
 ALW85_RS12155-MONOMER,RNA polymerase sigma factor RpoE,ALW85_RS12155(1),BioCyc
-ALW85_RS00590-MONOMER,succinyl-diaminopimelate desuccinylase,ALW85_RS00590(4),BioCyc
+ALW85_RS00590-MONOMER,succinyl-diaminopimelate desuccinylase,ALW85_RS00590(),BioCyc
 ALW85_RS09730-MONOMER,hypothetical protein,ALW85_RS09730(),BioCyc
 ALW85_RS12160-MONOMER,CBS domain-containing protein,ALW85_RS12160(),BioCyc
 ALW85_RS07300-MONOMER,outer membrane protein transport protein,ALW85_RS07300(),BioCyc
@@ -449,7 +449,7 @@ ALW85_RS04440-MONOMER,histidine phosphatase family protein,ALW85_RS04440(),BioCy
 ALW85_RS12170-MONOMER,PhoH family protein,ALW85_RS12170(),BioCyc
 ALW85_RS12175-MONOMER,tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB,ALW85_RS12175(1),BioCyc
 ALW85_RS01115-MONOMER,protein TolQ,ALW85_RS01115(),BioCyc
-ALW85_RS09735-MONOMER,ubiquinone biosynthesis regulatory protein kinase UbiB,ALW85_RS09735(1),BioCyc
+ALW85_RS09735-MONOMER,ubiquinone biosynthesis regulatory protein kinase UbiB,ALW85_RS09735(),BioCyc
 ALW85_RS12180-MONOMER,tetraheme cytochrome c-type,ALW85_RS12180(),BioCyc
 ALW85_RS07305-MONOMER,PAS domain-containing protein,ALW85_RS07305(),BioCyc
 ALW85_RS05600-MONOMER,type II toxin-antitoxin system CcdA family antitoxin,ALW85_RS05600(),BioCyc
@@ -510,14 +510,14 @@ ALW85_RS12275-MONOMER,hypothetical protein,ALW85_RS12275(),BioCyc
 ALW85_RS04735-MONOMER,DUF3293 domain-containing protein,ALW85_RS04735(),BioCyc
 ALW85_RS09760-MONOMER,NAD(P)H-dependent oxidoreductase subunit E,ALW85_RS09760(),BioCyc
 ALW85_RS02085-MONOMER,YggT family protein,ALW85_RS02085(),BioCyc
-ALW85_RS07330-MONOMER,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB,ALW85_RS07330(2),BioCyc
+ALW85_RS07330-MONOMER,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB,ALW85_RS07330(),BioCyc
 ALW85_RS01410-MONOMER,VOC family protein,ALW85_RS01410(),BioCyc
 ALW85_RS05625-MONOMER,efflux RND transporter periplasmic adaptor subunit,ALW85_RS05625(),BioCyc
 ALW85_RS12280-MONOMER,lysine--tRNA ligase,ALW85_RS12280(2),BioCyc
 ALW85_RS08385-MONOMER,PilN domain-containing protein,ALW85_RS08385(),BioCyc
 ALW85_RS04185-MONOMER,LPS export ABC transporter permease LptF,ALW85_RS04185(),BioCyc
 ALW85_RS12285-MONOMER,glutamine--tRNA ligase/YqeY domain fusion protein,ALW85_RS12285(),BioCyc
-ALW85_RS03255-MONOMER,iron-containing alcohol dehydrogenase,ALW85_RS03255(2),BioCyc
+ALW85_RS03255-MONOMER,iron-containing alcohol dehydrogenase,ALW85_RS03255(),BioCyc
 ALW85_RS02210-MONOMER,30S ribosomal protein S5,ALW85_RS02210(1),BioCyc
 ALW85_RS03455-MONOMER,adenosylhomocysteinase,ALW85_RS03455(),BioCyc
 ALW85_RS12290-MONOMER,C40 family peptidase,ALW85_RS12290(),BioCyc
@@ -534,8 +534,8 @@ ALW85_RS12300-MONOMER,phosphoenolpyruvate synthase,ALW85_RS12300(),BioCyc
 ALW85_RS00950-MONOMER,hypothetical protein,ALW85_RS00950(),BioCyc
 ALW85_RS12305-MONOMER,Mth938-like domain-containing protein,ALW85_RS12305(),BioCyc
 ALW85_RS00595-MONOMER,hypothetical protein,ALW85_RS00595(),BioCyc
-ALW85_RS09770-MONOMER,oxygen-dependent coproporphyrinogen oxidase,ALW85_RS09770(2),BioCyc
-ALW85_RS12320-MONOMER,glutamine--tRNA ligase/YqeY domain fusion protein,ALW85_RS12320(1),BioCyc
+ALW85_RS09770-MONOMER,oxygen-dependent coproporphyrinogen oxidase,ALW85_RS09770(),BioCyc
+ALW85_RS12320-MONOMER,glutamine--tRNA ligase/YqeY domain fusion protein,ALW85_RS12320(),BioCyc
 ALW85_RS07340-MONOMER,"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",ALW85_RS07340(3),BioCyc
 ALW85_RS05635-MONOMER,PepSY domain-containing protein,ALW85_RS05635(),BioCyc
 ALW85_RS12325-MONOMER,C40 family peptidase,ALW85_RS12325(),BioCyc
@@ -549,11 +549,11 @@ ALW85_RS12340-MONOMER,Mth938-like domain-containing protein,ALW85_RS12340(),BioC
 ALW85_RS07345-MONOMER,DUF488 domain-containing protein,ALW85_RS07345(),BioCyc
 ALW85_RS05640-MONOMER,FecR domain-containing protein,ALW85_RS05640(),BioCyc
 ALW85_RS08395-MONOMER,GspE/PulE family protein,ALW85_RS08395(),BioCyc
-ALW85_RS12345-MONOMER,pyridoxal phosphate-dependent aminotransferase,ALW85_RS12345(2),BioCyc
+ALW85_RS12345-MONOMER,pyridoxal phosphate-dependent aminotransferase,ALW85_RS12345(),BioCyc
 ALW85_RS05050-MONOMER,YggS family pyridoxal phosphate-dependent enzyme,ALW85_RS05050(),BioCyc
-ALW85_RS12350-MONOMER,homoserine dehydrogenase,ALW85_RS12350(2),BioCyc
-ALW85_RS05645-MONOMER,sigma-70 family RNA polymerase sigma factor,ALW85_RS05645(1),BioCyc
-ALW85_RS12355-MONOMER,threonine synthase,ALW85_RS12355(1),BioCyc
+ALW85_RS12350-MONOMER,homoserine dehydrogenase,ALW85_RS12350(),BioCyc
+ALW85_RS05645-MONOMER,sigma-70 family RNA polymerase sigma factor,ALW85_RS05645(),BioCyc
+ALW85_RS12355-MONOMER,threonine synthase,ALW85_RS12355(),BioCyc
 ALW85_RS01915-MONOMER,hypothetical protein,ALW85_RS01915(),BioCyc
 ALW85_RS09780-MONOMER,sel1 repeat family protein,ALW85_RS09780(),BioCyc
 ALW85_RS12360-MONOMER,succinate dehydrogenase iron-sulfur subunit,ALW85_RS12360(),BioCyc
@@ -563,12 +563,12 @@ ALW85_RS12365-MONOMER,succinate dehydrogenase assembly factor 2,ALW85_RS12365(),
 ALW85_RS08400-MONOMER,type II secretion system F family protein,ALW85_RS08400(),BioCyc
 ALW85_RS04190-MONOMER,LPS export ABC transporter permease LptG,ALW85_RS04190(),BioCyc
 ALW85_RS01495-MONOMER,tRNA (guanosine(46)-N7)-methyltransferase TrmB,ALW85_RS01495(1),BioCyc
-ALW85_RS03110-MONOMER,uroporphyrinogen-III synthase,ALW85_RS03110(1),BioCyc
-ALW85_RS12370-MONOMER,citrate (Si)-synthase,ALW85_RS12370(6),BioCyc
+ALW85_RS03110-MONOMER,uroporphyrinogen-III synthase,ALW85_RS03110(),BioCyc
+ALW85_RS12370-MONOMER,citrate (Si)-synthase,ALW85_RS12370(2),BioCyc
 ALW85_RS05655-MONOMER,TonB-dependent siderophore receptor,ALW85_RS05655(),BioCyc
 ALW85_RS13490-MONOMER,50S ribosomal protein L30,ALW85_RS13490(1),BioCyc
 ALW85_RS12375-MONOMER,2-oxoglutarate dehydrogenase E1 component,ALW85_RS12375(),BioCyc
-ALW85_RS03460-MONOMER,methylenetetrahydrofolate reductase [NAD(P)H],ALW85_RS03460(4),BioCyc
+ALW85_RS03460-MONOMER,methylenetetrahydrofolate reductase [NAD(P)H],ALW85_RS03460(),BioCyc
 ALW85_RS05250-MONOMER,response regulator,ALW85_RS05250(),BioCyc
 ALW85_RS12380-MONOMER,2-oxoglutarate dehydrogenase complex dihydrolipoyllysine-residue succinyltransferase,ALW85_RS12380(),BioCyc
 ALW85_RS02525-MONOMER,antitoxin,ALW85_RS02525(),BioCyc
@@ -580,7 +580,7 @@ ALW85_RS08405-MONOMER,type II secretion system major pseudopilin GspG,ALW85_RS08
 ALW85_RS12385-MONOMER,hypothetical protein,ALW85_RS12385(),BioCyc
 ALW85_RS02845-MONOMER,biotin/lipoyl-binding protein,ALW85_RS02845(),BioCyc
 ALW85_RS12390-MONOMER,BolA/IbaG family iron-sulfur metabolism protein,ALW85_RS12390(),BioCyc
-ALW85_RS00955-MONOMER,NUDIX hydrolase,ALW85_RS00955(1),BioCyc
+ALW85_RS00955-MONOMER,NUDIX hydrolase,ALW85_RS00955(),BioCyc
 ALW85_RS05670-MONOMER,type II toxin-antitoxin system RelE/ParE family toxin,ALW85_RS05670(),BioCyc
 ALW85_RS03790-MONOMER,hypothetical protein,ALW85_RS03790(),BioCyc
 ALW85_RS12395-MONOMER,ABC transporter permease,ALW85_RS12395(),BioCyc
@@ -622,13 +622,13 @@ ALW85_RS05705-MONOMER,TonB-dependent siderophore receptor,ALW85_RS05705(),BioCyc
 ALW85_RS03260-MONOMER,antibiotic biosynthesis monooxygenase,ALW85_RS03260(),BioCyc
 ALW85_RS05175-MONOMER,UDP-N-acetylmuramate--L-alanine ligase,ALW85_RS05175(1),BioCyc
 ALW85_RS02215-MONOMER,50S ribosomal protein L15,ALW85_RS02215(1),BioCyc
-ALW85_RS12450-MONOMER,protein-disulfide reductase DsbD,ALW85_RS12450(1),BioCyc
+ALW85_RS12450-MONOMER,protein-disulfide reductase DsbD,ALW85_RS12450(),BioCyc
 ALW85_RS13900-MONOMER,hypothetical protein,ALW85_RS13900(),BioCyc
 ALW85_RS07375-MONOMER,response regulator transcription factor,ALW85_RS07375(),BioCyc
 ALW85_RS12455-MONOMER,TlpA family protein disulfide reductase,ALW85_RS12455(),BioCyc
 ALW85_RS05710-MONOMER,FecR family protein,ALW85_RS05710(),BioCyc
 ALW85_RS02380-MONOMER,IS3 family transposase,ALW85_RS02380(),BioCyc
-ALW85_RS08430-MONOMER,transglycosylase SLT domain-containing protein,ALW85_RS08430(1),BioCyc
+ALW85_RS08430-MONOMER,transglycosylase SLT domain-containing protein,ALW85_RS08430(),BioCyc
 ALW85_RS02850-MONOMER,efflux RND transporter permease subunit,ALW85_RS02850(),BioCyc
 ALW85_RS03640-MONOMER,SPOR domain-containing protein,ALW85_RS03640(),BioCyc
 ALW85_RS09815-MONOMER,DUF202 domain-containing protein,ALW85_RS09815(),BioCyc
@@ -639,7 +639,7 @@ ALW85_RS07380-MONOMER,PepSY domain-containing protein,ALW85_RS07380(),BioCyc
 ALW85_RS05720-MONOMER,sigma-70 family RNA polymerase sigma factor,ALW85_RS05720(),BioCyc
 ALW85_RS04450-MONOMER,dienelactone hydrolase family protein,ALW85_RS04450(),BioCyc
 ALW85_RS08435-MONOMER,NADP-specific glutamate dehydrogenase,ALW85_RS08435(6),BioCyc
-ALW85_RS09820-MONOMER,catalase,ALW85_RS09820(6),BioCyc
+ALW85_RS09820-MONOMER,catalase,ALW85_RS09820(),BioCyc
 ALW85_RS05725-MONOMER,FecR domain-containing protein,ALW85_RS05725(),BioCyc
 ALW85_RS01120-MONOMER,protein TolR,ALW85_RS01120(),BioCyc
 ALW85_RS07385-MONOMER,hypothetical protein,ALW85_RS07385(),BioCyc
@@ -650,12 +650,12 @@ ALW85_RS09825-MONOMER,DUF3422 domain-containing protein,ALW85_RS09825(),BioCyc
 ALW85_RS02675-MONOMER,outer membrane protein assembly factor BamD,ALW85_RS02675(),BioCyc
 ALW85_RS05735-MONOMER,DUF1778 domain-containing protein,ALW85_RS05735(),BioCyc
 ALW85_RS01920-MONOMER,arginine--tRNA ligase,ALW85_RS01920(1),BioCyc
-ALW85_RS04745-MONOMER,S-(hydroxymethyl)glutathione dehydrogenase/class III alcohol dehydrogenase,ALW85_RS04745(2),BioCyc
+ALW85_RS04745-MONOMER,S-(hydroxymethyl)glutathione dehydrogenase/class III alcohol dehydrogenase,ALW85_RS04745(),BioCyc
 ALW85_RS07390-MONOMER,methane monooxygenase/ammonia monooxygenase subunit C,ALW85_RS07390(),BioCyc
 ALW85_RS05740-MONOMER,TonB-dependent receptor,ALW85_RS05740(),BioCyc
 ALW85_RS08460-MONOMER,type II toxin-antitoxin system prevent-host-death family antitoxin,ALW85_RS08460(),BioCyc
 ALW85_RS04210-MONOMER,DUF2959 domain-containing protein,ALW85_RS04210(),BioCyc
-ALW85_RS03115-MONOMER,uroporphyrinogen-III C-methyltransferase,ALW85_RS03115(1),BioCyc
+ALW85_RS03115-MONOMER,uroporphyrinogen-III C-methyltransferase,ALW85_RS03115(),BioCyc
 ALW85_RS09830-MONOMER,sulfite exporter TauE/SafE family protein,ALW85_RS09830(),BioCyc
 ALW85_RS03265-MONOMER,cupin domain-containing protein,ALW85_RS03265(),BioCyc
 ALW85_RS05760-MONOMER,type II toxin-antitoxin system RelE/ParE family toxin,ALW85_RS05760(),BioCyc
@@ -692,7 +692,7 @@ ALW85_RS05790-MONOMER,efflux transporter outer membrane subunit,ALW85_RS05790(),
 ALW85_RS04915-MONOMER,IS481 family transposase,ALW85_RS04915(),BioCyc
 ALW85_RS02765-MONOMER,DoxX family protein,ALW85_RS02765(),BioCyc
 ALW85_RS09855-MONOMER,branched-chain amino acid transaminase,ALW85_RS09855(6),BioCyc
-ALW85_RS04750-MONOMER,S-formylglutathione hydrolase,ALW85_RS04750(1),BioCyc
+ALW85_RS04750-MONOMER,S-formylglutathione hydrolase,ALW85_RS04750(),BioCyc
 ALW85_RS07410-MONOMER,signal recognition particle-docking protein FtsY,ALW85_RS07410(1),BioCyc
 ALW85_RS02095-MONOMER,ADP-ribosylglycohydrolase family protein,ALW85_RS02095(),BioCyc
 ALW85_RS01415-MONOMER,DUF1428 domain-containing protein,ALW85_RS01415(),BioCyc
@@ -704,7 +704,7 @@ ALW85_RS05180-MONOMER,UDP-N-acetylmuramate dehydrogenase,ALW85_RS05180(1),BioCyc
 ALW85_RS05800-MONOMER,ribosome-associated ATPase/putative transporter RbbA,ALW85_RS05800(),BioCyc
 ALW85_RS02225-MONOMER,translation initiation factor IF-1,ALW85_RS02225(1),BioCyc
 ALW85_RS03485-MONOMER,HAMP domain-containing histidine kinase,ALW85_RS03485(),BioCyc
-ALW85_RS09865-MONOMER,phosphomannomutase/phosphoglucomutase,ALW85_RS09865(1),BioCyc
+ALW85_RS09865-MONOMER,phosphomannomutase/phosphoglucomutase,ALW85_RS09865(),BioCyc
 ALW85_RS07415-MONOMER,insulinase family protein,ALW85_RS07415(),BioCyc
 ALW85_RS01680-MONOMER,helix-turn-helix transcriptional regulator,ALW85_RS01680(),BioCyc
 ALW85_RS05805-MONOMER,ABC transporter permease,ALW85_RS05805(),BioCyc
@@ -716,7 +716,7 @@ ALW85_RS00975-MONOMER,PEP-CTERM sorting domain-containing protein,ALW85_RS00975(
 ALW85_RS05810-MONOMER,hypothetical protein,ALW85_RS05810(),BioCyc
 ALW85_RS00605-MONOMER,CRISPR-associated endonuclease Cas1,ALW85_RS00605(),BioCyc
 ALW85_RS09870-MONOMER,NAD+ synthase,ALW85_RS09870(),BioCyc
-ALW85_RS07420-MONOMER,alanine racemase,ALW85_RS07420(2),BioCyc
+ALW85_RS07420-MONOMER,alanine racemase,ALW85_RS07420(1),BioCyc
 ALW85_RS13580-MONOMER,DUF1328 domain-containing protein,ALW85_RS13580(),BioCyc
 ALW85_RS04455-MONOMER,transglutaminase-like domain-containing protein,ALW85_RS04455(),BioCyc
 ALW85_RS08490-MONOMER,TonB family protein,ALW85_RS08490(),BioCyc
@@ -727,7 +727,7 @@ ALW85_RS01125-MONOMER,TonB family protein,ALW85_RS01125(),BioCyc
 ALW85_RS09880-MONOMER,efflux RND transporter periplasmic adaptor subunit,ALW85_RS09880(),BioCyc
 ALW85_RS07425-MONOMER,peptidyl-prolyl cis-trans isomerase,ALW85_RS07425(),BioCyc
 ALW85_RS05820-MONOMER,uracil-DNA glycosylase family protein,ALW85_RS05820(),BioCyc
-ALW85_RS08495-MONOMER,shikimate dehydrogenase,ALW85_RS08495(1),BioCyc
+ALW85_RS08495-MONOMER,shikimate dehydrogenase,ALW85_RS08495(2),BioCyc
 ALW85_RS05055-MONOMER,pantetheine-phosphate adenylyltransferase,ALW85_RS05055(6),BioCyc
 ALW85_RS09885-MONOMER,ABC transporter ATP-binding protein,ALW85_RS09885(),BioCyc
 ALW85_RS05825-MONOMER,penicillin acylase family protein,ALW85_RS05825(),BioCyc
@@ -741,23 +741,23 @@ ALW85_RS04220-MONOMER,preprotein translocase subunit SecA,ALW85_RS04220(1),BioCy
 ALW85_RS03120-MONOMER,heme biosynthesis protein HemY,ALW85_RS03120(),BioCyc
 ALW85_RS01500-MONOMER,thiazole synthase,ALW85_RS01500(1),BioCyc
 ALW85_RS09900-MONOMER,monovalent cation/H+ antiporter subunit A,ALW85_RS09900(),BioCyc
-ALW85_RS03270-MONOMER,dCTP deaminase,ALW85_RS03270(3),BioCyc
-ALW85_RS05840-MONOMER,"acyl-CoA ligase (AMP-forming), exosortase A system-associated",ALW85_RS05840(2),BioCyc
-ALW85_RS13495-MONOMER,50S ribosomal protein L36,ALW85_RS13495(1),BioCyc
+ALW85_RS03270-MONOMER,dCTP deaminase,ALW85_RS03270(),BioCyc
+ALW85_RS05840-MONOMER,"acyl-CoA ligase (AMP-forming), exosortase A system-associated",ALW85_RS05840(),BioCyc
+ALW85_RS13495-MONOMER,50S ribosomal protein L36,ALW85_RS13495(),BioCyc
 ALW85_RS03490-MONOMER,response regulator transcription factor,ALW85_RS03490(),BioCyc
 ALW85_RS05255-MONOMER,BON domain-containing protein,ALW85_RS05255(),BioCyc
 ALW85_RS02535-MONOMER,hypothetical protein,ALW85_RS02535(),BioCyc
-ALW85_RS07435-MONOMER,FAD-dependent oxidoreductase,ALW85_RS07435(1),BioCyc
+ALW85_RS07435-MONOMER,FAD-dependent oxidoreductase,ALW85_RS07435(),BioCyc
 ALW85_RS13850-MONOMER,hypothetical protein,ALW85_RS13850(),BioCyc
 ALW85_RS05845-MONOMER,"pyridoxal-dependent decarboxylase, exosortase A system-associated",ALW85_RS05845(),BioCyc
 ALW85_RS14190-MONOMER,hypothetical protein,ALW85_RS14190(),BioCyc
 ALW85_RS02865-MONOMER,hypothetical protein,ALW85_RS02865(),BioCyc
 ALW85_RS09905-MONOMER,Na+/H+ antiporter subunit C,ALW85_RS09905(),BioCyc
 ALW85_RS05850-MONOMER,asparagine synthase,ALW85_RS05850(),BioCyc
-ALW85_RS03805-MONOMER,dihydroorotase,ALW85_RS03805(2),BioCyc
+ALW85_RS03805-MONOMER,dihydroorotase,ALW85_RS03805(),BioCyc
 ALW85_RS09910-MONOMER,monovalent cation/H+ antiporter subunit D,ALW85_RS09910(),BioCyc
 ALW85_RS07440-MONOMER,protease HtpX,ALW85_RS07440(),BioCyc
-ALW85_RS00750-MONOMER,aspartate aminotransferase family protein,ALW85_RS00750(1),BioCyc
+ALW85_RS00750-MONOMER,aspartate aminotransferase family protein,ALW85_RS00750(),BioCyc
 ALW85_RS05855-MONOMER,PEP-CTERM/exosortase system-associated acyltransferase,ALW85_RS05855(),BioCyc
 ALW85_RS08505-MONOMER,hypothetical protein,ALW85_RS08505(),BioCyc
 ALW85_RS00015-MONOMER,DNA topoisomerase (ATP-hydrolyzing) subunit B,ALW85_RS00015(),BioCyc
@@ -794,8 +794,8 @@ ALW85_RS09945-MONOMER,DedA family protein,ALW85_RS09945(),BioCyc
 ALW85_RS00980-MONOMER,IS481 family transposase,ALW85_RS00980(),BioCyc
 ALW85_RS05900-MONOMER,lipoprotein B transmembrane,ALW85_RS05900(),BioCyc
 ALW85_RS00610-MONOMER,CRISPR-associated endonuclease Cas2,ALW85_RS00610(),BioCyc
-ALW85_RS09950-MONOMER,Grx4 family monothiol glutaredoxin,ALW85_RS09950(2),BioCyc
-ALW85_RS07460-MONOMER,bifunctional hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase,ALW85_RS07460(4),BioCyc
+ALW85_RS09950-MONOMER,Grx4 family monothiol glutaredoxin,ALW85_RS09950(),BioCyc
+ALW85_RS07460-MONOMER,bifunctional hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase,ALW85_RS07460(),BioCyc
 ALW85_RS05905-MONOMER,leucine--tRNA ligase,ALW85_RS05905(1),BioCyc
 ALW85_RS08535-MONOMER,HprK-related kinase A,ALW85_RS08535(),BioCyc
 ALW85_RS09955-MONOMER,peptide chain release factor N(5)-glutamine methyltransferase,ALW85_RS09955(),BioCyc
@@ -822,7 +822,7 @@ ALW85_RS08550-MONOMER,CusA/CzcA family heavy metal efflux RND transporter,ALW85_
 ALW85_RS02885-MONOMER,TonB-dependent receptor,ALW85_RS02885(),BioCyc
 ALW85_RS00985-MONOMER,helix-turn-helix domain-containing protein,ALW85_RS00985(),BioCyc
 ALW85_RS03810-MONOMER,HAMP domain-containing histidine kinase,ALW85_RS03810(),BioCyc
-ALW85_RS07480-MONOMER,anhydro-N-acetylmuramic acid kinase,ALW85_RS07480(1),BioCyc
+ALW85_RS07480-MONOMER,anhydro-N-acetylmuramic acid kinase,ALW85_RS07480(),BioCyc
 ALW85_RS08555-MONOMER,efflux RND transporter periplasmic adaptor subunit,ALW85_RS08555(),BioCyc
 ALW85_RS00020-MONOMER,YbaN family protein,ALW85_RS00020(),BioCyc
 ALW85_RS04590-MONOMER,cupin domain-containing protein,ALW85_RS04590(),BioCyc
@@ -833,11 +833,11 @@ ALW85_RS08560-MONOMER,TolC family protein,ALW85_RS08560(),BioCyc
 ALW85_RS04925-MONOMER,LPXTG cell wall anchor domain-containing protein,ALW85_RS04925(),BioCyc
 ALW85_RS02770-MONOMER,CBS domain-containing protein,ALW85_RS02770(),BioCyc
 ALW85_RS04770-MONOMER,30S ribosomal protein S12 methylthiotransferase RimO,ALW85_RS04770(),BioCyc
-ALW85_RS07490-MONOMER,tyrosine--tRNA ligase,ALW85_RS07490(2),BioCyc
-ALW85_RS02100-MONOMER,decarboxylating 6-phosphogluconate dehydrogenase,ALW85_RS02100(2),BioCyc
+ALW85_RS07490-MONOMER,tyrosine--tRNA ligase,ALW85_RS07490(),BioCyc
+ALW85_RS02100-MONOMER,decarboxylating 6-phosphogluconate dehydrogenase,ALW85_RS02100(),BioCyc
 ALW85_RS01420-MONOMER,IS481 family transposase,ALW85_RS01420(),BioCyc
 ALW85_RS08565-MONOMER,hypothetical protein,ALW85_RS08565(),BioCyc
-ALW85_RS05185-MONOMER,D-alanine--D-alanine ligase,ALW85_RS05185(2),BioCyc
+ALW85_RS05185-MONOMER,D-alanine--D-alanine ligase,ALW85_RS05185(1),BioCyc
 ALW85_RS02240-MONOMER,30S ribosomal protein S4,ALW85_RS02240(1),BioCyc
 ALW85_RS03505-MONOMER,hypothetical protein,ALW85_RS03505(),BioCyc
 ALW85_RS07495-MONOMER,transcriptional regulator NrdR,ALW85_RS07495(),BioCyc
@@ -853,7 +853,7 @@ ALW85_RS08575-MONOMER,DUF177 domain-containing protein,ALW85_RS08575(),BioCyc
 ALW85_RS00230-MONOMER,peptidylprolyl isomerase,ALW85_RS00230(),BioCyc
 ALW85_RS01135-MONOMER,peptidoglycan-associated lipoprotein Pal,ALW85_RS01135(),BioCyc
 ALW85_RS07500-MONOMER,serine hydroxymethyltransferase,ALW85_RS07500(2),BioCyc
-ALW85_RS08580-MONOMER,50S ribosomal protein L32,ALW85_RS08580(1),BioCyc
+ALW85_RS08580-MONOMER,50S ribosomal protein L32,ALW85_RS08580(),BioCyc
 ALW85_RS05065-MONOMER,insulinase family protein,ALW85_RS05065(),BioCyc
 ALW85_RS01935-MONOMER,hypothetical protein,ALW85_RS01935(),BioCyc
 ALW85_RS04775-MONOMER,PEP-CTERM sorting domain-containing protein,ALW85_RS04775(),BioCyc
@@ -871,7 +871,7 @@ ALW85_RS03815-MONOMER,response regulator transcription factor,ALW85_RS03815(),Bi
 ALW85_RS07515-MONOMER,5-methyltetrahydropteroyltriglutamate-- homocysteine S-methyltransferase,ALW85_RS07515(1),BioCyc
 ALW85_RS00755-MONOMER,nitrosocyanin,ALW85_RS00755(),BioCyc
 ALW85_RS08595-MONOMER,ACP S-malonyltransferase,ALW85_RS08595(),BioCyc
-ALW85_RS00025-MONOMER,rRNA pseudouridine synthase,ALW85_RS00025(1),BioCyc
+ALW85_RS00025-MONOMER,rRNA pseudouridine synthase,ALW85_RS00025(),BioCyc
 ALW85_RS04595-MONOMER,esterase,ALW85_RS04595(),BioCyc
 ALW85_RS00995-MONOMER,phosphotransferase,ALW85_RS00995(),BioCyc
 ALW85_RS07520-MONOMER,argininosuccinate synthase,ALW85_RS07520(4),BioCyc
@@ -896,7 +896,7 @@ ALW85_RS02690-MONOMER,DUF1292 domain-containing protein,ALW85_RS02690(),BioCyc
 ALW85_RS01940-MONOMER,"bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase",ALW85_RS01940(1),BioCyc
 ALW85_RS07540-MONOMER,hypothetical protein,ALW85_RS07540(),BioCyc
 ALW85_RS03135-MONOMER,type II secretion system F family protein,ALW85_RS03135(),BioCyc
-ALW85_RS03285-MONOMER,aminopeptidase N,ALW85_RS03285(1),BioCyc
+ALW85_RS03285-MONOMER,aminopeptidase N,ALW85_RS03285(),BioCyc
 ALW85_RS02250-MONOMER,50S ribosomal protein L17,ALW85_RS02250(1),BioCyc
 ALW85_RS02550-MONOMER,ABC transporter ATP-binding protein,ALW85_RS02550(),BioCyc
 ALW85_RS07545-MONOMER,hypothetical protein,ALW85_RS07545(),BioCyc
@@ -976,7 +976,7 @@ ALW85_RS05960-MONOMER,bifunctional riboflavin kinase/FAD synthetase,ALW85_RS0596
 ALW85_RS03825-MONOMER,TonB-dependent siderophore receptor,ALW85_RS03825(),BioCyc
 ALW85_RS09995-MONOMER,CbbQ/NirQ/NorQ/GpvN family protein,ALW85_RS09995(),BioCyc
 ALW85_RS01700-MONOMER,oxidative damage protection protein,ALW85_RS01700(),BioCyc
-ALW85_RS07590-MONOMER,iron-sulfur cluster assembly accessory protein,ALW85_RS07590(4),BioCyc
+ALW85_RS07590-MONOMER,iron-sulfur cluster assembly accessory protein,ALW85_RS07590(),BioCyc
 ALW85_RS05965-MONOMER,group III truncated hemoglobin,ALW85_RS05965(),BioCyc
 ALW85_RS00765-MONOMER,23S rRNA (adenine(2503)-C(2))-methyltransferase RlmN,ALW85_RS00765(),BioCyc
 ALW85_RS08655-MONOMER,"L,D-transpeptidase family protein",ALW85_RS08655(),BioCyc
@@ -1010,21 +1010,21 @@ ALW85_RS02920-MONOMER,type II toxin-antitoxin system VapC family toxin,ALW85_RS0
 ALW85_RS06000-MONOMER,NUDIX hydrolase,ALW85_RS06000(),BioCyc
 ALW85_RS10020-MONOMER,protein phosphatase CheZ,ALW85_RS10020(),BioCyc
 ALW85_RS00625-MONOMER,CRISPR-associated protein Csx16,ALW85_RS00625(),BioCyc
-ALW85_RS01705-MONOMER,polyphosphate kinase 1,ALW85_RS01705(4),BioCyc
-ALW85_RS07610-MONOMER,arylesterase,ALW85_RS07610(4),BioCyc
+ALW85_RS01705-MONOMER,polyphosphate kinase 1,ALW85_RS01705(),BioCyc
+ALW85_RS07610-MONOMER,arylesterase,ALW85_RS07610(),BioCyc
 ALW85_RS06010-MONOMER,hypothetical protein,ALW85_RS06010(),BioCyc
 ALW85_RS02575-MONOMER,AIPR family protein,ALW85_RS02575(),BioCyc
-ALW85_RS04475-MONOMER,phosphoadenylyl-sulfate reductase,ALW85_RS04475(2),BioCyc
+ALW85_RS04475-MONOMER,phosphoadenylyl-sulfate reductase,ALW85_RS04475(),BioCyc
 ALW85_RS08675-MONOMER,M3 family metallopeptidase,ALW85_RS08675(),BioCyc
 ALW85_RS10025-MONOMER,IS481 family transposase,ALW85_RS10025(),BioCyc
 ALW85_RS13515-MONOMER,IS5 family transposase,ALW85_RS13515(),BioCyc
 ALW85_RS06020-MONOMER,exodeoxyribonuclease VII small subunit,ALW85_RS06020(),BioCyc
-ALW85_RS10030-MONOMER,carbonic anhydrase,ALW85_RS10030(2),BioCyc
+ALW85_RS10030-MONOMER,carbonic anhydrase,ALW85_RS10030(),BioCyc
 ALW85_RS03845-MONOMER,cytochrome c,ALW85_RS03845(),BioCyc
 ALW85_RS01150-MONOMER,7-cyano-7-deazaguanine synthase QueC,ALW85_RS01150(1),BioCyc
-ALW85_RS07615-MONOMER,RluA family pseudouridine synthase,ALW85_RS07615(1),BioCyc
+ALW85_RS07615-MONOMER,RluA family pseudouridine synthase,ALW85_RS07615(),BioCyc
 ALW85_RS06025-MONOMER,polyprenyl synthetase family protein,ALW85_RS06025(1),BioCyc
-ALW85_RS08680-MONOMER,dihydroorotase,ALW85_RS08680(4),BioCyc
+ALW85_RS08680-MONOMER,dihydroorotase,ALW85_RS08680(),BioCyc
 ALW85_RS10035-MONOMER,SulP family inorganic anion transporter,ALW85_RS10035(1),BioCyc
 ALW85_RS04790-MONOMER,YgcG family protein,ALW85_RS04790(),BioCyc
 ALW85_RS05080-MONOMER,hypothetical protein,ALW85_RS05080(),BioCyc
@@ -1033,7 +1033,7 @@ ALW85_RS00070-MONOMER,cytochrome P460 family protein,ALW85_RS00070(),BioCyc
 ALW85_RS02695-MONOMER,SCO family protein,ALW85_RS02695(),BioCyc
 ALW85_RS01955-MONOMER,FAD-dependent oxidoreductase,ALW85_RS01955(2),BioCyc
 ALW85_RS10040-MONOMER,Smr/MutS family protein,ALW85_RS10040(),BioCyc
-ALW85_RS07625-MONOMER,Rne/Rng family ribonuclease,ALW85_RS07625(4),BioCyc
+ALW85_RS07625-MONOMER,Rne/Rng family ribonuclease,ALW85_RS07625(),BioCyc
 ALW85_RS06035-MONOMER,hypothetical protein,ALW85_RS06035(),BioCyc
 ALW85_RS08685-MONOMER,aspartate carbamoyltransferase catalytic subunit,ALW85_RS08685(3),BioCyc
 ALW85_RS10045-MONOMER,thioredoxin-disulfide reductase,ALW85_RS10045(),BioCyc
@@ -1058,7 +1058,7 @@ ALW85_RS03830-MONOMER,tRNA 2-selenouridine(34) synthase MnmH,ALW85_RS03830(),Bio
 ALW85_RS10060-MONOMER,recombinase RecA,ALW85_RS10060(),BioCyc
 ALW85_RS01710-MONOMER,fructose-bisphosphate aldolase class II,ALW85_RS01710(),BioCyc
 ALW85_RS06055-MONOMER,SAM-dependent methyltransferase,ALW85_RS06055(),BioCyc
-ALW85_RS04610-MONOMER,chaperone SurA,ALW85_RS04610(1),BioCyc
+ALW85_RS04610-MONOMER,chaperone SurA,ALW85_RS04610(),BioCyc
 ALW85_RS00770-MONOMER,type IV pilus biogenesis/stability protein PilW,ALW85_RS00770(),BioCyc
 ALW85_RS08695-MONOMER,Holliday junction resolvase RuvX,ALW85_RS08695(),BioCyc
 ALW85_RS10065-MONOMER,adenylate kinase,ALW85_RS10065(1),BioCyc
@@ -1067,7 +1067,7 @@ ALW85_RS00055-MONOMER,transcription-repair coupling factor,ALW85_RS00055(1),BioC
 ALW85_RS06060-MONOMER,purine phosphorylase,ALW85_RS06060(),BioCyc
 ALW85_RS00160-MONOMER,SDR family oxidoreductase,ALW85_RS00160(),BioCyc
 ALW85_RS01010-MONOMER,replicative DNA helicase,ALW85_RS01010(),BioCyc
-ALW85_RS10070-MONOMER,6-phosphofructokinase,ALW85_RS10070(),BioCyc
+ALW85_RS10070-MONOMER,6-phosphofructokinase,ALW85_RS10070(4),BioCyc
 ALW85_RS07635-MONOMER,cytochrome c biogenesis protein CcsA,ALW85_RS07635(),BioCyc
 ALW85_RS06065-MONOMER,squalene--hopene cyclase,ALW85_RS06065(),BioCyc
 ALW85_RS04945-MONOMER,methane monooxygenase/ammonia monooxygenase subunit C,ALW85_RS04945(),BioCyc
@@ -1104,19 +1104,19 @@ ALW85_RS04480-MONOMER,sulfate adenylyltransferase subunit CysD,ALW85_RS04480(),B
 ALW85_RS08705-MONOMER,"2-polyprenyl-3-methyl-6-methoxy-1,4-benzoquinone monooxygenase",ALW85_RS08705(),BioCyc
 ALW85_RS10110-MONOMER,GrpB family protein,ALW85_RS10110(),BioCyc
 ALW85_RS02970-MONOMER,PepSY domain-containing protein,ALW85_RS02970(),BioCyc
-ALW85_RS06100-MONOMER,disulfide bond formation protein B,ALW85_RS06100(1),BioCyc
+ALW85_RS06100-MONOMER,disulfide bond formation protein B,ALW85_RS06100(),BioCyc
 ALW85_RS10115-MONOMER,OsmC family protein,ALW85_RS10115(),BioCyc
 ALW85_RS03850-MONOMER,cytochrome c,ALW85_RS03850(),BioCyc
 ALW85_RS00240-MONOMER,class I SAM-dependent methyltransferase,ALW85_RS00240(),BioCyc
-ALW85_RS01155-MONOMER,dihydroneopterin aldolase,ALW85_RS01155(8),BioCyc
-ALW85_RS07650-MONOMER,dUTP diphosphatase,ALW85_RS07650(3),BioCyc
+ALW85_RS01155-MONOMER,dihydroneopterin aldolase,ALW85_RS01155(),BioCyc
+ALW85_RS07650-MONOMER,dUTP diphosphatase,ALW85_RS07650(),BioCyc
 ALW85_RS06105-MONOMER,peptidoglycan-binding protein,ALW85_RS06105(),BioCyc
 ALW85_RS10120-MONOMER,NAD(P)/FAD-dependent oxidoreductase,ALW85_RS10120(),BioCyc
 ALW85_RS04795-MONOMER,TPM domain-containing protein,ALW85_RS04795(),BioCyc
 ALW85_RS05085-MONOMER,type II toxin-antitoxin system PemK/MazF family toxin,ALW85_RS05085(),BioCyc
 ALW85_RS06110-MONOMER,RidA family protein,ALW85_RS06110(),BioCyc
 ALW85_RS00075-MONOMER,indole-3-glycerol phosphate synthase TrpC,ALW85_RS00075(1),BioCyc
-ALW85_RS01960-MONOMER,glycerophosphoryl diester phosphodiesterase,ALW85_RS01960(1),BioCyc
+ALW85_RS01960-MONOMER,glycerophosphoryl diester phosphodiesterase,ALW85_RS01960(),BioCyc
 ALW85_RS10125-MONOMER,TetR/AcrR family transcriptional regulator,ALW85_RS10125(),BioCyc
 ALW85_RS07655-MONOMER,bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate--cysteine ligase CoaBC,ALW85_RS07655(12),BioCyc
 ALW85_RS06115-MONOMER,IS481 family transposase,ALW85_RS06115(),BioCyc
@@ -1138,27 +1138,27 @@ ALW85_RS00455-MONOMER,EI24 domain-containing protein,ALW85_RS00455(),BioCyc
 ALW85_RS10140-MONOMER,molecular chaperone DnaK,ALW85_RS10140(1),BioCyc
 ALW85_RS02935-MONOMER,TonB-dependent receptor,ALW85_RS02935(),BioCyc
 ALW85_RS06135-MONOMER,hypothetical protein,ALW85_RS06135(),BioCyc
-ALW85_RS03835-MONOMER,"selenide, water dikinase SelD",ALW85_RS03835(1),BioCyc
+ALW85_RS03835-MONOMER,"selenide, water dikinase SelD",ALW85_RS03835(),BioCyc
 ALW85_RS10145-MONOMER,nucleotide exchange factor GrpE,ALW85_RS10145(2),BioCyc
 ALW85_RS01720-MONOMER,phosphoglycerate kinase,ALW85_RS01720(1),BioCyc
 ALW85_RS06140-MONOMER,S8 family peptidase,ALW85_RS06140(),BioCyc
 ALW85_RS07660-MONOMER,DNA repair protein RadC,ALW85_RS07660(),BioCyc
-ALW85_RS04615-MONOMER,4-hydroxythreonine-4-phosphate dehydrogenase PdxA,ALW85_RS04615(2),BioCyc
+ALW85_RS04615-MONOMER,4-hydroxythreonine-4-phosphate dehydrogenase PdxA,ALW85_RS04615(),BioCyc
 ALW85_RS00775-MONOMER,helix-turn-helix domain-containing protein,ALW85_RS00775(),BioCyc
 ALW85_RS08715-MONOMER,30S ribosomal protein S16,ALW85_RS08715(1),BioCyc
 ALW85_RS10150-MONOMER,adenylosuccinate lyase,ALW85_RS10150(1),BioCyc
 ALW85_RS02975-MONOMER,multicopper oxidase domain-containing protein,ALW85_RS02975(),BioCyc
 ALW85_RS00060-MONOMER,MgtC/SapB family protein,ALW85_RS00060(),BioCyc
-ALW85_RS06145-MONOMER,1-acyl-sn-glycerol-3-phosphate acyltransferase,ALW85_RS06145(1),BioCyc
+ALW85_RS06145-MONOMER,1-acyl-sn-glycerol-3-phosphate acyltransferase,ALW85_RS06145(),BioCyc
 ALW85_RS01015-MONOMER,50S ribosomal protein L9,ALW85_RS01015(1),BioCyc
 ALW85_RS10155-MONOMER,glutathione S-transferase,ALW85_RS10155(),BioCyc
 ALW85_RS14165-MONOMER,hypothetical protein,ALW85_RS14165(),BioCyc
 ALW85_RS01320-MONOMER,hypothetical protein,ALW85_RS01320(),BioCyc
 ALW85_RS08720-MONOMER,ribosome maturation factor RimM,ALW85_RS08720(1),BioCyc
-ALW85_RS10160-MONOMER,RNA methyltransferase,ALW85_RS10160(2),BioCyc
-ALW85_RS06150-MONOMER,"D-glycero-beta-D-manno-heptose 1,7-bisphosphate 7-phosphatase",ALW85_RS06150(1),BioCyc
+ALW85_RS10160-MONOMER,RNA methyltransferase,ALW85_RS10160(),BioCyc
+ALW85_RS06150-MONOMER,"D-glycero-beta-D-manno-heptose 1,7-bisphosphate 7-phosphatase",ALW85_RS06150(),BioCyc
 ALW85_RS10165-MONOMER,inositol monophosphatase,ALW85_RS10165(1),BioCyc
-ALW85_RS07665-MONOMER,50S ribosomal protein L28,ALW85_RS07665(1),BioCyc
+ALW85_RS07665-MONOMER,50S ribosomal protein L28,ALW85_RS07665(),BioCyc
 ALW85_RS08725-MONOMER,tRNA (guanosine(37)-N1)-methyltransferase TrmD,ALW85_RS08725(2),BioCyc
 ALW85_RS10170-MONOMER,MlaD family protein,ALW85_RS10170(),BioCyc
 ALW85_RS06155-MONOMER,glycine--tRNA ligase subunit beta,ALW85_RS06155(),BioCyc
@@ -1172,11 +1172,11 @@ ALW85_RS08730-MONOMER,50S ribosomal protein L19,ALW85_RS08730(1),BioCyc
 ALW85_RS14045-MONOMER,lipoprotein,ALW85_RS14045(),BioCyc
 ALW85_RS02940-MONOMER,sigma-70 family RNA polymerase sigma factor,ALW85_RS02940(),BioCyc
 ALW85_RS03670-MONOMER,type II toxin-antitoxin system Phd/YefM family antitoxin,ALW85_RS03670(),BioCyc
-ALW85_RS06165-MONOMER,apolipoprotein N-acyltransferase,ALW85_RS06165(1),BioCyc
+ALW85_RS06165-MONOMER,apolipoprotein N-acyltransferase,ALW85_RS06165(),BioCyc
 ALW85_RS10180-MONOMER,diaminopimelate decarboxylase,ALW85_RS10180(4),BioCyc
 ALW85_RS00635-MONOMER,AbrB/MazE/SpoVT family DNA-binding domain-containing protein,ALW85_RS00635(),BioCyc
 ALW85_RS01725-MONOMER,type I glyceraldehyde-3-phosphate dehydrogenase,ALW85_RS01725(4),BioCyc
-ALW85_RS07670-MONOMER,50S ribosomal protein L33,ALW85_RS07670(1),BioCyc
+ALW85_RS07670-MONOMER,50S ribosomal protein L33,ALW85_RS07670(),BioCyc
 ALW85_RS06170-MONOMER,DUF6164 family protein,ALW85_RS06170(),BioCyc
 ALW85_RS02585-MONOMER,type II toxin-antitoxin system RelE/ParE family toxin,ALW85_RS02585(),BioCyc
 ALW85_RS04485-MONOMER,sulfate adenylyltransferase subunit CysN,ALW85_RS04485(),BioCyc
@@ -1211,7 +1211,7 @@ ALW85_RS06200-MONOMER,NnrS family protein,ALW85_RS06200(),BioCyc
 ALW85_RS08745-MONOMER,arsenate reductase family protein,ALW85_RS08745(),BioCyc
 ALW85_RS04280-MONOMER,FecR family protein,ALW85_RS04280(),BioCyc
 ALW85_RS03955-MONOMER,TonB-dependent receptor,ALW85_RS03955(),BioCyc
-ALW85_RS03535-MONOMER,2-hydroxy-3-oxopropionate reductase,ALW85_RS03535(4),BioCyc
+ALW85_RS03535-MONOMER,2-hydroxy-3-oxopropionate reductase,ALW85_RS03535(1),BioCyc
 ALW85_RS00465-MONOMER,glycine zipper family protein,ALW85_RS00465(),BioCyc
 ALW85_RS10215-MONOMER,3-phosphoshikimate 1-carboxyvinyltransferase,ALW85_RS10215(1),BioCyc
 ALW85_RS04620-MONOMER,16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))- dimethyltransferase RsmA,ALW85_RS04620(1),BioCyc
@@ -1223,26 +1223,26 @@ ALW85_RS06205-MONOMER,ATP-binding cassette domain-containing protein,ALW85_RS062
 ALW85_RS08755-MONOMER,DUF2024 family protein,ALW85_RS08755(),BioCyc
 ALW85_RS02130-MONOMER,30S ribosomal protein S10,ALW85_RS02130(1),BioCyc
 ALW85_RS10230-MONOMER,DNA topoisomerase III,ALW85_RS10230(),BioCyc
-ALW85_RS02785-MONOMER,RlmE family RNA methyltransferase,ALW85_RS02785(1),BioCyc
+ALW85_RS02785-MONOMER,RlmE family RNA methyltransferase,ALW85_RS02785(),BioCyc
 ALW85_RS13520-MONOMER,bacterial transcriptional activator domain-containing protein,ALW85_RS13520(),BioCyc
 ALW85_RS08760-MONOMER,O-methyltransferase,ALW85_RS08760(),BioCyc
 ALW85_RS00170-MONOMER,trigger factor,ALW85_RS00170(1),BioCyc
 ALW85_RS01020-MONOMER,30S ribosomal protein S18,ALW85_RS01020(1),BioCyc
 ALW85_RS10235-MONOMER,DUF494 domain-containing protein,ALW85_RS10235(),BioCyc
 ALW85_RS06210-MONOMER,ABC transporter permease subunit,ALW85_RS06210(),BioCyc
-ALW85_RS08765-MONOMER,O-antigen ligase family protein,ALW85_RS08765(1),BioCyc
+ALW85_RS08765-MONOMER,O-antigen ligase family protein,ALW85_RS08765(),BioCyc
 ALW85_RS04030-MONOMER,peroxiredoxin,ALW85_RS04030(1),BioCyc
-ALW85_RS04950-MONOMER,threonylcarbamoyl-AMP synthase,ALW85_RS04950(),BioCyc
+ALW85_RS04950-MONOMER,threonylcarbamoyl-AMP synthase,ALW85_RS04950(1),BioCyc
 ALW85_RS10240-MONOMER,DNA-processing protein DprA,ALW85_RS10240(),BioCyc
 ALW85_RS08775-MONOMER,hypothetical protein,ALW85_RS08775(),BioCyc
 ALW85_RS10245-MONOMER,LysM peptidoglycan-binding domain-containing protein,ALW85_RS10245(),BioCyc
 ALW85_RS00245-MONOMER,flagellar motor protein MotB,ALW85_RS00245(),BioCyc
 ALW85_RS06215-MONOMER,PhnD/SsuA/transferrin family substrate-binding protein,ALW85_RS06215(),BioCyc
 ALW85_RS07680-MONOMER,DNA polymerase I,ALW85_RS07680(),BioCyc
-ALW85_RS08780-MONOMER,3-deoxy-manno-octulosonate cytidylyltransferase,ALW85_RS08780(1),BioCyc
+ALW85_RS08780-MONOMER,3-deoxy-manno-octulosonate cytidylyltransferase,ALW85_RS08780(),BioCyc
 ALW85_RS01445-MONOMER,cytochrome c,ALW85_RS01445(),BioCyc
 ALW85_RS10250-MONOMER,peptide deformylase,ALW85_RS10250(1),BioCyc
-ALW85_RS08785-MONOMER,"2,4-dihydroxyhept-2-ene-1,7-dioic acid aldolase",ALW85_RS08785(6),BioCyc
+ALW85_RS08785-MONOMER,"2,4-dihydroxyhept-2-ene-1,7-dioic acid aldolase",ALW85_RS08785(),BioCyc
 ALW85_RS05110-MONOMER,FecR domain-containing protein,ALW85_RS05110(),BioCyc
 ALW85_RS01520-MONOMER,IS481-like element ISNe2 family transposase,ALW85_RS01520(),BioCyc
 ALW85_RS05200-MONOMER,cell division protein FtsZ,ALW85_RS05200(),BioCyc
@@ -1283,7 +1283,7 @@ ALW85_RS07685-MONOMER,TIGR00730 family Rossman fold protein,ALW85_RS07685(),BioC
 ALW85_RS06240-MONOMER,hypothetical protein,ALW85_RS06240(),BioCyc
 ALW85_RS10300-MONOMER,DNA polymerase III subunit alpha,ALW85_RS10300(),BioCyc
 ALW85_RS01350-MONOMER,hypothetical protein,ALW85_RS01350(),BioCyc
-ALW85_RS03155-MONOMER,lysophospholipid transporter LplT,ALW85_RS03155(1),BioCyc
+ALW85_RS03155-MONOMER,lysophospholipid transporter LplT,ALW85_RS03155(),BioCyc
 ALW85_RS06245-MONOMER,PD40 domain-containing protein,ALW85_RS06245(),BioCyc
 ALW85_RS08815-MONOMER,DUF4126 domain-containing protein,ALW85_RS08815(),BioCyc
 ALW85_RS03315-MONOMER,DUF2149 domain-containing protein,ALW85_RS03315(),BioCyc
@@ -1296,9 +1296,9 @@ ALW85_RS10310-MONOMER,shikimate kinase,ALW85_RS10310(1),BioCyc
 ALW85_RS04630-MONOMER,hypothetical protein,ALW85_RS04630(),BioCyc
 ALW85_RS00795-MONOMER,outer membrane protein assembly factor BamB,ALW85_RS00795(),BioCyc
 ALW85_RS06250-MONOMER,hypothetical protein,ALW85_RS06250(),BioCyc
-ALW85_RS08820-MONOMER,glucokinase,ALW85_RS08820(1),BioCyc
+ALW85_RS08820-MONOMER,glucokinase,ALW85_RS08820(),BioCyc
 ALW85_RS01745-MONOMER,glycosyltransferase,ALW85_RS01745(),BioCyc
-ALW85_RS08825-MONOMER,serine acetyltransferase,ALW85_RS08825(),BioCyc
+ALW85_RS08825-MONOMER,serine acetyltransferase,ALW85_RS08825(6),BioCyc
 ALW85_RS02135-MONOMER,50S ribosomal protein L3,ALW85_RS02135(1),BioCyc
 ALW85_RS10315-MONOMER,3-dehydroquinate synthase,ALW85_RS10315(1),BioCyc
 ALW85_RS02790-MONOMER,ATP-dependent zinc metalloprotease FtsH,ALW85_RS02790(),BioCyc
@@ -1306,7 +1306,7 @@ ALW85_RS02990-MONOMER,dihydrofolate reductase,ALW85_RS02990(1),BioCyc
 ALW85_RS06255-MONOMER,TonB-dependent receptor,ALW85_RS06255(),BioCyc
 ALW85_RS08830-MONOMER,NnrS family protein,ALW85_RS08830(),BioCyc
 ALW85_RS01025-MONOMER,primosomal replication protein N,ALW85_RS01025(),BioCyc
-ALW85_RS10320-MONOMER,deoxyguanosinetriphosphate triphosphohydrolase,ALW85_RS10320(4),BioCyc
+ALW85_RS10320-MONOMER,deoxyguanosinetriphosphate triphosphohydrolase,ALW85_RS10320(),BioCyc
 ALW85_RS08835-MONOMER,O-acetylhomoserine aminocarboxypropyltransferase/cysteine synthase,ALW85_RS08835(),BioCyc
 ALW85_RS04035-MONOMER,malate dehydrogenase,ALW85_RS04035(),BioCyc
 ALW85_RS04955-MONOMER,HAD family hydrolase,ALW85_RS04955(),BioCyc
@@ -1365,13 +1365,13 @@ ALW85_RS01980-MONOMER,CusA/CzcA family heavy metal efflux RND transporter,ALW85_
 ALW85_RS10385-MONOMER,IS3 family transposase,ALW85_RS10385(),BioCyc
 ALW85_RS07705-MONOMER,UvrD-helicase domain-containing protein,ALW85_RS07705(),BioCyc
 ALW85_RS12485-MONOMER,NADH:ubiquinone reductase (Na(+)-transporting) subunit B,ALW85_RS12485(),BioCyc
-ALW85_RS10395-MONOMER,PQQ-dependent sugar dehydrogenase,ALW85_RS10395(1),BioCyc
+ALW85_RS10395-MONOMER,PQQ-dependent sugar dehydrogenase,ALW85_RS10395(),BioCyc
 ALW85_RS01355-MONOMER,hypothetical protein,ALW85_RS01355(),BioCyc
 ALW85_RS03160-MONOMER,Na+/H+ antiporter NhaC,ALW85_RS03160(),BioCyc
 ALW85_RS06285-MONOMER,ABC transporter permease,ALW85_RS06285(),BioCyc
 ALW85_RS08885-MONOMER,ribonuclease HII,ALW85_RS08885(),BioCyc
 ALW85_RS12490-MONOMER,Na(+)-translocating NADH-quinone reductase subunit A,ALW85_RS12490(),BioCyc
-ALW85_RS03325-MONOMER,"cob(I)yrinic acid a,c-diamide adenosyltransferase",ALW85_RS03325(1),BioCyc
+ALW85_RS03325-MONOMER,"cob(I)yrinic acid a,c-diamide adenosyltransferase",ALW85_RS03325(),BioCyc
 ALW85_RS10400-MONOMER,type II toxin-antitoxin system PrlF family antitoxin,ALW85_RS10400(),BioCyc
 ALW85_RS02285-MONOMER,DNA polymerase III subunit gamma/tau,ALW85_RS02285(),BioCyc
 ALW85_RS07710-MONOMER,phosphoribulokinase,ALW85_RS07710(),BioCyc
@@ -1386,7 +1386,7 @@ ALW85_RS00810-MONOMER,IS3-like element ISNeu4 family transposase,ALW85_RS00810()
 ALW85_RS06290-MONOMER,ABC transporter permease,ALW85_RS06290(),BioCyc
 ALW85_RS08890-MONOMER,3-hydroxyacyl-ACP dehydratase FabZ,ALW85_RS08890(),BioCyc
 ALW85_RS12500-MONOMER,J domain-containing protein,ALW85_RS12500(),BioCyc
-ALW85_RS10410-MONOMER,NAD-dependent succinate-semialdehyde dehydrogenase,ALW85_RS10410(2),BioCyc
+ALW85_RS10410-MONOMER,NAD-dependent succinate-semialdehyde dehydrogenase,ALW85_RS10410(4),BioCyc
 ALW85_RS01755-MONOMER,DNA gyrase subunit A,ALW85_RS01755(),BioCyc
 ALW85_RS07715-MONOMER,M48 family metallopeptidase,ALW85_RS07715(),BioCyc
 ALW85_RS12505-MONOMER,pyridoxal phosphate-dependent aminotransferase,ALW85_RS12505(1),BioCyc
@@ -1485,7 +1485,7 @@ ALW85_RS08950-MONOMER,c-type cytochrome,ALW85_RS08950(),BioCyc
 ALW85_RS12565-MONOMER,IS481-like element ISNe2 family transposase,ALW85_RS12565(),BioCyc
 ALW85_RS01765-MONOMER,3-phosphoglycerate dehydrogenase family protein,ALW85_RS01765(),BioCyc
 ALW85_RS07750-MONOMER,N-acetyl-gamma-glutamyl-phosphate reductase,ALW85_RS07750(1),BioCyc
-ALW85_RS02145-MONOMER,50S ribosomal protein L23,ALW85_RS02145(1),BioCyc
+ALW85_RS02145-MONOMER,50S ribosomal protein L23,ALW85_RS02145(),BioCyc
 ALW85_RS08955-MONOMER,TonB-dependent receptor,ALW85_RS08955(),BioCyc
 ALW85_RS10505-MONOMER,hypothetical protein,ALW85_RS10505(),BioCyc
 ALW85_RS02800-MONOMER,phosphoglucosamine mutase,ALW85_RS02800(1),BioCyc
@@ -1534,7 +1534,7 @@ ALW85_RS08975-MONOMER,PHP domain-containing protein,ALW85_RS08975(),BioCyc
 ALW85_RS10520-MONOMER,CDP-glycerol glycerophosphotransferase family protein,ALW85_RS10520(),BioCyc
 ALW85_RS03015-MONOMER,CysB family HTH-type transcriptional regulator,ALW85_RS03015(),BioCyc
 ALW85_RS06405-MONOMER,catalase family protein,ALW85_RS06405(),BioCyc
-ALW85_RS12605-MONOMER,APC family permease,ALW85_RS12605(1),BioCyc
+ALW85_RS12605-MONOMER,APC family permease,ALW85_RS12605(),BioCyc
 ALW85_RS03875-MONOMER,FAD-binding oxidoreductase,ALW85_RS03875(),BioCyc
 ALW85_RS01180-MONOMER,DNA primase,ALW85_RS01180(),BioCyc
 ALW85_RS07775-MONOMER,DUF493 domain-containing protein,ALW85_RS07775(),BioCyc
@@ -1548,7 +1548,7 @@ ALW85_RS00100-MONOMER,sigma 54-interacting transcriptional regulator,ALW85_RS001
 ALW85_RS02710-MONOMER,hypothetical protein,ALW85_RS02710(),BioCyc
 ALW85_RS01995-MONOMER,PEP-CTERM system histidine kinase PrsK,ALW85_RS01995(),BioCyc
 ALW85_RS10525-MONOMER,glycosyltransferase family 4 protein,ALW85_RS10525(),BioCyc
-ALW85_RS07780-MONOMER,lipoyl(octanoyl) transferase LipB,ALW85_RS07780(1),BioCyc
+ALW85_RS07780-MONOMER,lipoyl(octanoyl) transferase LipB,ALW85_RS07780(),BioCyc
 ALW85_RS06420-MONOMER,hypothetical protein,ALW85_RS06420(),BioCyc
 ALW85_RS12615-MONOMER,transglycosylase SLT domain-containing protein,ALW85_RS12615(),BioCyc
 ALW85_RS08985-MONOMER,site-2 protease family protein,ALW85_RS08985(),BioCyc
@@ -1560,11 +1560,11 @@ ALW85_RS03345-MONOMER,Sec-independent protein translocase protein TatB,ALW85_RS0
 ALW85_RS10530-MONOMER,lipopolysaccharide biosynthesis protein,ALW85_RS10530(),BioCyc
 ALW85_RS02295-MONOMER,pseudouridine synthase,ALW85_RS02295(1),BioCyc
 ALW85_RS07785-MONOMER,lipoyl synthase,ALW85_RS07785(2),BioCyc
-ALW85_RS06435-MONOMER,GMC family oxidoreductase N-terminal domain-containing protein,ALW85_RS06435(1),BioCyc
+ALW85_RS06435-MONOMER,GMC family oxidoreductase N-terminal domain-containing protein,ALW85_RS06435(),BioCyc
 ALW85_RS12625-MONOMER,ribonucleoside-diphosphate reductase subunit alpha,ALW85_RS12625(),BioCyc
 ALW85_RS04320-MONOMER,ABC transporter permease,ALW85_RS04320(),BioCyc
 ALW85_RS03965-MONOMER,transcription termination factor NusA,ALW85_RS03965(1),BioCyc
-ALW85_RS03555-MONOMER,formate/nitrite transporter family protein,ALW85_RS03555(5),BioCyc
+ALW85_RS03555-MONOMER,formate/nitrite transporter family protein,ALW85_RS03555(1),BioCyc
 ALW85_RS00505-MONOMER,universal stress protein,ALW85_RS00505(),BioCyc
 ALW85_RS08990-MONOMER,tryptophan--tRNA ligase,ALW85_RS08990(2),BioCyc
 ALW85_RS04665-MONOMER,DUF2523 domain-containing protein,ALW85_RS04665(),BioCyc
@@ -1584,11 +1584,11 @@ ALW85_RS12650-MONOMER,DUF393 domain-containing protein,ALW85_RS12650(),BioCyc
 ALW85_RS00180-MONOMER,ATP-dependent Clp protease ATP-binding subunit ClpX,ALW85_RS00180(),BioCyc
 ALW85_RS01040-MONOMER,F0F1 ATP synthase subunit A,ALW85_RS01040(),BioCyc
 ALW85_RS10575-MONOMER,glucose-1-phosphate adenylyltransferase,ALW85_RS10575(4),BioCyc
-ALW85_RS07790-MONOMER,tRNA 2-thiocytidine(32) synthetase TtcA,ALW85_RS07790(2),BioCyc
+ALW85_RS07790-MONOMER,tRNA 2-thiocytidine(32) synthetase TtcA,ALW85_RS07790(),BioCyc
 ALW85_RS06450-MONOMER,cyclooxygenase,ALW85_RS06450(),BioCyc
 ALW85_RS12655-MONOMER,hypothetical protein,ALW85_RS12655(),BioCyc
 ALW85_RS04050-MONOMER,RNA methyltransferase,ALW85_RS04050(),BioCyc
-ALW85_RS04970-MONOMER,5'/3'-nucleotidase SurE,ALW85_RS04970(1),BioCyc
+ALW85_RS04970-MONOMER,5'/3'-nucleotidase SurE,ALW85_RS04970(),BioCyc
 ALW85_RS09000-MONOMER,SMC-Scp complex subunit ScpB,ALW85_RS09000(),BioCyc
 ALW85_RS10580-MONOMER,glycoside hydrolase,ALW85_RS10580(),BioCyc
 ALW85_RS12660-MONOMER,type II toxin-antitoxin system VapC family toxin,ALW85_RS12660(),BioCyc
@@ -1603,7 +1603,7 @@ ALW85_RS12670-MONOMER,type II toxin-antitoxin system Phd/YefM family antitoxin,A
 ALW85_RS05130-MONOMER,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH,ALW85_RS05130(),BioCyc
 ALW85_RS14140-MONOMER,hypothetical protein,ALW85_RS14140(),BioCyc
 ALW85_RS05210-MONOMER,phosphate ABC transporter permease subunit PstC,ALW85_RS05210(),BioCyc
-ALW85_RS02460-MONOMER,alpha-glucan family phosphorylase,ALW85_RS02460(2),BioCyc
+ALW85_RS02460-MONOMER,alpha-glucan family phosphorylase,ALW85_RS02460(),BioCyc
 ALW85_RS03350-MONOMER,Sec-independent protein translocase subunit TatA,ALW85_RS03350(),BioCyc
 ALW85_RS10590-MONOMER,glucosidase,ALW85_RS10590(),BioCyc
 ALW85_RS05285-MONOMER,DUF2970 domain-containing protein,ALW85_RS05285(),BioCyc
@@ -1647,7 +1647,7 @@ ALW85_RS10625-MONOMER,DEAD/DEAH box helicase,ALW85_RS10625(),BioCyc
 ALW85_RS07810-MONOMER,CHAD domain-containing protein,ALW85_RS07810(),BioCyc
 ALW85_RS06495-MONOMER,Hpt domain-containing protein,ALW85_RS06495(),BioCyc
 ALW85_RS12710-MONOMER,glucans biosynthesis protein MdoG,ALW85_RS12710(),BioCyc
-ALW85_RS09025-MONOMER,orotate phosphoribosyltransferase,ALW85_RS09025(2),BioCyc
+ALW85_RS09025-MONOMER,orotate phosphoribosyltransferase,ALW85_RS09025(),BioCyc
 ALW85_RS10630-MONOMER,hypothetical protein,ALW85_RS10630(),BioCyc
 ALW85_RS01370-MONOMER,hypothetical protein,ALW85_RS01370(),BioCyc
 ALW85_RS03175-MONOMER,class I SAM-dependent methyltransferase,ALW85_RS03175(),BioCyc
@@ -1676,7 +1676,7 @@ ALW85_RS13480-MONOMER,30S ribosomal protein S19,ALW85_RS13480(1),BioCyc
 ALW85_RS09035-MONOMER,ABC transporter permease subunit,ALW85_RS09035(),BioCyc
 ALW85_RS10645-MONOMER,hydroxylamine oxidoreductase,ALW85_RS10645(),BioCyc
 ALW85_RS02810-MONOMER,siroheme synthase CysG,ALW85_RS02810(2),BioCyc
-ALW85_RS03030-MONOMER,serine acetyltransferase,ALW85_RS03030(6),BioCyc
+ALW85_RS03030-MONOMER,serine acetyltransferase,ALW85_RS03030(),BioCyc
 ALW85_RS12735-MONOMER,IS481 family transposase,ALW85_RS12735(),BioCyc
 ALW85_RS01045-MONOMER,F0F1 ATP synthase subunit C,ALW85_RS01045(),BioCyc
 ALW85_RS10650-MONOMER,DNA-directed RNA polymerase subunit beta',ALW85_RS10650(),BioCyc
@@ -1730,7 +1730,7 @@ ALW85_RS01195-MONOMER,hypothetical protein,ALW85_RS01195(),BioCyc
 ALW85_RS07850-MONOMER,STAS/SEC14 domain-containing protein,ALW85_RS07850(),BioCyc
 ALW85_RS06535-MONOMER,hypothetical protein,ALW85_RS06535(),BioCyc
 ALW85_RS14090-MONOMER,hypothetical protein,ALW85_RS14090(),BioCyc
-ALW85_RS09070-MONOMER,ribose-5-phosphate isomerase RpiA,ALW85_RS09070(2),BioCyc
+ALW85_RS09070-MONOMER,ribose-5-phosphate isomerase RpiA,ALW85_RS09070(),BioCyc
 ALW85_RS10695-MONOMER,elongation factor Tu,ALW85_RS10695(1),BioCyc
 ALW85_RS04830-MONOMER,cyanophycin synthetase,ALW85_RS04830(),BioCyc
 ALW85_RS12780-MONOMER,restriction endonuclease,ALW85_RS12780(),BioCyc
@@ -1756,7 +1756,7 @@ ALW85_RS12795-MONOMER,ABC transporter ATP-binding protein/permease,ALW85_RS12795
 ALW85_RS04340-MONOMER,DUF2062 domain-containing protein,ALW85_RS04340(),BioCyc
 ALW85_RS03970-MONOMER,translation initiation factor IF-2,ALW85_RS03970(1),BioCyc
 ALW85_RS03565-MONOMER,SCO family protein,ALW85_RS03565(),BioCyc
-ALW85_RS09080-MONOMER,exopolyphosphatase,ALW85_RS09080(2),BioCyc
+ALW85_RS09080-MONOMER,exopolyphosphatase,ALW85_RS09080(),BioCyc
 ALW85_RS10715-MONOMER,"L,D-transpeptidase",ALW85_RS10715(),BioCyc
 ALW85_RS04680-MONOMER,hypothetical protein,ALW85_RS04680(),BioCyc
 ALW85_RS00865-MONOMER,DUF2007 domain-containing protein,ALW85_RS00865(),BioCyc
@@ -1837,10 +1837,10 @@ ALW85_RS06615-MONOMER,IS3 family transposase,ALW85_RS06615(),BioCyc
 ALW85_RS12860-MONOMER,peroxiredoxin,ALW85_RS12860(),BioCyc
 ALW85_RS02020-MONOMER,DMT family transporter,ALW85_RS02020(),BioCyc
 ALW85_RS10765-MONOMER,rod shape-determining protein RodA,ALW85_RS10765(),BioCyc
-ALW85_RS07895-MONOMER,murein transglycosylase A,ALW85_RS07895(1),BioCyc
+ALW85_RS07895-MONOMER,murein transglycosylase A,ALW85_RS07895(),BioCyc
 ALW85_RS09105-MONOMER,type IV pilus modification protein PilV,ALW85_RS09105(),BioCyc
 ALW85_RS12865-MONOMER,CNP1-like family protein,ALW85_RS12865(),BioCyc
-ALW85_RS10770-MONOMER,penicillin-binding protein 2,ALW85_RS10770(1),BioCyc
+ALW85_RS10770-MONOMER,penicillin-binding protein 2,ALW85_RS10770(),BioCyc
 ALW85_RS05140-MONOMER,penicillin-binding protein 2,ALW85_RS05140(1),BioCyc
 ALW85_RS03190-MONOMER,glycine cleavage system aminomethyltransferase GcvT,ALW85_RS03190(),BioCyc
 ALW85_RS06620-MONOMER,serine protease,ALW85_RS06620(),BioCyc
@@ -1848,10 +1848,10 @@ ALW85_RS12870-MONOMER,slipin family protein,ALW85_RS12870(),BioCyc
 ALW85_RS06785-MONOMER,HigA family addiction module antidote protein,ALW85_RS06785(),BioCyc
 ALW85_RS03375-MONOMER,1-(5-phosphoribosyl)-5-[(5- phosphoribosylamino)methylideneamino]imidazole-4- carboxamide isomerase,ALW85_RS03375(1),BioCyc
 ALW85_RS02310-MONOMER,"L,D-transpeptidase",ALW85_RS02310(),BioCyc
-ALW85_RS07900-MONOMER,DsbC family protein,ALW85_RS07900(2),BioCyc
+ALW85_RS07900-MONOMER,DsbC family protein,ALW85_RS07900(),BioCyc
 ALW85_RS09110-MONOMER,GspH/FimT family pseudopilin,ALW85_RS09110(),BioCyc
 ALW85_RS12875-MONOMER,nodulation protein NfeD,ALW85_RS12875(),BioCyc
-ALW85_RS04350-MONOMER,3-deoxy-7-phosphoheptulonate synthase,ALW85_RS04350(4),BioCyc
+ALW85_RS04350-MONOMER,3-deoxy-7-phosphoheptulonate synthase,ALW85_RS04350(),BioCyc
 ALW85_RS03570-MONOMER,cbb3-type cytochrome c oxidase subunit I,ALW85_RS03570(),BioCyc
 ALW85_RS10775-MONOMER,rod shape-determining protein MreD,ALW85_RS10775(),BioCyc
 ALW85_RS04690-MONOMER,VC1465 family Xer recombination activation factor,ALW85_RS04690(),BioCyc
@@ -1865,7 +1865,7 @@ ALW85_RS01815-MONOMER,response regulator,ALW85_RS01815(),BioCyc
 ALW85_RS07905-MONOMER,UbiH/UbiF family hydroxylase,ALW85_RS07905(),BioCyc
 ALW85_RS04375-MONOMER,recombinase family protein,ALW85_RS04375(),BioCyc
 ALW85_RS09120-MONOMER,Spy/CpxP family protein refolding chaperone,ALW85_RS09120(),BioCyc
-ALW85_RS12885-MONOMER,NUDIX domain-containing protein,ALW85_RS12885(2),BioCyc
+ALW85_RS12885-MONOMER,NUDIX domain-containing protein,ALW85_RS12885(),BioCyc
 ALW85_RS02170-MONOMER,50S ribosomal protein L29,ALW85_RS02170(),BioCyc
 ALW85_RS10790-MONOMER,rod shape-determining protein,ALW85_RS10790(),BioCyc
 ALW85_RS02820-MONOMER,FecR domain-containing protein,ALW85_RS02820(),BioCyc
@@ -1877,7 +1877,7 @@ ALW85_RS10795-MONOMER,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatC,
 ALW85_RS07910-MONOMER,hypothetical protein,ALW85_RS07910(),BioCyc
 ALW85_RS09125-MONOMER,NAD-dependent DNA ligase LigA,ALW85_RS09125(1),BioCyc
 ALW85_RS12895-MONOMER,YicC family protein,ALW85_RS12895(),BioCyc
-ALW85_RS04065-MONOMER,amino-acid N-acetyltransferase,ALW85_RS04065(6),BioCyc
+ALW85_RS04065-MONOMER,amino-acid N-acetyltransferase,ALW85_RS04065(),BioCyc
 ALW85_RS04985-MONOMER,phenylalanine--tRNA ligase subunit beta,ALW85_RS04985(),BioCyc
 ALW85_RS02640-MONOMER,glycosyltransferase,ALW85_RS02640(),BioCyc
 ALW85_RS01840-MONOMER,hypothetical protein,ALW85_RS01840(),BioCyc
@@ -1933,7 +1933,7 @@ ALW85_RS12935-MONOMER,dipeptide ABC transporter ATP-binding protein,ALW85_RS1293
 ALW85_RS04840-MONOMER,multicopper oxidase domain-containing protein,ALW85_RS04840(),BioCyc
 ALW85_RS06675-MONOMER,ATP phosphoribosyltransferase regulatory subunit,ALW85_RS06675(),BioCyc
 ALW85_RS02720-MONOMER,response regulator,ALW85_RS02720(),BioCyc
-ALW85_RS12940-MONOMER,peptide chain release factor 3,ALW85_RS12940(1),BioCyc
+ALW85_RS12940-MONOMER,peptide chain release factor 3,ALW85_RS12940(),BioCyc
 ALW85_RS02025-MONOMER,type I restriction endonuclease subunit R,ALW85_RS02025(),BioCyc
 ALW85_RS06815-MONOMER,helix-turn-helix transcriptional regulator,ALW85_RS06815(),BioCyc
 ALW85_RS10825-MONOMER,flagellar hook-length control protein FliK,ALW85_RS10825(),BioCyc
@@ -1949,7 +1949,7 @@ ALW85_RS12950-MONOMER,IS481-like element ISNe2 family transposase,ALW85_RS12950(
 ALW85_RS06825-MONOMER,cold-shock protein,ALW85_RS06825(),BioCyc
 ALW85_RS03385-MONOMER,imidazoleglycerol-phosphate dehydratase HisB,ALW85_RS03385(2),BioCyc
 ALW85_RS10835-MONOMER,flagellar brake protein,ALW85_RS10835(),BioCyc
-ALW85_RS02315-MONOMER,NAD-dependent malic enzyme,ALW85_RS02315(4),BioCyc
+ALW85_RS02315-MONOMER,NAD-dependent malic enzyme,ALW85_RS02315(),BioCyc
 ALW85_RS07940-MONOMER,transcriptional regulator,ALW85_RS07940(),BioCyc
 ALW85_RS06690-MONOMER,FtsH protease activity modulator HflK,ALW85_RS06690(),BioCyc
 ALW85_RS09160-MONOMER,MMPL family transporter,ALW85_RS09160(),BioCyc
@@ -2001,7 +2001,7 @@ ALW85_RS10870-MONOMER,flagellar protein export ATPase FliI,ALW85_RS10870(),BioCy
 ALW85_RS06725-MONOMER,50S ribosomal protein L27,ALW85_RS06725(1),BioCyc
 ALW85_RS05220-MONOMER,phosphate ABC transporter ATP-binding protein PstB,ALW85_RS05220(),BioCyc
 ALW85_RS12990-MONOMER,RNA polymerase sigma factor FliA,ALW85_RS12990(1),BioCyc
-ALW85_RS02480-MONOMER,"dTDP-glucose 4,6-dehydratase",ALW85_RS02480(2),BioCyc
+ALW85_RS02480-MONOMER,"dTDP-glucose 4,6-dehydratase",ALW85_RS02480(1),BioCyc
 ALW85_RS06850-MONOMER,cytochrome-c peroxidase,ALW85_RS06850(),BioCyc
 ALW85_RS03390-MONOMER,histidinol-phosphate transaminase,ALW85_RS03390(),BioCyc
 ALW85_RS10875-MONOMER,flagellar export protein FliJ,ALW85_RS10875(),BioCyc
@@ -2021,7 +2021,7 @@ ALW85_RS00680-MONOMER,FecR domain-containing protein,ALW85_RS00680(),BioCyc
 ALW85_RS10885-MONOMER,hypothetical protein,ALW85_RS10885(),BioCyc
 ALW85_RS01830-MONOMER,polyamine aminopropyltransferase,ALW85_RS01830(2),BioCyc
 ALW85_RS07970-MONOMER,type II toxin-antitoxin system RelE/ParE family toxin,ALW85_RS07970(),BioCyc
-ALW85_RS06740-MONOMER,glutathione synthase,ALW85_RS06740(4),BioCyc
+ALW85_RS06740-MONOMER,glutathione synthase,ALW85_RS06740(),BioCyc
 ALW85_RS09185-MONOMER,NADH-quinone oxidoreductase subunit NuoN,ALW85_RS09185(),BioCyc
 ALW85_RS13005-MONOMER,hypothetical protein,ALW85_RS13005(),BioCyc
 ALW85_RS02180-MONOMER,50S ribosomal protein L14,ALW85_RS02180(1),BioCyc
@@ -2059,15 +2059,15 @@ ALW85_RS06870-MONOMER,TlpA family protein disulfide reductase,ALW85_RS06870(),Bi
 ALW85_RS01560-MONOMER,ATP-dependent zinc protease,ALW85_RS01560(),BioCyc
 ALW85_RS13035-MONOMER,hypothetical protein,ALW85_RS13035(),BioCyc
 ALW85_RS05315-MONOMER,heavy metal translocating P-type ATPase,ALW85_RS05315(1),BioCyc
-ALW85_RS02320-MONOMER,phosphoserine phosphatase SerB,ALW85_RS02320(1),BioCyc
-ALW85_RS07985-MONOMER,3-hydroxyacyl-CoA dehydrogenase/enoyl-CoA hydratase family protein,ALW85_RS07985(1),BioCyc
+ALW85_RS02320-MONOMER,phosphoserine phosphatase SerB,ALW85_RS02320(),BioCyc
+ALW85_RS07985-MONOMER,3-hydroxyacyl-CoA dehydrogenase/enoyl-CoA hydratase family protein,ALW85_RS07985(),BioCyc
 ALW85_RS14215-MONOMER,hypothetical protein,ALW85_RS14215(),BioCyc
 ALW85_RS09200-MONOMER,NADH-quinone oxidoreductase subunit NuoK,ALW85_RS09200(),BioCyc
 ALW85_RS13040-MONOMER,sorbosone dehydrogenase family protein,ALW85_RS13040(),BioCyc
 ALW85_RS03580-MONOMER,3-isopropylmalate dehydratase large subunit,ALW85_RS03580(),BioCyc
 ALW85_RS14220-MONOMER,hypothetical protein,ALW85_RS14220(),BioCyc
 ALW85_RS14320-MONOMER,TonB-dependent receptor,ALW85_RS14320(),BioCyc
-ALW85_RS04705-MONOMER,2-hydroxyacid dehydrogenase,ALW85_RS04705(1),BioCyc
+ALW85_RS04705-MONOMER,2-hydroxyacid dehydrogenase,ALW85_RS04705(),BioCyc
 ALW85_RS10935-MONOMER,group II intron reverse transcriptase/maturase,ALW85_RS10935(),BioCyc
 ALW85_RS13045-MONOMER,TonB-dependent receptor,ALW85_RS13045(),BioCyc
 ALW85_RS00540-MONOMER,DnaA regulatory inactivator Hda,ALW85_RS00540(),BioCyc
@@ -2183,7 +2183,7 @@ ALW85_RS09240-MONOMER,NADH-quinone oxidoreductase subunit C,ALW85_RS09240(),BioC
 ALW85_RS03980-MONOMER,tRNA pseudouridine(55) synthase TruB,ALW85_RS03980(1),BioCyc
 ALW85_RS13190-MONOMER,hypothetical protein,ALW85_RS13190(),BioCyc
 ALW85_RS03585-MONOMER,entericidin A/B family lipoprotein,ALW85_RS03585(),BioCyc
-ALW85_RS11095-MONOMER,alpha-hydroxy-acid oxidizing protein,ALW85_RS11095(1),BioCyc
+ALW85_RS11095-MONOMER,alpha-hydroxy-acid oxidizing protein,ALW85_RS11095(),BioCyc
 ALW85_RS13195-MONOMER,glycoside hydrolase family protein,ALW85_RS13195(),BioCyc
 ALW85_RS04715-MONOMER,M20/M25/M40 family metallo-hydrolase,ALW85_RS04715(),BioCyc
 ALW85_RS11100-MONOMER,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,ALW85_RS11100(1),BioCyc
@@ -2198,7 +2198,7 @@ ALW85_RS04390-MONOMER,mercury resistance co-regulator MerD,ALW85_RS04390(),BioCy
 ALW85_RS09245-MONOMER,NADH-quinone oxidoreductase subunit B,ALW85_RS09245(),BioCyc
 ALW85_RS13215-MONOMER,lysozyme,ALW85_RS13215(),BioCyc
 ALW85_RS13485-MONOMER,30S ribosomal protein S14,ALW85_RS13485(1),BioCyc
-ALW85_RS11130-MONOMER,aspartate kinase,ALW85_RS11130(4),BioCyc
+ALW85_RS11130-MONOMER,aspartate kinase,ALW85_RS11130(),BioCyc
 ALW85_RS13220-MONOMER,hypothetical protein,ALW85_RS13220(),BioCyc
 ALW85_RS11135-MONOMER,peptidoglycan-binding protein,ALW85_RS11135(),BioCyc
 ALW85_RS00195-MONOMER,ATP-binding protein,ALW85_RS00195(),BioCyc
@@ -2245,10 +2245,10 @@ ALW85_RS13280-MONOMER,HAD-IA family hydrolase,ALW85_RS13280(),BioCyc
 ALW85_RS11180-MONOMER,dicarboxylate/amino acid:cation symporter,ALW85_RS11180(1),BioCyc
 ALW85_RS06930-MONOMER,fatty acid cis/trans isomerase,ALW85_RS06930(),BioCyc
 ALW85_RS00690-MONOMER,BON domain-containing protein,ALW85_RS00690(),BioCyc
-ALW85_RS13285-MONOMER,bifunctional 3-demethylubiquinone 3-O-methyltransferase/2-octaprenyl-6-hydroxy phenol methylase,ALW85_RS13285(2),BioCyc
+ALW85_RS13285-MONOMER,bifunctional 3-demethylubiquinone 3-O-methyltransferase/2-octaprenyl-6-hydroxy phenol methylase,ALW85_RS13285(),BioCyc
 ALW85_RS08055-MONOMER,DUF2325 domain-containing protein,ALW85_RS08055(),BioCyc
 ALW85_RS09260-MONOMER,preprotein translocase subunit SecG,ALW85_RS09260(),BioCyc
-ALW85_RS13290-MONOMER,OmpA family protein,ALW85_RS13290(1),BioCyc
+ALW85_RS13290-MONOMER,OmpA family protein,ALW85_RS13290(),BioCyc
 ALW85_RS00335-MONOMER,5-formyltetrahydrofolate cyclo-ligase,ALW85_RS00335(),BioCyc
 ALW85_RS02195-MONOMER,30S ribosomal protein S8,ALW85_RS02195(1),BioCyc
 ALW85_RS04535-MONOMER,5-(carboxyamino)imidazole ribonucleotide synthase,ALW85_RS04535(2),BioCyc
@@ -2276,14 +2276,14 @@ ALW85_RS13330-MONOMER,"bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthas
 ALW85_RS00340-MONOMER,UbiX family flavin prenyltransferase,ALW85_RS00340(),BioCyc
 ALW85_RS13335-MONOMER,"6,7-dimethyl-8-ribityllumazine synthase",ALW85_RS13335(60),BioCyc
 ALW85_RS05150-MONOMER,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D- alanine ligase,ALW85_RS05150(1),BioCyc
-ALW85_RS03210-MONOMER,carbohydrate kinase family protein,ALW85_RS03210(),BioCyc
+ALW85_RS03210-MONOMER,carbohydrate kinase family protein,ALW85_RS03210(2),BioCyc
 ALW85_RS05340-MONOMER,S49 family peptidase,ALW85_RS05340(),BioCyc
 ALW85_RS13340-MONOMER,transcription antitermination factor NusB,ALW85_RS13340(1),BioCyc
 ALW85_RS11200-MONOMER,DUF3617 domain-containing protein,ALW85_RS11200(),BioCyc
-ALW85_RS01575-MONOMER,phosphate acetyltransferase,ALW85_RS01575(6),BioCyc
+ALW85_RS01575-MONOMER,phosphate acetyltransferase,ALW85_RS01575(2),BioCyc
 ALW85_RS13345-MONOMER,thiamine-phosphate kinase,ALW85_RS13345(1),BioCyc
 ALW85_RS02330-MONOMER,leucyl aminopeptidase,ALW85_RS02330(6),BioCyc
-ALW85_RS13350-MONOMER,phosphatidylglycerophosphatase A,ALW85_RS13350(1),BioCyc
+ALW85_RS13350-MONOMER,phosphatidylglycerophosphatase A,ALW85_RS13350(),BioCyc
 ALW85_RS03590-MONOMER,3-isopropylmalate dehydratase small subunit,ALW85_RS03590(),BioCyc
 ALW85_RS04725-MONOMER,cytochrome c,ALW85_RS04725(),BioCyc
 ALW85_RS13355-MONOMER,nicotinamide-nucleotide amidohydrolase family protein,ALW85_RS13355(),BioCyc
@@ -2293,7 +2293,7 @@ ALW85_RS06960-MONOMER,SDR family NAD(P)-dependent oxidoreductase,ALW85_RS06960()
 ALW85_RS13360-MONOMER,hypothetical protein,ALW85_RS13360(),BioCyc
 ALW85_RS08070-MONOMER,pirin family protein,ALW85_RS08070(),BioCyc
 ALW85_RS04395-MONOMER,mercury(II) reductase,ALW85_RS04395(),BioCyc
-ALW85_RS09275-MONOMER,"2,3-diphosphoglycerate-dependent phosphoglycerate mutase",ALW85_RS09275(2),BioCyc
+ALW85_RS09275-MONOMER,"2,3-diphosphoglycerate-dependent phosphoglycerate mutase",ALW85_RS09275(1),BioCyc
 ALW85_RS13365-MONOMER,porin,ALW85_RS13365(),BioCyc
 ALW85_RS00345-MONOMER,HPr(Ser) kinase/phosphatase,ALW85_RS00345(),BioCyc
 ALW85_RS02200-MONOMER,50S ribosomal protein L6,ALW85_RS02200(1),BioCyc
@@ -2339,9 +2339,9 @@ ALW85_RS09305-MONOMER,oligosaccharide flippase family protein,ALW85_RS09305(),Bi
 ALW85_RS11245-MONOMER,porin,ALW85_RS11245(),BioCyc
 ALW85_RS06970-MONOMER,glycosyltransferase,ALW85_RS06970(),BioCyc
 ALW85_RS13440-MONOMER,DUF1328 domain-containing protein,ALW85_RS13440(),BioCyc
-ALW85_RS08085-MONOMER,acyl-CoA dehydrogenase,ALW85_RS08085(1),BioCyc
+ALW85_RS08085-MONOMER,acyl-CoA dehydrogenase,ALW85_RS08085(),BioCyc
 ALW85_RS11250-MONOMER,IS3 family transposase,ALW85_RS11250(),BioCyc
-ALW85_RS00355-MONOMER,ribosome-associated translation inhibitor RaiA,ALW85_RS00355(),BioCyc
+ALW85_RS00355-MONOMER,ribosome-associated translation inhibitor RaiA,ALW85_RS00355(2),BioCyc
 ALW85_RS09310-MONOMER,oligosaccharide flippase family protein,ALW85_RS09310(),BioCyc
 ALW85_RS04540-MONOMER,5-(carboxyamino)imidazole ribonucleotide mutase,ALW85_RS04540(8),BioCyc
 ALW85_RS11260-MONOMER,dihydrolipoyl dehydrogenase,ALW85_RS11260(),BioCyc
@@ -2359,7 +2359,7 @@ ALW85_RS11285-MONOMER,"hydrolase 2, exosortase A system-associated",ALW85_RS1128
 ALW85_RS04860-MONOMER,Rrf2 family transcriptional regulator,ALW85_RS04860(),BioCyc
 ALW85_RS11290-MONOMER,acyl carrier protein,ALW85_RS11290(),BioCyc
 ALW85_RS02730-MONOMER,DsbC family protein,ALW85_RS02730(),BioCyc
-ALW85_RS11295-MONOMER,tetraacyldisaccharide 4'-kinase,ALW85_RS11295(1),BioCyc
+ALW85_RS11295-MONOMER,tetraacyldisaccharide 4'-kinase,ALW85_RS11295(),BioCyc
 ALW85_RS09330-MONOMER,hypothetical protein,ALW85_RS09330(),BioCyc
 ALW85_RS02045-MONOMER,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE,ALW85_RS02045(2),BioCyc
 ALW85_RS06980-MONOMER,polysaccharide deacetylase,ALW85_RS06980(),BioCyc
@@ -2388,14 +2388,14 @@ ALW85_RS00555-MONOMER,2-hydroxyacid dehydrogenase,ALW85_RS00555(),BioCyc
 ALW85_RS09345-MONOMER,GNAT family N-acetyltransferase,ALW85_RS09345(),BioCyc
 ALW85_RS11340-MONOMER,class I SAM-dependent methyltransferase,ALW85_RS11340(),BioCyc
 ALW85_RS06990-MONOMER,hypothetical protein,ALW85_RS06990(),BioCyc
-ALW85_RS11345-MONOMER,glycosyltransferase family 2 protein,ALW85_RS11345(1),BioCyc
+ALW85_RS11345-MONOMER,glycosyltransferase family 2 protein,ALW85_RS11345(),BioCyc
 ALW85_RS13650-MONOMER,IS5 family transposase,ALW85_RS13650(),BioCyc
 ALW85_RS04400-MONOMER,organomercurial transporter MerC,ALW85_RS04400(),BioCyc
 ALW85_RS00365-MONOMER,LPS export ABC transporter ATP-binding protein,ALW85_RS00365(),BioCyc
 ALW85_RS09350-MONOMER,hypothetical protein,ALW85_RS09350(),BioCyc
 ALW85_RS11350-MONOMER,type II toxin-antitoxin system VapC family toxin,ALW85_RS11350(),BioCyc
 ALW85_RS05365-MONOMER,Fe(3+) ABC transporter substrate-binding protein,ALW85_RS05365(),BioCyc
-ALW85_RS00200-MONOMER,TolC family outer membrane protein,ALW85_RS00200(1),BioCyc
+ALW85_RS00200-MONOMER,TolC family outer membrane protein,ALW85_RS00200(),BioCyc
 ALW85_RS01080-MONOMER,bifunctional UDP-N-acetylglucosamine diphosphorylase/glucosamine-1-phosphate N-acetyltransferase GlmU,ALW85_RS01080(3),BioCyc
 ALW85_RS09355-MONOMER,"amidotransferase 1, exosortase A system-associated",ALW85_RS09355(2),BioCyc
 ALW85_RS11355-MONOMER,DUF2281 domain-containing protein,ALW85_RS11355(),BioCyc
@@ -2411,7 +2411,7 @@ ALW85_RS11370-MONOMER,PD-(D/E)XK nuclease family protein,ALW85_RS11370(),BioCyc
 ALW85_RS07000-MONOMER,glycosyl transferase,ALW85_RS07000(),BioCyc
 ALW85_RS11375-MONOMER,hypothetical protein,ALW85_RS11375(),BioCyc
 ALW85_RS08115-MONOMER,hypothetical protein,ALW85_RS08115(),BioCyc
-ALW85_RS04105-MONOMER,pyridoxal phosphate-dependent aminotransferase,ALW85_RS04105(),BioCyc
+ALW85_RS04105-MONOMER,pyridoxal phosphate-dependent aminotransferase,ALW85_RS04105(2),BioCyc
 ALW85_RS03070-MONOMER,alginate export family protein,ALW85_RS03070(),BioCyc
 ALW85_RS01475-MONOMER,copper resistance system multicopper oxidase,ALW85_RS01475(),BioCyc
 ALW85_RS00370-MONOMER,lipopolysaccharide transport periplasmic protein LptA,ALW85_RS00370(),BioCyc
@@ -2422,9 +2422,9 @@ ALW85_RS11385-MONOMER,dTMP kinase,ALW85_RS11385(1),BioCyc
 ALW85_RS05230-MONOMER,D-hexose-6-phosphate mutarotase,ALW85_RS05230(),BioCyc
 ALW85_RS02500-MONOMER,hypothetical protein,ALW85_RS02500(),BioCyc
 ALW85_RS09375-MONOMER,FemAB family PEP-CTERM system-associated protein,ALW85_RS09375(),BioCyc
-ALW85_RS07005-MONOMER,nucleotide sugar dehydrogenase,ALW85_RS07005(1),BioCyc
+ALW85_RS07005-MONOMER,nucleotide sugar dehydrogenase,ALW85_RS07005(),BioCyc
 ALW85_RS01590-MONOMER,TetR/AcrR family transcriptional regulator,ALW85_RS01590(),BioCyc
-ALW85_RS11390-MONOMER,"1,6-anhydro-N-acetylmuramyl-L-alanine amidase AmpD",ALW85_RS11390(1),BioCyc
+ALW85_RS11390-MONOMER,"1,6-anhydro-N-acetylmuramyl-L-alanine amidase AmpD",ALW85_RS11390(),BioCyc
 ALW85_RS08120-MONOMER,hypothetical protein,ALW85_RS08120(),BioCyc
 ALW85_RS09380-MONOMER,DUF3473 domain-containing protein,ALW85_RS09380(),BioCyc
 ALW85_RS11395-MONOMER,PTS sugar transporter subunit IIA,ALW85_RS11395(),BioCyc
@@ -2457,15 +2457,15 @@ ALW85_RS00380-MONOMER,quinolinate synthase NadA,ALW85_RS00380(2),BioCyc
 ALW85_RS09400-MONOMER,chain-length determining protein,ALW85_RS09400(),BioCyc
 ALW85_RS11435-MONOMER,group II intron reverse transcriptase/maturase,ALW85_RS11435(),BioCyc
 ALW85_RS05155-MONOMER,phospho-N-acetylmuramoyl-pentapeptide- transferase,ALW85_RS05155(1),BioCyc
-ALW85_RS03220-MONOMER,symmetrical bis(5'-nucleosyl)-tetraphosphatase,ALW85_RS03220(1),BioCyc
+ALW85_RS03220-MONOMER,symmetrical bis(5'-nucleosyl)-tetraphosphatase,ALW85_RS03220(),BioCyc
 ALW85_RS05380-MONOMER,heavy metal-binding domain-containing protein,ALW85_RS05380(),BioCyc
 ALW85_RS14230-MONOMER,hypothetical protein,ALW85_RS14230(),BioCyc
 ALW85_RS07025-MONOMER,type II toxin-antitoxin system Phd/YefM family antitoxin,ALW85_RS07025(),BioCyc
 ALW85_RS01595-MONOMER,flagellar basal body P-ring formation protein FlgA,ALW85_RS01595(),BioCyc
 ALW85_RS02340-MONOMER,hypothetical protein,ALW85_RS02340(),BioCyc
 ALW85_RS08140-MONOMER,DNA-deoxyinosine glycosylase,ALW85_RS08140(),BioCyc
-ALW85_RS11445-MONOMER,MFS transporter,ALW85_RS11445(1),BioCyc
-ALW85_RS03600-MONOMER,aspartate-semialdehyde dehydrogenase,ALW85_RS03600(2),BioCyc
+ALW85_RS11445-MONOMER,MFS transporter,ALW85_RS11445(),BioCyc
+ALW85_RS03600-MONOMER,aspartate-semialdehyde dehydrogenase,ALW85_RS03600(),BioCyc
 ALW85_RS09405-MONOMER,polysaccharide export protein,ALW85_RS09405(),BioCyc
 ALW85_RS11450-MONOMER,exodeoxyribonuclease III,ALW85_RS11450(),BioCyc
 ALW85_RS00560-MONOMER,c-type cytochrome,ALW85_RS00560(),BioCyc
@@ -2476,7 +2476,7 @@ ALW85_RS04405-MONOMER,mercury resistance system periplasmic binding protein MerP
 ALW85_RS11460-MONOMER,DUF615 domain-containing protein,ALW85_RS11460(),BioCyc
 ALW85_RS00385-MONOMER,endonuclease/exonuclease/phosphatase family protein,ALW85_RS00385(),BioCyc
 ALW85_RS09410-MONOMER,energy-dependent translational throttle protein EttA,ALW85_RS09410(),BioCyc
-ALW85_RS05385-MONOMER,lytic murein transglycosylase B,ALW85_RS05385(1),BioCyc
+ALW85_RS05385-MONOMER,lytic murein transglycosylase B,ALW85_RS05385(),BioCyc
 ALW85_RS11465-MONOMER,metalloprotease PmbA,ALW85_RS11465(),BioCyc
 ALW85_RS01085-MONOMER,glutamine--fructose-6-phosphate transaminase (isomerizing),ALW85_RS01085(2),BioCyc
 ALW85_RS07040-MONOMER,AbrB/MazE/SpoVT family DNA-binding domain-containing protein,ALW85_RS07040(),BioCyc
@@ -2492,8 +2492,8 @@ ALW85_RS07050-MONOMER,IS481 family transposase,ALW85_RS07050(),BioCyc
 ALW85_RS11485-MONOMER,NAD(P)-binding domain-containing protein,ALW85_RS11485(),BioCyc
 ALW85_RS08155-MONOMER,type II toxin-antitoxin system RelE/ParE family toxin,ALW85_RS08155(),BioCyc
 ALW85_RS04120-MONOMER,hypothetical protein,ALW85_RS04120(),BioCyc
-ALW85_RS03075-MONOMER,RNA polymerase sigma factor RpoH,ALW85_RS03075(1),BioCyc
-ALW85_RS00390-MONOMER,cardiolipin synthase ClsB,ALW85_RS00390(1),BioCyc
+ALW85_RS03075-MONOMER,RNA polymerase sigma factor RpoH,ALW85_RS03075(),BioCyc
+ALW85_RS00390-MONOMER,cardiolipin synthase ClsB,ALW85_RS00390(),BioCyc
 ALW85_RS09420-MONOMER,DNA repair protein RadA,ALW85_RS09420(),BioCyc
 ALW85_RS13755-MONOMER,IS5-like element ISNeu3 family transposase,ALW85_RS13755(),BioCyc
 ALW85_RS05390-MONOMER,thioredoxin TrxA,ALW85_RS05390(1),BioCyc
@@ -2548,7 +2548,7 @@ ALW85_RS13960-MONOMER,ALW85_RS13960-MONOMER,ALW85_RS13960(),Sync
 ALW85_RS11275-MONOMER,ALW85_RS11275-MONOMER,ALW85_RS11275(),Sync
 ALW85_RS06595-MONOMER,ALW85_RS06595-MONOMER,ALW85_RS06595(),Sync
 ALW85_RS13750-MONOMER,ALW85_RS13750-MONOMER,ALW85_RS13750(),Sync
-ALW85_RS09445-MONOMER,ALW85_RS09445-MONOMER,ALW85_RS09445(4),Sync
+ALW85_RS09445-MONOMER,ALW85_RS09445-MONOMER,ALW85_RS09445(),Sync
 ALW85_RS07030-MONOMER,ALW85_RS07030-MONOMER,ALW85_RS07030(),Sync
 ALW85_RS09475-MONOMER,ALW85_RS09475-MONOMER,ALW85_RS09475(),Sync
 ALW85_RS13680-MONOMER,ALW85_RS13680-MONOMER,ALW85_RS13680(),Sync
@@ -2558,7 +2558,7 @@ ALW85_RS07155-MONOMER,ALW85_RS07155-MONOMER,ALW85_RS07155(),Sync
 ALW85_RS11940-MONOMER,ALW85_RS11940-MONOMER,ALW85_RS11940(),Sync
 ALW85_RS07175-MONOMER,ALW85_RS07175-MONOMER,ALW85_RS07175(),Sync
 ALW85_RS00510-MONOMER,ALW85_RS00510-MONOMER,ALW85_RS00510(),Sync
-ALW85_RS07240-MONOMER,ALW85_RS07240-MONOMER,ALW85_RS07240(1),Sync
+ALW85_RS07240-MONOMER,ALW85_RS07240-MONOMER,ALW85_RS07240(),Sync
 ALW85_RS00780-MONOMER,ALW85_RS00780-MONOMER,ALW85_RS00780(1),Sync
 ALW85_RS00850-MONOMER,ALW85_RS00850-MONOMER,ALW85_RS00850(),Sync
 ALW85_RS00855-MONOMER,ALW85_RS00855-MONOMER,ALW85_RS00855(),Sync
@@ -2567,7 +2567,7 @@ ALW85_RS12310-MONOMER,ALW85_RS12310-MONOMER,ALW85_RS12310(),Sync
 ALW85_RS13775-MONOMER,ALW85_RS13775-MONOMER,ALW85_RS13775(),Sync
 ALW85_RS13460-MONOMER,ALW85_RS13460-MONOMER,ALW85_RS13460(),Sync
 ALW85_RS07700-MONOMER,ALW85_RS07700-MONOMER,ALW85_RS07700(),Sync
-ALW85_RS12630-MONOMER,ALW85_RS12630-MONOMER,ALW85_RS12630(1),Sync
+ALW85_RS12630-MONOMER,ALW85_RS12630-MONOMER,ALW85_RS12630(),Sync
 ALW85_RS13790-MONOMER,ALW85_RS13790-MONOMER,ALW85_RS13790(),Sync
 ALW85_RS13835-MONOMER,ALW85_RS13835-MONOMER,ALW85_RS13835(),Sync
 ALW85_RS12700-MONOMER,ALW85_RS12700-MONOMER,ALW85_RS12700(),Sync
@@ -2663,9 +2663,9 @@ ALW85_RS14605-MONOMER,IS21 family transposase,ALW85_RS14605(),GenBank
 RNAP-CPLX,DNA-directed RNA polymerase,ALW85_RS11785() AND ALW85_RS02245() AND ALW85_RS10650() AND ALW85_RS10655(),GenBank
 CPLX-tRNA-GLY-LIGASE,tRNA-Gly ligase,ALW85_RS06155(2) AND ALW85_RS06160(2),Inferred from subunits
 CPLX-tRNA-PHE-LIGASE,tRNA-Phe ligase,ALW85_RS04985(2) AND ALW85_RS04990(2),Inferred from subunits
-CPLX_ACCOAC-0,Acetyl-CoA carboxylase,ALW85_RS03415(2) AND ALW85_RS03630(2) AND ALW85_RS05325(2) AND ALW85_RS03420(2),iGC535_HCO3High(ACCOAC)
+CPLX_ACCOAC-0,Acetyl-CoA carboxylase,ALW85_RS03420() AND ALW85_RS03415() AND ALW85_RS05325() AND ALW85_RS03630(),iGC535_HCO3High(ACCOAC)
 CPLX_ACHBS-0,2-aceto-2-hydroxybutanoate synthase,ALW85_RS06895(2) AND ALW85_RS06900(2),iGC535_HCO3High(ACHBS)
-CPLX_ADCS-0,4-amino-4-deoxychorismate synthase,ALW85_RS00085() AND ALW85_RS11225(),iGC535_HCO3High(ADCS)
+CPLX_ADCS-0,4-amino-4-deoxychorismate synthase,ALW85_RS11225() AND ALW85_RS00085(),iGC535_HCO3High(ADCS)
 CPLX_ASNS1-0,Asparagine synthase (glutamine-hydrolysing),ALW85_RS09355() AND ALW85_RS05850(),iGC535_HCO3High(ASNS1)
 CPLX_ATPPRT-0,ATP phosphoribosyltransferase,ALW85_RS04555() AND ALW85_RS06675(),iGC535_HCO3High(ATPPRT)
 CPLX_CBPS-0,Carbamoyl-phosphate synthase (glutamine-hydrolysing),ALW85_RS08670(2) AND ALW85_RS08665(2),iGC535_HCO3High(CBPS)
@@ -2673,14 +2673,14 @@ CPLX_CDPMEK-0,4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase,ALW85_RS0
 CPLX_DHORD5-0,Dihydroorotic acid (menaquinone-8),ALW85_RS03570() AND ALW85_RS03575(),iGC535_HCO3High(DHORD5)
 CPLX_DHORD5-1,Dihydroorotic acid (menaquinone-8),ALW85_RS05280() AND ALW85_RS05295() AND ALW85_RS05300(),iGC535_HCO3High(DHORD5)
 CPLX_DHORTS-0,Dihydroorotase,ALW85_RS03805() AND ALW85_RS08680(),iGC535_HCO3High(DHORTS)
-CPLX_GCCa-0,Glycine-cleavage complex,ALW85_RS03200() AND ALW85_RS03205(),iGC535_HCO3High(GCCa)
+CPLX_GCCa-0,Glycine-cleavage complex,ALW85_RS03205() AND ALW85_RS03200(),iGC535_HCO3High(GCCa)
 CPLX_GF6PTA-0,Glutamine-fructose-6-phosphate transaminase,ALW85_RS01085() AND ALW85_RS08175() AND ALW85_RS08180(),iGC535_HCO3High(GF6PTA)
 CPLX_HCO3E-0,HCO3 equilibration reaction,ALW85_RS03185() AND ALW85_RS10025(),iGC535_HCO3High(HCO3E)
 CPLX_HYDFDN-0,Ferredoxin NADH linked hydrogenase,ALW85_RS11230() AND ALW85_RS12015(),iGC535_HCO3High(HYDFDN)
 CPLX_IG3PS-0,Imidazole-glycerol-3-phosphate synthase,ALW85_RS03370(1) AND ALW85_RS03380(1),iGC535_HCO3High(IG3PS)
 CPLX_IPPMIa-0,3-isopropylmalate dehydratase,ALW85_RS03590(1) AND ALW85_RS03580(1),iGC535_HCO3High(IPPMIa)
-CPLX_RNDR4-0,Ribonucleoside-diphosphate reductase (UDP),ALW85_RS12625(2) AND ALW85_RS12620(2),iGC535_HCO3High(RNDR4)
-CPLX_SADT2-0,Sulfate adenyltransferase,ALW85_RS04485(4) AND ALW85_RS04480(4),iGC535_HCO3High(SADT2)
+CPLX_RNDR4-0,Ribonucleoside-diphosphate reductase (UDP),ALW85_RS12620(2) AND ALW85_RS12625(2),iGC535_HCO3High(RNDR4)
+CPLX_SADT2-0,Sulfate adenyltransferase,ALW85_RS04480() AND ALW85_RS04485(),iGC535_HCO3High(SADT2)
 CPLX_TRPS1-0,Tryptophan synthase (indoleglycerol phosphate),ALW85_RS03625(2) AND ALW85_RS03620(2),iGC535_HCO3High(TRPS1)
 CPLX_UDPG4E-0,UDPglucose 4-epimerase,ALW85_RS02645() AND ALW85_RS03550(),iGC535_HCO3High(UDPG4E)
 CPLX_14GLUCANabcpp-0,"1,4-alpha-D-glucan transport via ABC system (periplasm)",ALW85_RS03045() AND ALW85_RS05375(),iGC535_HCO3High(14GLUCANabcpp)
@@ -2692,13 +2692,13 @@ CPLX_CGLYabcpp-0,L-Cysteinylglycine (Cys-Gly) transport via ABC system (periplas
 CPLX_CYSabc2pp-0,L-cysteine export via ABC system (cytoplasm to periplasm),ALW85_RS00585() AND ALW85_RS00830(),iGC535_HCO3High(CYSabc2pp)
 CPLX_DSBDR-0,DsbD reductase,ALW85_RS12450() AND ALW85_RS05390(),iGC535_HCO3High(DSBDR)
 CPLX_FADRx2-0,FAD reductase,ALW85_RS04465(8) AND ALW85_RS04460(4),iGC535_HCO3High(FADRx2)
-CPLX_GLYCTO3-0,Glycolate oxidase,ALW85_RS03520() AND ALW85_RS03525() AND ALW85_RS03530(),iGC535_HCO3High(GLYCTO3)
+CPLX_GLYCTO3-0,Glycolate oxidase,ALW85_RS03525() AND ALW85_RS03520() AND ALW85_RS03530(),iGC535_HCO3High(GLYCTO3)
 CPLX_GTHRDabcpp-0,Reduced glutathione via ABC system (periplasm),ALW85_RS12935() AND ALW85_RS12930(),iGC535_HCO3High(GTHRDabcpp)
 CPLX_I2FE2ST-0,ISC [2Fe-2S] Transfer,ALW85_RS07590() AND ALW85_RS07565(),iGC535_HCO3High(I2FE2ST)
 CPLX_INDOLEt2pp-0,"Indole transport via proton symport, irreversible (periplasm)",ALW85_RS05780() AND ALW85_RS05775(),iGC535_HCO3High(INDOLEt2pp)
 CPLX_Kt2pp-0,Potassium transport in via proton symport (periplasm),ALW85_RS09560() AND ALW85_RS09565(),iGC535_HCO3High(Kt2pp)
 CPLX_METSOXR1-0,L-methionine-S-oxide reductase,ALW85_RS05390() AND ALW85_RS08855(),iGC535_HCO3High(METSOXR1)
-CPLX_MOBDabcpp-0,Molybdate transport via ABC system (periplasm),ALW85_RS03065(1) AND ALW85_RS03035(2) AND ALW85_RS03040(1) AND ALW85_RS03045(1),iGC535_HCO3High(MOBDabcpp)
+CPLX_MOBDabcpp-0,Molybdate transport via ABC system (periplasm),ALW85_RS03035() AND ALW85_RS03045() AND ALW85_RS03040() AND ALW85_RS03065(),iGC535_HCO3High(MOBDabcpp)
 CPLX_NADH17pp-0,NADH dehydrogenase (menaquinone-8 & 3 protons) (periplasm),ALW85_RS09185() AND ALW85_RS09190() AND ALW85_RS09195() AND ALW85_RS09200() AND ALW85_RS09205() AND ALW85_RS09210() AND ALW85_RS09215() AND ALW85_RS09220() AND ALW85_RS09225() AND ALW85_RS09230() AND ALW85_RS09235() AND ALW85_RS09240() AND ALW85_RS09245() AND ALW85_RS09250(),iGC535_HCO3High(NADH17pp)
 CPLX_NADHPO-0,NADH peroxidase,ALW85_RS12860() AND ALW85_RS10045(),iGC535_HCO3High(NADHPO)
 CPLX_NTP1-0,Nucleoside-triphosphatase (ATP),ALW85_RS01010() AND ALW85_RS01100() AND ALW85_RS01105() AND ALW85_RS07705() AND ALW85_RS09640(),iGC535_HCO3High(NTP1)
@@ -2714,7 +2714,7 @@ CPLX_RNDR1b-0,Ribonucleoside-diphosphate reductase (ADP) (glutaredoxin),ALW85_RS
 CPLX_RNDR1b-1,Ribonucleoside-diphosphate reductase (ADP) (glutaredoxin),ALW85_RS09950() AND ALW85_RS12625(),iGC535_HCO3High(RNDR1b)
 CPLX_S2FE2SR-0,SUF [2Fe-2S] regeneration,ALW85_RS07585() AND ALW85_RS07580() AND ALW85_RS07575() AND ALW85_RS03020(),iGC535_HCO3High(S2FE2SR)
 CPLX_S2FE2ST-0,SUF [2Fe-2S] Transfer,ALW85_RS07590() AND ALW85_RS07585() AND ALW85_RS07580() AND ALW85_RS07575(),iGC535_HCO3High(S2FE2ST)
-CPLX_S4FE4SR-0,SUF [4Fe-4S] Reduction,ALW85_RS07575(1) AND ALW85_RS07585(1) AND ALW85_RS07580(2),iGC535_HCO3High(S4FE4SR)
+CPLX_S4FE4SR-0,SUF [4Fe-4S] Reduction,ALW85_RS07585() AND ALW85_RS07580() AND ALW85_RS07575(),iGC535_HCO3High(S4FE4SR)
 CPLX_SCYSDS-0,SUF Cysteine desulfuration,ALW85_RS07570() AND ALW85_RS07565(),iGC535_HCO3High(SCYSDS)
 CPLX_SUCDi-0,Succinate dehydrogenase (irreversible),ALW85_RS05445() AND ALW85_RS05450() AND ALW85_RS05455() AND ALW85_RS12360(),iGC535_HCO3High(SUCDi)
 CPLX_SUCOAS-0,Succinyl-CoA synthetase (ADP-forming),ALW85_RS00270() AND ALW85_RS00275(),iGC535_HCO3High(SUCOAS)

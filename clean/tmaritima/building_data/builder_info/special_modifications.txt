@@ -1,7 +1,7 @@
 ,value
-fes_transfer,{'enzymes': ['CPLX_dummy']}
+fes_transfer,{'enzymes': ['TM1372-MONOMER']}
 fes_chaperones,{'enzymes': ['CPLX_dummy']}
-generic_2fe2s_transfer_complex,{'enzymes': ['CPLX_dummy']}
+generic_2fe2s_transfer_complex,{'enzymes': ['TM1372-MONOMER_mod_2fe2s(1)']}
 generic_4fe4s_transfer_complex,{'enzymes': ['CPLX_dummy']}
 lipoate_modifications,{'enzymes': ['CPLX_dummy']}
 bmocogdp_chaperones,{'enzymes': ['CPLX_dummy']}

@@ -1420,84 +1420,190 @@ Check whether the compartment is correct. If not, change it in the reaction ID i
 ********** Some complexes were partial hits in the BLAST
 The following items triggered the warning:
 
-{"complex": "CLJU_RS16455-MONOMER", "reference_complex": "EG11595-MONOMER_EG11666-MONOMER"}
+{"complex": "CLJU_RS13140-MONOMER", "reference_complex": "CPLX_ACCOAC-0"}
 
-{"complex": "CLJU_RS17185-MONOMER", "reference_complex": "ABC-46-CPLX"}
+{"complex": "CPLX271D-11", "reference_complex": "BSU00740-MONOMER"}
 
-{"complex": "CLJU_RS07900-MONOMER", "reference_complex": "TRYPSYN"}
+{"complex": "CLJU_RS12700-MONOMER", "reference_complex": "CPLX8J2-82"}
 
-{"complex": "CLJU_RS04465-MONOMER", "reference_complex": "3-ISOPROPYLMALISOM-CPLX"}
+{"complex": "CLJU_RS11760-MONOMER", "reference_complex": "CPLX8J2-8"}
 
-{"complex": "CLJU_RS18655-MONOMER", "reference_complex": "ABC-63-CPLX"}
+{"complex": "CLJU_RS07900-MONOMER", "reference_complex": "CPLX8J2-19"}
 
-{"complex": "CLJU_RS10665-MONOMER", "reference_complex": "ABC-24-CPLX"}
+{"complex": "CPLX271D-20", "reference_complex": "BSU28260-MONOMER"}
 
-{"complex": "CLJU_RS16820-MONOMER", "reference_complex": "CPLX0-7717_G6561-MONOMER"}
+{"complex": "CPLX271D-27", "reference_complex": "BSU03610-MONOMER"}
 
-{"complex": "CLJU_RS16820-MONOMER", "reference_complex": "CPLX0-3951_G6561-MONOMER"}
+{"complex": "CPLX271D-27", "reference_complex": "BSU27430-MONOMER"}
 
-{"complex": "CLJU_RS15030-MONOMER", "reference_complex": "CITLY-CPLX"}
+{"complex": "CPLX271D-31", "reference_complex": "BSU33390-MONOMER"}
 
-{"complex": "CLJU_RS21140-MONOMER", "reference_complex": "MnmEG_cplx"}
+{"complex": "CPLX271D-31", "reference_complex": "CPLX_MOBDabc-0"}
 
-{"complex": "CLJU_RS11515-MONOMER", "reference_complex": "ACETOLACTSYNIII-CPLX"}
+{"complex": "CPLX271D-31", "reference_complex": "BSU33380-MONOMER"}
 
-{"complex": "CLJU_RS05810-MONOMER", "reference_complex": "EG11910-MONOMER_dimer_EG11911-MONOMER"}
+{"complex": "CLJU_RS04465-MONOMER", "reference_complex": "CPLX8J2-21"}
 
-{"complex": "CLJU_RS08530-MONOMER", "reference_complex": "GLUTAMATESYN-CPLX"}
+{"complex": "CLJU_RS18655-MONOMER", "reference_complex": "CPLX8J2-77"}
 
-{"complex": "CLJU_RS20745-MONOMER", "reference_complex": "ACETYL-COA-CARBOXYLMULTI-CPLX"}
+{"complex": "CLJU_RS01505-MONOMER", "reference_complex": "CPLX8J2-228"}
 
-{"complex": "CLJU_RS15820-MONOMER", "reference_complex": "METNIQ-METHIONINE-ABC-CPLX"}
+{"complex": "CPLX271D-15", "reference_complex": "BSU05910-MONOMER"}
 
-{"complex": "CLJU_RS11880-MONOMER", "reference_complex": "GCVMULTI-CPLX"}
+{"complex": "CPLX271D-15", "reference_complex": "CPLX8J2-100"}
 
-{"complex": "CLJU_RS05740-MONOMER", "reference_complex": "GLUTAMIDOTRANS-CPLX"}
+{"complex": "CPLX271D-15", "reference_complex": "BSU05920-MONOMER"}
 
-{"complex": "CLJU_RS17590-MONOMER", "reference_complex": "ASPCARBTRANS-CPLX"}
+{"complex": "CLJU_RS11515-MONOMER", "reference_complex": "CPLX8J2-23"}
 
-{"complex": "CLJU_RS02150-MONOMER", "reference_complex": "CARBPSYN-CPLX"}
+{"complex": "CLJU_RS07390-MONOMER", "reference_complex": "CPLX8J2-78"}
 
-{"complex": "CPLX271D-23", "reference_complex": "hRNAP"}
+{"complex": "CLJU_RS18175-MONOMER", "reference_complex": "CPLX8J2-4"}
 
-{"complex": "CLJU_RS03450-MONOMER", "reference_complex": "EG11829-MONOMER_EG11828-MONOMER"}
+{"complex": "CLJU_RS08990-MONOMER", "reference_complex": "CPLX8J2-74"}
 
-{"complex": "CLJU_RS07880-MONOMER", "reference_complex": "PABASYN-CPLX"}
+{"complex": "CLJU_RS14280-MONOMER", "reference_complex": "CPLX8J2-244"}
 
-{"complex": "CLJU_RS19470-MONOMER", "reference_complex": "ATPASE-1-CPLX_no_MONOMER0-12"}
+{"complex": "CLJU_RS08530-MONOMER", "reference_complex": "CPLX8J2-16"}
 
-{"complex": "CLJU_RS16965-MONOMER", "reference_complex": "Phe_RS_tetra"}
+{"complex": "CLJU_RS00615-MONOMER", "reference_complex": "CPLX8J2-64"}
 
-{"complex": "CPLX_ACOATA-0", "reference_complex": "EG50003-MONOMER"}
+{"complex": "CLJU_RS09825-MONOMER", "reference_complex": "CPLX_FDH-0"}
 
-{"complex": "CPLX_ACOATA-0", "reference_complex": "CPLX0-252"}
+{"complex": "CLJU_RS20060-MONOMER", "reference_complex": "CPLX8J2-248"}
 
-{"complex": "CPLX_ASPCT-0", "reference_complex": "ASPCARBCAT-TRIMER"}
+{"complex": "CLJU_RS20060-MONOMER", "reference_complex": "CPLX8J2-249"}
 
-{"complex": "CPLX_FUM-0", "reference_complex": "FUMARASE-B"}
+{"complex": "CLJU_RS15820-MONOMER", "reference_complex": "CPLX8J2-239"}
 
-{"complex": "CPLX_MCOATA-0", "reference_complex": "MALONYL-COA-ACP-TRANSACYL-MONOMER"}
+{"complex": "CLJU_RS19185-MONOMER", "reference_complex": "CPLX8J2-108"}
 
-{"complex": "CPLX_OBTFL-0", "reference_complex": "EG11910-MONOMER_dimer"}
+{"complex": "CLJU_RS11880-MONOMER", "reference_complex": "CPLX8J2-17"}
+
+{"complex": "CLJU_RS17545-MONOMER", "reference_complex": "CPLX8J2-162"}
+
+{"complex": "CPLX271D-1", "reference_complex": "BSU35170-MONOMER"}
+
+{"complex": "CPLX271D-1", "reference_complex": "BSU35160-MONOMER"}
+
+{"complex": "CPLX271D-1", "reference_complex": "BSU28490-MONOMER"}
+
+{"complex": "CLJU_RS17550-MONOMER", "reference_complex": "CPLX8J2-163"}
+
+{"complex": "CLJU_RS07875-MONOMER", "reference_complex": "CPLX8J2-252"}
+
+{"complex": "CLJU_RS03430-MONOMER", "reference_complex": "CPLX8J2-79"}
+
+{"complex": "CLJU_RS17115-MONOMER", "reference_complex": "CPLX8J2-240"}
+
+{"complex": "CPLX271D-26", "reference_complex": "BSU24990-MONOMER"}
+
+{"complex": "CPLX271D-26", "reference_complex": "BSU24980-MONOMER"}
+
+{"complex": "CPLX271D-26", "reference_complex": "BSU24970-MONOMER"}
+
+{"complex": "CLJU_RS16670-MONOMER", "reference_complex": "CPLX8J2-32"}
+
+{"complex": "CPLX271D-9", "reference_complex": "BSU28220-MONOMER"}
+
+{"complex": "CLJU_RS05740-MONOMER", "reference_complex": "CPLX8J2-208"}
+
+{"complex": "CLJU_RS17575-MONOMER", "reference_complex": "CPLX8J2-105"}
+
+{"complex": "CLJU_RS10825-MONOMER", "reference_complex": "CPLX8J2-124"}
+
+{"complex": "CLJU_RS10050-MONOMER", "reference_complex": "CPLX8J2-185"}
+
+{"complex": "CLJU_RS02150-MONOMER", "reference_complex": "CPLX8J2-6"}
+
+{"complex": "CLJU_RS10110-MONOMER", "reference_complex": "CPLX_FRUpts-1"}
+
+{"complex": "CPLX271D-23", "reference_complex": "BSU01080-MONOMER"}
+
+{"complex": "CPLX271D-23", "reference_complex": "BSU01070-MONOMER"}
+
+{"complex": "CLJU_RS18310-MONOMER", "reference_complex": "CPLX8J2-24"}
+
+{"complex": "CPLX271D-17", "reference_complex": "BSU22640-MONOMER"}
+
+{"complex": "CPLX271D-13", "reference_complex": "BSU06690-MONOMER"}
+
+{"complex": "CLJU_RS01175-MONOMER", "reference_complex": "CPLX8J2-26"}
+
+{"complex": "CLJU_RS00030-MONOMER", "reference_complex": "CPLX8J2-14"}
+
+{"complex": "CPLX271D-7", "reference_complex": "BSU00060-MONOMER"}
+
+{"complex": "CLJU_RS19490-MONOMER", "reference_complex": "CPLX8J2-131"}
+
+{"complex": "CPLX271D-6", "reference_complex": "BSU28630-MONOMER"}
+
+{"complex": "CPLX271D-12", "reference_complex": "BSU00110-MONOMER"}
+
+{"complex": "CPLX271D-5", "reference_complex": "BSU34890-MONOMER"}
+
+{"complex": "CLJU_RS16390-MONOMER", "reference_complex": "CPLX8J2-18"}
+
+{"complex": "CLJU_RS17715-MONOMER", "reference_complex": "CPLX8J2-29"}
+
+{"complex": "CLJU_RS16965-MONOMER", "reference_complex": "CPLX8J2-11"}
+
+{"complex": "CPLX271D-3", "reference_complex": "BSU15510-MONOMER"}
+
+{"complex": "CPLX271D-2", "reference_complex": "BSU15860-MONOMER"}
+
+{"complex": "CLJU_c42100-MONOMER", "reference_complex": "CPLX8J2-3"}
+
+{"complex": "CLJU_c42100-MONOMER", "reference_complex": "CPLX8J2-217"}
+
+{"complex": "CPLX_ACCOAC-0", "reference_complex": "BSU29200-MONOMER"}
+
+{"complex": "CPLX_ACCOAC-0", "reference_complex": "BSU29210-MONOMER"}
+
+{"complex": "CPLX_ACCOAC-0", "reference_complex": "BSU24340-MONOMER"}
+
+{"complex": "CPLX_ACCOAC-0", "reference_complex": "BSU24350-MONOMER"}
+
+{"complex": "CPLX_ACHBS-0", "reference_complex": "BSU28300-MONOMER"}
+
+{"complex": "CPLX_ACHBS-1", "reference_complex": "BSU36010-MONOMER"}
+
+{"complex": "CPLX_ACOAD1z-0", "reference_complex": "BSU24150-MONOMER"}
+
+{"complex": "CPLX_ACOAD1z-0", "reference_complex": "BSU28520-MONOMER"}
+
+{"complex": "CPLX_ACOAD1z-0", "reference_complex": "BSU28530-MONOMER"}
+
+{"complex": "CPLX_ACOATA-0", "reference_complex": "BSU15920-MONOMER"}
+
+{"complex": "CPLX_ACOATA-0", "reference_complex": "BSU11330-MONOMER"}
+
+{"complex": "CPLX_DHORD5-0", "reference_complex": "BSU15540-MONOMER"}
+
+{"complex": "CPLX_GCCa-0", "reference_complex": "BSU32800-MONOMER"}
+
+{"complex": "CPLX_GCCa-0", "reference_complex": "BSU24550-MONOMER"}
+
+{"complex": "CPLX_GCCa-0", "reference_complex": "BSU24560-MONOMER"}
+
+{"complex": "CPLX_GCCa-0", "reference_complex": "BSU24060-MONOMER"}
+
+{"complex": "CPLX_GLUSy-0", "reference_complex": "BSU18450-MONOMER"}
+
+{"complex": "CPLX_GLYCL-0", "reference_complex": "BSU24570-MONOMER"}
+
+{"complex": "CPLX_MCOATA-0", "reference_complex": "BSU15900-MONOMER"}
+
+{"complex": "CPLX_NAt3_2-1", "reference_complex": "BSU11640-MONOMER"}
+
+{"complex": "CPLX_NAt3_2-1", "reference_complex": "BSU23560-MONOMER"}
+
+{"complex": "CPLX_RIBabc-0", "reference_complex": "BSU35940-MONOMER"}
+
+{"complex": "CPLX_ZNabc-3", "reference_complex": "BSU02850-MONOMER"}
 
 **********Solution:
 Curate these manually in protein_corrections.txt
-
-
-
-
-#################### medium@update_me_mets ####################
-********** Some metabolites in me_metabolites.txt are not in m_model, so they were skipped.
-The following items triggered the warning:
-sufbcd_2fe2s_c
-sufbcd_2fe2s2_c
-sufbcd_4fe4s_c
-iscu_2fe2s_c
-iscu_2fe2s2_c
-iscu_4fe4s_c
-
-**********Solution:
-Confirm these metabolites are correctly defined in me_metabolites.txt
 
 
 
@@ -1506,11 +1612,11 @@ Confirm these metabolites are correctly defined in me_metabolites.txt
 ********** Some enzymes defined in me_builder.org.ribosome_subreactions are different from the ones inferred from homology
 The following items triggered the warning:
 
-{"subreaction": "gtp_bound_30S_assembly_factor_phase1", "defined_complex": "", "inferred_complex": "CLJU_RS03990-MONOMER"}
-
 {"subreaction": "RbfA_mono_assembly_factor_phase1", "defined_complex": "", "inferred_complex": "CLJU_RS06460-MONOMER"}
 
 {"subreaction": "RimM_mono_assembly_factor_phase1", "defined_complex": "", "inferred_complex": "CLJU_RS06330-MONOMER"}
+
+{"subreaction": "gtp_bound_30S_assembly_factor_phase1", "defined_complex": "", "inferred_complex": "CLJU_RS03990-MONOMER"}
 
 **********Solution:
 Confirm whether the definitions or homology calls are correct in me_builder.org.ribosome_subreactions. Curate the inputs in ribosome_subreactions.txt accordingly.
@@ -1522,13 +1628,33 @@ Confirm whether the definitions or homology calls are correct in me_builder.org.
 ********** Some enzymes identified in me_builder.org.amino_acid_trna_synthetase are different from the ones inferred from homology
 The following items triggered the warning:
 
-{"amino_acid": "cys__L_c", "inferred_ligase": "generic_cys_ligase", "homology_ligase": "CLJU_RS20330-MONOMER_mod_zn2(1)"}
+{"amino_acid": "ala__L_c", "inferred_ligase": "CLJU_RS05960-MONOMER_mod_zn2(4)", "homology_ligase": "CLJU_RS05960-MONOMER"}
 
-{"amino_acid": "lys__L_c", "inferred_ligase": "CLJU_RS20435-MONOMER", "homology_ligase": "generic_LYSINEaaRS"}
+{"amino_acid": "arg__L_c", "inferred_ligase": "CLJU_RS10650-MONOMER_mod_mg2(1)", "homology_ligase": "CLJU_RS10650-MONOMER"}
+
+{"amino_acid": "cys__L_c", "inferred_ligase": "generic_cys_ligase", "homology_ligase": "CLJU_RS20330-MONOMER"}
+
+{"amino_acid": "glu__L_c", "inferred_ligase": "CLJU_RS06575-MONOMER_mod_mg2(1)_mod_zn2(1)", "homology_ligase": "CLJU_RS06575-MONOMER"}
+
+{"amino_acid": "his__L_c", "inferred_ligase": "CLJU_RS16595-MONOMER_mod_mg2(4)", "homology_ligase": "CLJU_RS16595-MONOMER"}
+
+{"amino_acid": "ile__L_c", "inferred_ligase": "CLJU_RS00920-MONOMER_mod_zn2(2)", "homology_ligase": "CLJU_RS00920-MONOMER"}
+
+{"amino_acid": "lys__L_c", "inferred_ligase": "CLJU_RS20435-MONOMER_mod_mg2(6)", "homology_ligase": "CLJU_RS20435-MONOMER"}
+
+{"amino_acid": "met__L_c", "inferred_ligase": "CLJU_RS00840-MONOMER_mod_zn2(2)", "homology_ligase": "CLJU_RS00840-MONOMER"}
+
+{"amino_acid": "phe__L_c", "inferred_ligase": "CPLX271D-6_mod_mg2(1)", "homology_ligase": "CPLX271D-6"}
 
 {"amino_acid": "pro__L_c", "inferred_ligase": "generic_pro_ligase", "homology_ligase": "CLJU_RS18895-MONOMER"}
 
+{"amino_acid": "ser__L_c", "inferred_ligase": "CLJU_RS00085-MONOMER_mod_mg2(1)", "homology_ligase": "CLJU_RS00085-MONOMER"}
+
+{"amino_acid": "trp__L_c", "inferred_ligase": "CLJU_RS18860-MONOMER_mod_mg2(1)", "homology_ligase": "CLJU_RS18860-MONOMER"}
+
 {"amino_acid": "tyr__L_c", "inferred_ligase": "generic_tyr_ligase", "homology_ligase": "CLJU_RS18820-MONOMER"}
+
+{"amino_acid": "val__L_c", "inferred_ligase": "CLJU_RS17105-MONOMER_mod_mg2(1)", "homology_ligase": "CLJU_RS17105-MONOMER"}
 
 **********Solution:
 Confirm whether the definitions or homology calls are correct in me_builder.org.amino_acid_trna_synthetase. Curate the inputs in amino_acid_trna_synthetase.txt accordingly.
@@ -1539,32 +1665,32 @@ Confirm whether the definitions or homology calls are correct in me_builder.org.
 #################### medium@check ####################
 ********** Some metabolites in me_metabolites.txt need curation
 The following items triggered the warning:
+3hcpalm9eACP_c
+3ocpalm9eACP_c
 LI_c
-sufbcd_c
-sufse_c
-sufsesh_c
-dsbard_p
-dsbaox_p
-dsbcrd_p
-dsbcox_p
-dsbdrd_c
-dsbdox_c
-dsbgrd_p
-dsbgox_p
-lpp_p
 alpp_p
+dsbaox_p
+dsbard_p
+dsbcox_p
+dsbcrd_p
+dsbdox_c
+dsbdrd_c
+dsbgox_p
+dsbgrd_p
+fldox_c
+fldrd_c
+flxr_c
+flxso_c
+grxox_c
+grxrd_c
+iscssh_c
+lpp_p
 moadamp_c
 moadcoo_c
 moadcosh_c
-3hcpalm9eACP_c
-3ocpalm9eACP_c
-flxr_c
-fldrd_c
-flxso_c
-fldox_c
-grxrd_c
-grxox_c
-iscssh_c
+sufbcd_c
+sufse_c
+sufsesh_c
 
 **********Solution:
 Map or remove these metabolites in me_metabolites.txt
@@ -1575,108 +1701,75 @@ Map or remove these metabolites in me_metabolites.txt
 #################### critical@check_me_coverage ####################
 ********** Some genes show homology, but no metabolic function.
 The following items triggered the warning:
-CLJU_c00650 <-> b0766
-CLJU_c00730 <-> b3835
-CLJU_c01350 <-> b1192
-CLJU_c01990 <-> b3631
-CLJU_c02280 <-> b3040
-CLJU_c02340 <-> b3784
-CLJU_c04250 <-> b3385
-CLJU_c05490 <-> b2253
-CLJU_c05820 <-> b0158
-CLJU_c05830 <-> b4288
-CLJU_c05840 <-> b0588
-CLJU_c06020 <-> b0635
-CLJU_c06280 <-> b0199
-CLJU_c06290 <-> b0198
-CLJU_c06890 <-> b4242
-CLJU_c07000 <-> b0827
-CLJU_c07010 <-> b3856
-CLJU_c08530 <-> b0494
-CLJU_c08920 <-> b0914
-CLJU_c09210 <-> b4386
-CLJU_c09290 <-> b1605
-CLJU_c10560 <-> b0084
-CLJU_c10840 <-> b1519
-CLJU_c11640 <-> b3579
-CLJU_c12040 <-> b1487
-CLJU_c12050 <-> b1486
-CLJU_c12060 <-> b1485
-CLJU_c12070 <-> b1484
-CLJU_c12400 <-> b3727
-CLJU_c12410 <-> b3726
-CLJU_c12630 <-> b4161
-CLJU_c13070 <-> b0175
-CLJU_c13350 <-> b2415
-CLJU_c13690 <-> b2682
-CLJU_c14320 <-> b0099
-CLJU_c14770 <-> b0340
-CLJU_c15280 <-> b0516
-CLJU_c15540 <-> b1587
-CLJU_c15930 <-> b3396
-CLJU_c15960 <-> b0841
-CLJU_c16410 <-> b1325
-CLJU_c18140 <-> b2393
-CLJU_c18270 <-> b0756
-CLJU_c18310 <-> b0934
-CLJU_c18320 <-> b0366
-CLJU_c18330 <-> b0936
-CLJU_c19030 <-> b3447
-CLJU_c19510 <-> b3996
-CLJU_c21070 <-> b3997
-CLJU_c21410 <-> b3857
-CLJU_c21570 <-> b2979
-CLJU_c21940 <-> b2710
-CLJU_c22080 <-> b1662
-CLJU_c22540 <-> b3476
-CLJU_c22560 <-> b1247
-CLJU_c22600 <-> b3477
-CLJU_c23240 <-> b0155
-CLJU_c23860 <-> b2871
-CLJU_c23950 <-> b3714
-CLJU_c23990 <-> b2877
-CLJU_c24010 <-> b1398
-CLJU_c24540 <-> b2232
-CLJU_c24900 <-> b0484
-CLJU_c25050 <-> b0783
-CLJU_c25060 <-> b0009
-CLJU_c25290 <-> b0614
-CLJU_c25370 <-> b0613
-CLJU_c25450 <-> b4072
-CLJU_c25840 <-> b3616
-CLJU_c27650 <-> b4478
-CLJU_c28120 <-> b3691
-CLJU_c28210 <-> b1781
-CLJU_c28420 <-> b1661
-CLJU_c29070 <-> b3469
-CLJU_c30810 <-> b0349
-CLJU_c32100 <-> b0197
-CLJU_c33380 <-> b0781
-CLJU_c33560 <-> b1301
-CLJU_c33590 <-> b4392
-CLJU_c34010 <-> b3794
-CLJU_c34110 <-> b4034
-CLJU_c34120 <-> b1069
-CLJU_c34210 <-> b0688
-CLJU_c34360 <-> b3605
-CLJU_c34740 <-> b2744
-CLJU_c34840 <-> b4231
-CLJU_c34850 <-> b4230
-CLJU_c34860 <-> b4485
-CLJU_c34870 <-> b4227
-CLJU_c35480 <-> b3915
-CLJU_c36850 <-> b2954
-CLJU_c36890 <-> b1243
-CLJU_c36970 <-> b2411
-CLJU_c37300 <-> b1395
-CLJU_c38330 <-> b0775
-CLJU_c38580 <-> b0356
-CLJU_c38600 <-> b1702
-CLJU_c38960 <-> b1296
-CLJU_c39200 <-> b2435
-CLJU_c39920 <-> b2923
-CLJU_c40530 <-> b2416
-CLJU_c40680 <-> b1298
+CLJU_RS03455 <-> BSU36710
+CLJU_c00760 <-> BSU00180
+CLJU_c01670 <-> BSU35780
+CLJU_c02340 <-> BSU35530
+CLJU_c03740 <-> BSU25710
+CLJU_c04610 <-> BSU32740
+CLJU_c05270 <-> BSU35540
+CLJU_c05820 <-> BSU33180
+CLJU_c05830 <-> BSU33170
+CLJU_c05840 <-> BSU07490
+CLJU_c06280 <-> BSU32750
+CLJU_c06670 <-> BSU03610
+CLJU_c06680 <-> BSU03600
+CLJU_c06690 <-> BSU27430
+CLJU_c07140 <-> BSU27910
+CLJU_c08480 <-> BSU06370
+CLJU_c09290 <-> BSU33330
+CLJU_c10480 <-> BSU15650
+CLJU_c12390 <-> BSU24990
+CLJU_c12400 <-> BSU24980
+CLJU_c12410 <-> BSU24970
+CLJU_c12560 <-> BSU15720
+CLJU_c12570 <-> BSU15730
+CLJU_c13070 <-> BSU16540
+CLJU_c13350 <-> BSU13900
+CLJU_c13690 <-> BSU26710
+CLJU_c14140 <-> BSU26590
+CLJU_c15070 <-> BSU02760
+CLJU_c15080 <-> BSU02750
+CLJU_c15670 <-> BSU25790
+CLJU_c16020 <-> BSU30530
+CLJU_c17940 <-> BSU32510
+CLJU_c18140 <-> BSU39410
+CLJU_c18310 <-> BSU08850
+CLJU_c18320 <-> BSU08830
+CLJU_c18330 <-> BSU08840
+CLJU_c18660 <-> BSU35620
+CLJU_c19540 <-> BSU26970
+CLJU_c21570 <-> BSU28680
+CLJU_c22080 <-> BSU23270
+CLJU_c23220 <-> BSU06240
+CLJU_c23670 <-> BSU16100
+CLJU_c24570 <-> BSU40850
+CLJU_c24900 <-> BSU33500
+CLJU_c25010 <-> BSU23980
+CLJU_c25450 <-> BSU37270
+CLJU_c25850 <-> BSU22140
+CLJU_c26540 <-> BSU30970
+CLJU_c26620 <-> BSU03070
+CLJU_c27330 <-> BSU34790
+CLJU_c28120 <-> BSU02480
+CLJU_c28190 <-> BSU07570
+CLJU_c29070 <-> BSU33490
+CLJU_c29910 <-> BSU13170
+CLJU_c29950 <-> BSU19710
+CLJU_c32100 <-> BSU32730
+CLJU_c33680 <-> BSU09840
+CLJU_c34010 <-> BSU35750
+CLJU_c34110 <-> BSU34160
+CLJU_c34170 <-> BSU35590
+CLJU_c34210 <-> BSU09310
+CLJU_c34540 <-> BSU14000
+CLJU_c35000 <-> BSU03860
+CLJU_c36170 <-> BSU36130
+CLJU_c37300 <-> BSU24160
+CLJU_c38330 <-> BSU30200
+CLJU_c38450 <-> BSU31580
+CLJU_c38600 <-> BSU18830
+CLJU_c40530 <-> BSU13910
 
 **********Solution:
 Manually curate the M-model to correct GPRs or incorporate new reactions.

@@ -10,12 +10,12 @@ gly_c	CPLX2DNV-981
 his__L_c	HP_RS05850-MONOMER_mod_mg2(4)
 ile__L_c	HP_RS07040-MONOMER_mod_zn2(2)
 leu__L_c	HP_RS07650-MONOMER
-lys__L_c	HP_RS00890-MONOMER
+lys__L_c	HP_RS00890-MONOMER_mod_mg2(6)
 met__L_c	HP_RS02065-MONOMER_mod_zn2(2)
 phe__L_c	CPLX2DNV-968_mod_mg2(1)
 pro__L_c	HP_RS01170-MONOMER
 ser__L_c	HP_RS07330-MONOMER_mod_mg2(1)
-thr__L_c	HP_RS00620-MONOMER_mod_zn2(1)
+thr__L_c	HP_RS00620-MONOMER
 trp__L_c	HP_RS06180-MONOMER_mod_mg2(1)
 tyr__L_c	HP_RS03770-MONOMER
 val__L_c	generic_val_ligase

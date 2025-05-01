@@ -1,5 +1,5 @@
 ,value
-rRNA_containing,"{'enzymes': ['generic_RNase', 'USA300HOU_RS06200-MONOMER_mod_mg2(2)']}"
-monocistronic,{'enzymes': ['generic_RNase']}
-polycistronic_wout_rRNA,"{'enzymes': ['generic_RNase', 'USA300HOU_RS06200-MONOMER']}"
-RNA_degradosome,"{'enzymes': ['USA300HOU_RS04205-MONOMER_mod_mg2(4)', 'USA300HOU_RS06420-MONOMER']}"
+rRNA_containing,"{'enzymes': ['USA300HOU_RS05430-MONOMER', 'USA300HOU_RS06200-MONOMER', 'USA300HOU_RS02515-MONOMER']}"
+monocistronic,"{'enzymes': ['USA300HOU_RS14720-MONOMER', 'USA300HOU_RS08040-MONOMER', 'generic_RNase']}"
+polycistronic_wout_rRNA,"{'enzymes': ['USA300HOU_RS14720-MONOMER', 'USA300HOU_RS08040-MONOMER', 'generic_RNase']}"
+RNA_degradosome,"{'enzymes': ['USA300HOU_RS06420-MONOMER', 'USA300HOU_RS06480-MONOMER', 'USA300HOU_RS09010-MONOMER', 'USA300HOU_RS04205-MONOMER']}"

@@ -1,7 +1,7 @@
 ,value
-fes_transfer,"{'enzymes': ['STM0204-MONOMER', 'STM2541-MONOMER', 'STM1369-MONOMER']}"
+fes_transfer,{'enzymes': ['STM2542-MONOMER']}
 fes_chaperones,{'enzymes': ['CPLX_dummy']}
-generic_2fe2s_transfer_complex,"{'enzymes': ['STM0204-MONOMER_mod_2fe2s(1)', 'STM1369-MONOMER_mod_2fe2s(1)', 'STM2541-MONOMER_mod_2fe2s(1)']}"
-generic_4fe4s_transfer_complex,"{'enzymes': ['STM0204-MONOMER_mod_4fe4s(1)', 'STM1369-MONOMER_mod_4fe4s(1)', 'STM2541-MONOMER_mod_4fe4s(1)']}"
-lipoate_modifications,"{'enzymes': ['STM4576-MONOMER'], 'stoich': 'lipoamp_c:-1,amp_c:1'}"
-bmocogdp_chaperones,"{'enzymes': ['STM3821-MONOMER', 'STM1495-MONOMER', 'STM1762-MONOMER', 'STM1579-MONOMER', 'STM2260-MONOMER']}"
+generic_2fe2s_transfer_complex,{'enzymes': ['STM2542-MONOMER_mod_2fe2s(1)']}
+generic_4fe4s_transfer_complex,{'enzymes': ['CPLX_dummy']}
+lipoate_modifications,{'enzymes': ['STM4576-MONOMER']}
+bmocogdp_chaperones,{'enzymes': ['CPLX_dummy']}

@@ -1,2 +1,2 @@
 ,value
-rna_degradosome,"{'enzymes': ['G12WB-3336-MONOMER_mod_mg2(4)', 'G12WB-1453-MONOMER']}"
+rna_degradosome,"{'enzymes': ['G12WB-1453-MONOMER', 'G12WB-1464-MONOMER', 'G12WB-3569-MONOMER', 'G12WB-3336-MONOMER']}"

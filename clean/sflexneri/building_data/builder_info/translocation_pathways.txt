@@ -1,10 +1,10 @@
 ,value
-sec,"{'enzymes': ['S4120-MONOMER', 'S0097-MONOMER']}"
-tat,{'enzymes': ['S3840-MONOMER']}
-tat_alt,{'enzymes': ['S0676-MONOMER']}
-bam,{'enzymes': ['S0052-MONOMER']}
-lol,"{'enzymes': ['S0891-MONOMER', 'S1296-MONOMER']}"
-yidC,{'enzymes': ['S4012-MONOMER']}
+bam,{'enzymes': ['CPLX_dummy']}
+lol,{'enzymes': ['CPLX_dummy']}
+sec,"{'enzymes': ['S0353-MONOMER', 'S0097-MONOMER']}"
 secA,{'enzymes': ['S0097-MONOMER']}
+srp,"{'enzymes': ['S4281-MONOMER', 'S0097-MONOMER']}"
 srp_yidC,{'enzymes': ['S4012-MONOMER']}
-srp,{'enzymes': ['S4281-MONOMER']}
+tat,{'enzymes': ['S3837-MONOMER']}
+tat_alt,{'enzymes': ['CPLX_dummy']}
+yidC,{'enzymes': ['S4012-MONOMER']}

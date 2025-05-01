@@ -1,2 +1,1 @@
 ,value
-G185E-8219-MONOMER,{}

@@ -1,4 +1,4 @@
 subreaction	enzyme
-RbfA_mono_assembly_factor_phase1	CPLX_dummy
+RbfA_mono_assembly_factor_phase1	G185E-7089-MONOMER
 RimM_mono_assembly_factor_phase1	G185E-7159-MONOMER
 gtp_bound_30S_assembly_factor_phase1	G185E-6590-MONOMER

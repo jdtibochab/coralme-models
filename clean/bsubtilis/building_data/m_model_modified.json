@@ -2861,6 +2861,7 @@
 "name":"Antimonite Sb",
 "compartment":"c",
 "charge":3,
+"formula":"Sb",
 "notes":{
 "original_bigg_ids":[
 "antim_c"
@@ -2872,6 +2873,7 @@
 "name":"Antimonite Sb",
 "compartment":"e",
 "charge":3,
+"formula":"Sb",
 "notes":{
 "original_bigg_ids":[
 "antim_e"
@@ -3039,6 +3041,7 @@
 "name":"ARSENOBETAINE C5H11AsO2",
 "compartment":"c",
 "charge":0,
+"formula":"C5H11AsO2",
 "notes":{
 "original_bigg_ids":[
 "arsenb_c"
@@ -3050,6 +3053,7 @@
 "name":"ARSENOBETAINE C5H11AsO2",
 "compartment":"e",
 "charge":0,
+"formula":"C5H11AsO2",
 "notes":{
 "original_bigg_ids":[
 "arsenb_e"
@@ -3061,6 +3065,7 @@
 "name":"Arsenate AsHO4",
 "compartment":"c",
 "charge":-2,
+"formula":"AsHO4",
 "notes":{
 "original_bigg_ids":[
 "arsna_c"
@@ -3072,6 +3077,7 @@
 "name":"Arsenate AsHO4",
 "compartment":"e",
 "charge":-2,
+"formula":"AsHO4",
 "notes":{
 "original_bigg_ids":[
 "arsna_e"
@@ -3083,6 +3089,7 @@
 "name":"Arsenite AsH3O3",
 "compartment":"c",
 "charge":0,
+"formula":"AsH3O3",
 "notes":{
 "original_bigg_ids":[
 "arsni2_c"
@@ -3094,6 +3101,7 @@
 "name":"Arsenite AsH3O3",
 "compartment":"e",
 "charge":0,
+"formula":"AsH3O3",
 "notes":{
 "original_bigg_ids":[
 "arsni2_e"
@@ -3369,6 +3377,7 @@
 "name":"Cob II alamin C62H88CoN13O14P",
 "compartment":"c",
 "charge":0,
+"formula":"C62H88CoN13O14P",
 "notes":{
 "original_bigg_ids":[
 "cbl2_c"
@@ -3380,6 +3389,7 @@
 "name":"Cob II alamin C62H88CoN13O14P",
 "compartment":"e",
 "charge":0,
+"formula":"C62H88CoN13O14P",
 "notes":{
 "original_bigg_ids":[
 "cbl2_e"
@@ -3799,6 +3809,7 @@
 "name":"Chromate",
 "compartment":"c",
 "charge":-2,
+"formula":"CrO4",
 "notes":{
 "original_bigg_ids":[
 "cro4_c"
@@ -3810,6 +3821,7 @@
 "name":"Chromate",
 "compartment":"e",
 "charge":-2,
+"formula":"CrO4",
 "notes":{
 "original_bigg_ids":[
 "cro4_e"
@@ -5190,6 +5202,7 @@
 "name":"Ferrichrome C24H38FeN9O11",
 "compartment":"c",
 "charge":0,
+"formula":"C24H38FeN9O11",
 "notes":{
 "original_bigg_ids":[
 "ferrich_c"
@@ -5201,6 +5214,7 @@
 "name":"Ferrichrome C24H38FeN9O11",
 "compartment":"e",
 "charge":0,
+"formula":"C24H38FeN9O11",
 "notes":{
 "original_bigg_ids":[
 "ferrich_e"
@@ -5212,6 +5226,7 @@
 "name":"Ferroxamine C25H46FeN6O8",
 "compartment":"c",
 "charge":4,
+"formula":"C25H46FeN6O8",
 "notes":{
 "original_bigg_ids":[
 "ferxa_c"
@@ -5223,6 +5238,7 @@
 "name":"Ferroxamine C25H46FeN6O8",
 "compartment":"e",
 "charge":4,
+"formula":"C25H46FeN6O8",
 "notes":{
 "original_bigg_ids":[
 "ferxa_e"
@@ -5246,6 +5262,7 @@
 "name":"Ferricytochrome c C42H50FeN8O6S2",
 "compartment":"c",
 "charge":3,
+"formula":"C42H50FeN8O6S2",
 "notes":{
 "original_bigg_ids":[
 "ficytcc_c"
@@ -5305,6 +5322,7 @@
 "name":"Ferrocytochrome c C42H50FeN8O6S2",
 "compartment":"c",
 "charge":2,
+"formula":"C42H50FeN8O6S2",
 "notes":{
 "original_bigg_ids":[
 "focytcc_c"
@@ -6840,6 +6858,7 @@
 "name":"Heme A C49H55FeN4O6",
 "compartment":"c",
 "charge":-6,
+"formula":"C49H54FeN4O6",
 "notes":{
 "original_bigg_ids":[
 "hemeA_c"
@@ -6851,6 +6870,7 @@
 "name":"Heme C C40H42FeN6O8S2",
 "compartment":"c",
 "charge":-4,
+"formula":"C40H42FeN6O8S2",
 "notes":{
 "original_bigg_ids":[
 "hemeC_c"
@@ -6862,6 +6882,7 @@
 "name":"Heme D C34H30FeN4O6",
 "compartment":"c",
 "charge":-6,
+"formula":"C34H30FeN4O6",
 "notes":{
 "original_bigg_ids":[
 "hemeD_c"
@@ -9201,7 +9222,7 @@
 "name":"Protoheme C34H30FeN4O4",
 "compartment":"c",
 "charge":-1,
-"formula":"C34H30FeN4O4",
+"formula":"C34H31FeN4O4",
 "notes":{
 "original_bigg_ids":[
 "pheme_c"

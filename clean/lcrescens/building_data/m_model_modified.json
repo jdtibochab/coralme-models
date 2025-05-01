@@ -5271,8 +5271,7 @@
 {
 "id":"btn_e",
 "name":"btn_e",
-"compartment":"e",
-"formula":"C10H15N2O3S"
+"compartment":"e"
 },
 {
 "id":"ins_e",
@@ -5300,13 +5299,13 @@
 {
 "id":"ribflv_e",
 "name":"ribflv_e",
-"compartment":"e"
+"compartment":"e",
+"formula":"C17H20N4O6"
 },
 {
 "id":"thm_e",
 "name":"thm_e",
-"compartment":"e",
-"formula":"C12H17N4OS"
+"compartment":"e"
 },
 {
 "id":"thm_c",

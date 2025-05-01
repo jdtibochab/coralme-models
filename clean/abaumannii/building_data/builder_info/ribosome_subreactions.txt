@@ -1,4 +1,4 @@
 ,value
 gtp_bound_30S_assembly_factor_phase1,{'enzyme': 'ABAYE_RS05220-MONOMER'}
 RbfA_mono_assembly_factor_phase1,{'enzyme': 'ABAYE_RS17085-MONOMER'}
-RimM_mono_assembly_factor_phase1,{'enzyme': 'ABAYE_RS02140-MONOMER'}
+RimM_mono_assembly_factor_phase1,{'enzyme': 'CPLX_dummy'}

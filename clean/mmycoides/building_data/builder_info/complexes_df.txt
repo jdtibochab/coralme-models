@@ -15,7 +15,7 @@ JCVISYN3A_0918-MONOMER,Imidazoleglycerol-phosphate dehydratase,JCVISYN3A_0918(2)
 JCVISYN3A_0913-MONOMER,Tetracycline resistance ribosomal protection protein,JCVISYN3A_0913(),GenBank
 JCVISYN3A_0025-MONOMER,30S ribosomal protein S18,JCVISYN3A_0025(1),GenBank
 JCVISYN3A_0026-MONOMER,Single-stranded DNA-binding protein,JCVISYN3A_0026(),GenBank
-JCVISYN3A_0027-MONOMER,30S ribosomal protein S6,JCVISYN3A_0027(),GenBank
+JCVISYN3A_0027-MONOMER,30S ribosomal protein S6,JCVISYN3A_0027(1),GenBank
 JCVISYN3A_0029-MONOMER,Uncharacterized FMN-dependent NADH-azoreductase,JCVISYN3A_0029(),GenBank
 JCVISYN3A_0030-MONOMER,Uncharacterized ABC transporter ATP-binding protein,JCVISYN3A_0030(),GenBank
 JCVISYN3A_0033-MONOMER,Uncharacterized protein,JCVISYN3A_0033(),GenBank
@@ -41,7 +41,7 @@ JCVISYN3A_0077-MONOMER,Uncharacterized hydrolase,JCVISYN3A_0077(),GenBank
 JCVISYN3A_0079-MONOMER,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit D,JCVISYN3A_0079(),GenBank
 JCVISYN3A_0080-MONOMER,Uncharacterized protein,JCVISYN3A_0080(),GenBank
 JCVISYN3A_0081-MONOMER,tRNA uridine(34) 5-carboxymethylaminomethyl synthesis GTPase,JCVISYN3A_0081(2),GenBank
-JCVISYN3A_0082-MONOMER,30S ribosomal protein S20,JCVISYN3A_0082(),GenBank
+JCVISYN3A_0082-MONOMER,30S ribosomal protein S20,JCVISYN3A_0082(1),GenBank
 JCVISYN3A_0094-MONOMER,Uncharacterized protein,JCVISYN3A_0094(),GenBank
 JCVISYN3A_0095-MONOMER,Preprotein translocase subunit A,JCVISYN3A_0095(1),GenBank
 JCVISYN3A_0097-MONOMER,Uncharacterized 5'-3' exonuclease,JCVISYN3A_0097(),GenBank
@@ -62,7 +62,7 @@ JCVISYN3A_0129-MONOMER,CTP synthase,JCVISYN3A_0129(4),GenBank
 JCVISYN3A_0131-MONOMER,"Fructose-1,6-bisphosphate aldolase",JCVISYN3A_0131(),GenBank
 JCVISYN3A_0132-MONOMER,Toxin-antitoxin AAA ATPase,JCVISYN3A_0132(),GenBank
 JCVISYN3A_0133-MONOMER,Toxin-antitoxin serine protease,JCVISYN3A_0133(),GenBank
-JCVISYN3A_0137-MONOMER,50S ribosomal protein L31,JCVISYN3A_0137(),GenBank
+JCVISYN3A_0137-MONOMER,50S ribosomal protein L31,JCVISYN3A_0137(1),GenBank
 JCVISYN3A_0138-MONOMER,Uncharacterized protein,JCVISYN3A_0138(),GenBank
 JCVISYN3A_0139-MONOMER,NanoRNAse,JCVISYN3A_0139(),GenBank
 JCVISYN3A_0140-MONOMER,Thymidine kinase,JCVISYN3A_0140(1),GenBank
@@ -72,7 +72,7 @@ JCVISYN3A_0143-MONOMER,Uncharacterized protein,JCVISYN3A_0143(),GenBank
 JCVISYN3A_0144-MONOMER,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit,JCVISYN3A_0144(),GenBank
 JCVISYN3A_0145-MONOMER,Uncharacterized acetyltransferase,JCVISYN3A_0145(),GenBank
 JCVISYN3A_0146-MONOMER,Uncharacterized protein,JCVISYN3A_0146(),GenBank
-JCVISYN3A_0147-MONOMER,Cardiolipin synthase,JCVISYN3A_0147(1),GenBank
+JCVISYN3A_0147-MONOMER,Cardiolipin synthase,JCVISYN3A_0147(),GenBank
 JCVISYN3A_0148-MONOMER,30S ribosomal protein S12,JCVISYN3A_0148(1),GenBank
 JCVISYN3A_0149-MONOMER,30S ribosomal protein S7,JCVISYN3A_0149(1),GenBank
 JCVISYN3A_0150-MONOMER,Translation elongation factor G,JCVISYN3A_0150(1),GenBank
@@ -88,9 +88,9 @@ JCVISYN3A_0195-MONOMER,Spermidine/putrescine ABC transporter permease,JCVISYN3A_
 JCVISYN3A_0196-MONOMER,Spermidine/putrescine ABC transporter permease,JCVISYN3A_0196(),GenBank
 JCVISYN3A_0197-MONOMER,Spermidine/putrescine ABC transporter ATP-binding protein,JCVISYN3A_0197(),GenBank
 JCVISYN3A_0198-MONOMER,50S ribosomal protein L20,JCVISYN3A_0198(1),GenBank
-JCVISYN3A_0199-MONOMER,50S ribosomal protein L35,JCVISYN3A_0199(),GenBank
+JCVISYN3A_0199-MONOMER,50S ribosomal protein L35,JCVISYN3A_0199(1),GenBank
 JCVISYN3A_0200-MONOMER,Translation initiation factor IF-3,JCVISYN3A_0200(1),GenBank
-JCVISYN3A_0201-MONOMER,Peptide deformylase,JCVISYN3A_0201(1),GenBank
+JCVISYN3A_0201-MONOMER,Peptide deformylase,JCVISYN3A_0201(),GenBank
 JCVISYN3A_0202-MONOMER,16S rRNA (guanine(966)-N(2))-methyltransferase,JCVISYN3A_0202(),GenBank
 JCVISYN3A_0203-MONOMER,Guanylate kinase,JCVISYN3A_0203(2),GenBank
 JCVISYN3A_0213-MONOMER,Phosphopyruvate hydratase,JCVISYN3A_0213(2),GenBank
@@ -100,10 +100,10 @@ JCVISYN3A_0216-MONOMER,Hypoxanthine phosphoribosyltransferase,JCVISYN3A_0216(4),
 JCVISYN3A_0218-MONOMER,Glycerol kinase,JCVISYN3A_0218(4),GenBank
 JCVISYN3A_0220-MONOMER,6-Phosphofructokinase,JCVISYN3A_0220(4),GenBank
 JCVISYN3A_0221-MONOMER,Pyruvate kinase,JCVISYN3A_0221(4),GenBank
-JCVISYN3A_0222-MONOMER,Threonine--tRNA ligase,JCVISYN3A_0222(2),GenBank
+JCVISYN3A_0222-MONOMER,Threonine--tRNA ligase,JCVISYN3A_0222(),GenBank
 JCVISYN3A_0227-MONOMER,Branched-chain alpha-keto acid dehydrogenase subunit E2,JCVISYN3A_0227(),GenBank
 JCVISYN3A_0228-MONOMER,Dihydrolipoyl dehydrogenase,JCVISYN3A_0228(),GenBank
-JCVISYN3A_0229-MONOMER,Phosphate acetyltransferase,JCVISYN3A_0229(6),GenBank
+JCVISYN3A_0229-MONOMER,Phosphate acetyltransferase,JCVISYN3A_0229(2),GenBank
 JCVISYN3A_0230-MONOMER,Acetate kinase,JCVISYN3A_0230(1),GenBank
 JCVISYN3A_0233-MONOMER,Phosphoenolpyruvate--protein phosphotransferase,JCVISYN3A_0233(1),GenBank
 JCVISYN3A_0234-MONOMER,PTS glucose transporter subunit IIA,JCVISYN3A_0234(),GenBank
@@ -118,7 +118,7 @@ JCVISYN3A_0250-MONOMER,Uncharacterized protein,JCVISYN3A_0250(),GenBank
 JCVISYN3A_0253-MONOMER,Transcription elongation factor,JCVISYN3A_0253(1),GenBank
 JCVISYN3A_0254-MONOMER,Excinuclease ABC subunit C,JCVISYN3A_0254(),GenBank
 JCVISYN3A_0257-MONOMER,RNase J family beta-CASP ribonuclease,JCVISYN3A_0257(),GenBank
-JCVISYN3A_0259-MONOMER,NAD(+) kinase,JCVISYN3A_0259(),GenBank
+JCVISYN3A_0259-MONOMER,NAD(+) kinase,JCVISYN3A_0259(6),GenBank
 JCVISYN3A_0260-MONOMER,Valine--tRNA ligase,JCVISYN3A_0260(1),GenBank
 JCVISYN3A_0262-MONOMER,Ribulose-phosphate 3-epimerase,JCVISYN3A_0262(1),GenBank
 JCVISYN3A_0263-MONOMER,Ribosome small subunit-dependent GTPase A,JCVISYN3A_0263(1),GenBank
@@ -142,7 +142,7 @@ JCVISYN3A_0298-MONOMER,Uncharacterized L7Ae family protein,JCVISYN3A_0298(),GenB
 JCVISYN3A_0299-MONOMER,Uncharacterized protein,JCVISYN3A_0299(),GenBank
 JCVISYN3A_0300-MONOMER,Transcription termination/antitermination protein NusA,JCVISYN3A_0300(1),GenBank
 JCVISYN3A_0301-MONOMER,Ribosome assembly cofactor,JCVISYN3A_0301(),GenBank
-JCVISYN3A_0302-MONOMER,Flavin reductase,JCVISYN3A_0302(),GenBank
+JCVISYN3A_0302-MONOMER,Flavin reductase,JCVISYN3A_0302(2),GenBank
 JCVISYN3A_0303-MONOMER,PolC-type DNA polymerase III,JCVISYN3A_0303(),GenBank
 JCVISYN3A_0304-MONOMER,Phosphatidate cytidylyltransferase,JCVISYN3A_0304(1),GenBank
 JCVISYN3A_0305-MONOMER,Uncharacterized metallopeptidase,JCVISYN3A_0305(),GenBank
@@ -159,7 +159,7 @@ JCVISYN3A_0329-MONOMER,Uncharacterized pseudouridine synthase,JCVISYN3A_0329(1),
 JCVISYN3A_0330-MONOMER,Deoxyguanosine kinase,JCVISYN3A_0330(),GenBank
 JCVISYN3A_0332-MONOMER,Uncharacterized protein,JCVISYN3A_0332(),GenBank
 JCVISYN3A_0338-MONOMER,Uncharacterized lipoprotein,JCVISYN3A_0338(),GenBank
-JCVISYN3A_0344-MONOMER,Inorganic diphosphatase,JCVISYN3A_0344(6),GenBank
+JCVISYN3A_0344-MONOMER,Inorganic diphosphatase,JCVISYN3A_0344(),GenBank
 JCVISYN3A_0345-MONOMER,Uncharacterized ECF transporter S component,JCVISYN3A_0345(),GenBank
 JCVISYN3A_0346-MONOMER,Uncharacterized protein,JCVISYN3A_0346(),GenBank
 JCVISYN3A_0347-MONOMER,Cytidylate kinase,JCVISYN3A_0347(1),GenBank
@@ -175,7 +175,7 @@ JCVISYN3A_0363-MONOMER,16S rRNA processing protein,JCVISYN3A_0363(),GenBank
 JCVISYN3A_0364-MONOMER,tRNA (guanosine(37)-N1)-methyltransferase,JCVISYN3A_0364(2),GenBank
 JCVISYN3A_0365-MONOMER,50S ribosomal protein L19,JCVISYN3A_0365(1),GenBank
 JCVISYN3A_0366-MONOMER,L16-binding dependent 50S subunit-maturation GTPase,JCVISYN3A_0366(),GenBank
-JCVISYN3A_0371-MONOMER,Flippase A,JCVISYN3A_0371(2),GenBank
+JCVISYN3A_0371-MONOMER,Flippase A,JCVISYN3A_0371(),GenBank
 JCVISYN3A_0372-MONOMER,Flippase B,JCVISYN3A_0372(),GenBank
 JCVISYN3A_0373-MONOMER,Uncharacterized protein,JCVISYN3A_0373(),GenBank
 JCVISYN3A_0375-MONOMER,Uncharacterized protein,JCVISYN3A_0375(),GenBank
@@ -183,7 +183,7 @@ JCVISYN3A_0376-MONOMER,Uncharacterized protein,JCVISYN3A_0376(),GenBank
 JCVISYN3A_0377-MONOMER,Ribosome GTPase,JCVISYN3A_0377(),GenBank
 JCVISYN3A_0378-MONOMER,NAD(+) synthase,JCVISYN3A_0378(2),GenBank
 JCVISYN3A_0379-MONOMER,Uncharacterized protein,JCVISYN3A_0379(),GenBank
-JCVISYN3A_0380-MONOMER,Nicotinate (nicotinamide) nucleotide adenylyltransferase,JCVISYN3A_0380(1),GenBank
+JCVISYN3A_0380-MONOMER,Nicotinate (nicotinamide) nucleotide adenylyltransferase,JCVISYN3A_0380(),GenBank
 JCVISYN3A_0381-MONOMER,5'-Methylthioadenosine nucleosidase,JCVISYN3A_0381(2),GenBank
 JCVISYN3A_0382-MONOMER,Deoxynucleoside kinase,JCVISYN3A_0382(),GenBank
 JCVISYN3A_0387-MONOMER,tRNA 2-thiouridine(34) synthase,JCVISYN3A_0387(1),GenBank
@@ -234,24 +234,24 @@ JCVISYN3A_0438-MONOMER,Uncharacterized protein,JCVISYN3A_0438(),GenBank
 JCVISYN3A_0439-MONOMER,Uncharacterized lipoprotein,JCVISYN3A_0439(),GenBank
 JCVISYN3A_0440-MONOMER,Uncharacterized lipoprotein,JCVISYN3A_0440(),GenBank
 JCVISYN3A_0441-MONOMER,Cysteine desulfurase,JCVISYN3A_0441(),GenBank
-JCVISYN3A_0442-MONOMER,Iron-sulfur cluster assembly scaffold protein,JCVISYN3A_0442(),GenBank
-JCVISYN3A_0443-MONOMER,5-Formyltetrahydrofolate cyclo-ligase,JCVISYN3A_0443(1),GenBank
+JCVISYN3A_0442-MONOMER,Iron-sulfur cluster assembly scaffold protein,JCVISYN3A_0442(2),GenBank
+JCVISYN3A_0443-MONOMER,5-Formyltetrahydrofolate cyclo-ligase,JCVISYN3A_0443(),GenBank
 JCVISYN3A_0444-MONOMER,Uncharacterized peptidase,JCVISYN3A_0444(),GenBank
-JCVISYN3A_0445-MONOMER,Glucose-6-phosphate isomerase,JCVISYN3A_0445(),GenBank
+JCVISYN3A_0445-MONOMER,Glucose-6-phosphate isomerase,JCVISYN3A_0445(2),GenBank
 JCVISYN3A_0447-MONOMER,dUTP diphosphatase,JCVISYN3A_0447(),GenBank
 JCVISYN3A_0448-MONOMER,Uncharacterized rRNA methyltransferase,JCVISYN3A_0448(),GenBank
 JCVISYN3A_0451-MONOMER,Glyceraldehyde-3-phosphate dehydrogenase,JCVISYN3A_0451(4),GenBank
 JCVISYN3A_0452-MONOMER,DNA topoisomerase IV subunit B,JCVISYN3A_0452(),GenBank
 JCVISYN3A_0453-MONOMER,DNA topoisomerase IV subunit A,JCVISYN3A_0453(),GenBank
-JCVISYN3A_0475-MONOMER,L-lactate dehydrogenase,JCVISYN3A_0475(2),GenBank
+JCVISYN3A_0475-MONOMER,L-lactate dehydrogenase,JCVISYN3A_0475(),GenBank
 JCVISYN3A_0478-MONOMER,Uncharacterized protein,JCVISYN3A_0478(),GenBank
 JCVISYN3A_0479-MONOMER,Uncharacterized peptidase,JCVISYN3A_0479(),GenBank
 JCVISYN3A_0481-MONOMER,Uncharacterized lipoprotein,JCVISYN3A_0481(),GenBank
 JCVISYN3A_0482-MONOMER,30S ribosomal protein S21,JCVISYN3A_0482(),GenBank
 JCVISYN3A_0154-MONOMER,Uncharacterized peptidase,JCVISYN3A_0154(6),GenBank
-JCVISYN3A_0493-MONOMER,Uncharacterized peptidase,JCVISYN3A_0493(4),GenBank
-JCVISYN3A_0494-MONOMER,N-acetylmannosamine-6-phosphate 2-epimerase,JCVISYN3A_0494(1),GenBank
-JCVISYN3A_0495-MONOMER,Uncharacterized kinase,JCVISYN3A_0495(1),GenBank
+JCVISYN3A_0493-MONOMER,Uncharacterized peptidase,JCVISYN3A_0493(),GenBank
+JCVISYN3A_0494-MONOMER,N-acetylmannosamine-6-phosphate 2-epimerase,JCVISYN3A_0494(),GenBank
+JCVISYN3A_0495-MONOMER,Uncharacterized kinase,JCVISYN3A_0495(),GenBank
 JCVISYN3A_0499-MONOMER,50S ribosomal protein L27,JCVISYN3A_0499(1),GenBank
 JCVISYN3A_0500-MONOMER,Maturation protease for ribosomal protein L27,JCVISYN3A_0500(),GenBank
 JCVISYN3A_0501-MONOMER,50S ribosomal protein L21,JCVISYN3A_0501(1),GenBank
@@ -261,7 +261,7 @@ JCVISYN3A_0930-MONOMER,50S ribosomal protein L33,JCVISYN3A_0930(),GenBank
 JCVISYN3A_0505-MONOMER,Uncharacterized lipoprotein,JCVISYN3A_0505(),GenBank
 JCVISYN3A_0511-MONOMER,Uncharacterized protein,JCVISYN3A_0511(),GenBank
 JCVISYN3A_0512-MONOMER,Acyl-phosphate glycerol 3-phosphate acyltransferase,JCVISYN3A_0512(),GenBank
-JCVISYN3A_0513-MONOMER,ACP synthase,JCVISYN3A_0513(),GenBank
+JCVISYN3A_0513-MONOMER,ACP synthase,JCVISYN3A_0513(2),GenBank
 JCVISYN3A_0515-MONOMER,Cytidine deaminase,JCVISYN3A_0515(),GenBank
 JCVISYN3A_0516-MONOMER,Uncharacterized protein,JCVISYN3A_0516(),GenBank
 JCVISYN3A_0517-MONOMER,Uncharacterized RNA pseudouridine synthase,JCVISYN3A_0517(1),GenBank
@@ -286,7 +286,7 @@ JCVISYN3A_0539-MONOMER,Translation elongation factor Ts,JCVISYN3A_0539(1),GenBan
 JCVISYN3A_0540-MONOMER,30S ribosomal protein S2,JCVISYN3A_0540(1),GenBank
 JCVISYN3A_0541-MONOMER,Molecular chaperone,JCVISYN3A_0541(2),GenBank
 JCVISYN3A_0542-MONOMER,Molecular chaperone,JCVISYN3A_0542(1),GenBank
-JCVISYN3A_0543-MONOMER,Nucleotide exchange factor,JCVISYN3A_0543(),GenBank
+JCVISYN3A_0543-MONOMER,Nucleotide exchange factor,JCVISYN3A_0543(2),GenBank
 JCVISYN3A_0544-MONOMER,Heat-inducible transcription repressor,JCVISYN3A_0544(),GenBank
 JCVISYN3A_0545-MONOMER,ATP-dependent Clp protease subunit B,JCVISYN3A_0545(),GenBank
 JCVISYN3A_0546-MONOMER,JCVISYN3A_0546,JCVISYN3A_0546(),GenBank
@@ -340,9 +340,9 @@ JCVISYN3A_0654-MONOMER,30S ribosomal protein S5,JCVISYN3A_0654(1),GenBank
 JCVISYN3A_0655-MONOMER,50S ribosomal protein L18,JCVISYN3A_0655(1),GenBank
 JCVISYN3A_0656-MONOMER,50S ribosomal protein L6,JCVISYN3A_0656(1),GenBank
 JCVISYN3A_0657-MONOMER,30S ribosomal protein S8,JCVISYN3A_0657(1),GenBank
-JCVISYN3A_0658-MONOMER,30S ribosomal protein S14,JCVISYN3A_0658(1),GenBank
+JCVISYN3A_0658-MONOMER,30S ribosomal protein S14,JCVISYN3A_0658(),GenBank
 JCVISYN3A_0659-MONOMER,50S ribosomal protein L5,JCVISYN3A_0659(1),GenBank
-JCVISYN3A_0660-MONOMER,50S ribosomal protein L24,JCVISYN3A_0660(),GenBank
+JCVISYN3A_0660-MONOMER,50S ribosomal protein L24,JCVISYN3A_0660(1),GenBank
 JCVISYN3A_0661-MONOMER,50S ribosomal protein L14,JCVISYN3A_0661(1),GenBank
 JCVISYN3A_0662-MONOMER,30S ribosomal protein S17,JCVISYN3A_0662(1),GenBank
 JCVISYN3A_0663-MONOMER,50S ribosomal protein L29,JCVISYN3A_0663(),GenBank
@@ -351,7 +351,7 @@ JCVISYN3A_0665-MONOMER,30S ribosomal protein S3,JCVISYN3A_0665(1),GenBank
 JCVISYN3A_0666-MONOMER,50S ribosomal protein L22,JCVISYN3A_0666(1),GenBank
 JCVISYN3A_0667-MONOMER,30S ribosomal protein S19,JCVISYN3A_0667(1),GenBank
 JCVISYN3A_0668-MONOMER,50S ribosomal protein L2,JCVISYN3A_0668(1),GenBank
-JCVISYN3A_0669-MONOMER,50S ribosomal protein L23,JCVISYN3A_0669(1),GenBank
+JCVISYN3A_0669-MONOMER,50S ribosomal protein L23,JCVISYN3A_0669(),GenBank
 JCVISYN3A_0670-MONOMER,50S ribosomal protein L4,JCVISYN3A_0670(1),GenBank
 JCVISYN3A_0671-MONOMER,50S ribosomal protein L3,JCVISYN3A_0671(1),GenBank
 JCVISYN3A_0672-MONOMER,30S ribosomal protein S10,JCVISYN3A_0672(1),GenBank
@@ -373,7 +373,7 @@ JCVISYN3A_0706-MONOMER,Thiamine ABC transporter permease,JCVISYN3A_0706(),GenBan
 JCVISYN3A_0707-MONOMER,Thiamine ABC transporter ATP-binding protein,JCVISYN3A_0707(),GenBank
 JCVISYN3A_0708-MONOMER,Thiamine ABC transporter substrate-binding protein,JCVISYN3A_0708(),GenBank
 JCVISYN3A_0710-MONOMER,Uncharacterized hydrolase,JCVISYN3A_0710(),GenBank
-JCVISYN3A_0726-MONOMER,Glucosamine-6-phosphate deaminase,JCVISYN3A_0726(6),GenBank
+JCVISYN3A_0726-MONOMER,Glucosamine-6-phosphate deaminase,JCVISYN3A_0726(),GenBank
 JCVISYN3A_0727-MONOMER,Triose-phosphate isomerase,JCVISYN3A_0727(2),GenBank
 JCVISYN3A_0728-MONOMER,Uncharacterized hydrolase,JCVISYN3A_0728(),GenBank
 JCVISYN3A_0729-MONOMER,"Phosphoglycerate mutase (2,3-diphosphoglycerate-independent)",JCVISYN3A_0729(1),GenBank
@@ -411,9 +411,9 @@ JCVISYN3A_0807-MONOMER,50S ribosomal protein L10,JCVISYN3A_0807(1),GenBank
 JCVISYN3A_0809-MONOMER,50S ribosomal protein L1,JCVISYN3A_0809(1),GenBank
 JCVISYN3A_0810-MONOMER,50S ribosomal protein L11,JCVISYN3A_0810(1),GenBank
 JCVISYN3A_0813-MONOMER,UDP-glucose 4-epimerase GalE,JCVISYN3A_0813(2),GenBank
-JCVISYN3A_0814-MONOMER,UDP-galactopyranose mutase,JCVISYN3A_0814(1),GenBank
+JCVISYN3A_0814-MONOMER,UDP-galactopyranose mutase,JCVISYN3A_0814(),GenBank
 JCVISYN3A_0817-MONOMER,Uncharacterized DNA-binding protein,JCVISYN3A_0817(),GenBank
-JCVISYN3A_0818-MONOMER,Diacylglyceryl transferase,JCVISYN3A_0818(),GenBank
+JCVISYN3A_0818-MONOMER,Diacylglyceryl transferase,JCVISYN3A_0818(1),GenBank
 JCVISYN3A_0819-MONOMER,Thioredoxin-disulfide reductase,JCVISYN3A_0819(),GenBank
 JCVISYN3A_0820-MONOMER,Diacylglyceryl transferase,JCVISYN3A_0820(),GenBank
 JCVISYN3A_0821-MONOMER,HPr(Ser) kinase/phosphatase,JCVISYN3A_0821(),GenBank
@@ -426,7 +426,7 @@ JCVISYN3A_0827-MONOMER,Uncharacterized protein,JCVISYN3A_0827(),GenBank
 JCVISYN3A_0830-MONOMER,Uncharacterized protein,JCVISYN3A_0830(),GenBank
 JCVISYN3A_0831-MONOMER,Phosphoribosylpyrophosphate synthetase,JCVISYN3A_0831(1),GenBank
 JCVISYN3A_0832-MONOMER,Aminoacyl-tRNA hydrolase,JCVISYN3A_0832(),GenBank
-JCVISYN3A_0833-MONOMER,50S ribosomal protein L9,JCVISYN3A_0833(),GenBank
+JCVISYN3A_0833-MONOMER,50S ribosomal protein L9,JCVISYN3A_0833(1),GenBank
 JCVISYN3A_0834-MONOMER,Replicative DNA helicase,JCVISYN3A_0834(),GenBank
 JCVISYN3A_0835-MONOMER,Uncharacterized lipoprotein,JCVISYN3A_0835(),GenBank
 JCVISYN3A_0836-MONOMER,Uncharacterized ECF transporter S component,JCVISYN3A_0836(),GenBank
@@ -451,12 +451,12 @@ JCVISYN3A_0879-MONOMER,Magnesium transporter,JCVISYN3A_0879(),GenBank
 JCVISYN3A_0881-MONOMER,Uncharacterized MFS transporter,JCVISYN3A_0881(),GenBank
 JCVISYN3A_0885-MONOMER,tRNA uridine(34) 5-carboxymethylaminomethyl synthesis enzyme,JCVISYN3A_0885(2),GenBank
 JCVISYN3A_0886-MONOMER,Proton-glutamate symporter,JCVISYN3A_0886(),GenBank
-JCVISYN3A_0887-MONOMER,Coenzyme A Disulfide Reductase,JCVISYN3A_0887(1),GenBank
+JCVISYN3A_0887-MONOMER,Coenzyme A Disulfide Reductase,JCVISYN3A_0887(),GenBank
 JCVISYN3A_0906-MONOMER,Uncharacterized protein,JCVISYN3A_0906(),GenBank
 JCVISYN3A_0907-MONOMER,Uncharacterized hydrolase,JCVISYN3A_0907(),GenBank
 JCVISYN3A_0908-MONOMER,Membrane protein insertase,JCVISYN3A_0908(),GenBank
 JCVISYN3A_0909-MONOMER,Ribonuclease P protein component,JCVISYN3A_0909(),GenBank
-JCVISYN3A_0910-MONOMER,50S ribosomal protein L34,JCVISYN3A_0910(1),GenBank
+JCVISYN3A_0910-MONOMER,50S ribosomal protein L34,JCVISYN3A_0910(),GenBank
 RNAP-CPLX,DNA-directed RNA polymerase,JCVISYN3A_0128() AND JCVISYN3A_0645() AND JCVISYN3A_0803() AND JCVISYN3A_0804(),GenBank
 CPLX-tRNA-PHE-LIGASE,tRNA-Phe ligase,JCVISYN3A_0528(2) AND JCVISYN3A_0529(2),Inferred from subunits
 CPLX_RNDR1-0,RNDR1,JCVISYN3A_0771() AND JCVISYN3A_0772() AND JCVISYN3A_0773(),MMSYN(RNDR1)
@@ -478,6 +478,6 @@ CPLX_COAabc-0,COAabc,JCVISYN3A_0641() AND JCVISYN3A_0642() AND JCVISYN3A_0643() 
 CPLX_THMPPabc-0,THMPPabc,JCVISYN3A_0706() AND JCVISYN3A_0707() AND JCVISYN3A_0708(),MMSYN(THMPPabc)
 CPLX_SPRMabc-0,SPRMabc,JCVISYN3A_0195() AND JCVISYN3A_0196() AND JCVISYN3A_0197(),MMSYN(SPRMabc)
 CPLX_CYTDabc-0,CYTDabc,JCVISYN3A_0008() AND JCVISYN3A_0009() AND JCVISYN3A_0010() AND JCVISYN3A_0011(),MMSYN(CYTDabc)
-CPLX_Kt6-0,Kt6,JCVISYN3A_0685() AND JCVISYN3A_0686(),MMSYN(Kt6)
+CPLX_Kt6-0,Kt6,JCVISYN3A_0686() AND JCVISYN3A_0685(),MMSYN(Kt6)
 CPLX_PIabc-0,PIabc,JCVISYN3A_0425() AND JCVISYN3A_0426() AND JCVISYN3A_0427(),MMSYN(PIabc)
 CPLX_ARG4abc-0,ARG4abc,JCVISYN3A_0165() AND JCVISYN3A_0166() AND JCVISYN3A_0167() AND JCVISYN3A_0168() AND JCVISYN3A_0169(),MMSYN(ARG4abc)

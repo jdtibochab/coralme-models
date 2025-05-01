@@ -1,5 +1,5 @@
 ,value
-rRNA_containing,"{'enzymes': ['generic_RNase', 'CLJU_RS06290-MONOMER_mod_mg2(2)', 'CLJU_RS03620-MONOMER']}"
-monocistronic,{'enzymes': ['generic_RNase']}
-polycistronic_wout_rRNA,"{'enzymes': ['generic_RNase', 'CLJU_RS06290-MONOMER', 'CLJU_RS03620-MONOMER']}"
-RNA_degradosome,"{'enzymes': ['CLJU_RS19255-MONOMER_mod_mg2(4)', 'CLJU_RS06485-MONOMER']}"
+rRNA_containing,"{'enzymes': ['CLJU_RS05985-MONOMER', 'CLJU_RS06290-MONOMER', 'CLJU_RS00855-MONOMER']}"
+monocistronic,"{'enzymes': ['CLJU_RS21165-MONOMER', 'CLJU_RS13130-MONOMER', 'generic_RNase']}"
+polycistronic_wout_rRNA,"{'enzymes': ['CLJU_RS21165-MONOMER', 'CLJU_RS13130-MONOMER', 'generic_RNase']}"
+RNA_degradosome,"{'enzymes': ['CLJU_RS06485-MONOMER', 'CLJU_RS06525-MONOMER', 'CLJU_RS01590-MONOMER', 'CLJU_RS19255-MONOMER']}"

@@ -12184,8 +12184,7 @@
 "id":"tre_c",
 "name":"tre[c]",
 "compartment":"c",
-"charge":0,
-"formula":"C12H22O11"
+"charge":0
 }
 ],
 "reactions":[

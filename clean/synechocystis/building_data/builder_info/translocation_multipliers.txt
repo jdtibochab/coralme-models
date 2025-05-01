@@ -1,2 +1,1 @@
 ,value
-SGL_RS10510-MONOMER,{}

@@ -1,5 +1,5 @@
 ,value
-rRNA_containing,"{'enzymes': ['generic_RNase', 'TM1102-MONOMER_mod_mg2(2)', 'TM1606-MONOMER']}"
-monocistronic,{'enzymes': ['generic_RNase']}
-polycistronic_wout_rRNA,"{'enzymes': ['generic_RNase', 'TM1102-MONOMER', 'TM1606-MONOMER']}"
-RNA_degradosome,"{'enzymes': ['TM0877-MONOMER_mod_mg2(4)', 'TM1345-MONOMER']}"
+rRNA_containing,{'enzymes': ['TM1102-MONOMER']}
+monocistronic,"{'enzymes': ['TM0864-MONOMER', 'generic_RNase']}"
+polycistronic_wout_rRNA,"{'enzymes': ['TM0864-MONOMER', 'generic_RNase']}"
+RNA_degradosome,"{'enzymes': ['TM1345-MONOMER', 'TM1857-MONOMER', 'TM0209-MONOMER', 'TM0877-MONOMER']}"

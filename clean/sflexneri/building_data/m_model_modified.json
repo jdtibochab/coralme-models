@@ -83281,6 +83281,7 @@
 "name":"Diacetyl C4H6O2",
 "compartment":"e",
 "charge":0,
+"formula":"C4H6O2",
 "notes":{
 "original_bigg_ids":[
 "diact_e"
@@ -83474,6 +83475,7 @@
 "name":"Cellobiose",
 "compartment":"e",
 "charge":0,
+"formula":"C12H22O11",
 "notes":{
 "original_bigg_ids":[
 "cellb_e"
@@ -83525,6 +83527,7 @@
 "name":" R R  2 3 Butanediol C4H10O2",
 "compartment":"e",
 "charge":0,
+"formula":"C4H10O2",
 "notes":{
 "original_bigg_ids":[
 "btd_DASH_RR_e"
@@ -85659,7 +85662,6 @@
 "name":"Glucosyl-galactosyl-glucosyl-inner core oligosaccharide lipid A",
 "compartment":"c",
 "charge":0,
-"formula":"C163H281N2O89P4",
 "notes":{
 "original_bigg_ids":[
 "ggagicolipa_c"
@@ -85689,7 +85691,6 @@
 "name":"Glucosyl-glucosyl-galactosyl-glucosyl-inner core oligosaccharide lipid A",
 "compartment":"c",
 "charge":0,
-"formula":"C169H291N2O94P4",
 "notes":{
 "original_bigg_ids":[
 "gggagicolipa_c"
@@ -85793,6 +85794,7 @@
 "name":"Raffinose C18H32O16",
 "compartment":"c",
 "charge":0,
+"formula":"C18H32O16",
 "notes":{
 "original_bigg_ids":[
 "raffin_c"
@@ -85888,6 +85890,7 @@
 "name":"(3S)-3,6-Diaminohexanoate",
 "compartment":"c",
 "charge":0,
+"formula":"C6H15N2O2",
 "notes":{
 "original_bigg_ids":[
 "36dahx_c"

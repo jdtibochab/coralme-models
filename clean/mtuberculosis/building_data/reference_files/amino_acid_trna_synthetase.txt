@@ -15,7 +15,7 @@ met__L_c	G185E-5165-MONOMER_mod_zn2(2)
 phe__L_c	generic_phe_ligase
 pro__L_c	G185E-7096-MONOMER
 ser__L_c	G185E-8130-MONOMER_mod_mg2(1)
-thr__L_c	G185E-6857-MONOMER_mod_zn2(1)
+thr__L_c	G185E-6857-MONOMER
 trp__L_c	G185E-7612-MONOMER_mod_mg2(1)
 tyr__L_c	G185E-5879-MONOMER
-val__L_c	G185E-6680-MONOMER_mod_mg2(1)
+val__L_c	G185E-6680-MONOMER

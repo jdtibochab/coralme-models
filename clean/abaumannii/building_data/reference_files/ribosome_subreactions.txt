@@ -1,4 +1,4 @@
 subreaction	enzyme
 RbfA_mono_assembly_factor_phase1	ABAYE_RS17085-MONOMER
-RimM_mono_assembly_factor_phase1	ABAYE_RS02140-MONOMER
+RimM_mono_assembly_factor_phase1	CPLX_dummy
 gtp_bound_30S_assembly_factor_phase1	ABAYE_RS05220-MONOMER

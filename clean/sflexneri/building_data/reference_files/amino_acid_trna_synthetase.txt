@@ -15,7 +15,7 @@ met__L_c	S2303-MONOMER_mod_zn2(2)
 phe__L_c	S4806-MONOMER
 pro__L_c	S0187-MONOMER
 ser__L_c	S0893-MONOMER_mod_mg2(1)
-thr__L_c	S1630-MONOMER_mod_zn2(1)
+thr__L_c	S1630-MONOMER
 trp__L_c	S4360-MONOMER_mod_mg2(1)
 tyr__L_c	S1794-MONOMER
 val__L_c	S4492-MONOMER_mod_mg2(1)

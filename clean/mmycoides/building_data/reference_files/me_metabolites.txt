@@ -74,7 +74,7 @@ hpmeACP_c					CURATE
 iletrna_c					REMOVE
 iscs_c					CURATE
 iscssh_c					CURATE
-iscu_c					CURATE
+iscu_c	JCVISYN3A_0442-MONOMER				REPLACE
 leutrna_c					REMOVE
 lipopb_c					REMOVE
 lpp_p					CURATE

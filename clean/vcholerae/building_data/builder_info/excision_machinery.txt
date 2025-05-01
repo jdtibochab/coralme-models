@@ -1,5 +1,5 @@
 ,value
-rRNA_containing,"{'enzymes': ['FY484_RS10135-MONOMER_mod_zn2(2)', 'generic_RNase', 'VC_2461-MONOMER_mod_mg2(2)', 'FY484_RS02225-MONOMER', 'FY484_RS05140-MONOMER_mod_mg2(4)']}"
-monocistronic,"{'enzymes': ['FY484_RS10135-MONOMER_mod_zn2(2)', 'generic_RNase']}"
-polycistronic_wout_rRNA,"{'enzymes': ['FY484_RS10135-MONOMER_mod_zn2(2)', 'generic_RNase', 'VC_2461-MONOMER', 'FY484_RS02225-MONOMER', 'FY484_RS05140-MONOMER_mod_mg2(4)']}"
-RNA_degradosome,"{'enzymes': ['FY484_RS12170-MONOMER_mod_mg2(4)', 'FY484_RS03425-MONOMER', 'FY484_RS10135-MONOMER_mod_zn2(2)', 'FY484_RS01575-MONOMER', 'VC_0341-MONOMER_mod_mg2(2)']}"
+rRNA_containing,{'enzymes': ['VC_2461-MONOMER']}
+monocistronic,"{'enzymes': ['FY484_RS00030-MONOMER', 'generic_RNase']}"
+polycistronic_wout_rRNA,"{'enzymes': ['FY484_RS00030-MONOMER', 'generic_RNase']}"
+RNA_degradosome,"{'enzymes': ['FY484_RS03425-MONOMER', 'VC_2689-MONOMER', 'FY484_RS12170-MONOMER']}"

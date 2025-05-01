@@ -121,24 +121,24 @@ iscs_c	ABAYE_RS10335-MONOMER_mod_pydx5p(2)				REPLACE
 iscu_c	ABAYE_RS10340-MONOMER				REPLACE
 trdrd_c	ABAYE_RS15735-MONOMER				REPLACE
 trdox_c	ABAYE_RS15735-MONOMER_mod_Oxidized(1)				REPLACE
+3hcpalm9eACP_c					CURATE
+3ocpalm9eACP_c					CURATE
 LI_c					CURATE
-sufbcd_c					CURATE
-sufse_c					CURATE
-sufsesh_c					CURATE
-dsbaox_p					CURATE
-dsbgrd_p					CURATE
-dsbgox_p					CURATE
-lpp_p					CURATE
 alpp_p					CURATE
+dsbaox_p					CURATE
+dsbgox_p					CURATE
+dsbgrd_p					CURATE
+fldox_c					CURATE
+fldrd_c					CURATE
+flxr_c					CURATE
+flxso_c					CURATE
+grxox_c					CURATE
+grxrd_c					CURATE
+iscssh_c					CURATE
+lpp_p					CURATE
 moadamp_c					CURATE
 moadcoo_c					CURATE
 moadcosh_c					CURATE
-3hcpalm9eACP_c					CURATE
-3ocpalm9eACP_c					CURATE
-flxr_c					CURATE
-fldrd_c					CURATE
-flxso_c					CURATE
-fldox_c					CURATE
-grxrd_c					CURATE
-grxox_c					CURATE
-iscssh_c					CURATE
+sufbcd_c					CURATE
+sufse_c					CURATE
+sufsesh_c					CURATE

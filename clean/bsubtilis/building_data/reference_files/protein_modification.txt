@@ -1,5 +1,7 @@
 Modified_enzyme,Core_enzyme,Modifications,Source
 CPLX8J2-30_mod_zn2(1)_mod_mg2(2),CPLX8J2-30,zn2(1) AND mg2(2),RNA_Polymerase
+BSU32680-MONOMER_mod_2fe2s(1),BSU32680-MONOMER,2fe2s(1),Homology
+BSU32680-MONOMER_mod_4fe4s(1),BSU32680-MONOMER,4fe4s(1),Homology
 BSU32680-MONOMER_mod_fe2(1),BSU32680-MONOMER,fe2(1),Homology
 BSU32680-MONOMER_mod_fe2(2),BSU32680-MONOMER,fe2(2),Homology
 BSU30820-MONOMER_mod_mg2(1)_mod_mn2(1)_mod_thmpp(1),BSU30820-MONOMER,mg2(1) AND mn2(1) AND thmpp(1),Homology
@@ -87,6 +89,8 @@ BSU15230-MONOMER_mod_fad(1),BSU15230-MONOMER,fad(1),Homology
 BSU28800-MONOMER_mod_mn2(1),BSU28800-MONOMER,mn2(1),Homology
 BSU00510-MONOMER_mod_mg2(1)_mod_pi(1),BSU00510-MONOMER,mg2(1) AND pi(1),Homology
 BSU00510-MONOMER_mod_mn2(1)_mod_pi(1),BSU00510-MONOMER,mn2(1) AND pi(1),Homology
+BSU32160-MONOMER_mod_pydx5p(1),BSU32160-MONOMER,pydx5p(1),Homology
+BSU32160-MONOMER_mod_pydx5p(1)_mod_SH(1),BSU32160-MONOMER,pydx5p(1) AND SH(1),Homology
 BSU32160-MONOMER_mod_2fe2s(1),BSU32160-MONOMER,2fe2s(1),Homology
 BSU32160-MONOMER_mod_4fe4s(1),BSU32160-MONOMER,4fe4s(1),Homology
 BSU17000-MONOMER_mod_pydx5p(1),BSU17000-MONOMER,pydx5p(1),Homology
@@ -372,4 +376,6 @@ BSU12080-MONOMER_mod_mg2(1),BSU12080-MONOMER,mg2(1),Homology
 BSU12080-MONOMER_mod_ca2(1),BSU12080-MONOMER,ca2(1),Homology
 BSU29220-MONOMER_mod_mn2(1),BSU29220-MONOMER,mn2(1),Homology
 BSU29220-MONOMER_mod_mg2(1),BSU29220-MONOMER,mg2(1),Homology
+CPLX_AKGDH-0_mod_mg2(1)_mod_lipo(1),CPLX_AKGDH-0,mg2(1) AND lipo(1),Homology
 CPLX_AKGDH-0_mod_mg2(1)_mod_fad(1)_mod_thmpp(1)_mod_lipoyl(1),CPLX_AKGDH-0,mg2(1) AND fad(1) AND thmpp(1) AND lipoyl(1),Homology
+CPLX_PDH-0_mod_mg2(1)_mod_fad(1)_mod_thmpp(1)_mod_lipoyl(1),CPLX_PDH-0,mg2(1) AND fad(1) AND thmpp(1) AND lipoyl(1),Homology

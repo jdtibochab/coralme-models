@@ -543,63 +543,72 @@
             "msg": "Some complexes were partial hits in the BLAST",
             "triggered_by": [
                 {
-                    "complex": "JCVISYN3A_0081-MONOMER",
-                    "reference_complex": "MnmEG_cplx"
+                    "complex": "JCVISYN3A_0006-MONOMER",
+                    "reference_complex": "CPLX8J2-14"
                 },
                 {
-                    "complex": "JCVISYN3A_0233-MONOMER",
-                    "reference_complex": "CPLX-167"
+                    "complex": "JCVISYN3A_0452-MONOMER",
+                    "reference_complex": "CPLX8J2-202"
                 },
                 {
                     "complex": "JCVISYN3A_0528-MONOMER",
-                    "reference_complex": "Phe_RS_tetra"
+                    "reference_complex": "CPLX8J2-11"
                 },
                 {
-                    "complex": "JCVISYN3A_0645-MONOMER",
-                    "reference_complex": "hRNAP"
+                    "complex": "JCVISYN3A_0641-MONOMER",
+                    "reference_complex": "CPLX8J2-248"
+                },
+                {
+                    "complex": "JCVISYN3A_0685-MONOMER",
+                    "reference_complex": "CPLX_Kt2r-0"
                 },
                 {
                     "complex": "JCVISYN3A_0771-MONOMER",
-                    "reference_complex": "RIBONUCLEOSIDE-DIP-REDUCTII-CPLX"
+                    "reference_complex": "CPLX8J2-9"
+                },
+                {
+                    "complex": "CPLX-tRNA-PHE-LIGASE",
+                    "reference_complex": "BSU28630-MONOMER"
+                },
+                {
+                    "complex": "CPLX_RNDR1-0",
+                    "reference_complex": "BSU17380-MONOMER"
+                },
+                {
+                    "complex": "CPLX_RNDR1-0",
+                    "reference_complex": "BSU20070-MONOMER"
+                },
+                {
+                    "complex": "CPLX_RNDR1-0",
+                    "reference_complex": "BSU17390-MONOMER"
                 },
                 {
                     "complex": "CPLX_TRDR-0",
-                    "reference_complex": "THIOREDOXIN-REDUCT-NADPH-CPLX"
+                    "reference_complex": "BSU34790-MONOMER"
                 },
                 {
                     "complex": "CPLX_TRDR-0",
-                    "reference_complex": "RED-THIOREDOXIN-MONOMER"
+                    "reference_complex": "BSU28500-MONOMER"
                 },
                 {
                     "complex": "CPLX_Protein_transl-0",
-                    "reference_complex": "Def_mono"
+                    "reference_complex": "BSU14560-MONOMER"
                 },
                 {
                     "complex": "CPLX_Protein_transl-0",
-                    "reference_complex": "Map_mono"
+                    "reference_complex": "BSU01380-MONOMER"
                 },
                 {
-                    "complex": "CPLX_GLCpts-0",
-                    "reference_complex": "PTSI-MONOMER"
+                    "complex": "CPLX_PdhC_transl-0",
+                    "reference_complex": "BSU14600-MONOMER"
+                },
+                {
+                    "complex": "CPLX_Kt6-0",
+                    "reference_complex": "BSU13500-MONOMER"
                 }
             ],
             "importance": "medium",
             "to_do": "Curate these manually in protein_corrections.txt"
-        }
-    ],
-    "update_me_mets": [
-        {
-            "msg": "Some metabolites in me_metabolites.txt are not in m_model, so they were skipped.",
-            "triggered_by": [
-                "sufbcd_2fe2s_c",
-                "sufbcd_2fe2s2_c",
-                "sufbcd_4fe4s_c",
-                "iscu_2fe2s_c",
-                "iscu_2fe2s2_c",
-                "iscu_4fe4s_c"
-            ],
-            "importance": "medium",
-            "to_do": "Confirm these metabolites are correctly defined in me_metabolites.txt"
         }
     ],
     "update_ribosome_subreactions_from_homology": [
@@ -621,9 +630,64 @@
             "msg": "Some enzymes identified in me_builder.org.amino_acid_trna_synthetase are different from the ones inferred from homology",
             "triggered_by": [
                 {
+                    "amino_acid": "ala__L_c",
+                    "inferred_ligase": "JCVISYN3A_0163-MONOMER_mod_zn2(4)",
+                    "homology_ligase": "JCVISYN3A_0163-MONOMER"
+                },
+                {
+                    "amino_acid": "arg__L_c",
+                    "inferred_ligase": "JCVISYN3A_0535-MONOMER_mod_mg2(1)",
+                    "homology_ligase": "JCVISYN3A_0535-MONOMER"
+                },
+                {
+                    "amino_acid": "cys__L_c",
+                    "inferred_ligase": "JCVISYN3A_0837-MONOMER_mod_zn2(1)",
+                    "homology_ligase": "JCVISYN3A_0837-MONOMER"
+                },
+                {
+                    "amino_acid": "glu__L_c",
+                    "inferred_ligase": "JCVISYN3A_0126-MONOMER_mod_mg2(1)_mod_zn2(1)",
+                    "homology_ligase": "JCVISYN3A_0126-MONOMER"
+                },
+                {
+                    "amino_acid": "his__L_c",
+                    "inferred_ligase": "JCVISYN3A_0288-MONOMER_mod_mg2(4)",
+                    "homology_ligase": "JCVISYN3A_0288-MONOMER"
+                },
+                {
+                    "amino_acid": "ile__L_c",
+                    "inferred_ligase": "JCVISYN3A_0519-MONOMER_mod_zn2(2)",
+                    "homology_ligase": "JCVISYN3A_0519-MONOMER"
+                },
+                {
                     "amino_acid": "lys__L_c",
-                    "inferred_ligase": "JCVISYN3A_0064-MONOMER",
-                    "homology_ligase": "generic_LYSINEaaRS"
+                    "inferred_ligase": "JCVISYN3A_0064-MONOMER_mod_mg2(6)",
+                    "homology_ligase": "JCVISYN3A_0064-MONOMER"
+                },
+                {
+                    "amino_acid": "met__L_c",
+                    "inferred_ligase": "JCVISYN3A_0012-MONOMER_mod_zn2(2)",
+                    "homology_ligase": "JCVISYN3A_0012-MONOMER"
+                },
+                {
+                    "amino_acid": "phe__L_c",
+                    "inferred_ligase": "CPLX-tRNA-PHE-LIGASE_mod_mg2(1)",
+                    "homology_ligase": "CPLX-tRNA-PHE-LIGASE"
+                },
+                {
+                    "amino_acid": "ser__L_c",
+                    "inferred_ligase": "JCVISYN3A_0061-MONOMER_mod_mg2(1)",
+                    "homology_ligase": "JCVISYN3A_0061-MONOMER"
+                },
+                {
+                    "amino_acid": "trp__L_c",
+                    "inferred_ligase": "JCVISYN3A_0308-MONOMER_mod_mg2(1)",
+                    "homology_ligase": "JCVISYN3A_0308-MONOMER"
+                },
+                {
+                    "amino_acid": "val__L_c",
+                    "inferred_ligase": "JCVISYN3A_0260-MONOMER_mod_mg2(1)",
+                    "homology_ligase": "JCVISYN3A_0260-MONOMER"
                 }
             ],
             "importance": "medium",
@@ -650,25 +714,6 @@
             "triggered_by": [
                 "ACP_R_c",
                 "glutrnagln_c",
-                "LI_c",
-                "sufbcd_c",
-                "sufse_c",
-                "sufsesh_c",
-                "dsbard_p",
-                "dsbaox_p",
-                "dsbcrd_p",
-                "dsbcox_p",
-                "dsbdrd_c",
-                "dsbdox_c",
-                "dsbgrd_p",
-                "dsbgox_p",
-                "lpp_p",
-                "alpp_p",
-                "moadamp_c",
-                "moadcoo_c",
-                "moadcosh_c",
-                "apoACP_c",
-                "ACP_c",
                 "3haACP_c",
                 "3hcddec5eACP_c",
                 "3hcmrs7eACP_c",
@@ -683,6 +728,7 @@
                 "3hpalmACP_c",
                 "3ocddec5eACP_c",
                 "3ocmrs7eACP_c",
+                "3ocpalm9eACP_c",
                 "3ocvac11eACP_c",
                 "3oddecACP_c",
                 "3odecACP_c",
@@ -691,23 +737,46 @@
                 "3ooctACP_c",
                 "3ooctdACP_c",
                 "3opalmACP_c",
-                "3ocpalm9eACP_c",
+                "ACP_c",
+                "LI_c",
                 "acACP_c",
                 "actACP_c",
-                "butACP_c",
+                "alpp_p",
+                "apoACP_c",
                 "but2eACP_c",
+                "butACP_c",
                 "cddec5eACP_c",
                 "cdec3eACP_c",
                 "dcaACP_c",
                 "ddcaACP_c",
+                "dsbaox_p",
+                "dsbard_p",
+                "dsbcox_p",
+                "dsbcrd_p",
+                "dsbdox_c",
+                "dsbdrd_c",
+                "dsbgox_p",
+                "dsbgrd_p",
                 "egmeACP_c",
                 "epmeACP_c",
+                "fldox_c",
+                "fldrd_c",
+                "flxr_c",
+                "flxso_c",
                 "gmeACP_c",
+                "grxox_c",
+                "grxrd_c",
                 "hdeACP_c",
                 "hexACP_c",
                 "hgmeACP_c",
                 "hpmeACP_c",
+                "iscs_c",
+                "iscssh_c",
+                "lpp_p",
                 "malACP_c",
+                "moadamp_c",
+                "moadcoo_c",
+                "moadcosh_c",
                 "myrsACP_c",
                 "ocACP_c",
                 "ocdcaACP_c",
@@ -717,6 +786,9 @@
                 "palmACP_c",
                 "pimACP_c",
                 "pmeACP_c",
+                "sufbcd_c",
+                "sufse_c",
+                "sufsesh_c",
                 "t3c11vaceACP_c",
                 "t3c5ddeceACP_c",
                 "t3c7mrseACP_c",
@@ -728,16 +800,7 @@
                 "tmrs2eACP_c",
                 "toct2eACP_c",
                 "toctd2eACP_c",
-                "tpalm2eACP_c",
-                "flxr_c",
-                "fldrd_c",
-                "flxso_c",
-                "fldox_c",
-                "grxrd_c",
-                "grxox_c",
-                "iscs_c",
-                "iscssh_c",
-                "iscu_c"
+                "tpalm2eACP_c"
             ],
             "importance": "medium",
             "to_do": "Map or remove these metabolites in me_metabolites.txt"
@@ -747,15 +810,10 @@
         {
             "msg": "Some genes show homology, but no metabolic function.",
             "triggered_by": [
-                "JCVISYN3A_0154 <-> b4260",
-                "JCVISYN3A_0263 <-> b4161",
-                "JCVISYN3A_0371 <-> b0914",
-                "JCVISYN3A_0414 <-> b3650",
-                "JCVISYN3A_0549 <-> b2954",
-                "JCVISYN3A_0690 <-> b2411",
-                "JCVISYN3A_0887 <-> b2711",
-                "JCVISYN3A_0918 <-> b2022",
-                "JCVISYN3A_0931 <-> b2750"
+                "JCVISYN3A_0302 <-> BSU07830",
+                "JCVISYN3A_0414 <-> BSU27600",
+                "JCVISYN3A_0887 <-> BSU03320",
+                "JCVISYN3A_0918 <-> BSU34900"
             ],
             "importance": "critical",
             "to_do": "Manually curate the M-model to correct GPRs or incorporate new reactions."
@@ -765,18 +823,15 @@
         {
             "msg": "Some metabolites are necessary for growth",
             "triggered_by": [
-                "TS_protein_c",
                 "TS_ACP_R_c",
-                "TS_cdpdag_c",
-                "TS_g1p_c",
+                "TS_protein_c",
                 "TS_biomass_c",
+                "TS_pg_c",
+                "TS_s7p_c",
                 "TS_pi_c",
-                "TS_dUTPase_c",
-                "TS_lgltn_c",
-                "TS_mn2_c",
                 "TS_zn2_c",
-                "TS_fe2_c",
-                "TS_galfur12dgr_c"
+                "TS_mn2_c",
+                "TS_dUTPase_c"
             ],
             "importance": "critical",
             "to_do": "Fix the gaps by adding reactions or solving other warnings. If some items are from the E-matrix, fix these first!"

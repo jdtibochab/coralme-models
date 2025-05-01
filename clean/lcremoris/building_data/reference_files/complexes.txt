@@ -18,7 +18,7 @@ LLMG_RS00070-MONOMER,septum formation initiator family protein,LLMG_RS00070(),Ge
 LLMG_RS00075-MONOMER,hypothetical protein,LLMG_RS00075(),GenBank
 LLMG_RS00080-MONOMER,serine hydrolase,LLMG_RS00080(),GenBank
 LLMG_RS00085-MONOMER,tRNA lysidine(34) synthetase TilS,LLMG_RS00085(1),GenBank
-LLMG_RS00090-MONOMER,hypoxanthine phosphoribosyltransferase,LLMG_RS00090(),GenBank
+LLMG_RS00090-MONOMER,hypoxanthine phosphoribosyltransferase,LLMG_RS00090(4),GenBank
 LLMG_RS00095-MONOMER,ATP-dependent zinc metalloprotease FtsH,LLMG_RS00095(),GenBank
 LLMG_RS00140-MONOMER,PTS transporter subunit EIIC,LLMG_RS00140(),GenBank
 LLMG_RS00145-MONOMER,transcription antiterminator,LLMG_RS00145(),GenBank
@@ -82,7 +82,7 @@ LLMG_RS00435-MONOMER,OsmC family protein,LLMG_RS00435(),GenBank
 LLMG_RS00440-MONOMER,APC family permease,LLMG_RS00440(),GenBank
 LLMG_RS00445-MONOMER,hypothetical protein,LLMG_RS00445(),GenBank
 LLMG_RS00450-MONOMER,phosphate acyltransferase PlsX,LLMG_RS00450(1),GenBank
-LLMG_RS00455-MONOMER,Cof-type HAD-IIB family hydrolase,LLMG_RS00455(1),GenBank
+LLMG_RS00455-MONOMER,Cof-type HAD-IIB family hydrolase,LLMG_RS00455(),GenBank
 LLMG_RS00460-MONOMER,ATP-binding cassette domain-containing protein,LLMG_RS00460(),GenBank
 LLMG_RS00465-MONOMER,YiaA/YiaB family inner membrane protein,LLMG_RS00465(),GenBank
 LLMG_RS00470-MONOMER,SDR family NAD(P)-dependent oxidoreductase,LLMG_RS00470(),GenBank
@@ -116,13 +116,13 @@ LLMG_RS00610-MONOMER,glycosyltransferase family 2 protein,LLMG_RS00610(),GenBank
 LLMG_RS00615-MONOMER,D-aminoacyl-tRNA deacylase,LLMG_RS00615(),GenBank
 LLMG_RS00620-MONOMER,TMEM175 family protein,LLMG_RS00620(),GenBank
 LLMG_RS00625-MONOMER,HAD-IA family hydrolase,LLMG_RS00625(),GenBank
-LLMG_RS00630-MONOMER,amino acid permease,LLMG_RS00630(),GenBank
+LLMG_RS00630-MONOMER,amino acid permease,LLMG_RS00630(1),GenBank
 LLMG_RS00635-MONOMER,1-acyl-sn-glycerol-3-phosphate acyltransferase,LLMG_RS00635(),GenBank
 LLMG_RS00640-MONOMER,MarR family transcriptional regulator,LLMG_RS00640(),GenBank
 LLMG_RS00650-MONOMER,IS3 family transposase,LLMG_RS00650(),GenBank
 LLMG_RS00655-MONOMER,FMN-dependent NADH-azoreductase,LLMG_RS00655(),GenBank
 LLMG_RS00660-MONOMER,preprotein translocase subunit SecA,LLMG_RS00660(1),GenBank
-LLMG_RS00665-MONOMER,3-deoxy-7-phosphoheptulonate synthase,LLMG_RS00665(2),GenBank
+LLMG_RS00665-MONOMER,3-deoxy-7-phosphoheptulonate synthase,LLMG_RS00665(),GenBank
 LLMG_RS00670-MONOMER,phosphocarrier protein HPr,LLMG_RS00670(),GenBank
 LLMG_RS00675-MONOMER,phosphoenolpyruvate--protein phosphotransferase,LLMG_RS00675(1),GenBank
 LLMG_RS00685-MONOMER,YbaB/EbfC family nucleoid-associated protein,LLMG_RS00685(),GenBank
@@ -142,7 +142,7 @@ LLMG_RS00765-MONOMER,TetR/AcrR family transcriptional regulator,LLMG_RS00765(),G
 LLMG_RS00770-MONOMER,ribonuclease P protein component,LLMG_RS00770(),GenBank
 LLMG_RS00775-MONOMER,YidC/Oxa1 family membrane protein insertase,LLMG_RS00775(1),GenBank
 LLMG_RS00780-MONOMER,protein jag,LLMG_RS00780(),GenBank
-LLMG_RS00785-MONOMER,50S ribosomal protein L34,LLMG_RS00785(1),GenBank
+LLMG_RS00785-MONOMER,50S ribosomal protein L34,LLMG_RS00785(),GenBank
 LLMG_RS00790-MONOMER,aldo/keto reductase,LLMG_RS00790(),GenBank
 LLMG_RS00795-MONOMER,helix-turn-helix transcriptional regulator,LLMG_RS00795(),GenBank
 LLMG_RS13040-MONOMER,bacteriocin,LLMG_RS13040(),GenBank
@@ -169,7 +169,7 @@ LLMG_RS00900-MONOMER,DNA/RNA non-specific endonuclease,LLMG_RS00900(),GenBank
 LLMG_RS00905-MONOMER,hypothetical protein,LLMG_RS00905(),GenBank
 LLMG_RS00910-MONOMER,hypothetical protein,LLMG_RS00910(),GenBank
 LLMG_RS00915-MONOMER,glycosyl transferase,LLMG_RS00915(),GenBank
-LLMG_RS00920-MONOMER,pyridoxal phosphate-dependent aminotransferase,LLMG_RS00920(2),GenBank
+LLMG_RS00920-MONOMER,pyridoxal phosphate-dependent aminotransferase,LLMG_RS00920(),GenBank
 LLMG_RS00925-MONOMER,GTP-sensing pleiotropic transcriptional regulator CodY,LLMG_RS00925(),GenBank
 LLMG_RS00930-MONOMER,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatC,LLMG_RS00930(),GenBank
 LLMG_RS00935-MONOMER,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA,LLMG_RS00935(),GenBank
@@ -177,7 +177,7 @@ LLMG_RS00940-MONOMER,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB,L
 LLMG_RS00945-MONOMER,amidase family protein,LLMG_RS00945(),GenBank
 LLMG_RS00950-MONOMER,MATE family efflux transporter,LLMG_RS00950(),GenBank
 LLMG_RS00955-MONOMER,cold-shock protein,LLMG_RS00955(),GenBank
-LLMG_RS00960-MONOMER,5-formyltetrahydrofolate cyclo-ligase,LLMG_RS00960(),GenBank
+LLMG_RS00960-MONOMER,5-formyltetrahydrofolate cyclo-ligase,LLMG_RS00960(1),GenBank
 LLMG_RS00965-MONOMER,rhomboid family intramembrane serine protease,LLMG_RS00965(),GenBank
 LLMG_RS00970-MONOMER,DUF3284 domain-containing protein,LLMG_RS00970(),GenBank
 LLMG_RS00975-MONOMER,VOC family protein,LLMG_RS00975(),GenBank
@@ -187,16 +187,16 @@ LLMG_RS00990-MONOMER,PTS sugar transporter subunit IIC,LLMG_RS00990(),GenBank
 LLMG_RS00995-MONOMER,hypothetical protein,LLMG_RS00995(),GenBank
 LLMG_RS01000-MONOMER,hypothetical protein,LLMG_RS01000(),GenBank
 LLMG_RS01005-MONOMER,glycoside hydrolase family 1 protein,LLMG_RS01005(),GenBank
-LLMG_RS01010-MONOMER,dUTP diphosphatase,LLMG_RS01010(3),GenBank
+LLMG_RS01010-MONOMER,dUTP diphosphatase,LLMG_RS01010(),GenBank
 LLMG_RS01015-MONOMER,bifunctional UDP-sugar hydrolase/5'-nucleotidase,LLMG_RS01015(),GenBank
 LLMG_RS01020-MONOMER,YutD family protein,LLMG_RS01020(),GenBank
 LLMG_RS01025-MONOMER,23S rRNA (adenine(2503)-C(2))-methyltransferase RlmN,LLMG_RS01025(),GenBank
 LLMG_RS01030-MONOMER,nitroreductase family protein,LLMG_RS01030(),GenBank
-LLMG_RS01035-MONOMER,polyprenyl synthetase family protein,LLMG_RS01035(2),GenBank
-LLMG_RS01040-MONOMER,prenyltransferase,LLMG_RS01040(),GenBank
+LLMG_RS01035-MONOMER,polyprenyl synthetase family protein,LLMG_RS01035(),GenBank
+LLMG_RS01040-MONOMER,prenyltransferase,LLMG_RS01040(1),GenBank
 LLMG_RS01045-MONOMER,type II CAAX endopeptidase family protein,LLMG_RS01045(),GenBank
 LLMG_RS01050-MONOMER,hypothetical protein,LLMG_RS01050(),GenBank
-LLMG_RS01055-MONOMER,ferrous iron transport protein B,LLMG_RS01055(1),GenBank
+LLMG_RS01055-MONOMER,ferrous iron transport protein B,LLMG_RS01055(),GenBank
 LLMG_RS01060-MONOMER,ferrous iron transport protein A,LLMG_RS01060(),GenBank
 LLMG_RS01065-MONOMER,peptide-methionine (R)-S-oxide reductase MsrB,LLMG_RS01065(1),GenBank
 LLMG_RS01070-MONOMER,DAK2 domain-containing protein,LLMG_RS01070(),GenBank
@@ -204,7 +204,7 @@ LLMG_RS01075-MONOMER,Asp23/Gls24 family envelope stress response protein,LLMG_RS
 LLMG_RS01080-MONOMER,50S ribosomal protein L28,LLMG_RS01080(),GenBank
 LLMG_RS01085-MONOMER,DUF1129 domain-containing protein,LLMG_RS01085(),GenBank
 LLMG_RS01090-MONOMER,glucose-1-phosphate thymidylyltransferase RfbA,LLMG_RS01090(1),GenBank
-LLMG_RS01095-MONOMER,"dTDP-4-dehydrorhamnose 3,5-epimerase family protein",LLMG_RS01095(1),GenBank
+LLMG_RS01095-MONOMER,"dTDP-4-dehydrorhamnose 3,5-epimerase family protein",LLMG_RS01095(),GenBank
 LLMG_RS01100-MONOMER,hypothetical protein,LLMG_RS01100(),GenBank
 LLMG_RS01105-MONOMER,"dTDP-glucose 4,6-dehydratase",LLMG_RS01105(1),GenBank
 LLMG_RS01110-MONOMER,dTDP-4-dehydrorhamnose reductase,LLMG_RS01110(1),GenBank
@@ -220,9 +220,9 @@ LLMG_RS01155-MONOMER,DUF2304 domain-containing protein,LLMG_RS01155(),GenBank
 LLMG_RS01160-MONOMER,glycosyltransferase family 2 protein,LLMG_RS01160(),GenBank
 LLMG_RS01165-MONOMER,glycosyltransferase family 2 protein,LLMG_RS01165(),GenBank
 LLMG_RS01170-MONOMER,glycosyl transferase,LLMG_RS01170(),GenBank
-LLMG_RS01175-MONOMER,sugar transferase,LLMG_RS01175(1),GenBank
-LLMG_RS01180-MONOMER,UDP-galactopyranose mutase,LLMG_RS01180(1),GenBank
-LLMG_RS01185-MONOMER,polysaccharide biosynthesis C-terminal domain-containing protein,LLMG_RS01185(1),GenBank
+LLMG_RS01175-MONOMER,sugar transferase,LLMG_RS01175(),GenBank
+LLMG_RS01180-MONOMER,UDP-galactopyranose mutase,LLMG_RS01180(),GenBank
+LLMG_RS01185-MONOMER,polysaccharide biosynthesis C-terminal domain-containing protein,LLMG_RS01185(),GenBank
 LLMG_RS01190-MONOMER,hypothetical protein,LLMG_RS01190(),GenBank
 LLMG_RS01195-MONOMER,DUF2142 domain-containing protein,LLMG_RS01195(),GenBank
 LLMG_RS01200-MONOMER,hypothetical protein,LLMG_RS01200(),GenBank
@@ -268,18 +268,18 @@ LLMG_RS01395-MONOMER,NAD(P)/FAD-dependent oxidoreductase,LLMG_RS01395(),GenBank
 LLMG_RS01400-MONOMER,NAD(P)H-hydrate dehydratase,LLMG_RS01400(),GenBank
 LLMG_RS01405-MONOMER,DUF1398 family protein,LLMG_RS01405(),GenBank
 LLMG_RS01410-MONOMER,ABC transporter ATP-binding protein,LLMG_RS01410(),GenBank
-LLMG_RS01415-MONOMER,ABC transporter ATP-binding protein,LLMG_RS01415(2),GenBank
+LLMG_RS01415-MONOMER,ABC transporter ATP-binding protein,LLMG_RS01415(),GenBank
 LLMG_RS01420-MONOMER,YcjF family protein,LLMG_RS01420(),GenBank
 LLMG_RS01425-MONOMER,Gfo/Idh/MocA family oxidoreductase,LLMG_RS01425(),GenBank
 LLMG_RS13585-MONOMER,hypothetical protein,LLMG_RS13585(),GenBank
 LLMG_RS01430-MONOMER,S-ribosylhomocysteine lyase,LLMG_RS01430(1),GenBank
 LLMG_RS13740-MONOMER,hypothetical protein,LLMG_RS13740(),GenBank
-LLMG_RS01440-MONOMER,aldo/keto reductase,LLMG_RS01440(1),GenBank
+LLMG_RS01440-MONOMER,aldo/keto reductase,LLMG_RS01440(),GenBank
 LLMG_RS01445-MONOMER,cysteine hydrolase,LLMG_RS01445(),GenBank
 LLMG_RS01450-MONOMER,DUF6036 family nucleotidyltransferase,LLMG_RS01450(),GenBank
 LLMG_RS01455-MONOMER,hypothetical protein,LLMG_RS01455(),GenBank
 LLMG_RS01460-MONOMER,LysM peptidoglycan-binding domain-containing protein,LLMG_RS01460(),GenBank
-LLMG_RS01465-MONOMER,anaerobic ribonucleoside-triphosphate reductase,LLMG_RS01465(2),GenBank
+LLMG_RS01465-MONOMER,anaerobic ribonucleoside-triphosphate reductase,LLMG_RS01465(),GenBank
 LLMG_RS01470-MONOMER,anaerobic ribonucleoside-triphosphate reductase activating protein,LLMG_RS01470(),GenBank
 LLMG_RS01475-MONOMER,DUF2325 domain-containing protein,LLMG_RS01475(),GenBank
 LLMG_RS01480-MONOMER,DUF4199 domain-containing protein,LLMG_RS01480(),GenBank
@@ -296,7 +296,7 @@ LLMG_RS01545-MONOMER,glucosyltransferase domain-containing protein,LLMG_RS01545(
 LLMG_RS01550-MONOMER,30S ribosomal protein S4,LLMG_RS01550(1),GenBank
 LLMG_RS01555-MONOMER,Tex family protein,LLMG_RS01555(),GenBank
 LLMG_RS01560-MONOMER,SprT family protein,LLMG_RS01560(),GenBank
-LLMG_RS01565-MONOMER,adenosine deaminase,LLMG_RS01565(1),GenBank
+LLMG_RS01565-MONOMER,adenosine deaminase,LLMG_RS01565(),GenBank
 LLMG_RS01570-MONOMER,nuclear transport factor 2 family protein,LLMG_RS01570(),GenBank
 LLMG_RS01575-MONOMER,MerR family transcriptional regulator,LLMG_RS01575(),GenBank
 LLMG_RS01580-MONOMER,ribonuclease J,LLMG_RS01580(),GenBank
@@ -313,10 +313,10 @@ LLMG_RS01630-MONOMER,"phosphonate ABC transporter, permease protein PhnE",LLMG_R
 LLMG_RS01635-MONOMER,"phosphonate ABC transporter, permease protein PhnE",LLMG_RS01635(),GenBank
 LLMG_RS01640-MONOMER,bifunctional metallophosphatase/5'-nucleotidase,LLMG_RS01640(1),GenBank
 LLMG_RS01645-MONOMER,peroxiredoxin,LLMG_RS01645(),GenBank
-LLMG_RS01650-MONOMER,M1 family metallopeptidase,LLMG_RS01650(1),GenBank
+LLMG_RS01650-MONOMER,M1 family metallopeptidase,LLMG_RS01650(),GenBank
 LLMG_RS01655-MONOMER,tetracycline resistance MFS efflux pump,LLMG_RS01655(),GenBank
 LLMG_RS01660-MONOMER,MarR family transcriptional regulator,LLMG_RS01660(),GenBank
-LLMG_RS01665-MONOMER,cation diffusion facilitator family transporter,LLMG_RS01665(2),GenBank
+LLMG_RS01665-MONOMER,cation diffusion facilitator family transporter,LLMG_RS01665(),GenBank
 LLMG_RS01670-MONOMER,PadR family transcriptional regulator,LLMG_RS01670(),GenBank
 LLMG_RS01675-MONOMER,multidrug efflux ABC transporter LmrCD subunit C,LLMG_RS01675(),GenBank
 LLMG_RS01680-MONOMER,multidrug efflux ABC transporter LmrCD subunit D,LLMG_RS01680(),GenBank
@@ -346,13 +346,13 @@ LLMG_RS01795-MONOMER,iron chelate uptake ABC transporter family permease subunit
 LLMG_RS01800-MONOMER,iron-hydroxamate ABC transporter substrate-binding protein,LLMG_RS01800(),GenBank
 LLMG_RS01805-MONOMER,LysR family transcriptional regulator,LLMG_RS01805(),GenBank
 LLMG_RS01810-MONOMER,MFS transporter,LLMG_RS01810(),GenBank
-LLMG_RS01815-MONOMER,aldo/keto reductase,LLMG_RS01815(),GenBank
+LLMG_RS01815-MONOMER,aldo/keto reductase,LLMG_RS01815(1),GenBank
 LLMG_RS01820-MONOMER,helix-turn-helix domain-containing protein,LLMG_RS01820(),GenBank
 LLMG_RS01825-MONOMER,VOC family protein,LLMG_RS01825(),GenBank
-LLMG_RS01830-MONOMER,phosphoglycerate mutase,LLMG_RS01830(2),GenBank
+LLMG_RS01830-MONOMER,phosphoglycerate mutase,LLMG_RS01830(1),GenBank
 LLMG_RS01835-MONOMER,alkyl hydroperoxide reductase subunit C,LLMG_RS01835(),GenBank
 LLMG_RS01840-MONOMER,alkyl hydroperoxide reductase subunit F,LLMG_RS01840(),GenBank
-LLMG_RS01845-MONOMER,penicillin-binding transpeptidase domain-containing protein,LLMG_RS01845(1),GenBank
+LLMG_RS01845-MONOMER,penicillin-binding transpeptidase domain-containing protein,LLMG_RS01845(),GenBank
 LLMG_RS01850-MONOMER,recombination mediator RecR,LLMG_RS01850(),GenBank
 LLMG_RS01855-MONOMER,D-alanine--D-alanine ligase,LLMG_RS01855(1),GenBank
 LLMG_RS01860-MONOMER,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D- alanine ligase,LLMG_RS01860(1),GenBank
@@ -362,10 +362,10 @@ LLMG_RS01875-MONOMER,ABC transporter permease,LLMG_RS01875(),GenBank
 LLMG_RS01880-MONOMER,ABC transporter permease,LLMG_RS01880(),GenBank
 LLMG_RS01885-MONOMER,ABC transporter ATP-binding protein,LLMG_RS01885(),GenBank
 LLMG_RS01890-MONOMER,ATP-binding cassette domain-containing protein,LLMG_RS01890(),GenBank
-LLMG_RS01895-MONOMER,peptide chain release factor 3,LLMG_RS01895(1),GenBank
+LLMG_RS01895-MONOMER,peptide chain release factor 3,LLMG_RS01895(),GenBank
 LLMG_RS01900-MONOMER,DEAD/DEAH box helicase,LLMG_RS01900(),GenBank
 LLMG_RS01905-MONOMER,GTPase Era,LLMG_RS01905(2),GenBank
-LLMG_RS01910-MONOMER,asparagine synthase B,LLMG_RS01910(2),GenBank
+LLMG_RS01910-MONOMER,asparagine synthase B,LLMG_RS01910(),GenBank
 LLMG_RS01915-MONOMER,DNA-formamidopyrimidine glycosylase,LLMG_RS01915(),GenBank
 LLMG_RS01920-MONOMER,recombinase RecA,LLMG_RS01920(),GenBank
 LLMG_RS01925-MONOMER,amino acid permease,LLMG_RS01925(1),GenBank
@@ -385,7 +385,7 @@ LLMG_RS01990-MONOMER,FAD:protein FMN transferase,LLMG_RS01990(),GenBank
 LLMG_RS01995-MONOMER,lysine--tRNA ligase,LLMG_RS01995(2),GenBank
 LLMG_RS02000-MONOMER,LysR family transcriptional regulator,LLMG_RS02000(),GenBank
 LLMG_RS02005-MONOMER,YeiH family protein,LLMG_RS02005(),GenBank
-LLMG_RS02010-MONOMER,L-lactate dehydrogenase,LLMG_RS02010(2),GenBank
+LLMG_RS02010-MONOMER,L-lactate dehydrogenase,LLMG_RS02010(),GenBank
 LLMG_RS02015-MONOMER,LysR family transcriptional regulator,LLMG_RS02015(),GenBank
 LLMG_RS02020-MONOMER,TDT family transporter,LLMG_RS02020(),GenBank
 LLMG_RS02025-MONOMER,tRNA 4-thiouridine(8) synthase ThiI,LLMG_RS02025(1),GenBank
@@ -400,7 +400,7 @@ LLMG_RS02065-MONOMER,glutamyl aminopeptidase,LLMG_RS02065(),GenBank
 LLMG_RS02070-MONOMER,hypothetical protein,LLMG_RS02070(),GenBank
 LLMG_RS02075-MONOMER,thioredoxin family protein,LLMG_RS02075(),GenBank
 LLMG_RS02080-MONOMER,DUF4479 and tRNA-binding domain-containing protein,LLMG_RS02080(),GenBank
-LLMG_RS02085-MONOMER,FAD-dependent oxidoreductase,LLMG_RS02085(1),GenBank
+LLMG_RS02085-MONOMER,FAD-dependent oxidoreductase,LLMG_RS02085(),GenBank
 LLMG_RS02090-MONOMER,single-stranded DNA-binding protein,LLMG_RS02090(),GenBank
 LLMG_RS02095-MONOMER,co-chaperone GroES,LLMG_RS02095(7),GenBank
 LLMG_RS02100-MONOMER,chaperonin GroEL,LLMG_RS02100(14),GenBank
@@ -437,7 +437,7 @@ LLMG_RS02250-MONOMER,hypothetical protein,LLMG_RS02250(),GenBank
 LLMG_RS02260-MONOMER,NAD-dependent DNA ligase LigA,LLMG_RS02260(1),GenBank
 LLMG_RS02265-MONOMER,diacylglycerol kinase family lipid kinase,LLMG_RS02265(),GenBank
 LLMG_RS02270-MONOMER,sn-glycerol-3-phosphate ABC transporter ATP-binding protein UgpC,LLMG_RS02270(),GenBank
-LLMG_RS02275-MONOMER,pyruvate:ferredoxin (flavodoxin) oxidoreductase,LLMG_RS02275(1),GenBank
+LLMG_RS02275-MONOMER,pyruvate:ferredoxin (flavodoxin) oxidoreductase,LLMG_RS02275(),GenBank
 LLMG_RS02280-MONOMER,diadenylate cyclase CdaA,LLMG_RS02280(),GenBank
 LLMG_RS13750-MONOMER,hypothetical protein,LLMG_RS13750(),GenBank
 LLMG_RS02285-MONOMER,CdaR family protein,LLMG_RS02285(),GenBank
@@ -498,10 +498,10 @@ LLMG_RS02565-MONOMER,DUF3021 family protein,LLMG_RS02565(),GenBank
 LLMG_RS02570-MONOMER,cysteine desulfurase family protein,LLMG_RS02570(),GenBank
 LLMG_RS02575-MONOMER,NlpC/P60 family protein,LLMG_RS02575(),GenBank
 LLMG_RS02580-MONOMER,peptide ABC transporter substrate-binding protein,LLMG_RS02580(),GenBank
-LLMG_RS02585-MONOMER,cysteine synthase A,LLMG_RS02585(2),GenBank
+LLMG_RS02585-MONOMER,cysteine synthase A,LLMG_RS02585(),GenBank
 LLMG_RS02590-MONOMER,LysM peptidoglycan-binding domain-containing protein,LLMG_RS02590(),GenBank
 LLMG_RS13760-MONOMER,MBL fold metallo-hydrolase,LLMG_RS13760(),GenBank
-LLMG_RS02600-MONOMER,transglycosylase domain-containing protein,LLMG_RS02600(),GenBank
+LLMG_RS02600-MONOMER,transglycosylase domain-containing protein,LLMG_RS02600(2),GenBank
 LLMG_RS02605-MONOMER,Holliday junction resolvase RecU,LLMG_RS02605(),GenBank
 LLMG_RS02610-MONOMER,DUF1273 domain-containing protein,LLMG_RS02610(),GenBank
 LLMG_RS02615-MONOMER,transcriptional regulator Spx,LLMG_RS02615(),GenBank
@@ -552,8 +552,8 @@ LLMG_RS02930-MONOMER,serine hydroxymethyltransferase,LLMG_RS02930(2),GenBank
 LLMG_RS02935-MONOMER,lysozyme family protein,LLMG_RS02935(),GenBank
 LLMG_RS02940-MONOMER,3-phosphoserine/phosphohydroxythreonine transaminase,LLMG_RS02940(2),GenBank
 LLMG_RS02945-MONOMER,3-phosphoglycerate dehydrogenase family protein,LLMG_RS02945(4),GenBank
-LLMG_RS02950-MONOMER,phosphoserine phosphatase SerB,LLMG_RS02950(1),GenBank
-LLMG_RS02955-MONOMER,acylphosphatase,LLMG_RS02955(),GenBank
+LLMG_RS02950-MONOMER,phosphoserine phosphatase SerB,LLMG_RS02950(),GenBank
+LLMG_RS02955-MONOMER,acylphosphatase,LLMG_RS02955(1),GenBank
 LLMG_RS02960-MONOMER,RNA methyltransferase,LLMG_RS02960(),GenBank
 LLMG_RS02965-MONOMER,cupin domain-containing protein,LLMG_RS02965(),GenBank
 LLMG_RS02970-MONOMER,hypothetical protein,LLMG_RS02970(),GenBank
@@ -572,7 +572,7 @@ LLMG_RS03030-MONOMER,prolipoprotein diacylglyceryl transferase,LLMG_RS03030(1),G
 LLMG_RS03035-MONOMER,DUF948 domain-containing protein,LLMG_RS03035(),GenBank
 LLMG_RS03040-MONOMER,YtxH domain-containing protein,LLMG_RS03040(),GenBank
 LLMG_RS03045-MONOMER,NADP-dependent phosphogluconate dehydrogenase,LLMG_RS03045(2),GenBank
-LLMG_RS03050-MONOMER,potassium transporter Kup,LLMG_RS03050(1),GenBank
+LLMG_RS03050-MONOMER,potassium transporter Kup,LLMG_RS03050(),GenBank
 LLMG_RS03055-MONOMER,potassium transporter Kup,LLMG_RS03055(),GenBank
 LLMG_RS13055-MONOMER,DUF3042 family protein,LLMG_RS13055(),GenBank
 LLMG_RS03060-MONOMER,YitT family protein,LLMG_RS03060(),GenBank
@@ -592,7 +592,7 @@ LLMG_RS03125-MONOMER,hypothetical protein,LLMG_RS03125(),GenBank
 LLMG_RS03130-MONOMER,PH domain-containing protein,LLMG_RS03130(),GenBank
 LLMG_RS03135-MONOMER,XRE family transcriptional regulator,LLMG_RS03135(),GenBank
 LLMG_RS03145-MONOMER,ribonuclease Z,LLMG_RS03145(2),GenBank
-LLMG_RS03150-MONOMER,SDR family NAD(P)-dependent oxidoreductase,LLMG_RS03150(),GenBank
+LLMG_RS03150-MONOMER,SDR family NAD(P)-dependent oxidoreductase,LLMG_RS03150(4),GenBank
 LLMG_RS03155-MONOMER,single-stranded-DNA-specific exonuclease RecJ,LLMG_RS03155(),GenBank
 LLMG_RS03160-MONOMER,adenine phosphoribosyltransferase,LLMG_RS03160(2),GenBank
 LLMG_RS03165-MONOMER,DNA-directed RNA polymerase subunit delta,LLMG_RS03165(),GenBank
@@ -602,7 +602,7 @@ LLMG_RS13070-MONOMER,IS3-like element ISLla3 family transposase,LLMG_RS13070(),G
 LLMG_RS03195-MONOMER,IS3 family transposase,LLMG_RS03195(),GenBank
 LLMG_RS03200-MONOMER,CtsR family transcriptional regulator,LLMG_RS03200(),GenBank
 LLMG_RS03205-MONOMER,ATP-dependent Clp protease ATP-binding subunit,LLMG_RS03205(),GenBank
-LLMG_RS03210-MONOMER,ribosome-associated translation inhibitor RaiA,LLMG_RS03210(),GenBank
+LLMG_RS03210-MONOMER,ribosome-associated translation inhibitor RaiA,LLMG_RS03210(2),GenBank
 LLMG_RS03215-MONOMER,phosphopyruvate hydratase,LLMG_RS03215(2),GenBank
 LLMG_RS03220-MONOMER,tyrosine-type recombinase/integrase,LLMG_RS03220(),GenBank
 LLMG_RS03225-MONOMER,hypothetical protein,LLMG_RS03225(),GenBank
@@ -615,13 +615,13 @@ LLMG_RS03265-MONOMER,ABC transporter permease,LLMG_RS03265(),GenBank
 LLMG_RS03270-MONOMER,TetR/AcrR family transcriptional regulator,LLMG_RS03270(),GenBank
 LLMG_RS03275-MONOMER,acyl-CoA synthetase,LLMG_RS03275(),GenBank
 LLMG_RS03280-MONOMER,magnesium transporter CorA family protein,LLMG_RS03280(),GenBank
-LLMG_RS03285-MONOMER,formate C-acetyltransferase,LLMG_RS03285(2),GenBank
+LLMG_RS03285-MONOMER,formate C-acetyltransferase,LLMG_RS03285(),GenBank
 LLMG_RS03290-MONOMER,dephospho-CoA kinase,LLMG_RS03290(1),GenBank
 LLMG_RS03295-MONOMER,multidrug efflux MFS transporter,LLMG_RS03295(),GenBank
 LLMG_RS03300-MONOMER,50S ribosomal protein L33,LLMG_RS03300(),GenBank
 LLMG_RS03305-MONOMER,FtsW/RodA/SpoVE family cell cycle protein,LLMG_RS03305(),GenBank
 LLMG_RS03310-MONOMER,pyruvate carboxylase,LLMG_RS03310(),GenBank
-LLMG_RS03315-MONOMER,citrate/2-methylcitrate synthase,LLMG_RS03315(2),GenBank
+LLMG_RS03315-MONOMER,citrate/2-methylcitrate synthase,LLMG_RS03315(),GenBank
 LLMG_RS03320-MONOMER,aconitate hydratase AcnA,LLMG_RS03320(2),GenBank
 LLMG_RS03325-MONOMER,NADP-dependent isocitrate dehydrogenase,LLMG_RS03325(2),GenBank
 LLMG_RS03330-MONOMER,ATP-dependent Clp protease proteolytic subunit,LLMG_RS03330(),GenBank
@@ -629,14 +629,14 @@ LLMG_RS03335-MONOMER,hypothetical protein,LLMG_RS03335(),GenBank
 LLMG_RS03340-MONOMER,transcriptional regulator Spx,LLMG_RS03340(),GenBank
 LLMG_RS13765-MONOMER,hypothetical protein,LLMG_RS13765(),GenBank
 LLMG_RS03345-MONOMER,ABC transporter permease,LLMG_RS03345(),GenBank
-LLMG_RS03350-MONOMER,cation-transporting P-type ATPase,LLMG_RS03350(),GenBank
+LLMG_RS03350-MONOMER,cation-transporting P-type ATPase,LLMG_RS03350(1),GenBank
 LLMG_RS13770-MONOMER,acyltransferase family protein,LLMG_RS13770(),GenBank
 LLMG_RS13775-MONOMER,acyltransferase family protein,LLMG_RS13775(),GenBank
 LLMG_RS03365-MONOMER,glycosyltransferase family 2 protein,LLMG_RS03365(),GenBank
 LLMG_RS03370-MONOMER,hypothetical protein,LLMG_RS03370(),GenBank
 LLMG_RS03375-MONOMER,IS3-like element IS981 family transposase,LLMG_RS03375(),GenBank
 LLMG_RS03385-MONOMER,polysaccharide deacetylase family protein,LLMG_RS03385(),GenBank
-LLMG_RS03390-MONOMER,branched-chain amino acid transport system II carrier protein,LLMG_RS03390(1),GenBank
+LLMG_RS03390-MONOMER,branched-chain amino acid transport system II carrier protein,LLMG_RS03390(),GenBank
 LLMG_RS03395-MONOMER,GNAT family N-acetyltransferase,LLMG_RS03395(),GenBank
 LLMG_RS13780-MONOMER,hypothetical protein,LLMG_RS13780(),GenBank
 LLMG_RS03400-MONOMER,IS3 family transposase,LLMG_RS03400(),GenBank
@@ -725,9 +725,9 @@ LLMG_RS03805-MONOMER,CPBP family intramembrane metalloprotease,LLMG_RS03805(),Ge
 LLMG_RS03810-MONOMER,sugar ABC transporter permease,LLMG_RS03810(),GenBank
 LLMG_RS03815-MONOMER,sugar ABC transporter permease,LLMG_RS03815(),GenBank
 LLMG_RS03820-MONOMER,extracellular solute-binding protein,LLMG_RS03820(),GenBank
-LLMG_RS03825-MONOMER,glycoside hydrolase family 13 protein,LLMG_RS03825(),GenBank
-LLMG_RS03830-MONOMER,alpha-glucosidase,LLMG_RS03830(1),GenBank
-LLMG_RS03835-MONOMER,sugar O-acetyltransferase,LLMG_RS03835(),GenBank
+LLMG_RS03825-MONOMER,glycoside hydrolase family 13 protein,LLMG_RS03825(1),GenBank
+LLMG_RS03830-MONOMER,alpha-glucosidase,LLMG_RS03830(),GenBank
+LLMG_RS03835-MONOMER,sugar O-acetyltransferase,LLMG_RS03835(2),GenBank
 LLMG_RS03840-MONOMER,alpha-amylase family glycosyl hydrolase,LLMG_RS03840(),GenBank
 LLMG_RS03845-MONOMER,alpha-glucosidase,LLMG_RS03845(),GenBank
 LLMG_RS03850-MONOMER,glycoside hydrolase family 65 protein,LLMG_RS03850(),GenBank
@@ -743,7 +743,7 @@ LLMG_RS03895-MONOMER,Rgg/GadR/MutR family transcriptional regulator,LLMG_RS03895
 LLMG_RS03900-MONOMER,bacteriocin immunity protein,LLMG_RS03900(),GenBank
 LLMG_RS03905-MONOMER,hypothetical protein,LLMG_RS03905(),GenBank
 LLMG_RS03910-MONOMER,hypothetical protein,LLMG_RS03910(),GenBank
-LLMG_RS03915-MONOMER,ClC family H(+)/Cl(-) exchange transporter,LLMG_RS03915(1),GenBank
+LLMG_RS03915-MONOMER,ClC family H(+)/Cl(-) exchange transporter,LLMG_RS03915(),GenBank
 LLMG_RS03920-MONOMER,"1,4-dihydroxy-2-naphthoate polyprenyltransferase",LLMG_RS03920(),GenBank
 LLMG_RS03925-MONOMER,transglycosylase,LLMG_RS03925(),GenBank
 LLMG_RS03935-MONOMER,Gfo/Idh/MocA family oxidoreductase,LLMG_RS03935(),GenBank
@@ -843,7 +843,7 @@ LLMG_RS04400-MONOMER,MFS transporter,LLMG_RS04400(),GenBank
 LLMG_RS04405-MONOMER,aldose 1-epimerase family protein,LLMG_RS04405(),GenBank
 LLMG_RS04410-MONOMER,glucuronate isomerase,LLMG_RS04410(1),GenBank
 LLMG_RS04415-MONOMER,sugar kinase,LLMG_RS04415(),GenBank
-LLMG_RS04420-MONOMER,bifunctional 4-hydroxy-2-oxoglutarate aldolase/2-dehydro-3-deoxy-phosphogluconate aldolase,LLMG_RS04420(1),GenBank
+LLMG_RS04420-MONOMER,bifunctional 4-hydroxy-2-oxoglutarate aldolase/2-dehydro-3-deoxy-phosphogluconate aldolase,LLMG_RS04420(3),GenBank
 LLMG_RS04425-MONOMER,PTS sugar transporter subunit IIA,LLMG_RS04425(),GenBank
 LLMG_RS04430-MONOMER,PTS sugar transporter subunit IIB,LLMG_RS04430(),GenBank
 LLMG_RS04435-MONOMER,PTS ascorbate transporter subunit IIC,LLMG_RS04435(),GenBank
@@ -858,7 +858,7 @@ LLMG_RS04475-MONOMER,MgtC/SapB family protein,LLMG_RS04475(),GenBank
 LLMG_RS04480-MONOMER,ribonuclease J,LLMG_RS04480(),GenBank
 LLMG_RS04485-MONOMER,leucine-rich repeat domain-containing protein,LLMG_RS04485(),GenBank
 LLMG_RS04490-MONOMER,signal recognition particle protein,LLMG_RS04490(),GenBank
-LLMG_RS04495-MONOMER,GNAT family N-acetyltransferase,LLMG_RS04495(4),GenBank
+LLMG_RS04495-MONOMER,GNAT family N-acetyltransferase,LLMG_RS04495(),GenBank
 LLMG_RS04500-MONOMER,NADPH-dependent F420 reductase,LLMG_RS04500(),GenBank
 LLMG_RS04505-MONOMER,AzlC family ABC transporter permease,LLMG_RS04505(),GenBank
 LLMG_RS04510-MONOMER,AzlD domain-containing protein,LLMG_RS04510(),GenBank
@@ -905,7 +905,7 @@ LLMG_RS04715-MONOMER,DUF916 and DUF3324 domain-containing protein,LLMG_RS04715()
 LLMG_RS04720-MONOMER,helix-turn-helix transcriptional regulator,LLMG_RS04720(),GenBank
 LLMG_RS04725-MONOMER,tRNA preQ1(34) S-adenosylmethionine ribosyltransferase-isomerase QueA,LLMG_RS04725(1),GenBank
 LLMG_RS04730-MONOMER,alpha/beta hydrolase,LLMG_RS04730(),GenBank
-LLMG_RS04735-MONOMER,glucosamine-6-phosphate deaminase,LLMG_RS04735(6),GenBank
+LLMG_RS04735-MONOMER,glucosamine-6-phosphate deaminase,LLMG_RS04735(),GenBank
 LLMG_RS04740-MONOMER,hydroxymethylglutaryl-CoA synthase,LLMG_RS04740(),GenBank
 LLMG_RS04745-MONOMER,thiolase family protein,LLMG_RS04745(),GenBank
 LLMG_RS04750-MONOMER,"hydroxymethylglutaryl-CoA reductase, degradative",LLMG_RS04750(),GenBank
@@ -913,7 +913,7 @@ LLMG_RS04755-MONOMER,30S ribosomal protein S16,LLMG_RS04755(1),GenBank
 LLMG_RS04760-MONOMER,KH domain-containing protein,LLMG_RS04760(),GenBank
 LLMG_RS04765-MONOMER,ferrochelatase,LLMG_RS04765(1),GenBank
 LLMG_RS04770-MONOMER,alpha/beta hydrolase,LLMG_RS04770(),GenBank
-LLMG_RS04775-MONOMER,ribosome maturation factor RimM,LLMG_RS04775(),GenBank
+LLMG_RS04775-MONOMER,ribosome maturation factor RimM,LLMG_RS04775(1),GenBank
 LLMG_RS04780-MONOMER,tRNA (guanosine(37)-N1)-methyltransferase TrmD,LLMG_RS04780(2),GenBank
 LLMG_RS04785-MONOMER,DUF1149 family protein,LLMG_RS04785(),GenBank
 LLMG_RS04790-MONOMER,DegV family protein,LLMG_RS04790(),GenBank
@@ -936,15 +936,15 @@ LLMG_RS04870-MONOMER,LacI family DNA-binding transcriptional regulator,LLMG_RS04
 LLMG_RS04875-MONOMER,ribulose-phosphate 3-epimerase,LLMG_RS04875(),GenBank
 LLMG_RS04880-MONOMER,ribose 5-phosphate isomerase B,LLMG_RS04880(2),GenBank
 LLMG_RS04885-MONOMER,glycoside hydrolase family 1 protein,LLMG_RS04885(),GenBank
-LLMG_RS04890-MONOMER,ROK family protein,LLMG_RS04890(1),GenBank
+LLMG_RS04890-MONOMER,ROK family protein,LLMG_RS04890(),GenBank
 LLMG_RS04895-MONOMER,helix-turn-helix domain-containing protein,LLMG_RS04895(),GenBank
 LLMG_RS04900-MONOMER,PTS transporter subunit EIIC,LLMG_RS04900(),GenBank
-LLMG_RS04905-MONOMER,thymidylate synthase,LLMG_RS04905(2),GenBank
+LLMG_RS04905-MONOMER,thymidylate synthase,LLMG_RS04905(),GenBank
 LLMG_RS13815-MONOMER,hypothetical protein,LLMG_RS13815(),GenBank
 LLMG_RS04910-MONOMER,DUF6287 domain-containing protein,LLMG_RS04910(),GenBank
 LLMG_RS04915-MONOMER,MarR family winged helix-turn-helix transcriptional regulator,LLMG_RS04915(),GenBank
 LLMG_RS04920-MONOMER,MFS transporter,LLMG_RS04920(),GenBank
-LLMG_RS04925-MONOMER,SDR family oxidoreductase,LLMG_RS04925(4),GenBank
+LLMG_RS04925-MONOMER,SDR family oxidoreductase,LLMG_RS04925(),GenBank
 LLMG_RS04930-MONOMER,DUF2255 family protein,LLMG_RS04930(),GenBank
 LLMG_RS04935-MONOMER,carboxymuconolactone decarboxylase family protein,LLMG_RS04935(),GenBank
 LLMG_RS04940-MONOMER,putative quinol monooxygenase,LLMG_RS04940(),GenBank
@@ -967,7 +967,7 @@ LLMG_RS05030-MONOMER,ABC transporter ATP-binding protein,LLMG_RS05030(),GenBank
 LLMG_RS05035-MONOMER,IS256-like element IS905 family transposase,LLMG_RS05035(),GenBank
 LLMG_RS05040-MONOMER,TetR/AcrR family transcriptional regulator,LLMG_RS05040(),GenBank
 LLMG_RS05045-MONOMER,NAD-dependent epimerase/dehydratase family protein,LLMG_RS05045(),GenBank
-LLMG_RS05050-MONOMER,hypoxanthine phosphoribosyltransferase,LLMG_RS05050(4),GenBank
+LLMG_RS05050-MONOMER,hypoxanthine phosphoribosyltransferase,LLMG_RS05050(),GenBank
 LLMG_RS05055-MONOMER,bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase,LLMG_RS05055(1),GenBank
 LLMG_RS05060-MONOMER,YjjG family noncanonical pyrimidine nucleotidase,LLMG_RS05060(1),GenBank
 LLMG_RS05065-MONOMER,MFS transporter,LLMG_RS05065(),GenBank
@@ -1003,7 +1003,7 @@ LLMG_RS05205-MONOMER,VIT family protein,LLMG_RS05205(),GenBank
 LLMG_RS05210-MONOMER,VIT family protein,LLMG_RS05210(),GenBank
 LLMG_RS05215-MONOMER,class I SAM-dependent methyltransferase,LLMG_RS05215(),GenBank
 LLMG_RS05220-MONOMER,MarR family transcriptional regulator,LLMG_RS05220(),GenBank
-LLMG_RS05225-MONOMER,nitroreductase family protein,LLMG_RS05225(2),GenBank
+LLMG_RS05225-MONOMER,nitroreductase family protein,LLMG_RS05225(),GenBank
 LLMG_RS05230-MONOMER,DUF1304 domain-containing protein,LLMG_RS05230(),GenBank
 LLMG_RS05235-MONOMER,anthranilate synthase component I,LLMG_RS05235(),GenBank
 LLMG_RS05240-MONOMER,aminodeoxychorismate/anthranilate synthase component II,LLMG_RS05240(),GenBank
@@ -1033,7 +1033,7 @@ LLMG_RS05355-MONOMER,helix-turn-helix transcriptional regulator,LLMG_RS05355(),G
 LLMG_RS05360-MONOMER,cation diffusion facilitator family transporter,LLMG_RS05360(),GenBank
 LLMG_RS05365-MONOMER,phosphate-starvation-inducible protein PsiE,LLMG_RS05365(),GenBank
 LLMG_RS05370-MONOMER,type I pantothenate kinase,LLMG_RS05370(2),GenBank
-LLMG_RS05375-MONOMER,class I SAM-dependent methyltransferase,LLMG_RS05375(1),GenBank
+LLMG_RS05375-MONOMER,class I SAM-dependent methyltransferase,LLMG_RS05375(),GenBank
 LLMG_RS05380-MONOMER,pyrimidine-nucleoside phosphorylase,LLMG_RS05380(2),GenBank
 LLMG_RS05385-MONOMER,hypothetical protein,LLMG_RS05385(),GenBank
 LLMG_RS05390-MONOMER,deoxyribose-phosphate aldolase,LLMG_RS05390(1),GenBank
@@ -1073,7 +1073,7 @@ LLMG_RS05565-MONOMER,DUF916 and DUF3324 domain-containing protein,LLMG_RS05565()
 LLMG_RS05570-MONOMER,aquaporin family protein,LLMG_RS05570(4),GenBank
 LLMG_RS05575-MONOMER,glycerol-3-phosphate dehydrogenase/oxidase,LLMG_RS05575(2),GenBank
 LLMG_RS05580-MONOMER,glycerol kinase GlpK,LLMG_RS05580(4),GenBank
-LLMG_RS05585-MONOMER,rRNA large subunit pseudouridine synthase E,LLMG_RS05585(1),GenBank
+LLMG_RS05585-MONOMER,rRNA large subunit pseudouridine synthase E,LLMG_RS05585(),GenBank
 LLMG_RS05590-MONOMER,TPM domain-containing protein,LLMG_RS05590(),GenBank
 LLMG_RS05595-MONOMER,hypothetical protein,LLMG_RS05595(),GenBank
 LLMG_RS05600-MONOMER,SPFH domain-containing protein,LLMG_RS05600(),GenBank
@@ -1083,7 +1083,7 @@ LLMG_RS05615-MONOMER,dihydroorotate dehydrogenase,LLMG_RS05615(),GenBank
 LLMG_RS05620-MONOMER,orotidine-5'-phosphate decarboxylase,LLMG_RS05620(2),GenBank
 LLMG_RS05625-MONOMER,hypothetical protein,LLMG_RS05625(),GenBank
 LLMG_RS05630-MONOMER,16S rRNA (guanine(527)-N(7))-methyltransferase RsmG,LLMG_RS05630(),GenBank
-LLMG_RS05635-MONOMER,polyprenyl synthetase family protein,LLMG_RS05635(),GenBank
+LLMG_RS05635-MONOMER,polyprenyl synthetase family protein,LLMG_RS05635(2),GenBank
 LLMG_RS05640-MONOMER,Gx transporter family protein,LLMG_RS05640(),GenBank
 LLMG_RS05645-MONOMER,NusG domain II-containing protein,LLMG_RS05645(),GenBank
 LLMG_RS05650-MONOMER,UTP--glucose-1-phosphate uridylyltransferase GalU,LLMG_RS05650(1),GenBank
@@ -1097,7 +1097,7 @@ LLMG_RS05690-MONOMER,L-lactate dehydrogenase,LLMG_RS05690(),GenBank
 LLMG_RS05695-MONOMER,ABC transporter permease,LLMG_RS05695(),GenBank
 LLMG_RS05700-MONOMER,ABC transporter permease,LLMG_RS05700(),GenBank
 LLMG_RS05705-MONOMER,ABC transporter ATP-binding protein,LLMG_RS05705(),GenBank
-LLMG_RS05710-MONOMER,methyltransferase domain-containing protein,LLMG_RS05710(2),GenBank
+LLMG_RS05710-MONOMER,methyltransferase domain-containing protein,LLMG_RS05710(),GenBank
 LLMG_RS05715-MONOMER,NFACT RNA binding domain-containing protein,LLMG_RS05715(),GenBank
 LLMG_RS05720-MONOMER,hypothetical protein,LLMG_RS05720(),GenBank
 LLMG_RS13005-MONOMER,Ig-like domain-containing protein,LLMG_RS13005(),GenBank
@@ -1105,7 +1105,7 @@ LLMG_RS13840-MONOMER,hypothetical protein,LLMG_RS13840(),GenBank
 LLMG_RS13845-MONOMER,Ig-like domain-containing protein,LLMG_RS13845(),GenBank
 LLMG_RS13850-MONOMER,LPXTG cell wall anchor domain-containing protein,LLMG_RS13850(),GenBank
 LLMG_RS05740-MONOMER,Spx/MgsR family RNA polymerase-binding regulatory protein,LLMG_RS05740(),GenBank
-LLMG_RS05745-MONOMER,2-dehydropantoate 2-reductase,LLMG_RS05745(1),GenBank
+LLMG_RS05745-MONOMER,2-dehydropantoate 2-reductase,LLMG_RS05745(),GenBank
 LLMG_RS05750-MONOMER,exonuclease SbcCD subunit D,LLMG_RS05750(),GenBank
 LLMG_RS05755-MONOMER,SMC family ATPase,LLMG_RS05755(),GenBank
 LLMG_RS05760-MONOMER,DUF4176 domain-containing protein,LLMG_RS05760(),GenBank
@@ -1149,8 +1149,8 @@ LLMG_RS05945-MONOMER,GNAT family N-acetyltransferase,LLMG_RS05945(),GenBank
 LLMG_RS05950-MONOMER,ribosome biogenesis GTPase YlqF,LLMG_RS05950(),GenBank
 LLMG_RS05955-MONOMER,ribonuclease HII,LLMG_RS05955(),GenBank
 LLMG_RS05960-MONOMER,Rgg/GadR/MutR family transcriptional regulator,LLMG_RS05960(),GenBank
-LLMG_RS05965-MONOMER,glutamate:gamma-aminobutyrate antiporter,LLMG_RS05965(1),GenBank
-LLMG_RS05970-MONOMER,glutamate decarboxylase,LLMG_RS05970(6),GenBank
+LLMG_RS05965-MONOMER,glutamate:gamma-aminobutyrate antiporter,LLMG_RS05965(),GenBank
+LLMG_RS05970-MONOMER,glutamate decarboxylase,LLMG_RS05970(),GenBank
 LLMG_RS05975-MONOMER,mechanosensitive ion channel,LLMG_RS05975(),GenBank
 LLMG_RS05980-MONOMER,branched-chain amino acid aminotransferase,LLMG_RS05980(6),GenBank
 LLMG_RS05985-MONOMER,sugar O-acetyltransferase,LLMG_RS05985(),GenBank
@@ -1189,14 +1189,14 @@ LLMG_RS06145-MONOMER,hydroxyethylthiazole kinase,LLMG_RS06145(1),GenBank
 LLMG_RS06150-MONOMER,bifunctional hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase,LLMG_RS06150(4),GenBank
 LLMG_RS06155-MONOMER,thiamine phosphate synthase,LLMG_RS06155(1),GenBank
 LLMG_RS13185-MONOMER,teichoic acid D-Ala incorporation-associated protein DltX,LLMG_RS13185(),GenBank
-LLMG_RS06160-MONOMER,D-alanine--poly(phosphoribitol) ligase subunit DltA,LLMG_RS06160(1),GenBank
+LLMG_RS06160-MONOMER,D-alanine--poly(phosphoribitol) ligase subunit DltA,LLMG_RS06160(),GenBank
 LLMG_RS06165-MONOMER,D-alanyl-lipoteichoic acid biosynthesis protein DltB,LLMG_RS06165(),GenBank
 LLMG_RS06170-MONOMER,D-alanine--poly(phosphoribitol) ligase subunit DltC,LLMG_RS06170(),GenBank
 LLMG_RS06175-MONOMER,D-alanyl-lipoteichoic acid biosynthesis protein DltD,LLMG_RS06175(),GenBank
-LLMG_RS06180-MONOMER,magnesium-translocating P-type ATPase,LLMG_RS06180(1),GenBank
+LLMG_RS06180-MONOMER,magnesium-translocating P-type ATPase,LLMG_RS06180(),GenBank
 LLMG_RS06185-MONOMER,metal-dependent transcriptional regulator,LLMG_RS06185(),GenBank
 LLMG_RS06190-MONOMER,5-methyltetrahydropteroyltriglutamate-- homocysteine S-methyltransferase,LLMG_RS06190(1),GenBank
-LLMG_RS06195-MONOMER,methylenetetrahydrofolate reductase [NAD(P)H],LLMG_RS06195(4),GenBank
+LLMG_RS06195-MONOMER,methylenetetrahydrofolate reductase [NAD(P)H],LLMG_RS06195(),GenBank
 LLMG_RS06200-MONOMER,3-deoxy-7-phosphoheptulonate synthase,LLMG_RS06200(),GenBank
 LLMG_RS06205-MONOMER,hypothetical protein,LLMG_RS06205(),GenBank
 LLMG_RS06210-MONOMER,hypothetical protein,LLMG_RS06210(),GenBank
@@ -1284,9 +1284,9 @@ LLMG_RS06635-MONOMER,tetratricopeptide repeat protein,LLMG_RS06635(),GenBank
 LLMG_RS06640-MONOMER,AI-2E family transporter,LLMG_RS06640(),GenBank
 LLMG_RS06645-MONOMER,class I SAM-dependent methyltransferase,LLMG_RS06645(),GenBank
 LLMG_RS06650-MONOMER,NAD(P)/FAD-dependent oxidoreductase,LLMG_RS06650(),GenBank
-LLMG_RS06655-MONOMER,23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD,LLMG_RS06655(),GenBank
+LLMG_RS06655-MONOMER,23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD,LLMG_RS06655(1),GenBank
 LLMG_RS06660-MONOMER,MurR/RpiR family transcriptional regulator,LLMG_RS06660(),GenBank
-LLMG_RS06665-MONOMER,N-acetylmannosamine-6-phosphate 2-epimerase,LLMG_RS06665(1),GenBank
+LLMG_RS06665-MONOMER,N-acetylmannosamine-6-phosphate 2-epimerase,LLMG_RS06665(),GenBank
 LLMG_RS06670-MONOMER,HAD-IC family P-type ATPase,LLMG_RS06670(),GenBank
 LLMG_RS06675-MONOMER,IS256-like element IS905 family transposase,LLMG_RS06675(),GenBank
 LLMG_RS06680-MONOMER,family 43 glycosylhydrolase,LLMG_RS06680(),GenBank
@@ -1308,7 +1308,7 @@ LLMG_RS06760-MONOMER,bifunctional folylpolyglutamate synthase/dihydrofolate synt
 LLMG_RS06765-MONOMER,NUDIX domain-containing protein,LLMG_RS06765(),GenBank
 LLMG_RS06770-MONOMER,dihydropteroate synthase,LLMG_RS06770(2),GenBank
 LLMG_RS06775-MONOMER,GTP cyclohydrolase I FolE,LLMG_RS06775(10),GenBank
-LLMG_RS06780-MONOMER,dihydroneopterin aldolase,LLMG_RS06780(),GenBank
+LLMG_RS06780-MONOMER,dihydroneopterin aldolase,LLMG_RS06780(8),GenBank
 LLMG_RS06785-MONOMER,ribosome biogenesis GTP-binding protein YihA/YsxC,LLMG_RS06785(),GenBank
 LLMG_RS06790-MONOMER,ATP-dependent Clp protease ATP-binding subunit ClpX,LLMG_RS06790(),GenBank
 LLMG_RS13660-MONOMER,hypothetical protein,LLMG_RS13660(),GenBank
@@ -1381,7 +1381,7 @@ LLMG_RS07110-MONOMER,hypothetical protein,LLMG_RS07110(),GenBank
 LLMG_RS07115-MONOMER,ParA family protein,LLMG_RS07115(),GenBank
 LLMG_RS07120-MONOMER,hypothetical protein,LLMG_RS07120(),GenBank
 LLMG_RS07125-MONOMER,hypothetical protein,LLMG_RS07125(),GenBank
-LLMG_RS07130-MONOMER,GMP reductase,LLMG_RS07130(4),GenBank
+LLMG_RS07130-MONOMER,GMP reductase,LLMG_RS07130(),GenBank
 LLMG_RS07135-MONOMER,TIGR01906 family membrane protein,LLMG_RS07135(),GenBank
 LLMG_RS07140-MONOMER,TIGR01457 family HAD-type hydrolase,LLMG_RS07140(),GenBank
 LLMG_RS07145-MONOMER,acyl-[acyl-carrier-protein] thioesterase,LLMG_RS07145(),GenBank
@@ -1407,7 +1407,7 @@ LLMG_RS07250-MONOMER,DUF916 domain-containing protein,LLMG_RS07250(),GenBank
 LLMG_RS13895-MONOMER,hypothetical protein,LLMG_RS13895(),GenBank
 LLMG_RS07260-MONOMER,IS3-like element IS981 family transposase,LLMG_RS07260(),GenBank
 LLMG_RS07270-MONOMER,phosphotransferase,LLMG_RS07270(),GenBank
-LLMG_RS07275-MONOMER,flavocytochrome c,LLMG_RS07275(),GenBank
+LLMG_RS07275-MONOMER,flavocytochrome c,LLMG_RS07275(1),GenBank
 LLMG_RS07280-MONOMER,glyoxalase/bleomycin resistance/extradiol dioxygenase family protein,LLMG_RS07280(),GenBank
 LLMG_RS07285-MONOMER,DNA-3-methyladenine glycosylase I,LLMG_RS07285(),GenBank
 LLMG_RS07290-MONOMER,8-oxo-dGTP diphosphatase,LLMG_RS07290(),GenBank
@@ -1422,7 +1422,7 @@ LLMG_RS07330-MONOMER,APC family permease,LLMG_RS07330(),GenBank
 LLMG_RS07335-MONOMER,SDR family oxidoreductase,LLMG_RS07335(),GenBank
 LLMG_RS07340-MONOMER,ROK family protein,LLMG_RS07340(),GenBank
 LLMG_RS07345-MONOMER,6-phospho-beta-glucosidase,LLMG_RS07345(),GenBank
-LLMG_RS07350-MONOMER,glycoside hydrolase family 3 N-terminal domain-containing protein,LLMG_RS07350(1),GenBank
+LLMG_RS07350-MONOMER,glycoside hydrolase family 3 N-terminal domain-containing protein,LLMG_RS07350(),GenBank
 LLMG_RS07355-MONOMER,ABC transporter ATP-binding protein,LLMG_RS07355(),GenBank
 LLMG_RS07360-MONOMER,ABC transporter permease,LLMG_RS07360(),GenBank
 LLMG_RS07365-MONOMER,ABC transporter permease,LLMG_RS07365(),GenBank
@@ -1450,7 +1450,7 @@ LLMG_RS07475-MONOMER,YigZ family protein,LLMG_RS07475(),GenBank
 LLMG_RS07480-MONOMER,DEAD/DEAH box helicase,LLMG_RS07480(),GenBank
 LLMG_RS07485-MONOMER,ComF family protein,LLMG_RS07485(),GenBank
 LLMG_RS07490-MONOMER,nucleotidyltransferase family protein,LLMG_RS07490(),GenBank
-LLMG_RS07495-MONOMER,diacylglycerol kinase,LLMG_RS07495(3),GenBank
+LLMG_RS07495-MONOMER,diacylglycerol kinase,LLMG_RS07495(),GenBank
 LLMG_RS07500-MONOMER,rRNA maturation RNase YbeY,LLMG_RS07500(),GenBank
 LLMG_RS07505-MONOMER,NUDIX hydrolase,LLMG_RS07505(),GenBank
 LLMG_RS07510-MONOMER,PhoH family protein,LLMG_RS07510(),GenBank
@@ -1471,7 +1471,7 @@ LLMG_RS07580-MONOMER,BspA family leucine-rich repeat surface protein,LLMG_RS0758
 LLMG_RS07585-MONOMER,hypothetical protein,LLMG_RS07585(),GenBank
 LLMG_RS07590-MONOMER,KxYKxGKxW signal peptide domain-containing protein,LLMG_RS07590(),GenBank
 LLMG_RS07595-MONOMER,helix-turn-helix domain-containing protein,LLMG_RS07595(),GenBank
-LLMG_RS07600-MONOMER,dihydroorotase,LLMG_RS07600(4),GenBank
+LLMG_RS07600-MONOMER,dihydroorotase,LLMG_RS07600(),GenBank
 LLMG_RS07605-MONOMER,orotate phosphoribosyltransferase,LLMG_RS07605(),GenBank
 LLMG_RS13525-MONOMER,hypothetical protein,LLMG_RS13525(),GenBank
 LLMG_RS07610-MONOMER,ABC-F family ATP-binding cassette domain-containing protein,LLMG_RS07610(),GenBank
@@ -1479,7 +1479,7 @@ LLMG_RS07615-MONOMER,Spx/MgsR family RNA polymerase-binding regulatory protein,L
 LLMG_RS07620-MONOMER,redox-sensing transcriptional repressor Rex,LLMG_RS07620(),GenBank
 LLMG_RS07625-MONOMER,DNA repair protein RadC,LLMG_RS07625(),GenBank
 LLMG_RS07630-MONOMER,glutamine--fructose-6-phosphate transaminase (isomerizing),LLMG_RS07630(2),GenBank
-LLMG_RS07635-MONOMER,phosphatase PAP2 family protein,LLMG_RS07635(1),GenBank
+LLMG_RS07635-MONOMER,phosphatase PAP2 family protein,LLMG_RS07635(),GenBank
 LLMG_RS07640-MONOMER,ATP-binding protein,LLMG_RS07640(),GenBank
 LLMG_RS07645-MONOMER,DUF2127 domain-containing protein,LLMG_RS07645(),GenBank
 LLMG_RS07650-MONOMER,response regulator transcription factor,LLMG_RS07650(),GenBank
@@ -1511,7 +1511,7 @@ LLMG_RS07775-MONOMER,cell division ATP-binding protein FtsE,LLMG_RS07775(),GenBa
 LLMG_RS07780-MONOMER,peptide chain release factor 2,LLMG_RS07780(1),GenBank
 LLMG_RS07785-MONOMER,metallophosphoesterase,LLMG_RS07785(),GenBank
 LLMG_RS07790-MONOMER,DUF402 domain-containing protein,LLMG_RS07790(),GenBank
-LLMG_RS07795-MONOMER,formate/nitrite transporter family protein,LLMG_RS07795(5),GenBank
+LLMG_RS07795-MONOMER,formate/nitrite transporter family protein,LLMG_RS07795(1),GenBank
 LLMG_RS07800-MONOMER,ABC transporter permease,LLMG_RS07800(),GenBank
 LLMG_RS07805-MONOMER,ABC transporter ATP-binding protein,LLMG_RS07805(),GenBank
 LLMG_RS07810-MONOMER,TetR/AcrR family transcriptional regulator,LLMG_RS07810(),GenBank
@@ -1539,7 +1539,7 @@ LLMG_RS07935-MONOMER,nucleotide exchange factor GrpE,LLMG_RS07935(2),GenBank
 LLMG_RS07940-MONOMER,heat-inducible transcriptional repressor HrcA,LLMG_RS07940(),GenBank
 LLMG_RS07945-MONOMER,hypothetical protein,LLMG_RS07945(),GenBank
 LLMG_RS07950-MONOMER,D-alanyl-D-alanine carboxypeptidase family protein,LLMG_RS07950(),GenBank
-LLMG_RS07955-MONOMER,histidine phosphatase family protein,LLMG_RS07955(1),GenBank
+LLMG_RS07955-MONOMER,histidine phosphatase family protein,LLMG_RS07955(),GenBank
 LLMG_RS07960-MONOMER,hypothetical protein,LLMG_RS07960(),GenBank
 LLMG_RS07965-MONOMER,PFL family protein,LLMG_RS07965(),GenBank
 LLMG_RS07970-MONOMER,ACT domain-containing protein,LLMG_RS07970(),GenBank
@@ -1565,7 +1565,7 @@ LLMG_RS08065-MONOMER,LCP family protein,LLMG_RS08065(),GenBank
 LLMG_RS08070-MONOMER,CDP-glycerol glycerophosphotransferase family protein,LLMG_RS08070(),GenBank
 LLMG_RS08075-MONOMER,CDP-glycerol glycerophosphotransferase family protein,LLMG_RS08075(),GenBank
 LLMG_RS08080-MONOMER,hypothetical protein,LLMG_RS08080(),GenBank
-LLMG_RS08085-MONOMER,glycerol-3-phosphate cytidylyltransferase,LLMG_RS08085(),GenBank
+LLMG_RS08085-MONOMER,glycerol-3-phosphate cytidylyltransferase,LLMG_RS08085(2),GenBank
 LLMG_RS08090-MONOMER,DUF6270 domain-containing protein,LLMG_RS08090(),GenBank
 LLMG_RS08095-MONOMER,glycoside hydrolase family 43 protein,LLMG_RS08095(),GenBank
 LLMG_RS08100-MONOMER,SGNH/GDSL hydrolase family protein,LLMG_RS08100(),GenBank
@@ -1588,7 +1588,7 @@ LLMG_RS08180-MONOMER,DUF4811 domain-containing protein,LLMG_RS08180(),GenBank
 LLMG_RS08185-MONOMER,multidrug efflux MFS transporter,LLMG_RS08185(),GenBank
 LLMG_RS08195-MONOMER,MarR family transcriptional regulator,LLMG_RS08195(),GenBank
 LLMG_RS08200-MONOMER,DUF4767 domain-containing protein,LLMG_RS08200(),GenBank
-LLMG_RS08205-MONOMER,class I SAM-dependent methyltransferase,LLMG_RS08205(1),GenBank
+LLMG_RS08205-MONOMER,class I SAM-dependent methyltransferase,LLMG_RS08205(),GenBank
 LLMG_RS08210-MONOMER,hypothetical protein,LLMG_RS08210(),GenBank
 LLMG_RS08215-MONOMER,DNA topoisomerase (ATP-hydrolyzing) subunit B,LLMG_RS08215(),GenBank
 LLMG_RS08220-MONOMER,HAD family hydrolase,LLMG_RS08220(),GenBank
@@ -1600,7 +1600,7 @@ LLMG_RS08245-MONOMER,citrate:cation symporter,LLMG_RS08245(),GenBank
 LLMG_RS08250-MONOMER,NAD-dependent malic enzyme,LLMG_RS08250(4),GenBank
 LLMG_RS08255-MONOMER,ABC-F type ribosomal protection protein,LLMG_RS08255(),GenBank
 LLMG_RS13670-MONOMER,hypothetical protein,LLMG_RS13670(),GenBank
-LLMG_RS08260-MONOMER,(S)-acetoin forming diacetyl reductase,LLMG_RS08260(4),GenBank
+LLMG_RS08260-MONOMER,(S)-acetoin forming diacetyl reductase,LLMG_RS08260(),GenBank
 LLMG_RS08265-MONOMER,"2,3-butanediol dehydrogenase",LLMG_RS08265(),GenBank
 LLMG_RS08270-MONOMER,FtsW/RodA/SpoVE family cell cycle protein,LLMG_RS08270(),GenBank
 LLMG_RS08275-MONOMER,TVP38/TMEM64 family protein,LLMG_RS08275(),GenBank
@@ -1638,7 +1638,7 @@ LLMG_RS08425-MONOMER,ABC transporter ATP-binding protein,LLMG_RS08425(),GenBank
 LLMG_RS08430-MONOMER,ABC transporter permease,LLMG_RS08430(),GenBank
 LLMG_RS08435-MONOMER,hypothetical protein,LLMG_RS08435(),GenBank
 LLMG_RS08440-MONOMER,phospho-N-acetylmuramoyl-pentapeptide- transferase,LLMG_RS08440(1),GenBank
-LLMG_RS08445-MONOMER,penicillin-binding protein,LLMG_RS08445(1),GenBank
+LLMG_RS08445-MONOMER,penicillin-binding protein,LLMG_RS08445(),GenBank
 LLMG_RS08450-MONOMER,cell division protein FtsL,LLMG_RS08450(),GenBank
 LLMG_RS08455-MONOMER,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH,LLMG_RS08455(),GenBank
 LLMG_RS08460-MONOMER,DUF805 domain-containing protein,LLMG_RS08460(),GenBank
@@ -1666,7 +1666,7 @@ LLMG_RS08575-MONOMER,holo-ACP synthase,LLMG_RS08575(2),GenBank
 LLMG_RS08580-MONOMER,dipeptidase PepV,LLMG_RS08580(),GenBank
 LLMG_RS08585-MONOMER,GT-D fold domain-containing glycosyltransferase,LLMG_RS08585(),GenBank
 LLMG_RS13910-MONOMER,GT-D fold domain-containing glycosyltransferase,LLMG_RS13910(),GenBank
-LLMG_RS08590-MONOMER,glycosyltransferase family 8 protein,LLMG_RS08590(1),GenBank
+LLMG_RS08590-MONOMER,glycosyltransferase family 8 protein,LLMG_RS08590(),GenBank
 LLMG_RS08595-MONOMER,sugar O-acetyltransferase,LLMG_RS08595(),GenBank
 LLMG_RS08600-MONOMER,glycosyltransferase family A protein,LLMG_RS08600(),GenBank
 LLMG_RS08610-MONOMER,IS3 family transposase,LLMG_RS08610(),GenBank
@@ -1675,7 +1675,7 @@ LLMG_RS08630-MONOMER,IS3 family transposase,LLMG_RS08630(),GenBank
 LLMG_RS08635-MONOMER,A/G-specific adenine glycosylase,LLMG_RS08635(),GenBank
 LLMG_RS08640-MONOMER,excinuclease ABC subunit UvrC,LLMG_RS08640(),GenBank
 LLMG_RS08645-MONOMER,nicotinamide riboside transporter PnuC,LLMG_RS08645(),GenBank
-LLMG_RS08650-MONOMER,nucleoside phosphorylase,LLMG_RS08650(6),GenBank
+LLMG_RS08650-MONOMER,nucleoside phosphorylase,LLMG_RS08650(),GenBank
 LLMG_RS13915-MONOMER,ATP-binding protein,LLMG_RS13915(),GenBank
 LLMG_RS13920-MONOMER,histidine kinase dimerization/phospho-acceptor domain-containing protein,LLMG_RS13920(),GenBank
 LLMG_RS08660-MONOMER,response regulator transcription factor,LLMG_RS08660(),GenBank
@@ -1690,12 +1690,12 @@ LLMG_RS13685-MONOMER,hypothetical protein,LLMG_RS13685(),GenBank
 LLMG_RS08690-MONOMER,heavy metal translocating P-type ATPase,LLMG_RS08690(1),GenBank
 LLMG_RS08695-MONOMER,heavy-metal-associated domain-containing protein,LLMG_RS08695(),GenBank
 LLMG_RS08700-MONOMER,CopY/TcrY family copper transport repressor,LLMG_RS08700(),GenBank
-LLMG_RS08705-MONOMER,"L-serine ammonia-lyase, iron-sulfur-dependent, subunit alpha",LLMG_RS08705(1),GenBank
+LLMG_RS08705-MONOMER,"L-serine ammonia-lyase, iron-sulfur-dependent, subunit alpha",LLMG_RS08705(2),GenBank
 LLMG_RS08710-MONOMER,"L-serine ammonia-lyase, iron-sulfur-dependent subunit beta",LLMG_RS08710(),GenBank
-LLMG_RS08715-MONOMER,NAD(P)/FAD-dependent oxidoreductase,LLMG_RS08715(1),GenBank
+LLMG_RS08715-MONOMER,NAD(P)/FAD-dependent oxidoreductase,LLMG_RS08715(),GenBank
 LLMG_RS08720-MONOMER,NAD(P)/FAD-dependent oxidoreductase,LLMG_RS08720(),GenBank
 LLMG_RS08725-MONOMER,hypothetical protein,LLMG_RS08725(),GenBank
-LLMG_RS08730-MONOMER,alpha/beta hydrolase,LLMG_RS08730(1),GenBank
+LLMG_RS08730-MONOMER,alpha/beta hydrolase,LLMG_RS08730(),GenBank
 LLMG_RS08735-MONOMER,glycoside hydrolase family 1 protein,LLMG_RS08735(),GenBank
 LLMG_RS08740-MONOMER,PTS sugar transporter subunit IIC,LLMG_RS08740(),GenBank
 LLMG_RS08745-MONOMER,MurR/RpiR family transcriptional regulator,LLMG_RS08745(),GenBank
@@ -1732,7 +1732,7 @@ LLMG_RS08890-MONOMER,FAD-dependent oxidoreductase,LLMG_RS08890(),GenBank
 LLMG_RS08895-MONOMER,rhodanese-like domain-containing protein,LLMG_RS08895(),GenBank
 LLMG_RS08900-MONOMER,rhodanese-like domain-containing protein,LLMG_RS08900(),GenBank
 LLMG_RS08905-MONOMER,CsbD family protein,LLMG_RS08905(),GenBank
-LLMG_RS08910-MONOMER,cysteine synthase A,LLMG_RS08910(),GenBank
+LLMG_RS08910-MONOMER,cysteine synthase A,LLMG_RS08910(2),GenBank
 LLMG_RS08915-MONOMER,cystathionine gamma-synthase,LLMG_RS08915(4),GenBank
 LLMG_RS08920-MONOMER,acetyl-CoA carboxylase carboxyl transferase subunit alpha,LLMG_RS08920(),GenBank
 LLMG_RS08925-MONOMER,"acetyl-CoA carboxylase, carboxyltransferase subunit beta",LLMG_RS08925(),GenBank
@@ -1742,7 +1742,7 @@ LLMG_RS08940-MONOMER,acetyl-CoA carboxylase biotin carboxyl carrier protein,LLMG
 LLMG_RS08945-MONOMER,beta-ketoacyl-ACP synthase II,LLMG_RS08945(2),GenBank
 LLMG_RS08950-MONOMER,3-oxoacyl-[acyl-carrier-protein] reductase,LLMG_RS08950(1),GenBank
 LLMG_RS08955-MONOMER,ACP S-malonyltransferase,LLMG_RS08955(),GenBank
-LLMG_RS08960-MONOMER,acyl carrier protein,LLMG_RS08960(),GenBank
+LLMG_RS08960-MONOMER,acyl carrier protein,LLMG_RS08960(1),GenBank
 LLMG_RS08965-MONOMER,ketoacyl-ACP synthase III,LLMG_RS08965(2),GenBank
 LLMG_RS08970-MONOMER,MarR family transcriptional regulator,LLMG_RS08970(),GenBank
 LLMG_RS08975-MONOMER,"mannose-6-phosphate isomerase, class I",LLMG_RS08975(),GenBank
@@ -1780,13 +1780,13 @@ LLMG_RS09130-MONOMER,Cof-type HAD-IIB family hydrolase,LLMG_RS09130(),GenBank
 LLMG_RS09135-MONOMER,asparaginase,LLMG_RS09135(4),GenBank
 LLMG_RS09140-MONOMER,bifunctional oligoribonuclease/PAP phosphatase NrnA,LLMG_RS09140(),GenBank
 LLMG_RS09145-MONOMER,DRTGG domain-containing protein,LLMG_RS09145(),GenBank
-LLMG_RS09150-MONOMER,GNAT family N-acetyltransferase,LLMG_RS09150(1),GenBank
-LLMG_RS09155-MONOMER,isochorismate synthase,LLMG_RS09155(1),GenBank
+LLMG_RS09150-MONOMER,GNAT family N-acetyltransferase,LLMG_RS09150(),GenBank
+LLMG_RS09155-MONOMER,isochorismate synthase,LLMG_RS09155(),GenBank
 LLMG_RS09160-MONOMER,2-succinyl-5-enolpyruvyl-6-hydroxy-3- cyclohexene-1-carboxylic-acid synthase,LLMG_RS09160(2),GenBank
 LLMG_RS09165-MONOMER,"2-succinyl-6-hydroxy-2, 4-cyclohexadiene-1-carboxylate synthase",LLMG_RS09165(1),GenBank
 LLMG_RS09170-MONOMER,"1,4-dihydroxy-2-naphthoyl-CoA synthase",LLMG_RS09170(6),GenBank
-LLMG_RS09175-MONOMER,o-succinylbenzoate--CoA ligase,LLMG_RS09175(4),GenBank
-LLMG_RS09180-MONOMER,o-succinylbenzoate synthase,LLMG_RS09180(1),GenBank
+LLMG_RS09175-MONOMER,o-succinylbenzoate--CoA ligase,LLMG_RS09175(),GenBank
+LLMG_RS09180-MONOMER,o-succinylbenzoate synthase,LLMG_RS09180(),GenBank
 LLMG_RS09185-MONOMER,PaaI family thioesterase,LLMG_RS09185(),GenBank
 LLMG_RS09190-MONOMER,LacI family DNA-binding transcriptional regulator,LLMG_RS09190(),GenBank
 LLMG_RS09195-MONOMER,glycoside hydrolase family 31 protein,LLMG_RS09195(),GenBank
@@ -1821,12 +1821,12 @@ LLMG_RS13950-MONOMER,CPBP family intramembrane metalloprotease,LLMG_RS13950(),Ge
 LLMG_RS13955-MONOMER,hypothetical protein,LLMG_RS13955(),GenBank
 LLMG_RS13250-MONOMER,bacteriocin,LLMG_RS13250(),GenBank
 LLMG_RS09355-MONOMER,helix-turn-helix transcriptional regulator,LLMG_RS09355(),GenBank
-LLMG_RS09360-MONOMER,glycoside hydrolase family 13 protein,LLMG_RS09360(1),GenBank
+LLMG_RS09360-MONOMER,glycoside hydrolase family 13 protein,LLMG_RS09360(),GenBank
 LLMG_RS09365-MONOMER,glycogen/starch/alpha-glucan phosphorylase,LLMG_RS09365(2),GenBank
 LLMG_RS09370-MONOMER,glycogen synthase GlgA,LLMG_RS09370(1),GenBank
 LLMG_RS09375-MONOMER,glucose-1-phosphate adenylyltransferase subunit GlgD,LLMG_RS09375(),GenBank
 LLMG_RS09380-MONOMER,glucose-1-phosphate adenylyltransferase,LLMG_RS09380(4),GenBank
-LLMG_RS09385-MONOMER,4-alpha-glucanotransferase,LLMG_RS09385(1),GenBank
+LLMG_RS09385-MONOMER,4-alpha-glucanotransferase,LLMG_RS09385(),GenBank
 LLMG_RS09390-MONOMER,IS256-like element IS905 family transposase,LLMG_RS09390(),GenBank
 LLMG_RS09395-MONOMER,4-alpha-glucanotransferase,LLMG_RS09395(),GenBank
 LLMG_RS09400-MONOMER,transcription antitermination factor NusB,LLMG_RS09400(1),GenBank
@@ -1865,7 +1865,7 @@ LLMG_RS09560-MONOMER,competence protein CoiA family protein,LLMG_RS09560(),GenBa
 LLMG_RS09565-MONOMER,YdcF family protein,LLMG_RS09565(),GenBank
 LLMG_RS09570-MONOMER,alpha/beta hydrolase,LLMG_RS09570(),GenBank
 LLMG_RS09575-MONOMER,NCS2 family permease,LLMG_RS09575(),GenBank
-LLMG_RS09580-MONOMER,Cof-type HAD-IIB family hydrolase,LLMG_RS09580(),GenBank
+LLMG_RS09580-MONOMER,Cof-type HAD-IIB family hydrolase,LLMG_RS09580(1),GenBank
 LLMG_RS09585-MONOMER,(Fe-S)-binding protein,LLMG_RS09585(),GenBank
 LLMG_RS09590-MONOMER,LutB/LldF family L-lactate oxidation iron-sulfur protein,LLMG_RS09590(),GenBank
 LLMG_RS09595-MONOMER,lactate utilization protein C,LLMG_RS09595(),GenBank
@@ -1904,7 +1904,7 @@ LLMG_RS09750-MONOMER,F0F1 ATP synthase subunit delta,LLMG_RS09750(),GenBank
 LLMG_RS09755-MONOMER,F0F1 ATP synthase subunit B,LLMG_RS09755(),GenBank
 LLMG_RS09760-MONOMER,F0F1 ATP synthase subunit A,LLMG_RS09760(),GenBank
 LLMG_RS09765-MONOMER,F0F1 ATP synthase subunit C,LLMG_RS09765(),GenBank
-LLMG_RS09770-MONOMER,alpha/beta hydrolase family protein,LLMG_RS09770(1),GenBank
+LLMG_RS09770-MONOMER,alpha/beta hydrolase family protein,LLMG_RS09770(),GenBank
 LLMG_RS09775-MONOMER,DNA internalization-related competence protein ComEC/Rec2,LLMG_RS09775(),GenBank
 LLMG_RS09780-MONOMER,helix-hairpin-helix domain-containing protein,LLMG_RS09780(),GenBank
 LLMG_RS09785-MONOMER,ABC transporter permease,LLMG_RS09785(),GenBank
@@ -1942,13 +1942,13 @@ LLMG_RS09955-MONOMER,MGMT family protein,LLMG_RS09955(),GenBank
 LLMG_RS09960-MONOMER,polysaccharide biosynthesis protein,LLMG_RS09960(),GenBank
 LLMG_RS09965-MONOMER,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2, 6-diaminopimelate ligase",LLMG_RS09965(1),GenBank
 LLMG_RS09970-MONOMER,hypothetical protein,LLMG_RS09970(),GenBank
-LLMG_RS09975-MONOMER,alcohol dehydrogenase AdhP,LLMG_RS09975(1),GenBank
+LLMG_RS09975-MONOMER,alcohol dehydrogenase AdhP,LLMG_RS09975(),GenBank
 LLMG_RS09980-MONOMER,DNA helicase RecQ,LLMG_RS09980(),GenBank
 LLMG_RS09985-MONOMER,glutamate/gamma-aminobutyrate family transporter YjeM,LLMG_RS09985(),GenBank
 LLMG_RS09990-MONOMER,peptidase T,LLMG_RS09990(),GenBank
 LLMG_RS09995-MONOMER,DUF1803 domain-containing protein,LLMG_RS09995(),GenBank
 LLMG_RS10000-MONOMER,manganese-dependent inorganic pyrophosphatase,LLMG_RS10000(),GenBank
-LLMG_RS10005-MONOMER,pyruvate formate-lyase-activating protein,LLMG_RS10005(1),GenBank
+LLMG_RS10005-MONOMER,pyruvate formate-lyase-activating protein,LLMG_RS10005(),GenBank
 LLMG_RS10010-MONOMER,hemolysin family protein,LLMG_RS10010(),GenBank
 LLMG_RS10015-MONOMER,AI-2E family transporter,LLMG_RS10015(),GenBank
 LLMG_RS10020-MONOMER,Rrf2 family transcriptional regulator,LLMG_RS10020(),GenBank
@@ -1968,7 +1968,7 @@ LLMG_RS10085-MONOMER,hypothetical protein,LLMG_RS10085(),GenBank
 LLMG_RS10090-MONOMER,hypothetical protein,LLMG_RS10090(),GenBank
 LLMG_RS10095-MONOMER,asparagine--tRNA ligase,LLMG_RS10095(2),GenBank
 LLMG_RS10100-MONOMER,hypothetical protein,LLMG_RS10100(),GenBank
-LLMG_RS10105-MONOMER,pyridoxal phosphate-dependent aminotransferase,LLMG_RS10105(),GenBank
+LLMG_RS10105-MONOMER,pyridoxal phosphate-dependent aminotransferase,LLMG_RS10105(2),GenBank
 LLMG_RS10110-MONOMER,DUF5590 domain-containing protein,LLMG_RS10110(),GenBank
 LLMG_RS10115-MONOMER,exonuclease domain-containing protein,LLMG_RS10115(),GenBank
 LLMG_RS10120-MONOMER,universal stress protein,LLMG_RS10120(),GenBank
@@ -2020,7 +2020,7 @@ LLMG_RS10335-MONOMER,HD domain-containing protein,LLMG_RS10335(),GenBank
 LLMG_RS10340-MONOMER,hypothetical protein,LLMG_RS10340(),GenBank
 LLMG_RS10345-MONOMER,5'-methylthioadenosine/adenosylhomocysteine nucleosidase,LLMG_RS10345(2),GenBank
 LLMG_RS10350-MONOMER,cell wall synthase accessory phosphoprotein MacP,LLMG_RS10350(),GenBank
-LLMG_RS10355-MONOMER,NUDIX hydrolase,LLMG_RS10355(),GenBank
+LLMG_RS10355-MONOMER,NUDIX hydrolase,LLMG_RS10355(3),GenBank
 LLMG_RS10360-MONOMER,bifunctional UDP-N-acetylglucosamine diphosphorylase/glucosamine-1-phosphate N-acetyltransferase GlmU,LLMG_RS10360(3),GenBank
 LLMG_RS10365-MONOMER,pyrroline-5-carboxylate reductase,LLMG_RS10365(10),GenBank
 LLMG_RS10370-MONOMER,30S ribosomal protein S15,LLMG_RS10370(1),GenBank
@@ -2108,7 +2108,7 @@ LLMG_RS10780-MONOMER,guanylate kinase,LLMG_RS10780(2),GenBank
 LLMG_RS10785-MONOMER,ribonuclease Y,LLMG_RS10785(),GenBank
 LLMG_RS10790-MONOMER,glucosamine-6-phosphate deaminase,LLMG_RS10790(),GenBank
 LLMG_RS10795-MONOMER,methionine adenosyltransferase,LLMG_RS10795(4),GenBank
-LLMG_RS10800-MONOMER,cyclopropane-fatty-acyl-phospholipid synthase family protein,LLMG_RS10800(2),GenBank
+LLMG_RS10800-MONOMER,cyclopropane-fatty-acyl-phospholipid synthase family protein,LLMG_RS10800(),GenBank
 LLMG_RS10805-MONOMER,biotin--[acetyl-CoA-carboxylase] ligase,LLMG_RS10805(),GenBank
 LLMG_RS10810-MONOMER,PspC domain-containing protein,LLMG_RS10810(),GenBank
 LLMG_RS10815-MONOMER,PspC domain-containing protein,LLMG_RS10815(),GenBank
@@ -2117,14 +2117,14 @@ LLMG_RS10825-MONOMER,amidase domain-containing protein,LLMG_RS10825(),GenBank
 LLMG_RS10830-MONOMER,IS256-like element IS905 family transposase,LLMG_RS10830(),GenBank
 LLMG_RS10835-MONOMER,fructose-bisphosphate aldolase,LLMG_RS10835(),GenBank
 LLMG_RS10895-MONOMER,trimeric intracellular cation channel family protein,LLMG_RS10895(),GenBank
-LLMG_RS10900-MONOMER,threonine--tRNA ligase,LLMG_RS10900(2),GenBank
+LLMG_RS10900-MONOMER,threonine--tRNA ligase,LLMG_RS10900(),GenBank
 LLMG_RS10905-MONOMER,ATP cone domain-containing protein,LLMG_RS10905(),GenBank
 LLMG_RS10910-MONOMER,Nramp family divalent metal transporter,LLMG_RS10910(),GenBank
 LLMG_RS10915-MONOMER,nitroreductase family protein,LLMG_RS10915(),GenBank
 LLMG_RS10925-MONOMER,IS3 family transposase,LLMG_RS10925(),GenBank
 LLMG_RS10930-MONOMER,IS3 family transposase,LLMG_RS10930(),GenBank
 LLMG_RS10940-MONOMER,uracil phosphoribosyltransferase,LLMG_RS10940(3),GenBank
-LLMG_RS10945-MONOMER,cation:proton antiporter,LLMG_RS10945(),GenBank
+LLMG_RS10945-MONOMER,cation:proton antiporter,LLMG_RS10945(2),GenBank
 LLMG_RS10950-MONOMER,pyridoxal phosphate-dependent aminotransferase,LLMG_RS10950(),GenBank
 LLMG_RS10955-MONOMER,cystathionine gamma-synthase,LLMG_RS10955(),GenBank
 LLMG_RS10960-MONOMER,homoserine O-succinyltransferase,LLMG_RS10960(2),GenBank
@@ -2177,16 +2177,16 @@ LLMG_RS11195-MONOMER,alpha/beta hydrolase,LLMG_RS11195(),GenBank
 LLMG_RS11200-MONOMER,UDP-glucose 4-epimerase GalE,LLMG_RS11200(2),GenBank
 LLMG_RS11205-MONOMER,UDP-glucose--hexose-1-phosphate uridylyltransferase,LLMG_RS11205(),GenBank
 LLMG_RS11210-MONOMER,galactokinase,LLMG_RS11210(1),GenBank
-LLMG_RS11215-MONOMER,galactose mutarotase,LLMG_RS11215(1),GenBank
-LLMG_RS11220-MONOMER,glycoside-pentoside-hexuronide (GPH):cation symporter,LLMG_RS11220(1),GenBank
+LLMG_RS11215-MONOMER,galactose mutarotase,LLMG_RS11215(),GenBank
+LLMG_RS11220-MONOMER,glycoside-pentoside-hexuronide (GPH):cation symporter,LLMG_RS11220(),GenBank
 LLMG_RS11225-MONOMER,MurR/RpiR family transcriptional regulator,LLMG_RS11225(),GenBank
-LLMG_RS11230-MONOMER,L-glyceraldehyde 3-phosphate reductase,LLMG_RS11230(1),GenBank
-LLMG_RS11235-MONOMER,nicotinamide-nucleotide adenylyltransferase,LLMG_RS11235(1),GenBank
-LLMG_RS11240-MONOMER,D-2-hydroxyacid dehydrogenase,LLMG_RS11240(1),GenBank
+LLMG_RS11230-MONOMER,L-glyceraldehyde 3-phosphate reductase,LLMG_RS11230(),GenBank
+LLMG_RS11235-MONOMER,nicotinamide-nucleotide adenylyltransferase,LLMG_RS11235(),GenBank
+LLMG_RS11240-MONOMER,D-2-hydroxyacid dehydrogenase,LLMG_RS11240(),GenBank
 LLMG_RS11245-MONOMER,U32 family peptidase,LLMG_RS11245(),GenBank
 LLMG_RS11250-MONOMER,peptidase U32 family protein,LLMG_RS11250(),GenBank
 LLMG_RS11255-MONOMER,DUF3270 family protein,LLMG_RS11255(),GenBank
-LLMG_RS11260-MONOMER,methyltransferase domain-containing protein,LLMG_RS11260(),GenBank
+LLMG_RS11260-MONOMER,methyltransferase domain-containing protein,LLMG_RS11260(2),GenBank
 LLMG_RS11265-MONOMER,hypothetical protein,LLMG_RS11265(),GenBank
 LLMG_RS11270-MONOMER,AAA family ATPase,LLMG_RS11270(),GenBank
 LLMG_RS11275-MONOMER,hypothetical protein,LLMG_RS11275(),GenBank
@@ -2246,7 +2246,7 @@ LLMG_RS11555-MONOMER,DNA polymerase IV,LLMG_RS11555(),GenBank
 LLMG_RS11560-MONOMER,YbaK/EbsC family protein,LLMG_RS11560(),GenBank
 LLMG_RS11565-MONOMER,basic amino acid/polyamine antiporter,LLMG_RS11565(),GenBank
 LLMG_RS11570-MONOMER,aminotransferase,LLMG_RS11570(),GenBank
-LLMG_RS11575-MONOMER,carbamate kinase,LLMG_RS11575(1),GenBank
+LLMG_RS11575-MONOMER,carbamate kinase,LLMG_RS11575(),GenBank
 LLMG_RS11580-MONOMER,carbamate kinase,LLMG_RS11580(),GenBank
 LLMG_RS11585-MONOMER,basic amino acid/polyamine antiporter,LLMG_RS11585(1),GenBank
 LLMG_RS11590-MONOMER,ornithine carbamoyltransferase,LLMG_RS11590(),GenBank
@@ -2266,7 +2266,7 @@ LLMG_RS11655-MONOMER,pyridoxamine 5'-phosphate oxidase family protein,LLMG_RS116
 LLMG_RS11660-MONOMER,CPBP family intramembrane metalloprotease,LLMG_RS11660(),GenBank
 LLMG_RS11665-MONOMER,aquaporin family protein,LLMG_RS11665(),GenBank
 LLMG_RS11670-MONOMER,Xaa-Pro dipeptidyl-peptidase,LLMG_RS11670(),GenBank
-LLMG_RS11675-MONOMER,gamma-glutamyl-gamma-aminobutyrate hydrolase family protein,LLMG_RS11675(2),GenBank
+LLMG_RS11675-MONOMER,gamma-glutamyl-gamma-aminobutyrate hydrolase family protein,LLMG_RS11675(),GenBank
 LLMG_RS11680-MONOMER,amino acid ABC transporter substrate-binding protein,LLMG_RS11680(),GenBank
 LLMG_RS11685-MONOMER,FAD-dependent oxidoreductase,LLMG_RS11685(),GenBank
 LLMG_RS11690-MONOMER,glutamate--tRNA ligase,LLMG_RS11690(1),GenBank
@@ -2283,8 +2283,8 @@ LLMG_RS11740-MONOMER,PIN/TRAM domain-containing protein,LLMG_RS11740(),GenBank
 LLMG_RS11745-MONOMER,YoaK family protein,LLMG_RS11745(),GenBank
 LLMG_RS11750-MONOMER,DNA repair protein RadA,LLMG_RS11750(),GenBank
 LLMG_RS11755-MONOMER,glycosyltransferase family 2 protein,LLMG_RS11755(),GenBank
-LLMG_RS11760-MONOMER,HAD family hydrolase,LLMG_RS11760(1),GenBank
-LLMG_RS11765-MONOMER,SIS domain-containing protein,LLMG_RS11765(4),GenBank
+LLMG_RS11760-MONOMER,HAD family hydrolase,LLMG_RS11760(),GenBank
+LLMG_RS11765-MONOMER,SIS domain-containing protein,LLMG_RS11765(),GenBank
 LLMG_RS11770-MONOMER,GHMP kinase,LLMG_RS11770(),GenBank
 LLMG_RS11775-MONOMER,hypothetical protein,LLMG_RS11775(),GenBank
 LLMG_RS11780-MONOMER,"alpha-1,2-fucosyltransferase",LLMG_RS11780(),GenBank
@@ -2295,7 +2295,7 @@ LLMG_RS11805-MONOMER,50S ribosomal protein L17,LLMG_RS11805(1),GenBank
 LLMG_RS11810-MONOMER,DNA-directed RNA polymerase subunit alpha,LLMG_RS11810(),GenBank
 LLMG_RS11815-MONOMER,30S ribosomal protein S11,LLMG_RS11815(1),GenBank
 LLMG_RS11820-MONOMER,30S ribosomal protein S13,LLMG_RS11820(1),GenBank
-LLMG_RS11825-MONOMER,50S ribosomal protein L36,LLMG_RS11825(1),GenBank
+LLMG_RS11825-MONOMER,50S ribosomal protein L36,LLMG_RS11825(),GenBank
 LLMG_RS11830-MONOMER,translation initiation factor IF-1,LLMG_RS11830(1),GenBank
 LLMG_RS11835-MONOMER,adenylate kinase,LLMG_RS11835(1),GenBank
 LLMG_RS11840-MONOMER,preprotein translocase subunit SecY,LLMG_RS11840(),GenBank
@@ -2307,7 +2307,7 @@ LLMG_RS11865-MONOMER,50S ribosomal protein L6,LLMG_RS11865(1),GenBank
 LLMG_RS11870-MONOMER,30S ribosomal protein S8,LLMG_RS11870(1),GenBank
 LLMG_RS13995-MONOMER,hypothetical protein,LLMG_RS13995(),GenBank
 LLMG_RS14000-MONOMER,hypothetical protein,LLMG_RS14000(),GenBank
-LLMG_RS11880-MONOMER,type Z 30S ribosomal protein S14,LLMG_RS11880(1),GenBank
+LLMG_RS11880-MONOMER,type Z 30S ribosomal protein S14,LLMG_RS11880(),GenBank
 LLMG_RS11885-MONOMER,50S ribosomal protein L5,LLMG_RS11885(1),GenBank
 LLMG_RS11890-MONOMER,50S ribosomal protein L24,LLMG_RS11890(1),GenBank
 LLMG_RS11895-MONOMER,50S ribosomal protein L14,LLMG_RS11895(1),GenBank
@@ -2318,18 +2318,18 @@ LLMG_RS11915-MONOMER,30S ribosomal protein S3,LLMG_RS11915(1),GenBank
 LLMG_RS11920-MONOMER,50S ribosomal protein L22,LLMG_RS11920(1),GenBank
 LLMG_RS11925-MONOMER,30S ribosomal protein S19,LLMG_RS11925(1),GenBank
 LLMG_RS11930-MONOMER,50S ribosomal protein L2,LLMG_RS11930(1),GenBank
-LLMG_RS11935-MONOMER,50S ribosomal protein L23,LLMG_RS11935(1),GenBank
+LLMG_RS11935-MONOMER,50S ribosomal protein L23,LLMG_RS11935(),GenBank
 LLMG_RS11940-MONOMER,50S ribosomal protein L4,LLMG_RS11940(1),GenBank
 LLMG_RS11945-MONOMER,50S ribosomal protein L3,LLMG_RS11945(1),GenBank
 LLMG_RS11950-MONOMER,30S ribosomal protein S10,LLMG_RS11950(1),GenBank
 LLMG_RS11955-MONOMER,large-conductance mechanosensitive channel protein MscL,LLMG_RS11955(),GenBank
 LLMG_RS11960-MONOMER,MATE family efflux transporter,LLMG_RS11960(),GenBank
-LLMG_RS11965-MONOMER,threonine synthase,LLMG_RS11965(1),GenBank
+LLMG_RS11965-MONOMER,threonine synthase,LLMG_RS11965(),GenBank
 LLMG_RS11970-MONOMER,transcription termination/antitermination protein NusG,LLMG_RS11970(1),GenBank
 LLMG_RS11975-MONOMER,preprotein translocase subunit SecE,LLMG_RS11975(),GenBank
 LLMG_RS11980-MONOMER,50S ribosomal protein L33,LLMG_RS11980(),GenBank
 LLMG_RS11985-MONOMER,acyltransferase family protein,LLMG_RS11985(),GenBank
-LLMG_RS11990-MONOMER,PBP1A family penicillin-binding protein,LLMG_RS11990(2),GenBank
+LLMG_RS11990-MONOMER,PBP1A family penicillin-binding protein,LLMG_RS11990(),GenBank
 LLMG_RS11995-MONOMER,DUF421 domain-containing protein,LLMG_RS11995(),GenBank
 LLMG_RS12000-MONOMER,DUF3290 domain-containing protein,LLMG_RS12000(),GenBank
 LLMG_RS12005-MONOMER,pyridoxamine 5'-phosphate oxidase family protein,LLMG_RS12005(),GenBank
@@ -2352,7 +2352,7 @@ LLMG_RS14005-MONOMER,hypothetical protein,LLMG_RS14005(),GenBank
 LLMG_RS12090-MONOMER,FAD/NAD(P)-binding oxidoreductase,LLMG_RS12090(),GenBank
 LLMG_RS12095-MONOMER,proline--tRNA ligase,LLMG_RS12095(2),GenBank
 LLMG_RS12100-MONOMER,RIP metalloprotease RseP,LLMG_RS12100(),GenBank
-LLMG_RS12105-MONOMER,phosphatidate cytidylyltransferase,LLMG_RS12105(),GenBank
+LLMG_RS12105-MONOMER,phosphatidate cytidylyltransferase,LLMG_RS12105(1),GenBank
 LLMG_RS12110-MONOMER,isoprenyl transferase,LLMG_RS12110(2),GenBank
 LLMG_RS12115-MONOMER,preprotein translocase subunit YajC,LLMG_RS12115(),GenBank
 LLMG_RS12120-MONOMER,DNA alkylation repair protein,LLMG_RS12120(),GenBank
@@ -2370,7 +2370,7 @@ LLMG_RS12195-MONOMER,septation ring formation regulator EzrA,LLMG_RS12195(),GenB
 LLMG_RS12200-MONOMER,translation elongation factor Ts,LLMG_RS12200(1),GenBank
 LLMG_RS12205-MONOMER,30S ribosomal protein S2,LLMG_RS12205(1),GenBank
 LLMG_RS12210-MONOMER,lactonase family protein,LLMG_RS12210(1),GenBank
-LLMG_RS12215-MONOMER,bifunctional acetaldehyde-CoA/alcohol dehydrogenase,LLMG_RS12215(40),GenBank
+LLMG_RS12215-MONOMER,bifunctional acetaldehyde-CoA/alcohol dehydrogenase,LLMG_RS12215(),GenBank
 LLMG_RS12220-MONOMER,nitroreductase family protein,LLMG_RS12220(),GenBank
 LLMG_RS12225-MONOMER,hypothetical protein,LLMG_RS12225(),GenBank
 LLMG_RS12230-MONOMER,radical SAM protein,LLMG_RS12230(),GenBank
@@ -2400,20 +2400,20 @@ LLMG_RS12340-MONOMER,DUF1912 family protein,LLMG_RS12340(),GenBank
 LLMG_RS12345-MONOMER,MmcQ/YjbR family DNA-binding protein,LLMG_RS12345(),GenBank
 LLMG_RS12350-MONOMER,GNAT family N-acetyltransferase,LLMG_RS12350(),GenBank
 LLMG_RS12355-MONOMER,B3/4 domain-containing protein,LLMG_RS12355(),GenBank
-LLMG_RS12360-MONOMER,23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD,LLMG_RS12360(1),GenBank
+LLMG_RS12360-MONOMER,23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD,LLMG_RS12360(),GenBank
 LLMG_RS12365-MONOMER,MucBP domain-containing protein,LLMG_RS12365(),GenBank
 LLMG_RS12370-MONOMER,recombination regulator RecX,LLMG_RS12370(),GenBank
-LLMG_RS12395-MONOMER,gluconate:H+ symporter,LLMG_RS12395(1),GenBank
-LLMG_RS12400-MONOMER,gluconokinase,LLMG_RS12400(2),GenBank
+LLMG_RS12395-MONOMER,gluconate:H+ symporter,LLMG_RS12395(),GenBank
+LLMG_RS12400-MONOMER,gluconokinase,LLMG_RS12400(),GenBank
 LLMG_RS12405-MONOMER,decarboxylating 6-phosphogluconate dehydrogenase,LLMG_RS12405(),GenBank
 LLMG_RS12410-MONOMER,MurR/RpiR family transcriptional regulator,LLMG_RS12410(),GenBank
 LLMG_RS12415-MONOMER,DUF960 domain-containing protein,LLMG_RS12415(),GenBank
 LLMG_RS12420-MONOMER,metallophosphoesterase,LLMG_RS12420(),GenBank
 LLMG_RS12425-MONOMER,30S ribosomal protein S18,LLMG_RS12425(1),GenBank
 LLMG_RS12430-MONOMER,single-stranded DNA-binding protein,LLMG_RS12430(),GenBank
-LLMG_RS12435-MONOMER,30S ribosomal protein S6,LLMG_RS12435(),GenBank
+LLMG_RS12435-MONOMER,30S ribosomal protein S6,LLMG_RS12435(1),GenBank
 LLMG_RS12440-MONOMER,undecaprenyl-diphosphate phosphatase,LLMG_RS12440(1),GenBank
-LLMG_RS12445-MONOMER,amino acid permease,LLMG_RS12445(1),GenBank
+LLMG_RS12445-MONOMER,amino acid permease,LLMG_RS12445(),GenBank
 LLMG_RS12450-MONOMER,DNA polymerase III subunit gamma/tau,LLMG_RS12450(),GenBank
 LLMG_RS12455-MONOMER,phosphotransferase,LLMG_RS12455(),GenBank
 LLMG_RS12460-MONOMER,GAF domain-containing protein,LLMG_RS12460(),GenBank
@@ -2430,7 +2430,7 @@ LLMG_RS12510-MONOMER,hypothetical protein,LLMG_RS12510(),GenBank
 LLMG_RS12515-MONOMER,DNA mismatch repair protein MutS,LLMG_RS12515(),GenBank
 LLMG_RS12520-MONOMER,RicAFT regulatory complex protein RicA family protein,LLMG_RS12520(),GenBank
 LLMG_RS12525-MONOMER,IS256-like element IS905 family transposase,LLMG_RS12525(),GenBank
-LLMG_RS12530-MONOMER,NAD(P)-dependent oxidoreductase,LLMG_RS12530(4),GenBank
+LLMG_RS12530-MONOMER,NAD(P)-dependent oxidoreductase,LLMG_RS12530(1),GenBank
 LLMG_RS13570-MONOMER,hypothetical protein,LLMG_RS13570(),GenBank
 LLMG_RS12545-MONOMER,DUF1634 domain-containing protein,LLMG_RS12545(),GenBank
 LLMG_RS12550-MONOMER,sulfite exporter TauE/SafE family protein,LLMG_RS12550(),GenBank
@@ -2442,12 +2442,12 @@ LLMG_RS14020-MONOMER,C39 family peptidase,LLMG_RS14020(),GenBank
 LLMG_RS14025-MONOMER,hypothetical protein,LLMG_RS14025(),GenBank
 LLMG_RS12580-MONOMER,amino acid racemase,LLMG_RS12580(),GenBank
 LLMG_RS12585-MONOMER,carboxylate--amine ligase,LLMG_RS12585(),GenBank
-LLMG_RS12590-MONOMER,asparagine synthase (glutamine-hydrolyzing),LLMG_RS12590(),GenBank
+LLMG_RS12590-MONOMER,asparagine synthase (glutamine-hydrolyzing),LLMG_RS12590(2),GenBank
 LLMG_RS12595-MONOMER,CHAP domain-containing protein,LLMG_RS12595(),GenBank
 LLMG_RS12600-MONOMER,rod shape-determining protein MreD,LLMG_RS12600(),GenBank
 LLMG_RS12605-MONOMER,rod shape-determining protein MreC,LLMG_RS12605(),GenBank
 LLMG_RS12610-MONOMER,NUDIX hydrolase,LLMG_RS12610(),GenBank
-LLMG_RS12615-MONOMER,ribose-5-phosphate isomerase RpiA,LLMG_RS12615(2),GenBank
+LLMG_RS12615-MONOMER,ribose-5-phosphate isomerase RpiA,LLMG_RS12615(),GenBank
 LLMG_RS12620-MONOMER,Crp/Fnr family transcriptional regulator,LLMG_RS12620(),GenBank
 LLMG_RS12625-MONOMER,MFS transporter,LLMG_RS12625(),GenBank
 LLMG_RS12630-MONOMER,universal stress protein,LLMG_RS12630(),GenBank
@@ -2496,7 +2496,7 @@ LLMG_RS12895-MONOMER,30S ribosomal protein S7,LLMG_RS12895(1),GenBank
 LLMG_RS12900-MONOMER,30S ribosomal protein S12,LLMG_RS12900(1),GenBank
 LLMG_RS12905-MONOMER,hypothetical protein,LLMG_RS12905(),GenBank
 LLMG_RS12910-MONOMER,hypothetical protein,LLMG_RS12910(),GenBank
-LLMG_RS12915-MONOMER,serine hydrolase,LLMG_RS12915(1),GenBank
+LLMG_RS12915-MONOMER,serine hydrolase,LLMG_RS12915(),GenBank
 LLMG_RS12920-MONOMER,GRP family sugar transporter,LLMG_RS12920(),GenBank
 LLMG_RS12925-MONOMER,class I SAM-dependent methyltransferase,LLMG_RS12925(),GenBank
 LLMG_RS12930-MONOMER,TIGR01212 family radical SAM protein,LLMG_RS12930(),GenBank
@@ -2521,42 +2521,42 @@ CPLX_DHAPT-0,Dihydroxyacetone phosphotransferase,LLMG_RS01335() AND LLMG_RS01350
 CPLX_DHORDi-0,Dihydoorotic acid dehydrogenase  irreversible ,LLMG_RS05610() AND LLMG_RS05615(),iNF517(DHORDi)
 CPLX_GLUabc-0,L-glutamate transport via ABC system,LLMG_RS09920() AND LLMG_RS09915(),iNF517(GLUabc)
 CPLX_GLYBabc-0,Glycine betaine transport via ABC system,LLMG_RS05325() AND LLMG_RS05330(),iNF517(GLYBabc)
-CPLX_FE3abc-0,Iron (III) transport via ABC system,LLMG_RS01785() AND LLMG_RS01790() AND LLMG_RS01795() AND LLMG_RS01800(),iNF517(FE3abc)
+CPLX_FE3abc-0,Iron (III) transport via ABC system,LLMG_RS01790() AND LLMG_RS01785() AND LLMG_RS01795() AND LLMG_RS01800(),iNF517(FE3abc)
 CPLX_GLCP-0,Glycogen phosphorylase,LLMG_RS09360() AND LLMG_RS09365(),iNF517(GLCP)
 CPLX_GLCS1-0,Glycogen synthase (ADPGlc),LLMG_RS09370() AND LLMG_RS00845(),iNF517(GLCS1)
-CPLX_GLGC-0,Glucose-1-phosphate adenylyltransferase,LLMG_RS09380() AND LLMG_RS09375(),iNF517(GLGC)
-CPLX_GLNTRS2-0,Glutaminyl tRNA synthetase,LLMG_RS00935() AND LLMG_RS00940() AND LLMG_RS00930(),iNF517(GLNTRS2)
+CPLX_GLGC-0,Glucose-1-phosphate adenylyltransferase,LLMG_RS09375() AND LLMG_RS09380(),iNF517(GLGC)
+CPLX_GLNTRS2-0,Glutaminyl tRNA synthetase,LLMG_RS00930() AND LLMG_RS00935() AND LLMG_RS00940(),iNF517(GLNTRS2)
 CPLX_GLNabc-0,L-glutamine transport via ABC system,LLMG_RS09715() AND LLMG_RS09720(),iNF517(GLNabc)
 CPLX_GLUSy-0,Glutamate synthase (NADPH),LLMG_RS05995(4) AND LLMG_RS05990(4),iNF517(GLUSy)
 CPLX_IG3PS_1-0,Imidazole glycerol 3 phosphate synthase,LLMG_RS06540(1) AND LLMG_RS06550(1),iNF517(IG3PS_1)
 CPLX_IPPMIa-0,3-isopropylmalate dehydratase,LLMG_RS06500(1) AND LLMG_RS06510(1),iNF517(IPPMIa)
 CPLX_MALTabc-0,Maltose transport via ABC system,LLMG_RS03810() AND LLMG_RS03815() AND LLMG_RS03820(),iNF517(MALTabc)
 CPLX_METabc-0,L-methionine transport via ABC system,LLMG_RS01760() AND LLMG_RS01755() AND LLMG_RS01740(),iNF517(METabc)
-CPLX_METabc-1,L-methionine transport via ABC system,LLMG_RS01735() AND LLMG_RS01760() AND LLMG_RS01755(2),iNF517(METabc)
+CPLX_METabc-1,L-methionine transport via ABC system,LLMG_RS01760() AND LLMG_RS01755() AND LLMG_RS01735(),iNF517(METabc)
 CPLX_METabc-2,L-methionine transport via ABC system,LLMG_RS01760() AND LLMG_RS01755() AND LLMG_RS01730(),iNF517(METabc)
-CPLX_METabc-3,L-methionine transport via ABC system,LLMG_RS01760() AND LLMG_RS01755() AND LLMG_RS01750(),iNF517(METabc)
+CPLX_METabc-3,L-methionine transport via ABC system,LLMG_RS01750() AND LLMG_RS01760() AND LLMG_RS01755(2),iNF517(METabc)
 CPLX_MNabc-0,Manganese transport via ABC system,LLMG_RS05770() AND LLMG_RS05775() AND LLMG_RS05780(),iNF517(MNabc)
 CPLX_PFL-0,Pyruvate formate lyase,LLMG_RS03285() AND LLMG_RS10005(),iNF517(PFL)
 CPLX_PGGT2-0,Peptidoglycan glycosyltransferase,LLMG_RS02600() AND LLMG_RS11990() AND LLMG_RS08445(),iNF517(PGGT2)
 CPLX_PGGT2-1,Peptidoglycan glycosyltransferase,LLMG_RS02600() AND LLMG_RS11990() AND LLMG_RS01845(),iNF517(PGGT2)
 CPLX_SBTpts-0,D-sorbitol transport via PEP:Pyr PTS,LLMG_RS00670() AND LLMG_RS00675(),iNF517(SBTpts)
 CPLX_PPIabc-0,Diphosphate transport in via ABC system,LLMG_RS09490() AND LLMG_RS09495() AND LLMG_RS09500() AND LLMG_RS09505() AND LLMG_RS09510() AND LLMG_RS09515(),iNF517(PPIabc)
-CPLX_PRFGS_1-0,Phosphoribosylformylglycinamidine synthase,LLMG_RS04955() AND LLMG_RS04960() AND LLMG_RS04965(),iNF517(PRFGS_1)
-CPLX_PTRCabc-0,Putrescine transport via ABC system,LLMG_RS06720(1) AND LLMG_RS06725(1) AND LLMG_RS06730(2) AND LLMG_RS06715(1),iNF517(PTRCabc)
-CPLX_RIBabc-0,D-ribose transport via ABC system,LLMG_RS04060() AND LLMG_RS04065() AND LLMG_RS04070(),iNF517(RIBabc)
+CPLX_PRFGS_1-0,Phosphoribosylformylglycinamidine synthase,LLMG_RS04960() AND LLMG_RS04965() AND LLMG_RS04955(),iNF517(PRFGS_1)
+CPLX_PTRCabc-0,Putrescine transport via ABC system,LLMG_RS06730() AND LLMG_RS06725() AND LLMG_RS06720() AND LLMG_RS06715(),iNF517(PTRCabc)
+CPLX_RIBabc-0,D-ribose transport via ABC system,LLMG_RS04070() AND LLMG_RS04065() AND LLMG_RS04060(),iNF517(RIBabc)
 CPLX_RNDR4-0,Ribonucleoside-diphosphate reductase (UDP),LLMG_RS07765(2) AND LLMG_RS07760(2),iNF517(RNDR4)
-CPLX_SERD_L-0,L-serine deaminase,LLMG_RS08705() AND LLMG_RS08710(),iNF517(SERD_L)
-CPLX_OIVD1r-0,2-oxoisovalerate dehydrogenase (acylating; 4-methyl-2-oxopentaoate),LLMG_RS00400() AND LLMG_RS00405() AND LLMG_RS00395() AND LLMG_RS00390(),iNF517(OIVD1r)
+CPLX_SERD_L-0,L-serine deaminase,LLMG_RS08710() AND LLMG_RS08705(),iNF517(SERD_L)
+CPLX_OIVD1r-0,2-oxoisovalerate dehydrogenase (acylating; 4-methyl-2-oxopentaoate),LLMG_RS00405(60) AND LLMG_RS00400(60) AND LLMG_RS00395(60) AND LLMG_RS00390(6),iNF517(OIVD1r)
 CPLX_TRPS2-0,Tryptophan synthase (indole),LLMG_RS05285(2) AND LLMG_RS05280(2),iNF517(TRPS2)
-CPLX_ACCOAC-0,Acetyl-CoA carboxylase,LLMG_RS08920() AND LLMG_RS08940() AND LLMG_RS08930() AND LLMG_RS08925() AND LLMG_RS09820(),iNF517(ACCOAC)
+CPLX_ACCOAC-0,Acetyl-CoA carboxylase,LLMG_RS08920() AND LLMG_RS08925() AND LLMG_RS08940() AND LLMG_RS08930() AND LLMG_RS09820(),iNF517(ACCOAC)
 CPLX_ACCOAC-1,Acetyl-CoA carboxylase,LLMG_RS08920() AND LLMG_RS08940() AND LLMG_RS08930() AND LLMG_RS08925() AND LLMG_RS10805(),iNF517(ACCOAC)
 CPLX_TREpts-0,Trehalose transport via PEP:Pyr PTS,LLMG_RS02305() AND LLMG_RS00670() AND LLMG_RS00675(),iNF517(TREpts)
 CPLX_UDCPDPS-0,Undecaprenyl diphosphate synthase,LLMG_RS05635() AND LLMG_RS12110(),iNF517(UDCPDPS)
 CPLX_MNLpts-0,Mannitol transport via PEP:Pyr PTS,LLMG_RS00140() AND LLMG_RS00150() AND LLMG_RS00670() AND LLMG_RS00675(),iNF517(MNLpts)
-CPLX_ZNabc-0,Zinc transport via ABC system,LLMG_RS12025() AND LLMG_RS12030() AND LLMG_RS12035(),iNF517(ZNabc)
+CPLX_ZNabc-0,Zinc transport via ABC system,LLMG_RS12025(2) AND LLMG_RS12030(2) AND LLMG_RS12035(1),iNF517(ZNabc)
 CPLX_GLCpts-0,D-glucose transport via PEP:Pyr PTS,LLMG_RS03760() AND LLMG_RS00670() AND LLMG_RS00675(),iNF517(GLCpts)
 CPLX_GLCpts-1,D-glucose transport via PEP:Pyr PTS,LLMG_RS03765() AND LLMG_RS00670() AND LLMG_RS00675(),iNF517(GLCpts)
 CPLX_GLCpts-2,D-glucose transport via PEP:Pyr PTS,LLMG_RS03755() AND LLMG_RS00670() AND LLMG_RS00675(),iNF517(GLCpts)
 CPLX_CELBpts-0,Cellobiose transport via PEPPyr PTS,LLMG_RS02225() AND LLMG_RS02230() AND LLMG_RS02240() AND LLMG_RS00670() AND LLMG_RS00675(),iNF517(CELBpts)
 CPLX_FRUpts-0,D-fructose transport via PEP:Pyr PTS,LLMG_RS07900() AND LLMG_RS00670() AND LLMG_RS00675(),iNF517(FRUpts)
-CPLX_SUCpts-0,Sucrose transport via PEP:Pyr PTS,LLMG_RS07195() AND LLMG_RS00670() AND LLMG_RS00675(),iNF517(SUCpts)
+CPLX_SUCpts-0,Sucrose transport via PEP:Pyr PTS,LLMG_RS00670() AND LLMG_RS00675() AND LLMG_RS07195(),iNF517(SUCpts)

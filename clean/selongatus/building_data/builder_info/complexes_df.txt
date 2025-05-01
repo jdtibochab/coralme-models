@@ -19,7 +19,7 @@ SYNPCC7942_1875-MONOMER,conserved hypothetical protein,SYNPCC7942_RS09510(),BioC
 SYNPCC7942_2137-MONOMER,"Magnesium-chelatase, subunit H",SYNPCC7942_RS10840(),BioCyc
 SYNPCC7942_0750-MONOMER,"phage tail tape measure protein TP901, core region",SYNPCC7942_RS03885(),BioCyc
 SYNPCC7942_2505-MONOMER,Caffeoyl-CoA O-methyltransferase,SYNPCC7942_RS12710(),BioCyc
-SYNPCC7942_1124-MONOMER,Exoribonuclease II,SYNPCC7942_RS05755(1),BioCyc
+SYNPCC7942_1124-MONOMER,Exoribonuclease II,SYNPCC7942_RS05755(),BioCyc
 NTCA,NtcA global nitrogen regulator,SYNPCC7942_RS00645(),BioCyc
 SYNPCC7942_1489-MONOMER,bicarbonatee transport permease,SYNPCC7942_RS07610(),BioCyc
 SYNPCC7942_0369-MONOMER,putative flavin-containing monoamine oxidase,SYNPCC7942_RS01880(),BioCyc
@@ -59,8 +59,8 @@ SYNPCC7942_0289-MONOMER,protein translocase SecA,SYNPCC7942_RS01470(1),BioCyc
 SYNPCC7942_1779-MONOMER,DNA repair protein RecN,SYNPCC7942_RS09040(),BioCyc
 SYNPCC7942_0654-MONOMER,photosystem I assembly protein Ycf,SYNPCC7942_RS03350(),BioCyc
 SYNPCC7942_0651-MONOMER,replication restart DNA helicase,SYNPCC7942_RS03335(),BioCyc
-SYNPCC7942_2406-MONOMER,FAD dependent oxidoreductase,SYNPCC7942_RS12230(1),BioCyc
-SYNPCC7942_1021-MONOMER,O-succinylbenzoic acid-CoA ligase,SYNPCC7942_RS05250(4),BioCyc
+SYNPCC7942_2406-MONOMER,FAD dependent oxidoreductase,SYNPCC7942_RS12230(),BioCyc
+SYNPCC7942_1021-MONOMER,O-succinylbenzoic acid-CoA ligase,SYNPCC7942_RS05250(),BioCyc
 SYNPCC7942_1390-MONOMER,protein kinase C inhibitor,SYNPCC7942_RS07115(),BioCyc
 SYNPCC7942_0270-MONOMER,TPR repeat,SYNPCC7942_RS01375(),BioCyc
 SYNPCC7942_1760-MONOMER,,SYNPCC7942_RS08945(),BioCyc
@@ -86,7 +86,7 @@ SYNPCC7942_1712-MONOMER,conserved hypothetical protein,SYNPCC7942_RS08710(),BioC
 SYNPCC7942_0590-MONOMER,membrane protein-like,SYNPCC7942_RS03025(),BioCyc
 SYNPCC7942_2080-MONOMER,Fructose-6-phosphate phosphoketolase,SYNPCC7942_RS10545(),BioCyc
 SYNPCC7942_2342-MONOMER,PsaL,SYNPCC7942_RS11900(),BioCyc
-SYNPCC7942_0957-MONOMER,cob(I)alamin adenosyltransferase,SYNPCC7942_RS04920(1),BioCyc
+SYNPCC7942_0957-MONOMER,cob(I)alamin adenosyltransferase,SYNPCC7942_RS04920(),BioCyc
 SYNPCC7942_1329-MONOMER,conserved hypothetical protein,SYNPCC7942_RS06795(),BioCyc
 SYNPCC7942_0206-MONOMER,nicotinic acid phosphoribosyltransferase,SYNPCC7942_RS01045(),BioCyc
 SYNPCC7942_1696-MONOMER,conserved hypothetical protein,SYNPCC7942_RS08635(),BioCyc
@@ -107,7 +107,7 @@ SYNPCC7942_1664-MONOMER,hypothetical protein,SYNPCC7942_RS08485(),BioCyc
 SYNPCC7942_0542-MONOMER,lipoic acid synthetase,SYNPCC7942_RS02760(2),BioCyc
 SYNPCC7942_2032-MONOMER,multidrug-efflux transporter quinolene resistance protein NorA,SYNPCC7942_RS10310(),BioCyc
 SYNPCC7942_2294-MONOMER,conserved hypothetical protein,SYNPCC7942_RS11660(),BioCyc
-SYNPCC7942_0909-MONOMER,HesB/YadR/YfhF,SYNPCC7942_RS04675(4),BioCyc
+SYNPCC7942_0909-MONOMER,HesB/YadR/YfhF,SYNPCC7942_RS04675(2),BioCyc
 SYNPCC7942_B2663-MONOMER,,SYNPCC7942_RS13375(),BioCyc
 SYNPCC7942_1281-MONOMER,conserved hypothetical protein,SYNPCC7942_RS06560(),BioCyc
 SYNPCC7942_0158-MONOMER,rhodanese,SYNPCC7942_RS00800(1),BioCyc
@@ -138,7 +138,7 @@ SYNPCC7942_0109-MONOMER,DNA-binding ferritin-like protein (oxidative damage prot
 SYNPCC7942_1600-MONOMER,"5',5'''-P-1,P-4-tetraphosphate phosphorylase II-like",SYNPCC7942_RS08170(),BioCyc
 SYNPCC7942_0478-MONOMER,Thylakoidal processing peptidase,SYNPCC7942_RS02435(),BioCyc
 SYNPCC7942_1968-MONOMER,conserved hypothetical protein,SYNPCC7942_RS09985(),BioCyc
-SYNPCC7942_2230-MONOMER,50S ribosomal subunit protein L23,SYNPCC7942_RS11325(1),BioCyc
+SYNPCC7942_2230-MONOMER,50S ribosomal subunit protein L23,SYNPCC7942_RS11325(),BioCyc
 SYNPCC7942_0844-MONOMER,Phosphoesterase PHP-like,SYNPCC7942_RS04365(),BioCyc
 SYNPCC7942_2598-MONOMER,conserved hypothetical protein,SYNPCC7942_RS13235(),BioCyc
 SYNPCC7942_1217-MONOMER,KaiB monomer,SYNPCC7942_RS06235(),BioCyc
@@ -192,7 +192,7 @@ SYNPCC7942_2502-MONOMER,conserved hypothetical protein,SYNPCC7942_RS12695(),BioC
 SYNPCC7942_1121-MONOMER,serine/threonine protein kinase,SYNPCC7942_RS05745(),BioCyc
 MONOMER490-6,DNA polymerase &gamma; subunit,SYNPCC7942_RS04690(),BioCyc
 SYNPCC7942_1486-MONOMER,Protein of unknown function DUF37,SYNPCC7942_RS07595(),BioCyc
-SYNPCC7942_0366-MONOMER,putative sulfate transporter,SYNPCC7942_RS01865(1),BioCyc
+SYNPCC7942_0366-MONOMER,putative sulfate transporter,SYNPCC7942_RS01865(),BioCyc
 SYNPCC7942_1856-MONOMER,putative cytidine and deoxycytidylate deaminase,SYNPCC7942_RS09415(2),BioCyc
 SYNPCC7942_2118-MONOMER,conserved hypothetical protein,SYNPCC7942_RS10740(),BioCyc
 SYNPCC7942_0731-MONOMER,putative phage terminase large subunit,SYNPCC7942_RS03780(),BioCyc
@@ -214,7 +214,7 @@ SYNPCC7942_1073-MONOMER,ribonuclease PH,SYNPCC7942_RS05505(1),BioCyc
 SYNPCC7942_1438-MONOMER,anti-sigma regulatory factor NblC,SYNPCC7942_RS07355(),BioCyc
 SYNPCC7942_0318-MONOMER,conserved hypothetical protein,SYNPCC7942_RS01620(),BioCyc
 SYNPCC7942_1808-MONOMER,Type III pantothenate kinase,SYNPCC7942_RS09185(),BioCyc
-SYNPCC7942_0683-MONOMER,potassium channel protein,SYNPCC7942_RS03500(4),BioCyc
+SYNPCC7942_0683-MONOMER,potassium channel protein,SYNPCC7942_RS03500(),BioCyc
 SYNPCC7942_2438-MONOMER,"putative CheA signal transduction histidine kinases, no good domain identification",SYNPCC7942_RS12385(),BioCyc
 SYNPCC7942_1056-MONOMER,"transcriptional regulator, XRE family",SYNPCC7942_RS05415(),BioCyc
 SYNPCC7942_1422-MONOMER,carboxysome shell protein CcmL,SYNPCC7942_RS07275(),BioCyc
@@ -222,7 +222,7 @@ SYNPCC7942_0302-MONOMER,Phospholipase D/Transphosphatidylase,SYNPCC7942_RS01540(
 SYNPCC7942_1792-MONOMER,,SYNPCC7942_RS09105(8),BioCyc
 SYNPCC7942_0667-MONOMER,conserved hypothetical protein,SYNPCC7942_RS03415(),BioCyc
 SYNPCC7942_2422-MONOMER,conserved hypothetical protein,SYNPCC7942_RS12305(),BioCyc
-SYNPCC7942_1037-MONOMER,arginine decarboxylase,SYNPCC7942_RS05325(4),BioCyc
+SYNPCC7942_1037-MONOMER,arginine decarboxylase,SYNPCC7942_RS05325(),BioCyc
 SYNPCC7942_1406-MONOMER,Fe (III) ABC transporter ATP-binding protein,SYNPCC7942_RS07195(),BioCyc
 SYNPCC7942_0286-MONOMER,conserved hypothetical protein,SYNPCC7942_RS01455(),BioCyc
 SYNPCC7942_1776-MONOMER,hypothetical protein,SYNPCC7942_RS09025(),BioCyc
@@ -234,12 +234,12 @@ SYNPCC7942_1757-MONOMER,hypothetical protein,SYNPCC7942_1757(),BioCyc
 SYNPCC7942_0635-MONOMER,NusG antitermination factor,SYNPCC7942_RS03260(1),BioCyc
 SYNPCC7942_2387-MONOMER,conserved hypothetical protein,SYNPCC7942_RS12130(),BioCyc
 SYNPCC7942_1002-MONOMER,PsaD,SYNPCC7942_RS05140(),BioCyc
-SYNPCC7942_1374-MONOMER,tRNA pseudouridine synthase D,SYNPCC7942_RS07030(1),BioCyc
+SYNPCC7942_1374-MONOMER,tRNA pseudouridine synthase D,SYNPCC7942_RS07030(),BioCyc
 SYNPCC7942_0251-MONOMER,"DNA polymerase III, epsilon subunit",SYNPCC7942_RS01280(),BioCyc
 SYNPCC7942_1741-MONOMER,UDP-N-acetylmuramate--alanine ligase,SYNPCC7942_RS08860(1),BioCyc
 SYNPCC7942_0619-MONOMER,conserved hypothetical protein,SYNPCC7942_RS03175(),BioCyc
 SYNPCC7942_2371-MONOMER,acyl-(acyl-carrier-protein)--UDP-N- acetylglucosamine O-acyltransferase,SYNPCC7942_RS12050(),BioCyc
-SYNPCC7942_0986-MONOMER,digalactosyldiacylglycerol synthase,SYNPCC7942_RS05065(1),BioCyc
+SYNPCC7942_0986-MONOMER,digalactosyldiacylglycerol synthase,SYNPCC7942_RS05065(),BioCyc
 SYNPCC7942_1358-MONOMER,conserved hypothetical protein,SYNPCC7942_RS06940(),BioCyc
 SYNPCC7942_0235-MONOMER,cyclic nucleotide-binding domain (cNMP-BD) protein,SYNPCC7942_RS01195(),BioCyc
 SYNPCC7942_1725-MONOMER,"regulatory protein GntR, HTH",SYNPCC7942_RS08780(),BioCyc
@@ -247,19 +247,19 @@ SYNPCC7942_0603-MONOMER,glucose-1-phosphate adenylyltransferase,SYNPCC7942_RS030
 SYNPCC7942_2093-MONOMER,CO<sub>2</sub> hydration protein CupA,SYNPCC7942_RS10610(),BioCyc
 SYNPCC7942_2355-MONOMER,conserved hypothetical protein,SYNPCC7942_RS11965(),BioCyc
 SYNPCC7942_0970-MONOMER,15-<i>cis</i> phytoene desaturase,SYNPCC7942_RS04985(),BioCyc
-SYNPCC7942_1342-MONOMER,"GDP-mannose 4,6-dehydratase",SYNPCC7942_RS06860(2),BioCyc
+SYNPCC7942_1342-MONOMER,"GDP-mannose 4,6-dehydratase",SYNPCC7942_RS06860(),BioCyc
 SYNPCC7942_0219-MONOMER,conserved hypothetical protein,SYNPCC7942_RS01115(),BioCyc
 SYNPCC7942_1709-MONOMER,Small GTP-binding protein domain,SYNPCC7942_RS08695(),BioCyc
 SYNPCC7942_0587-MONOMER,valyl-tRNA synthetase,SYNPCC7942_RS03010(1),BioCyc
 SYNPCC7942_2077-MONOMER,conserved hypothetical protein,SYNPCC7942_RS10530(),BioCyc
-SYNPCC7942_2339-MONOMER,"D,D-heptose 1,7-bisphosphate phosphatase",SYNPCC7942_RS11885(2),BioCyc
+SYNPCC7942_2339-MONOMER,"D,D-heptose 1,7-bisphosphate phosphatase",SYNPCC7942_RS11885(),BioCyc
 SYNPCC7942_0954-MONOMER,glycine cleavage T-protein-like,SYNPCC7942_RS04905(),BioCyc
 SYNPCC7942_1326-MONOMER,transcription-repair coupling factor,SYNPCC7942_RS06780(1),BioCyc
 SYNPCC7942_0203-MONOMER,RibD Riboflavin-specific deaminase,SYNPCC7942_RS01030(2),BioCyc
 SYNPCC7942_1693-MONOMER,cell division-related response regulator,SYNPCC7942_RS08620(),BioCyc
 SYNPCC7942_0571-MONOMER,sugar (Glycoside-Pentoside-Hexuronide) transporter,SYNPCC7942_RS02905(),BioCyc
 SYNPCC7942_2061-MONOMER,P<sub>II</sub>-interacting protein X,SYNPCC7942_RS10455(),BioCyc
-SYNPCC7942_2323-MONOMER,"Glutaredoxin, GrxC",SYNPCC7942_RS11810(1),BioCyc
+SYNPCC7942_2323-MONOMER,"Glutaredoxin, GrxC",SYNPCC7942_RS11810(),BioCyc
 SYNPCC7942_0938-MONOMER,"putative transcriptional regulator, ArsR family",SYNPCC7942_RS04825(),BioCyc
 SYNPCC7942_1310-MONOMER,CmpR transcriptional regulator,SYNPCC7942_RS06700(),BioCyc
 SYNPCC7942_0187-MONOMER,conserved hypothetical protein,SYNPCC7942_RS00950(),BioCyc
@@ -273,10 +273,10 @@ SYNPCC7942_0171-MONOMER,cysteine synthase,SYNPCC7942_RS00870(),BioCyc
 SYNPCC7942_1661-MONOMER,conserved hypothetical protein,SYNPCC7942_RS08470(),BioCyc
 SYNPCC7942_0539-MONOMER,conserved hypothetical protein,SYNPCC7942_RS02740(),BioCyc
 SYNPCC7942_2029-MONOMER,Glucose-6-phosphate isomerase,SYNPCC7942_RS10295(2),BioCyc
-SYNPCC7942_2291-MONOMER,KpsF/GutQ family protein,SYNPCC7942_RS11645(4),BioCyc
+SYNPCC7942_2291-MONOMER,KpsF/GutQ family protein,SYNPCC7942_RS11645(),BioCyc
 SYNPCC7942_0906-MONOMER,hypothetical protein,SYNPCC7942_0906(),BioCyc
 SYNPCC7942_B2660-MONOMER,hypothetical protein,SYNPCC7942_B2660(),BioCyc
-SYNPCC7942_1278-MONOMER,50S ribosomal subunit protein L35,SYNPCC7942_RS06545(),BioCyc
+SYNPCC7942_1278-MONOMER,50S ribosomal subunit protein L35,SYNPCC7942_RS06545(1),BioCyc
 SYNPCC7942_0155-MONOMER,hypothetical protein,SYNPCC7942_RS00785(),BioCyc
 SYNPCC7942_1645-MONOMER,Ribonuclease III,SYNPCC7942_RS08390(2),BioCyc
 SYNPCC7942_0523-MONOMER,hypothetical protein,SYNPCC7942_RS02660(),BioCyc
@@ -304,14 +304,14 @@ SYNPCC7942_1230-MONOMER,prolipoprotein diacylglyceryl transferase,SYNPCC7942_RS0
 SYNPCC7942_0106-MONOMER,probable nicotinate-nucleotide adenylyltransferase,SYNPCC7942_RS00540(),BioCyc
 SYNPCC7942_1597-MONOMER,GTP cyclohydrolase I,SYNPCC7942_RS08155(10),BioCyc
 SYNPCC7942_0475-MONOMER,PetN,SYNPCC7942_RS02420(),BioCyc
-SYNPCC7942_1965-MONOMER,exopolyphosphatase,SYNPCC7942_RS09970(2),BioCyc
+SYNPCC7942_1965-MONOMER,exopolyphosphatase,SYNPCC7942_RS09970(),BioCyc
 SYNPCC7942_2227-MONOMER,50S ribosomal subunit protein L22,SYNPCC7942_RS11310(1),BioCyc
 SYNPCC7942_0841-MONOMER,putative flavoprotein involved in K+ transport,SYNPCC7942_RS04350(),BioCyc
 SYNPCC7942_2595-MONOMER,conserved hypothetical protein,SYNPCC7942_RS13220(),BioCyc
 SYNPCC7942_1214-MONOMER,Glutathione peroxidase,SYNPCC7942_RS06220(1),BioCyc
 SYNPCC7942_0090-MONOMER,"transcriptional regulator, GntR family",SYNPCC7942_RS00455(),BioCyc
 SYNPCC7942_1581-MONOMER,"Peptidase M14, carboxypeptidase A",SYNPCC7942_RS08075(),BioCyc
-SYNPCC7942_0459-MONOMER,glutathione-dependent formaldehyde dehydrogenase,SYNPCC7942_RS02340(2),BioCyc
+SYNPCC7942_0459-MONOMER,glutathione-dependent formaldehyde dehydrogenase,SYNPCC7942_RS02340(),BioCyc
 SYNPCC7942_1949-MONOMER,conserved hypothetical protein,SYNPCC7942_RS09890(),BioCyc
 SYNPCC7942_2211-MONOMER,30S ribosomal subunit protein S13,SYNPCC7942_RS11235(1),BioCyc
 SYNPCC7942_0824-MONOMER,conserved hypothetical protein,SYNPCC7942_RS04260(),BioCyc
@@ -333,7 +333,7 @@ SYNPCC7942_2179-MONOMER,conserved hypothetical protein,SYNPCC7942_RS11075(),BioC
 SYNPCC7942_0792-MONOMER,putative multidrug efflux MFS transporter,SYNPCC7942_RS04100(),BioCyc
 SYNPCC7942_2547-MONOMER,conserved hypothetical protein,SYNPCC7942_RS12940(),BioCyc
 SYNPCC7942_1166-MONOMER,conserved hypothetical protein,SYNPCC7942_RS05980(),BioCyc
-SYNPCC7942_0042-MONOMER,50S ribosomal subunit protein L28,SYNPCC7942_RS00210(1),BioCyc
+SYNPCC7942_0042-MONOMER,50S ribosomal subunit protein L28,SYNPCC7942_RS00210(),BioCyc
 SYNPCC7942_1532-MONOMER,molybdate transport system permease subunit,SYNPCC7942_RS07830(),BioCyc
 SYNPCC7942_0411-MONOMER,"tryptophan synthase, alpha subunit",SYNPCC7942_RS02095(),BioCyc
 SYNPCC7942_1901-MONOMER,putative glycosyltransferase,SYNPCC7942_RS09640(),BioCyc
@@ -389,7 +389,7 @@ SYNPCC7942_1789-MONOMER,heat shock protein DnaJ-2,SYNPCC7942_RS09090(),BioCyc
 SYNPCC7942_0664-MONOMER,Cyclic nucleotide-binding,SYNPCC7942_RS03400(),BioCyc
 SYNPCC7942_2419-MONOMER,conserved hypothetical protein,SYNPCC7942_RS12290(),BioCyc
 SYNPCC7942_1034-MONOMER,Transglutaminase-like,SYNPCC7942_RS05310(),BioCyc
-SYNPCC7942_1403-MONOMER,Hydroxyacylglutathione hydrolase,SYNPCC7942_RS07180(1),BioCyc
+SYNPCC7942_1403-MONOMER,Hydroxyacylglutathione hydrolase,SYNPCC7942_RS07180(),BioCyc
 SYNPCC7942_0283-MONOMER,Dihydrouridine synthase TIM-barrel protein nifR3,SYNPCC7942_RS01440(1),BioCyc
 SYNPCC7942_1773-MONOMER,hypothetical protein,SYNPCC7942_RS09010(),BioCyc
 SYNPCC7942_1770-MONOMER,conserved hypothetical protein,SYNPCC7942_RS08995(),BioCyc
@@ -400,33 +400,33 @@ SYNPCC7942_1384-MONOMER,conserved hypothetical protein,SYNPCC7942_RS07085(),BioC
 SYNPCC7942_0264-MONOMER,undecaprenyl diphosphate synthase,SYNPCC7942_RS01345(2),BioCyc
 SYNPCC7942_1754-MONOMER,conserved hypothetical protein,SYNPCC7942_1754(),BioCyc
 SYNPCC7942_0632-MONOMER,50S ribosomal subunit protein L10,SYNPCC7942_RS03245(1),BioCyc
-SYNPCC7942_2384-MONOMER,,SYNPCC7942_RS12115(1),BioCyc
+SYNPCC7942_2384-MONOMER,,SYNPCC7942_RS12115(),BioCyc
 SYNPCC7942_0999-MONOMER,hypothetical protein,SYNPCC7942_0999(),BioCyc
-SYNPCC7942_1371-MONOMER,magnesium and cobalt transport protein CorA,SYNPCC7942_RS07015(1),BioCyc
+SYNPCC7942_1371-MONOMER,magnesium and cobalt transport protein CorA,SYNPCC7942_RS07015(),BioCyc
 SYNPCC7942_0248-MONOMER,"ABC-type amino acid transport system, permease protein",SYNPCC7942_RS01265(),BioCyc
 SYNPCC7942_1738-MONOMER,"cysteine desulfurase, SufS subfamily",SYNPCC7942_RS08845(),BioCyc
 SYNPCC7942_0616-MONOMER,heat-inducible transcription repressor HrcA,SYNPCC7942_RS03160(),BioCyc
 SYNPCC7942_2368-MONOMER,Secretion protein HlyD,SYNPCC7942_RS12035(),BioCyc
-SYNPCC7942_0983-MONOMER,deoxyribose-phosphate aldolase,SYNPCC7942_RS05050(),BioCyc
+SYNPCC7942_0983-MONOMER,deoxyribose-phosphate aldolase,SYNPCC7942_RS05050(1),BioCyc
 SYNPCC7942_1355-MONOMER,Two-component response regulator,SYNPCC7942_RS06925(),BioCyc
 SYNPCC7942_0232-MONOMER,3-phosphoshikimate 1-carboxyvinyltransferase,SYNPCC7942_RS01180(1),BioCyc
 SYNPCC7942_1722-MONOMER,Thiosulphate-binding protein,SYNPCC7942_RS08765(),BioCyc
 SYNPCC7942_0600-MONOMER,serine/threonine protein kinase,SYNPCC7942_RS03080(),BioCyc
 SYNPCC7942_2090-MONOMER,Homoserine dehydrogenase,SYNPCC7942_RS10595(),BioCyc
-SYNPCC7942_2352-MONOMER,putative sigma 54 modulation protein/ribosomal protein S30EA,SYNPCC7942_RS11950(),BioCyc
+SYNPCC7942_2352-MONOMER,putative sigma 54 modulation protein/ribosomal protein S30EA,SYNPCC7942_RS11950(2),BioCyc
 SYNPCC7942_0967-MONOMER,porphobilinogen deaminase,SYNPCC7942_RS04970(1),BioCyc
 SYNPCC7942_1339-MONOMER,conserved hypothetical protein,SYNPCC7942_RS06845(),BioCyc
 SYNPCC7942_0216-MONOMER,putative zinc-binding oxidoreductase,SYNPCC7942_RS01095(),BioCyc
 SYNPCC7942_1706-MONOMER,conserved hypothetical protein,SYNPCC7942_RS08680(),BioCyc
-SYNPCC7942_0584-MONOMER,ribose 5-phosphate isomerase,SYNPCC7942_RS02970(2),BioCyc
+SYNPCC7942_0584-MONOMER,ribose 5-phosphate isomerase,SYNPCC7942_RS02970(),BioCyc
 SYNPCC7942_2074-MONOMER,heat shock protein DnaJ-1,SYNPCC7942_RS10515(2),BioCyc
 SYNPCC7942_2336-MONOMER,hypothetical protein,SYNPCC7942_2336(),BioCyc
 SYNPCC7942_0951-MONOMER,nicotinate-nucleotide pyrophosphorylase,SYNPCC7942_RS04890(2),BioCyc
 SYNPCC7942_1323-MONOMER,formamidopyrimidine-DNA glycosylase,SYNPCC7942_RS06765(),BioCyc
 SYNPCC7942_0200-MONOMER,conserved hypothetical protein,SYNPCC7942_RS01015(),BioCyc
 SYNPCC7942_1690-MONOMER,hypothetical protein,SYNPCC7942_1690(),BioCyc
-SYNPCC7942_0568-MONOMER,cytosine deaminase,SYNPCC7942_RS02890(1),BioCyc
-SYNPCC7942_2058-MONOMER,pyrroline-5-carboxylate reductase,SYNPCC7942_RS10440(10),BioCyc
+SYNPCC7942_0568-MONOMER,cytosine deaminase,SYNPCC7942_RS02890(),BioCyc
+SYNPCC7942_2058-MONOMER,pyrroline-5-carboxylate reductase,SYNPCC7942_RS10440(),BioCyc
 SYNPCC7942_2320-MONOMER,conserved hypothetical protein,SYNPCC7942_RS11795(),BioCyc
 SYNPCC7942_0935-MONOMER,conserved hypothetical protein,SYNPCC7942_RS04810(),BioCyc
 SYNPCC7942_1307-MONOMER,putative ABC-2 type transport system permease protein,SYNPCC7942_RS06685(),BioCyc
@@ -434,15 +434,15 @@ SYNPCC7942_0184-MONOMER,putative phosphate permease,SYNPCC7942_RS00935(1),BioCyc
 SYNPCC7942_1674-MONOMER,conserved hypothetical protein,SYNPCC7942_RS08530(),BioCyc
 SYNPCC7942_0552-MONOMER,UDP-N-acetylglucosamine 2-epimerase,SYNPCC7942_RS02810(1),BioCyc
 SYNPCC7942_2042-MONOMER,conserved hypothetical protein,SYNPCC7942_RS10360(),BioCyc
-SYNPCC7942_2304-MONOMER,NAD(+) kinase 1,SYNPCC7942_RS11710(6),BioCyc
+SYNPCC7942_2304-MONOMER,NAD(+) kinase 1,SYNPCC7942_RS11710(),BioCyc
 SYNPCC7942_0919-MONOMER,conserved hypothetical protein,SYNPCC7942_RS04730(),BioCyc
 SYNPCC7942_1291-MONOMER,transcriptional repressor,SYNPCC7942_RS06605(),BioCyc
 SYNPCC7942_0168-MONOMER,conserved hypothetical protein,SYNPCC7942_RS00855(),BioCyc
 SYNPCC7942_1658-MONOMER,conserved hypothetical protein,SYNPCC7942_RS08455(),BioCyc
 SYNPCC7942_0536-MONOMER,acyl carrier protein,SYNPCC7942_RS02725(1),BioCyc
 SYNPCC7942_2026-MONOMER,probable glycosyltransferase,SYNPCC7942_RS10280(),BioCyc
-SYNPCC7942_2288-MONOMER,,SYNPCC7942_RS11630(4),BioCyc
-SYNPCC7942_0903-MONOMER,aconitate hydratase 2,SYNPCC7942_RS04655(2),BioCyc
+SYNPCC7942_2288-MONOMER,,SYNPCC7942_RS11630(),BioCyc
+SYNPCC7942_0903-MONOMER,aconitate hydratase 2,SYNPCC7942_RS04655(),BioCyc
 SYNPCC7942_B2657-MONOMER,hypothetical protein,SYNPCC7942_RS13500(),BioCyc
 SYNPCC7942_1275-MONOMER,conserved hypothetical protein,SYNPCC7942_RS06530(),BioCyc
 SYNPCC7942_0152-MONOMER,phospho-N-acetylmuramoyl-pentapeptide- transferase,SYNPCC7942_RS00770(1),BioCyc
@@ -463,7 +463,7 @@ SYNPCC7942_B2625-MONOMER,conserved hypothetical protein,SYNPCC7942_RS13435(),Bio
 SYNPCC7942_1243-MONOMER,cyclic nucleotide-binding domain (cNMP-BD) protein,SYNPCC7942_RS06370(),BioCyc
 SYNPCC7942_0119-MONOMER,hypothetical protein,SYNPCC7942_RS00600(),BioCyc
 SYNPCC7942_1610-MONOMER,pyridine nucleotide transhydrogenase beta subunit,SYNPCC7942_RS08215(),BioCyc
-SYNPCC7942_0488-MONOMER,"dihydroorotase, multifunctional complex type",SYNPCC7942_RS02485(4),BioCyc
+SYNPCC7942_0488-MONOMER,"dihydroorotase, multifunctional complex type",SYNPCC7942_RS02485(),BioCyc
 SYNPCC7942_1978-MONOMER,thioredoxin,SYNPCC7942_RS10030(),BioCyc
 SYNPCC7942_2240-MONOMER,conserved hypothetical protein YCF52,SYNPCC7942_RS11375(),BioCyc
 SYNPCC7942_0855-MONOMER,response regulator receiver domain protein (CheY-like),SYNPCC7942_RS04410(),BioCyc
@@ -511,14 +511,14 @@ SYNPCC7942_2528-MONOMER,hypothetical protein,SYNPCC7942_RS12835(),BioCyc
 SYNPCC7942_1147-MONOMER,conserved hypothetical protein,SYNPCC7942_RS05875(),BioCyc
 SYNPCC7942_0023-MONOMER,calcium/proton exchanger,SYNPCC7942_RS00120(),BioCyc
 SYNPCC7942_1513-MONOMER,1-deoxy-D-xylulose 5-phosphate reductoisomerase,SYNPCC7942_RS07735(2),BioCyc
-SYNPCC7942_0392-MONOMER,,SYNPCC7942_RS02000(1),BioCyc
+SYNPCC7942_0392-MONOMER,,SYNPCC7942_RS02000(),BioCyc
 SYNPCC7942_1882-MONOMER,PsbU,SYNPCC7942_RS09545(),BioCyc
 SYNPCC7942_2144-MONOMER,nuclease (SNase-like),SYNPCC7942_RS10890(),BioCyc
 SYNPCC7942_0757-MONOMER,hypothetical protein,SYNPCC7942_0757(),BioCyc
 SYNPCC7942_2512-MONOMER,Protein of unknown function UPF0004,SYNPCC7942_RS12745(),BioCyc
 SYNPCC7942_1131-MONOMER,ferredoxin-thioredoxin reductase variable subunit,SYNPCC7942_RS05790(),BioCyc
 SYNPCC7942_0007-MONOMER,hypothetical protein,SYNPCC7942_RS00035(),BioCyc
-SYNPCC7942_1496-MONOMER,acetylglutamate kinase,SYNPCC7942_RS07645(6),BioCyc
+SYNPCC7942_1496-MONOMER,acetylglutamate kinase,SYNPCC7942_RS07645(2),BioCyc
 SYNPCC7942_0376-MONOMER,putative zinc protease protein,SYNPCC7942_RS01915(),BioCyc
 SYNPCC7942_1866-MONOMER,conserved hypothetical protein,SYNPCC7942_RS09470(),BioCyc
 SYNPCC7942_2128-MONOMER,Thiol:disulfide interchange protein txlA,SYNPCC7942_RS10790(),BioCyc
@@ -536,7 +536,7 @@ SYNPCC7942_1464-MONOMER,SomA outer membrane protein,SYNPCC7942_RS07490(),BioCyc
 SYNPCC7942_0344-MONOMER,probable peptidase,SYNPCC7942_RS01755(),BioCyc
 SYNPCC7942_1834-MONOMER,maintenance of carboxysome distribution protein B,SYNPCC7942_RS09305(),BioCyc
 SYNPCC7942_0709-MONOMER,conserved hypothetical protein,SYNPCC7942_RS03635(),BioCyc
-SYNPCC7942_2464-MONOMER,N-acylglucosamine-6-phosphate 2-epimerase,SYNPCC7942_RS12525(1),BioCyc
+SYNPCC7942_2464-MONOMER,N-acylglucosamine-6-phosphate 2-epimerase,SYNPCC7942_RS12525(),BioCyc
 SYNPCC7942_1083-MONOMER,monoglucosyldiacylglycerol synthase,SYNPCC7942_RS05560(),BioCyc
 SYNPCC7942_1448-MONOMER,"quinolinate synthetase complex, A subunit",SYNPCC7942_RS07410(2),BioCyc
 SYNPCC7942_0328-MONOMER,phycobilisome anchor polypeptide L<sub>CM</sub>,SYNPCC7942_RS01670(),BioCyc
@@ -570,10 +570,10 @@ SYNPCC7942_0629-MONOMER,hypothetical protein,SYNPCC7942_RS03230(),BioCyc
 SYNPCC7942_2381-MONOMER,3-methyl-2-oxobutanoate hydroxymethyltransferase,SYNPCC7942_RS12100(10),BioCyc
 SYNPCC7942_0996-MONOMER,conserved hypothetical protein,SYNPCC7942_RS05115(),BioCyc
 SYNPCC7942_1368-MONOMER,conserved hypothetical protein,SYNPCC7942_RS07000(),BioCyc
-SYNPCC7942_0245-MONOMER,"glyceraldehyde-3-phosphate dehydrogenase, NAD+-dependent",SYNPCC7942_RS01250(4),BioCyc
+SYNPCC7942_0245-MONOMER,"glyceraldehyde-3-phosphate dehydrogenase, NAD+-dependent",SYNPCC7942_RS01250(),BioCyc
 SYNPCC7942_1735-MONOMER,Iron-regulated ABC transporter ATPase subunit SufB,SYNPCC7942_RS08830(),BioCyc
 SYNPCC7942_0613-MONOMER,"phosphohistidine phosphatase, SixA",SYNPCC7942_RS03145(),BioCyc
-SYNPCC7942_2365-MONOMER,peptide chain release factor 3 Small GTP-binding protein domain,SYNPCC7942_RS12015(1),BioCyc
+SYNPCC7942_2365-MONOMER,peptide chain release factor 3 Small GTP-binding protein domain,SYNPCC7942_RS12015(),BioCyc
 SYNPCC7942_0980-MONOMER,conserved hypothetical protein,SYNPCC7942_RS05035(),BioCyc
 SYNPCC7942_1352-MONOMER,Acetate--CoA ligase,SYNPCC7942_RS06910(1),BioCyc
 SYNPCC7942_0229-MONOMER,hypothetical protein,SYNPCC7942_RS01165(),BioCyc
@@ -584,7 +584,7 @@ SYNPCC7942_2349-MONOMER,twitching motility protein,SYNPCC7942_RS11935(),BioCyc
 SYNPCC7942_0964-MONOMER,conserved hypothetical protein,SYNPCC7942_RS04955(),BioCyc
 SYNPCC7942_1336-MONOMER,conserved hypothetical protein,SYNPCC7942_RS06830(),BioCyc
 SYNPCC7942_0213-MONOMER,hypothetical protein,SYNPCC7942_RS01080(),BioCyc
-SYNPCC7942_1703-MONOMER,&alpha;-mannosidase,SYNPCC7942_RS08670(1),BioCyc
+SYNPCC7942_1703-MONOMER,&alpha;-mannosidase,SYNPCC7942_RS08670(),BioCyc
 SYNPCC7942_0581-MONOMER,conserved hypothetical protein,SYNPCC7942_RS02955(),BioCyc
 SYNPCC7942_2071-MONOMER,ATPase,SYNPCC7942_RS10500(),BioCyc
 SYNPCC7942_2333-MONOMER,OxPP cycle protein OpcA,SYNPCC7942_RS11860(),BioCyc
@@ -593,9 +593,9 @@ SYNPCC7942_1320-MONOMER,conserved hypothetical protein,SYNPCC7942_RS06750(),BioC
 SYNPCC7942_0197-MONOMER,folate/biopterin transporter,SYNPCC7942_RS01000(),BioCyc
 SYNPCC7942_1687-MONOMER,"thiosulfate ABC transporter, permease protein CysU",SYNPCC7942_RS08595(),BioCyc
 SYNPCC7942_0565-MONOMER,FHA domain containing protein,SYNPCC7942_RS02875(),BioCyc
-SYNPCC7942_2055-MONOMER,2-methoxy-6-(<i>all-trans</i>-polyprenyl)phenol 4-hydroxylase,SYNPCC7942_RS10425(),BioCyc
+SYNPCC7942_2055-MONOMER,2-methoxy-6-(<i>all-trans</i>-polyprenyl)phenol 4-hydroxylase,SYNPCC7942_RS10425(1),BioCyc
 SYNPCC7942_2317-MONOMER,copper-transporting ATPase,SYNPCC7942_RS11780(),BioCyc
-SYNPCC7942_0932-MONOMER,lipid-A-disaccharide synthase,SYNPCC7942_RS04795(2),BioCyc
+SYNPCC7942_0932-MONOMER,lipid-A-disaccharide synthase,SYNPCC7942_RS04795(),BioCyc
 SYNPCC7942_1304-MONOMER,conserved hypothetical protein,SYNPCC7942_RS06670(),BioCyc
 SYNPCC7942_0181-MONOMER,ATPase,SYNPCC7942_RS00920(),BioCyc
 SYNPCC7942_1671-MONOMER,"potassium-transporting ATPase, C subunit",SYNPCC7942_RS08515(),BioCyc
@@ -610,7 +610,7 @@ SYNPCC7942_0533-MONOMER,conserved hypothetical protein,SYNPCC7942_RS02710(),BioC
 SYNPCC7942_2023-MONOMER,conserved hypothetical protein,SYNPCC7942_RS10265(),BioCyc
 SYNPCC7942_2285-MONOMER,glycerol dehydrogenase,SYNPCC7942_RS11615(),BioCyc
 SYNPCC7942_0900-MONOMER,conserved hypothetical protein,SYNPCC7942_RS04640(),BioCyc
-SYNPCC7942_B2654-MONOMER,rhodanese-related sulfurtransferase,SYNPCC7942_RS13360(1),BioCyc
+SYNPCC7942_B2654-MONOMER,rhodanese-related sulfurtransferase,SYNPCC7942_RS13360(),BioCyc
 SYNPCC7942_1272-MONOMER,conserved hypothetical protein,SYNPCC7942_RS06515(),BioCyc
 SYNPCC7942_0149-MONOMER,methylated-DNA--protein-cysteine methyltransferase,SYNPCC7942_RS00755(),BioCyc
 SYNPCC7942_1639-MONOMER,ATPase,SYNPCC7942_RS08360(),BioCyc
@@ -625,7 +625,7 @@ SYNPCC7942_1623-MONOMER,conserved hypothetical protein,SYNPCC7942_RS08280(),BioC
 SYNPCC7942_0501-MONOMER,Nucleoside-diphosphate-sugar epimerases-like,SYNPCC7942_RS02545(),BioCyc
 SYNPCC7942_1991-MONOMER,large conductance mechanosensitive channel protein,SYNPCC7942_RS10095(),BioCyc
 SYNPCC7942_2253-MONOMER,"Glutamate--cysteine ligase, putative",SYNPCC7942_RS11455(),BioCyc
-SYNPCC7942_0868-MONOMER,conserved hypothetical protein,SYNPCC7942_RS04475(1),BioCyc
+SYNPCC7942_0868-MONOMER,conserved hypothetical protein,SYNPCC7942_RS04475(),BioCyc
 SYNPCC7942_B2622-MONOMER,probable chromate transport transmembrane protein,SYNPCC7942_RS13420(),BioCyc
 SYNPCC7942_1240-MONOMER,ferredoxin--nitrite reductase,SYNPCC7942_RS06355(),BioCyc
 SYNPCC7942_0116-MONOMER,fructokinase,SYNPCC7942_RS00585(),BioCyc
@@ -653,7 +653,7 @@ SYNPCC7942_0818-MONOMER,Phosphoribosylformylglycinamidine synthetase PurS,SYNPCC
 SYNPCC7942_2573-MONOMER,manganese transport system membrane protein MntB,SYNPCC7942_RS13075(),BioCyc
 SYNPCC7942_1192-MONOMER,conserved hypothetical protein,SYNPCC7942_RS06105(),BioCyc
 SYNPCC7942_0068-MONOMER,"ABC type transporter, ATPase component",SYNPCC7942_RS00335(),BioCyc
-SYNPCC7942_1559-MONOMER,conserved hypothetical protein,SYNPCC7942_RS07955(1),BioCyc
+SYNPCC7942_1559-MONOMER,conserved hypothetical protein,SYNPCC7942_RS07955(),BioCyc
 SYNPCC7942_0437-MONOMER,putative glutathione peroxidase,SYNPCC7942_RS02240(),BioCyc
 SYNPCC7942_1927-MONOMER,diaminopimelate epimerase,SYNPCC7942_RS09780(1),BioCyc
 SYNPCC7942_2189-MONOMER,hypothetical protein,SYNPCC7942_2189(),BioCyc
@@ -673,7 +673,7 @@ SYNPCC7942_1526-MONOMER,conserved hypothetical protein,SYNPCC7942_RS07800(),BioC
 SYNPCC7942_0405-MONOMER,"DNA polymerase III, delta subunit",SYNPCC7942_RS02065(),BioCyc
 SYNPCC7942_1895-MONOMER,conserved hypothetical protein,SYNPCC7942_RS09610(),BioCyc
 SYNPCC7942_2157-MONOMER,conserved hypothetical protein,SYNPCC7942_RS10960(),BioCyc
-SYNPCC7942_0770-MONOMER,conserved hypothetical protein,SYNPCC7942_RS03995(1),BioCyc
+SYNPCC7942_0770-MONOMER,conserved hypothetical protein,SYNPCC7942_RS03995(),BioCyc
 SYNPCC7942_2525-MONOMER,ClpP2,SYNPCC7942_RS12820(),BioCyc
 SYNPCC7942_1144-MONOMER,conserved hypothetical protein,SYNPCC7942_RS05855(),BioCyc
 SYNPCC7942_0020-MONOMER,conserved hypothetical protein,SYNPCC7942_RS00105(),BioCyc
@@ -715,7 +715,7 @@ SYNPCC7942_1064-MONOMER,"type I restriction-modification, S subunit",SYNPCC7942_
 SYNPCC7942_1429-MONOMER,conserved hypothetical protein,SYNPCC7942_RS07310(),BioCyc
 SYNPCC7942_0309-MONOMER,ferredoxin-plastoquinone oxidoreductase subunit NdhF4,SYNPCC7942_RS01575(),BioCyc
 SYNPCC7942_1799-MONOMER,[NiFe]-hydrogenase maturation protein HypE,SYNPCC7942_RS09140(),BioCyc
-SYNPCC7942_0674-MONOMER,Coproporphyrinogen oxidase,SYNPCC7942_RS03450(2),BioCyc
+SYNPCC7942_0674-MONOMER,Coproporphyrinogen oxidase,SYNPCC7942_RS03450(),BioCyc
 SYNPCC7942_2429-MONOMER,biopolymer transport ExbB like protein,SYNPCC7942_RS12340(),BioCyc
 SYNPCC7942_1044-MONOMER,flavin-dependent thymidylate synthase,SYNPCC7942_RS05355(),BioCyc
 SYNPCC7942_1413-MONOMER,conserved hypothetical protein,SYNPCC7942_RS07230(),BioCyc
@@ -739,7 +739,7 @@ SYNPCC7942_0626-MONOMER,dihydroxy-acid dehydratase,SYNPCC7942_RS03210(2),BioCyc
 SYNPCC7942_2378-MONOMER,cell division protein FtsZ,SYNPCC7942_RS12085(),BioCyc
 SYNPCC7942_0993-MONOMER,conserved hypothetical protein,SYNPCC7942_RS05100(),BioCyc
 SYNPCC7942_1365-MONOMER,Multiple antibiotic resistance (MarC)-related proteins,SYNPCC7942_RS06985(),BioCyc
-SYNPCC7942_0242-MONOMER,K+-dependent Na+/Ca+ exchanger related-protein,SYNPCC7942_RS01235(1),BioCyc
+SYNPCC7942_0242-MONOMER,K+-dependent Na+/Ca+ exchanger related-protein,SYNPCC7942_RS01235(),BioCyc
 SYNPCC7942_1732-MONOMER,conserved hypothetical protein,SYNPCC7942_RS08815(),BioCyc
 SYNPCC7942_0610-MONOMER,conserved hypothetical protein,SYNPCC7942_RS03130(),BioCyc
 SYNPCC7942_2100-MONOMER,"dTDP-glucose 4,6-dehydratase",SYNPCC7942_RS10645(1),BioCyc
@@ -754,7 +754,7 @@ SYNPCC7942_2346-MONOMER,HAD-superfamily subfamily IA,SYNPCC7942_RS11920(),BioCyc
 SYNPCC7942_0961-MONOMER,cell envelope-related function transcriptional attenuator common domain,SYNPCC7942_RS04940(),BioCyc
 SYNPCC7942_1333-MONOMER,Queuosine biosynthesis protein,SYNPCC7942_RS06815(1),BioCyc
 SYNPCC7942_0210-MONOMER,conserved hypothetical protein,SYNPCC7942_RS01065(),BioCyc
-SYNPCC7942_1700-MONOMER,GDP-fucose synthetase NAD dependent epimerase/dehydratase,SYNPCC7942_RS08655(2),BioCyc
+SYNPCC7942_1700-MONOMER,GDP-fucose synthetase NAD dependent epimerase/dehydratase,SYNPCC7942_RS08655(),BioCyc
 SYNPCC7942_0578-MONOMER,UDP-sulfoquinovose synthase,SYNPCC7942_RS02940(),BioCyc
 SYNPCC7942_2068-MONOMER,conserved hypothetical protein,SYNPCC7942_RS10485(),BioCyc
 SYNPCC7942_2330-MONOMER,carboxyl-terminal protease,SYNPCC7942_RS11845(),BioCyc
@@ -765,11 +765,11 @@ SYNPCC7942_1684-MONOMER,transcriptional regulator CysR,SYNPCC7942_RS08580(),BioC
 SYNPCC7942_0562-MONOMER,conserved hypothetical protein,SYNPCC7942_RS02860(),BioCyc
 SYNPCC7942_2052-MONOMER,probable oligopeptides ABC transporter permease protein,SYNPCC7942_RS10410(),BioCyc
 SYNPCC7942_2314-MONOMER,chaperonin GroES,SYNPCC7942_RS11765(7),BioCyc
-SYNPCC7942_0929-MONOMER,UDP-3-0-acyl N-acetylglucosamine deacetylase,SYNPCC7942_RS04780(1),BioCyc
+SYNPCC7942_0929-MONOMER,UDP-3-0-acyl N-acetylglucosamine deacetylase,SYNPCC7942_RS04780(),BioCyc
 SYNPCC7942_1301-MONOMER,"ATP-dependent DNA helicase, RecQ family",SYNPCC7942_RS06655(),BioCyc
 SYNPCC7942_0178-MONOMER,"ABC-type uncharacterized transport system, ATPase component",SYNPCC7942_RS00905(),BioCyc
 SYNPCC7942_1668-MONOMER,"potassium-transporting ATPase, A subunit",SYNPCC7942_RS08505(),BioCyc
-SYNPCC7942_0546-MONOMER,Na+/H+ antiporter,SYNPCC7942_RS02780(1),BioCyc
+SYNPCC7942_0546-MONOMER,Na+/H+ antiporter,SYNPCC7942_RS02780(2),BioCyc
 SYNPCC7942_2036-MONOMER,conserved hypothetical protein,SYNPCC7942_RS10330(),BioCyc
 SYNPCC7942_2298-MONOMER,Holliday junction DNA helicase RuvA,SYNPCC7942_RS11680(),BioCyc
 SYNPCC7942_0913-MONOMER,N-acetyltransferase-like,SYNPCC7942_RS04695(),BioCyc
@@ -820,7 +820,7 @@ SYNPCC7942_0450-MONOMER,putative NifU-like protein,SYNPCC7942_RS02300(),BioCyc
 SYNPCC7942_1940-MONOMER,putative membrane transporter,SYNPCC7942_RS09845(),BioCyc
 SYNPCC7942_2202-MONOMER,HNH nuclease,SYNPCC7942_RS11190(),BioCyc
 SYNPCC7942_0815-MONOMER,ATPase,SYNPCC7942_RS04215(),BioCyc
-SYNPCC7942_2570-MONOMER,tyrosyl-tRNA synthetase,SYNPCC7942_RS13060(2),BioCyc
+SYNPCC7942_2570-MONOMER,tyrosyl-tRNA synthetase,SYNPCC7942_RS13060(),BioCyc
 SYNPCC7942_1189-MONOMER,molybdopterin-guanine dinucleotide biosynthesis protein A,SYNPCC7942_RS06090(1),BioCyc
 SYNPCC7942_0065-MONOMER,translation initiation factor IF-3,SYNPCC7942_RS00320(1),BioCyc
 SYNPCC7942_1556-MONOMER,conserved hypothetical protein,SYNPCC7942_RS07935(),BioCyc
@@ -852,11 +852,11 @@ SYNPCC7942_0386-MONOMER,conserved hypothetical protein,SYNPCC7942_RS01970(),BioC
 SYNPCC7942_1876-MONOMER,conserved hypothetical protein,SYNPCC7942_RS09515(),BioCyc
 SYNPCC7942_2138-MONOMER,conserved hypothetical protein,SYNPCC7942_RS10850(),BioCyc
 SYNPCC7942_0751-MONOMER,conserved hypothetical protein,SYNPCC7942_RS03890(),BioCyc
-SYNPCC7942_2506-MONOMER,phosphoadenosine phosphosulfate reductase,SYNPCC7942_RS12715(2),BioCyc
+SYNPCC7942_2506-MONOMER,phosphoadenosine phosphosulfate reductase,SYNPCC7942_RS12715(),BioCyc
 SYNPCC7942_1125-MONOMER,"putative CheA signal transduction histidine kinases, no good domain identification",SYNPCC7942_RS05760(),BioCyc
 SYNPCC7942_0001-MONOMER,"DNA polymerase III, &beta; subunit",SYNPCC7942_RS00005(),BioCyc
 SYNPCC7942_1490-MONOMER,bicarbonate transport ATP-binding subunit C,SYNPCC7942_RS07615(),BioCyc
-SYNPCC7942_0370-MONOMER,O-acetylhomoserine/O-acetylserine sulfhydrylase,SYNPCC7942_RS01885(4),BioCyc
+SYNPCC7942_0370-MONOMER,O-acetylhomoserine/O-acetylserine sulfhydrylase,SYNPCC7942_RS01885(),BioCyc
 SYNPCC7942_1860-MONOMER,two component transcriptional regulator Rre1,SYNPCC7942_RS09435(),BioCyc
 SYNPCC7942_2122-MONOMER,"carbamoyl-phosphate synthase, small subunit",SYNPCC7942_RS10760(),BioCyc
 SYNPCC7942_0735-MONOMER,conserved hypothetical protein,SYNPCC7942_RS03800(),BioCyc
@@ -865,11 +865,11 @@ SYNPCC7942_1109-MONOMER,"L-threonine-O-3-phosphate decarboxylase, putative",SYNP
 HTX97_RS00025-MONOMER,hypothetical protein,ST32046_p7(),BioCyc
 SYNPCC7942_1474-MONOMER,putative multicomponent Na+:H+ antiporter subunit C,SYNPCC7942_RS07535(),BioCyc
 SYNPCC7942_0354-MONOMER,Beta-glucosidase-related glycosidases-like,SYNPCC7942_RS01800(1),BioCyc
-SYNPCC7942_1844-MONOMER,conserved hypothetical protein,SYNPCC7942_RS09355(),BioCyc
+SYNPCC7942_1844-MONOMER,conserved hypothetical protein,SYNPCC7942_RS09355(2),BioCyc
 SYNPCC7942_2106-MONOMER,nitrate transport permease,SYNPCC7942_RS10675(),BioCyc
 SYNPCC7942_0719-MONOMER,conserved hypothetical protein,SYNPCC7942_RS03705(),BioCyc
 SYNPCC7942_2474-MONOMER,conserved hypothetical protein,SYNPCC7942_2474(),BioCyc
-SYNPCC7942_1093-MONOMER,conserved hypothetical protein,SYNPCC7942_RS05610(1),BioCyc
+SYNPCC7942_1093-MONOMER,conserved hypothetical protein,SYNPCC7942_RS05610(),BioCyc
 SYNPCC7942_1458-MONOMER,conserved hypothetical protein,SYNPCC7942_RS07460(),BioCyc
 SYNPCC7942_0338-MONOMER,[2Fe-2S] ferredoxin,SYNPCC7942_RS01720(),BioCyc
 SYNPCC7942_1828-MONOMER,conserved hypothetical protein,SYNPCC7942_RS09275(),BioCyc
@@ -889,14 +889,14 @@ SYNPCC7942_0671-MONOMER,conserved hypothetical protein,SYNPCC7942_RS03435(),BioC
 SYNPCC7942_2426-MONOMER,PetM,SYNPCC7942_RS12325(),BioCyc
 SYNPCC7942_1041-MONOMER,hypothetical protein,SYNPCC7942_1041(),BioCyc
 SYNPCC7942_1410-MONOMER,2-isopropylmalate synthase,SYNPCC7942_RS07215(1),BioCyc
-SYNPCC7942_0290-MONOMER,dihydroorotate dehydrogenase (quinone),SYNPCC7942_RS01475(1),BioCyc
+SYNPCC7942_0290-MONOMER,dihydroorotate dehydrogenase (quinone),SYNPCC7942_RS01475(),BioCyc
 SYNPCC7942_1780-MONOMER,DNA mismatch repair protein MutL,SYNPCC7942_RS09045(),BioCyc
 SYNPCC7942_0655-MONOMER,D2 protein,SYNPCC7942_RS03355(),BioCyc
 SYNPCC7942_2407-MONOMER,conserved hypothetical protein,SYNPCC7942_RS12235(),BioCyc
 SYNPCC7942_1022-MONOMER,conserved hypothetical protein,SYNPCC7942_RS05255(),BioCyc
 SYNPCC7942_1391-MONOMER,Mg chelatase-related protein,SYNPCC7942_RS07120(),BioCyc
 SYNPCC7942_0271-MONOMER,uroporphyrin-III C-methyltransferase,SYNPCC7942_RS01380(),BioCyc
-SYNPCC7942_1761-MONOMER,conserved hypothetical protein,SYNPCC7942_RS08950(1),BioCyc
+SYNPCC7942_1761-MONOMER,conserved hypothetical protein,SYNPCC7942_RS08950(),BioCyc
 SYNPCC7942_0639-MONOMER,enolase,SYNPCC7942_RS03280(2),BioCyc
 SYNPCC7942_2391-MONOMER,oxidoreductase-like,SYNPCC7942_RS12150(),BioCyc
 SYNPCC7942_1006-MONOMER,TPR repeat,SYNPCC7942_RS05160(),BioCyc
@@ -941,7 +941,7 @@ SYNPCC7942_0543-MONOMER,conserved hypothetical protein,SYNPCC7942_RS02765(),BioC
 SYNPCC7942_2033-MONOMER,conserved hypothetical protein,SYNPCC7942_RS10315(),BioCyc
 SYNPCC7942_2295-MONOMER,conserved hypothetical protein,SYNPCC7942_RS11665(),BioCyc
 SYNPCC7942_0910-MONOMER,conserved hypothetical protein,SYNPCC7942_RS04680(),BioCyc
-SYNPCC7942_B2664-MONOMER,cysteine synthase A,SYNPCC7942_RS13380(2),BioCyc
+SYNPCC7942_B2664-MONOMER,cysteine synthase A,SYNPCC7942_RS13380(),BioCyc
 SYNPCC7942_1282-MONOMER,,SYNPCC7942_RS06565(),BioCyc
 SYNPCC7942_0159-MONOMER,Mov34/MPN/PAD-1,SYNPCC7942_RS00805(),BioCyc
 SYNPCC7942_1649-MONOMER,rubrerythrin,SYNPCC7942_RS08410(),BioCyc
@@ -956,11 +956,11 @@ SYNPCC7942_1633-MONOMER,conserved hypothetical protein,SYNPCC7942_RS08330(),BioC
 SYNPCC7942_0511-MONOMER,Cytochrome c biogenesis protein ccsA,SYNPCC7942_RS02595(),BioCyc
 SYNPCC7942_2001-MONOMER,septum site-determining protein MinC,SYNPCC7942_RS10145(),BioCyc
 SYNPCC7942_2263-MONOMER,histidyl-tRNA synthetase,SYNPCC7942_RS11500(2),BioCyc
-SYNPCC7942_0878-MONOMER,"ribonuclease, Rne/Rng family",SYNPCC7942_RS04525(2),BioCyc
+SYNPCC7942_0878-MONOMER,"ribonuclease, Rne/Rng family",SYNPCC7942_RS04525(),BioCyc
 SYNPCC7942_B2632-MONOMER,hypothetical protein,SYNPCC7942_RS13485(),BioCyc
 SYNPCC7942_1250-MONOMER,PsaF,SYNPCC7942_RS06405(),BioCyc
 SYNPCC7942_0126-MONOMER,enoyl-(acyl-carrier-protein) reductase,SYNPCC7942_RS00640(1),BioCyc
-SYNPCC7942_1617-MONOMER,inner membrane protein-like,SYNPCC7942_RS08250(1),BioCyc
+SYNPCC7942_1617-MONOMER,inner membrane protein-like,SYNPCC7942_RS08250(),BioCyc
 SYNPCC7942_0495-MONOMER,hypothetical protein,SYNPCC7942_RS02520(),BioCyc
 SYNPCC7942_1985-MONOMER,conserved hypothetical protein,SYNPCC7942_RS10065(),BioCyc
 SYNPCC7942_2247-MONOMER,DNA mismatch repair protein MutS,SYNPCC7942_RS11410(),BioCyc
@@ -978,7 +978,7 @@ SYNPCC7942_1218-MONOMER,KaiA monomer,SYNPCC7942_RS06240(),BioCyc
 SYNPCC7942_0094-MONOMER,"DNA polymerase III, delta prime subunit",SYNPCC7942_RS00475(),BioCyc
 SYNPCC7942_1585-MONOMER,"N-acetylmuramoyl-L-alanine amidase, family 2",SYNPCC7942_RS08095(),BioCyc
 SYNPCC7942_0463-MONOMER,protein tyrosine phosphatase,SYNPCC7942_RS02360(),BioCyc
-SYNPCC7942_1953-MONOMER,6-pyruvoyl tetrahydrobiopterin synthase,SYNPCC7942_RS09915(),BioCyc
+SYNPCC7942_1953-MONOMER,6-pyruvoyl tetrahydrobiopterin synthase,SYNPCC7942_RS09915(1),BioCyc
 SYNPCC7942_2215-MONOMER,50S ribosomal subunit protein L15,SYNPCC7942_RS11250(1),BioCyc
 SYNPCC7942_0828-MONOMER,conserved hypothetical protein,SYNPCC7942_RS04280(),BioCyc
 SYNPCC7942_2583-MONOMER,conserved hypothetical protein,SYNPCC7942_RS13155(),BioCyc
@@ -986,7 +986,7 @@ SYNPCC7942_1202-MONOMER,conserved hypothetical protein,SYNPCC7942_RS06155(),BioC
 SYNPCC7942_0078-MONOMER,Protein of unknown function UPF0047,SYNPCC7942_RS00385(),BioCyc
 SYNPCC7942_1569-MONOMER,conserved hypothetical protein,SYNPCC7942_RS08015(),BioCyc
 SYNPCC7942_0447-MONOMER,endonuclease III,SYNPCC7942_RS02285(),BioCyc
-SYNPCC7942_1937-MONOMER,peptide methionine sulfoxide reductase,SYNPCC7942_RS09830(1),BioCyc
+SYNPCC7942_1937-MONOMER,peptide methionine sulfoxide reductase,SYNPCC7942_RS09830(),BioCyc
 SYNPCC7942_2199-MONOMER,"DNA polymerase III, &alpha; subunit Protein N-terminal part/intein",SYNPCC7942_RS11170(),BioCyc
 SYNPCC7942_0812-MONOMER,Heat shock protein DnaJ-like,SYNPCC7942_RS04200(),BioCyc
 SYNPCC7942_2567-MONOMER,thiamine-monophosphate kinase,SYNPCC7942_RS13045(1),BioCyc
@@ -1008,7 +1008,7 @@ SYNPCC7942_0780-MONOMER,serine/threonine protein kinase,SYNPCC7942_RS04045(),Bio
 SYNPCC7942_2535-MONOMER,diguanylate cyclase (GGDEF domain) with PAS/PAC and GAF sensors,SYNPCC7942_RS12870(),BioCyc
 SYNPCC7942_1154-MONOMER,conserved hypothetical protein,SYNPCC7942_RS05915(),BioCyc
 SYNPCC7942_0030-MONOMER,dethiobiotin synthase,SYNPCC7942_RS00155(2),BioCyc
-SYNPCC7942_1520-MONOMER,30S ribosomal subunit protein S20,SYNPCC7942_RS07770(),BioCyc
+SYNPCC7942_1520-MONOMER,30S ribosomal subunit protein S20,SYNPCC7942_RS07770(1),BioCyc
 SYNPCC7942_0399-MONOMER,conserved hypothetical protein,SYNPCC7942_RS02035(),BioCyc
 SYNPCC7942_1889-MONOMER,conserved hypothetical protein,SYNPCC7942_RS09580(),BioCyc
 SYNPCC7942_2151-MONOMER,Cellulose synthase (UDP-forming),SYNPCC7942_RS10930(),BioCyc
@@ -1026,7 +1026,7 @@ SYNPCC7942_1122-MONOMER,50S ribosomal subunit protein L33,SYNPCC7942_1122(),BioC
 MONOMER490-8,hypothetical protein,G490-3(),BioCyc
 SYNPCC7942_1487-MONOMER,30S ribosomal subunit protein S4,SYNPCC7942_RS07600(1),BioCyc
 SYNPCC7942_0367-MONOMER,Na+-dependent transporter-like,SYNPCC7942_RS01870(),BioCyc
-SYNPCC7942_1857-MONOMER,3-hydroxyacid dehydrogenase,SYNPCC7942_RS09420(1),BioCyc
+SYNPCC7942_1857-MONOMER,3-hydroxyacid dehydrogenase,SYNPCC7942_RS09420(),BioCyc
 SYNPCC7942_2119-MONOMER,"RNA methyltransferase TrmH, group 3",SYNPCC7942_RS10745(2),BioCyc
 SYNPCC7942_0732-MONOMER,conserved hypothetical protein,SYNPCC7942_RS03785(),BioCyc
 SYNPCC7942_2487-MONOMER,ferredoxin-plastoquinone oxidoreductase subunit O,SYNPCC7942_RS12620(),BioCyc
@@ -1037,7 +1037,7 @@ SYNPCC7942_0351-MONOMER,ABC transport system substrate-binding protein,SYNPCC794
 SYNPCC7942_1841-MONOMER,"UDP-N-acetylmuramoylalanyl-D-glutamyl-2, 6-diaminopimelate--D-alanyl-D-alanyl ligase",SYNPCC7942_RS09340(1),BioCyc
 SYNPCC7942_2103-MONOMER,conserved hypothetical protein,SYNPCC7942_RS10660(),BioCyc
 SYNPCC7942_0716-MONOMER,conserved hypothetical protein,SYNPCC7942_RS03680(),BioCyc
-SYNPCC7942_2471-MONOMER,transcription antitermination factor NusB,SYNPCC7942_RS12560(),BioCyc
+SYNPCC7942_2471-MONOMER,transcription antitermination factor NusB,SYNPCC7942_RS12560(1),BioCyc
 SYNPCC7942_1090-MONOMER,conserved hypothetical protein,SYNPCC7942_RS05595(),BioCyc
 SYNPCC7942_1455-MONOMER,3-oxoacyl-(acyl-carrier-protein) synthase III,SYNPCC7942_RS07445(2),BioCyc
 SYNPCC7942_0335-MONOMER,"ATP synthase F1, &delta; subunit",SYNPCC7942_RS01705(),BioCyc
@@ -1047,7 +1047,7 @@ SYNPCC7942_2455-MONOMER,conserved hypothetical protein,SYNPCC7942_RS12475(),BioC
 SYNPCC7942_1074-MONOMER,conserved hypothetical protein,SYNPCC7942_RS05510(),BioCyc
 SYNPCC7942_1439-MONOMER,ferredoxin-plastoquinone oxidoreductase subunit D2,SYNPCC7942_RS07360(),BioCyc
 SYNPCC7942_0319-MONOMER,hemolysin A,SYNPCC7942_RS01625(),BioCyc
-SYNPCC7942_1809-MONOMER,flavoprotein,SYNPCC7942_RS09190(4),BioCyc
+SYNPCC7942_1809-MONOMER,flavoprotein,SYNPCC7942_RS09190(),BioCyc
 SYNPCC7942_0684-MONOMER,FabG monomer,SYNPCC7942_RS03505(1),BioCyc
 SYNPCC7942_2439-MONOMER,beta-carotene hydroxylase,SYNPCC7942_RS12395(),BioCyc
 SYNPCC7942_1057-MONOMER,thiamine-phosphate pyrophosphorylase,SYNPCC7942_RS05420(1),BioCyc
@@ -1062,7 +1062,7 @@ SYNPCC7942_0287-MONOMER,hypothetical protein,SYNPCC7942_RS13610(),BioCyc
 SYNPCC7942_1777-MONOMER,conserved hypothetical protein,SYNPCC7942_RS09030(),BioCyc
 SYNPCC7942_0652-MONOMER,conserved hypothetical protein,SYNPCC7942_RS03340(),BioCyc
 SYNPCC7942_2404-MONOMER,conserved hypothetical protein,SYNPCC7942_2404(),BioCyc
-SYNPCC7942_1019-MONOMER,4-alpha-glucanotransferase,SYNPCC7942_RS05240(1),BioCyc
+SYNPCC7942_1019-MONOMER,4-alpha-glucanotransferase,SYNPCC7942_RS05240(),BioCyc
 SYNPCC7942_1388-MONOMER,carbonic anhydrase EcaA,SYNPCC7942_RS07105(),BioCyc
 SYNPCC7942_0268-MONOMER,hypothetical protein,SYNPCC7942_RS01365(),BioCyc
 SYNPCC7942_1758-MONOMER,conserved hypothetical protein,SYNPCC7942_RS08935(),BioCyc
@@ -1071,7 +1071,7 @@ SYNPCC7942_2388-MONOMER,Oxalate decarboxylase,SYNPCC7942_RS12135(),BioCyc
 SYNPCC7942_1003-MONOMER,anthranilate synthase component I,SYNPCC7942_RS05145(),BioCyc
 SYNPCC7942_1375-MONOMER,conserved hypothetical protein,SYNPCC7942_RS07035(),BioCyc
 SYNPCC7942_0252-MONOMER,hypothetical protein,SYNPCC7942_RS01285(),BioCyc
-SYNPCC7942_1742-MONOMER,NADP-dependent glyceraldehyde-3-phosphate dehydrogenase monomer,SYNPCC7942_RS08865(),BioCyc
+SYNPCC7942_1742-MONOMER,NADP-dependent glyceraldehyde-3-phosphate dehydrogenase monomer,SYNPCC7942_RS08865(4),BioCyc
 SYNPCC7942_0620-MONOMER,conserved hypothetical protein,SYNPCC7942_RS03180(),BioCyc
 SYNPCC7942_2372-MONOMER,conserved hypothetical protein,SYNPCC7942_RS12055(),BioCyc
 SYNPCC7942_0987-MONOMER,Fur,SYNPCC7942_RS05070(),BioCyc
@@ -1086,7 +1086,7 @@ SYNPCC7942_1343-MONOMER,ferredoxin-plastoquinone oxidoreductase subunit A,SYNPCC
 SYNPCC7942_0220-MONOMER,probable cell division inhibitor MinD,SYNPCC7942_RS01120(),BioCyc
 SYNPCC7942_1710-MONOMER,RNA polymerase subunit omega (rpoZ),SYNPCC7942_RS08700(),BioCyc
 SYNPCC7942_0588-MONOMER,phosphoribosylglycinamide formyltransferase 2,SYNPCC7942_RS03015(1),BioCyc
-SYNPCC7942_2078-MONOMER,phosphoglycerate mutase,SYNPCC7942_RS10535(1),BioCyc
+SYNPCC7942_2078-MONOMER,phosphoglycerate mutase,SYNPCC7942_RS10535(),BioCyc
 SYNPCC7942_2340-MONOMER,GTP-binding protein,SYNPCC7942_RS11890(),BioCyc
 SYNPCC7942_0955-MONOMER,conserved hypothetical protein,SYNPCC7942_RS04910(),BioCyc
 SYNPCC7942_1327-MONOMER,hypothetical protein,SYNPCC7942_RS06785(),BioCyc
@@ -1094,15 +1094,15 @@ SYNPCC7942_0204-MONOMER,conserved hypothetical protein,SYNPCC7942_RS01035(),BioC
 SYNPCC7942_1694-MONOMER,"DNA topoisomerase IV, subunit A",SYNPCC7942_RS08625(),BioCyc
 SYNPCC7942_0572-MONOMER,conserved hypothetical protein,SYNPCC7942_RS02910(),BioCyc
 SYNPCC7942_2062-MONOMER,"Lycopene cyclase, beta and epsilon",SYNPCC7942_RS10460(),BioCyc
-SYNPCC7942_2324-MONOMER,,SYNPCC7942_RS11815(4),BioCyc
-SYNPCC7942_0939-MONOMER,adenylylsulfate kinase,SYNPCC7942_RS04830(2),BioCyc
+SYNPCC7942_2324-MONOMER,,SYNPCC7942_RS11815(),BioCyc
+SYNPCC7942_0939-MONOMER,adenylylsulfate kinase,SYNPCC7942_RS04830(),BioCyc
 SYNPCC7942_1311-MONOMER,conserved hypothetical protein,SYNPCC7942_RS06705(),BioCyc
 SYNPCC7942_0188-MONOMER,diguanylate cyclase/phosphodiesterase (GGDEF &amp; EAL domains) with PAS/PAC sensor(s),SYNPCC7942_RS00955(),BioCyc
 SYNPCC7942_1678-MONOMER,conserved hypothetical protein,SYNPCC7942_RS08550(),BioCyc
 SYNPCC7942_0556-MONOMER,SrrB response regulator,SYNPCC7942_RS02830(),BioCyc
 SYNPCC7942_2046-MONOMER,glycine cleavage system H protein,SYNPCC7942_RS10380(),BioCyc
 SYNPCC7942_2308-MONOMER,glycine cleavage system T protein,SYNPCC7942_RS11730(),BioCyc
-SYNPCC7942_0923-MONOMER,Methylthioadenosine phosphorylase,SYNPCC7942_RS04750(),BioCyc
+SYNPCC7942_0923-MONOMER,Methylthioadenosine phosphorylase,SYNPCC7942_RS04750(6),BioCyc
 SYNPCC7942_1295-MONOMER,Phospholipid/glycerol acyltransferase,SYNPCC7942_RS06625(),BioCyc
 SYNPCC7942_0172-MONOMER,hypothetical protein,SYNPCC7942_RS00875(),BioCyc
 SYNPCC7942_1662-MONOMER,cysteinyl-tRNA synthetase,SYNPCC7942_RS08475(1),BioCyc
@@ -1112,7 +1112,7 @@ SYNPCC7942_2292-MONOMER,conserved hypothetical protein,SYNPCC7942_RS11650(),BioC
 SYNPCC7942_0907-MONOMER,conserved hypothetical protein,SYNPCC7942_0907(),BioCyc
 SYNPCC7942_B2661-MONOMER,cysteine desulfurase,SYNPCC7942_RS13365(),BioCyc
 SYNPCC7942_1279-MONOMER,hypothetical protein,SYNPCC7942_RS06550(),BioCyc
-SYNPCC7942_0156-MONOMER,phosphoglucomutase,SYNPCC7942_RS00790(1),BioCyc
+SYNPCC7942_0156-MONOMER,phosphoglucomutase,SYNPCC7942_RS00790(),BioCyc
 SYNPCC7942_1646-MONOMER,conserved hypothetical protein,SYNPCC7942_RS08395(),BioCyc
 SYNPCC7942_0524-MONOMER,conserved hypothetical protein,SYNPCC7942_RS02665(),BioCyc
 SYNPCC7942_2014-MONOMER,conserved hypothetical protein,SYNPCC7942_RS10215(),BioCyc
@@ -1141,7 +1141,7 @@ SYNPCC7942_1598-MONOMER,Phenazine biosynthesis PhzC/PhzF protein,SYNPCC7942_RS08
 SYNPCC7942_0476-MONOMER,ClpS2 adaptor protein,SYNPCC7942_0476(),BioCyc
 SYNPCC7942_1966-MONOMER,conserved hypothetical protein,SYNPCC7942_RS09975(),BioCyc
 SYNPCC7942_2228-MONOMER,30S ribosomal subunit protein S19,SYNPCC7942_RS11315(1),BioCyc
-SYNPCC7942_0842-MONOMER,Glutathione reductase,SYNPCC7942_RS04355(2),BioCyc
+SYNPCC7942_0842-MONOMER,Glutathione reductase,SYNPCC7942_RS04355(),BioCyc
 SYNPCC7942_2596-MONOMER,probable oxidoreductase,SYNPCC7942_RS13225(),BioCyc
 SYNPCC7942_1215-MONOMER,acyl-CoA dehydrogenase family protein-like,SYNPCC7942_RS06225(),BioCyc
 SYNPCC7942_0091-MONOMER,chorismate lyase,SYNPCC7942_RS00460(),BioCyc
@@ -1151,9 +1151,9 @@ SYNPCC7942_1950-MONOMER,conserved hypothetical protein,SYNPCC7942_RS09895(),BioC
 SYNPCC7942_2212-MONOMER,50S ribosomal subunit protein L36,SYNPCC7942_2212(),BioCyc
 SYNPCC7942_0825-MONOMER,conserved hypothetical protein,SYNPCC7942_RS04265(),BioCyc
 SYNPCC7942_2580-MONOMER,heat shock protein Hsp70-3,SYNPCC7942_RS13135(),BioCyc
-SYNPCC7942_1199-MONOMER,probable tRNA/rRNA methyltransferase,SYNPCC7942_RS06140(2),BioCyc
+SYNPCC7942_1199-MONOMER,probable tRNA/rRNA methyltransferase,SYNPCC7942_RS06140(),BioCyc
 SYNPCC7942_0075-MONOMER,aminopeptidase P,SYNPCC7942_RS00370(),BioCyc
-SYNPCC7942_1566-MONOMER,Polyphosphate kinase,SYNPCC7942_RS08000(4),BioCyc
+SYNPCC7942_1566-MONOMER,Polyphosphate kinase,SYNPCC7942_RS08000(),BioCyc
 SYNPCC7942_0444-MONOMER,conserved hypothetical protein,SYNPCC7942_RS02270(),BioCyc
 SYNPCC7942_1934-MONOMER,D-alanyl-D-alanine carboxypeptidase/D-alanyl-D-alanine-endopeptidase,SYNPCC7942_RS09815(1),BioCyc
 SYNPCC7942_2196-MONOMER,conserved hypothetical protein,SYNPCC7942_RS11155(),BioCyc
@@ -1176,7 +1176,7 @@ SYNPCC7942_2164-MONOMER,cell death suppressor protein Lls1-like,SYNPCC7942_RS110
 SYNPCC7942_0777-MONOMER,Methylenetetrahydrofolate dehydrogenase (NADP+),SYNPCC7942_RS04030(2),BioCyc
 SYNPCC7942_2532-MONOMER,chlorophyllase 3,SYNPCC7942_RS12855(),BioCyc
 SYNPCC7942_1151-MONOMER,Bifunctional pantoate ligase/cytidylate kinase,SYNPCC7942_RS05900(2),BioCyc
-SYNPCC7942_0027-MONOMER,8-amino-7-oxononanoate synthase,SYNPCC7942_RS00140(2),BioCyc
+SYNPCC7942_0027-MONOMER,8-amino-7-oxononanoate synthase,SYNPCC7942_RS00140(),BioCyc
 SYNPCC7942_1517-MONOMER,two-component sensor histidine kinase Hik34,SYNPCC7942_RS07755(),BioCyc
 SYNPCC7942_0396-MONOMER,phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase,SYNPCC7942_RS02020(1),BioCyc
 SYNPCC7942_1886-MONOMER,single-stranded-DNA-specific exonuclease RecJ,SYNPCC7942_RS09565(),BioCyc
@@ -1198,7 +1198,7 @@ SYNPCC7942_1854-MONOMER,precorrin-3B C17-methyltransferase,SYNPCC7942_RS09405(),
 SYNPCC7942_2116-MONOMER,conserved hypothetical protein,SYNPCC7942_RS10730(),BioCyc
 SYNPCC7942_0729-MONOMER,conserved hypothetical protein,SYNPCC7942_RS03770(),BioCyc
 SYNPCC7942_2484-MONOMER,conserved hypothetical protein,SYNPCC7942_RS12615(),BioCyc
-SYNPCC7942_1103-MONOMER,glucosamine-6-phosphate isomerase 2,SYNPCC7942_RS05655(6),BioCyc
+SYNPCC7942_1103-MONOMER,glucosamine-6-phosphate isomerase 2,SYNPCC7942_RS05655(),BioCyc
 SYNPCC7942_1468-MONOMER,putative multicomponent Na+:H+ antiporter subunit B,SYNPCC7942_RS07510(),BioCyc
 SYNPCC7942_0348-MONOMER,recA protein,SYNPCC7942_RS01770(),BioCyc
 SYNPCC7942_1838-MONOMER,"light-independent protochlorophyllide reductase, B subunit",SYNPCC7942_RS09325(),BioCyc
@@ -1215,7 +1215,7 @@ SYNPCC7942_1436-MONOMER,conserved hypothetical protein,SYNPCC7942_RS07345(),BioC
 SYNPCC7942_0316-MONOMER,conserved hypothetical protein,SYNPCC7942_RS01610(),BioCyc
 SYNPCC7942_1806-MONOMER,peroxiredoxin PrxQ-A2,SYNPCC7942_RS09175(1),BioCyc
 SYNPCC7942_0681-MONOMER,2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase,SYNPCC7942_RS03490(2),BioCyc
-SYNPCC7942_2436-MONOMER,peptide methionine sulfoxide reductase,SYNPCC7942_RS12375(),BioCyc
+SYNPCC7942_2436-MONOMER,peptide methionine sulfoxide reductase,SYNPCC7942_RS12375(1),BioCyc
 SYNPCC7942_1054-MONOMER,phycocyanin &alpha;-subunit phycocyanobilin lyase subunit &alpha;,SYNPCC7942_RS05405(),BioCyc
 SYNPCC7942_1420-MONOMER,"light-independent protochlorophyllide reductase, N subunit",SYNPCC7942_RS07265(),BioCyc
 SYNPCC7942_0300-MONOMER,"cell shape determining protein, MreB/Mrl family",SYNPCC7942_RS01530(),BioCyc
@@ -1235,7 +1235,7 @@ SYNPCC7942_1755-MONOMER,conserved hypothetical protein,SYNPCC7942_RS08925(1),Bio
 SYNPCC7942_0633-MONOMER,50S ribosomal subunit protein L1,SYNPCC7942_RS03250(1),BioCyc
 SYNPCC7942_2385-MONOMER,conserved hypothetical protein,SYNPCC7942_RS12120(),BioCyc
 SYNPCC7942_1000-MONOMER,conserved hypothetical protein,SYNPCC7942_RS05130(),BioCyc
-SYNPCC7942_1372-MONOMER,5-methyltetrahydrofolate--homocysteine methyltransferase,SYNPCC7942_RS07020(1),BioCyc
+SYNPCC7942_1372-MONOMER,5-methyltetrahydrofolate--homocysteine methyltransferase,SYNPCC7942_RS07020(),BioCyc
 SYNPCC7942_0249-MONOMER,"ABC-type amino acid transport system, ATPase subunit",SYNPCC7942_RS01270(),BioCyc
 SYNPCC7942_1739-MONOMER,"transcriptional regulator, MerR family",SYNPCC7942_RS08850(),BioCyc
 SYNPCC7942_0617-MONOMER,conserved hypothetical protein,SYNPCC7942_RS03165(),BioCyc
@@ -1246,7 +1246,7 @@ SYNPCC7942_0233-MONOMER,conserved hypothetical protein,SYNPCC7942_RS01185(),BioC
 SYNPCC7942_1723-MONOMER,carotene isomerase,SYNPCC7942_RS08770(),BioCyc
 SYNPCC7942_0601-MONOMER,hypothetical protein,SYNPCC7942_RS03085(),BioCyc
 SYNPCC7942_2091-MONOMER,ferredoxin-plastoquinone oxidoreductase subunit F3,SYNPCC7942_RS10600(),BioCyc
-SYNPCC7942_2353-MONOMER,lipoyl(octanoyl) transferase,SYNPCC7942_RS11955(1),BioCyc
+SYNPCC7942_2353-MONOMER,lipoyl(octanoyl) transferase,SYNPCC7942_RS11955(),BioCyc
 SYNPCC7942_0968-MONOMER,hypothetical protein,SYNPCC7942_RS04975(),BioCyc
 SYNPCC7942_1340-MONOMER,Peptide deformylase,SYNPCC7942_RS06850(1),BioCyc
 SYNPCC7942_0217-MONOMER,phosphatases-like,SYNPCC7942_RS01100(),BioCyc
@@ -1296,7 +1296,7 @@ SYNPCC7942_B2626-MONOMER,partitioning protein ParB,SYNPCC7942_RS13640(),BioCyc
 SYNPCC7942_1244-MONOMER,ATPase,SYNPCC7942_RS06375(),BioCyc
 SYNPCC7942_0120-MONOMER,Cytosine/adenosine deaminases-like,SYNPCC7942_RS00605(),BioCyc
 SYNPCC7942_1611-MONOMER,nicotinamide nucleotide transhydrogenase alpha subunit-like,SYNPCC7942_RS08220(),BioCyc
-SYNPCC7942_0489-MONOMER,succinate-semialdehyde dehydrogenase (NADP<small><sup>+</sup></small>),SYNPCC7942_RS02490(4),BioCyc
+SYNPCC7942_0489-MONOMER,succinate-semialdehyde dehydrogenase (NADP<small><sup>+</sup></small>),SYNPCC7942_RS02490(),BioCyc
 SYNPCC7942_1979-MONOMER,membrane protein-like,SYNPCC7942_RS10035(),BioCyc
 SYNPCC7942_2241-MONOMER,conserved hypothetical protein,SYNPCC7942_2241(),BioCyc
 SYNPCC7942_0856-MONOMER,response regulator receiver domain protein (CheY-like),SYNPCC7942_RS04415(),BioCyc
@@ -1332,9 +1332,9 @@ SYNPCC7942_0425-MONOMER,conserved hypothetical protein,SYNPCC7942_RS02170(),BioC
 SYNPCC7942_1915-MONOMER,chorismate mutase,SYNPCC7942_RS09720(),BioCyc
 SYNPCC7942_2177-MONOMER,neutural amino acids ABC transporter integral membrane protein,SYNPCC7942_RS11065(),BioCyc
 SYNPCC7942_0790-MONOMER,RNA-binding region RNP-1,SYNPCC7942_RS04090(),BioCyc
-SYNPCC7942_2545-MONOMER,aspartate aminotransferase,SYNPCC7942_RS12930(),BioCyc
+SYNPCC7942_2545-MONOMER,aspartate aminotransferase,SYNPCC7942_RS12930(2),BioCyc
 SYNPCC7942_1164-MONOMER,conserved hypothetical protein,SYNPCC7942_RS05970(),BioCyc
-SYNPCC7942_0040-MONOMER,dihydroneopterin aldolase,SYNPCC7942_RS00200(),BioCyc
+SYNPCC7942_0040-MONOMER,dihydroneopterin aldolase,SYNPCC7942_RS00200(8),BioCyc
 SYNPCC7942_1530-MONOMER,molybdate transport system molybdenum-pterin binding domain protein,SYNPCC7942_RS07820(),BioCyc
 SYNPCC7942_0409-MONOMER,hypothetical protein,SYNPCC7942_RS02085(),BioCyc
 SYNPCC7942_1899-MONOMER,conserved hypothetical protein,SYNPCC7942_RS09630(),BioCyc
@@ -1343,7 +1343,7 @@ SYNPCC7942_0774-MONOMER,esterase,SYNPCC7942_RS04015(),BioCyc
 SYNPCC7942_2529-MONOMER,hypothetical protein,SYNPCC7942_RS12840(),BioCyc
 SYNPCC7942_1148-MONOMER,metal dependent phosphohydrolase,SYNPCC7942_RS05880(),BioCyc
 SYNPCC7942_0024-MONOMER,conserved hypothetical protein,SYNPCC7942_RS00125(),BioCyc
-SYNPCC7942_1514-MONOMER,"Pseudouridine synthase, Rsu",SYNPCC7942_RS07740(1),BioCyc
+SYNPCC7942_1514-MONOMER,"Pseudouridine synthase, Rsu",SYNPCC7942_RS07740(),BioCyc
 SYNPCC7942_0393-MONOMER,conserved hypothetical protein,SYNPCC7942_RS02005(),BioCyc
 SYNPCC7942_1883-MONOMER,conserved hypothetical protein YCF53,SYNPCC7942_RS09550(),BioCyc
 SYNPCC7942_2145-MONOMER,conserved hypothetical protein,SYNPCC7942_RS10895(),BioCyc
@@ -1371,7 +1371,7 @@ SYNPCC7942_1835-MONOMER,conserved hypothetical protein,SYNPCC7942_RS09310(),BioC
 SYNPCC7942_0710-MONOMER,conserved hypothetical protein,SYNPCC7942_RS03640(),BioCyc
 SYNPCC7942_2465-MONOMER,conserved hypothetical protein,SYNPCC7942_RS12530(),BioCyc
 SYNPCC7942_1084-MONOMER,hypothetical protein,SYNPCC7942_1084(),BioCyc
-SYNPCC7942_1449-MONOMER,UDP-3-O-(3-hydroxymyristoyl) glucosamine N-acyltransferase,SYNPCC7942_RS07415(1),BioCyc
+SYNPCC7942_1449-MONOMER,UDP-3-O-(3-hydroxymyristoyl) glucosamine N-acyltransferase,SYNPCC7942_RS07415(),BioCyc
 SYNPCC7942_0329-MONOMER,conserved hypothetical protein,SYNPCC7942_RS01675(),BioCyc
 SYNPCC7942_1819-MONOMER,conserved hypothetical protein,SYNPCC7942_RS09235(),BioCyc
 SYNPCC7942_0694-MONOMER,30S ribosomal subunit protein S1,SYNPCC7942_RS03560(1),BioCyc
@@ -1380,7 +1380,7 @@ SYNPCC7942_1068-MONOMER,pyruvate dehydrogenase complex E2 component monomer,SYNP
 SYNPCC7942_1433-MONOMER,N-acetyl-gamma-glutamyl-phosphate reductase,SYNPCC7942_RS07330(1),BioCyc
 SYNPCC7942_0313-MONOMER,conserved hypothetical protein,SYNPCC7942_RS01595(),BioCyc
 SYNPCC7942_1803-MONOMER,"putative ferric uptake regulator, FUR family",SYNPCC7942_RS09160(),BioCyc
-SYNPCC7942_0678-MONOMER,ribonuclease D,SYNPCC7942_RS03470(1),BioCyc
+SYNPCC7942_0678-MONOMER,ribonuclease D,SYNPCC7942_RS03470(),BioCyc
 SYNPCC7942_2433-MONOMER,conserved hypothetical protein,SYNPCC7942_RS12360(),BioCyc
 SYNPCC7942_1049-MONOMER,30 kDa phycobilisome rod linker protein,SYNPCC7942_RS05380(),BioCyc
 SYNPCC7942_1417-MONOMER,conserved hypothetical protein,SYNPCC7942_RS07250(),BioCyc
@@ -1439,7 +1439,7 @@ SYNPCC7942_2302-MONOMER,conserved hypothetical protein,SYNPCC7942_RS11700(),BioC
 SYNPCC7942_0917-MONOMER,conserved hypothetical protein,SYNPCC7942_RS04720(),BioCyc
 SYNPCC7942_1289-MONOMER,putative modulator of DNA gyrase,SYNPCC7942_RS06600(),BioCyc
 SYNPCC7942_0166-MONOMER,conserved hypothetical protein,SYNPCC7942_RS00840(),BioCyc
-SYNPCC7942_1656-MONOMER,catalase/peroxidase monomer,SYNPCC7942_RS08445(4),BioCyc
+SYNPCC7942_1656-MONOMER,catalase/peroxidase monomer,SYNPCC7942_RS08445(),BioCyc
 SYNPCC7942_0534-MONOMER,"glucosamine--fructose-6-phosphate aminotransferase, isomerizing",SYNPCC7942_RS02715(2),BioCyc
 SYNPCC7942_2024-MONOMER,conserved hypothetical protein,SYNPCC7942_RS10270(),BioCyc
 SYNPCC7942_2286-MONOMER,conserved hypothetical protein,SYNPCC7942_RS11620(),BioCyc
@@ -1460,17 +1460,17 @@ SYNPCC7942_0502-MONOMER,conserved hypothetical protein,SYNPCC7942_RS02550(),BioC
 SYNPCC7942_1992-MONOMER,Methylthioribose-1-phosphate isomerase,SYNPCC7942_RS10100(),BioCyc
 SYNPCC7942_2254-MONOMER,conserved hypothetical protein,SYNPCC7942_RS11460(),BioCyc
 SYNPCC7942_0869-MONOMER,conserved hypothetical protein,SYNPCC7942_RS04480(),BioCyc
-SYNPCC7942_B2623-MONOMER,cysteine synthase A,SYNPCC7942_RS13425(),BioCyc
+SYNPCC7942_B2623-MONOMER,cysteine synthase A,SYNPCC7942_RS13425(2),BioCyc
 SYNPCC7942_1241-MONOMER,nitrite reductase related protein,SYNPCC7942_RS06360(),BioCyc
 SYNPCC7942_0117-MONOMER,thiol methyltransferase 1-like,SYNPCC7942_0117(),BioCyc
-SYNPCC7942_1608-MONOMER,Mannose-1-phosphate guanylyltransferase/mannose-6-phosphate isomerase,SYNPCC7942_RS08205(1),BioCyc
+SYNPCC7942_1608-MONOMER,Mannose-1-phosphate guanylyltransferase/mannose-6-phosphate isomerase,SYNPCC7942_RS08205(),BioCyc
 SYNPCC7942_0486-MONOMER,dihydroorotase,SYNPCC7942_RS02475(),BioCyc
 SYNPCC7942_1976-MONOMER,ferredoxin-plastoquinone oxidoreductase subunit D1,SYNPCC7942_RS10020(),BioCyc
 SYNPCC7942_2238-MONOMER,glucose transport protein,SYNPCC7942_RS11365(),BioCyc
 SYNPCC7942_0853-MONOMER,probable aminotransferase,SYNPCC7942_RS04400(),BioCyc
-SYNPCC7942_2606-MONOMER,threonyl-tRNA synthetase,SYNPCC7942_RS13275(2),BioCyc
+SYNPCC7942_2606-MONOMER,threonyl-tRNA synthetase,SYNPCC7942_RS13275(),BioCyc
 SYNPCC7942_1225-MONOMER,phycocyanobilin:ferredoxin oxidoreductase,SYNPCC7942_RS06275(),BioCyc
-SYNPCC7942_0101-MONOMER,type 2 NADH dehydrogenase NdbA monomer,SYNPCC7942_RS00515(1),BioCyc
+SYNPCC7942_0101-MONOMER,type 2 NADH dehydrogenase NdbA monomer,SYNPCC7942_RS00515(),BioCyc
 SYNPCC7942_1592-MONOMER,creatinine amidohydrolase,SYNPCC7942_RS08130(),BioCyc
 SYNPCC7942_0470-MONOMER,conserved hypothetical protein,SYNPCC7942_RS02400(),BioCyc
 SYNPCC7942_1960-MONOMER,conserved hypothetical protein,SYNPCC7942_RS09945(),BioCyc
@@ -1479,8 +1479,8 @@ SYNPCC7942_0836-MONOMER,conserved hypothetical protein,SYNPCC7942_RS04325(),BioC
 SYNPCC7942_2590-MONOMER,pilin-like protein-like,SYNPCC7942_RS13190(),BioCyc
 SYNPCC7942_1209-MONOMER,conserved hypothetical protein,SYNPCC7942_RS06190(),BioCyc
 SYNPCC7942_0085-MONOMER,"HAD-superfamily hydrolase subfamily IA, variant 3",SYNPCC7942_RS00420(),BioCyc
-SYNPCC7942_1576-MONOMER,"putative chloride channel protein, CIC family",SYNPCC7942_RS08050(1),BioCyc
-SYNPCC7942_0454-MONOMER,cobalamin 5'-phosphate synthase,SYNPCC7942_RS02320(1),BioCyc
+SYNPCC7942_1576-MONOMER,"putative chloride channel protein, CIC family",SYNPCC7942_RS08050(),BioCyc
+SYNPCC7942_0454-MONOMER,cobalamin 5'-phosphate synthase,SYNPCC7942_RS02320(),BioCyc
 SYNPCC7942_1944-MONOMER,pyruvate dehydrogenase complex E1 component &alpha; subunit,GCEQ-2175(),BioCyc
 SYNPCC7942_2206-MONOMER,50S ribosomal subunit protein L13,SYNPCC7942_RS11210(1),BioCyc
 SYNPCC7942_0819-MONOMER,phosphoribosylformylglycinamidine synthase I,SYNPCC7942_RS04235(),BioCyc
@@ -1509,7 +1509,7 @@ SYNPCC7942_1896-MONOMER,arginine biosynthesis bifunctional protein ArgJ,SYNPCC79
 SYNPCC7942_2158-MONOMER,allophycocyanin &beta; 18.5 subunit,SYNPCC7942_RS10965(),BioCyc
 SYNPCC7942_0771-MONOMER,conserved hypothetical protein,SYNPCC7942_RS04000(),BioCyc
 SYNPCC7942_2526-MONOMER,ClpX,SYNPCC7942_RS12825(),BioCyc
-SYNPCC7942_1145-MONOMER,Glutaredoxin-related protein,SYNPCC7942_RS05865(2),BioCyc
+SYNPCC7942_1145-MONOMER,Glutaredoxin-related protein,SYNPCC7942_RS05865(),BioCyc
 SYNPCC7942_0021-MONOMER,precorrin-6x reductase,SYNPCC7942_RS00110(),BioCyc
 SYNPCC7942_1511-MONOMER,conserved hypothetical protein,SYNPCC7942_RS07725(),BioCyc
 SYNPCC7942_0390-MONOMER,chromate transporter,SYNPCC7942_RS01990(),BioCyc
@@ -1521,7 +1521,7 @@ SYNPCC7942_1129-MONOMER,conserved hypothetical protein,SYNPCC7942_RS05780(),BioC
 SYNPCC7942_0005-MONOMER,conserved hypothetical protein,SYNPCC7942_RS00025(),BioCyc
 SYNPCC7942_1494-MONOMER,conserved hypothetical protein,SYNPCC7942_RS07635(),BioCyc
 SYNPCC7942_0374-MONOMER,hypothetical protein,SYNPCC7942_RS01905(),BioCyc
-SYNPCC7942_1864-MONOMER,conserved hypothetical protein,SYNPCC7942_RS09455(),BioCyc
+SYNPCC7942_1864-MONOMER,conserved hypothetical protein,SYNPCC7942_RS09455(1),BioCyc
 SYNPCC7942_2126-MONOMER,conserved hypothetical protein,SYNPCC7942_RS10780(),BioCyc
 SYNPCC7942_0739-MONOMER,conserved hypothetical protein,SYNPCC7942_RS03830(),BioCyc
 SYNPCC7942_2494-MONOMER,branched-chain amino acid ABC transporter integral membrane protein,SYNPCC7942_RS12655(),BioCyc
@@ -1538,7 +1538,7 @@ SYNPCC7942_1462-MONOMER,iron-regulated protein A,SYNPCC7942_RS07480(),BioCyc
 SYNPCC7942_0342-MONOMER,hypothetical protein,SYNPCC7942_RS01745(),BioCyc
 SYNPCC7942_1832-MONOMER,conserved hypothetical protein,SYNPCC7942_RS09295(),BioCyc
 SYNPCC7942_0707-MONOMER,arginine decarboxylase,SYNPCC7942_RS03625(10),BioCyc
-SYNPCC7942_2462-MONOMER,<small>D</small>-ribulokinase,SYNPCC7942_RS12515(),BioCyc
+SYNPCC7942_2462-MONOMER,<small>D</small>-ribulokinase,SYNPCC7942_RS12515(2),BioCyc
 SYNPCC7942_1081-MONOMER,conserved hypothetical protein,SYNPCC7942_RS05550(),BioCyc
 SYNPCC7942_1446-MONOMER,conserved hypothetical protein,SYNPCC7942_RS07400(),BioCyc
 SYNPCC7942_0326-MONOMER,allophycocyanin &beta; subunit,SYNPCC7942_RS01660(),BioCyc
@@ -1585,7 +1585,7 @@ SYNPCC7942_0595-MONOMER,hypothetical protein,SYNPCC7942_RS03050(),BioCyc
 SYNPCC7942_2085-MONOMER,probable anion transporting ATPase,SYNPCC7942_RS10570(),BioCyc
 SYNPCC7942_2347-MONOMER,conserved hypothetical protein,SYNPCC7942_RS11925(),BioCyc
 SYNPCC7942_0962-MONOMER,sun protein,SYNPCC7942_RS04945(1),BioCyc
-SYNPCC7942_1334-MONOMER,"para-aminobenzoate synthase, component I",SYNPCC7942_RS06820(1),BioCyc
+SYNPCC7942_1334-MONOMER,"para-aminobenzoate synthase, component I",SYNPCC7942_RS06820(),BioCyc
 SYNPCC7942_0211-MONOMER,cobyric acid synthase CobQ,SYNPCC7942_RS01070(),BioCyc
 SYNPCC7942_1701-MONOMER,conserved hypothetical protein,SYNPCC7942_RS08660(),BioCyc
 SYNPCC7942_0579-MONOMER,sulfoquinovosyldiacylglycerol synthase,SYNPCC7942_RS02945(),BioCyc
@@ -1608,7 +1608,7 @@ SYNPCC7942_2299-MONOMER,30S ribosomal subunit protein S15,SYNPCC7942_RS11685(1),
 SYNPCC7942_0914-MONOMER,tRNA-(MS(2)IO(6)A)-hydroxylase-like,SYNPCC7942_RS04700(),BioCyc
 SYNPCC7942_1286-MONOMER,molybdopterin biosynthesis protein moeA,SYNPCC7942_1286(1),BioCyc
 SYNPCC7942_0163-MONOMER,conserved hypothetical protein,SYNPCC7942_RS00825(),BioCyc
-SYNPCC7942_1653-MONOMER,Putative uncharacterized protein,SYNPCC7942_RS08430(8),BioCyc
+SYNPCC7942_1653-MONOMER,Putative uncharacterized protein,SYNPCC7942_RS08430(),BioCyc
 SYNPCC7942_0531-MONOMER,TPR repeat,SYNPCC7942_RS02700(),BioCyc
 SYNPCC7942_2021-MONOMER,conserved hypothetical protein,SYNPCC7942_RS10255(),BioCyc
 SYNPCC7942_2283-MONOMER,conserved hypothetical protein,SYNPCC7942_RS11605(),BioCyc
@@ -1626,10 +1626,10 @@ SYNPCC7942_1254-MONOMER,cyclic nucleotide-binding domain (cNMP-BD) protein,SYNPC
 SYNPCC7942_0131-MONOMER,cyclic nucleotide-binding domain (cNMP-BD) protein,SYNPCC7942_RS00665(),BioCyc
 SYNPCC7942_1621-MONOMER,Elongator protein 3/MiaB/NifB,SYNPCC7942_RS08270(),BioCyc
 SYNPCC7942_0499-MONOMER,conserved hypothetical protein,SYNPCC7942_RS02535(),BioCyc
-SYNPCC7942_1989-MONOMER,Cation efflux family protein,SYNPCC7942_RS10085(2),BioCyc
+SYNPCC7942_1989-MONOMER,Cation efflux family protein,SYNPCC7942_RS10085(),BioCyc
 SYNPCC7942_2251-MONOMER,alr0113 (ycf52)-like,SYNPCC7942_2251(),BioCyc
 SYNPCC7942_0866-MONOMER,conserved hypothetical protein,SYNPCC7942_RS04465(),BioCyc
-SYNPCC7942_B2620-MONOMER,catalase,SYNPCC7942_RS13410(6),BioCyc
+SYNPCC7942_B2620-MONOMER,catalase,SYNPCC7942_RS13410(),BioCyc
 SYNPCC7942_1238-MONOMER,nitrate transport permease,SYNPCC7942_RS06345(),BioCyc
 SYNPCC7942_0114-MONOMER,hypothetical protein,SYNPCC7942_RS00580(),BioCyc
 SYNPCC7942_1605-MONOMER,conserved hypothetical protein,SYNPCC7942_RS08190(),BioCyc
@@ -1647,7 +1647,7 @@ SYNPCC7942_2219-MONOMER,30S ribosomal subunit protein S8,SYNPCC7942_RS11270(1),B
 SYNPCC7942_0833-MONOMER,RuBisCO accumulation factor 1 monomer,SYNPCC7942_RS04310(),BioCyc
 SYNPCC7942_2587-MONOMER,conserved hypothetical protein,SYNPCC7942_RS13175(),BioCyc
 SYNPCC7942_1206-MONOMER,conserved hypothetical protein,SYNPCC7942_RS06175(),BioCyc
-SYNPCC7942_0082-MONOMER,ATPase,SYNPCC7942_RS00405(2),BioCyc
+SYNPCC7942_0082-MONOMER,ATPase,SYNPCC7942_RS00405(),BioCyc
 SYNPCC7942_1573-MONOMER,glucose 1-dehydrogenase,SYNPCC7942_RS08035(),BioCyc
 SYNPCC7942_0451-MONOMER,esterase,SYNPCC7942_RS02305(),BioCyc
 SYNPCC7942_1941-MONOMER,conserved hypothetical protein,SYNPCC7942_RS09850(),BioCyc
@@ -1656,7 +1656,7 @@ SYNPCC7942_0816-MONOMER,diguanylate cyclase/phosphodiesterase (GGDEF &amp; EAL d
 SYNPCC7942_2571-MONOMER,Penicillin-binding protein 1A,SYNPCC7942_RS13065(2),BioCyc
 SYNPCC7942_1190-MONOMER,Leucyl aminopeptidase,SYNPCC7942_RS06095(6),BioCyc
 SYNPCC7942_0066-MONOMER,"ABC type transporter, putative component",SYNPCC7942_RS00325(),BioCyc
-SYNPCC7942_1557-MONOMER,RNA polymerase sigma factor SigA6,SYNPCC7942_RS07940(1),BioCyc
+SYNPCC7942_1557-MONOMER,RNA polymerase sigma factor SigA6,SYNPCC7942_RS07940(),BioCyc
 SYNPCC7942_0435-MONOMER,conserved hypothetical protein,SYNPCC7942_RS02225(),BioCyc
 SYNPCC7942_1925-MONOMER,probable peptidase,SYNPCC7942_RS09770(),BioCyc
 SYNPCC7942_2187-MONOMER,conserved hypothetical protein,SYNPCC7942_RS11115(),BioCyc
@@ -1729,7 +1729,7 @@ SYNPCC7942_2411-MONOMER,conserved hypothetical protein,SYNPCC7942_2411(),BioCyc
 SYNPCC7942_1026-MONOMER,fibronectin binding protein-like,SYNPCC7942_RS05270(),BioCyc
 SYNPCC7942_2408-MONOMER,conserved hypothetical protein,SYNPCC7942_RS12240(),BioCyc
 SYNPCC7942_1023-MONOMER,conserved hypothetical protein,SYNPCC7942_1023(),BioCyc
-SYNPCC7942_1392-MONOMER,alkaline phosphatase,SYNPCC7942_RS07125(),BioCyc
+SYNPCC7942_1392-MONOMER,alkaline phosphatase,SYNPCC7942_RS07125(1),BioCyc
 SYNPCC7942_0272-MONOMER,,SYNPCC7942_RS01385(),BioCyc
 SYNPCC7942_1762-MONOMER,conserved hypothetical protein,SYNPCC7942_RS08955(),BioCyc
 SYNPCC7942_0640-MONOMER,ATPase,SYNPCC7942_RS03285(),BioCyc
@@ -1747,7 +1747,7 @@ SYNPCC7942_0608-MONOMER,acireductone dioxygenase [iron(II)-requiring],SYNPCC7942
 SYNPCC7942_2098-MONOMER,"dTDP-4-dehydrorhamnose 3,5-epimerase",SYNPCC7942_RS10635(1),BioCyc
 SYNPCC7942_2360-MONOMER,N-acetylmuramoyl-L-alanine amidase,SYNPCC7942_RS11990(1),BioCyc
 SYNPCC7942_0975-MONOMER,methyltransferase,SYNPCC7942_RS05005(),BioCyc
-SYNPCC7942_1347-MONOMER,2-hydroxyacid dehydrogenase-like,SYNPCC7942_RS06885(1),BioCyc
+SYNPCC7942_1347-MONOMER,2-hydroxyacid dehydrogenase-like,SYNPCC7942_RS06885(),BioCyc
 SYNPCC7942_0224-MONOMER,PsbN,SYNPCC7942_RS01140(),BioCyc
 SYNPCC7942_1714-MONOMER,Homoserine O-acetyltransferase,SYNPCC7942_RS08720(),BioCyc
 SYNPCC7942_0592-MONOMER,6-phosphofructokinase,SYNPCC7942_RS03035(4),BioCyc
@@ -1758,7 +1758,7 @@ SYNPCC7942_1331-MONOMER,CAB/ELIP/HLIP superfamily protein,SYNPCC7942_RS06805(),B
 SYNPCC7942_0208-MONOMER,TPR repeat,SYNPCC7942_RS01055(),BioCyc
 SYNPCC7942_1698-MONOMER,putative transcriptional regulator,SYNPCC7942_RS08645(),BioCyc
 SYNPCC7942_0576-MONOMER,thiamine biosynthesis protein ThiG,SYNPCC7942_RS02935(1),BioCyc
-SYNPCC7942_2066-MONOMER,"TIM-barrel protein, yjbN family",SYNPCC7942_RS10475(1),BioCyc
+SYNPCC7942_2066-MONOMER,"TIM-barrel protein, yjbN family",SYNPCC7942_RS10475(),BioCyc
 SYNPCC7942_2328-MONOMER,TPR repeat,SYNPCC7942_RS11835(),BioCyc
 SYNPCC7942_0943-MONOMER,acetylornithine aminotransferase,SYNPCC7942_RS04850(2),BioCyc
 SYNPCC7942_1315-MONOMER,gid protein,SYNPCC7942_RS06725(),BioCyc
@@ -1801,13 +1801,13 @@ SYNPCC7942_0863-MONOMER,conserved hypothetical protein,SYNPCC7942_RS04450(),BioC
 SYNPCC7942_B2617-MONOMER,conserved hypothetical protein,SYNPCC7942_RS13395(),BioCyc
 SYNPCC7942_1235-MONOMER,ferredoxin-nitrate reductase,SYNPCC7942_RS06330(),BioCyc
 SYNPCC7942_0111-MONOMER,DnaK protein-like,SYNPCC7942_RS00565(),BioCyc
-SYNPCC7942_1602-MONOMER,"RNA methyltransferase TrmH, group 1",SYNPCC7942_RS08175(2),BioCyc
+SYNPCC7942_1602-MONOMER,"RNA methyltransferase TrmH, group 1",SYNPCC7942_RS08175(),BioCyc
 SYNPCC7942_0480-MONOMER,GAF sensor signal transduction histidine kinase,SYNPCC7942_RS02445(),BioCyc
 SYNPCC7942_1970-MONOMER,N-acyl-L-amino acid amidohydrolase,SYNPCC7942_1970(),BioCyc
 SYNPCC7942_2232-MONOMER,50S ribosomal subunit protein L3,SYNPCC7942_RS11335(1),BioCyc
 SYNPCC7942_0846-MONOMER,conserved hypothetical protein,SYNPCC7942_RS04370(),BioCyc
-SYNPCC7942_2600-MONOMER,protoheme IX farnesyltransferase,SYNPCC7942_RS13245(1),BioCyc
-SYNPCC7942_1219-MONOMER,50S ribosomal subunit protein L21,SYNPCC7942_RS06245(),BioCyc
+SYNPCC7942_2600-MONOMER,protoheme IX farnesyltransferase,SYNPCC7942_RS13245(),BioCyc
+SYNPCC7942_1219-MONOMER,50S ribosomal subunit protein L21,SYNPCC7942_RS06245(1),BioCyc
 SYNPCC7942_0095-MONOMER,RpaA response regulator,SYNPCC7942_RS00480(),BioCyc
 SYNPCC7942_1586-MONOMER,periplasmic sensor signal transduction histidine kinase,SYNPCC7942_RS08100(),BioCyc
 SYNPCC7942_0464-MONOMER,conserved hypothetical protein,SYNPCC7942_RS02365(),BioCyc
@@ -1826,7 +1826,7 @@ SYNPCC7942_2568-MONOMER,conserved hypothetical protein,SYNPCC7942_RS13050(),BioC
 SYNPCC7942_1187-MONOMER,conserved hypothetical protein,SYNPCC7942_RS06080(),BioCyc
 SYNPCC7942_0063-MONOMER,dual specificity protein phosphatase,SYNPCC7942_RS00315(),BioCyc
 SYNPCC7942_1554-MONOMER,ClpP1,SYNPCC7942_RS07925(),BioCyc
-SYNPCC7942_0432-MONOMER,D-alanyl-D-alanine dipeptidase,SYNPCC7942_RS02205(1),BioCyc
+SYNPCC7942_0432-MONOMER,D-alanyl-D-alanine dipeptidase,SYNPCC7942_RS02205(),BioCyc
 SYNPCC7942_1922-MONOMER,putative transmembrane transcriptional regulator,SYNPCC7942_RS09755(),BioCyc
 SYNPCC7942_2184-MONOMER,conserved hypothetical protein,SYNPCC7942_RS11100(),BioCyc
 SYNPCC7942_0797-MONOMER,hypothetical protein,SYNPCC7942_RS04125(),BioCyc
@@ -1868,7 +1868,7 @@ HTX97_RS00015-MONOMER,hemolysin XhlA family protein,ST32046_p4(),BioCyc
 SYNPCC7942_1472-MONOMER,conserved hypothetical protein,SYNPCC7942_RS07525(),BioCyc
 SYNPCC7942_0352-MONOMER,Methionine sulfoxide reductase B,SYNPCC7942_RS01790(),BioCyc
 SYNPCC7942_1842-MONOMER,"Transposase, IS605 OrfB",SYNPCC7942_RS09345(),BioCyc
-SYNPCC7942_2104-MONOMER,cyanate lyase,SYNPCC7942_RS10665(10),BioCyc
+SYNPCC7942_2104-MONOMER,cyanate lyase,SYNPCC7942_RS10665(),BioCyc
 SYNPCC7942_0717-MONOMER,Deoxycytidine triphosphate deaminase,SYNPCC7942_RS03695(),BioCyc
 SYNPCC7942_2472-MONOMER,signal recognition particle-docking protein FtsY,SYNPCC7942_RS12565(1),BioCyc
 SYNPCC7942_1091-MONOMER,conserved hypothetical protein,SYNPCC7942_RS05600(),BioCyc
@@ -1881,7 +1881,7 @@ SYNPCC7942_1075-MONOMER,conserved hypothetical protein,SYNPCC7942_RS05515(),BioC
 SYNPCC7942_1440-MONOMER,homoserine kinase,SYNPCC7942_RS07365(2),BioCyc
 SYNPCC7942_0320-MONOMER,UDP-glucose 4-epimerase,SYNPCC7942_RS01630(2),BioCyc
 SYNPCC7942_1810-MONOMER,flavoprotein,SYNPCC7942_RS09195(),BioCyc
-SYNPCC7942_0685-MONOMER,GroEL2 monomer,SYNPCC7942_RS03510(14),BioCyc
+SYNPCC7942_0685-MONOMER,GroEL2 monomer,SYNPCC7942_RS03510(),BioCyc
 SYNPCC7942_2440-MONOMER,Polyribonucleotide nucleotidyltransferase,SYNPCC7942_RS12400(3),BioCyc
 SYNPCC7942_1059-MONOMER,conserved hypothetical protein,SYNPCC7942_RS05430(),BioCyc
 SYNPCC7942_1424-MONOMER,carboxysome assembly protein CcmN,SYNPCC7942_RS07285(),BioCyc
@@ -1890,7 +1890,7 @@ SYNPCC7942_1794-MONOMER,transaminase,SYNPCC7942_RS09115(2),BioCyc
 SYNPCC7942_0669-MONOMER,DNA-3-methyladenine glycosylase,SYNPCC7942_RS03425(),BioCyc
 SYNPCC7942_2424-MONOMER,conserved hypothetical protein,SYNPCC7942_RS12315(),BioCyc
 SYNPCC7942_1039-MONOMER,conserved hypothetical protein,SYNPCC7942_RS05335(),BioCyc
-SYNPCC7942_1408-MONOMER,Fe (III) ABC transporter membrane-associated protein,SYNPCC7942_RS07205(1),BioCyc
+SYNPCC7942_1408-MONOMER,Fe (III) ABC transporter membrane-associated protein,SYNPCC7942_RS07205(),BioCyc
 SYNPCC7942_0288-MONOMER,UDP-N-acetylglucosamine pyrophosphorylase,SYNPCC7942_RS01465(3),BioCyc
 SYNPCC7942_1778-MONOMER,conserved hypothetical protein,SYNPCC7942_RS09035(),BioCyc
 SYNPCC7942_0653-MONOMER,peptidyl-prolyl <i>cis-trans</i> isomerase,SYNPCC7942_RS03345(),BioCyc
@@ -1916,7 +1916,7 @@ SYNPCC7942_2095-MONOMER,conserved hypothetical protein,SYNPCC7942_RS10620(),BioC
 SYNPCC7942_2357-MONOMER,conserved hypothetical protein,SYNPCC7942_RS11975(),BioCyc
 SYNPCC7942_0972-MONOMER,YjgF-like protein,SYNPCC7942_RS04995(),BioCyc
 SYNPCC7942_1344-MONOMER,ferredoxin-plastoquinone oxidoreductase subunit I,SYNPCC7942_RS06870(),BioCyc
-SYNPCC7942_0221-MONOMER,glucokinase,SYNPCC7942_RS01125(1),BioCyc
+SYNPCC7942_0221-MONOMER,glucokinase,SYNPCC7942_RS01125(),BioCyc
 SYNPCC7942_1711-MONOMER,conserved hypothetical protein,SYNPCC7942_RS08705(),BioCyc
 SYNPCC7942_0589-MONOMER,Fe-S-cluster oxidoreductase-like,SYNPCC7942_0589(),BioCyc
 SYNPCC7942_2079-MONOMER,acetate kinase,SYNPCC7942_RS10540(1),BioCyc
@@ -1926,7 +1926,7 @@ SYNPCC7942_1328-MONOMER,conserved hypothetical protein,SYNPCC7942_RS06790(),BioC
 SYNPCC7942_0205-MONOMER,nicotinamide mononucleotide adenylyltransferase,SYNPCC7942_RS01040(),BioCyc
 SYNPCC7942_1695-MONOMER,conserved hypothetical protein,SYNPCC7942_RS08630(),BioCyc
 SYNPCC7942_0573-MONOMER,hypothetical protein,SYNPCC7942_RS02920(),BioCyc
-SYNPCC7942_2063-MONOMER,stationary-phase survival protein SurE,SYNPCC7942_RS10465(1),BioCyc
+SYNPCC7942_2063-MONOMER,stationary-phase survival protein SurE,SYNPCC7942_RS10465(),BioCyc
 SYNPCC7942_2325-MONOMER,PBS lyase HEAT-like repeat,SYNPCC7942_RS11820(),BioCyc
 SYNPCC7942_0940-MONOMER,"transcriptional regulator, XRE family",SYNPCC7942_RS04835(),BioCyc
 SYNPCC7942_1312-MONOMER,ATPase,SYNPCC7942_RS06710(),BioCyc
@@ -1937,7 +1937,7 @@ SYNPCC7942_2047-MONOMER,glycine dehydrogenase,SYNPCC7942_RS10385(),BioCyc
 SYNPCC7942_2309-MONOMER,2-Cys peroxiredoxin,SYNPCC7942_RS11735(),BioCyc
 SYNPCC7942_0924-MONOMER,NblS histidine kinase,SYNPCC7942_RS04755(),BioCyc
 SYNPCC7942_1296-MONOMER,conserved hypothetical protein,SYNPCC7942_RS06630(),BioCyc
-SYNPCC7942_0173-MONOMER,3'-Phosphoadenosine 5'-phosphosulfate (PAPS) 3'-phosphatase-like,SYNPCC7942_RS00880(1),BioCyc
+SYNPCC7942_0173-MONOMER,3'-Phosphoadenosine 5'-phosphosulfate (PAPS) 3'-phosphatase-like,SYNPCC7942_RS00880(),BioCyc
 SYNPCC7942_1663-MONOMER,conserved hypothetical protein,SYNPCC7942_RS13630(),BioCyc
 SYNPCC7942_0541-MONOMER,conserved hypothetical protein,SYNPCC7942_RS02750(),BioCyc
 SYNPCC7942_2031-MONOMER,conserved hypothetical protein,SYNPCC7942_RS10305(),BioCyc
@@ -1968,7 +1968,7 @@ SYNPCC7942_1983-MONOMER,"Carotene 7,8-desaturase",SYNPCC7942_RS10055(),BioCyc
 SYNPCC7942_2245-MONOMER,putative photosystem II PsbZ protein,SYNPCC7942_RS11400(),BioCyc
 SYNPCC7942_0860-MONOMER,CheW protein,SYNPCC7942_RS04435(),BioCyc
 SYNPCC7942_2613-MONOMER,,SYNPCC7942_RS13310(1),BioCyc
-SYNPCC7942_1232-MONOMER,PetC,SYNPCC7942_RS06315(),BioCyc
+SYNPCC7942_1232-MONOMER,PetC,SYNPCC7942_RS06315(1),BioCyc
 SYNPCC7942_0108-MONOMER,ParB-like nuclease,SYNPCC7942_RS00550(),BioCyc
 SYNPCC7942_1599-MONOMER,conserved hypothetical protein,SYNPCC7942_RS08165(),BioCyc
 SYNPCC7942_0477-MONOMER,conserved hypothetical protein YCF19,SYNPCC7942_RS02430(),BioCyc
@@ -1989,7 +1989,7 @@ SYNPCC7942_0076-MONOMER,"extracellular solute-binding protein, family 3",SYNPCC7
 SYNPCC7942_1567-MONOMER,possible ribosomal protein L36,SYNPCC7942_RS08005(),BioCyc
 SYNPCC7942_0445-MONOMER,ABC-type dipeptide/oligopeptide/nickel transport systems permease components-like,SYNPCC7942_RS02275(),BioCyc
 SYNPCC7942_1935-MONOMER,Prepilin peptidase,SYNPCC7942_RS09820(),BioCyc
-SYNPCC7942_2197-MONOMER,glutamate 5-kinase,SYNPCC7942_RS11160(4),BioCyc
+SYNPCC7942_2197-MONOMER,glutamate 5-kinase,SYNPCC7942_RS11160(),BioCyc
 SYNPCC7942_0810-MONOMER,hypothetical protein,SYNPCC7942_RS04190(),BioCyc
 SYNPCC7942_2565-MONOMER,translation elongation factor P,SYNPCC7942_RS13035(),BioCyc
 SYNPCC7942_1184-MONOMER,6-pyruvoyl-tetrahydropterin synthase-like protein,SYNPCC7942_RS06065(),BioCyc
@@ -2016,14 +2016,14 @@ SYNPCC7942_1887-MONOMER,probable mannosyltransferase,SYNPCC7942_RS09570(),BioCyc
 SYNPCC7942_2149-MONOMER,ABC-2 type transport system permease protein,SYNPCC7942_RS10920(),BioCyc
 SYNPCC7942_0762-MONOMER,conserved hypothetical protein,SYNPCC7942_RS03950(),BioCyc
 SYNPCC7942_2517-MONOMER,conserved hypothetical protein,SYNPCC7942_RS12780(),BioCyc
-SYNPCC7942_1136-MONOMER,PBS lyase HEAT-like repeat,SYNPCC7942_RS05815(1),BioCyc
-SYNPCC7942_0012-MONOMER,30S ribosomal subunit protein S6,SYNPCC7942_RS00060(),BioCyc
+SYNPCC7942_1136-MONOMER,PBS lyase HEAT-like repeat,SYNPCC7942_RS05815(),BioCyc
+SYNPCC7942_0012-MONOMER,30S ribosomal subunit protein S6,SYNPCC7942_RS00060(1),BioCyc
 SYNPCC7942_1502-MONOMER,conserved hypothetical protein,SYNPCC7942_RS07675(),BioCyc
 SYNPCC7942_0381-MONOMER,conserved hypothetical protein,SYNPCC7942_RS01945(),BioCyc
 SYNPCC7942_1871-MONOMER,conserved hypothetical protein,SYNPCC7942_1871(),BioCyc
 SYNPCC7942_2133-MONOMER,conserved hypothetical protein,SYNPCC7942_RS10820(),BioCyc
 SYNPCC7942_0746-MONOMER,conserved hypothetical protein,SYNPCC7942_RS03865(),BioCyc
-SYNPCC7942_2501-MONOMER,phospho-2-dehydro-3-deoxyheptonate aldolase,SYNPCC7942_RS12690(2),BioCyc
+SYNPCC7942_2501-MONOMER,phospho-2-dehydro-3-deoxyheptonate aldolase,SYNPCC7942_RS12690(),BioCyc
 SYNPCC7942_1120-MONOMER,conserved hypothetical protein,SYNPCC7942_RS05740(),BioCyc
 SYNPCC7942_1485-MONOMER,conserved hypothetical protein,SYNPCC7942_RS07590(),BioCyc
 SYNPCC7942_0365-MONOMER,response regulator receiver domain protein (CheY-like),SYNPCC7942_RS01860(),BioCyc
@@ -2052,7 +2052,7 @@ SYNPCC7942_2437-MONOMER,isoleucyl-tRNA synthetase,SYNPCC7942_RS12380(1),BioCyc
 SYNPCC7942_1055-MONOMER,phycocyanin &alpha;-subunit phycocyanobilin lyase subunit &beta;,SYNPCC7942_RS05410(),BioCyc
 SYNPCC7942_1421-MONOMER,carboxysome shell protein CcmK2,SYNPCC7942_RS07270(),BioCyc
 SYNPCC7942_0301-MONOMER,single-strand binding protein,SYNPCC7942_RS01535(),BioCyc
-SYNPCC7942_1791-MONOMER,conserved hypothetical protein,SYNPCC7942_RS09100(1),BioCyc
+SYNPCC7942_1791-MONOMER,conserved hypothetical protein,SYNPCC7942_RS09100(),BioCyc
 SYNPCC7942_0666-MONOMER,Heat shock protein DnaJ-like,SYNPCC7942_RS03410(),BioCyc
 SYNPCC7942_2421-MONOMER,high-affinity iron transporter,SYNPCC7942_RS12300(),BioCyc
 SYNPCC7942_1036-MONOMER,conserved hypothetical protein,SYNPCC7942_RS05320(),BioCyc
@@ -2086,23 +2086,23 @@ CPLX490-3635,ABC type transporter of unknown specificity,SYNPCC7942_RS00335() AN
 CPLX490-3616,UvrABC DNA repair system,SYNPCC7942_RS09870() AND SYNPCC7942_RS02865() AND SYNPCC7942_RS04380(),BioCyc
 CPLX490-3600,"ATP synthase Fo, C subunit rotor complex",SYNPCC7942_RS01690(),BioCyc
 CPLX490-3559,ClpX hexamer,SYNPCC7942_RS12825(),BioCyc
-CPLX490-3541,DNA polymerase III &tau; dimer,SYNPCC7942_RS04690(2),BioCyc
+CPLX490-3541,DNA polymerase III &tau; dimer,SYNPCC7942_RS04690(),BioCyc
 CPLX490-3525,NAD-reducing hydrogenase HoxS pentamer,SYNPCC7942_RS12990() AND SYNPCC7942_RS12985() AND SYNPCC7942_RS01420() AND SYNPCC7942_RS12995() AND SYNPCC7942_RS01415(),BioCyc
 CPLX490-3505,photosystem II monomer,SYNPCC7942_RS10225() AND SYNPCC7942_RS12590() AND SYNPCC7942_2010() AND SYNPCC7942_RS06020() AND SYNPCC7942_0456() AND SYNPCC7942_1174() AND SYNPCC7942_1705() AND SYNPCC7942_RS09545() AND SYNPCC7942_RS03570() AND SYNPCC7942_RS01500() AND SYNPCC7942_RS01140() AND SYNPCC7942_RS03585() AND SYNPCC7942_RS01145() AND SYNPCC7942_RS03360() AND SYNPCC7942_RS03575() AND SYNPCC7942_RS06025() AND SYNPCC7942_RS06030() AND SYNPCC7942_RS03355() AND SYNPCC7942_RS02165(),BioCyc
 CPLX490-33,glycyl-tRNA synthetase,SYNPCC7942_RS00095(2) AND SYNPCC7942_RS12485(2),BioCyc
 CPLX490-40,NAD-reducing hydrogenase HoxS hydrogenase subcomplex,SYNPCC7942_RS12985() AND SYNPCC7942_RS12990(),BioCyc
-CPLX490-3651,carbonic anhydrase CcaA,SYNPCC7942_RS07405(2),BioCyc
+CPLX490-3651,carbonic anhydrase CcaA,SYNPCC7942_RS07405(),BioCyc
 CPLX490-3632,GroES ring,SYNPCC7942_RS11765(7),BioCyc
 CPLX490-3613,RNA polymerase sigma SigI holoenzyme,SYNPCC7942_RS07780() AND SYNPCC7942_RS11225() AND SYNPCC7942_RS07785() AND SYNPCC7942_RS07790() AND SYNPCC7942_RS08700() AND SYNPCC7942_RS10165(),BioCyc
 CPLX490-3597,"glutamine synthetase, type IV",SYNPCC7942_RS11670(),BioCyc
 CPLX490-3572,type 2 NADH dehydrogenase NdbC complex,SYNPCC7942_RS01005(),BioCyc
 CPLX490-3554,ClpP3/R protease,SYNPCC7942_RS12885() AND SYNPCC7942_RS12880() AND SYNPCC7942_0476() AND SYNPCC7942_RS03540() AND SYNPCC7942_RS01325(),BioCyc
-CPLX490-3538,acetyl-CoA carboxylase,SYNPCC7942_RS13030(2) AND SYNPCC7942_RS09925(2) AND SYNPCC7942_RS08145(2) AND SYNPCC7942_RS07060(2),BioCyc
+CPLX490-3538,acetyl-CoA carboxylase,SYNPCC7942_RS08145() AND SYNPCC7942_RS09925() AND SYNPCC7942_RS13030() AND SYNPCC7942_RS07060(),BioCyc
 CPLX490-3522,NDH-1 hydrophilic subcomplex,SYNPCC7942_RS08870() AND SYNPCC7942_RS06870() AND SYNPCC7942_RS06055() AND SYNPCC7942_RS06050() AND SYNPCC7942_RS10050() AND SYNPCC7942_RS11345() AND SYNPCC7942_RS12620() AND SYNPCC7942_2257() AND SYNPCC7942_RS09675(),BioCyc
 CPLX490-3502,cytochrome <i>b<sub>559</sub></i> &alpha; subunit dimer,SYNPCC7942_RS06030(2),BioCyc
-CPLX490-25,glycolate oxidase,SYNPCC7942_RS08735() AND SYNPCC7942_RS08740() AND SYNPCC7942_RS01405(),BioCyc
+CPLX490-25,glycolate oxidase,SYNPCC7942_RS08735() AND SYNPCC7942_RS01405() AND SYNPCC7942_RS08740(),BioCyc
 CPLX490-3671,FabG dimer,SYNPCC7942_RS03505(1),BioCyc
-CPLX490-3648,RbcL dimer,SYNPCC7942_RS07295(2),BioCyc
+CPLX490-3648,RbcL dimer,SYNPCC7942_RS07295(),BioCyc
 CPLX490-3629,oligopeptide ABC type transporter,SYNPCC7942_RS04255() AND SYNPCC7942_RS04250() AND SYNPCC7942_RS04245(),BioCyc
 CPLX490-3610,RNA polymerase sigma sigF holoenzyme,SYNPCC7942_RS07780() AND SYNPCC7942_RS11225() AND SYNPCC7942_RS07785() AND SYNPCC7942_RS07790() AND SYNPCC7942_RS08700() AND SYNPCC7942_RS07720(),BioCyc
 CPLX490-3593,neutural amino acids ABC permease,SYNPCC7942_RS09600() AND SYNPCC7942_RS09440() AND SYNPCC7942_RS09605() AND SYNPCC7942_RS11065(),BioCyc
@@ -2110,9 +2110,9 @@ CPLX490-3569,putative multicomponent Na+:H+ antiporter,SYNPCC7942_RS07510() AND 
 CPLX490-3551,ClpP1/P2 protease core,SYNPCC7942_RS07925() AND SYNPCC7942_RS12820(),BioCyc
 CPLX490-3535,circadian period extender Pex,SYNPCC7942_RS03465(),BioCyc
 CPLX490-3519,,SYNPCC7942_RS12405() AND SYNPCC7942_RS12415() AND SYNPCC7942_RS12410(),BioCyc
-CPLX490-3499,"fructose-1,6-bisphosphatase FII",SYNPCC7942_RS11870(4),BioCyc
+CPLX490-3499,"fructose-1,6-bisphosphatase FII",SYNPCC7942_RS11870(),BioCyc
 CPLX490-121,"DNA-directed RNA polymerase, core enzyme",SYNPCC7942_RS08700() AND SYNPCC7942_RS07790() AND SYNPCC7942_RS07785() AND SYNPCC7942_RS11225() AND SYNPCC7942_RS07780(),BioCyc
-CPLX490-89,potassium-transporting ATPase,SYNPCC7942_RS08505() AND SYNPCC7942_RS08510() AND SYNPCC7942_RS08515(),BioCyc
+CPLX490-89,potassium-transporting ATPase,SYNPCC7942_RS08510() AND SYNPCC7942_RS08515() AND SYNPCC7942_RS08505(),BioCyc
 CPLX490-3664,phycobilisome B8 disc,SYNPCC7942_RS01655() AND SYNPCC7942_RS01660() AND SYNPCC7942_RS01220() AND SYNPCC7942_RS01665(),BioCyc
 CPLX490-3645,2-oxoglutarate decarboxylase,SYNPCC7942_0139(),BioCyc
 CPLX490-3626,glycolipid ABC exporter,SYNPCC7942_RS06270() AND SYNPCC7942_RS06265(),BioCyc
@@ -2130,7 +2130,7 @@ CPLX490-3642,HypC/HypD heterodimer,SYNPCC7942_RS12125(2) AND G490-7(2),BioCyc
 CPLX490-3623,Sec-independent protein translocase,SYNPCC7942_RS01150() AND SYNPCC7942_RS08060(),BioCyc
 CPLX490-3604,RNA polymerase sigma rpoD1 holoenzyme,SYNPCC7942_RS07780() AND SYNPCC7942_RS11225() AND SYNPCC7942_RS07785() AND SYNPCC7942_RS07790() AND SYNPCC7942_RS08700() AND SYNPCC7942_RS03325(),BioCyc
 CPLX490-3563,ClpC-ClpS complex,SYNPCC7942_RS01325() AND SYNPCC7942_RS03540() AND SYNPCC7942_0476(),BioCyc
-CPLX490-3545,DNA polymerase &gamma; subunit dimer,SYNPCC7942_RS04690(2),BioCyc
+CPLX490-3545,DNA polymerase &gamma; subunit dimer,SYNPCC7942_RS04690(),BioCyc
 CPLX490-3529,,SYNPCC7942_RS07195() AND SYNPCC7942_RS07200() AND SYNPCC7942_RS07205() AND SYNPCC7942_RS07210(),BioCyc
 CPLX490-3509,photosystem I,SYNPCC7942_RS11900() AND SYNPCC7942_RS02075() AND SYNPCC7942_RS06400() AND SYNPCC7942_RS11905() AND SYNPCC7942_RS06405() AND SYNPCC7942_RS06760() AND SYNPCC7942_RS05140() AND SYNPCC7942_RS02720() AND SYNPCC7942_RS10395() AND SYNPCC7942_RS10390(),BioCyc
 CPLX490-3493,,SYNPCC7942_RS12650() AND SYNPCC7942_RS12660() AND SYNPCC7942_RS12645() AND SYNPCC7942_RS12655() AND SYNPCC7942_RS12665(),BioCyc
@@ -2151,7 +2151,7 @@ CPLX490-3652,carboxysome assembly protein CcmM trimer,SYNPCC7942_RS07280(),BioCy
 CPLX490-3633,ABC-type transporter for basic amino acids,SYNPCC7942_RS01255() AND SYNPCC7942_RS01260() AND SYNPCC7942_RS01265() AND SYNPCC7942_RS01270(),BioCyc
 CPLX490-3614,glycine cleavage complex,SYNPCC7942_RS10385() AND SYNPCC7942_RS11730() AND SYNPCC7942_RS10380(),BioCyc
 CPLX490-3598,glutamine synthase type I hexamer,SYNPCC7942_RS10955(12),BioCyc
-CPLX490-3573,glutamyl-tRNA(Gln) amidotransferase,SYNPCC7942_RS10735() AND SYNPCC7942_RS00590() AND SYNPCC7942_RS11805(),BioCyc
+CPLX490-3573,glutamyl-tRNA(Gln) amidotransferase,SYNPCC7942_RS11805() AND SYNPCC7942_RS10735() AND SYNPCC7942_RS00590(),BioCyc
 CPLX490-3555,ClpP1/P2 heptamer,SYNPCC7942_RS12820() AND SYNPCC7942_RS07925(),BioCyc
 CPLX490-3539,DNA polymerase V,SYNPCC7942_RS07905() AND SYNPCC7942_RS07900(),BioCyc
 CPLX490-3523,ferredoxin-plastoquinone oxidoreductase NDH-1L,SYNPCC7942_RS02500() AND SYNPCC7942_0668() AND SYNPCC7942_RS10020() AND SYNPCC7942_RS10025() AND SYNPCC7942_RS08870() AND SYNPCC7942_RS06870() AND SYNPCC7942_RS06055() AND SYNPCC7942_RS06050() AND SYNPCC7942_RS10050() AND SYNPCC7942_RS11345() AND SYNPCC7942_RS12620() AND SYNPCC7942_2257() AND SYNPCC7942_RS09675() AND SYNPCC7942_0413() AND SYNPCC7942_RS06875() AND SYNPCC7942_RS06880() AND SYNPCC7942_RS06045() AND SYNPCC7942_RS07240() AND SYNPCC7942_RS06865(),BioCyc
@@ -2159,12 +2159,12 @@ CPLX490-3503,cytochrome <i>b<sub>559</sub></i> &beta; subunit dimer,SYNPCC7942_R
 CPLX490-27,phenylalanyl-tRNA synthetase,SYNPCC7942_RS06615(2) AND SYNPCC7942_RS10470(2),BioCyc
 CPLX490-3672,3-oxoacyl-(acyl-carrier-protein) reductase,SYNPCC7942_RS03505(1),BioCyc
 CPLX490-3649,RubisCO chaperonin RbcX,SYNPCC7942_RS07845(),BioCyc
-CPLX490-3630,GroEL1 heptamer ring,SYNPCC7942_RS11760(),BioCyc
+CPLX490-3630,GroEL1 heptamer ring,SYNPCC7942_RS11760(14),BioCyc
 CPLX490-3611,RNA polymerase sigma sigF holoenzyme,SYNPCC7942_RS07780() AND SYNPCC7942_RS11225() AND SYNPCC7942_RS07785() AND SYNPCC7942_RS07790() AND SYNPCC7942_RS08700() AND SYNPCC7942_RS09065(),BioCyc
 CPLX490-3595,,SYNPCC7942_RS11865(1),BioCyc
-CPLX490-3570,type 2 NADH dehydrogenase NdbA complex,SYNPCC7942_RS00515(1),BioCyc
+CPLX490-3570,type 2 NADH dehydrogenase NdbA complex,SYNPCC7942_RS00515(),BioCyc
 CPLX490-3552,ClpP1/P2 protease,SYNPCC7942_RS12825() AND SYNPCC7942_RS12820() AND SYNPCC7942_RS07925(),BioCyc
-CPLX490-3536,"acetyl-CoA carboxylase, biotin carrier protein dimer",SYNPCC7942_RS13030(2),BioCyc
+CPLX490-3536,"acetyl-CoA carboxylase, biotin carrier protein dimer",SYNPCC7942_RS13030(),BioCyc
 CPLX490-3520,NdhD1/NdhF1/NdhP/NdhQ complex,SYNPCC7942_RS10025() AND SYNPCC7942_RS10020() AND SYNPCC7942_0668() AND SYNPCC7942_RS02500(),BioCyc
 CPLX490-3500,"fructose-1,6-bisphosphatase, FI",SYNPCC7942_RS02565(2),BioCyc
 CPLX490-124,DNA polymerase III alpha subunit,SYNPCC7942_RS02900() AND SYNPCC7942_RS11170(),BioCyc
@@ -2177,14 +2177,14 @@ CPLX490-3567,pyruvate dehydrogenase complex E3 component,SYNPCC7942_RS06135(),Bi
 CPLX490-3549,ClpB-2 chaperone,SYNPCC7942_RS03270(),BioCyc
 CPLX490-3533,circadian clock protein KaiA,SYNPCC7942_RS06240(),BioCyc
 CPLX490-3517,,SYNPCC7942_2107() AND SYNPCC7942_RS10675() AND SYNPCC7942_RS10670(),BioCyc
-CPLX490-3497,catalase/peroxidase,SYNPCC7942_RS08445(4),BioCyc
+CPLX490-3497,catalase/peroxidase,SYNPCC7942_RS08445(),BioCyc
 CPLX490-103,imidazole glycerol phosphate synthase,SYNPCC7942_RS10580(1) AND SYNPCC7942_RS07570(1),BioCyc
-CPLX490-85,F<sub>1</sub> complex,SYNPCC7942_RS01705() AND SYNPCC7942_RS01715() AND SYNPCC7942_RS11775() AND SYNPCC7942_RS01710() AND SYNPCC7942_RS11770(),BioCyc
+CPLX490-85,F<sub>1</sub> complex,SYNPCC7942_RS11775() AND SYNPCC7942_RS11770() AND SYNPCC7942_RS01715() AND SYNPCC7942_RS01710() AND SYNPCC7942_RS01705(),BioCyc
 CPLX490-3662,phycobilisome disc T,SYNPCC7942_RS01665() AND SYNPCC7942_RS01660(),BioCyc
 CPLX490-3643,HypCDE trimer,SYNPCC7942_RS09140() AND G490-7() AND SYNPCC7942_RS12125(),BioCyc
 CPLX490-3624,ABC-type manganese transport system,SYNPCC7942_RS13080() AND SYNPCC7942_RS13075() AND SYNPCC7942_RS13085(),BioCyc
 CPLX490-3605,RNA polymerase sigma B,SYNPCC7942_RS08885() AND SYNPCC7942_RS07780() AND SYNPCC7942_RS11225() AND SYNPCC7942_RS07785() AND SYNPCC7942_RS07790() AND SYNPCC7942_RS08700(),BioCyc
-CPLX490-3582,anthranilate synthase,SYNPCC7942_RS02040() AND SYNPCC7942_RS05145(),BioCyc
+CPLX490-3582,anthranilate synthase,SYNPCC7942_RS05145() AND SYNPCC7942_RS02040(),BioCyc
 CPLX490-3564,MinCD,SYNPCC7942_RS10145() AND SYNPCC7942_RS04615(),BioCyc
 CPLX490-3546,DNA plymerase core and &tau; subunit complex,SYNPCC7942_RS04690() AND SYNPCC7942_RS01280() AND SYNPCC7942_RS02900() AND SYNPCC7942_RS11170(),BioCyc
 CPLX490-3530,,SYNPCC7942_RS06575() AND SYNPCC7942_RS06570(),BioCyc
@@ -2194,16 +2194,16 @@ CPLX-9639,NdhD4/NdhF4/CupB complex,SYNPCC7942_RS01570() AND SYNPCC7942_RS01575()
 CPLX490-70,cytochrome c oxidase,SYNPCC7942_RS13265() AND SYNPCC7942_RS13255() AND SYNPCC7942_RS13260(),BioCyc
 CPLX490-3658,allophycocyanin trimer,SYNPCC7942_RS01660() AND SYNPCC7942_RS01665(),BioCyc
 CPLX490-3640,NAD(P)-reducing [NiFe]-hydrogenase complex,SYNPCC7942_RS01415() AND SYNPCC7942_RS12995() AND SYNPCC7942_RS01420() AND SYNPCC7942_RS12985() AND SYNPCC7942_RS12990(),BioCyc
-CPLX490-3618,cytochrome d ubiquinol oxidase,SYNPCC7942_RS08980() AND SYNPCC7942_RS08975(),BioCyc
+CPLX490-3618,cytochrome d ubiquinol oxidase,SYNPCC7942_RS08980(1) AND SYNPCC7942_RS08975(1),BioCyc
 CPLX490-3602,"ATP synthase F<sub>0</sub>, peripheral stalk",SYNPCC7942_RS01695() AND SYNPCC7942_RS01700(),BioCyc
 CPLX490-3561,ClpS1 hexamer,SYNPCC7942_RS03540(),BioCyc
-CPLX490-3543,DNA polymerase III  &beta; subunit dimer,SYNPCC7942_RS00005(2),BioCyc
+CPLX490-3543,DNA polymerase III  &beta; subunit dimer,SYNPCC7942_RS00005(),BioCyc
 CPLX490-3527,NDH-1S complex,SYNPCC7942_RS10615() AND SYNPCC7942_RS10610() AND SYNPCC7942_RS10600() AND SYNPCC7942_RS10605(),BioCyc
 CPLX490-3507,photosystem I core protein,SYNPCC7942_RS10395() AND SYNPCC7942_RS10390(),BioCyc
 CPLX490-3491,nitrate transport system,SYNPCC7942_RS06345() AND SYNPCC7942_RS06340() AND SYNPCC7942_RS06335() AND SYNPCC7942_RS06350(),BioCyc
 CPLX-8932,C-phycocyanin trimer,SYNPCC7942_RS05400() AND SYNPCC7942_RS05375() AND SYNPCC7942_RS05395() AND SYNPCC7942_RS05370(),BioCyc
-CPLX490-53,pyridine nucleotide transhydrogenase,SYNPCC7942_RS08215(2) AND SYNPCC7942_RS08225(2),BioCyc
-CPLX490-3654,chaperonin GroEL2,SYNPCC7942_RS03510(14),BioCyc
+CPLX490-53,pyridine nucleotide transhydrogenase,SYNPCC7942_RS08225() AND SYNPCC7942_RS08215(),BioCyc
+CPLX490-3654,chaperonin GroEL2,SYNPCC7942_RS03510(),BioCyc
 CPLX490-3634,ABC-type uncharacterized transport system,SYNPCC7942_RS00900() AND SYNPCC7942_RS00905(),BioCyc
 CPLX490-3615,condensin,SYNPCC7942_RS10010() AND SYNPCC7942_RS02175(),BioCyc
 CPLX490-3599,glutamine synthase type I dodecamer,SYNPCC7942_RS10955(12),BioCyc
@@ -2213,14 +2213,14 @@ CPLX490-3540,DNA polymerase III core,SYNPCC7942_RS11170() AND SYNPCC7942_RS02900
 CPLX490-3524,NAD-reducing hydrogenase HoxS diaphorase subcomplex,SYNPCC7942_RS01415() AND SYNPCC7942_RS12995() AND SYNPCC7942_RS01420(),BioCyc
 CPLX490-3504,cytochrome <i>b<sub>559</sub></i>,SYNPCC7942_RS06030() AND SYNPCC7942_RS06025(),BioCyc
 CPLX490-29,cytochrome <i>b</i><sub>6</sub><i>f</i> complex,SYNPCC7942_RS06310() AND SYNPCC7942_RS11850() AND SYNPCC7942_RS02420() AND SYNPCC7942_RS07560() AND SYNPCC7942_RS11855() AND SYNPCC7942_RS12325() AND SYNPCC7942_RS06315(),BioCyc
-CPLX490-38,DNA gyrase,SYNPCC7942_RS01295() AND SYNPCC7942_RS12640(),BioCyc
+CPLX490-38,DNA gyrase,SYNPCC7942_RS12640() AND SYNPCC7942_RS01295(),BioCyc
 CPLX490-3650,RuBisCO accumulation factor 1,SYNPCC7942_RS04310(),BioCyc
-CPLX490-3631,GroEL1 chaperonin,SYNPCC7942_RS11760(),BioCyc
+CPLX490-3631,GroEL1 chaperonin,SYNPCC7942_RS11760(14),BioCyc
 CPLX490-3612,RNA polymerase sigma SigG holoenzyme,SYNPCC7942_RS07780() AND SYNPCC7942_RS11225() AND SYNPCC7942_RS07785() AND SYNPCC7942_RS07790() AND SYNPCC7942_RS08700() AND SYNPCC7942_RS09760(),BioCyc
 CPLX490-3596,glutamine synthetase,SYNPCC7942_RS00860(),BioCyc
 CPLX490-3571,demethylphylloquinone dehydrogenase,SYNPCC7942_RS12725(),BioCyc
 CPLX490-3553,ClpP3/R protease core,SYNPCC7942_RS12880() AND SYNPCC7942_RS12885(),BioCyc
-CPLX490-3537,"acetyl-CoA carboxylase, biotin carboxylase dimer",SYNPCC7942_RS07060(2),BioCyc
+CPLX490-3537,"acetyl-CoA carboxylase, biotin carboxylase dimer",SYNPCC7942_RS07060(),BioCyc
 CPLX490-3521,NDH-1 membrane subcomplex,SYNPCC7942_0413() AND SYNPCC7942_RS06875() AND SYNPCC7942_RS06880() AND SYNPCC7942_RS06045() AND SYNPCC7942_RS07240() AND SYNPCC7942_RS06865(),BioCyc
 CPLX490-3501,D1/D2 reaction center complex,SYNPCC7942_RS02165() AND SYNPCC7942_RS03355(),BioCyc
 CPLX490-16,carbamoyl-phosphate synthase (glutamine-hydrolysing),SYNPCC7942_RS10760(2) AND SYNPCC7942_RS03645(2),BioCyc
@@ -2233,8 +2233,8 @@ CPLX490-3568,pyruvate dehydrogenase complex,SYNPCC7942_RS00725() AND GCEQ-2175()
 CPLX490-3550,ClpB-1 chaperone,SYNPCC7942_RS05590(),BioCyc
 CPLX490-3534,circadian clock protein KaiB,SYNPCC7942_RS06235(),BioCyc
 CPLX490-3518,sulfate-transporting ATPase,SYNPCC7942_RS08565() AND SYNPCC7942_RS08585() AND SYNPCC7942_RS08570() AND SYNPCC7942_RS08560(),BioCyc
-CPLX490-3498,NADP-dependent glyceraldehyde-3-phosphate dehydrogenase,SYNPCC7942_RS08865(),BioCyc
-CPLX490-12,"acetyl-CoA carboxylase, carboxyl transferase component",SYNPCC7942_RS09925() AND SYNPCC7942_RS08145(),BioCyc
+CPLX490-3498,NADP-dependent glyceraldehyde-3-phosphate dehydrogenase,SYNPCC7942_RS08865(4),BioCyc
+CPLX490-12,"acetyl-CoA carboxylase, carboxyl transferase component",SYNPCC7942_RS08145() AND SYNPCC7942_RS09925(),BioCyc
 CPLX490-86,F<sub>0</sub> complex,SYNPCC7942_RS01685() AND SYNPCC7942_RS01700() AND SYNPCC7942_RS01695() AND SYNPCC7942_RS01690(),BioCyc
 CPLX490-3663,phycobilisome disc M,SYNPCC7942_RS01670() AND SYNPCC7942_RS10965() AND SYNPCC7942_RS01660() AND SYNPCC7942_RS01665(),BioCyc
 CPLX490-3644,(HypCDE)<sub>2</sub>,SYNPCC7942_RS12125() AND G490-7() AND SYNPCC7942_RS09140(),BioCyc
@@ -2244,7 +2244,7 @@ CPLX490-3583,succinate dehydrogenase AB complex,SYNPCC7942_RS03290() AND SYNPCC7
 CPLX490-3565,pyruvate dehydrogenase complex E1 component,GCEQ-2175() AND SYNPCC7942_RS00725(),BioCyc
 CPLX490-3547,DNA plymerase III' complex,SYNPCC7942_RS11170() AND SYNPCC7942_RS02900() AND SYNPCC7942_RS01280() AND SYNPCC7942_RS04690(),BioCyc
 CPLX490-3531,,SYNPCC7942_RS07820() AND SYNPCC7942_RS07830() AND SYNPCC7942_RS07825(),BioCyc
-CPLX490-3511,Iron-regulated ABC transporter ATPase,SYNPCC7942_RS08840(1) AND SYNPCC7942_RS08830(1) AND SYNPCC7942_RS08835(2),BioCyc
+CPLX490-3511,Iron-regulated ABC transporter ATPase,SYNPCC7942_RS08830() AND SYNPCC7942_RS08835() AND SYNPCC7942_RS08840(),BioCyc
 CPLX490-3495,phycocyanin &alpha;-subunit phycocyanobilin lyase,SYNPCC7942_RS05405() AND SYNPCC7942_RS05410(),BioCyc
 CPLX-9640,ferredoxin-plastoquinone oxidoreductase/CO<sub>2</sub> hydrase NDH-1MS',SYNPCC7942_RS03125() AND SYNPCC7942_RS01575() AND SYNPCC7942_RS01570() AND SYNPCC7942_RS08870() AND SYNPCC7942_RS06870() AND SYNPCC7942_RS06055() AND SYNPCC7942_RS06050() AND SYNPCC7942_RS10050() AND SYNPCC7942_RS11345() AND SYNPCC7942_RS12620() AND SYNPCC7942_2257() AND SYNPCC7942_RS09675() AND SYNPCC7942_0413() AND SYNPCC7942_RS06875() AND SYNPCC7942_RS06880() AND SYNPCC7942_RS06045() AND SYNPCC7942_RS07240() AND SYNPCC7942_RS06865(),BioCyc
 CPLX490-76,phosphoribosylaminoimidazole carboxylase,SYNPCC7942_RS02255() AND SYNPCC7942_RS07305(),BioCyc
@@ -2267,7 +2267,7 @@ SYNPCC7942_0266-MONOMER,heat shock protein DnaJ-4,SYNPCC7942_RS01355(),BioCyc
 SYNPCC7942_1756-MONOMER,hypothetical protein,SYNPCC7942_1756(),BioCyc
 SYNPCC7942_0634-MONOMER,50S ribosomal subunit protein L11,SYNPCC7942_RS03255(1),BioCyc
 SYNPCC7942_2386-MONOMER,Fe-(CN)<sub>2</sub>CO cofactor assembly scaffold protein HypD,SYNPCC7942_RS12125(),BioCyc
-SYNPCC7942_1001-MONOMER,aspartate kinase,SYNPCC7942_RS05135(4),BioCyc
+SYNPCC7942_1001-MONOMER,aspartate kinase,SYNPCC7942_RS05135(),BioCyc
 SYNPCC7942_1373-MONOMER,hydrogenase accessory protein,SYNPCC7942_RS07025(),BioCyc
 SYNPCC7942_0250-MONOMER,conserved hypothetical protein,SYNPCC7942_RS01275(),BioCyc
 SYNPCC7942_1740-MONOMER,UDP-N-acetylenolpyruvoylglucosamine reductase,SYNPCC7942_RS08855(1),BioCyc
@@ -2295,7 +2295,7 @@ SYNPCC7942_0570-MONOMER,DNA polymerase III alpha subunit C-terminal part/intein,
 SYNPCC7942_2060-MONOMER,Protein of unknown function UPF0001,SYNPCC7942_RS10450(),BioCyc
 SYNPCC7942_2322-MONOMER,"glutamyl-tRNA(Gln) amidotransferase, C subunit",SYNPCC7942_RS11805(),BioCyc
 SYNPCC7942_0937-MONOMER,conserved hypothetical protein,SYNPCC7942_RS04820(),BioCyc
-SYNPCC7942_1309-MONOMER,methylenetetrahydrofolate reductase,SYNPCC7942_RS06695(),BioCyc
+SYNPCC7942_1309-MONOMER,methylenetetrahydrofolate reductase,SYNPCC7942_RS06695(1),BioCyc
 SYNPCC7942_0186-MONOMER,uncharacterized protein,SYNPCC7942_RS00945(),BioCyc
 SYNPCC7942_1676-MONOMER,conserved hypothetical protein,SYNPCC7942_RS08540(),BioCyc
 SYNPCC7942_0554-MONOMER,conserved hypothetical protein,SYNPCC7942_RS02820(),BioCyc
@@ -2307,7 +2307,7 @@ SYNPCC7942_0170-MONOMER,hypothetical protein,SYNPCC7942_0170(),BioCyc
 SYNPCC7942_1660-MONOMER,potassium-efflux system protein (K(+)/H(+) antiporter),SYNPCC7942_RS08465(),BioCyc
 SYNPCC7942_0538-MONOMER,transketolase,SYNPCC7942_RS02735(2),BioCyc
 SYNPCC7942_2028-MONOMER,probable glycosyltransferase,SYNPCC7942_RS10290(),BioCyc
-SYNPCC7942_2290-MONOMER,3-deoxy-D-manno-octulosonate cytidylyltransferase,SYNPCC7942_RS11640(1),BioCyc
+SYNPCC7942_2290-MONOMER,3-deoxy-D-manno-octulosonate cytidylyltransferase,SYNPCC7942_RS11640(),BioCyc
 SYNPCC7942_0905-MONOMER,hypothetical protein,SYNPCC7942_0905(),BioCyc
 SYNPCC7942_B2659-MONOMER,VapC-like toxin,SYNPCC7942_RS13355(),BioCyc
 SYNPCC7942_1277-MONOMER,50S ribosomal subunit protein L20,SYNPCC7942_RS06540(1),BioCyc
@@ -2323,7 +2323,7 @@ SYNPCC7942_0138-MONOMER,"Membrane proteins, metalloendopeptidases-like",SYNPCC79
 SYNPCC7942_1628-MONOMER,conserved hypothetical protein,SYNPCC7942_RS08305(),BioCyc
 SYNPCC7942_0506-MONOMER,Uridylate kinase,SYNPCC7942_RS02570(6),BioCyc
 SYNPCC7942_1996-MONOMER,conserved hypothetical protein,SYNPCC7942_RS10120(),BioCyc
-SYNPCC7942_2258-MONOMER,valine-pyruvate aminotransferase,SYNPCC7942_RS11475(1),BioCyc
+SYNPCC7942_2258-MONOMER,valine-pyruvate aminotransferase,SYNPCC7942_RS11475(),BioCyc
 SYNPCC7942_0873-MONOMER,conserved hypothetical protein,SYNPCC7942_RS04500(),BioCyc
 SYNPCC7942_B2627-MONOMER,acyl-CoA dehydrogenase,SYNPCC7942_RS13440(),BioCyc
 SYNPCC7942_1245-MONOMER,conserved hypothetical protein,SYNPCC7942_RS06380(),BioCyc
@@ -2333,19 +2333,19 @@ SYNPCC7942_0490-MONOMER,diguanylate cyclase (GGDEF domain) with PAS/PAC sensor,S
 SYNPCC7942_1980-MONOMER,LysR family transcriptional regulator,SYNPCC7942_RS10040(),BioCyc
 SYNPCC7942_2242-MONOMER,two-component sensor histidine kinase,SYNPCC7942_RS11380(),BioCyc
 SYNPCC7942_0857-MONOMER,CheW protein,SYNPCC7942_RS04420(),BioCyc
-SYNPCC7942_2610-MONOMER,uroporphyrin-III C-methyltransferase,SYNPCC7942_RS13295(2),BioCyc
+SYNPCC7942_2610-MONOMER,uroporphyrin-III C-methyltransferase,SYNPCC7942_RS13295(),BioCyc
 SYNPCC7942_1229-MONOMER,precorrin-4 C11-methyltransferase,SYNPCC7942_RS06300(),BioCyc
 SYNPCC7942_0105-MONOMER,NAD+ synthetase,SYNPCC7942_RS00535(),BioCyc
 SYNPCC7942_1596-MONOMER,pyruvoyl-tetrahydropterin reductase,SYNPCC7942_RS08150(4),BioCyc
 SYNPCC7942_0474-MONOMER,hypothetical protein,SYNPCC7942_0474(),BioCyc
-SYNPCC7942_1964-MONOMER,4-hydroxybenzoate polyprenyl transferase,SYNPCC7942_RS09965(1),BioCyc
+SYNPCC7942_1964-MONOMER,4-hydroxybenzoate polyprenyl transferase,SYNPCC7942_RS09965(),BioCyc
 SYNPCC7942_2226-MONOMER,30S ribosomal subunit protein S3,SYNPCC7942_RS11305(1),BioCyc
 SYNPCC7942_0840-MONOMER,conserved hypothetical protein,SYNPCC7942_RS04345(),BioCyc
 SYNPCC7942_2594-MONOMER,conserved hypothetical protein,SYNPCC7942_RS13215(),BioCyc
 SYNPCC7942_1213-MONOMER,virulence associated protein C,SYNPCC7942_RS06215(),BioCyc
 SYNPCC7942_0089-MONOMER,Carboxymethylenebutenolidase,SYNPCC7942_RS00450(),BioCyc
 SYNPCC7942_1580-MONOMER,hypothetical protein,SYNPCC7942_RS08070(),BioCyc
-SYNPCC7942_0458-MONOMER,Carboxylesterase,SYNPCC7942_RS02335(4),BioCyc
+SYNPCC7942_0458-MONOMER,Carboxylesterase,SYNPCC7942_RS02335(),BioCyc
 SYNPCC7942_1948-MONOMER,conserved hypothetical protein,SYNPCC7942_RS09885(),BioCyc
 SYNPCC7942_2210-MONOMER,30S ribosomal subunit protein S11,SYNPCC7942_RS11230(1),BioCyc
 SYNPCC7942_0823-MONOMER,"oligopeptide ABC type transporter,, membrane protein",SYNPCC7942_RS04255(),BioCyc
@@ -2377,7 +2377,7 @@ SYNPCC7942_2530-MONOMER,30S ribosomal subunit protein S2,SYNPCC7942_RS12845(1),B
 SYNPCC7942_1149-MONOMER,dTDP-glucose 46-dehydratase,SYNPCC7942_RS05885(),BioCyc
 SYNPCC7942_0025-MONOMER,conserved hypothetical protein,SYNPCC7942_0025(),BioCyc
 SYNPCC7942_1515-MONOMER,protein serine/threonine phosphatases,SYNPCC7942_RS07745(),BioCyc
-SYNPCC7942_0394-MONOMER,phosphatidate cytidylyltransferase,SYNPCC7942_RS02010(),BioCyc
+SYNPCC7942_0394-MONOMER,phosphatidate cytidylyltransferase,SYNPCC7942_RS02010(1),BioCyc
 SYNPCC7942_1884-MONOMER,cytidylyltransferase,SYNPCC7942_RS09555(),BioCyc
 SYNPCC7942_2146-MONOMER,hypothetical protein,SYNPCC7942_RS10900(),BioCyc
 SYNPCC7942_0759-MONOMER,hypothetical protein,SYNPCC7942_RS03930(),BioCyc
@@ -2398,7 +2398,7 @@ SYNPCC7942_2114-MONOMER,SasA histidine kinase monomer,SYNPCC7942_RS10715(),BioCy
 SYNPCC7942_0727-MONOMER,conserved hypothetical protein,SYNPCC7942_RS03760(),BioCyc
 SYNPCC7942_2482-MONOMER,hypothetical protein,SYNPCC7942_2482(),BioCyc
 SYNPCC7942_1101-MONOMER,PDZ/DHR/GLGF,SYNPCC7942_RS05645(),BioCyc
-SYNPCC7942_1466-MONOMER,,SYNPCC7942_RS07500(),BioCyc
+SYNPCC7942_1466-MONOMER,,SYNPCC7942_RS07500(2),BioCyc
 SYNPCC7942_0346-MONOMER,Protein of unknown function DUF152,SYNPCC7942_RS01765(),BioCyc
 SYNPCC7942_1836-MONOMER,conserved hypothetical protein,SYNPCC7942_RS09315(),BioCyc
 SYNPCC7942_0711-MONOMER,"carbamoyl-phosphate synthase, large subunit",SYNPCC7942_RS03645(),BioCyc
@@ -2430,7 +2430,7 @@ SYNPCC7942_1769-MONOMER,conserved hypothetical protein,SYNPCC7942_RS08990(),BioC
 SYNPCC7942_0647-MONOMER,conserved hypothetical protein,SYNPCC7942_RS03320(),BioCyc
 SYNPCC7942_2399-MONOMER,conserved hypothetical protein,SYNPCC7942_RS12190(),BioCyc
 SYNPCC7942_1014-MONOMER,CheA signal transduction histidine kinase,SYNPCC7942_RS05210(),BioCyc
-SYNPCC7942_1383-MONOMER,Inorganic diphosphatase,SYNPCC7942_RS07080(6),BioCyc
+SYNPCC7942_1383-MONOMER,Inorganic diphosphatase,SYNPCC7942_RS07080(),BioCyc
 SYNPCC7942_0263-MONOMER,Protein of unknown function DUF147,SYNPCC7942_RS01340(),BioCyc
 SYNPCC7942_1753-MONOMER,conserved hypothetical protein,SYNPCC7942_RS08920(),BioCyc
 SYNPCC7942_0631-MONOMER,50S ribosomal subunit protein L7/L12,SYNPCC7942_RS03240(2),BioCyc
@@ -2454,11 +2454,11 @@ SYNPCC7942_0215-MONOMER,conserved hypothetical protein,SYNPCC7942_RS01090(),BioC
 SYNPCC7942_1705-MONOMER,PsbI,SYNPCC7942_1705(),BioCyc
 SYNPCC7942_0583-MONOMER,Magnesium chelatase subunit I,SYNPCC7942_RS02965(),BioCyc
 SYNPCC7942_2073-MONOMER,Heat shock protein Hsp70-1,SYNPCC7942_RS10510(),BioCyc
-SYNPCC7942_2335-MONOMER,"fructose-1,6-bisphosphatase I monomer",SYNPCC7942_RS11870(4),BioCyc
+SYNPCC7942_2335-MONOMER,"fructose-1,6-bisphosphatase I monomer",SYNPCC7942_RS11870(),BioCyc
 SYNPCC7942_0950-MONOMER,"sugar ABC transporter, substrate-binding protein",SYNPCC7942_RS04885(),BioCyc
 SYNPCC7942_1322-MONOMER,PsaE,SYNPCC7942_RS06760(),BioCyc
 SYNPCC7942_0199-MONOMER,conserved hypothetical protein,SYNPCC7942_RS01010(),BioCyc
-SYNPCC7942_1689-MONOMER,rhodanese-like,SYNPCC7942_RS08605(1),BioCyc
+SYNPCC7942_1689-MONOMER,rhodanese-like,SYNPCC7942_RS08605(),BioCyc
 SYNPCC7942_0567-MONOMER,conserved hypothetical protein,SYNPCC7942_RS02885(),BioCyc
 SYNPCC7942_2057-MONOMER,Protein of unknown function DUF205,SYNPCC7942_RS10435(1),BioCyc
 SYNPCC7942_2319-MONOMER,"putative plasmid maintenance system antidote protein, XRE family",SYNPCC7942_RS11790(),BioCyc
@@ -2469,7 +2469,7 @@ SYNPCC7942_1673-MONOMER,conserved hypothetical protein,SYNPCC7942_RS08525(),BioC
 SYNPCC7942_0551-MONOMER,conserved hypothetical protein,SYNPCC7942_RS02805(),BioCyc
 SYNPCC7942_2041-MONOMER,integral membrane protein MviN,SYNPCC7942_RS10355(),BioCyc
 SYNPCC7942_2303-MONOMER,dihydropteroate synthase,SYNPCC7942_RS11705(2),BioCyc
-SYNPCC7942_0918-MONOMER,long-chain-fatty-acid&mdash;[acyl-carrier-protein] ligase,SYNPCC7942_RS04725(2),BioCyc
+SYNPCC7942_0918-MONOMER,long-chain-fatty-acid&mdash;[acyl-carrier-protein] ligase,SYNPCC7942_RS04725(),BioCyc
 SYNPCC7942_1290-MONOMER,SmtA metallothionein,SYNPCC7942_1290(),BioCyc
 SYNPCC7942_0167-MONOMER,hypothetical protein,SYNPCC7942_RS00850(),BioCyc
 SYNPCC7942_1657-MONOMER,hypothetical protein,SYNPCC7942_RS08450(),BioCyc
@@ -2518,13 +2518,13 @@ SYNPCC7942_1945-MONOMER,"excinuclease ABC, C subunit",SYNPCC7942_RS09870(),BioCy
 SYNPCC7942_2207-MONOMER,tRNA pseudouridine synthase A,SYNPCC7942_RS11215(2),BioCyc
 SYNPCC7942_0820-MONOMER,conserved hypothetical protein,SYNPCC7942_RS04240(),BioCyc
 SYNPCC7942_2575-MONOMER,Mn transporter MntC,SYNPCC7942_RS13085(),BioCyc
-SYNPCC7942_1194-MONOMER,pyridoxal phosphate biosynthetic protein PdxJ,SYNPCC7942_RS06115(8),BioCyc
+SYNPCC7942_1194-MONOMER,pyridoxal phosphate biosynthetic protein PdxJ,SYNPCC7942_RS06115(),BioCyc
 SYNPCC7942_0070-MONOMER,conserved hypothetical protein,SYNPCC7942_RS00345(),BioCyc
 SYNPCC7942_1561-MONOMER,conserved hypothetical protein,SYNPCC7942_RS07965(),BioCyc
 SYNPCC7942_0439-MONOMER,magnesium protoporphyrin O-methyltransferase,SYNPCC7942_RS02245(),BioCyc
 SYNPCC7942_1929-MONOMER,cysteine desulfurase,SYNPCC7942_RS09790(),BioCyc
 SYNPCC7942_2191-MONOMER,conserved hypothetical protein,SYNPCC7942_RS11130(),BioCyc
-SYNPCC7942_0804-MONOMER,4-hydroxythreonine-4-phosphate dehydrogenase,SYNPCC7942_RS04160(2),BioCyc
+SYNPCC7942_0804-MONOMER,4-hydroxythreonine-4-phosphate dehydrogenase,SYNPCC7942_RS04160(),BioCyc
 SYNPCC7942_2559-MONOMER,50S ribosomal subunit protein L9,SYNPCC7942_RS13005(1),BioCyc
 SYNPCC7942_1178-MONOMER,photosystem II stability/assembly factor,SYNPCC7942_RS06035(),BioCyc
 SYNPCC7942_0054-MONOMER,conserved hypothetical protein,SYNPCC7942_RS00270(),BioCyc
@@ -2541,7 +2541,7 @@ SYNPCC7942_0407-MONOMER,PsaK,SYNPCC7942_RS02075(),BioCyc
 SYNPCC7942_1897-MONOMER,putative transcripton factor DevT-like,SYNPCC7942_RS09620(),BioCyc
 SYNPCC7942_2159-MONOMER,conserved hypothetical protein,SYNPCC7942_RS10970(),BioCyc
 SYNPCC7942_0772-MONOMER,conserved hypothetical protein,SYNPCC7942_RS04005(),BioCyc
-SYNPCC7942_2527-MONOMER,esterase-like,SYNPCC7942_RS12830(),BioCyc
+SYNPCC7942_2527-MONOMER,esterase-like,SYNPCC7942_RS12830(1),BioCyc
 SYNPCC7942_1146-MONOMER,conserved hypothetical protein,SYNPCC7942_RS05870(),BioCyc
 SYNPCC7942_0022-MONOMER,conserved hypothetical protein,SYNPCC7942_RS00115(),BioCyc
 SYNPCC7942_1512-MONOMER,"Carotene 7,8-desaturase",SYNPCC7942_RS07730(),BioCyc
@@ -2554,7 +2554,7 @@ SYNPCC7942_1130-MONOMER,protein serine/threonine phosphatases,SYNPCC7942_RS05785
 SYNPCC7942_0006-MONOMER,hypothetical protein,SYNPCC7942_RS00030(),BioCyc
 SYNPCC7942_1495-MONOMER,conserved hypothetical protein,SYNPCC7942_RS07640(),BioCyc
 SYNPCC7942_0375-MONOMER,processing protease,SYNPCC7942_RS01910(),BioCyc
-SYNPCC7942_1865-MONOMER,NAD(+) kinase 2,SYNPCC7942_RS09465(),BioCyc
+SYNPCC7942_1865-MONOMER,NAD(+) kinase 2,SYNPCC7942_RS09465(6),BioCyc
 SYNPCC7942_2127-MONOMER,phycobilisome degradation protein NblA,SYNPCC7942_RS10785(),BioCyc
 SYNPCC7942_0740-MONOMER,phage P2 protein GPJ,SYNPCC7942_RS03835(),BioCyc
 SYNPCC7942_2495-MONOMER,branched-chain amino acid ABC transporter integral membrane protein,SYNPCC7942_RS12660(),BioCyc
@@ -2563,7 +2563,7 @@ MONOMER490-11,hypothetical protein,G490-4(),BioCyc
 SYNPCC7942_1479-MONOMER,PetG,SYNPCC7942_RS07560(),BioCyc
 SYNPCC7942_0359-MONOMER,conserved hypothetical protein,SYNPCC7942_RS01830(),BioCyc
 SYNPCC7942_1849-MONOMER,RNA polymerase sigma factor SigA5,SYNPCC7942_RS09380(),BioCyc
-SYNPCC7942_2111-MONOMER,xylose repressor,SYNPCC7942_RS10700(1),BioCyc
+SYNPCC7942_2111-MONOMER,xylose repressor,SYNPCC7942_RS10700(),BioCyc
 SYNPCC7942_0724-MONOMER,conserved hypothetical protein,SYNPCC7942_RS03745(),BioCyc
 SYNPCC7942_2479-MONOMER,pilin-like protein,SYNPCC7942_2479(),BioCyc
 SYNPCC7942_1098-MONOMER,conserved hypothetical protein,SYNPCC7942_RS05630(),BioCyc
@@ -2573,7 +2573,7 @@ SYNPCC7942_1833-MONOMER,maintenance of carboxysome distribution protein A,SYNPCC
 SYNPCC7942_0708-MONOMER,conserved hypothetical protein,SYNPCC7942_RS03630(),BioCyc
 SYNPCC7942_2463-MONOMER,S-adenosylmethionine synthetase,SYNPCC7942_RS12520(4),BioCyc
 SYNPCC7942_1082-MONOMER,,SYNPCC7942_RS05555(1),BioCyc
-SYNPCC7942_1447-MONOMER,carbonic anhydrase monomer,SYNPCC7942_RS07405(2),BioCyc
+SYNPCC7942_1447-MONOMER,carbonic anhydrase monomer,SYNPCC7942_RS07405(),BioCyc
 SYNPCC7942_0327-MONOMER,allophycocyanin &alpha; subunit,SYNPCC7942_RS01665(),BioCyc
 SYNPCC7942_1817-MONOMER,response regulator receiver domain protein (CheY-like),SYNPCC7942_RS09225(),BioCyc
 SYNPCC7942_0692-MONOMER,conserved hypothetical protein,SYNPCC7942_RS03550(),BioCyc
@@ -2598,7 +2598,7 @@ SYNPCC7942_1766-MONOMER,"cytochrome d ubiquinol oxidase, subunit II",SYNPCC7942_
 SYNPCC7942_0644-MONOMER,circadian input kinase A,SYNPCC7942_RS03305(),BioCyc
 SYNPCC7942_2396-MONOMER,HAD-superfamily phosphatase subfamily IIIA,SYNPCC7942_RS12175(),BioCyc
 SYNPCC7942_1011-MONOMER,SphS histidine kinase monomer,SYNPCC7942_RS05190(),BioCyc
-SYNPCC7942_1380-MONOMER,SulP domain protein,SYNPCC7942_RS07065(),BioCyc
+SYNPCC7942_1380-MONOMER,SulP domain protein,SYNPCC7942_RS07065(1),BioCyc
 SYNPCC7942_0260-MONOMER,ClpC,SYNPCC7942_RS01325(),BioCyc
 SYNPCC7942_1750-MONOMER,conserved hypothetical protein YCF35,SYNPCC7942_RS08905(),BioCyc
 SYNPCC7942_0628-MONOMER,spermidine synthase,SYNPCC7942_RS03225(2),BioCyc
@@ -2607,21 +2607,21 @@ SYNPCC7942_0995-MONOMER,conserved hypothetical protein YCF20,SYNPCC7942_RS05110(
 SYNPCC7942_1367-MONOMER,cytochrome P450,SYNPCC7942_RS06995(),BioCyc
 SYNPCC7942_0244-MONOMER,,SYNPCC7942_RS01245(2),BioCyc
 SYNPCC7942_1734-MONOMER,ferredoxin-thioredoxin reductase catalytic subunit,SYNPCC7942_RS08825(),BioCyc
-SYNPCC7942_0612-MONOMER,citrate synthase,SYNPCC7942_RS03140(6),BioCyc
+SYNPCC7942_0612-MONOMER,citrate synthase,SYNPCC7942_RS03140(2),BioCyc
 SYNPCC7942_2102-MONOMER,2Fe-2S iron-sulfur cluster binding domain protein,SYNPCC7942_RS10655(),BioCyc
 SYNPCC7942_2364-MONOMER,conserved hypothetical protein,SYNPCC7942_RS12010(),BioCyc
 SYNPCC7942_0979-MONOMER,conserved hypothetical protein,SYNPCC7942_RS05030(),BioCyc
-SYNPCC7942_1351-MONOMER,"HAD-superfamily hydrolase subfamily IA, variant 3",SYNPCC7942_RS06905(1),BioCyc
+SYNPCC7942_1351-MONOMER,"HAD-superfamily hydrolase subfamily IA, variant 3",SYNPCC7942_RS06905(),BioCyc
 SYNPCC7942_0228-MONOMER,conserved hypothetical protein,SYNPCC7942_RS01160(),BioCyc
 SYNPCC7942_1718-MONOMER,glycolate oxidase subunit GlcE,SYNPCC7942_RS08740(),BioCyc
 SYNPCC7942_0596-MONOMER,delta(24)-sterol C-methyltransferase,SYNPCC7942_RS03055(),BioCyc
 SYNPCC7942_2086-MONOMER,conserved hypothetical protein,SYNPCC7942_RS10575(),BioCyc
 SYNPCC7942_2348-MONOMER,S-adenosylmethionine,SYNPCC7942_RS11930(1),BioCyc
 SYNPCC7942_0963-MONOMER,probable methyltransferase,SYNPCC7942_RS04950(),BioCyc
-SYNPCC7942_1335-MONOMER,probable branched-chain amino acid aminotransferase,SYNPCC7942_RS06825(2),BioCyc
+SYNPCC7942_1335-MONOMER,probable branched-chain amino acid aminotransferase,SYNPCC7942_RS06825(),BioCyc
 SYNPCC7942_0212-MONOMER,chorismate synthase,SYNPCC7942_RS01075(4),BioCyc
 SYNPCC7942_1702-MONOMER,conserved hypothetical protein,SYNPCC7942_1702(),BioCyc
-SYNPCC7942_0580-MONOMER,Peptidoglycan glycosyltransferase,SYNPCC7942_RS02950(1),BioCyc
+SYNPCC7942_0580-MONOMER,Peptidoglycan glycosyltransferase,SYNPCC7942_RS02950(),BioCyc
 SYNPCC7942_2070-MONOMER,twitching motility protein,SYNPCC7942_RS10495(),BioCyc
 SYNPCC7942_2332-MONOMER,PetD,SYNPCC7942_RS11855(),BioCyc
 SYNPCC7942_0947-MONOMER,"sugar ABC transporter, ATPase subunit",SYNPCC7942_RS04870(),BioCyc
@@ -2631,7 +2631,7 @@ SYNPCC7942_1686-MONOMER,thiosulfate-binding protein,SYNPCC7942_RS08590(),BioCyc
 SYNPCC7942_0564-MONOMER,ATPase,SYNPCC7942_RS02870(),BioCyc
 SYNPCC7942_2054-MONOMER,conserved hypothetical protein,SYNPCC7942_RS10420(),BioCyc
 SYNPCC7942_2316-MONOMER,"ATP synthase F1, &epsilon; subunit",SYNPCC7942_RS11775(),BioCyc
-SYNPCC7942_0931-MONOMER,acyl-(acyl-carrier-protein)--UDP-N- acetylglucosamine O-acyltransferase,SYNPCC7942_RS04790(3),BioCyc
+SYNPCC7942_0931-MONOMER,acyl-(acyl-carrier-protein)--UDP-N- acetylglucosamine O-acyltransferase,SYNPCC7942_RS04790(),BioCyc
 SYNPCC7942_1303-MONOMER,conserved hypothetical protein,SYNPCC7942_RS06665(),BioCyc
 SYNPCC7942_0180-MONOMER,conserved hypothetical protein,SYNPCC7942_RS00915(),BioCyc
 SYNPCC7942_1670-MONOMER,hypothetical protein,SYNPCC7942_1670(),BioCyc
@@ -2660,7 +2660,7 @@ SYNPCC7942_0132-MONOMER,conserved hypothetical protein,SYNPCC7942_RS00670(),BioC
 SYNPCC7942_1622-MONOMER,probable proteinase,SYNPCC7942_RS08275(),BioCyc
 SYNPCC7942_0500-MONOMER,hypothetical protein,SYNPCC7942_RS02540(),BioCyc
 SYNPCC7942_1990-MONOMER,conserved hypothetical protein,SYNPCC7942_RS10090(),BioCyc
-SYNPCC7942_2252-MONOMER,Phosphoenolpyruvate carboxylase,SYNPCC7942_RS11450(4),BioCyc
+SYNPCC7942_2252-MONOMER,Phosphoenolpyruvate carboxylase,SYNPCC7942_RS11450(),BioCyc
 SYNPCC7942_0867-MONOMER,hypothetical protein,SYNPCC7942_RS04470(),BioCyc
 SYNPCC7942_B2621-MONOMER,Uncharacterized membrane protein-like,SYNPCC7942_RS13415(),BioCyc
 SYNPCC7942_1239-MONOMER,NrtA,SYNPCC7942_RS06350(),BioCyc
@@ -2692,7 +2692,7 @@ SYNPCC7942_0067-MONOMER,"ABC type transporter, permease component",SYNPCC7942_RS
 SYNPCC7942_1558-MONOMER,conserved hypothetical protein,SYNPCC7942_RS07950(),BioCyc
 SYNPCC7942_0436-MONOMER,hypothetical protein,SYNPCC7942_RS02230(),BioCyc
 SYNPCC7942_1926-MONOMER,conserved hypothetical protein,SYNPCC7942_RS09775(),BioCyc
-SYNPCC7942_2188-MONOMER,isochorismate synthase,SYNPCC7942_RS11120(1),BioCyc
+SYNPCC7942_2188-MONOMER,isochorismate synthase,SYNPCC7942_RS11120(),BioCyc
 SYNPCC7942_0801-MONOMER,superoxide dismutase [Fe],SYNPCC7942_RS04145(2),BioCyc
 SYNPCC7942_2556-MONOMER,NAD-reducing hydrogenase HoxS &delta; subunit,SYNPCC7942_RS12990(),BioCyc
 SYNPCC7942_1175-MONOMER,PsbL,SYNPCC7942_RS06020(),BioCyc
@@ -2799,14 +2799,14 @@ SYNPCC7942_0193-MONOMER,conserved hypothetical protein,SYNPCC7942_RS00980(),BioC
 SYNPCC7942_1683-MONOMER,conserved hypothetical protein,SYNPCC7942_RS08575(),BioCyc
 SYNPCC7942_0561-MONOMER,hypothetical protein,SYNPCC7942_RS02855(),BioCyc
 SYNPCC7942_2051-MONOMER,conserved hypothetical protein,SYNPCC7942_RS10405(),BioCyc
-SYNPCC7942_2313-MONOMER,GroEL1 monomer,SYNPCC7942_RS11760(),BioCyc
+SYNPCC7942_2313-MONOMER,GroEL1 monomer,SYNPCC7942_RS11760(14),BioCyc
 SYNPCC7942_0928-MONOMER,outer envelope membrane protein,SYNPCC7942_RS04775(),BioCyc
-SYNPCC7942_1300-MONOMER,conserved hypothetical protein,SYNPCC7942_RS06650(),BioCyc
+SYNPCC7942_1300-MONOMER,conserved hypothetical protein,SYNPCC7942_RS06650(1),BioCyc
 SYNPCC7942_0177-MONOMER,"ABC-type uncharacterized transport system, permease component",SYNPCC7942_RS00900(),BioCyc
 SYNPCC7942_1667-MONOMER,UDP-N-acetylmuramoylalanine--D-glutamate ligase,SYNPCC7942_RS08500(1),BioCyc
 SYNPCC7942_0545-MONOMER,hypothetical protein,SYNPCC7942_RS02775(),BioCyc
 SYNPCC7942_2035-MONOMER,hypothetical protein,SYNPCC7942_RS10325(),BioCyc
-SYNPCC7942_2297-MONOMER,transaldolase,SYNPCC7942_RS11675(2),BioCyc
+SYNPCC7942_2297-MONOMER,transaldolase,SYNPCC7942_RS11675(12),BioCyc
 SYNPCC7942_0912-MONOMER,"DNA polymerase III, &tau; subunit",SYNPCC7942_RS04690(),BioCyc
 SYNPCC7942_1284-MONOMER,molybdopterin synthase subunit 1,SYNPCC7942_RS06575(),BioCyc
 SYNPCC7942_0161-MONOMER,conserved hypothetical protein,SYNPCC7942_RS00815(),BioCyc
@@ -2864,7 +2864,7 @@ SYNPCC7942_1923-MONOMER,sigma-24 (FecI-like),SYNPCC7942_RS09760(1),BioCyc
 SYNPCC7942_2185-MONOMER,conserved hypothetical protein,SYNPCC7942_RS11105(),BioCyc
 SYNPCC7942_0798-MONOMER,crossover junction endodeoxyribonuclease RuvC,SYNPCC7942_RS04130(),BioCyc
 SYNPCC7942_2553-MONOMER,hydrogenase nickel insertion protein HypA,SYNPCC7942_RS12975(),BioCyc
-SYNPCC7942_1172-MONOMER,apolipoprotein N-acyltransferase,SYNPCC7942_RS06010(1),BioCyc
+SYNPCC7942_1172-MONOMER,apolipoprotein N-acyltransferase,SYNPCC7942_RS06010(),BioCyc
 SYNPCC7942_0048-MONOMER,pilin polypeptide PilA-like,SYNPCC7942_0048(),BioCyc
 SYNPCC7942_1538-MONOMER,conserved hypothetical protein,SYNPCC7942_RS07860(),BioCyc
 SYNPCC7942_0417-MONOMER,ATPase,SYNPCC7942_RS02130(),BioCyc
@@ -2947,7 +2947,7 @@ SYNPCC7942_RS13975-MONOMER,hypothetical protein,SYNPCC7942_RS13975(),GenBank
 SYNPCC7942_RS13980-MONOMER,hypothetical protein,SYNPCC7942_RS13980(),GenBank
 SYNPCC7942_RS13870-MONOMER,hypothetical protein,SYNPCC7942_RS13870(),GenBank
 SYNPCC7942_RS05025-MONOMER,hypothetical protein,SYNPCC7942_RS05025(),GenBank
-SYNPCC7942_RS13875-MONOMER,bifunctional adenosylcobinamide kinase/adenosylcobinamide-phosphate guanylyltransferase,SYNPCC7942_RS13875(2),GenBank
+SYNPCC7942_RS13875-MONOMER,bifunctional adenosylcobinamide kinase/adenosylcobinamide-phosphate guanylyltransferase,SYNPCC7942_RS13875(),GenBank
 SYNPCC7942_RS13725-MONOMER,hypothetical protein,SYNPCC7942_RS13725(),GenBank
 SYNPCC7942_RS05180-MONOMER,helix-turn-helix domain-containing protein,SYNPCC7942_RS05180(),GenBank
 SYNPCC7942_RS13730-MONOMER,hypothetical protein,SYNPCC7942_RS13730(),GenBank
@@ -3024,7 +3024,7 @@ SYNPCC7942_RS13810-MONOMER,hypothetical protein,SYNPCC7942_RS13810(),GenBank
 SYNPCC7942_RS10865-MONOMER,cupin domain-containing protein,SYNPCC7942_RS10865(),GenBank
 SYNPCC7942_RS10985-MONOMER,hypothetical protein,SYNPCC7942_RS10985(),GenBank
 SYNPCC7942_RS14085-MONOMER,hypothetical protein,SYNPCC7942_RS14085(),GenBank
-SYNPCC7942_RS13815-MONOMER,50S ribosomal protein L36,SYNPCC7942_RS13815(1),GenBank
+SYNPCC7942_RS13815-MONOMER,50S ribosomal protein L36,SYNPCC7942_RS13815(),GenBank
 SYNPCC7942_RS13820-MONOMER,DUF4349 domain-containing protein,SYNPCC7942_RS13820(),GenBank
 SYNPCC7942_RS11415-MONOMER,hypothetical protein,SYNPCC7942_RS11415(),GenBank
 SYNPCC7942_RS11430-MONOMER,hypothetical protein,SYNPCC7942_RS11430(),GenBank
@@ -3035,7 +3035,7 @@ SYNPCC7942_RS14285-MONOMER,hypothetical protein,SYNPCC7942_RS14285(),GenBank
 SYNPCC7942_RS14100-MONOMER,hypothetical protein,SYNPCC7942_RS14100(),GenBank
 SYNPCC7942_RS13840-MONOMER,ComF family protein,SYNPCC7942_RS13840(),GenBank
 SYNPCC7942_RS12255-MONOMER,PH domain-containing protein,SYNPCC7942_RS12255(),GenBank
-SYNPCC7942_RS12470-MONOMER,adenine phosphoribosyltransferase,SYNPCC7942_RS12470(2),GenBank
+SYNPCC7942_RS12470-MONOMER,adenine phosphoribosyltransferase,SYNPCC7942_RS12470(),GenBank
 SYNPCC7942_RS14200-MONOMER,hypothetical protein,SYNPCC7942_RS14200(),GenBank
 SYNPCC7942_RS14105-MONOMER,hypothetical protein,SYNPCC7942_RS14105(),GenBank
 SYNPCC7942_RS13855-MONOMER,hypothetical protein,SYNPCC7942_RS13855(),GenBank
@@ -3052,7 +3052,7 @@ CPLX_BIOMASS_DNA-0,Biomass: DNA,SYNPCC7942_RS00985() AND SYNPCC7942_RS02900() AN
 CPLX_DHNANT-0,"1,4-dihydroxy-2-napthoyl phytyltransferase",SYNPCC7942_RS06990() AND SYNPCC7942_RS12725(),iJB785(DHNANT)
 CPLX_ASPCT-0,Aspartate carbamoyltransferase,SYNPCC7942_RS02475() AND SYNPCC7942_RS03430(),iJB785(ASPCT)
 CPLX_Kabcpp-0,Potassium ABC transporter (periplasm),SYNPCC7942_RS08505() AND SYNPCC7942_RS08510() AND SYNPCC7942_RS08515() AND SYNPCC7942_RS08800(),iJB785(Kabcpp)
-CPLX_PRFGS-0,Phosphoribosylformylglycinamidine synthase,SYNPCC7942_RS00015() AND SYNPCC7942_RS04230() AND SYNPCC7942_RS04235(),iJB785(PRFGS)
+CPLX_PRFGS-0,Phosphoribosylformylglycinamidine synthase,SYNPCC7942_RS04235() AND SYNPCC7942_RS00015() AND SYNPCC7942_RS04230(),iJB785(PRFGS)
 CPLX_ATPPRT-0,ATP phosphoribosyltransferase,SYNPCC7942_RS04060() AND SYNPCC7942_RS04205(),iJB785(ATPPRT)
 CPLX_CYNTtabcpp-0,Cyanate transport,SYNPCC7942_RS10670() AND SYNPCC7942_RS10675(),iJB785(CYNTtabcpp)
 CPLX_RBPCcx-0,Ribulose-bisphosphate carboxylase,SYNPCC7942_RS07295() AND SYNPCC7942_RS07300() AND SYNPCC7942_RS07280() AND SYNPCC7942_RS07270() AND SYNPCC7942_RS07275() AND SYNPCC7942_RS01450() AND SYNPCC7942_RS01445() AND SYNPCC7942_RS07285() AND SYNPCC7942_RS07290(),iJB785(RBPCcx)

@@ -41,18 +41,18 @@ B488_RS01240-MONOMER,hypothetical protein,B488_RS01240(),BioCyc
 B488_RS02715-MONOMER,phosphatidylcholine/phosphatidylserine synthase,B488_RS02715(),BioCyc
 B488_RS05230-MONOMER,phosphoribosylglycinamide formyltransferase,B488_RS05230(1),BioCyc
 B488_RS05445-MONOMER,cell division ATP-binding protein FtsE,B488_RS05445(),BioCyc
-B488_RS00275-MONOMER,3-deoxy-manno-octulosonate cytidylyltransferase,B488_RS00275(1),BioCyc
+B488_RS00275-MONOMER,3-deoxy-manno-octulosonate cytidylyltransferase,B488_RS00275(),BioCyc
 B488_RS05925-MONOMER,phosphoglycerate kinase,B488_RS05925(1),BioCyc
 B488_RS05735-MONOMER,F0F1 ATP synthase subunit alpha,B488_RS05735(),BioCyc
 B488_RS03245-MONOMER,hypothetical protein,B488_RS03245(),BioCyc
 B488_RS06340-MONOMER,signal peptide peptidase SppA,B488_RS06340(),BioCyc
 B488_RS03800-MONOMER,VWA domain-containing protein,B488_RS03800(),BioCyc
 B488_RS00655-MONOMER,carbamoyl-phosphate synthase large subunit,B488_RS00655(),BioCyc
-B488_RS04585-MONOMER,amidohydrolase family protein,B488_RS04585(4),BioCyc
+B488_RS04585-MONOMER,amidohydrolase family protein,B488_RS04585(),BioCyc
 B488_RS06230-MONOMER,type II secretion system F family protein,B488_RS06230(),BioCyc
 B488_RS04930-MONOMER,iron chelate uptake ABC transporter family permease subunit,B488_RS04930(),BioCyc
 B488_RS01250-MONOMER,hypothetical protein,B488_RS01250(),BioCyc
-B488_RS02720-MONOMER,FAD-binding protein,B488_RS02720(1),BioCyc
+B488_RS02720-MONOMER,FAD-binding protein,B488_RS02720(),BioCyc
 B488_RS03250-MONOMER,hypothetical protein,B488_RS03250(),BioCyc
 B488_RS03805-MONOMER,ABC transporter ATP-binding protein,B488_RS03805(),BioCyc
 B488_RS01675-MONOMER,S41 family peptidase,B488_RS01675(),BioCyc
@@ -61,9 +61,9 @@ B488_RS06650-MONOMER,PTS sugar transporter subunit IIA,B488_RS06650(),BioCyc
 B488_RS01965-MONOMER,Indoleacetamide hydrolase,B488_RS01965(),BioCyc
 B488_RS02250-MONOMER,CTP synthase,B488_RS02250(4),BioCyc
 B488_RS01255-MONOMER,bifunctional riboflavin kinase/FAD synthetase,B488_RS01255(1),BioCyc
-B488_RS02725-MONOMER,sugar MFS transporter,B488_RS02725(1),BioCyc
+B488_RS02725-MONOMER,sugar MFS transporter,B488_RS02725(),BioCyc
 B488_RS05450-MONOMER,ABC transporter permease,B488_RS05450(),BioCyc
-CPLX27KH-13,ribonucleotide-diphosphate reductase,B488_RS01775(2) AND B488_RS01770(2),BioCyc
+CPLX27KH-13,ribonucleotide-diphosphate reductase,B488_RS01770() AND B488_RS01775(),BioCyc
 B488_RS00280-MONOMER,SH3 domain-containing protein,B488_RS00280(),BioCyc
 B488_RS03255-MONOMER,hypothetical protein,B488_RS03255(),BioCyc
 B488_RS06345-MONOMER,integration host factor subunit beta,B488_RS06345(),BioCyc
@@ -97,7 +97,7 @@ B488_RS02750-MONOMER,FtsX-like permease family protein,B488_RS02750(),BioCyc
 B488_RS03275-MONOMER,glycosyl transferase,B488_RS03275(),BioCyc
 B488_RS03825-MONOMER,TatD family hydrolase,B488_RS03825(),BioCyc
 B488_RS01685-MONOMER,RNA pyrophosphohydrolase,B488_RS01685(),BioCyc
-B488_RS00685-MONOMER,pyridoxine 5'-phosphate synthase,B488_RS00685(8),BioCyc
+B488_RS00685-MONOMER,pyridoxine 5'-phosphate synthase,B488_RS00685(),BioCyc
 B488_RS06660-MONOMER,PAS domain-containing sensor histidine kinase,B488_RS06660(),BioCyc
 B488_RS01975-MONOMER,30S ribosomal protein S12,B488_RS01975(1),BioCyc
 B488_RS02260-MONOMER,hypothetical protein,B488_RS02260(),BioCyc
@@ -106,11 +106,11 @@ B488_RS02755-MONOMER,alpha/beta fold hydrolase,B488_RS02755(),BioCyc
 B488_RS05465-MONOMER,DUF2125 domain-containing protein,B488_RS05465(),BioCyc
 B488_RS00290-MONOMER,YbaB/EbfC family nucleoid-associated protein,B488_RS00290(),BioCyc
 B488_RS03280-MONOMER,glycosyltransferase family 2 protein,B488_RS03280(),BioCyc
-B488_RS06355-MONOMER,signal peptidase II,B488_RS06355(1),BioCyc
+B488_RS06355-MONOMER,signal peptidase II,B488_RS06355(),BioCyc
 B488_RS04305-MONOMER,helix-turn-helix transcriptional regulator,B488_RS04305(),BioCyc
 B488_RS03830-MONOMER,methionine--tRNA ligase,B488_RS03830(2),BioCyc
 B488_RS06090-MONOMER,HAMP domain-containing histidine kinase,B488_RS06090(),BioCyc
-B488_RS04600-MONOMER,transaldolase,B488_RS04600(2),BioCyc
+B488_RS04600-MONOMER,transaldolase,B488_RS04600(12),BioCyc
 B488_RS00690-MONOMER,30S ribosomal protein S21,B488_RS00690(),BioCyc
 B488_RS04945-MONOMER,YggT family protein,B488_RS04945(),BioCyc
 B488_RS01285-MONOMER,NADH-quinone oxidoreductase subunit A,B488_RS01285(),BioCyc
@@ -136,7 +136,7 @@ B488_RS06360-MONOMER,tryptophan synthase subunit alpha,B488_RS06360(),BioCyc
 B488_RS03840-MONOMER,dTMP kinase,B488_RS03840(1),BioCyc
 B488_RS04605-MONOMER,LysR family transcriptional regulator,B488_RS04605(),BioCyc
 B488_RS00700-MONOMER,phosphomethylpyrimidine synthase ThiC,B488_RS00700(1),BioCyc
-B488_RS04950-MONOMER,inorganic diphosphatase,B488_RS04950(6),BioCyc
+B488_RS04950-MONOMER,inorganic diphosphatase,B488_RS04950(),BioCyc
 B488_RS01295-MONOMER,NADH-quinone oxidoreductase subunit C,B488_RS01295(),BioCyc
 B488_RS02770-MONOMER,Large heme utilization/adhesion protein,B488_RS02770(),BioCyc
 B488_RS03310-MONOMER,amidohydrolase,B488_RS03310(),BioCyc
@@ -177,7 +177,7 @@ B488_RS00305-MONOMER,threonylcarbamoyl-AMP synthase,B488_RS00305(1),BioCyc
 B488_RS03320-MONOMER,glutamine--fructose-6-phosphate transaminase (isomerizing),B488_RS03320(2),BioCyc
 B488_RS06375-MONOMER,anthranilate phosphoribosyltransferase,B488_RS06375(1),BioCyc
 B488_RS06900-MONOMER,porin family protein,B488_RS06900(),BioCyc
-CPLX27KH-5,cytochrome o ubiquinol oxidase,B488_RS00410(1) AND B488_RS00400(1) AND B488_RS00405(1) AND B488_RS00395(1),BioCyc
+CPLX27KH-5,cytochrome o ubiquinol oxidase,B488_RS00395() AND B488_RS00400() AND B488_RS00405() AND B488_RS00410(),BioCyc
 B488_RS03860-MONOMER,2-amino-4-hydroxy-6- hydroxymethyldihydropteridine diphosphokinase,B488_RS03860(1),BioCyc
 B488_RS06240-MONOMER,CpaF family protein,B488_RS06240(),BioCyc
 B488_RS04615-MONOMER,SPOR domain-containing protein,B488_RS04615(),BioCyc
@@ -187,7 +187,7 @@ B488_RS01315-MONOMER,NADH-quinone oxidoreductase subunit G,B488_RS01315(),BioCyc
 B488_RS02790-MONOMER,hypothetical protein,B488_RS02790(),BioCyc
 B488_RS00010-MONOMER,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG,B488_RS00010(2),BioCyc
 B488_RS03325-MONOMER,bifunctional UDP-N-acetylglucosamine diphosphorylase/glucosamine-1-phosphate N-acetyltransferase GlmU,B488_RS03325(3),BioCyc
-B488_RS03865-MONOMER,dihydroneopterin aldolase,B488_RS03865(),BioCyc
+B488_RS03865-MONOMER,dihydroneopterin aldolase,B488_RS03865(8),BioCyc
 B488_RS01710-MONOMER,Holliday junction branch migration DNA helicase RuvB,B488_RS01710(),BioCyc
 B488_RS00725-MONOMER,cytochrome d ubiquinol oxidase subunit II,B488_RS00725(),BioCyc
 B488_RS06680-MONOMER,thioredoxin,B488_RS06680(1),BioCyc
@@ -195,7 +195,7 @@ B488_RS01995-MONOMER,30S ribosomal protein S10,B488_RS01995(1),BioCyc
 B488_RS01320-MONOMER,NADH-quinone oxidoreductase subunit NuoH,B488_RS01320(),BioCyc
 B488_RS02280-MONOMER,ERF family protein,B488_RS02280(),BioCyc
 B488_RS02795-MONOMER,DNA polymerase III subunit alpha,B488_RS02795(),BioCyc
-B488_RS05485-MONOMER,hydroxyacylglutathione hydrolase,B488_RS05485(1),BioCyc
+B488_RS05485-MONOMER,hydroxyacylglutathione hydrolase,B488_RS05485(),BioCyc
 B488_RS06950-MONOMER,hypothetical protein,B488_RS06950(),BioCyc
 B488_RS00310-MONOMER,hypothetical protein,B488_RS00310(),BioCyc
 B488_RS03330-MONOMER,GTPase Era,B488_RS03330(2),BioCyc
@@ -225,11 +225,11 @@ B488_RS03340-MONOMER,signal peptidase I,B488_RS03340(),BioCyc
 B488_RS04335-MONOMER,hypothetical protein,B488_RS04335(),BioCyc
 B488_RS06385-MONOMER,anthranilate synthase component 1,B488_RS06385(),BioCyc
 B488_RS07100-MONOMER,hypothetical protein,B488_RS07100(),BioCyc
-B488_RS04625-MONOMER,deoxyguanosinetriphosphate triphosphohydrolase,B488_RS04625(4),BioCyc
-B488_RS00740-MONOMER,quinone-dependent dihydroorotate dehydrogenase,B488_RS00740(1),BioCyc
+B488_RS04625-MONOMER,deoxyguanosinetriphosphate triphosphohydrolase,B488_RS04625(),BioCyc
+B488_RS00740-MONOMER,quinone-dependent dihydroorotate dehydrogenase,B488_RS00740(),BioCyc
 B488_RS04970-MONOMER,hypothetical protein,B488_RS04970(),BioCyc
 B488_RS01335-MONOMER,NADH-quinone oxidoreductase subunit NuoK,B488_RS01335(),BioCyc
-B488_RS02810-MONOMER,KpsF/GutQ family sugar-phosphate isomerase,B488_RS02810(4),BioCyc
+B488_RS02810-MONOMER,KpsF/GutQ family sugar-phosphate isomerase,B488_RS02810(),BioCyc
 B488_RS00020-MONOMER,ParA family protein,B488_RS00020(),BioCyc
 B488_RS03345-MONOMER,holo-ACP synthase,B488_RS03345(2),BioCyc
 B488_RS03885-MONOMER,MBL fold metallo-hydrolase,B488_RS03885(),BioCyc
@@ -248,21 +248,21 @@ B488_RS03350-MONOMER,"bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(dipho
 B488_RS04340-MONOMER,hypothetical protein,B488_RS04340(),BioCyc
 B488_RS06390-MONOMER,DNA mismatch repair protein MutS,B488_RS06390(),BioCyc
 B488_RS03890-MONOMER,AAA family ATPase,B488_RS03890(),BioCyc
-B488_RS06105-MONOMER,nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase,B488_RS06105(2),BioCyc
+B488_RS06105-MONOMER,nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase,B488_RS06105(),BioCyc
 CPLX27KH-18,predicted ABC transporter of phosphate,B488_RS06140() AND B488_RS06145(),BioCyc
-B488_RS04630-MONOMER,iron-sulfur cluster assembly accessory protein,B488_RS04630(4),BioCyc
+B488_RS04630-MONOMER,iron-sulfur cluster assembly accessory protein,B488_RS04630(2),BioCyc
 B488_RS00750-MONOMER,aspartate aminotransferase family protein,B488_RS00750(2),BioCyc
 B488_RS04975-MONOMER,trigger factor,B488_RS04975(1),BioCyc
 B488_RS01350-MONOMER,NADH-quinone oxidoreductase subunit NuoN,B488_RS01350(),BioCyc
 B488_RS02820-MONOMER,SPFH/Band 7/PHB domain protein,B488_RS02820(),BioCyc
 B488_RS05255-MONOMER,choline ABC transporter substrate-binding protein,B488_RS05255(),BioCyc
 B488_RS00025-MONOMER,ParB/RepB/Spo0J family partition protein,B488_RS00025(),BioCyc
-B488_RS03355-MONOMER,DNA-directed RNA polymerase subunit omega,B488_RS03355(1),BioCyc
+B488_RS03355-MONOMER,DNA-directed RNA polymerase subunit omega,B488_RS03355(),BioCyc
 B488_RS06880-MONOMER,hypothetical protein,B488_RS06880(),BioCyc
 B488_RS01720-MONOMER,biopolymer transporter ExbD,B488_RS01720(),BioCyc
 B488_RS00755-MONOMER,hypothetical protein,B488_RS00755(),BioCyc
 B488_RS06695-MONOMER,nitroreductase family protein,B488_RS06695(),BioCyc
-B488_RS02010-MONOMER,50S ribosomal protein L23,B488_RS02010(1),BioCyc
+B488_RS02010-MONOMER,50S ribosomal protein L23,B488_RS02010(),BioCyc
 B488_RS02300-MONOMER,hypothetical protein,B488_RS02300(),BioCyc
 B488_RS02825-MONOMER,ferrochelatase,B488_RS02825(1),BioCyc
 B488_RS05765-MONOMER,Hsp20 family protein,B488_RS05765(),BioCyc
@@ -280,17 +280,17 @@ B488_RS01355-MONOMER,biotin--[acetyl-CoA-carboxylase] ligase,B488_RS01355(),BioC
 B488_RS00030-MONOMER,DNA polymerase III subunit delta,B488_RS00030(),BioCyc
 B488_RS02830-MONOMER,hypothetical protein,B488_RS02830(),BioCyc
 B488_RS03370-MONOMER,4-hydroxy-tetrahydrodipicolinate reductase,B488_RS03370(4),BioCyc
-B488_RS03915-MONOMER,4-hydroxybenzoate octaprenyltransferase,B488_RS03915(1),BioCyc
+B488_RS03915-MONOMER,4-hydroxybenzoate octaprenyltransferase,B488_RS03915(),BioCyc
 B488_RS01725-MONOMER,cell envelope integrity protein TolA,B488_RS01725(),BioCyc
 B488_RS00765-MONOMER,hypothetical protein,B488_RS00765(),BioCyc
 B488_RS06700-MONOMER,DNA topoisomerase (ATP-hydrolyzing) subunit B,B488_RS06700(),BioCyc
 B488_RS02015-MONOMER,50S ribosomal protein L2,B488_RS02015(1),BioCyc
 B488_RS02305-MONOMER,hypothetical protein,B488_RS02305(),BioCyc
-B488_RS02835-MONOMER,aminodeoxychorismate synthase component I,B488_RS02835(1),BioCyc
-B488_RS05495-MONOMER,50S ribosomal protein L28,B488_RS05495(1),BioCyc
+B488_RS02835-MONOMER,aminodeoxychorismate synthase component I,B488_RS02835(),BioCyc
+B488_RS05495-MONOMER,50S ribosomal protein L28,B488_RS05495(),BioCyc
 B488_RS05775-MONOMER,bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate--cysteine ligase CoaBC,B488_RS05775(12),BioCyc
 B488_RS00340-MONOMER,methyltransferase,B488_RS00340(),BioCyc
-B488_RS03375-MONOMER,ROK family protein,B488_RS03375(1),BioCyc
+B488_RS03375-MONOMER,ROK family protein,B488_RS03375(),BioCyc
 B488_RS04355-MONOMER,acetyl-CoA carboxylase biotin carboxyl carrier protein,B488_RS04355(),BioCyc
 B488_RS06400-MONOMER,DUF721 domain-containing protein,B488_RS06400(),BioCyc
 B488_RS03920-MONOMER,hypothetical protein,B488_RS03920(),BioCyc
@@ -310,7 +310,7 @@ B488_RS02020-MONOMER,30S ribosomal protein S19,B488_RS02020(1),BioCyc
 B488_RS01365-MONOMER,proline--tRNA ligase,B488_RS01365(2),BioCyc
 B488_RS06790-MONOMER,hypothetical protein,B488_RS06790(),BioCyc
 B488_RS02845-MONOMER,sigma-54-dependent Fis family transcriptional regulator,B488_RS02845(),BioCyc
-B488_RS05780-MONOMER,2-polyprenylphenol 6-hydroxylase,B488_RS05780(1),BioCyc
+B488_RS05780-MONOMER,2-polyprenylphenol 6-hydroxylase,B488_RS05780(),BioCyc
 B488_RS05960-MONOMER,YebC/PmpR family DNA-binding transcriptional regulator,B488_RS05960(),BioCyc
 B488_RS00345-MONOMER,polyprenyl synthetase family protein,B488_RS00345(2),BioCyc
 B488_RS03385-MONOMER,hypothetical protein,B488_RS03385(),BioCyc
@@ -326,7 +326,7 @@ B488_RS00040-MONOMER,leucine--tRNA ligase,B488_RS00040(1),BioCyc
 B488_RS03935-MONOMER,HAMP domain-containing protein,B488_RS03935(),BioCyc
 B488_RS01735-MONOMER,peptidoglycan-associated lipoprotein Pal,B488_RS01735(),BioCyc
 B488_RS00785-MONOMER,rRNA maturation RNase YbeY,B488_RS00785(),BioCyc
-B488_RS06710-MONOMER,protein-export chaperone SecB,B488_RS06710(4),BioCyc
+B488_RS06710-MONOMER,protein-export chaperone SecB,B488_RS06710(),BioCyc
 B488_RS02025-MONOMER,50S ribosomal protein L22,B488_RS02025(1),BioCyc
 B488_RS01375-MONOMER,ABC transporter ATP-binding protein,B488_RS01375(),BioCyc
 B488_RS06795-MONOMER,porin family protein,B488_RS06795(),BioCyc
@@ -342,28 +342,28 @@ B488_RS06115-MONOMER,HAMP domain-containing histidine kinase,B488_RS06115(),BioC
 B488_RS07040-MONOMER,DUF2497 domain-containing protein,B488_RS07040(),BioCyc
 B488_RS00790-MONOMER,HlyC/CorC family transporter,B488_RS00790(),BioCyc
 B488_RS04990-MONOMER,Branched-chain amino acid transport system permease LivM,B488_RS04990(),BioCyc
-B488_RS01380-MONOMER,bifunctional 2-polyprenyl-6-hydroxyphenol methylase/3-demethylubiquinol 3-O-methyltransferase UbiG,B488_RS01380(2),BioCyc
+B488_RS01380-MONOMER,bifunctional 2-polyprenyl-6-hydroxyphenol methylase/3-demethylubiquinol 3-O-methyltransferase UbiG,B488_RS01380(),BioCyc
 B488_RS00045-MONOMER,YggS family pyridoxal phosphate-dependent enzyme,B488_RS00045(),BioCyc
 B488_RS05265-MONOMER,cation transporter,B488_RS05265(2),BioCyc
 B488_RS03395-MONOMER,SAM-dependent DNA methyltransferase,B488_RS03395(),BioCyc
 B488_RS03945-MONOMER,excinuclease ABC subunit UvrB,B488_RS03945(),BioCyc
 B488_RS01740-MONOMER,tol-pal system protein YbgF,B488_RS01740(),BioCyc
-B488_RS00795-MONOMER,apolipoprotein N-acyltransferase,B488_RS00795(1),BioCyc
+B488_RS00795-MONOMER,apolipoprotein N-acyltransferase,B488_RS00795(),BioCyc
 B488_RS06715-MONOMER,DNA polymerase III subunit epsilon,B488_RS06715(),BioCyc
 B488_RS02030-MONOMER,30S ribosomal protein S3,B488_RS02030(1),BioCyc
-B488_RS01385-MONOMER,aspartate kinase,B488_RS01385(4),BioCyc
+B488_RS01385-MONOMER,aspartate kinase,B488_RS01385(),BioCyc
 B488_RS02320-MONOMER,hypothetical protein,B488_RS02320(),BioCyc
 B488_RS05790-MONOMER,bifunctional DNA-formamidopyrimidine glycosylase/DNA-(apurinic or apyrimidinic site) lyase,B488_RS05790(),BioCyc
 CPLX27KH-4,cytochrome d ubiquinol oxidase,B488_RS00720() AND B488_RS00725() AND B488_RS00730(),BioCyc
-B488_RS05965-MONOMER,cytochrome c biogenesis protein DipZ,B488_RS05965(1),BioCyc
-B488_RS00355-MONOMER,NAD kinase,B488_RS00355(6),BioCyc
+B488_RS05965-MONOMER,cytochrome c biogenesis protein DipZ,B488_RS05965(),BioCyc
+B488_RS00355-MONOMER,NAD kinase,B488_RS00355(),BioCyc
 B488_RS03400-MONOMER,"Type I restriction-modification system, specificity subunit S",B488_RS03400(),BioCyc
 B488_RS04370-MONOMER,HU family DNA-binding protein,B488_RS04370(),BioCyc
 B488_RS03950-MONOMER,NAD+ synthase,B488_RS03950(),BioCyc
 B488_RS04655-MONOMER,protein-L-isoaspartate O-methyltransferase,B488_RS04655(),BioCyc
 B488_RS00800-MONOMER,helix-turn-helix transcriptional regulator,B488_RS00800(),BioCyc
 B488_RS04995-MONOMER,branched-chain amino acid ABC transporter permease,B488_RS04995(),BioCyc
-B488_RS01390-MONOMER,phosphoenolpyruvate--protein phosphotransferase,B488_RS01390(),BioCyc
+B488_RS01390-MONOMER,phosphoenolpyruvate--protein phosphotransferase,B488_RS01390(1),BioCyc
 B488_RS00050-MONOMER,pilus assembly protein,B488_RS00050(),BioCyc
 B488_RS03405-MONOMER,type I restriction endonuclease subunit R,B488_RS03405(),BioCyc
 B488_RS03955-MONOMER,hypothetical protein,B488_RS03955(),BioCyc
@@ -373,7 +373,7 @@ B488_RS02035-MONOMER,50S ribosomal protein L16,B488_RS02035(1),BioCyc
 B488_RS01395-MONOMER,peptide chain release factor 1,B488_RS01395(1),BioCyc
 B488_RS02325-MONOMER,hypothetical protein,B488_RS02325(),BioCyc
 B488_RS05505-MONOMER,BolA family transcriptional regulator,B488_RS05505(),BioCyc
-B488_RS05795-MONOMER,30S ribosomal protein S20,B488_RS05795(1),BioCyc
+B488_RS05795-MONOMER,30S ribosomal protein S20,B488_RS05795(),BioCyc
 B488_RS00360-MONOMER,peptide chain release factor 2,B488_RS00360(1),BioCyc
 B488_RS03410-MONOMER,ISL3 family transposase,B488_RS03410(),BioCyc
 B488_RS04375-MONOMER,endopeptidase La,B488_RS04375(),BioCyc
@@ -384,20 +384,20 @@ B488_RS00810-MONOMER,tRNA (guanosine(46)-N7)-methyltransferase TrmB,B488_RS00810
 B488_RS05000-MONOMER,DUF1153 domain-containing protein,B488_RS05000(),BioCyc
 B488_RS01400-MONOMER,peptide chain release factor N(5)-glutamine methyltransferase,B488_RS01400(),BioCyc
 B488_RS00055-MONOMER,DUF1013 domain-containing protein,B488_RS00055(),BioCyc
-B488_RS05270-MONOMER,NADPH-dependent 7-cyano-7-deazaguanine reductase QueF,B488_RS05270(),BioCyc
+B488_RS05270-MONOMER,NADPH-dependent 7-cyano-7-deazaguanine reductase QueF,B488_RS05270(2),BioCyc
 B488_RS03415-MONOMER,CCA tRNA nucleotidyltransferase,B488_RS03415(),BioCyc
 B488_RS03965-MONOMER,ABC transporter permease,B488_RS03965(),BioCyc
 B488_RS01745-MONOMER,tRNA lysidine(34) synthetase TilS,B488_RS01745(1),BioCyc
 B488_RS00815-MONOMER,DUF1150 family protein,B488_RS00815(),BioCyc
 B488_RS06725-MONOMER,shikimate dehydrogenase,B488_RS06725(2),BioCyc
-B488_RS02040-MONOMER,50S ribosomal protein L29,B488_RS02040(1),BioCyc
+B488_RS02040-MONOMER,50S ribosomal protein L29,B488_RS02040(),BioCyc
 B488_RS01405-MONOMER,DUF4167 domain-containing protein,B488_RS01405(),BioCyc
 B488_RS02330-MONOMER,hypothetical protein,B488_RS02330(),BioCyc
 B488_RS05510-MONOMER,3-dehydroquinate synthase,B488_RS05510(1),BioCyc
 B488_RS05800-MONOMER,chromosomal replication initiator protein DnaA,B488_RS05800(),BioCyc
 B488_RS05970-MONOMER,peptide-methionine (S)-S-oxide reductase MsrA,B488_RS05970(),BioCyc
-B488_RS00370-MONOMER,N-acetylmuramoyl-L-alanine amidase,B488_RS00370(1),BioCyc
-B488_RS03420-MONOMER,bifunctional nicotinamidase/pyrazinamidase,B488_RS03420(1),BioCyc
+B488_RS00370-MONOMER,N-acetylmuramoyl-L-alanine amidase,B488_RS00370(),BioCyc
+B488_RS03420-MONOMER,bifunctional nicotinamidase/pyrazinamidase,B488_RS03420(),BioCyc
 B488_RS03975-MONOMER,hypothetical protein,B488_RS03975(),BioCyc
 B488_RS04680-MONOMER,zinc-binding dehydrogenase,B488_RS04680(),BioCyc
 B488_RS00825-MONOMER,tetratricopeptide repeat protein,B488_RS00825(),BioCyc
@@ -420,7 +420,7 @@ B488_RS04380-MONOMER,ATP-dependent Clp protease ATP-binding subunit ClpX,B488_RS
 B488_RS03985-MONOMER,hypothetical protein,B488_RS03985(),BioCyc
 B488_RS06125-MONOMER,nucleotide exchange factor GrpE,B488_RS06125(2),BioCyc
 B488_RS04685-MONOMER,beta-ketoacyl-ACP synthase,B488_RS04685(),BioCyc
-B488_RS00835-MONOMER,ribonuclease D,B488_RS00835(1),BioCyc
+B488_RS00835-MONOMER,ribonuclease D,B488_RS00835(),BioCyc
 B488_RS05010-MONOMER,response regulator transcription factor,B488_RS05010(),BioCyc
 B488_RS01450-MONOMER,superoxide dismutase,B488_RS01450(2),BioCyc
 B488_RS00065-MONOMER,outer-membrane lipoprotein carrier protein LolA,B488_RS00065(),BioCyc
@@ -428,7 +428,7 @@ B488_RS05275-MONOMER,transcription antitermination factor NusB,B488_RS05275(1),B
 B488_RS03440-MONOMER,cell division protein FtsW,B488_RS03440(),BioCyc
 B488_RS03990-MONOMER,hypothetical protein,B488_RS03990(),BioCyc
 B488_RS01755-MONOMER,phosphoglucosamine mutase,B488_RS01755(1),BioCyc
-B488_RS00840-MONOMER,multicopper oxidase family protein,B488_RS00840(1),BioCyc
+B488_RS00840-MONOMER,multicopper oxidase family protein,B488_RS00840(),BioCyc
 B488_RS06735-MONOMER,uroporphyrinogen decarboxylase,B488_RS06735(1),BioCyc
 B488_RS02050-MONOMER,50S ribosomal protein L14,B488_RS02050(1),BioCyc
 B488_RS01455-MONOMER,hypothetical protein,B488_RS01455(),BioCyc
@@ -448,7 +448,7 @@ B488_RS00070-MONOMER,exodeoxyribonuclease III,B488_RS00070(),BioCyc
 B488_RS03450-MONOMER,phospho-N-acetylmuramoyl-pentapeptide- transferase,B488_RS03450(1),BioCyc
 B488_RS04000-MONOMER,FAD-binding oxidoreductase,B488_RS04000(),BioCyc
 B488_RS01760-MONOMER,NADH:ubiquinone oxidoreductase subunit NDUFA12,B488_RS01760(),BioCyc
-B488_RS00850-MONOMER,50S ribosomal protein L25/general stress protein Ctc,B488_RS00850(1),BioCyc
+B488_RS00850-MONOMER,50S ribosomal protein L25/general stress protein Ctc,B488_RS00850(),BioCyc
 B488_RS06740-MONOMER,protoporphyrinogen oxidase HemJ,B488_RS06740(),BioCyc
 B488_RS02055-MONOMER,50S ribosomal protein L24,B488_RS02055(1),BioCyc
 B488_RS01465-MONOMER,PAS domain-containing sensor histidine kinase,B488_RS01465(),BioCyc
@@ -466,7 +466,7 @@ B488_RS00075-MONOMER,cyclic nucleotide-binding domain-containing protein,B488_RS
 B488_RS05280-MONOMER,"6,7-dimethyl-8-ribityllumazine synthase",B488_RS05280(60),BioCyc
 B488_RS03465-MONOMER,penicillin-binding protein 2,B488_RS03465(1),BioCyc
 B488_RS01470-MONOMER,sigma-54-dependent Fis family transcriptional regulator,B488_RS01470(),BioCyc
-B488_RS04015-MONOMER,aldehyde dehydrogenase family protein,B488_RS04015(1),BioCyc
+B488_RS04015-MONOMER,aldehyde dehydrogenase family protein,B488_RS04015(),BioCyc
 B488_RS01765-MONOMER,DUF2155 domain-containing protein,B488_RS01765(),BioCyc
 B488_RS00860-MONOMER,ferredoxin family protein,B488_RS00860(),BioCyc
 B488_RS06745-MONOMER,transcription termination factor Rho,B488_RS06745(6),BioCyc
@@ -483,7 +483,7 @@ B488_RS05025-MONOMER,DUF1134 domain-containing protein,B488_RS05025(),BioCyc
 B488_RS00080-MONOMER,response regulator transcription factor,B488_RS00080(),BioCyc
 B488_RS03475-MONOMER,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH,B488_RS03475(),BioCyc
 B488_RS01485-MONOMER,DUF1344 domain-containing protein,B488_RS01485(),BioCyc
-B488_RS04025-MONOMER,oxygen-dependent coproporphyrinogen oxidase,B488_RS04025(2),BioCyc
+B488_RS04025-MONOMER,oxygen-dependent coproporphyrinogen oxidase,B488_RS04025(),BioCyc
 B488_RS01770-MONOMER,ribonucleotide-diphosphate reductase subunit beta,B488_RS01770(),BioCyc
 B488_RS00870-MONOMER,glutamine-hydrolyzing GMP synthase,B488_RS00870(2),BioCyc
 B488_RS02065-MONOMER,30S ribosomal protein S14,B488_RS02065(1),BioCyc
@@ -507,19 +507,19 @@ B488_RS06970-MONOMER,Dabb family protein,B488_RS06970(),BioCyc
 B488_RS02070-MONOMER,30S ribosomal protein S8,B488_RS02070(1),BioCyc
 B488_RS02360-MONOMER,hypothetical protein,B488_RS02360(),BioCyc
 B488_RS05540-MONOMER,hypothetical protein,B488_RS05540(),BioCyc
-B488_RS02860-MONOMER,N-methyl-L-tryptophan oxidase,B488_RS02860(1),BioCyc
+B488_RS02860-MONOMER,N-methyl-L-tryptophan oxidase,B488_RS02860(),BioCyc
 B488_RS03490-MONOMER,type 2 isopentenyl-diphosphate Delta-isomerase,B488_RS03490(),BioCyc
 CPLX27KH-3,NADH-quinone oxidoreductase,B488_RS01285() AND B488_RS01290() AND B488_RS01295() AND B488_RS01300() AND B488_RS01305() AND B488_RS01310() AND B488_RS01315() AND B488_RS01320() AND B488_RS01325() AND B488_RS01330() AND B488_RS01335() AND B488_RS01345() AND B488_RS01350(),BioCyc
 B488_RS05990-MONOMER,polysaccharide deacetylase family protein,B488_RS05990(),BioCyc
-B488_RS00390-MONOMER,50S ribosomal protein L33,B488_RS00390(1),BioCyc
+B488_RS00390-MONOMER,50S ribosomal protein L33,B488_RS00390(),BioCyc
 B488_RS04040-MONOMER,DNA-directed RNA polymerase subunit beta,B488_RS04040(),BioCyc
 B488_RS06260-MONOMER,Flp pilus assembly protein CpaB,B488_RS06260(),BioCyc
 B488_RS04710-MONOMER,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA,B488_RS04710(),BioCyc
-B488_RS00885-MONOMER,glutathione synthase,B488_RS00885(4),BioCyc
+B488_RS00885-MONOMER,glutathione synthase,B488_RS00885(),BioCyc
 CPLX27KH-8,phenylalanine--tRNA ligase,B488_RS05175(2) AND B488_RS05180(2),BioCyc
 B488_RS00090-MONOMER,ribonuclease HI,B488_RS00090(),BioCyc
-B488_RS02870-MONOMER,NAD(P)H-dependent oxidoreductase,B488_RS02870(2),BioCyc
-B488_RS01495-MONOMER,pyridoxamine 5'-phosphate oxidase,B488_RS01495(2),BioCyc
+B488_RS02870-MONOMER,NAD(P)H-dependent oxidoreductase,B488_RS02870(),BioCyc
+B488_RS01495-MONOMER,pyridoxamine 5'-phosphate oxidase,B488_RS01495(),BioCyc
 B488_RS06415-MONOMER,2'-deoxycytidine 5'-triphosphate deaminase,B488_RS06415(),BioCyc
 B488_RS04045-MONOMER,50S ribosomal protein L7/L12,B488_RS04045(2),BioCyc
 B488_RS01775-MONOMER,ribonucleoside-diphosphate reductase subunit alpha,B488_RS01775(),BioCyc
@@ -568,9 +568,9 @@ B488_RS02380-MONOMER,hypothetical protein,B488_RS02380(),BioCyc
 B488_RS02085-MONOMER,30S ribosomal protein S5,B488_RS02085(1),BioCyc
 B488_RS05555-MONOMER,hypothetical protein,B488_RS05555(),BioCyc
 B488_RS05830-MONOMER,RsmB/NOP family class I SAM-dependent RNA methyltransferase,B488_RS05830(1),BioCyc
-B488_RS02895-MONOMER,D-alanine--D-alanine ligase,B488_RS02895(2),BioCyc
+B488_RS02895-MONOMER,D-alanine--D-alanine ligase,B488_RS02895(1),BioCyc
 B488_RS06265-MONOMER,prepilin peptidase CpaA,B488_RS06265(),BioCyc
-CPLX27KH-10,phosphoribosylformylglycinamidine synthase,B488_RS02570() AND B488_RS02580() AND B488_RS02585(),BioCyc
+CPLX27KH-10,phosphoribosylformylglycinamidine synthase,B488_RS02580() AND B488_RS02570() AND B488_RS02585(),BioCyc
 B488_RS04400-MONOMER,type III PLP-dependent enzyme,B488_RS04400(),BioCyc
 B488_RS04080-MONOMER,glycosyltransferase,B488_RS04080(),BioCyc
 B488_RS06145-MONOMER,phosphate ABC transporter permease subunit PstC,B488_RS06145(),BioCyc
@@ -612,13 +612,13 @@ B488_RS02095-MONOMER,50S ribosomal protein L15,B488_RS02095(1),BioCyc
 B488_RS02400-MONOMER,hypothetical protein,B488_RS02400(),BioCyc
 B488_RS05835-MONOMER,tryptophan-rich sensory protein,B488_RS05835(),BioCyc
 B488_RS05565-MONOMER,complex I NDUFA9 subunit family protein,B488_RS05565(),BioCyc
-B488_RS02915-MONOMER,UDP-3-O-acyl-N-acetylglucosamine deacetylase,B488_RS02915(1),BioCyc
+B488_RS02915-MONOMER,UDP-3-O-acyl-N-acetylglucosamine deacetylase,B488_RS02915(),BioCyc
 B488_RS06270-MONOMER,Flp family type IVb pilin,B488_RS06270(),BioCyc
 B488_RS03530-MONOMER,MerR family transcriptional regulator,B488_RS03530(),BioCyc
 B488_RS04415-MONOMER,nickel/cobalt transporter,B488_RS04415(),BioCyc
 B488_RS04105-MONOMER,phosphoserine transaminase,B488_RS04105(),BioCyc
 B488_RS06150-MONOMER,phosphonate ABC transporter substrate-binding protein,B488_RS06150(),BioCyc
-B488_RS04735-MONOMER,potassium transporter Kup,B488_RS04735(1),BioCyc
+B488_RS04735-MONOMER,potassium transporter Kup,B488_RS04735(),BioCyc
 B488_RS00935-MONOMER,flagellar protein export ATPase FliI,B488_RS00935(),BioCyc
 B488_RS02405-MONOMER,hypothetical protein,B488_RS02405(),BioCyc
 B488_RS05300-MONOMER,"L,D-transpeptidase family protein",B488_RS05300(),BioCyc
@@ -627,20 +627,20 @@ B488_RS03535-MONOMER,ATP synthase subunit B,B488_RS03535(),BioCyc
 B488_RS05050-MONOMER,PilZ domain-containing protein,B488_RS05050(),BioCyc
 B488_RS01525-MONOMER,hypothetical protein,B488_RS01525(),BioCyc
 B488_RS04110-MONOMER,peptidoglycan -binding protein,B488_RS04110(),BioCyc
-B488_RS06440-MONOMER,acetylglutamate kinase,B488_RS06440(6),BioCyc
+B488_RS06440-MONOMER,acetylglutamate kinase,B488_RS06440(2),BioCyc
 B488_RS01800-MONOMER,phosphate acyltransferase PlsX,B488_RS01800(1),BioCyc
 B488_RS00105-MONOMER,DUF3131 domain-containing protein,B488_RS00105(),BioCyc
 B488_RS00940-MONOMER,DUF4354 family protein,B488_RS00940(),BioCyc
 B488_RS02100-MONOMER,preprotein translocase subunit SecY,B488_RS02100(),BioCyc
 B488_RS06805-MONOMER,hypothetical protein,B488_RS06805(),BioCyc
-CPLX27KH-17,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase,B488_RS04705() AND B488_RS04710() AND B488_RS04715(),BioCyc
+CPLX27KH-17,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase,B488_RS04715() AND B488_RS04710() AND B488_RS04705(),BioCyc
 B488_RS05575-MONOMER,undecaprenyl-diphosphate phosphatase,B488_RS05575(1),BioCyc
 B488_RS02930-MONOMER,NAD-dependent DNA ligase LigA,B488_RS02930(1),BioCyc
 B488_RS06275-MONOMER,Flp family type IVb pilin,B488_RS06275(),BioCyc
 B488_RS03540-MONOMER,ATP synthase subunit B' transmembrane protein,B488_RS03540(),BioCyc
-B488_RS06005-MONOMER,carbonic anhydrase,B488_RS06005(2),BioCyc
+B488_RS06005-MONOMER,carbonic anhydrase,B488_RS06005(),BioCyc
 B488_RS00410-MONOMER,cytochrome o ubiquinol oxidase subunit IV,B488_RS00410(),BioCyc
-B488_RS04420-MONOMER,pyrophosphate--fructose-6-phosphate 1-phosphotransferase,B488_RS04420(4),BioCyc
+B488_RS04420-MONOMER,pyrophosphate--fructose-6-phosphate 1-phosphotransferase,B488_RS04420(),BioCyc
 B488_RS04115-MONOMER,hypothetical protein,B488_RS04115(),BioCyc
 B488_RS04740-MONOMER,Mrp/NBP35 family ATP-binding protein,B488_RS04740(),BioCyc
 B488_RS00945-MONOMER,NAD(P)-binding protein,B488_RS00945(),BioCyc
@@ -651,7 +651,7 @@ B488_RS05055-MONOMER,PAS domain-containing protein,B488_RS05055(),BioCyc
 B488_RS01530-MONOMER,L-cystine transporter,B488_RS01530(),BioCyc
 B488_RS04120-MONOMER,inositol monophosphatase,B488_RS04120(1),BioCyc
 B488_RS06445-MONOMER,biotin synthase BioB,B488_RS06445(2),BioCyc
-B488_RS01805-MONOMER,ketoacyl-ACP synthase III,B488_RS01805(2),BioCyc
+B488_RS01805-MONOMER,ketoacyl-ACP synthase III,B488_RS01805(),BioCyc
 B488_RS00110-MONOMER,tryptophan--tRNA ligase,B488_RS00110(2),BioCyc
 B488_RS00950-MONOMER,DUF1365 domain-containing protein,B488_RS00950(),BioCyc
 B488_RS02105-MONOMER,adenylate kinase,B488_RS02105(1),BioCyc
@@ -666,7 +666,7 @@ B488_RS04125-MONOMER,sel1 repeat family protein,B488_RS04125(),BioCyc
 B488_RS06160-MONOMER,septation protein A,B488_RS06160(),BioCyc
 B488_RS04775-MONOMER,phosphoribosylaminoimidazolesuccinocarboxamide synthase,B488_RS04775(),BioCyc
 CPLX27KH-2,F0F1 ATP synthase,B488_RS05720() AND B488_RS05730() AND B488_RS05735() AND B488_RS05740(),BioCyc
-B488_RS00955-MONOMER,class I SAM-dependent methyltransferase,B488_RS00955(2),BioCyc
+B488_RS00955-MONOMER,class I SAM-dependent methyltransferase,B488_RS00955(),BioCyc
 B488_RS02425-MONOMER,hypothetical protein,B488_RS02425(),BioCyc
 B488_RS05305-MONOMER,winged helix DNA-binding protein,B488_RS05305(),BioCyc
 B488_RS02945-MONOMER,amino acid ABC transporter substrate-binding protein,B488_RS02945(),BioCyc
@@ -685,7 +685,7 @@ B488_RS00120-MONOMER,aminopeptidase,B488_RS00120(),BioCyc
 B488_RS05590-MONOMER,nitrate/sulfonate/bicarbonate ABC transporter ATP-binding protein,B488_RS05590(),BioCyc
 B488_RS02950-MONOMER,glycosyltransferase family 25 protein,B488_RS02950(),BioCyc
 B488_RS06280-MONOMER,Flp family type IVb pilin,B488_RS06280(),BioCyc
-B488_RS03560-MONOMER,glutathione-disulfide reductase,B488_RS03560(2),BioCyc
+B488_RS03560-MONOMER,glutathione-disulfide reductase,B488_RS03560(),BioCyc
 B488_RS06010-MONOMER,bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase,B488_RS06010(1),BioCyc
 B488_RS00420-MONOMER,thiamine phosphate synthase,B488_RS00420(1),BioCyc
 B488_RS04430-MONOMER,peptidoglycan-binding protein,B488_RS04430(),BioCyc
@@ -705,12 +705,12 @@ B488_RS00970-MONOMER,DUF3833 family protein,B488_RS00970(),BioCyc
 B488_RS02115-MONOMER,30S ribosomal protein S11,B488_RS02115(1),BioCyc
 B488_RS02445-MONOMER,hypothetical protein,B488_RS02445(),BioCyc
 B488_RS00130-MONOMER,hypothetical protein,B488_RS00130(),BioCyc
-B488_RS05850-MONOMER,penicillin-binding protein,B488_RS05850(2),BioCyc
+B488_RS05850-MONOMER,penicillin-binding protein,B488_RS05850(),BioCyc
 B488_RS05600-MONOMER,porin family protein,B488_RS05600(),BioCyc
 B488_RS02960-MONOMER,iron ABC transporter permease,B488_RS02960(),BioCyc
-B488_RS03570-MONOMER,ribose-5-phosphate isomerase RpiA,B488_RS03570(2),BioCyc
+B488_RS03570-MONOMER,ribose-5-phosphate isomerase RpiA,B488_RS03570(),BioCyc
 B488_RS00425-MONOMER,translation initiation factor IF-1,B488_RS00425(1),BioCyc
-B488_RS04435-MONOMER,lipoyl(octanoyl) transferase LipB,B488_RS04435(1),BioCyc
+B488_RS04435-MONOMER,lipoyl(octanoyl) transferase LipB,B488_RS04435(),BioCyc
 B488_RS04145-MONOMER,hypothetical protein,B488_RS04145(),BioCyc
 B488_RS06165-MONOMER,signal recognition particle-docking protein FtsY,B488_RS06165(),BioCyc
 B488_RS04785-MONOMER,multidrug efflux RND transporter permease subunit,B488_RS04785(),BioCyc
@@ -733,7 +733,7 @@ B488_RS06285-MONOMER,Flp family type IVb pilin,B488_RS06285(),BioCyc
 B488_RS03580-MONOMER,2-oxoglutarate dehydrogenase complex dihydrolipoyllysine-residue succinyltransferase,B488_RS03580(),BioCyc
 B488_RS06015-MONOMER,Heparinase II/III-like protein,B488_RS06015(),BioCyc
 B488_RS04440-MONOMER,tRNA guanosine(34) transglycosylase Tgt,B488_RS04440(6),BioCyc
-B488_RS04155-MONOMER,Fe-S cluster assembly scaffold SufA,B488_RS04155(2),BioCyc
+B488_RS04155-MONOMER,Fe-S cluster assembly scaffold SufA,B488_RS04155(),BioCyc
 B488_RS04790-MONOMER,efflux transporter outer membrane subunit,B488_RS04790(),BioCyc
 B488_RS00990-MONOMER,flagellar basal body rod protein FlgC,B488_RS00990(),BioCyc
 B488_RS02460-MONOMER,hypothetical protein,B488_RS02460(),BioCyc
@@ -766,7 +766,7 @@ B488_RS01550-MONOMER,cysteine--tRNA ligase,B488_RS01550(1),BioCyc
 B488_RS04170-MONOMER,Fe-S cluster assembly protein SufD,B488_RS04170(),BioCyc
 B488_RS06470-MONOMER,organic hydroperoxide resistance protein,B488_RS06470(),BioCyc
 B488_RS01830-MONOMER,C4-dicarboxylate transporter DctA,B488_RS01830(1),BioCyc
-B488_RS05090-MONOMER,lytic murein transglycosylase,B488_RS05090(1),BioCyc
+B488_RS05090-MONOMER,lytic murein transglycosylase,B488_RS05090(),BioCyc
 B488_RS01005-MONOMER,flagellar basal body P-ring formation protein FlgA,B488_RS01005(),BioCyc
 B488_RS02130-MONOMER,dual specificity protein phosphatase family protein,B488_RS02130(),BioCyc
 B488_RS02475-MONOMER,hypothetical protein,B488_RS02475(),BioCyc
@@ -792,7 +792,7 @@ B488_RS02135-MONOMER,JAB domain-containing protein,B488_RS02135(),BioCyc
 B488_RS02485-MONOMER,hypothetical protein,B488_RS02485(),BioCyc
 B488_RS00150-MONOMER,transcription termination/antitermination protein NusA,B488_RS00150(1),BioCyc
 B488_RS05860-MONOMER,molecular chaperone DnaJ,B488_RS05860(2),BioCyc
-B488_RS05620-MONOMER,pyridoxal phosphate-dependent aminotransferase,B488_RS05620(),BioCyc
+B488_RS05620-MONOMER,pyridoxal phosphate-dependent aminotransferase,B488_RS05620(2),BioCyc
 B488_RS03010-MONOMER,Mlr4354 like protein,B488_RS03010(),BioCyc
 B488_RS07055-MONOMER,Flp family type IVb pilin,B488_RS07055(),BioCyc
 B488_RS06855-MONOMER,AprI/Inh family metalloprotease inhibitor,B488_RS06855(),BioCyc
@@ -803,7 +803,7 @@ B488_RS06175-MONOMER,signal recognition particle protein,B488_RS06175(),BioCyc
 B488_RS04805-MONOMER,ATP phosphoribosyltransferase,B488_RS04805(2),BioCyc
 B488_RS01020-MONOMER,flagellar basal body L-ring protein FlgH,B488_RS01020(),BioCyc
 B488_RS02490-MONOMER,tail fiber domain-containing protein,B488_RS02490(),BioCyc
-B488_RS05325-MONOMER,citrate synthase,B488_RS05325(6),BioCyc
+B488_RS05325-MONOMER,citrate synthase,B488_RS05325(2),BioCyc
 B488_RS03015-MONOMER,redox-regulated ATPase YchF,B488_RS03015(),BioCyc
 B488_RS03615-MONOMER,succinate dehydrogenase iron-sulfur subunit,B488_RS03615(),BioCyc
 B488_RS01560-MONOMER,amidophosphoribosyltransferase,B488_RS01560(4),BioCyc
@@ -814,7 +814,7 @@ B488_RS01025-MONOMER,flagellar basal body-associated FliL family protein,B488_RS
 B488_RS02140-MONOMER,type I methionyl aminopeptidase,B488_RS02140(1),BioCyc
 B488_RS05105-MONOMER,GAF domain-containing protein,B488_RS05105(),BioCyc
 B488_RS00155-MONOMER,translation initiation factor IF-2,B488_RS00155(1),BioCyc
-CPLX27KH-16,ATP-dependent Clp protease,B488_RS04380() AND B488_RS04385(),BioCyc
+CPLX27KH-16,ATP-dependent Clp protease,B488_RS04385() AND B488_RS04380(),BioCyc
 B488_RS03020-MONOMER,aminoacyl-tRNA hydrolase,B488_RS03020(),BioCyc
 B488_RS06290-MONOMER,hypothetical protein,B488_RS06290(),BioCyc
 B488_RS03620-MONOMER,succinate dehydrogenase flavoprotein subunit,B488_RS03620(),BioCyc
@@ -841,7 +841,7 @@ B488_RS03030-MONOMER,hypothetical protein,B488_RS03030(),BioCyc
 B488_RS03630-MONOMER,"succinate dehydrogenase, cytochrome b556 subunit",B488_RS03630(),BioCyc
 B488_RS00450-MONOMER,exodeoxyribonuclease VII small subunit,B488_RS00450(),BioCyc
 B488_RS04465-MONOMER,4Fe-4S binding protein,B488_RS04465(),BioCyc
-B488_RS04210-MONOMER,alpha/beta hydrolase,B488_RS04210(),BioCyc
+B488_RS04210-MONOMER,alpha/beta hydrolase,B488_RS04210(1),BioCyc
 B488_RS06180-MONOMER,30S ribosomal protein S16,B488_RS06180(1),BioCyc
 B488_RS04815-MONOMER,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,B488_RS04815(1),BioCyc
 CPLX27KH-1,F0F1 ATP synthase,B488_RS03535() AND B488_RS03540() AND B488_RS03545() AND B488_RS03550(),BioCyc
@@ -902,7 +902,7 @@ B488_RS06505-MONOMER,RNA polymerase sigma factor RpoD,B488_RS06505(1),BioCyc
 B488_RS01860-MONOMER,DEAD/DEAH box helicase,B488_RS01860(),BioCyc
 B488_RS05125-MONOMER,ABC transporter permease,B488_RS05125(),BioCyc
 B488_RS01060-MONOMER,disulfide bond formation protein B,B488_RS01060(),BioCyc
-B488_RS02155-MONOMER,homoserine dehydrogenase,B488_RS02155(2),BioCyc
+B488_RS02155-MONOMER,homoserine dehydrogenase,B488_RS02155(),BioCyc
 B488_RS02515-MONOMER,lysozyme,B488_RS02515(),BioCyc
 B488_RS05340-MONOMER,3-deoxy-8-phosphooctulonate synthase,B488_RS05340(4),BioCyc
 B488_RS00175-MONOMER,polyribonucleotide nucleotidyltransferase,B488_RS00175(3),BioCyc
@@ -919,12 +919,12 @@ B488_RS01070-MONOMER,UTP--glucose-1-phosphate uridylyltransferase GalU,B488_RS01
 B488_RS03065-MONOMER,DUF3289 family protein,B488_RS03065(),BioCyc
 B488_RS03660-MONOMER,hypothetical protein,B488_RS03660(),BioCyc
 B488_RS01585-MONOMER,50S ribosomal protein L9,B488_RS01585(1),BioCyc
-B488_RS00485-MONOMER,threonine synthase,B488_RS00485(1),BioCyc
+B488_RS00485-MONOMER,threonine synthase,B488_RS00485(),BioCyc
 B488_RS04250-MONOMER,ETC complex I subunit,B488_RS04250(),BioCyc
 B488_RS06510-MONOMER,NAD(P)H-quinone oxidoreductase,B488_RS06510(),BioCyc
 B488_RS01865-MONOMER,M23 family metallopeptidase,B488_RS01865(),BioCyc
 B488_RS05130-MONOMER,MetQ/NlpA family ABC transporter substrate-binding protein,B488_RS05130(),BioCyc
-B488_RS01075-MONOMER,ferredoxin--NADP reductase,B488_RS01075(1),BioCyc
+B488_RS01075-MONOMER,ferredoxin--NADP reductase,B488_RS01075(),BioCyc
 B488_RS02160-MONOMER,single-stranded-DNA-specific exonuclease RecJ,B488_RS02160(),BioCyc
 B488_RS02520-MONOMER,hypothetical protein,B488_RS02520(),BioCyc
 B488_RS05345-MONOMER,phosphopyruvate hydratase,B488_RS05345(2),BioCyc
@@ -936,7 +936,7 @@ B488_RS06905-MONOMER,hypothetical protein,B488_RS06905(),BioCyc
 B488_RS04260-MONOMER,C1 family peptidase,B488_RS04260(),BioCyc
 B488_RS06190-MONOMER,tRNA (guanosine(37)-N1)-methyltransferase TrmD,B488_RS06190(2),BioCyc
 B488_RS04840-MONOMER,glucose-1-phosphate thymidylyltransferase RfbA,B488_RS04840(1),BioCyc
-B488_RS01080-MONOMER,Na+/H+ antiporter NhaA,B488_RS01080(2),BioCyc
+B488_RS01080-MONOMER,Na+/H+ antiporter NhaA,B488_RS01080(),BioCyc
 B488_RS02525-MONOMER,hypothetical protein,B488_RS02525(),BioCyc
 B488_RS03070-MONOMER,hypothetical protein,B488_RS03070(),BioCyc
 B488_RS03670-MONOMER,hypothetical protein,B488_RS03670(),BioCyc
@@ -949,10 +949,10 @@ B488_RS01085-MONOMER,50S ribosomal protein L32,B488_RS01085(),BioCyc
 B488_RS02170-MONOMER,hypothetical protein,B488_RS02170(),BioCyc
 B488_RS05135-MONOMER,response regulator,B488_RS05135(),BioCyc
 B488_RS05350-MONOMER,septum formation initiator family protein,B488_RS05350(),BioCyc
-B488_RS00185-MONOMER,succinyl-diaminopimelate desuccinylase,B488_RS00185(4),BioCyc
+B488_RS00185-MONOMER,succinyl-diaminopimelate desuccinylase,B488_RS00185(2),BioCyc
 B488_RS05655-MONOMER,outer membrane protein assembly factor,B488_RS05655(),BioCyc
 B488_RS03075-MONOMER,septal ring lytic transglycosylase RlpA family protein,B488_RS03075(),BioCyc
-B488_RS03675-MONOMER,6-carboxytetrahydropterin synthase QueD,B488_RS03675(1),BioCyc
+B488_RS03675-MONOMER,6-carboxytetrahydropterin synthase QueD,B488_RS03675(),BioCyc
 B488_RS06040-MONOMER,peptidoglycan editing factor PgeF,B488_RS06040(),BioCyc
 B488_RS04490-MONOMER,hypothetical protein,B488_RS04490(),BioCyc
 B488_RS06890-MONOMER,hypothetical protein,B488_RS06890(),BioCyc
@@ -962,17 +962,17 @@ B488_RS02530-MONOMER,PAS domain-containing protein,B488_RS02530(),BioCyc
 B488_RS03080-MONOMER,thymidylate synthase,B488_RS03080(2),BioCyc
 B488_RS03680-MONOMER,7-cyano-7-deazaguanine synthase QueC,B488_RS03680(1),BioCyc
 B488_RS01595-MONOMER,30S ribosomal protein S18,B488_RS01595(1),BioCyc
-B488_RS00500-MONOMER,Sulfur carrier protein adenylyltransferase ThiF,B488_RS00500(),BioCyc
+B488_RS00500-MONOMER,Sulfur carrier protein adenylyltransferase ThiF,B488_RS00500(1),BioCyc
 B488_RS04280-MONOMER,hypothetical protein,B488_RS04280(),BioCyc
 B488_RS06520-MONOMER,efflux RND transporter periplasmic adaptor subunit,B488_RS06520(),BioCyc
 B488_RS01875-MONOMER,bifunctional ADP-dependent NAD(P)H-hydrate dehydratase/NAD(P)H-hydrate epimerase,B488_RS01875(),BioCyc
-B488_RS05145-MONOMER,RlmE family RNA methyltransferase,B488_RS05145(1),BioCyc
+B488_RS05145-MONOMER,RlmE family RNA methyltransferase,B488_RS05145(),BioCyc
 B488_RS01095-MONOMER,invasion associated locus B family protein,B488_RS01095(),BioCyc
-B488_RS02175-MONOMER,lactoylglutathione lyase,B488_RS02175(2),BioCyc
+B488_RS02175-MONOMER,lactoylglutathione lyase,B488_RS02175(),BioCyc
 B488_RS02535-MONOMER,RNA methyltransferase,B488_RS02535(),BioCyc
 B488_RS05355-MONOMER,pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha,B488_RS05355(),BioCyc
 B488_RS00190-MONOMER,"2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase",B488_RS00190(2),BioCyc
-B488_RS05885-MONOMER,glutamate 5-kinase,B488_RS05885(4),BioCyc
+B488_RS05885-MONOMER,glutamate 5-kinase,B488_RS05885(),BioCyc
 B488_RS05660-MONOMER,hypothetical protein,B488_RS05660(),BioCyc
 B488_RS03085-MONOMER,dihydrofolate reductase,B488_RS03085(1),BioCyc
 B488_RS06305-MONOMER,carboxynorspermidine decarboxylase,B488_RS06305(),BioCyc
@@ -982,7 +982,7 @@ B488_RS04495-MONOMER,flagellar type III secretion system protein FliR,B488_RS044
 B488_RS04285-MONOMER,hypothetical protein,B488_RS04285(),BioCyc
 B488_RS06195-MONOMER,50S ribosomal protein L19,B488_RS06195(1),BioCyc
 B488_RS04850-MONOMER,"dTDP-glucose 4,6-dehydratase",B488_RS04850(1),BioCyc
-B488_RS01100-MONOMER,protoheme IX farnesyltransferase,B488_RS01100(1),BioCyc
+B488_RS01100-MONOMER,protoheme IX farnesyltransferase,B488_RS01100(),BioCyc
 B488_RS02540-MONOMER,glutamate racemase,B488_RS02540(2),BioCyc
 B488_RS03090-MONOMER,FtsH protease activity modulator HflK,B488_RS03090(),BioCyc
 B488_RS03690-MONOMER,cytochrome b,B488_RS03690(),BioCyc
@@ -991,7 +991,7 @@ B488_RS00510-MONOMER,sulfur carrier protein ThiS,B488_RS00510(),BioCyc
 B488_RS06895-MONOMER,YdaU family protein,B488_RS06895(),BioCyc
 B488_RS06525-MONOMER,efflux RND transporter periplasmic adaptor subunit,B488_RS06525(),BioCyc
 B488_RS01880-MONOMER,excinuclease ABC subunit UvrA,B488_RS01880(),BioCyc
-B488_RS05150-MONOMER,Ppx/GppA family phosphatase,B488_RS05150(2),BioCyc
+B488_RS05150-MONOMER,Ppx/GppA family phosphatase,B488_RS05150(),BioCyc
 B488_RS01105-MONOMER,"3,4-dihydroxy-2-butanone-4-phosphate synthase",B488_RS01105(2),BioCyc
 B488_RS02180-MONOMER,cold-shock protein CspB,B488_RS02180(),BioCyc
 B488_RS02545-MONOMER,30S ribosomal protein S4,B488_RS02545(1),BioCyc
@@ -1006,17 +1006,17 @@ B488_RS06055-MONOMER,accessory factor UbiK family protein,B488_RS06055(),BioCyc
 B488_RS00520-MONOMER,enoyl-ACP reductase FabI,B488_RS00520(),BioCyc
 B488_RS04500-MONOMER,flagellar biosynthesis protein FlhA,B488_RS04500(),BioCyc
 B488_RS07105-MONOMER,hypothetical protein,B488_RS07105(),BioCyc
-B488_RS04855-MONOMER,"dTDP-4-dehydrorhamnose 3,5-epimerase",B488_RS04855(1),BioCyc
+B488_RS04855-MONOMER,"dTDP-4-dehydrorhamnose 3,5-epimerase",B488_RS04855(),BioCyc
 B488_RS01115-MONOMER,nucleoside deaminase,B488_RS01115(2),BioCyc
 B488_RS02550-MONOMER,glutaminase,B488_RS02550(2),BioCyc
-B488_RS03100-MONOMER,phosphoserine phosphatase SerB,B488_RS03100(1),BioCyc
+B488_RS03100-MONOMER,phosphoserine phosphatase SerB,B488_RS03100(),BioCyc
 B488_RS03700-MONOMER,lysozyme,B488_RS03700(),BioCyc
 B488_RS01605-MONOMER,Do family serine endopeptidase,B488_RS01605(),BioCyc
 B488_RS04300-MONOMER,hypothetical protein,B488_RS04300(),BioCyc
 B488_RS06535-MONOMER,alcohol dehydrogenase,B488_RS06535(),BioCyc
 B488_RS01885-MONOMER,single-stranded DNA-binding protein,B488_RS01885(),BioCyc
 B488_RS05160-MONOMER,porin,B488_RS05160(),BioCyc
-B488_RS01120-MONOMER,pseudouridine synthase,B488_RS01120(1),BioCyc
+B488_RS01120-MONOMER,pseudouridine synthase,B488_RS01120(),BioCyc
 B488_RS02185-MONOMER,50S ribosomal protein L31,B488_RS02185(),BioCyc
 B488_RS02555-MONOMER,multidrug effflux MFS transporter,B488_RS02555(),BioCyc
 B488_RS05365-MONOMER,pyruvate dehydrogenase complex dihydrolipoamide acetyltransferase,B488_RS05365(),BioCyc
@@ -1025,11 +1025,11 @@ B488_RS05890-MONOMER,glutamate-5-semialdehyde dehydrogenase,B488_RS05890(4),BioC
 B488_RS03105-MONOMER,tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA,B488_RS03105(2),BioCyc
 B488_RS03705-MONOMER,N-acetylmuramoyl-L-alanine amidase,B488_RS03705(),BioCyc
 B488_RS04505-MONOMER,flagellar biosynthesis protein FliQ,B488_RS04505(),BioCyc
-B488_RS00525-MONOMER,beta-ketoacyl-ACP synthase I,B488_RS00525(2),BioCyc
+B488_RS00525-MONOMER,beta-ketoacyl-ACP synthase I,B488_RS00525(),BioCyc
 B488_RS06210-MONOMER,transcriptional repressor,B488_RS06210(),BioCyc
 B488_RS04860-MONOMER,hypothetical protein,B488_RS04860(),BioCyc
 B488_RS01125-MONOMER,16S rRNA (guanine(966)-N(2))-methyltransferase RsmD,B488_RS01125(),BioCyc
-B488_RS02560-MONOMER,Grx4 family monothiol glutaredoxin,B488_RS02560(2),BioCyc
+B488_RS02560-MONOMER,Grx4 family monothiol glutaredoxin,B488_RS02560(),BioCyc
 B488_RS03115-MONOMER,glutamate--tRNA ligase,B488_RS03115(1),BioCyc
 B488_RS06865-MONOMER,hypothetical protein,B488_RS06865(),BioCyc
 B488_RS01610-MONOMER,UDP-glucose 4-epimerase GalE,B488_RS01610(2),BioCyc
@@ -1044,11 +1044,11 @@ B488_RS00205-MONOMER,elongation factor Ts,B488_RS00205(1),BioCyc
 B488_RS05675-MONOMER,DNA translocase FtsK,B488_RS05675(),BioCyc
 B488_RS03120-MONOMER,preprotein translocase subunit YajC,B488_RS03120(),BioCyc
 B488_RS03715-MONOMER,tail fiber domain-containing protein,B488_RS03715(),BioCyc
-B488_RS06060-MONOMER,pyrroline-5-carboxylate reductase,B488_RS06060(10),BioCyc
+B488_RS06060-MONOMER,pyrroline-5-carboxylate reductase,B488_RS06060(),BioCyc
 B488_RS04510-MONOMER,flagellar hook assembly protein FlgD,B488_RS04510(),BioCyc
-B488_RS00530-MONOMER,3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabA,B488_RS00530(2),BioCyc
+B488_RS00530-MONOMER,3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabA,B488_RS00530(),BioCyc
 B488_RS04865-MONOMER,glycosyltransferase,B488_RS04865(),BioCyc
-B488_RS01135-MONOMER,"3'(2'),5'-bisphosphate nucleotidase CysQ",B488_RS01135(1),BioCyc
+B488_RS01135-MONOMER,"3'(2'),5'-bisphosphate nucleotidase CysQ",B488_RS01135(),BioCyc
 B488_RS02570-MONOMER,phosphoribosylformylglycinamidine synthase subunit PurL,B488_RS02570(1),BioCyc
 B488_RS03125-MONOMER,phytoene/squalene synthase family protein,B488_RS03125(),BioCyc
 B488_RS03720-MONOMER,tail fiber domain-containing protein,B488_RS03720(),BioCyc
@@ -1062,7 +1062,7 @@ B488_RS02195-MONOMER,recombinase RecA,B488_RS02195(),BioCyc
 B488_RS02575-MONOMER,hypothetical protein,B488_RS02575(),BioCyc
 B488_RS05380-MONOMER,ubiquinone-binding protein,B488_RS05380(),BioCyc
 B488_RS00210-MONOMER,UMP kinase,B488_RS00210(6),BioCyc
-B488_RS05895-MONOMER,nicotinate-nucleotide adenylyltransferase,B488_RS05895(),BioCyc
+B488_RS05895-MONOMER,nicotinate-nucleotide adenylyltransferase,B488_RS05895(1),BioCyc
 B488_RS05680-MONOMER,hypothetical protein,B488_RS05680(),BioCyc
 B488_RS03130-MONOMER,kinesin-like protein,B488_RS03130(),BioCyc
 B488_RS06315-MONOMER,uracil-DNA glycosylase,B488_RS06315(),BioCyc
@@ -1080,12 +1080,12 @@ B488_RS00545-MONOMER,3-phosphoshikimate 1-carboxyvinyltransferase,B488_RS00545(1
 B488_RS06550-MONOMER,DUF3088 domain-containing protein,B488_RS06550(),BioCyc
 B488_RS01900-MONOMER,glycosyltransferase,B488_RS01900(),BioCyc
 B488_RS05175-MONOMER,phenylalanine--tRNA ligase subunit beta,B488_RS05175(),BioCyc
-B488_RS01150-MONOMER,3-deoxy-D-manno-octulosonic acid transferase,B488_RS01150(1),BioCyc
+B488_RS01150-MONOMER,3-deoxy-D-manno-octulosonic acid transferase,B488_RS01150(),BioCyc
 B488_RS07080-MONOMER,hypothetical protein,B488_RS07080(),BioCyc
 B488_RS02585-MONOMER,phosphoribosylformylglycinamidine synthase subunit PurS,B488_RS02585(),BioCyc
 B488_RS05385-MONOMER,CinA family protein,B488_RS05385(),BioCyc
 B488_RS00220-MONOMER,"di-trans,poly-cis-decaprenylcistransferase",B488_RS00220(2),BioCyc
-B488_RS05685-MONOMER,RluA family pseudouridine synthase,B488_RS05685(1),BioCyc
+B488_RS05685-MONOMER,RluA family pseudouridine synthase,B488_RS05685(),BioCyc
 B488_RS03140-MONOMER,LTA synthase family protein,B488_RS03140(),BioCyc
 B488_RS06320-MONOMER,peptide antibiotic transporter SbmA,B488_RS06320(),BioCyc
 B488_RS03735-MONOMER,hypothetical protein,B488_RS03735(),BioCyc
@@ -1099,7 +1099,7 @@ B488_RS00555-MONOMER,30S ribosomal protein S1,B488_RS00555(1),BioCyc
 B488_RS06590-MONOMER,ATP-dependent protease ATPase subunit HslU,B488_RS06590(),BioCyc
 B488_RS01910-MONOMER,DUF5330 domain-containing protein,B488_RS01910(),BioCyc
 B488_RS05180-MONOMER,phenylalanine--tRNA ligase subunit alpha,B488_RS05180(),BioCyc
-B488_RS01160-MONOMER,tetraacyldisaccharide 4'-kinase,B488_RS01160(1),BioCyc
+B488_RS01160-MONOMER,tetraacyldisaccharide 4'-kinase,B488_RS01160(),BioCyc
 B488_RS07085-MONOMER,potassium-transporting ATPase subunit KdpA,B488_RS07085(),BioCyc
 B488_RS02595-MONOMER,adenylosuccinate lyase,B488_RS02595(1),BioCyc
 B488_RS05390-MONOMER,twin-arginine translocase TatA/TatE family subunit,B488_RS05390(),BioCyc
@@ -1109,7 +1109,7 @@ B488_RS03150-MONOMER,cold-shock protein,B488_RS03150(),BioCyc
 CPLX27KH-7,imidazole glycerol phosphate synthase,B488_RS06615(1) AND B488_RS06605(1),BioCyc
 B488_RS03740-MONOMER,hypothetical protein,B488_RS03740(),BioCyc
 B488_RS04525-MONOMER,flagellar hook-associated family protein,B488_RS04525(),BioCyc
-B488_RS00565-MONOMER,nicotinate phosphoribosyltransferase,B488_RS00565(1),BioCyc
+B488_RS00565-MONOMER,nicotinate phosphoribosyltransferase,B488_RS00565(),BioCyc
 B488_RS06220-MONOMER,fumarylacetoacetate hydrolase family protein,B488_RS06220(),BioCyc
 B488_RS04875-MONOMER,hypothetical protein,B488_RS04875(),BioCyc
 B488_RS01165-MONOMER,DUF2093 domain-containing protein,B488_RS01165(),BioCyc
@@ -1136,17 +1136,17 @@ B488_RS01175-MONOMER,16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))- dimethylt
 B488_RS02610-MONOMER,electron transfer flavoprotein-ubiquinone oxidoreductase,B488_RS02610(),BioCyc
 B488_RS03165-MONOMER,orotate phosphoribosyltransferase,B488_RS03165(),BioCyc
 B488_RS01630-MONOMER,ABC transporter permease,B488_RS01630(),BioCyc
-B488_RS00585-MONOMER,MFS transporter,B488_RS00585(2),BioCyc
+B488_RS00585-MONOMER,MFS transporter,B488_RS00585(),BioCyc
 B488_RS06600-MONOMER,imidazoleglycerol-phosphate dehydratase HisB,B488_RS06600(2),BioCyc
 B488_RS01920-MONOMER,6-phosphogluconolactonase,B488_RS01920(),BioCyc
 B488_RS05190-MONOMER,50S ribosomal protein L35,B488_RS05190(),BioCyc
-B488_RS01180-MONOMER,4-hydroxythreonine-4-phosphate dehydrogenase PdxA,B488_RS01180(2),BioCyc
+B488_RS01180-MONOMER,4-hydroxythreonine-4-phosphate dehydrogenase PdxA,B488_RS01180(),BioCyc
 B488_RS02205-MONOMER,class II fumarate hydratase,B488_RS02205(4),BioCyc
 B488_RS06810-MONOMER,calcium-binding protein,B488_RS06810(),BioCyc
 B488_RS05405-MONOMER,serine--tRNA ligase,B488_RS05405(2),BioCyc
 B488_RS00235-MONOMER,outer membrane protein assembly factor BamA,B488_RS00235(),BioCyc
 B488_RS05905-MONOMER,peptidase domain-containing ABC transporter,B488_RS05905(),BioCyc
-B488_RS03170-MONOMER,dihydroorotase,B488_RS03170(2),BioCyc
+B488_RS03170-MONOMER,dihydroorotase,B488_RS03170(),BioCyc
 B488_RS03750-MONOMER,DUF5309 domain-containing protein,B488_RS03750(),BioCyc
 B488_RS04535-MONOMER,flagellar hook protein FlgE,B488_RS04535(),BioCyc
 B488_RS00590-MONOMER,Bax inhibitor-1/YccA family protein,B488_RS00590(),BioCyc
@@ -1164,8 +1164,8 @@ B488_RS02210-MONOMER,"L,D-transpeptidase family protein",B488_RS02210(),BioCyc
 B488_RS06990-MONOMER,hypothetical protein,B488_RS06990(),BioCyc
 B488_RS05410-MONOMER,protein-L-isoaspartate(D-aspartate) O-methyltransferase,B488_RS05410(),BioCyc
 CPLX27KH-14,DNA-directed RNA polymerase,B488_RS04035() AND B488_RS04040(),BioCyc
-B488_RS00240-MONOMER,UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase,B488_RS00240(1),BioCyc
-B488_RS05700-MONOMER,RNA polymerase sigma factor RpoH,B488_RS05700(1),BioCyc
+B488_RS00240-MONOMER,UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase,B488_RS00240(),BioCyc
+B488_RS05700-MONOMER,RNA polymerase sigma factor RpoH,B488_RS05700(),BioCyc
 B488_RS06870-MONOMER,hypothetical protein,B488_RS06870(),BioCyc
 B488_RS06070-MONOMER,anchored protein,B488_RS06070(),BioCyc
 B488_RS04540-MONOMER,response regulator transcription factor,B488_RS04540(),BioCyc
@@ -1177,10 +1177,10 @@ B488_RS03180-MONOMER,ATP-grasp domain-containing protein,B488_RS03180(),BioCyc
 B488_RS01640-MONOMER,preprotein translocase subunit SecA,B488_RS01640(1),BioCyc
 B488_RS00605-MONOMER,muramoyltetrapeptide carboxypeptidase,B488_RS00605(),BioCyc
 B488_RS06610-MONOMER,1-(5-phosphoribosyl)-5-[(5- phosphoribosylamino)methylideneamino]imidazole-4- carboxamide isomerase,B488_RS06610(1),BioCyc
-B488_RS01930-MONOMER,glutamine synthetase,B488_RS01930(12),BioCyc
+B488_RS01930-MONOMER,glutamine synthetase,B488_RS01930(),BioCyc
 B488_RS05200-MONOMER,elongation factor 4,B488_RS05200(),BioCyc
 B488_RS02215-MONOMER,hypothetical protein,B488_RS02215(),BioCyc
-B488_RS02640-MONOMER,dUTP diphosphatase,B488_RS02640(3),BioCyc
+B488_RS02640-MONOMER,dUTP diphosphatase,B488_RS02640(),BioCyc
 B488_RS06945-MONOMER,M23 family metallopeptidase,B488_RS06945(),BioCyc
 B488_RS00245-MONOMER,3-hydroxyacyl-ACP dehydratase FabZ,B488_RS00245(),BioCyc
 B488_RS05910-MONOMER,HlyD family efflux transporter periplasmic adaptor subunit,B488_RS05910(),BioCyc
@@ -1201,7 +1201,7 @@ B488_RS01205-MONOMER,leucyl aminopeptidase,B488_RS01205(6),BioCyc
 B488_RS02220-MONOMER,hypothetical protein,B488_RS02220(),BioCyc
 B488_RS02650-MONOMER,lytic transglycosylase domain-containing protein,B488_RS02650(1),BioCyc
 B488_RS05420-MONOMER,histidinol-phosphatase,B488_RS05420(),BioCyc
-B488_RS00250-MONOMER,acyl-ACP--UDP-N-acetylglucosamine O-acyltransferase,B488_RS00250(3),BioCyc
+B488_RS00250-MONOMER,acyl-ACP--UDP-N-acetylglucosamine O-acyltransferase,B488_RS00250(),BioCyc
 B488_RS05710-MONOMER,adenylosuccinate synthase,B488_RS05710(2),BioCyc
 B488_RS03195-MONOMER,AAA family ATPase,B488_RS03195(),BioCyc
 B488_RS03770-MONOMER,DNA packaging protein,B488_RS03770(),BioCyc
@@ -1233,7 +1233,7 @@ B488_RS06225-MONOMER,glucose-6-phosphate isomerase,B488_RS06225(2),BioCyc
 B488_RS04910-MONOMER,3-oxoacyl-[acyl-carrier-protein] reductase,B488_RS04910(1),BioCyc
 B488_RS06995-MONOMER,hypothetical protein,B488_RS06995(),BioCyc
 B488_RS03210-MONOMER,hypothetical protein,B488_RS03210(),BioCyc
-B488_RS01655-MONOMER,(deoxy)nucleoside triphosphate pyrophosphohydrolase,B488_RS01655(1),BioCyc
+B488_RS01655-MONOMER,(deoxy)nucleoside triphosphate pyrophosphohydrolase,B488_RS01655(),BioCyc
 B488_RS06625-MONOMER,type I pantothenate kinase,B488_RS06625(2),BioCyc
 B488_RS01945-MONOMER,3-methyl-2-oxobutanoate hydroxymethyltransferase,B488_RS01945(10),BioCyc
 B488_RS06925-MONOMER,hypothetical protein,B488_RS06925(),BioCyc
@@ -1241,7 +1241,7 @@ B488_RS01215-MONOMER,nucleoside-diphosphate kinase,B488_RS01215(4),BioCyc
 B488_RS02230-MONOMER,AI-2E family transporter,B488_RS02230(),BioCyc
 B488_RS02670-MONOMER,4-hydroxy-tetrahydrodipicolinate synthase,B488_RS02670(4),BioCyc
 B488_RS05430-MONOMER,phosphatidylserine decarboxylase,B488_RS05430(),BioCyc
-B488_RS00260-MONOMER,lipid-A-disaccharide synthase,B488_RS00260(2),BioCyc
+B488_RS00260-MONOMER,lipid-A-disaccharide synthase,B488_RS00260(),BioCyc
 B488_RS03220-MONOMER,DNA repair protein RecO,B488_RS03220(),BioCyc
 B488_RS06335-MONOMER,hypothetical protein,B488_RS06335(),BioCyc
 B488_RS03780-MONOMER,hypothetical protein,B488_RS03780(),BioCyc
@@ -1282,14 +1282,14 @@ B488_RS00820-MONOMER,B488_RS00820-MONOMER,B488_RS00820(),Sync
 B488_RS03215-MONOMER,B488_RS03215-MONOMER,B488_RS03215(),Sync
 B488_RS05460-MONOMER,B488_RS05460-MONOMER,B488_RS05460(),Sync
 B488_RS03495-MONOMER,B488_RS03495-MONOMER,B488_RS03495(),Sync
-B488_RS03365-MONOMER,B488_RS03365-MONOMER,B488_RS03365(2),Sync
+B488_RS03365-MONOMER,B488_RS03365-MONOMER,B488_RS03365(1),Sync
 B488_RS05320-MONOMER,B488_RS05320-MONOMER,B488_RS05320(),Sync
 B488_RS03000-MONOMER,B488_RS03000-MONOMER,B488_RS03000(),Sync
-B488_RS04050-MONOMER,B488_RS04050-MONOMER,B488_RS04050(),Sync
+B488_RS04050-MONOMER,B488_RS04050-MONOMER,B488_RS04050(1),Sync
 B488_RS03005-MONOMER,B488_RS03005-MONOMER,B488_RS03005(),Sync
 B488_RS03900-MONOMER,B488_RS03900-MONOMER,B488_RS03900(),Sync
 B488_RS01480-MONOMER,B488_RS01480-MONOMER,B488_RS01480(),Sync
-B488_RS03260-MONOMER,B488_RS03260-MONOMER,B488_RS03260(1),Sync
+B488_RS03260-MONOMER,B488_RS03260-MONOMER,B488_RS03260(),Sync
 B488_RS05075-MONOMER,B488_RS05075-MONOMER,B488_RS05075(),Sync
 B488_RS05085-MONOMER,B488_RS05085-MONOMER,B488_RS05085(),Sync
 B488_RS05370-MONOMER,B488_RS05370-MONOMER,B488_RS05370(),Sync
@@ -1301,15 +1301,15 @@ B488_RS03295-MONOMER,B488_RS03295-MONOMER,B488_RS03295(1),Sync
 B488_RS02865-MONOMER,B488_RS02865-MONOMER,B488_RS02865(),Sync
 B488_RS05400-MONOMER,B488_RS05400-MONOMER,B488_RS05400(),Sync
 B488_RS04270-MONOMER,B488_RS04270-MONOMER,B488_RS04270(),Sync
-B488_RS05665-MONOMER,B488_RS05665-MONOMER,B488_RS05665(2),Sync
+B488_RS05665-MONOMER,B488_RS05665-MONOMER,B488_RS05665(),Sync
 B488_RS07090-MONOMER,B488_RS07090-MONOMER,B488_RS07090(),Sync
 B488_RS03305-MONOMER,B488_RS03305-MONOMER,B488_RS03305(),Sync
 B488_RS06050-MONOMER,B488_RS06050-MONOMER,B488_RS06050(1),Sync
-B488_RS00365-MONOMER,B488_RS00365-MONOMER,B488_RS00365(2),Sync
+B488_RS00365-MONOMER,B488_RS00365-MONOMER,B488_RS00365(),Sync
 B488_RS02435-MONOMER,B488_RS02435-MONOMER,B488_RS02435(),Sync
 B488_RS06235-MONOMER,B488_RS06235-MONOMER,B488_RS06235(),Sync
-B488_RS00375-MONOMER,B488_RS00375-MONOMER,B488_RS00375(4),Sync
-B488_RS03425-MONOMER,B488_RS03425-MONOMER,B488_RS03425(),Sync
+B488_RS00375-MONOMER,B488_RS00375-MONOMER,B488_RS00375(),Sync
+B488_RS03425-MONOMER,B488_RS03425-MONOMER,B488_RS03425(1),Sync
 B488_RS01340-MONOMER,B488_RS01340-MONOMER,B488_RS01340(),Sync
 B488_RS06555-MONOMER,B488_RS06555-MONOMER,B488_RS06555(),Sync
 B488_RS04345-MONOMER,B488_RS04345-MONOMER,B488_RS04345(),Sync
@@ -1321,7 +1321,7 @@ B488_RS03110-MONOMER,B488_RS03110-MONOMER,B488_RS03110(2),Sync
 B488_RS04185-MONOMER,B488_RS04185-MONOMER,B488_RS04185(2),Sync
 B488_RS03820-MONOMER,B488_RS03820-MONOMER,B488_RS03820(),Sync
 B488_RS00475-MONOMER,B488_RS00475-MONOMER,B488_RS00475(),Sync
-B488_RS05215-MONOMER,B488_RS05215-MONOMER,B488_RS05215(4),Sync
+B488_RS05215-MONOMER,B488_RS05215-MONOMER,B488_RS05215(),Sync
 B488_00330-MONOMER,SSU ribosomal protein S15p (S13e),B488_00330(),GenBank
 B488_00340-MONOMER,hypothetical protein,B488_00340(),GenBank
 B488_00660-MONOMER,Glycyl-tRNA synthetase alpha chain,B488_00660(),GenBank
@@ -1339,7 +1339,7 @@ B488_02040-MONOMER,hypothetical protein,B488_02040(),GenBank
 B488_02100-MONOMER,hypothetical protein,B488_02100(),GenBank
 B488_02210-MONOMER,Signal recognition particle GTPase,B488_02210(),GenBank
 B488_02220-MONOMER,hypothetical protein,B488_02220(),GenBank
-B488_02270-MONOMER,Ribosomal large subunit pseudouridine synthase B,B488_02270(),GenBank
+B488_02270-MONOMER,Ribosomal large subunit pseudouridine synthase B,B488_02270(1),GenBank
 B488_02310-MONOMER,hypothetical protein,B488_02310(),GenBank
 B488_02480-MONOMER,hypothetical protein,B488_02480(),GenBank
 B488_02610-MONOMER,NADH-ubiquinone oxidoreductase chain E,B488_02610(),GenBank
@@ -1440,7 +1440,7 @@ B488_08040-MONOMER,hypothetical protein,B488_08040(),GenBank
 B488_08050-MONOMER,hypothetical protein,B488_08050(),GenBank
 B488_08120-MONOMER,hypothetical protein,B488_08120(),GenBank
 B488_08300-MONOMER,Putative ABC Transporter Atp-Binding Protein,B488_08300(),GenBank
-B488_08460-MONOMER,LSU ribosomal protein L10p (P0),B488_08460(1),GenBank
+B488_08460-MONOMER,LSU ribosomal protein L10p (P0),B488_08460(),GenBank
 B488_08560-MONOMER,hypothetical protein,B488_08560(),GenBank
 B488_08610-MONOMER,hypothetical protein,B488_08610(),GenBank
 B488_08620-MONOMER,hypothetical protein,B488_08620(),GenBank
@@ -1498,11 +1498,11 @@ B488_13060-MONOMER,Lipoprotein signal peptidase,B488_13060(),GenBank
 B488_13160-MONOMER,hypothetical protein,B488_13160(),GenBank
 B488_13400-MONOMER,hypothetical protein,B488_13400(),GenBank
 B488_13460-MONOMER,hypothetical protein,B488_13460(),GenBank
-CPLX_ACCOAC-0,Acetyl-CoA carboxylase,B488_RS04355(2) AND B488_RS06690(2) AND B488_RS05525(2) AND B488_RS04360(2),L(ACCOAC)
+CPLX_ACCOAC-0,Acetyl-CoA carboxylase,B488_RS06690() AND B488_RS04355() AND B488_RS05525() AND B488_RS04360(),L(ACCOAC)
 CPLX_ACOATA-0,Acetyl-CoA ACP transacylase,B488_RS04905() AND B488_RS01805(),L(ACOATA)
 CPLX_AIRCr-0,Phosphoribosylaminoimidazole carboxylase,B488_RS04135() AND B488_RS04130(),L(AIRCr)
 CPLX_AKGDH-0,2-Oxogluterate dehydrogenase,B488_RS03585(12) AND B488_RS03575(2) AND B488_RS03580(24),L(AKGDH)
-CPLX_ANS-0,Anthranilate synthase,B488_RS06375(2) AND B488_RS06385(2),L(ANS)
+CPLX_ANS-0,Anthranilate synthase,B488_RS06375() AND B488_RS06385(),L(ANS)
 CPLX_ARGabcpp-0,L-arginine transport via ABC system (periplasm),B488_RS02975() AND B488_RS02955(),L(ARGabcpp)
 CPLX_ARGabcpp-1,L-arginine transport via ABC system (periplasm),B488_RS05120() AND B488_RS02975(),L(ARGabcpp)
 CPLX_ARGabcpp-2,L-arginine transport via ABC system (periplasm),B488_RS02980() AND B488_RS02975() AND B488_RS02955(),L(ARGabcpp)
@@ -1520,7 +1520,7 @@ CPLX_CYSTL-0,Cystathionine b-lyase,B488_RS05620() AND B488_RS00315(),L(CYSTL)
 CPLX_DHDPRy-0,Dihydrodipicolinate reductase (NADPH),B488_RS00720(1) AND B488_RS00725(1),L(DHDPRy)
 CPLX_DHQS-0,3-dehydroquinate synthase,B488_RS02770() AND B488_RS02935() AND B488_RS06655() AND B488_RS01390(),L(DHQS)
 CPLX_EAR100y-0,Enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C10:0),B488_RS01490() AND B488_RS00520(),L(EAR100y)
-CPLX_EAR120y-0,Enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C12:0),B488_RS00470(1) AND B488_RS04990(1) AND B488_RS04995(1) AND B488_RS04980(1) AND B488_RS04985(1),L(EAR120y)
+CPLX_EAR120y-0,Enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C12:0),B488_RS04990() AND B488_RS04985() AND B488_RS00470() AND B488_RS04995() AND B488_RS04980(),L(EAR120y)
 CPLX_EAR121y-0,Enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C12:1),B488_RS04985() AND B488_RS04995() AND B488_RS04980(),L(EAR121y)
 CPLX_ETHSO3abcpp-0,Ethanesulfonate transport via ABC system (periplasm),B488_RS05590() AND B488_RS05125() AND B488_RS02915(),L(ETHSO3abcpp)
 CPLX_FDH-0,Formate dehydrogenase,B488_RS01315() AND B488_RS01310() AND B488_RS01305(),L(FDH)
@@ -1537,7 +1537,7 @@ CPLX_METabcpp-0,L-methionine transport via ABC system (periplasm),B488_RS05130()
 CPLX_NADH16pp-0,NADH dehydrogenase (ubiquinone-8 & 3 protons) (periplasm),B488_RS01285() AND B488_RS01290() AND B488_RS01295() AND B488_RS01300() AND B488_RS01305() AND B488_RS01310() AND B488_RS01315() AND B488_RS01320() AND B488_RS01325() AND B488_RS01330() AND B488_RS01335() AND B488_02680() AND B488_RS01345() AND B488_RS01350(),L(NADH16pp)
 CPLX_PDX5PS-0,Pyridoxine 5'-phosphate synthase,B488_RS00685() AND B488_RS01180(),L(PDX5PS)
 CPLX_SUCD1-0,Succinate dehydrogenase,B488_RS03620() AND B488_RS03615() AND B488_RS03625(),L(SUCD1)
-CPLX_3PEPTabcpp-0,Tripeptide (LalaDgluMdap) transport via ABC system (periplasm),B488_RS01625(1) AND B488_RS01620(1) AND B488_RS01615(2) AND B488_RS01630(1),L(3PEPTabcpp)
+CPLX_3PEPTabcpp-0,Tripeptide (LalaDgluMdap) transport via ABC system (periplasm),B488_RS01615() AND B488_RS01630() AND B488_RS01620() AND B488_RS01615() AND B488_RS01625(),L(3PEPTabcpp)
 CPLX_3PEPTabcpp-1,Tripeptide (LalaDgluMdap) transport via ABC system (periplasm),B488_RS05590() AND B488_RS04240(),L(3PEPTabcpp)
 CPLX_4PEPTabcpp-0,Tetrapeptide (LalaDgluMdapDala) transport via ABC system (periplasm),B488_RS05120() AND B488_RS04240(),L(4PEPTabcpp)
 CPLX_ACOLIPAabctex-0,Arabinose modified core oligosaccharide lipid A transport via ABC system (periplasm to extracellular),B488_RS01195() AND B488_RS01200() AND B488_RS03350() AND B488_RS06325() AND B488_RS06330() AND B488_RS01190() AND B488_RS05670(),L(ACOLIPAabctex)

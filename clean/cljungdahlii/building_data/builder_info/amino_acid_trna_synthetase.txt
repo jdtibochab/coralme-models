@@ -10,12 +10,12 @@ gly_c,CLJU_RS20425-MONOMER
 his__L_c,CLJU_RS16595-MONOMER_mod_mg2(4)
 ile__L_c,CLJU_RS00920-MONOMER_mod_zn2(2)
 leu__L_c,CLJU_RS01345-MONOMER
-lys__L_c,CLJU_RS20435-MONOMER
+lys__L_c,CLJU_RS20435-MONOMER_mod_mg2(6)
 met__L_c,CLJU_RS00840-MONOMER_mod_zn2(2)
 phe__L_c,CPLX271D-6_mod_mg2(1)
 pro__L_c,generic_pro_ligase
 ser__L_c,CLJU_RS00085-MONOMER_mod_mg2(1)
-thr__L_c,CLJU_RS16995-MONOMER_mod_zn2(1)
+thr__L_c,CLJU_RS16995-MONOMER
 trp__L_c,CLJU_RS18860-MONOMER_mod_mg2(1)
 tyr__L_c,generic_tyr_ligase
 val__L_c,CLJU_RS17105-MONOMER_mod_mg2(1)

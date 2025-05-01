@@ -1,5 +1,5 @@
 ,value
-monocistronic,{'enzymes': ['generic_RNase']}
-polycistronic_wout_rRNA,"{'enzymes': ['generic_RNase', 'JCVISYN3A_0418-MONOMER']}"
-rRNA_containing,"{'enzymes': ['generic_RNase', 'JCVISYN3A_0418-MONOMER_mod_mg2(2)']}"
-RNA_degradosome,{'enzymes': ['JCVISYN3A_0213-MONOMER_mod_mg2(4)']}
+monocistronic,"{'enzymes': ['JCVISYN3A_0909-MONOMER', 'generic_RNase']}"
+polycistronic_wout_rRNA,"{'enzymes': ['JCVISYN3A_0909-MONOMER', 'generic_RNase']}"
+rRNA_containing,"{'enzymes': ['JCVISYN3A_0600-MONOMER', 'JCVISYN3A_0418-MONOMER', 'JCVISYN3A_0003-MONOMER']}"
+RNA_degradosome,"{'enzymes': ['JCVISYN3A_0359-MONOMER', 'JCVISYN3A_0220-MONOMER', 'JCVISYN3A_0213-MONOMER']}"

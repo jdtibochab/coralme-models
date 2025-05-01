@@ -1,10 +1,10 @@
 ,value
-sec,"{'enzymes': ['YPO0067-MONOMER', 'YPO0564-MONOMER']}"
-tat,{'enzymes': ['YPO3778-MONOMER']}
-tat_alt,{'enzymes': ['CPLX_dummy']}
-bam,{'enzymes': ['YPO0494-MONOMER']}
-lol,"{'enzymes': ['YPO1377-MONOMER', 'YPO2015-MONOMER']}"
-yidC,{'enzymes': ['YPO4102-MONOMER']}
+bam,{'enzymes': ['CPLX_dummy']}
+lol,{'enzymes': ['CPLX_dummy']}
+sec,"{'enzymes': ['YPO3189-MONOMER', 'YPO0564-MONOMER']}"
 secA,{'enzymes': ['YPO0564-MONOMER']}
+srp,"{'enzymes': ['YPO3814-MONOMER', 'YPO0564-MONOMER']}"
 srp_yidC,{'enzymes': ['YPO4102-MONOMER']}
-srp,{'enzymes': ['CPLX_dummy']}
+tat,{'enzymes': ['YPO3776-MONOMER']}
+tat_alt,{'enzymes': ['CPLX_dummy']}
+yidC,{'enzymes': ['YPO4102-MONOMER']}

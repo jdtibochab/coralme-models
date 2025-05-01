@@ -133,11 +133,11 @@ iscs_c,STM2543-MONOMER_mod_pydx5p(2),,,,REPLACE
 iscu_c,STM2542-MONOMER,,,,REPLACE
 trdrd_c,STM3915-MONOMER,,,,REPLACE
 trdox_c,STM3915-MONOMER_mod_Oxidized(1),,,,REPLACE
+3hcpalm9eACP_c,,,,,CURATE
+3ocpalm9eACP_c,,,,,CURATE
 LI_c,,,,,CURATE
+dsbaox_p,,,,,CURATE
+iscssh_c,,,,,CURATE
 sufbcd_c,,,,,CURATE
 sufse_c,,,,,CURATE
 sufsesh_c,,,,,CURATE
-dsbaox_p,,,,,CURATE
-3hcpalm9eACP_c,,,,,CURATE
-3ocpalm9eACP_c,,,,,CURATE
-iscssh_c,,,,,CURATE

@@ -1,7 +1,7 @@
 ,value
-fes_transfer,"{'enzymes': ['YPO3387-MONOMER', 'YPO2894-MONOMER', 'YPO2404-MONOMER']}"
+fes_transfer,{'enzymes': ['YPO2895-MONOMER']}
 fes_chaperones,{'enzymes': ['CPLX_dummy']}
-generic_2fe2s_transfer_complex,"{'enzymes': ['YPO3387-MONOMER_mod_2fe2s(1)', 'YPO2404-MONOMER_mod_2fe2s(1)', 'YPO2894-MONOMER_mod_2fe2s(1)']}"
-generic_4fe4s_transfer_complex,"{'enzymes': ['YPO3387-MONOMER_mod_4fe4s(1)', 'YPO2404-MONOMER_mod_4fe4s(1)', 'YPO2894-MONOMER_mod_4fe4s(1)']}"
-lipoate_modifications,"{'enzymes': ['YPO2414-MONOMER'], 'stoich': 'lipoamp_c:-1,amp_c:1'}"
-bmocogdp_chaperones,"{'enzymes': ['YPO3322-MONOMER', 'YPO3039-MONOMER']}"
+generic_2fe2s_transfer_complex,{'enzymes': ['YPO2895-MONOMER_mod_2fe2s(1)']}
+generic_4fe4s_transfer_complex,{'enzymes': ['CPLX_dummy']}
+lipoate_modifications,{'enzymes': ['YPO2414-MONOMER']}
+bmocogdp_chaperones,{'enzymes': ['CPLX_dummy']}

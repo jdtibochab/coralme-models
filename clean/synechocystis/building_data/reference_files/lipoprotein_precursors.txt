@@ -1,2 +1,1 @@
 name,gene
-MltA,SGL_RS13395

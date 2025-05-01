@@ -1,2 +1,2 @@
 ,value
-rna_degradosome,"{'enzymes': ['SYNPCC7942_0639-MONOMER_mod_mg2(4)', 'SYNPCC7942_2440-MONOMER']}"
+rna_degradosome,"{'enzymes': ['SYNPCC7942_2440-MONOMER', 'SYNPCC7942_0592-MONOMER', 'SYNPCC7942_0639-MONOMER']}"

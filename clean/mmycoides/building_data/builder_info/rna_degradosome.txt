@@ -1,2 +1,2 @@
 ,value
-rna_degradosome,{'enzymes': ['JCVISYN3A_0213-MONOMER_mod_mg2(4)']}
+rna_degradosome,"{'enzymes': ['JCVISYN3A_0359-MONOMER', 'JCVISYN3A_0220-MONOMER', 'JCVISYN3A_0213-MONOMER']}"

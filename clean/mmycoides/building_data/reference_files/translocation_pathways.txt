@@ -1,9 +1,11 @@
 pathway	enzyme
 bam	CPLX_dummy
 lol	CPLX_dummy
+sec	JCVISYN3A_0412-MONOMER
 sec	JCVISYN3A_0095-MONOMER
 secA	JCVISYN3A_0095-MONOMER
 srp	JCVISYN3A_0429-MONOMER
+srp	JCVISYN3A_0095-MONOMER
 srp_yidC	CPLX_dummy
 tat	CPLX_dummy
 tat_alt	CPLX_dummy

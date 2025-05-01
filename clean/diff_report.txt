@@ -1,0 +1,94 @@
+====================> abaumannii/out.txt
+-~ Troubleshooter added the following sinks: TS_k_c, TS_mg2_c, TS_zn2_c, TS_fe2_c, TS_4fe4s_c.
++~ Troubleshooter added the following sinks: TS_zn2_c, TS_mg2_c, TS_4fe4s_c.
+-  Gapfilled ME-model is feasible with growth rate 0.490030 (M-model: 1.313591).
++  Gapfilled ME-model is feasible with growth rate 0.490338 (M-model: 1.313591).
+====================> bsubtilis/out.txt
+-~ Troubleshooter added the following sinks: TS_cbl1_c, TS_zn2_c, TS_4fe4s_c, TS_fe2_c, TS_pydx5p_c, TS_mn2_c, TS_cobalt2_c, TS_thmpp_c.
++~ Troubleshooter added the following sinks: TS_cbl1_c, TS_4fe4s_c, TS_zn2_c, TS_mn2_c, TS_pydx5p_c, TS_thmpp_c, TS_cobalt2_c.
+-  Gapfilled ME-model is feasible with growth rate 0.091856 (M-model: 0.117966).
++  Gapfilled ME-model is feasible with growth rate 0.088136 (M-model: 0.117966).
+====================> cdifficile/out.txt
+-~ Troubleshooter added the following sinks: TS_cbl1_c, TS_accoa_c, TS_pydx5p_c, TS_pan4p_c, TS_mn2_c, TS_4fe4s_c.
++~ Troubleshooter added the following sinks: TS_cbl1_c, TS_pan4p_c, TS_pydx5p_c, TS_mn2_c, TS_accoa_c, TS_4fe4s_c.
+-  Gapfilled ME-model is feasible with growth rate 1.264830 (M-model: 0.000000).
++  Gapfilled ME-model is feasible with growth rate 1.264741 (M-model: 0.000000).
+====================> cljungdahlii/out.txt
+ ~ Troubleshooter added the following sinks: TS_dpm_c, TS_4fe4s_c.
+-  Gapfilled ME-model is feasible with growth rate 0.229459 (M-model: 0.198481).
++  Gapfilled ME-model is feasible with growth rate 0.229479 (M-model: 0.198481).
+====================> ecoli/out.txt
+-~ Troubleshooter added the following sinks: TS_dpm_c, TS_4fe4s_c.
++~ Troubleshooter added the following sinks: TS_dpm_c.
+-  Gapfilled ME-model is feasible with growth rate 0.753213 (M-model: 0.982372).
++  Gapfilled ME-model is feasible with growth rate 0.932017 (M-model: 0.982372).
+====================> hpylori/out.txt
+-~ Troubleshooter added the following sinks: TS_mn2_c, TS_zn2_c, TS_k_c, TS_mg2_c, TS_pydx5p_c, TS_cobalt2_c, TS_4fe4s_c, TS_thmpp_c, TS_nadh_c, TS_hco3_c, TS_fad_c.
++~ Troubleshooter added the following sinks: TS_mn2_c, TS_k_c, TS_cobalt2_c, TS_pydx5p_c, TS_mg2_c, TS_zn2_c, TS_4fe4s_c, TS_thmpp_c, TS_fmnh2_c.
+-  Gapfilled ME-model is feasible with growth rate 0.095360 (M-model: 0.692813).
++  Gapfilled ME-model is feasible with growth rate 0.565585 (M-model: 0.692813).
+====================> lcremoris/out.txt
+-~ Troubleshooter added the following sinks: TS_mg2_c, TS_k_c, TS_cobalt2_c, TS_pydx5p_c, TS_4fe4s_c.
++~ Troubleshooter added the following sinks: TS_cobalt2_c, TS_pydx5p_c, TS_mg2_c, TS_k_c, TS_4fe4s_c.
+-  Gapfilled ME-model is feasible with growth rate 0.078955 (M-model: 0.103424).
++  Gapfilled ME-model is feasible with growth rate 0.078951 (M-model: 0.103424).
+====================> lcrescens/out.txt
+-~ Troubleshooter added the following sinks: TS_mg2_c, TS_mn2_c, TS_hemed_c, TS_dpm_c, TS_zn2_c, TS_pydx5p_c, TS_hco3_c, TS_k_c.
++~ Troubleshooter added the following sinks: TS_hemed_c, TS_mg2_c, TS_dpm_c, TS_zn2_c, TS_pydx5p_c, TS_pi_c.
+-  Gapfilled ME-model is feasible with growth rate 0.025608 (M-model: 0.011279).
++  Gapfilled ME-model is feasible with growth rate 0.023638 (M-model: 0.011279).
+====================> mmycoides/out.txt
+-~ Troubleshooter added the following sinks: TS_dUTPase_c, TS_lgltn_c, TS_mn2_c, TS_zn2_c, TS_fe2_c, TS_galfur12dgr_c, TS_pi_c, TS_protein_c, TS_ACP_R_c, TS_cdpdag_c, TS_g1p_c, TS_biomass_c.
++~ Troubleshooter added the following sinks: TS_zn2_c, TS_mn2_c, TS_dUTPase_c, TS_pi_c, TS_ACP_R_c, TS_protein_c, TS_biomass_c, TS_pg_c, TS_s7p_c.
+-  Gapfilled ME-model is feasible with growth rate 0.776920 (M-model: 0.369622).
++  Gapfilled ME-model is feasible with growth rate 0.830945 (M-model: 0.369622).
+====================> mtuberculosis/out.txt
+-~ Troubleshooter added the following sinks: TS_zn2_c, TS_cobalt2_c, TS_mn2_c, TS_k_c, TS_4fe4s_c.
++~ Troubleshooter added the following sinks: TS_zn2_c, TS_cobalt2_c, TS_4fe4s_c, TS_k_c, TS_mn2_c.
+-  Gapfilled ME-model is feasible with growth rate 0.050639 (M-model: 0.058174).
++  Gapfilled ME-model is feasible with growth rate 0.050634 (M-model: 0.058174).
+====================> neuropaea/out.txt
+-~ Troubleshooter added the following sinks: TS_dpm_c, TS_4fe4s_c.
++~ Troubleshooter added the following sinks: TS_dpm_c.
+-  Gapfilled ME-model is feasible with growth rate 0.102278 (M-model: 0.100000).
++  Gapfilled ME-model is feasible with growth rate 0.102554 (M-model: 0.100000).
+====================> pputida/out.txt
+-~ Troubleshooter added the following sinks: TS_4fe4s_c.
+-  Gapfilled ME-model is feasible with growth rate 0.440907 (M-model: 0.586118).
++  Gapfilled ME-model is feasible with growth rate 0.541192 (M-model: 0.586118).
+====================> saureus/out.txt
+-~ Troubleshooter added the following sinks: TS_amet_c, TS_gly_asn__L_c.
++~ Troubleshooter added the following sinks: TS_asn__L_c, TS_met__L_c.
+-  Gapfilled ME-model is feasible with growth rate 0.952559 (M-model: 1.360225).
++  Gapfilled ME-model is feasible with growth rate 0.907168 (M-model: 1.360225).
+====================> selongatus/out.txt
+-~ Troubleshooter added the following sinks: TS_cu_c, TS_cbl1_c, TS_cl_c, TS_pheme_c, TS_thmpp_c, TS_nad_c, TS_hco3_c, TS_4fe4s_c, TS_pi_c, TS_nh4_c, TS_mg2_c, TS_k_c, TS_pydx5p_c, TS_nadh_c.
++~ Troubleshooter added the following sinks: TS_dpm_c, TS_hemed_c, TS_fadh2_c, TS_cbl1_c, TS_pi_c, TS_4fe4s_c, TS_nadh_c, TS_pydx5p_c, TS_cl_c, TS_pan4p_c, TS_mn2_c, TS_fmnh2_c, TS_zn2_c, TS_accoa_c, TS_na1_c.
+-  Gapfilled ME-model is feasible with growth rate 0.183349 (M-model: 0.053902).
++  Gapfilled ME-model is feasible with growth rate 0.026584 (M-model: 0.053902).
+====================> senterica/out.txt
++~ Troubleshooter added the following sinks: TS_4fe4s_c, TS_generic_tRNA_GAC_asp__L_c, TS_generic_tRNA_GAG_glu__L_c, TS_generic_tRNA_GAU_asp__L_c, TS_generic_tRNA_GAA_glu__L_c.
++  Gapfilled ME-model is feasible with growth rate 1.876803 (M-model: 0.477834).
+====================> sflexneri/out.txt
+-~ Troubleshooter added the following sinks: TS_dpm_c, TS_4fe4s_c.
++~ Troubleshooter added the following sinks: TS_dpm_c.
+-  Gapfilled ME-model is feasible with growth rate 0.363700 (M-model: 0.857077).
++  Gapfilled ME-model is feasible with growth rate 0.771987 (M-model: 0.857077).
+====================> synechocystis/out.txt
+ ~ Troubleshooter added the following sinks: TS_cbl1_c, TS_4fe4s_c, TS_thmpp_c.
+-  Gapfilled ME-model is feasible with growth rate 0.055425 (M-model: 0.054772).
++  Gapfilled ME-model is feasible with growth rate 0.055360 (M-model: 0.054772).
+====================> tmaritima/out.txt
+-~ Troubleshooter added the following sinks: TS_asn__L_c, TS_fe2_c, TS_mn2_c, TS_cobalt2_c, TS_4fe4s_c, TS_generic_tRNA_AAU_asn__L_c, TS_generic_tRNA_AAC_asn__L_c.
++~ Troubleshooter added the following sinks: TS_mn2_c, TS_cobalt2_c, TS_4fe4s_c, TS_asn__L_c.
+-  Gapfilled ME-model is feasible with growth rate 1.999386 (M-model: 0.228407).
++  Gapfilled ME-model is feasible with growth rate 0.169301 (M-model: 0.228407).
+====================> vcholerae/out.txt
+-~ Troubleshooter added the following sinks: TS_4fe4s_c.
+-  Gapfilled ME-model is feasible with growth rate 0.572376 (M-model: 1.074741).
++  Gapfilled ME-model is feasible with growth rate 0.702974 (M-model: 1.074741).
+====================> ypestis/out.txt
+-~ Troubleshooter added the following sinks: TS_hemed_c, TS_dpm_c, TS_cobalt2_c, TS_zn2_c, TS_4fe4s_c, TS_dhptd_c.
++~ Troubleshooter added the following sinks: TS_4fe4s_c, TS_cobalt2_c, TS_zn2_c, TS_dhptd_c.
+-  Gapfilled ME-model is feasible with growth rate 0.134610 (M-model: 0.283558).
++  Gapfilled ME-model is feasible with growth rate 0.316095 (M-model: 0.283558).
