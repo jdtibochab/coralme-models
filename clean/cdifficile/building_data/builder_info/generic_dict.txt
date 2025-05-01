@@ -11,5 +11,5 @@ generic_5s_rRNAs,"{'enzymes': ['RNA_CD630_r0030', 'RNA_CD630_r0060', 'RNA_CD630_
 generic_fes_transfers_complex,{'enzymes': ['CPLX_dummy']}
 generic_CD630_13110,"{'enzymes': ['G12WB-4398-MONOMER', 'G12WB-4400-MONOMER']}"
 generic_ala_ligase,"{'enzymes': ['G12WB-1416-MONOMER', 'G12WB-2320-MONOMER']}"
-generic_pro_ligase,"{'enzymes': ['G12WB-101-MONOMER', 'G12WB-102-MONOMER']}"
+generic_pro_ligase,"{'enzymes': ['G12WB-102-MONOMER', 'G12WB-101-MONOMER']}"
 generic_ser_ligase,"{'enzymes': ['G12WB-18-MONOMER', 'G12WB-3000-MONOMER']}"

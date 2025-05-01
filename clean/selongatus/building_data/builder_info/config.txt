@@ -1,7 +1,26 @@
 ,value
 ME-Model-ID,selongatus
-growth_key,mu1
+m-model-path,./selongatus//building_data/m_model_modified.json
+genbank-path,./selongatus//building_data/genome_modified.gb
+df_gene_cplxs_mods_rxns,./selongatus/building_data/automated-org-with-refs.xlsx
+df_TranscriptionalUnits,./selongatus//building_data/TUs_from_biocyc.txt
+df_matrix_stoichiometry,
+df_matrix_subrxn_stoich,
+df_metadata_orphan_rxns,
+df_metadata_metabolites,
+log_directory,./selongatus/
+out_directory,./selongatus/
+locus_tag,locus_tag
+run_bbh_blast,False
+blast_threads,23
+dev_reference,True
+add_lipoproteins,True
+estimate_keffs,True
+defer_to_rxn_matrix,"['BIOMASS__1', 'FMETTRS', 'ATPM']"
+percent_dna_data,"[0.0592, 0.0512, 0.033, 0.0252, 0.0222, 0.0208]"
+gr_data_doublings_per_hour,"[0, 0.6, 1.0, 1.5, 2.0, 2.5]"
 complex_cofactors,"{'fes_transfers': ['SYNPCC7942_0909-MONOMER'], 'biotin_subreactions': {'mod_btn_c': ['biotin_ligase']}, 'lipoate_subreactions': {'mod_lipoyl_c': ['lipoyl_denovo', 'lipoyl_scavenging']}, 'fes_chaperones': {}, 'bmocogdp_chaperones': {}, 'FeFe/NiFe': {'mod_FeFe_cofactor_c': '', 'mod_NiFe_cofactor_c': ''}}"
+growth_key,mu1
 lipoprotein_precursors,{'MltA': 'SYNPCC7942_RS02000'}
 lipid_modifications,[]
 unmodeled_protein_fraction,0.36
@@ -10,22 +29,11 @@ flux_of_lipid_constituents,{}
 braun's_lipoprotein,[]
 braun's_lpp_flux,-0.0
 braun's_murein_flux,-0.0
-gr_data_doublings_per_hour,"[0, 0.6, 1.0, 1.5, 2.0, 2.5]"
-percent_dna_data,"[0.0592, 0.0512, 0.033, 0.0252, 0.0222, 0.0208]"
-defer_to_rxn_matrix,"['BIOMASS__1', 'FMETTRS', 'ATPM']"
-m-model-path,./selongatus//building_data/m_model_modified.json
-genbank-path,./selongatus//building_data/genome_modified.gb
 biocyc.genes,./selongatus/inputs/genes.txt
 biocyc.prots,./selongatus/inputs/proteins.txt
 biocyc.TUs,./selongatus/inputs/TUs.txt
 biocyc.RNAs,./selongatus/inputs/RNAs.txt
 biocyc.seqs,./selongatus/inputs/sequences.fasta
-df_gene_cplxs_mods_rxns,./selongatus/building_data/automated-org-with-refs.xlsx
-df_TranscriptionalUnits,./selongatus//building_data/TUs_from_biocyc.txt
-out_directory,./selongatus/
-log_directory,./selongatus/
-run_bbh_blast,False
-dev_reference,True
 include_pseudo_genes,True
 feasibility_mu,0.01
 selenocysteine_enzymes,['CPLX_dummy']

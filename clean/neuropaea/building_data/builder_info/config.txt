@@ -1,7 +1,26 @@
 ,value
 ME-Model-ID,neuropaea
-growth_key,mu1
+m-model-path,./neuropaea//building_data/m_model_modified.json
+genbank-path,./neuropaea//building_data/genome_modified.gb
+df_gene_cplxs_mods_rxns,./neuropaea/building_data/automated-org-with-refs.xlsx
+df_TranscriptionalUnits,./neuropaea//building_data/TUs_from_biocyc.txt
+df_matrix_stoichiometry,
+df_matrix_subrxn_stoich,
+df_metadata_orphan_rxns,
+df_metadata_metabolites,
+log_directory,./neuropaea/
+out_directory,./neuropaea/
+locus_tag,locus_tag
+run_bbh_blast,False
+blast_threads,23
+dev_reference,True
+add_lipoproteins,True
+estimate_keffs,True
+defer_to_rxn_matrix,"['BIOMASS_Ne_iGC535', 'FMETTRS', 'ATPM']"
+percent_dna_data,"[0.0592, 0.0512, 0.033, 0.0252, 0.0222, 0.0208]"
+gr_data_doublings_per_hour,"[0, 0.6, 1.0, 1.5, 2.0, 2.5]"
 complex_cofactors,"{'fes_transfers': ['ALW85_RS07475-MONOMER', 'ALW85_RS07590-MONOMER'], 'biotin_subreactions': {'mod_btn_c': ['biotin_ligase']}, 'lipoate_subreactions': {'mod_lipoyl_c': ['lipoyl_denovo', 'lipoyl_scavenging']}, 'fes_chaperones': {}, 'bmocogdp_chaperones': {}, 'FeFe/NiFe': {'mod_FeFe_cofactor_c': '', 'mod_NiFe_cofactor_c': ''}}"
+growth_key,mu1
 lipoprotein_precursors,"{'AcrE': 'ALW85_RS05780', 'BamB': 'ALW85_RS00795', 'BamD': 'ALW85_RS02675', 'BamE': 'ALW85_RS03230', 'CusC': 'ALW85_RS05770', 'LolB': 'ALW85_RS09530', 'MltA': 'ALW85_RS07895', 'MltB': 'ALW85_RS05385', 'MltC': 'ALW85_RS11630'}"
 lipid_modifications,"['pg120_p', 'pg140_p', 'pg141_p', 'pg160_p', 'pg161_p', 'pg180_p', 'pg181_p']"
 unmodeled_protein_fraction,0.36
@@ -10,22 +29,11 @@ flux_of_lipid_constituents,{}
 braun's_lipoprotein,[]
 braun's_lpp_flux,-0.0
 braun's_murein_flux,-0.0
-gr_data_doublings_per_hour,"[0, 0.6, 1.0, 1.5, 2.0, 2.5]"
-percent_dna_data,"[0.0592, 0.0512, 0.033, 0.0252, 0.0222, 0.0208]"
-defer_to_rxn_matrix,"['BIOMASS_Ne_iGC535', 'FMETTRS', 'ATPM']"
-m-model-path,./neuropaea//building_data/m_model_modified.json
-genbank-path,./neuropaea//building_data/genome_modified.gb
 biocyc.genes,./neuropaea/inputs/genes.txt
 biocyc.prots,./neuropaea/inputs/proteins.txt
 biocyc.TUs,./neuropaea/inputs/TUs.txt
 biocyc.RNAs,./neuropaea/inputs/RNAs.txt
 biocyc.seqs,./neuropaea/inputs/sequences.fasta
-df_gene_cplxs_mods_rxns,./neuropaea/building_data/automated-org-with-refs.xlsx
-df_TranscriptionalUnits,./neuropaea//building_data/TUs_from_biocyc.txt
-out_directory,./neuropaea/
-log_directory,./neuropaea/
-run_bbh_blast,False
-dev_reference,True
 include_pseudo_genes,True
 selenocysteine_enzymes,['CPLX_dummy']
 pg_pe_160,"['ALW85_RS00575-MONOMER', 'ALW85_RS05950-MONOMER']"

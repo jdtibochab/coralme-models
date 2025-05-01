@@ -5417,6 +5417,23 @@
         {
             "msg": "Some metabolites are necessary for growth",
             "triggered_by": [
+                "TS_lys__L_c",
+                "TS_nad_c",
+                "TS_cu2_c",
+                "TS_cd2_c",
+                "TS_mn2_c",
+                "TS_2fe2s_c",
+                "TS_na1_c",
+                "TS_mg2_c",
+                "TS_nadh_c",
+                "TS_hco3_c"
+            ],
+            "importance": "critical",
+            "to_do": "Fix the gaps by adding reactions or solving other warnings. If some items are from the E-matrix, fix these first!"
+        },
+        {
+            "msg": "Some metabolites are necessary for growth",
+            "triggered_by": [
                 "TS_4fe4s_c"
             ],
             "importance": "critical",

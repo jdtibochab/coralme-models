@@ -730,17 +730,15 @@ Manually curate the M-model to correct GPRs or incorporate new reactions.
 ********** Some metabolites are necessary for growth
 The following items triggered the warning:
 TS_protein_c
-TS_ACP_R_c
-TS_cdpdag_c
-TS_g1p_c
 TS_biomass_c
+TS_1ag3p_c
+TS_apoACP_c
+TS_r5p_c
 TS_pi_c
-TS_dUTPase_c
-TS_lgltn_c
-TS_mn2_c
 TS_zn2_c
+TS_dUTPase_c
+TS_mn2_c
 TS_fe2_c
-TS_galfur12dgr_c
 
 **********Solution:
 Fix the gaps by adding reactions or solving other warnings. If some items are from the E-matrix, fix these first!

@@ -1,4 +1,171 @@
 ME-Model-ID: senterica
+m-model-path: ./senterica//building_data/m_model_modified.json
+genbank-path: ./senterica//building_data/genome_modified.gb
+df_gene_cplxs_mods_rxns: ./senterica/building_data/automated-org-with-refs.xlsx
+df_TranscriptionalUnits: ./senterica//building_data/TUs_from_biocyc.txt
+df_matrix_stoichiometry: ''
+df_matrix_subrxn_stoich: ''
+df_metadata_orphan_rxns: ''
+df_metadata_metabolites: ''
+log_directory: ./senterica/
+out_directory: ./senterica/
+locus_tag: locus_tag
+run_bbh_blast: false
+blast_threads: 23
+dev_reference: true
+add_lipoproteins: true
+estimate_keffs: true
+defer_to_rxn_matrix:
+- BIOMASS_iRR1083_metals
+- FMETTRS
+- ATPM
+percent_dna_data:
+- 0.0592
+- 0.0512
+- 0.033
+- 0.0252
+- 0.0222
+- 0.0208
+gr_data_doublings_per_hour:
+- 0
+- 0.6
+- 1.0
+- 1.5
+- 2.0
+- 2.5
+complex_cofactors:
+  fes_transfers:
+  - STM0204-MONOMER
+  - STM1369-MONOMER
+  - STM2541-MONOMER
+  biotin_subreactions:
+    mod_btn_c:
+    - biotin_ligase
+  lipoate_subreactions:
+    mod_lipoyl_c:
+    - lipoyl_denovo
+    - lipoyl_scavenging
+  fes_chaperones: {}
+  bmocogdp_chaperones: {}
+  FeFe/NiFe:
+    mod_FeFe_cofactor_c: ''
+    mod_NiFe_cofactor_c: ''
+growth_key: mu1
+lipoprotein_precursors:
+  AcrA: STM0476
+  AcrE: STM3390
+  BamB: STM2520
+  BamC: STM2488
+  BamD: STM2663
+  BamE: STM2685
+  CusC: STM0350
+  EG10544-MONOMER: STM1377
+  EmtA: STM1799
+  LolB: STM1778
+  MetQ: STM0245
+  MltA: STM2988
+  MltB: STM2831
+  MltC: STM3112
+lipid_modifications:
+- pg160_p
+- pg120_p
+- pg140_p
+- pg141_p
+- pg161_p
+- pg180_p
+- pg181_p
+unmodeled_protein_fraction: 0.36
+flux_of_biomass_constituents: {}
+flux_of_lipid_constituents: {}
+braun's_lipoprotein: []
+braun's_lpp_flux: -0.0
+braun's_murein_flux: -0.0
+biocyc.genes: ./senterica/inputs/genes.txt
+biocyc.prots: ./senterica/inputs/proteins.txt
+biocyc.TUs: ./senterica/inputs/TUs.txt
+biocyc.RNAs: ./senterica/inputs/RNAs.txt
+biocyc.seqs: ./senterica/inputs/sequences.fasta
+include_pseudo_genes: true
+selenocysteine_enzymes:
+- CPLX_dummy
+pg_pe_160:
+- STM3002-MONOMER
+- STM0047-MONOMER
+other_lipids:
+- STM0666-MONOMER
+default_sigma_factor: STM4165-MONOMER
+rna_polymerases:
+  RNAP_STM3320MONOMER:
+    sigma_factor: STM3320-MONOMER
+    polymerase: CPLX1R65-35_mod_zn2(1)_mod_mg2(2)
+  RNAP_STM2924MONOMER:
+    sigma_factor: STM2924-MONOMER
+    polymerase: CPLX1R65-35_mod_zn2(1)_mod_mg2(2)
+  RNAP_STM3211MONOMER:
+    sigma_factor: STM3211-MONOMER
+    polymerase: CPLX1R65-35_mod_zn2(1)_mod_mg2(2)
+  RNAP_STM4165MONOMER:
+    sigma_factor: STM4165-MONOMER
+    polymerase: CPLX1R65-35_mod_zn2(1)_mod_mg2(2)
+  RNAP_STM3568MONOMER:
+    sigma_factor: STM3568-MONOMER
+    polymerase: CPLX1R65-35_mod_zn2(1)_mod_mg2(2)
+  RNAP_STM2640MONOMER:
+    sigma_factor: STM2640-MONOMER
+    polymerase: CPLX1R65-35_mod_zn2(1)_mod_mg2(2)
+  RNAP_STM1956MONOMER:
+    sigma_factor: STM1956-MONOMER
+    polymerase: CPLX1R65-35_mod_zn2(1)_mod_mg2(2)
+ngam: 8.39
+gam: 59.81
+translocation_multipliers:
+  STM3842-MONOMER:
+    STM1889: 2.0
+    STM3864: 2.0
+  STM0632-MONOMER:
+    STM4279: 20.0
+    STM1569: 5.166666666666667
+    STM1570: 5.166666666666667
+    STM2991: 22.0
+    STM1787: 14.0
+    STM1786: 14.0
+    STM3822: 13.5
+    STM4036: 15.5
+    STM0193: 21.0
+    STM4037: 15.5
+    STM1498: 15.0
+    STM3086: 6.25
+    STM1499: 14.0
+    STM3150: 14.0
+    STM3149: 21.0
+    STM3147: 14.0
+    STM2450: 20.0
+    STM0964: 26.0
+    STM0168: 23.0
+    STM2259: 27.0
+    STM2258: 20.0
+  STM3973-MONOMER:
+    STM4279: 20.0
+    STM1569: 5.166666666666667
+    STM1570: 5.166666666666667
+    STM2991: 22.0
+    STM1787: 14.0
+    STM1786: 14.0
+    STM3822: 13.5
+    STM4036: 15.5
+    STM0193: 21.0
+    STM4037: 15.5
+    STM1498: 15.0
+    STM3086: 6.25
+    STM1499: 14.0
+    STM3150: 14.0
+    STM3149: 21.0
+    STM3147: 14.0
+    STM2450: 20.0
+    STM0964: 26.0
+    STM0168: 23.0
+    STM2259: 27.0
+    STM2258: 20.0
 amino_acid_trna_synthetase:
   ala__L_c: STM2827-MONOMER_mod_zn2(4)
   arg__L_c: STM1909-MONOMER_mod_mg2(1)
@@ -20,168 +187,9 @@ amino_acid_trna_synthetase:
   trp__L_c: generic_trp_ligase
   tyr__L_c: STM1449-MONOMER
   val__L_c: STM4475-MONOMER_mod_mg2(1)
-biocyc.RNAs: ./senterica/inputs/RNAs.txt
-biocyc.TUs: ./senterica/inputs/TUs.txt
-biocyc.genes: ./senterica/inputs/genes.txt
-biocyc.prots: ./senterica/inputs/proteins.txt
-biocyc.seqs: ./senterica/inputs/sequences.fasta
-braun's_lipoprotein: []
-braun's_lipoproteins:
-- STM1377-MONOMER
-braun's_lpp_flux: -0.0
-braun's_murein_flux: -0.0
-complex_cofactors:
-  FeFe/NiFe:
-    mod_FeFe_cofactor_c: ''
-    mod_NiFe_cofactor_c: ''
-  biotin_subreactions:
-    mod_btn_c:
-    - biotin_ligase
-  bmocogdp_chaperones: {}
-  fes_chaperones: {}
-  fes_transfers:
-  - STM0204-MONOMER
-  - STM1369-MONOMER
-  - STM2541-MONOMER
-  lipoate_subreactions:
-    mod_lipoyl_c:
-    - lipoyl_denovo
-    - lipoyl_scavenging
-default_sigma_factor: STM4165-MONOMER
-defer_to_rxn_matrix:
-- BIOMASS_iRR1083_metals
-- FMETTRS
-- ATPM
-dev_reference: true
-df_TranscriptionalUnits: ./senterica//building_data/TUs_from_biocyc.txt
-df_gene_cplxs_mods_rxns: ./senterica/building_data/automated-org-with-refs.xlsx
-flux_of_biomass_constituents: {}
-flux_of_lipid_constituents: {}
-gam: 59.81
-genbank-path: ./senterica//building_data/genome_modified.gb
-gr_data_doublings_per_hour:
-- 0
-- 0.6
-- 1.0
-- 1.5
-- 2.0
-- 2.5
-growth_key: mu1
-include_pseudo_genes: true
-lipid_modifications:
-- pg160_p
-- pg120_p
-- pg140_p
-- pg141_p
-- pg161_p
-- pg180_p
-- pg181_p
-lipoprotein_precursors:
-  AcrA: STM0476
-  AcrE: STM3390
-  BamB: STM2520
-  BamC: STM2488
-  BamD: STM2663
-  BamE: STM2685
-  CusC: STM0350
-  EG10544-MONOMER: STM1377
-  EmtA: STM1799
-  LolB: STM1778
-  MetQ: STM0245
-  MltA: STM2988
-  MltB: STM2831
-  MltC: STM3112
-log_directory: ./senterica/
-m-model-path: ./senterica//building_data/m_model_modified.json
-ngam: 8.39
-other_lipids:
-- STM0666-MONOMER
-out_directory: ./senterica/
 peptide_release_factors:
-  UAA: generic_RF
   UAG: STM1776-MONOMER
   UGA: STM3041-MONOMER
-percent_dna_data:
-- 0.0592
-- 0.0512
-- 0.033
-- 0.0252
-- 0.0222
-- 0.0208
-pg_pe_160:
-- STM3002-MONOMER
-- STM0047-MONOMER
-rna_polymerases:
-  RNAP_STM1956MONOMER:
-    polymerase: CPLX1R65-35_mod_zn2(1)_mod_mg2(2)
-    sigma_factor: STM1956-MONOMER
-  RNAP_STM2640MONOMER:
-    polymerase: CPLX1R65-35_mod_zn2(1)_mod_mg2(2)
-    sigma_factor: STM2640-MONOMER
-  RNAP_STM2924MONOMER:
-    polymerase: CPLX1R65-35_mod_zn2(1)_mod_mg2(2)
-    sigma_factor: STM2924-MONOMER
-  RNAP_STM3211MONOMER:
-    polymerase: CPLX1R65-35_mod_zn2(1)_mod_mg2(2)
-    sigma_factor: STM3211-MONOMER
-  RNAP_STM3320MONOMER:
-    polymerase: CPLX1R65-35_mod_zn2(1)_mod_mg2(2)
-    sigma_factor: STM3320-MONOMER
-  RNAP_STM3568MONOMER:
-    polymerase: CPLX1R65-35_mod_zn2(1)_mod_mg2(2)
-    sigma_factor: STM3568-MONOMER
-  RNAP_STM4165MONOMER:
-    polymerase: CPLX1R65-35_mod_zn2(1)_mod_mg2(2)
-    sigma_factor: STM4165-MONOMER
-run_bbh_blast: false
-selenocysteine_enzymes:
-- CPLX_dummy
-translocation_multipliers:
-  STM0632-MONOMER:
-    STM0168: 23.0
-    STM0193: 21.0
-    STM0964: 26.0
-    STM1498: 15.0
-    STM1499: 14.0
-    STM1569: 5.166666666666667
-    STM1570: 5.166666666666667
-    STM1786: 14.0
-    STM1787: 14.0
-    STM2258: 20.0
-    STM2259: 27.0
-    STM2450: 20.0
-    STM2991: 22.0
-    STM3086: 6.25
-    STM3147: 14.0
-    STM3149: 21.0
-    STM3150: 14.0
-    STM3822: 13.5
-    STM4036: 15.5
-    STM4037: 15.5
-    STM4279: 20.0
-  STM3842-MONOMER:
-    STM1889: 2.0
-    STM3864: 2.0
-  STM3973-MONOMER:
-    STM0168: 23.0
-    STM0193: 21.0
-    STM0964: 26.0
-    STM1498: 15.0
-    STM1499: 14.0
-    STM1569: 5.166666666666667
-    STM1570: 5.166666666666667
-    STM1786: 14.0
-    STM1787: 14.0
-    STM2258: 20.0
-    STM2259: 27.0
-    STM2450: 20.0
-    STM2991: 22.0
-    STM3086: 6.25
-    STM3147: 14.0
-    STM3149: 21.0
-    STM3150: 14.0
-    STM3822: 13.5
-    STM4036: 15.5
-    STM4037: 15.5
-    STM4279: 20.0
-unmodeled_protein_fraction: 0.36
+  UAA: generic_RF
+braun's_lipoproteins:
+- STM1377-MONOMER

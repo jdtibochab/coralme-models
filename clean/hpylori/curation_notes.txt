@@ -385,7 +385,7 @@ Check whether the genbank was downloaded or constructed correctly.
 
 
 #################### critical@org.get_rpod ####################
-********** RpoD randomly assigned to HP_RS00445-MONOMER
+********** RpoD randomly assigned to HP_RS05070-MONOMER
 
 **********Solution:
 genome.gb does not have a valid annotation for RpoD. A random identified sigma factor in me_builder.org.sigmas was set as RpoD so that the builder can continue running. Set the correct RpoD by running me_builder.org.rpod = correct_rpod
@@ -654,16 +654,15 @@ Manually curate the M-model to correct GPRs or incorporate new reactions.
 #################### critical@troubleshoot ####################
 ********** Some metabolites are necessary for growth
 The following items triggered the warning:
-TS_4fe4s_c
 TS_thmpp_c
-TS_nadh_c
 TS_hco3_c
-TS_fad_c
-TS_mn2_c
+TS_4fe4s_c
+TS_fadh2_c
 TS_zn2_c
+TS_mn2_c
 TS_k_c
-TS_mg2_c
 TS_pydx5p_c
+TS_mg2_c
 TS_cobalt2_c
 
 **********Solution:

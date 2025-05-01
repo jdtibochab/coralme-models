@@ -10,4 +10,4 @@ generic_23s_rRNAs,"{'enzymes': ['RNA_BSU_rRNA_2', 'RNA_BSU_rRNA_5', 'RNA_BSU_rRN
 generic_5s_rRNAs,"{'enzymes': ['RNA_BSU_rRNA_3', 'RNA_BSU_rRNA_26', 'RNA_BSU_rRNA_8', 'RNA_BSU_rRNA_11', 'RNA_BSU_rRNA_15', 'RNA_BSU_rRNA_24', 'RNA_BSU_rRNA_28', 'RNA_BSU_rRNA_13', 'RNA_BSU_rRNA_18', 'RNA_BSU_rRNA_21']}"
 generic_fes_transfers_complex,{'enzymes': ['BSU32160-MONOMER']}
 generic_thr_ligase,"{'enzymes': ['BSU37560-MONOMER', 'BSU28950-MONOMER']}"
-generic_tyr_ligase,"{'enzymes': ['BSU38460-MONOMER', 'BSU29670-MONOMER']}"
+generic_tyr_ligase,"{'enzymes': ['BSU29670-MONOMER', 'BSU38460-MONOMER']}"

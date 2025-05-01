@@ -1,7 +1,26 @@
 ,value
 ME-Model-ID,senterica
-growth_key,mu1
+m-model-path,./senterica//building_data/m_model_modified.json
+genbank-path,./senterica//building_data/genome_modified.gb
+df_gene_cplxs_mods_rxns,./senterica/building_data/automated-org-with-refs.xlsx
+df_TranscriptionalUnits,./senterica//building_data/TUs_from_biocyc.txt
+df_matrix_stoichiometry,
+df_matrix_subrxn_stoich,
+df_metadata_orphan_rxns,
+df_metadata_metabolites,
+log_directory,./senterica/
+out_directory,./senterica/
+locus_tag,locus_tag
+run_bbh_blast,False
+blast_threads,23
+dev_reference,True
+add_lipoproteins,True
+estimate_keffs,True
+defer_to_rxn_matrix,"['BIOMASS_iRR1083_metals', 'FMETTRS', 'ATPM']"
+percent_dna_data,"[0.0592, 0.0512, 0.033, 0.0252, 0.0222, 0.0208]"
+gr_data_doublings_per_hour,"[0, 0.6, 1.0, 1.5, 2.0, 2.5]"
 complex_cofactors,"{'fes_transfers': ['STM0204-MONOMER', 'STM1369-MONOMER', 'STM2541-MONOMER'], 'biotin_subreactions': {'mod_btn_c': ['biotin_ligase']}, 'lipoate_subreactions': {'mod_lipoyl_c': ['lipoyl_denovo', 'lipoyl_scavenging']}, 'fes_chaperones': {}, 'bmocogdp_chaperones': {}, 'FeFe/NiFe': {'mod_FeFe_cofactor_c': '', 'mod_NiFe_cofactor_c': ''}}"
+growth_key,mu1
 lipoprotein_precursors,"{'AcrA': 'STM0476', 'AcrE': 'STM3390', 'BamB': 'STM2520', 'BamC': 'STM2488', 'BamD': 'STM2663', 'BamE': 'STM2685', 'CusC': 'STM0350', 'EG10544-MONOMER': 'STM1377', 'EmtA': 'STM1799', 'LolB': 'STM1778', 'MetQ': 'STM0245', 'MltA': 'STM2988', 'MltB': 'STM2831', 'MltC': 'STM3112'}"
 lipid_modifications,"['pg160_p', 'pg120_p', 'pg140_p', 'pg141_p', 'pg161_p', 'pg180_p', 'pg181_p']"
 unmodeled_protein_fraction,0.36
@@ -10,22 +29,11 @@ flux_of_lipid_constituents,{}
 braun's_lipoprotein,[]
 braun's_lpp_flux,-0.0
 braun's_murein_flux,-0.0
-gr_data_doublings_per_hour,"[0, 0.6, 1.0, 1.5, 2.0, 2.5]"
-percent_dna_data,"[0.0592, 0.0512, 0.033, 0.0252, 0.0222, 0.0208]"
-defer_to_rxn_matrix,"['BIOMASS_iRR1083_metals', 'FMETTRS', 'ATPM']"
-m-model-path,./senterica//building_data/m_model_modified.json
-genbank-path,./senterica//building_data/genome_modified.gb
 biocyc.genes,./senterica/inputs/genes.txt
 biocyc.prots,./senterica/inputs/proteins.txt
 biocyc.TUs,./senterica/inputs/TUs.txt
 biocyc.RNAs,./senterica/inputs/RNAs.txt
 biocyc.seqs,./senterica/inputs/sequences.fasta
-df_gene_cplxs_mods_rxns,./senterica/building_data/automated-org-with-refs.xlsx
-df_TranscriptionalUnits,./senterica//building_data/TUs_from_biocyc.txt
-out_directory,./senterica/
-log_directory,./senterica/
-run_bbh_blast,False
-dev_reference,True
 include_pseudo_genes,True
 selenocysteine_enzymes,['CPLX_dummy']
 pg_pe_160,"['STM3002-MONOMER', 'STM0047-MONOMER']"

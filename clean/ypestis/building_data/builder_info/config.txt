@@ -1,7 +1,26 @@
 ,value
 ME-Model-ID,ypestis
-growth_key,mu1
+m-model-path,./ypestis//building_data/m_model_modified.json
+genbank-path,./ypestis//building_data/genome_modified.gb
+df_gene_cplxs_mods_rxns,./ypestis/building_data/automated-org-with-refs.xlsx
+df_TranscriptionalUnits,./ypestis//building_data/TUs_from_biocyc.txt
+df_matrix_stoichiometry,
+df_matrix_subrxn_stoich,
+df_metadata_orphan_rxns,
+df_metadata_metabolites,
+log_directory,./ypestis/
+out_directory,./ypestis/
+locus_tag,old_locus_tag
+run_bbh_blast,False
+blast_threads,23
+dev_reference,True
+add_lipoproteins,True
+estimate_keffs,True
+defer_to_rxn_matrix,"['BIOMASS_37C', 'FMETTRS', 'ATPM']"
+percent_dna_data,"[0.0592, 0.0512, 0.033, 0.0252, 0.0222, 0.0208]"
+gr_data_doublings_per_hour,"[0, 0.6, 1.0, 1.5, 2.0, 2.5]"
 complex_cofactors,"{'fes_transfers': ['YPO3387-MONOMER', 'YPO2404-MONOMER', 'YPO2894-MONOMER'], 'biotin_subreactions': {'mod_btn_c': ['biotin_ligase']}, 'lipoate_subreactions': {'mod_lipoyl_c': ['lipoyl_denovo', 'lipoyl_scavenging']}, 'fes_chaperones': {}, 'bmocogdp_chaperones': {}, 'FeFe/NiFe': {'mod_FeFe_cofactor_c': '', 'mod_NiFe_cofactor_c': ''}}"
+growth_key,mu1
 lipoprotein_precursors,"{'AcrA': 'YPO3132', 'BamB': 'YPO2876', 'BamC': 'YPO3061', 'BamD': 'YPO3278', 'BamE': 'YPO1104', 'CusC': 'YPO3481', 'EG10544-MONOMER': 'YPO2394', 'EmtA': 'YPO2438', 'LolB': 'YPO2015', 'MetQ': 'YPO1071', 'MltA': 'YPO1025', 'MltB': 'YPO2957', 'MltC': 'YPO0954'}"
 lipid_modifications,"['pg181_p', 'pg140_p', 'pg120_p', 'pg161_p', 'pg141_p', 'pg180_p', 'pg160_p']"
 unmodeled_protein_fraction,0.36
@@ -10,24 +29,12 @@ flux_of_lipid_constituents,{}
 braun's_lipoprotein,[]
 braun's_lpp_flux,-0.0
 braun's_murein_flux,-0.0
-gr_data_doublings_per_hour,"[0, 0.6, 1.0, 1.5, 2.0, 2.5]"
-percent_dna_data,"[0.0592, 0.0512, 0.033, 0.0252, 0.0222, 0.0208]"
-defer_to_rxn_matrix,"['BIOMASS_37C', 'FMETTRS', 'ATPM']"
-m-model-path,./ypestis//building_data/m_model_modified.json
-genbank-path,./ypestis//building_data/genome_modified.gb
 biocyc.genes,
 biocyc.prots,
 biocyc.TUs,
 biocyc.RNAs,
 biocyc.seqs,
-df_gene_cplxs_mods_rxns,./ypestis/building_data/automated-org-with-refs.xlsx
-df_TranscriptionalUnits,./ypestis//building_data/TUs_from_biocyc.txt
-out_directory,./ypestis/
-log_directory,./ypestis/
-run_bbh_blast,False
-dev_reference,True
 include_pseudo_genes,True
-locus_tag,old_locus_tag
 selenocysteine_enzymes,['CPLX_dummy']
 pg_pe_160,"['YPO0784-MONOMER', 'YPO0476-MONOMER']"
 other_lipids,['YPO2616-MONOMER']

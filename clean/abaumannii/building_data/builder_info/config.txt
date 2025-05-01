@@ -1,7 +1,26 @@
 ,value
 ME-Model-ID,abaumannii
-growth_key,mu1
+m-model-path,./abaumannii//building_data/m_model_modified.json
+genbank-path,./abaumannii//building_data/genome_modified.gb
+df_gene_cplxs_mods_rxns,./abaumannii/building_data/automated-org-with-refs.xlsx
+df_TranscriptionalUnits,./abaumannii//building_data/TUs_from_biocyc.txt
+df_matrix_stoichiometry,
+df_matrix_subrxn_stoich,
+df_metadata_orphan_rxns,
+df_metadata_metabolites,
+log_directory,./abaumannii/
+out_directory,./abaumannii/
+locus_tag,locus_tag
+run_bbh_blast,False
+blast_threads,23
+dev_reference,True
+add_lipoproteins,True
+estimate_keffs,True
+defer_to_rxn_matrix,"['BIOMASS__3', 'FMETTRS', 'ATPM']"
+percent_dna_data,"[0.0592, 0.0512, 0.033, 0.0252, 0.0222, 0.0208]"
+gr_data_doublings_per_hour,"[0, 0.6, 1.0, 1.5, 2.0, 2.5]"
 complex_cofactors,"{'fes_transfers': ['ABAYE_RS00605-MONOMER', 'ABAYE_RS10345-MONOMER'], 'biotin_subreactions': {'mod_btn_c': ['biotin_ligase']}, 'lipoate_subreactions': {'mod_lipoyl_c': ['lipoyl_denovo', 'lipoyl_scavenging']}, 'fes_chaperones': {}, 'bmocogdp_chaperones': {}, 'FeFe/NiFe': {'mod_FeFe_cofactor_c': '', 'mod_NiFe_cofactor_c': ''}}"
+growth_key,mu1
 lipoprotein_precursors,"{'AcrA': 'ABAYE_RS04290', 'BamB': 'ABAYE_RS16225', 'BamD': 'ABAYE_RS14810', 'BamE': 'ABAYE_RS14540', 'CusC': 'ABAYE_RS09405', 'MetQ': 'ABAYE_RS11015', 'MltB': 'ABAYE_RS06250'}"
 lipid_modifications,[]
 unmodeled_protein_fraction,0.36
@@ -11,22 +30,11 @@ trna_misacylation,{}
 braun's_lipoprotein,[]
 braun's_lpp_flux,-0.0
 braun's_murein_flux,-0.0
-gr_data_doublings_per_hour,"[0, 0.6, 1.0, 1.5, 2.0, 2.5]"
-percent_dna_data,"[0.0592, 0.0512, 0.033, 0.0252, 0.0222, 0.0208]"
-defer_to_rxn_matrix,"['BIOMASS__3', 'FMETTRS', 'ATPM']"
-m-model-path,./abaumannii//building_data/m_model_modified.json
-genbank-path,./abaumannii//building_data/genome_modified.gb
 biocyc.genes,./abaumannii/inputs/genes.txt
 biocyc.prots,./abaumannii/inputs/proteins.txt
 biocyc.TUs,./abaumannii/inputs/TUs.txt
 biocyc.RNAs,./abaumannii/inputs/RNAs.txt
 biocyc.seqs,./abaumannii/inputs/sequences.fasta
-df_gene_cplxs_mods_rxns,./abaumannii/building_data/automated-org-with-refs.xlsx
-df_TranscriptionalUnits,./abaumannii//building_data/TUs_from_biocyc.txt
-out_directory,./abaumannii/
-log_directory,./abaumannii/
-run_bbh_blast,False
-dev_reference,True
 include_pseudo_genes,True
 selenocysteine_enzymes,['CPLX_dummy']
 pg_pe_160,"['ABAYE_RS16470-MONOMER', 'ABAYE_RS19100-MONOMER']"
