@@ -10,5 +10,5 @@ generic_RNase	EG11547-MONOMER_mod_mg2(4),G7175-MONOMER_mod_zn2(2),EG10858-MONOME
 generic_Tuf	EG11036-MONOMER,EG11037-MONOMER
 generic_cys_ligase	Ser_RS_dim,CysS_mono
 generic_fes_transfers_complex	EG12332-MONOMER,EG11378-MONOMER,EG12132-MONOMER
-generic_glu_ligase	GltX_mono,GlnS_mono
+generic_glu_ligase	GlnS_mono,GltX_mono
 generic_lys_ligase	LysII_RS_dim,LysI_RS_dim

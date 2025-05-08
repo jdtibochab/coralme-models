@@ -717,9 +717,9 @@ Manually curate the M-model to correct GPRs or incorporate new reactions.
 ********** Some metabolites are necessary for growth
 The following items triggered the warning:
 TS_4fe4s_c
-TS_cobalt2_c
-TS_pydx5p_c
 TS_k_c
+TS_pydx5p_c
+TS_cobalt2_c
 TS_mg2_c
 
 **********Solution:

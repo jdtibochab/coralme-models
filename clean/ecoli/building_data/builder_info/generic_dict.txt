@@ -10,5 +10,5 @@ generic_23s_rRNAs,"{'enzymes': ['RNA_b0204', 'RNA_b2589', 'RNA_b3275', 'RNA_b375
 generic_5s_rRNAs,"{'enzymes': ['RNA_b0205', 'RNA_b2588', 'RNA_b3272', 'RNA_b3274', 'RNA_b3759', 'RNA_b3855', 'RNA_b3971', 'RNA_b4010']}"
 generic_fes_transfers_complex,"{'enzymes': ['EG12332-MONOMER', 'EG11378-MONOMER', 'EG12132-MONOMER']}"
 generic_cys_ligase,"{'enzymes': ['Ser_RS_dim', 'CysS_mono']}"
-generic_glu_ligase,"{'enzymes': ['GltX_mono', 'GlnS_mono']}"
+generic_glu_ligase,"{'enzymes': ['GlnS_mono', 'GltX_mono']}"
 generic_lys_ligase,"{'enzymes': ['LysII_RS_dim', 'LysI_RS_dim']}"

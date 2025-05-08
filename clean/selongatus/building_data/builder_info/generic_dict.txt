@@ -9,5 +9,5 @@ generic_16s_rRNAs,"{'enzymes': ['RNA_SYNPCC7942_RS02985', 'RNA_SYNPCC7942_RS1311
 generic_23s_rRNAs,"{'enzymes': ['RNA_SYNPCC7942_RS03000', 'RNA_SYNPCC7942_RS13095']}"
 generic_5s_rRNAs,"{'enzymes': ['RNA_SYNPCC7942_RS03005', 'RNA_SYNPCC7942_RS13090']}"
 generic_fes_transfers_complex,{'enzymes': ['SYNPCC7942_0909-MONOMER']}
-generic_glu_ligase,"{'enzymes': ['SYNPCC7942_2393-MONOMER', 'SYNPCC7942_0922-MONOMER']}"
-generic_his_ligase,"{'enzymes': ['SYNPCC7942_0813-MONOMER', 'SYNPCC7942_2263-MONOMER']}"
+generic_glu_ligase,"{'enzymes': ['SYNPCC7942_0922-MONOMER', 'SYNPCC7942_2393-MONOMER']}"
+generic_his_ligase,"{'enzymes': ['SYNPCC7942_2263-MONOMER', 'SYNPCC7942_0813-MONOMER']}"

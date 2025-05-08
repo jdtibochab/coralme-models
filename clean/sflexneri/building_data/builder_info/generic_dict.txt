@@ -9,4 +9,4 @@ generic_16s_rRNAs,"{'enzymes': ['RNA_S0194', 'RNA_S2826', 'RNA_S3534', 'RNA_S365
 generic_23s_rRNAs,"{'enzymes': ['RNA_S0197', 'RNA_S2824', 'RNA_S3531', 'RNA_S3654', 'RNA_S3692', 'RNA_S3822', 'RNA_S3926']}"
 generic_5s_rRNAs,"{'enzymes': ['RNA_S0198', 'RNA_S2823', 'RNA_S3528', 'RNA_S3530', 'RNA_S3653', 'RNA_S3691', 'RNA_S3821', 'RNA_S3925']}"
 generic_fes_transfers_complex,"{'enzymes': ['S0151-MONOMER', 'S1846-MONOMER', 'S2747-MONOMER']}"
-generic_lys_ligase,"{'enzymes': ['S4578-MONOMER', 'S3075-MONOMER']}"
+generic_lys_ligase,"{'enzymes': ['S3075-MONOMER', 'S4578-MONOMER']}"

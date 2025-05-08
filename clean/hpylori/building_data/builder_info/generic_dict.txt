@@ -10,4 +10,4 @@ generic_23s_rRNAs,"{'enzymes': ['RNA_HP_r01', 'RNA_HP_r06', 'RNA_HPr01', 'RNA_HP
 generic_5s_rRNAs,"{'enzymes': ['RNA_HP_r02', 'RNA_HP_r05', 'RNA_HPr05', 'RNA_HPr02']}"
 generic_fes_transfers_complex,{'enzymes': ['CPLX_dummy']}
 generic_glu_ligase,"{'enzymes': ['HP_RS02355-MONOMER', 'HP_RS03170-MONOMER']}"
-generic_val_ligase,"{'enzymes': ['HP_RS00085-MONOMER', 'HP_RS05665-MONOMER']}"
+generic_val_ligase,"{'enzymes': ['HP_RS05665-MONOMER', 'HP_RS00085-MONOMER']}"

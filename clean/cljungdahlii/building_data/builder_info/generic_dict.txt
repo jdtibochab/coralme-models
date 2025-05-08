@@ -9,6 +9,6 @@ generic_16s_rRNAs,"{'enzymes': ['RNA_CLJU_c00080', 'RNA_CLJU_c01000', 'RNA_CLJU_
 generic_23s_rRNAs,"{'enzymes': ['RNA_CLJU_c00090', 'RNA_CLJU_c01010', 'RNA_CLJU_c01150', 'RNA_CLJU_c01300', 'RNA_CLJU_c06260', 'RNA_CLJU_c06550', 'RNA_CLJU_c14940', 'RNA_CLJU_c28250', 'RNA_CLJU_c41430']}"
 generic_5s_rRNAs,"{'enzymes': ['RNA_CLJU_c00100', 'RNA_CLJU_c01020', 'RNA_CLJU_c01160', 'RNA_CLJU_c01310', 'RNA_CLJU_c06310', 'RNA_CLJU_c06560', 'RNA_CLJU_c14950', 'RNA_CLJU_c28240', 'RNA_CLJU_c41420']}"
 generic_fes_transfers_complex,{'enzymes': ['CPLX_dummy']}
-generic_cys_ligase,"{'enzymes': ['CLJU_RS10240-MONOMER', 'CLJU_RS20330-MONOMER']}"
-generic_pro_ligase,"{'enzymes': ['CLJU_RS18895-MONOMER', 'CLJU_RS09720-MONOMER']}"
+generic_cys_ligase,"{'enzymes': ['CLJU_RS20330-MONOMER', 'CLJU_RS10240-MONOMER']}"
+generic_pro_ligase,"{'enzymes': ['CLJU_RS09720-MONOMER', 'CLJU_RS18895-MONOMER']}"
 generic_tyr_ligase,"{'enzymes': ['CLJU_RS16910-MONOMER', 'CLJU_RS18820-MONOMER']}"
